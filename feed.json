@@ -1,5 +1,23 @@
 [
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STRUCTURE FIRE - ACTON",
+    "id": "004294-15032024",
+    "latitude": "-35.279959",
+    "longitude": "149.11348",
+    "region": "act",
+    "time_of_call": "15 Mar 2024 08:26:05",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "STRUCTURE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -25,22 +43,6 @@
     "longitude": "149.085827",
     "region": "act",
     "time_of_call": "15 Mar 2024 07:12:46",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FARRER",
-    "id": "015726-15032024",
-    "latitude": "-35.377331",
-    "longitude": "149.104586",
-    "region": "act",
-    "time_of_call": "15 Mar 2024 07:20:39",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
@@ -121,10 +123,10 @@
     "longitude": "149.1195",
     "region": "act",
     "time_of_call": "15 Mar 2024 08:16:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -137,10 +139,42 @@
     "longitude": "149.105209",
     "region": "act",
     "time_of_call": "15 Mar 2024 08:23:02",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GILMORE",
+    "id": "015737-15032024",
+    "latitude": "-35.417683",
+    "longitude": "149.134893",
+    "region": "act",
+    "time_of_call": "15 Mar 2024 08:31:38",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CRACE",
+    "id": "015739-15032024",
+    "latitude": "-35.202196",
+    "longitude": "149.110562",
+    "region": "act",
+    "time_of_call": "15 Mar 2024 08:47:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -336,7 +370,7 @@
     "latitude": "-34.257819436",
     "longitude": "150.805978775",
     "region": "nsw",
-    "time_of_call": "15 Mar 2024 04:26:00",
+    "time_of_call": "15 Mar 2024 08:28:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -348,7 +382,7 @@
     "fire": "Yes",
     "size": "55 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Mar 2024 04:26"
+    "updated": "15 Mar 2024 08:28"
   },
   {
     "title": "Cataract picnic area HR",
@@ -358,7 +392,7 @@
     "latitude": "-34.262944708",
     "longitude": "150.804841519",
     "region": "nsw",
-    "time_of_call": "15 Mar 2024 04:27:00",
+    "time_of_call": "15 Mar 2024 08:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -370,7 +404,7 @@
     "fire": "Yes",
     "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Mar 2024 04:27"
+    "updated": "15 Mar 2024 08:31"
   },
   {
     "title": "Avon Dam Spillway HR (Avon A5)",
@@ -380,7 +414,7 @@
     "latitude": "-34.348529544",
     "longitude": "150.639295578",
     "region": "nsw",
-    "time_of_call": "15 Mar 2024 04:28:00",
+    "time_of_call": "15 Mar 2024 08:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -392,7 +426,7 @@
     "fire": "Yes",
     "size": "10 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Mar 2024 04:28"
+    "updated": "15 Mar 2024 08:35"
   },
   {
     "title": "OAKLANDS RD, LOCHIEL",
@@ -1221,7 +1255,7 @@
     "latitude": "-33.081184387",
     "longitude": "147.474288941",
     "region": "nsw",
-    "time_of_call": "15 Mar 2024 04:54:00",
+    "time_of_call": "15 Mar 2024 08:28:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1233,7 +1267,7 @@
     "fire": "Yes",
     "size": "88 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Mar 2024 04:54"
+    "updated": "15 Mar 2024 08:28"
   },
   {
     "title": "OXLEY HWY, GOOLHI",
@@ -1321,5 +1355,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Mar 2024 08:25"
+  },
+  {
+    "title": "TORRINGTON ST, GLEN INNES",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540345",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.741498947",
+    "longitude": "151.739639282",
+    "region": "nsw",
+    "time_of_call": "15 Mar 2024 08:42:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "TORRINGTON ST, GLEN INNES 2370",
+    "council_area": "Glen Innes Severn",
+    "type": "Planned Event",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Mar 2024 08:42"
+  },
+  {
+    "title": "ANNANGROVE RD, KENTHURST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540346",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6812820439999",
+    "longitude": "150.998397828",
+    "region": "nsw",
+    "time_of_call": "15 Mar 2024 08:40:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "HILLS SWIMMING 42 ANNANGROVE RD, KENTHURST 2156",
+    "council_area": "The Hills",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Mar 2024 08:40"
   }
 ]
