@@ -1,5 +1,23 @@
 [
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STORM OR TREE DAMAGE - MELBA",
+    "id": "004267-14032024",
+    "latitude": "-35.2103881836",
+    "longitude": "149.0482025146",
+    "region": "act",
+    "time_of_call": "14 Mar 2024 14:22:36",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -137,10 +155,10 @@
     "longitude": "149.120049",
     "region": "act",
     "time_of_call": "14 Mar 2024 13:21:00",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "PEDESTRIAN OR PUSHBIKE ACCIDENT",
     "type_description": "",
     "type_icon": ""
@@ -255,6 +273,38 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUME",
+    "id": "015556-14032024",
+    "latitude": "-35.383449",
+    "longitude": "149.170863",
+    "region": "act",
+    "time_of_call": "14 Mar 2024 14:22:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "015557-14032024",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "14 Mar 2024 14:22:33",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -607,7 +657,7 @@
     "latitude": "-30.270279747",
     "longitude": "153.052790164",
     "region": "nsw",
-    "time_of_call": "14 Mar 2024 10:19:00",
+    "time_of_call": "14 Mar 2024 14:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -619,7 +669,7 @@
     "fire": "Yes",
     "size": "52 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "14 Mar 2024 10:19"
+    "updated": "14 Mar 2024 14:21"
   },
   {
     "title": "Upper Werong Creek",
@@ -943,7 +993,7 @@
     "latitude": "-35.619052887",
     "longitude": "149.347244262",
     "region": "nsw",
-    "time_of_call": "13 Mar 2024 16:31:00",
+    "time_of_call": "14 Mar 2024 14:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -955,7 +1005,7 @@
     "fire": "Yes",
     "size": "254 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Mar 2024 16:31"
+    "updated": "14 Mar 2024 14:20"
   },
   {
     "title": "Picnic Area HR",
@@ -1197,7 +1247,7 @@
     "latitude": "-35.010066986",
     "longitude": "150.588180542",
     "region": "nsw",
-    "time_of_call": "13 Mar 2024 19:09:00",
+    "time_of_call": "14 Mar 2024 14:26:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1209,7 +1259,7 @@
     "fire": "Yes",
     "size": "10 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Mar 2024 19:09"
+    "updated": "14 Mar 2024 14:26"
   },
   {
     "title": "Pistol Club HR ",
@@ -1561,12 +1611,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540270",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.700340271",
-    "longitude": "150.290405273",
+    "latitude": "-33.700343",
+    "longitude": "150.290411",
     "region": "nsw",
-    "time_of_call": "14 Mar 2024 14:14:00",
+    "time_of_call": "14 Mar 2024 14:24:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1579,7 +1629,32 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "14 Mar 2024 14:14"
+    "updated": "14 Mar 2024 14:24"
+  },
+  {
+    "title": "JAMES ST, MOORLAND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540271",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.770296096",
+    "longitude": "152.64868164",
+    "region": "nsw",
+    "time_of_call": "14 Mar 2024 14:12:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "JAMES ST, MOORLAND 2443",
+    "council_area": "Mid-Coast",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Mar 2024 14:12"
   },
   {
     "title": "HUME HWY, YASS",
@@ -1602,5 +1677,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Mar 2024 14:12"
+  },
+  {
+    "title": "ROPERS RD, BINNAWAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540273",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.5411071779999",
+    "longitude": "149.436706543",
+    "region": "nsw",
+    "time_of_call": "14 Mar 2024 14:16:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "569 ROPERS RD, BINNAWAY 2395",
+    "council_area": "Warrumbungle",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Mar 2024 14:16"
   }
 ]
