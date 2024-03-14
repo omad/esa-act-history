@@ -80,6 +80,38 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "015717-15032024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "15 Mar 2024 05:37:55",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
+    "id": "015718-15032024",
+    "latitude": "-35.333366",
+    "longitude": "149.146674",
+    "region": "act",
+    "time_of_call": "15 Mar 2024 05:41:09",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Menai Conservation Park ",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_519691",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1110,7 +1142,7 @@
     "latitude": "-31.5411071779999",
     "longitude": "149.436706543",
     "region": "nsw",
-    "time_of_call": "15 Mar 2024 02:43:00",
+    "time_of_call": "15 Mar 2024 05:36:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1125,7 +1157,7 @@
     "fire": "Yes",
     "size": "141 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Mar 2024 02:43"
+    "updated": "15 Mar 2024 05:36"
   },
   {
     "title": "MIDDLE ARM RD, MIDDLE ARM",
@@ -1220,27 +1252,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Mar 2024 21:26"
-  },
-  {
-    "title": "TAYLOR ST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540340",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.731552124",
-    "longitude": "151.729568482",
-    "region": "nsw",
-    "time_of_call": "15 Mar 2024 05:20:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "RFBI GLEN INNES MASONIC VILLAGE TAYLOR ST, GLEN INNES 2370",
-    "council_area": "Glen Innes Severn",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "15 Mar 2024 05:20"
   }
 ]
