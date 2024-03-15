@@ -36,24 +36,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - SYMONSTON",
-    "id": "004319-15032024",
-    "latitude": "-35.3422660828",
-    "longitude": "149.1636199951",
-    "region": "act",
-    "time_of_call": "15 Mar 2024 15:01:38",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -117,22 +99,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLDER",
-    "id": "015788-15032024",
-    "latitude": "-35.337349",
-    "longitude": "149.046336",
-    "region": "act",
-    "time_of_call": "15 Mar 2024 12:46:35",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -257,10 +223,10 @@
     "longitude": "149.111857",
     "region": "act",
     "time_of_call": "15 Mar 2024 16:10:48",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -273,10 +239,10 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "15 Mar 2024 16:17:44",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -289,10 +255,10 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "15 Mar 2024 16:18:22",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -305,10 +271,26 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "15 Mar 2024 16:18:40",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "015829-15032024",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "15 Mar 2024 16:23:16",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -560,28 +542,6 @@
     "updated": "15 Mar 2024 10:09"
   },
   {
-    "title": "Forestry HR Bulga",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_538894",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.6454537939999",
-    "longitude": "152.263941765",
-    "region": "nsw",
-    "time_of_call": "15 Mar 2024 10:36:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "850 PADMANS RD, BULGA FOREST NSW 2429",
-    "council_area": "Mid-Coast",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "41 ha",
-    "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "15 Mar 2024 10:36"
-  },
-  {
     "title": "Lakesland East Stage 1 HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_538908",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -793,7 +753,7 @@
     "latitude": "-31.5787181859999",
     "longitude": "152.799316406",
     "region": "nsw",
-    "time_of_call": "15 Mar 2024 10:37:00",
+    "time_of_call": "15 Mar 2024 16:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -805,7 +765,7 @@
     "fire": "Yes",
     "size": "420 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "15 Mar 2024 10:37"
+    "updated": "15 Mar 2024 16:21"
   },
   {
     "title": "Nowendoc SF Windrow burn 2024",
@@ -1110,8 +1070,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540269",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.032498435",
-    "longitude": "149.803224756",
+    "latitude": "-32.0348628359999",
+    "longitude": "149.808458844",
     "region": "nsw",
     "time_of_call": "15 Mar 2024 08:52:00",
     "event_type": "burnt area",
@@ -1429,9 +1389,9 @@
     "latitude": "-34.728004455",
     "longitude": "147.684158325",
     "region": "nsw",
-    "time_of_call": "15 Mar 2024 15:54:00",
+    "time_of_call": "15 Mar 2024 16:16:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1444,7 +1404,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Mar 2024 15:54"
+    "updated": "15 Mar 2024 16:16"
   },
   {
     "title": "OURA RD, OURA",
@@ -1454,9 +1414,9 @@
     "latitude": "-35.096740723",
     "longitude": "147.556198121",
     "region": "nsw",
-    "time_of_call": "15 Mar 2024 15:58:00",
+    "time_of_call": "15 Mar 2024 16:18:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "OURA RD, OURA 2650",
     "council_area": "Wagga Wagga",
@@ -1466,7 +1426,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Mar 2024 15:58"
+    "updated": "15 Mar 2024 16:18"
   },
   {
     "title": "TAYLORS RD, LOWESDALE",
