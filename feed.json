@@ -93,10 +93,10 @@
     "longitude": "149.031217",
     "region": "act",
     "time_of_call": "16 Mar 2024 07:37:03",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -109,10 +109,26 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "16 Mar 2024 07:45:42",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "015930-16032024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "16 Mar 2024 07:58:38",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -756,7 +772,7 @@
     "updated": "14 Mar 2024 21:26"
   },
   {
-    "title": "TORRINGTON ST, GLEN INNES",
+    "title": "Northern Exercise",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540345",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -956,23 +972,25 @@
     "updated": "16 Mar 2024 07:14"
   },
   {
-    "title": "TERAGALIN DR, CHAIN VALLEY BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540447",
+    "title": "ARCADIA RD, ARCADIA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540448",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.174934387",
-    "longitude": "151.569229126",
+    "latitude": "-33.620376587",
+    "longitude": "151.055969239",
     "region": "nsw",
-    "time_of_call": "16 Mar 2024 07:32:00",
+    "time_of_call": "16 Mar 2024 07:49:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
-    "location": "11 TERAGALIN DR, CHAIN VALLEY BAY 2259",
-    "council_area": "Central Coast",
-    "type": "Assist Other Agency",
+    "location": "ARCADIA RD, ARCADIA 2159",
+    "council_area": "Hornsby",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2024 07:32"
+    "updated": "16 Mar 2024 07:49"
   }
 ]
