@@ -39,22 +39,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
-    "id": "015922-16032024",
-    "latitude": "-35.425091",
-    "longitude": "149.088064",
-    "region": "act",
-    "time_of_call": "16 Mar 2024 07:02:06",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
     "id": "015925-16032024",
     "latitude": "-35.302295",
@@ -125,10 +109,26 @@
     "longitude": "149.135062",
     "region": "act",
     "time_of_call": "16 Mar 2024 08:21:25",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "015933-16032024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "16 Mar 2024 08:38:02",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -233,7 +233,7 @@
     "latitude": "-36.932476043",
     "longitude": "149.852325439",
     "region": "nsw",
-    "time_of_call": "15 Mar 2024 04:32:00",
+    "time_of_call": "16 Mar 2024 08:37:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -245,7 +245,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Mar 2024 04:32"
+    "updated": "16 Mar 2024 08:37"
   },
   {
     "title": "FCNSW WRB Orara East 010",
@@ -569,7 +569,7 @@
     "latitude": "-33.993049621",
     "longitude": "148.196884155",
     "region": "nsw",
-    "time_of_call": "15 Mar 2024 13:36:00",
+    "time_of_call": "16 Mar 2024 08:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -584,7 +584,7 @@
     "fire": "Yes",
     "size": "50 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Mar 2024 13:36"
+    "updated": "16 Mar 2024 08:43"
   },
   {
     "title": "FERGUSSON RD, LAKESLAND",
@@ -937,9 +937,9 @@
     "latitude": "-34.0495834349999",
     "longitude": "150.869903564",
     "region": "nsw",
-    "time_of_call": "16 Mar 2024 07:14:00",
+    "time_of_call": "16 Mar 2024 08:39:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BORONIA RD, KENTLYN 2560",
     "council_area": "Campbelltown",
@@ -947,7 +947,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2024 07:14"
+    "updated": "16 Mar 2024 08:39"
   },
   {
     "title": "ARCADIA RD, ARCADIA",
@@ -1023,9 +1023,9 @@
     "latitude": "-33.6944618219999",
     "longitude": "149.862045288",
     "region": "nsw",
-    "time_of_call": "16 Mar 2024 08:22:00",
+    "time_of_call": "16 Mar 2024 08:40:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "31 ENDEAVOUR ST, OBERON 2787",
     "council_area": "Oberon",
@@ -1034,7 +1034,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
     "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2024 08:22"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "16 Mar 2024 08:40"
   }
 ]
