@@ -153,10 +153,10 @@
     "longitude": "149.143165",
     "region": "act",
     "time_of_call": "17 Mar 2024 04:52:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -185,10 +185,10 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "17 Mar 2024 04:55:45",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -1033,9 +1033,9 @@
     "latitude": "-35.27658844",
     "longitude": "147.115966797",
     "region": "nsw",
-    "time_of_call": "17 Mar 2024 05:03:00",
+    "time_of_call": "17 Mar 2024 05:26:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "9 EMILY ST, THE ROCK 2655",
     "council_area": "Lockhart",
@@ -1045,6 +1045,26 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Mar 2024 05:03"
+    "updated": "17 Mar 2024 05:26"
+  },
+  {
+    "title": "DURHAM ST, CLARENCE TOWN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540537",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.58612442",
+    "longitude": "151.783233642",
+    "region": "nsw",
+    "time_of_call": "17 Mar 2024 05:20:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "52 DURHAM ST, CLARENCE TOWN 2321",
+    "council_area": "Dungog",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Mar 2024 05:20"
   }
 ]
