@@ -1,5 +1,23 @@
 [
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "ANIMAL RESCUE - KINGSTON",
+    "id": "004528-19032024",
+    "latitude": "-35.314422",
+    "longitude": "149.15049899",
+    "region": "act",
+    "time_of_call": "19 Mar 2024 21:46:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "ANIMAL RESCUE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -29,22 +47,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
-    "id": "016701-19032024",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
-    "region": "act",
-    "time_of_call": "19 Mar 2024 18:58:49",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -89,10 +91,10 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "19 Mar 2024 19:26:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -233,10 +235,74 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "19 Mar 2024 21:25:24",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "016732-19032024",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "19 Mar 2024 21:41:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BANKS",
+    "id": "016733-19032024",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
+    "region": "act",
+    "time_of_call": "19 Mar 2024 21:42:25",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLOREY",
+    "id": "016734-19032024",
+    "latitude": "-35.224909",
+    "longitude": "149.053511",
+    "region": "act",
+    "time_of_call": "19 Mar 2024 21:45:52",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "016735-19032024",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "19 Mar 2024 21:47:32",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -686,9 +752,9 @@
     "latitude": "-34.529636383",
     "longitude": "150.772613526",
     "region": "nsw",
-    "time_of_call": "19 Mar 2024 21:14:00",
+    "time_of_call": "19 Mar 2024 21:41:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "164 MARSHALL MOUNT RD, MARSHALL MOUNT 2530",
     "council_area": "Wollongong",
@@ -698,7 +764,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Mar 2024 21:14"
+    "updated": "19 Mar 2024 21:41"
   },
   {
     "title": "BUCCA RD, MOONEE BEACH",
@@ -708,9 +774,9 @@
     "latitude": "-30.18564415",
     "longitude": "153.142623901",
     "region": "nsw",
-    "time_of_call": "19 Mar 2024 21:21:00",
+    "time_of_call": "19 Mar 2024 21:40:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BUCCA RD, MOONEE BEACH 2450",
     "council_area": "Coffs Harbour",
@@ -718,6 +784,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Mar 2024 21:21"
+    "updated": "19 Mar 2024 21:40"
   }
 ]
