@@ -41,10 +41,10 @@
     "longitude": "149.036831",
     "region": "act",
     "time_of_call": "20 Mar 2024 01:20:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -487,26 +487,6 @@
     "updated": "20 Mar 2024 00:13"
   },
   {
-    "title": "LOVEDALE RD, LOVEDALE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540795",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.773506165",
-    "longitude": "151.357070923",
-    "region": "nsw",
-    "time_of_call": "20 Mar 2024 01:14:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "LOVEDALE RD, LOVEDALE 2325",
-    "council_area": "Cessnock",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Mar 2024 01:14"
-  },
-  {
     "title": "ADAMS ST, OURA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540796",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -527,5 +507,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Mar 2024 00:59"
+  },
+  {
+    "title": "MOONA CREEK RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540797",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.075260162",
+    "longitude": "150.656188965",
+    "region": "nsw",
+    "time_of_call": "20 Mar 2024 01:34:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "VINCENTIA MARKETPLACE 8 MOONA CREEK RD, VINCENTIA 2540",
+    "council_area": "Shoalhaven",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Mar 2024 01:34"
   }
 ]
