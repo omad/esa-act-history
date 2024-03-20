@@ -57,10 +57,10 @@
     "longitude": "149.111133",
     "region": "act",
     "time_of_call": "21 Mar 2024 05:38:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -319,7 +319,7 @@
     "latitude": "-36.010467529",
     "longitude": "146.983566284",
     "region": "nsw",
-    "time_of_call": "20 Mar 2024 13:08:00",
+    "time_of_call": "21 Mar 2024 05:49:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -331,7 +331,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "20 Mar 2024 13:08"
+    "updated": "21 Mar 2024 05:49"
   },
   {
     "title": "GUYRA RD, EBOR",
@@ -496,5 +496,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Mar 2024 05:45"
+  },
+  {
+    "title": "EGGINS CL, ARRAWARRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540887",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.044797897",
+    "longitude": "153.191513062",
+    "region": "nsw",
+    "time_of_call": "21 Mar 2024 05:51:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "UNIT 40/210 EGGINS CL, ARRAWARRA 2456",
+    "council_area": "Coffs Harbour",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Mar 2024 05:51"
+  },
+  {
+    "title": "SOLDIERS POINT RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540888",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.7101287839999",
+    "longitude": "152.070419312",
+    "region": "nsw",
+    "time_of_call": "21 Mar 2024 06:06:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "SOLDIERS POINT BOWLING CLUB 118 SOLDIERS POINT RD, SOLDIERS POINT 2317",
+    "council_area": "Port Stephens",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Mar 2024 06:06"
   }
 ]
