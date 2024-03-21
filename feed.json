@@ -9,10 +9,10 @@
     "longitude": "149.10281299",
     "region": "act",
     "time_of_call": "21 Mar 2024 20:42:32",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
@@ -61,10 +61,10 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "21 Mar 2024 19:36:54",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -81,22 +81,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYNEHAM",
-    "id": "017144-21032024",
-    "latitude": "-35.238929",
-    "longitude": "149.124748",
-    "region": "act",
-    "time_of_call": "21 Mar 2024 20:35:27",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -145,6 +129,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "017153-21032024",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "21 Mar 2024 22:01:53",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -538,9 +538,9 @@
     "latitude": "-32.323429107",
     "longitude": "148.743972778",
     "region": "nsw",
-    "time_of_call": "21 Mar 2024 21:26:00",
+    "time_of_call": "21 Mar 2024 22:07:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "118L WELLINGTON RD, WONGARBON 2831",
     "council_area": "Dubbo Regional",
@@ -548,7 +548,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Mar 2024 21:26"
+    "updated": "21 Mar 2024 22:07"
   },
   {
     "title": "GRAHAMS GRAVE RD, CUDGEL",
@@ -577,12 +577,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_540961",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.960380554",
-    "longitude": "151.395629882",
+    "latitude": "-32.9555015559999",
+    "longitude": "151.393035888",
     "region": "nsw",
-    "time_of_call": "21 Mar 2024 21:42:00",
+    "time_of_call": "21 Mar 2024 22:07:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -595,6 +595,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Mar 2024 21:42"
+    "updated": "21 Mar 2024 22:07"
   }
 ]
