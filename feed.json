@@ -233,22 +233,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WARAMANGA",
-    "id": "017327-22032024",
-    "latitude": "-35.353501",
-    "longitude": "149.06067",
-    "region": "act",
-    "time_of_call": "22 Mar 2024 19:20:06",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GORDON",
     "id": "017328-22032024",
     "latitude": "-35.459685",
@@ -259,6 +243,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "017329-22032024",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "22 Mar 2024 19:29:45",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -649,7 +649,7 @@
     "latitude": "-34.447563171",
     "longitude": "148.732162476",
     "region": "nsw",
-    "time_of_call": "22 Mar 2024 14:47:00",
+    "time_of_call": "22 Mar 2024 19:18:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -664,7 +664,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Mar 2024 14:47"
+    "updated": "22 Mar 2024 19:18"
   },
   {
     "title": "BEULAMBIL RD, GALONG",
@@ -674,7 +674,7 @@
     "latitude": "-34.548381806",
     "longitude": "148.618164062",
     "region": "nsw",
-    "time_of_call": "22 Mar 2024 17:37:00",
+    "time_of_call": "22 Mar 2024 19:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -689,7 +689,7 @@
     "fire": "Yes",
     "size": "55 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Mar 2024 17:37"
+    "updated": "22 Mar 2024 19:21"
   },
   {
     "title": "HUME HWY, COOLAC",
@@ -768,7 +768,7 @@
     "latitude": "-34.5947418219999",
     "longitude": "148.022720337",
     "region": "nsw",
-    "time_of_call": "22 Mar 2024 16:14:00",
+    "time_of_call": "22 Mar 2024 19:24:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -783,7 +783,7 @@
     "fire": "Yes",
     "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Mar 2024 16:14"
+    "updated": "22 Mar 2024 19:24"
   },
   {
     "title": "MITCHELL RD, TABLE TOP",
@@ -1005,31 +1005,6 @@
     "updated": "22 Mar 2024 19:05"
   },
   {
-    "title": "Queen St, Campbelltown",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541043",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.062556",
-    "longitude": "150.817344",
-    "region": "nsw",
-    "time_of_call": "22 Mar 2024 19:17:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "65 Queen St, Campbelltown, NSW 2560",
-    "council_area": "Campbelltown",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Mar 2024 19:17"
-  },
-  {
     "title": "MOUNT OUSLEY RD, BALGOWNIE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541044",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1050,5 +1025,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Mar 2024 19:16"
+  },
+  {
+    "title": "CATHCART ST, GOULBURN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541045",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.7595176689999",
+    "longitude": "149.694442749",
+    "region": "nsw",
+    "time_of_call": "22 Mar 2024 19:22:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "78 CATHCART ST, GOULBURN 2580",
+    "council_area": "Goulburn Mulwaree",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Mar 2024 19:22"
   }
 ]
