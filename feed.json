@@ -39,22 +39,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHISHOLM",
-    "id": "017395-23032024",
-    "latitude": "-35.422993",
-    "longitude": "149.12793",
-    "region": "act",
-    "time_of_call": "23 Mar 2024 07:38:20",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - NICHOLLS",
     "id": "017398-23032024",
     "latitude": "-35.186387",
@@ -93,6 +77,22 @@
     "longitude": "149.110562",
     "region": "act",
     "time_of_call": "23 Mar 2024 08:44:02",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GIRALANG",
+    "id": "017402-23032024",
+    "latitude": "-35.210049",
+    "longitude": "149.100175",
+    "region": "act",
+    "time_of_call": "23 Mar 2024 09:15:32",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
@@ -151,7 +151,7 @@
     "latitude": "-37.098729111",
     "longitude": "149.681596755",
     "region": "nsw",
-    "time_of_call": "22 Mar 2024 21:47:00",
+    "time_of_call": "23 Mar 2024 09:07:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -163,7 +163,7 @@
     "fire": "Yes",
     "size": "147 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "22 Mar 2024 21:47"
+    "updated": "23 Mar 2024 09:07"
   },
   {
     "title": "SPRING DR, MULWALA",
@@ -264,7 +264,7 @@
     "latitude": "-37.016397528",
     "longitude": "149.360332489",
     "region": "nsw",
-    "time_of_call": "22 Mar 2024 21:45:00",
+    "time_of_call": "23 Mar 2024 09:04:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -276,7 +276,7 @@
     "fire": "Yes",
     "size": "31 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "22 Mar 2024 21:45"
+    "updated": "23 Mar 2024 09:04"
   },
   {
     "title": "Whispering Pines HR",
@@ -565,8 +565,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541085",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.817939759",
-    "longitude": "148.358108521",
+    "latitude": "-34.826740265",
+    "longitude": "148.317504882",
     "region": "nsw",
     "time_of_call": "23 Mar 2024 06:48:00",
     "event_type": "burnt area",
@@ -610,9 +610,9 @@
     "latitude": "-36.9293289189999",
     "longitude": "149.872970581",
     "region": "nsw",
-    "time_of_call": "23 Mar 2024 08:39:00",
+    "time_of_call": "23 Mar 2024 08:52:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "38 TOALLO ST, PAMBULA 2549",
     "council_area": "Bega Valley",
@@ -622,7 +622,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Mar 2024 08:39"
+    "updated": "23 Mar 2024 08:52"
   },
   {
     "title": "WOY WOY RD, KARIONG",
@@ -643,5 +643,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Mar 2024 08:45"
+  },
+  {
+    "title": "WINDEYER RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541091",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.7949485779999",
+    "longitude": "149.556976318",
+    "region": "nsw",
+    "time_of_call": "23 Mar 2024 09:07:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "BUSHLANDS TOURIST PARK 1879 WINDEYER RD, WINDEYER 2850",
+    "council_area": "Mid-Western",
+    "type": "Planned Event",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Mar 2024 09:07"
   }
 ]
