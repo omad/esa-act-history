@@ -39,22 +39,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GRIFFITH",
-    "id": "017458-23032024",
-    "latitude": "-35.325773",
-    "longitude": "149.133842",
-    "region": "act",
-    "time_of_call": "23 Mar 2024 16:30:22",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HOLT",
     "id": "017460-23032024",
     "latitude": "-35.224201",
@@ -189,10 +173,10 @@
     "longitude": "149.037677",
     "region": "act",
     "time_of_call": "23 Mar 2024 18:15:52",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -225,7 +209,7 @@
     "latitude": "-37.098729111",
     "longitude": "149.681596755",
     "region": "nsw",
-    "time_of_call": "23 Mar 2024 09:07:00",
+    "time_of_call": "23 Mar 2024 18:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -237,7 +221,7 @@
     "fire": "Yes",
     "size": "147 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "23 Mar 2024 09:07"
+    "updated": "23 Mar 2024 18:19"
   },
   {
     "title": "BLACK GULLY RD, WERRIS CREEK",
@@ -291,7 +275,7 @@
     "latitude": "-37.016397528",
     "longitude": "149.360332489",
     "region": "nsw",
-    "time_of_call": "23 Mar 2024 09:04:00",
+    "time_of_call": "23 Mar 2024 18:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -303,7 +287,7 @@
     "fire": "Yes",
     "size": "31 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "23 Mar 2024 09:04"
+    "updated": "23 Mar 2024 18:20"
   },
   {
     "title": "Whispering Pines HR",
@@ -579,26 +563,6 @@
     "updated": "23 Mar 2024 13:11"
   },
   {
-    "title": "PUMPKIN POINT CREEK, CANOELANDS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541114",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.496948242",
-    "longitude": "151.141067505",
-    "region": "nsw",
-    "time_of_call": "23 Mar 2024 17:10:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "1 PUMPKIN POINT CREEK, CANOELANDS 2157",
-    "council_area": "Hornsby",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Mar 2024 17:10"
-  },
-  {
     "title": "CHURCHES PLAIN RD, URANQUINTY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541116",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -681,5 +645,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Mar 2024 16:32"
+  },
+  {
+    "title": "PRINCE CHARLES PDE, KURNELL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541138",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.0085182189999",
+    "longitude": "151.195037842",
+    "region": "nsw",
+    "time_of_call": "23 Mar 2024 18:23:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "310 PRINCE CHARLES PDE, KURNELL 2231",
+    "council_area": "Sutherland",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Mar 2024 18:23"
   }
 ]
