@@ -150,6 +150,38 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "017490-23032024",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "23 Mar 2024 21:43:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "017491-23032024",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "23 Mar 2024 21:45:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Nundle SF Windrow Burn",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_535170",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -351,31 +383,6 @@
     "updated": "23 Mar 2024 18:03"
   },
   {
-    "title": "TUCKA TUCKA RD, BOGGABILLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541056",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.667999268",
-    "longitude": "150.474609375",
-    "region": "nsw",
-    "time_of_call": "22 Mar 2024 23:22:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "3384 TUCKA TUCKA RD, BOGGABILLA 2409",
-    "council_area": "Moree Plains",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Mar 2024 23:22"
-  },
-  {
     "title": "LEONARD ST, HAY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541072",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -383,7 +390,7 @@
     "latitude": "-34.506958008",
     "longitude": "144.849960327",
     "region": "nsw",
-    "time_of_call": "23 Mar 2024 06:37:00",
+    "time_of_call": "23 Mar 2024 21:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -395,7 +402,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 Mar 2024 06:37"
+    "updated": "23 Mar 2024 21:41"
   },
   {
     "title": "HUME HWY, JUGIONG",
@@ -546,5 +553,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Mar 2024 21:15"
+  },
+  {
+    "title": "WISEMANS FERRY RD, MAROOTA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541149",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.460502624",
+    "longitude": "150.994720459",
+    "region": "nsw",
+    "time_of_call": "23 Mar 2024 21:37:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "WISEMANS FERRY RD, MAROOTA 2756",
+    "council_area": "The Hills",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Mar 2024 21:37"
   }
 ]
