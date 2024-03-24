@@ -71,38 +71,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "017751-25032024",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
-    "region": "act",
-    "time_of_call": "25 Mar 2024 08:21:54",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GILMORE",
-    "id": "017752-25032024",
-    "latitude": "-35.417683",
-    "longitude": "149.134893",
-    "region": "act",
-    "time_of_call": "25 Mar 2024 08:22:52",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BELCONNEN",
     "id": "017755-25032024",
     "latitude": "-35.235936",
@@ -301,10 +269,10 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "25 Mar 2024 10:15:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -317,11 +285,29 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "25 Mar 2024 10:19:50",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - HUGHES",
+    "id": "017784-25032024",
+    "latitude": "-35.327314",
+    "longitude": "149.09522",
+    "region": "act",
+    "time_of_call": "25 Mar 2024 10:28:33",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": ""
   },
   {
     "title": "Nundle SF Windrow Burn",
@@ -811,9 +797,9 @@
     "latitude": "-33.930284",
     "longitude": "150.892481",
     "region": "nsw",
-    "time_of_call": "25 Mar 2024 10:12:00",
+    "time_of_call": "25 Mar 2024 10:21:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -826,6 +812,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Mar 2024 10:12"
+    "updated": "25 Mar 2024 10:21"
   }
 ]
