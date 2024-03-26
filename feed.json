@@ -111,10 +111,10 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "27 Mar 2024 07:24:28",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -127,10 +127,26 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "27 Mar 2024 07:26:57",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "018224-27032024",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "27 Mar 2024 07:37:10",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -955,27 +971,5 @@
     "size": "20 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Mar 2024 22:06"
-  },
-  {
-    "title": "PEATS RIDGE RD, SOMERSBY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541493",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.3223533629999",
-    "longitude": "151.275619507",
-    "region": "nsw",
-    "time_of_call": "27 Mar 2024 07:02:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "PEATS RIDGE RD, SOMERSBY 2250",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Mar 2024 07:02"
   }
 ]
