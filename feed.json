@@ -273,6 +273,22 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "27 Mar 2024 09:17:14",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "018246-27032024",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "27 Mar 2024 09:19:46",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
@@ -309,7 +325,7 @@
     "latitude": "-34.3501859639999",
     "longitude": "150.639038086",
     "region": "nsw",
-    "time_of_call": "27 Mar 2024 03:11:00",
+    "time_of_call": "27 Mar 2024 09:24:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -322,7 +338,7 @@
     "size": "4 ha",
     "major_fire_update_as_at_26_mar_2024_2:14pm": "<a href='http://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12052' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Mar 2024 03:11"
+    "updated": "27 Mar 2024 09:24"
   },
   {
     "title": "Rodwell Road ",
@@ -984,28 +1000,6 @@
     "updated": "26 Mar 2024 19:18"
   },
   {
-    "title": "FISH FOSSIL DR, NYRANG CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541444",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.586044312",
-    "longitude": "148.54385376",
-    "region": "nsw",
-    "time_of_call": "26 Mar 2024 18:36:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "295 FISH FOSSIL DR, NYRANG CREEK 2804",
-    "council_area": "Cabonne",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Mar 2024 18:36"
-  },
-  {
     "title": "HOWLONG GOOMBARGANA RD, HOWLONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541448",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1120,5 +1114,25 @@
     "size": "12 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "27 Mar 2024 08:18"
+  },
+  {
+    "title": "THE AVENUE, KARIONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541502",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.43396759",
+    "longitude": "151.296600341",
+    "region": "nsw",
+    "time_of_call": "27 Mar 2024 09:00:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "THE AVENUE, KARIONG 2250",
+    "council_area": "Central Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Mar 2024 09:00"
   }
 ]
