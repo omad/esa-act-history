@@ -137,22 +137,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONASH",
-    "id": "018046-26032024",
-    "latitude": "-35.413962",
-    "longitude": "149.091126",
-    "region": "act",
-    "time_of_call": "26 Mar 2024 11:44:05",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GORDON",
     "id": "018047-26032024",
     "latitude": "-35.459685",
@@ -223,10 +207,10 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "26 Mar 2024 12:31:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -367,10 +351,10 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "26 Mar 2024 13:59:05",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -515,7 +499,7 @@
     "latitude": "-33.6716194159999",
     "longitude": "151.013793946",
     "region": "nsw",
-    "time_of_call": "25 Mar 2024 23:14:00",
+    "time_of_call": "26 Mar 2024 14:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -527,7 +511,7 @@
     "fire": "Yes",
     "size": "22 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Mar 2024 23:14"
+    "updated": "26 Mar 2024 14:19"
   },
   {
     "title": "Nepean East HR",
@@ -900,7 +884,7 @@
     "latitude": "-33.9693768139999",
     "longitude": "150.815740807",
     "region": "nsw",
-    "time_of_call": "26 Mar 2024 09:59:00",
+    "time_of_call": "26 Mar 2024 14:23:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -912,7 +896,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "26 Mar 2024 09:59"
+    "updated": "26 Mar 2024 14:23"
   },
   {
     "title": "KING ST, ROSSMORE",
@@ -1023,28 +1007,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Mar 2024 11:02"
-  },
-  {
-    "title": "WALGETT ST, COLLARENEBRI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541386",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.544940949",
-    "longitude": "148.58140564",
-    "region": "nsw",
-    "time_of_call": "26 Mar 2024 11:49:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "WALGETT ST, COLLARENEBRI 2833",
-    "council_area": "Walgett",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Mar 2024 11:49"
   },
   {
     "title": "WONGA RD, NAROOMA",
@@ -1158,28 +1120,6 @@
     "updated": "26 Mar 2024 14:10"
   },
   {
-    "title": "MANIFOLD RD, NORTH CASINO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541400",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.8204002379999",
-    "longitude": "153.08164978",
-    "region": "nsw",
-    "time_of_call": "26 Mar 2024 13:30:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "MANIFOLD RD, NORTH CASINO 2470",
-    "council_area": "Richmond Valley",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Mar 2024 13:30"
-  },
-  {
     "title": "DELMONTE AV, MEDLOW BATH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541402",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1209,9 +1149,9 @@
     "latitude": "-35.1214256289999",
     "longitude": "147.291244507",
     "region": "nsw",
-    "time_of_call": "26 Mar 2024 13:56:00",
+    "time_of_call": "26 Mar 2024 14:14:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1224,7 +1164,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Mar 2024 13:56"
+    "updated": "26 Mar 2024 14:14"
   },
   {
     "title": "GOOROOMON PONDS RD, WALLAROO",
@@ -1284,9 +1224,9 @@
     "latitude": "-33.077861786",
     "longitude": "151.452682495",
     "region": "nsw",
-    "time_of_call": "26 Mar 2024 14:08:00",
+    "time_of_call": "26 Mar 2024 14:16:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "AVONDALE RETIREMENT VILLAGE 10 CENTRAL RD, COORANBONG 2265",
     "council_area": "Lake Macquarie",
@@ -1296,7 +1236,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Mar 2024 14:08"
+    "updated": "26 Mar 2024 14:16"
   },
   {
     "title": "HUME (NORTHBOUND) HWY, BERRIMA",
@@ -1326,9 +1266,9 @@
     "latitude": "-34.533187867",
     "longitude": "146.401748657",
     "region": "nsw",
-    "time_of_call": "26 Mar 2024 14:12:00",
+    "time_of_call": "26 Mar 2024 14:15:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "270 BORONIA RD, LEETON 2705",
     "council_area": "Leeton",
@@ -1338,6 +1278,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Mar 2024 14:12"
+    "updated": "26 Mar 2024 14:15"
   }
 ]
