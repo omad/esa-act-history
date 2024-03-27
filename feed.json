@@ -108,6 +108,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/LPG-0.svg"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "RUBBISH FIRE - WESTON",
+    "id": "004964-28032024",
+    "latitude": "-35.3453178406",
+    "longitude": "149.0579223633",
+    "region": "act",
+    "time_of_call": "28 Mar 2024 09:21:47",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "RUBBISH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -263,10 +281,10 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "28 Mar 2024 08:40:05",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -299,6 +317,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WEETANGERA",
+    "id": "018477-28032024",
+    "latitude": "-35.249342",
+    "longitude": "149.049485",
+    "region": "act",
+    "time_of_call": "28 Mar 2024 09:22:59",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -531,7 +565,7 @@
     "latitude": "-35.819004059",
     "longitude": "144.912582397",
     "region": "nsw",
-    "time_of_call": "27 Mar 2024 18:52:00",
+    "time_of_call": "28 Mar 2024 09:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -546,7 +580,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "27 Mar 2024 18:52"
+    "updated": "28 Mar 2024 09:19"
   },
   {
     "title": "OLD BARMAH RD, MOAMA",
@@ -625,7 +659,7 @@
     "latitude": "-33.128922624",
     "longitude": "151.52573347",
     "region": "nsw",
-    "time_of_call": "27 Mar 2024 16:06:00",
+    "time_of_call": "28 Mar 2024 09:18:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -637,7 +671,7 @@
     "fire": "Yes",
     "size": "6 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "27 Mar 2024 16:06"
+    "updated": "28 Mar 2024 09:18"
   },
   {
     "title": "Blowering Dam HR #2",
@@ -802,7 +836,7 @@
     "latitude": "-32.11637497",
     "longitude": "149.029205322",
     "region": "nsw",
-    "time_of_call": "27 Mar 2024 12:30:00",
+    "time_of_call": "28 Mar 2024 09:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -814,7 +848,7 @@
     "fire": "Yes",
     "size": "15 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Mar 2024 12:30"
+    "updated": "28 Mar 2024 09:20"
   },
   {
     "title": "KINGS HWY, BUNGENDORE",
@@ -1315,27 +1349,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Mar 2024 08:49"
-  },
-  {
-    "title": "FOREST RD, WYEE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541609",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.169898987",
-    "longitude": "151.475814819",
-    "region": "nsw",
-    "time_of_call": "28 Mar 2024 09:11:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "30 FOREST RD, WYEE 2259",
-    "council_area": "Lake Macquarie",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Mar 2024 09:11"
   }
 ]
