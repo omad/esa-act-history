@@ -126,6 +126,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg"
   },
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - TORRENS",
+    "id": "005009-28032024",
+    "latitude": "-35.365799",
+    "longitude": "149.08806799",
+    "region": "act",
+    "time_of_call": "28 Mar 2024 23:59:08",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -183,10 +201,42 @@
     "longitude": "149.100175",
     "region": "act",
     "time_of_call": "28 Mar 2024 23:41:23",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "018636-29032024",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "29 Mar 2024 00:03:42",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "018637-29032024",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "29 Mar 2024 00:06:24",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -1014,7 +1064,7 @@
     "latitude": "-34.5969581599999",
     "longitude": "148.084579468",
     "region": "nsw",
-    "time_of_call": "28 Mar 2024 23:29:00",
+    "time_of_call": "29 Mar 2024 00:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1026,7 +1076,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Mar 2024 23:29"
+    "updated": "29 Mar 2024 00:13"
   },
   {
     "title": "OURA RD, OURA",
@@ -1049,27 +1099,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Mar 2024 23:42"
-  },
-  {
-    "title": "CHILDE ST, BYRON BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541720",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.633508682",
-    "longitude": "153.5990448",
-    "region": "nsw",
-    "time_of_call": "28 Mar 2024 23:31:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "48 CHILDE ST, BYRON BAY 2481",
-    "council_area": "Byron",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Mar 2024 23:31"
   }
 ]
