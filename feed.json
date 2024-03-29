@@ -104,6 +104,38 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GIRALANG",
+    "id": "018879-30032024",
+    "latitude": "-35.210049",
+    "longitude": "149.100175",
+    "region": "act",
+    "time_of_call": "30 Mar 2024 09:36:01",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
+    "id": "018881-30032024",
+    "latitude": "-35.333366",
+    "longitude": "149.146674",
+    "region": "act",
+    "time_of_call": "30 Mar 2024 09:45:25",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Assist DPI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_526743",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -747,7 +779,7 @@
     "latitude": "-30.4800415039999",
     "longitude": "151.426681518",
     "region": "nsw",
-    "time_of_call": "29 Mar 2024 18:50:00",
+    "time_of_call": "30 Mar 2024 09:29:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -762,7 +794,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Mar 2024 18:50"
+    "updated": "30 Mar 2024 09:29"
   },
   {
     "title": "COOKARDINIA RD, PULLETOP",
@@ -844,7 +876,7 @@
     "latitude": "-29.436695098",
     "longitude": "151.601364136",
     "region": "nsw",
-    "time_of_call": "30 Mar 2024 07:26:00",
+    "time_of_call": "30 Mar 2024 09:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -856,7 +888,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Mar 2024 07:26"
+    "updated": "30 Mar 2024 09:27"
   },
   {
     "title": "TWIN CREEKS DR",
@@ -901,18 +933,18 @@
     "updated": "30 Mar 2024 08:35"
   },
   {
-    "title": "TWELVE MILE CREEK",
+    "title": "TWELVE MILE CREEK RD, TWELVE MILE CREEK NSW",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541859",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.654587778",
-    "longitude": "151.851008177",
+    "latitude": "-32.654586792",
+    "longitude": "151.851013183",
     "region": "nsw",
-    "time_of_call": "30 Mar 2024 09:23:00",
+    "time_of_call": "30 Mar 2024 09:29:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY (A1), TWELVE MILE CREEK 2324",
+    "location": "1 TWELVE MILE CREEK RD, TWELVE MILE CREEK NSW 2324",
     "council_area": "Port Stephens",
     "type": "Burn off",
     "type_description": "",
@@ -920,31 +952,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Mar 2024 09:23"
+    "updated": "30 Mar 2024 09:29"
   },
   {
-    "title": "APPLETREE RD, WEST WALLSEND",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541860",
+    "title": "OLD WALLAGOOT RD, KALARU",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541861",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.9028015129999",
-    "longitude": "151.566604614",
+    "latitude": "-36.734958649",
+    "longitude": "149.937271118",
     "region": "nsw",
-    "time_of_call": "30 Mar 2024 09:00:00",
+    "time_of_call": "30 Mar 2024 09:41:00",
     "event_type": "burnt area",
     "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "LOT 7 APPLETREE RD, WEST WALLSEND 2286",
-    "council_area": "Lake Macquarie",
-    "type": "Bush Fire",
+    "alert_level": "Not Applicable",
+    "location": "OLD WALLAGOOT RD, KALARU 2550",
+    "council_area": "Bega Valley",
+    "type": "Other",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Mar 2024 09:00"
+    "updated": "30 Mar 2024 09:41"
   }
 ]
