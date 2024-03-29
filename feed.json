@@ -39,6 +39,24 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
+    "title": "HAZARD REDUCTION BURN - CANBERRA CENTRAL",
+    "id": "004958-28032024",
+    "latitude": "-35.266582489",
+    "longitude": "149.1023712158",
+    "region": "act",
+    "time_of_call": "28 Mar 2024 08:16:06",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
+    "type": "HAZARD REDUCTION BURN",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
     "title": "HAZARD REDUCTION BURN - TENNENT",
     "id": "004968-28032024",
     "latitude": "-35.535320282",
@@ -52,24 +70,6 @@
     "type": "HAZARD REDUCTION BURN",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "ELECTRICAL THREAT OR POWER LINES DOWN - PAGE",
-    "id": "005066-30032024",
-    "latitude": "-35.2418464",
-    "longitude": "149.04445498",
-    "region": "act",
-    "time_of_call": "30 Mar 2024 06:33:40",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "ELECTRICAL THREAT OR POWER LINES DOWN",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/electrical-threat_0.svg"
   },
   {
     "agency": "Ambulance",
@@ -263,7 +263,7 @@
     "latitude": "-35.310100556",
     "longitude": "148.2086792",
     "region": "nsw",
-    "time_of_call": "29 Mar 2024 00:58:00",
+    "time_of_call": "30 Mar 2024 07:52:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -274,8 +274,8 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
     "fire": "Yes",
     "size": "8 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Mar 2024 00:58"
+    "responsible_agency": "Forestry Corporation of NSW",
+    "updated": "30 Mar 2024 07:52"
   },
   {
     "title": "WALLS CREEK RD, GOOBARRAGANDRA",
@@ -857,5 +857,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Mar 2024 07:26"
+  },
+  {
+    "title": "MULGOA RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541856",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.850513458",
+    "longitude": "150.642593384",
+    "region": "nsw",
+    "time_of_call": "30 Mar 2024 08:08:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "EDMUND RICE RETREAT CONF-CTR 1315 MULGOA RD, MULGOA 2745",
+    "council_area": "Penrith",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Mar 2024 08:08"
   }
 ]
