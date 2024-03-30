@@ -135,10 +135,10 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "30 Mar 2024 15:14:28",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -288,6 +288,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUFFY",
+    "id": "018951-30032024",
+    "latitude": "-35.336273",
+    "longitude": "149.031217",
+    "region": "act",
+    "time_of_call": "30 Mar 2024 17:29:22",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Assist DPI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_526743",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -359,7 +375,7 @@
     "latitude": "-37.098729111",
     "longitude": "149.681596755",
     "region": "nsw",
-    "time_of_call": "30 Mar 2024 10:46:00",
+    "time_of_call": "30 Mar 2024 17:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -371,7 +387,7 @@
     "fire": "Yes",
     "size": "147 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "30 Mar 2024 10:46"
+    "updated": "30 Mar 2024 17:27"
   },
   {
     "title": "Killarney",
@@ -676,7 +692,7 @@
     "latitude": "-37.119263825",
     "longitude": "149.244461059",
     "region": "nsw",
-    "time_of_call": "30 Mar 2024 10:50:00",
+    "time_of_call": "30 Mar 2024 15:49:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -688,7 +704,7 @@
     "fire": "Yes",
     "size": "265 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "30 Mar 2024 10:50"
+    "updated": "30 Mar 2024 15:49"
   },
   {
     "title": "Byron Bluesfest",
@@ -1238,7 +1254,7 @@
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
-    "location": "BRUTONS RD, RALEIGH 2454",
+    "location": "11 BRUTONS RD, RALEIGH 2454",
     "council_area": "Bellingen",
     "type": "Burn off",
     "type_description": "",
@@ -1353,22 +1369,19 @@
     "latitude": "-35.373569489",
     "longitude": "149.361633301",
     "region": "nsw",
-    "time_of_call": "30 Mar 2024 17:07:00",
+    "time_of_call": "30 Mar 2024 17:24:00",
     "event_type": "burnt area",
     "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
+    "alert_level": "Not Applicable",
     "location": "82 MOLONGLO RIVER DR, CARWOOLA 2620",
     "council_area": "Queanbeyan-Palerang",
-    "type": "Bush Fire",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Mar 2024 17:07"
+    "updated": "30 Mar 2024 17:24"
   },
   {
     "title": "BUNDALAH RD, EUCHAREENA",
