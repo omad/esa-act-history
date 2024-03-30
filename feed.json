@@ -149,10 +149,10 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "31 Mar 2024 01:37:18",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -169,6 +169,38 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "019011-31032024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "31 Mar 2024 01:56:28",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "019012-31032024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "31 Mar 2024 02:14:19",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -1205,25 +1237,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "31 Mar 2024 01:17"
-  },
-  {
-    "title": "RICHMOND VALE RD, RICHMOND VALE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_541964",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.854873657",
-    "longitude": "151.523300171",
-    "region": "nsw",
-    "time_of_call": "31 Mar 2024 01:40:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "RICHMOND VALE RD, RICHMOND VALE 2323",
-    "council_area": "Cessnock",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 Mar 2024 01:40"
   }
 ]
