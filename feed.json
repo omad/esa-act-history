@@ -126,6 +126,22 @@
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "019241-01042024",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "01 Apr 2024 06:32:18",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Assist DPI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_526743",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1089,27 +1105,5 @@
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Apr 2024 01:44"
-  },
-  {
-    "title": "MCINTYRES LANE, LARGS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542080",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.717121124",
-    "longitude": "151.590515137",
-    "region": "nsw",
-    "time_of_call": "01 Apr 2024 04:55:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "8 MCINTYRES LANE, LARGS 2320",
-    "council_area": "Maitland",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Apr 2024 04:55"
   }
 ]
