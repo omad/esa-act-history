@@ -167,10 +167,10 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "01 Apr 2024 07:39:38",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -187,6 +187,54 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "019248-01042024",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "01 Apr 2024 08:14:27",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BANKS",
+    "id": "019249-01042024",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
+    "region": "act",
+    "time_of_call": "01 Apr 2024 08:22:03",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "019251-01042024",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "01 Apr 2024 08:25:59",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -905,7 +953,7 @@
     "latitude": "-30.8671741489999",
     "longitude": "150.337707519",
     "region": "nsw",
-    "time_of_call": "01 Apr 2024 05:21:00",
+    "time_of_call": "01 Apr 2024 08:24:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "status_description": "",
@@ -920,7 +968,7 @@
     "fire": "Yes",
     "size": "139 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Apr 2024 05:21"
+    "updated": "1 Apr 2024 08:24"
   },
   {
     "title": "SEAHAM RD, SEAHAM",
@@ -1153,5 +1201,30 @@
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Apr 2024 01:44"
+  },
+  {
+    "title": "SANCTUARY RD, PAXTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542083",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.908039093",
+    "longitude": "151.297348022",
+    "region": "nsw",
+    "time_of_call": "01 Apr 2024 08:13:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "95 SANCTUARY RD, PAXTON 2325",
+    "council_area": "Cessnock",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Apr 2024 08:13"
   }
 ]
