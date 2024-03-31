@@ -144,20 +144,22 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CURTIN",
-    "id": "019139-31032024",
-    "latitude": "-35.326585",
-    "longitude": "149.076856",
+    "title": "HOUSE FIRE - TAYLOR",
+    "id": "005127-31032024",
+    "latitude": "-35.15006548",
+    "longitude": "149.0996100799",
     "region": "act",
-    "time_of_call": "31 Mar 2024 17:39:26",
-    "status": "Finished",
+    "time_of_call": "31 Mar 2024 19:27:05",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg"
   },
   {
     "agency": "Ambulance",
@@ -201,10 +203,10 @@
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "31 Mar 2024 19:02:04",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -217,10 +219,10 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "31 Mar 2024 19:02:39",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -285,6 +287,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "019156-31032024",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "31 Mar 2024 19:26:27",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -1003,7 +1021,7 @@
     "latitude": "-30.8671741489999",
     "longitude": "150.337707519",
     "region": "nsw",
-    "time_of_call": "31 Mar 2024 15:22:00",
+    "time_of_call": "31 Mar 2024 17:47:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "status_description": "",
@@ -1016,9 +1034,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "50 ha",
+    "size": "131 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Mar 2024 15:22"
+    "updated": "31 Mar 2024 17:47"
   },
   {
     "title": "SEAHAM RD, SEAHAM",
@@ -1332,19 +1350,19 @@
     "latitude": "-33.6742515559999",
     "longitude": "150.692703247",
     "region": "nsw",
-    "time_of_call": "31 Mar 2024 19:04:00",
+    "time_of_call": "31 Mar 2024 19:26:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
     "location": "49 JOLLY ST, CASTLEREAGH 2749",
     "council_area": "Penrith",
-    "type": "Other",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Mar 2024 19:04"
+    "updated": "31 Mar 2024 19:26"
   },
   {
     "title": "GLEN EWAN RD, SANCROX",
