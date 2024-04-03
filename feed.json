@@ -72,24 +72,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "RUBBISH FIRE - CAMPBELL",
-    "id": "005266-03042024",
-    "latitude": "-35.29012999",
-    "longitude": "149.144089",
-    "region": "act",
-    "time_of_call": "03 Apr 2024 19:09:42",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "RUBBISH FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg"
-  },
-  {
     "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -99,9 +81,9 @@
     "longitude": "149.13337",
     "region": "act",
     "time_of_call": "03 Apr 2024 20:12:09",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
@@ -121,22 +103,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "019754-03042024",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
-    "region": "act",
-    "time_of_call": "03 Apr 2024 17:40:57",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -791,7 +757,7 @@
     "latitude": "-36.248184204",
     "longitude": "148.893325806",
     "region": "nsw",
-    "time_of_call": "03 Apr 2024 10:16:00",
+    "time_of_call": "03 Apr 2024 20:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -806,7 +772,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Apr 2024 10:16"
+    "updated": "3 Apr 2024 20:22"
   },
   {
     "title": "KELLY RD, MICHELAGO",
@@ -1154,28 +1120,6 @@
     "updated": "3 Apr 2024 19:16"
   },
   {
-    "title": "SHIRE ST, WEST WYALONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542450",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.923797608",
-    "longitude": "147.201766968",
-    "region": "nsw",
-    "time_of_call": "03 Apr 2024 19:13:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "24 SHIRE ST, WEST WYALONG 2671",
-    "council_area": "Bland",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Apr 2024 19:13"
-  },
-  {
     "title": "DEVONSHIRE RD, KEMPS CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542453",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1194,28 +1138,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Apr 2024 19:04"
-  },
-  {
-    "title": "KIDMAN WAY, GRIFFITH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542455",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.309604645",
-    "longitude": "146.044906616",
-    "region": "nsw",
-    "time_of_call": "03 Apr 2024 19:59:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "KIDMAN WAY, GRIFFITH 2680",
-    "council_area": "Griffith",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Apr 2024 19:59"
   },
   {
     "title": "FOUR MILE LANE, LITTLE BILLABONG",
@@ -1241,27 +1163,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Apr 2024 20:00"
-  },
-  {
-    "title": "BUCHANAN RD, EAST MAITLAND",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542457",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.7846832279999",
-    "longitude": "151.555389405",
-    "region": "nsw",
-    "time_of_call": "03 Apr 2024 20:12:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "BUCHANAN RD, EAST MAITLAND 2323",
-    "council_area": "Maitland",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Apr 2024 20:12"
   }
 ]
