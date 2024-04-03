@@ -90,20 +90,22 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HAWKER",
-    "id": "019765-03042024",
-    "latitude": "-35.246757",
-    "longitude": "149.03611",
+    "title": "STORM OR TREE DAMAGE - BELCONNEN",
+    "id": "005274-03042024",
+    "latitude": "-35.2446022034",
+    "longitude": "149.0603485107",
     "region": "act",
-    "time_of_call": "03 Apr 2024 18:43:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
+    "time_of_call": "03 Apr 2024 22:31:05",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg"
   },
   {
     "agency": "Ambulance",
@@ -259,10 +261,10 @@
     "longitude": "149.146868",
     "region": "act",
     "time_of_call": "03 Apr 2024 22:20:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -275,10 +277,10 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "03 Apr 2024 22:24:40",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -908,7 +910,7 @@
     "latitude": "-33.6316299439999",
     "longitude": "150.274047851",
     "region": "nsw",
-    "time_of_call": "03 Apr 2024 15:51:00",
+    "time_of_call": "03 Apr 2024 22:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -923,7 +925,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Apr 2024 15:51"
+    "updated": "3 Apr 2024 22:30"
   },
   {
     "title": "BULL PLAIN RD, MULWALA",
@@ -1112,5 +1114,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Apr 2024 20:00"
+  },
+  {
+    "title": "NULLAMANNA RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542459",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.633907318",
+    "longitude": "151.222900391",
+    "region": "nsw",
+    "time_of_call": "03 Apr 2024 22:42:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "NULLAMANNA STATION 1633 NULLAMANNA RD, NULLAMANNA 2360",
+    "council_area": "Inverell",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Apr 2024 22:42"
   }
 ]
