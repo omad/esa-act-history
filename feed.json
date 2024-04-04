@@ -79,26 +79,10 @@
     "longitude": "149.142366",
     "region": "act",
     "time_of_call": "04 Apr 2024 19:49:19",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - STRATHNAIRN",
-    "id": "020035-04042024",
-    "latitude": "-35.237286",
-    "longitude": "148.98074",
-    "region": "act",
-    "time_of_call": "04 Apr 2024 21:08:49",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -145,10 +129,26 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "05 Apr 2024 00:24:43",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
+    "id": "020067-05042024",
+    "latitude": "-35.333366",
+    "longitude": "149.146674",
+    "region": "act",
+    "time_of_call": "05 Apr 2024 00:42:12",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -203,7 +203,7 @@
     "latitude": "-28.33643341",
     "longitude": "153.41947937",
     "region": "nsw",
-    "time_of_call": "04 Apr 2024 03:09:00",
+    "time_of_call": "05 Apr 2024 01:04:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -213,7 +213,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Apr 2024 03:09"
+    "updated": "5 Apr 2024 01:04"
   },
   {
     "title": "Rodwell Road ",
@@ -267,7 +267,7 @@
     "latitude": "-35.346687317",
     "longitude": "148.38998413",
     "region": "nsw",
-    "time_of_call": "04 Apr 2024 03:15:00",
+    "time_of_call": "05 Apr 2024 01:06:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -282,7 +282,7 @@
     "fire": "Yes",
     "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Apr 2024 03:15"
+    "updated": "5 Apr 2024 01:06"
   },
   {
     "title": "Freitags",
@@ -402,7 +402,7 @@
     "latitude": "-34.378715515",
     "longitude": "147.544631958",
     "region": "nsw",
-    "time_of_call": "04 Apr 2024 03:13:00",
+    "time_of_call": "05 Apr 2024 01:04:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -417,7 +417,7 @@
     "fire": "Yes",
     "size": "73 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Apr 2024 03:13"
+    "updated": "5 Apr 2024 01:04"
   },
   {
     "title": "HALTON CL, HOWES VALLEY",
@@ -499,7 +499,7 @@
     "latitude": "-34.1180076599999",
     "longitude": "150.757339478",
     "region": "nsw",
-    "time_of_call": "03 Apr 2024 17:50:00",
+    "time_of_call": "05 Apr 2024 01:03:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -511,7 +511,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Apr 2024 17:50"
+    "updated": "5 Apr 2024 01:03"
   },
   {
     "title": "Red Hill Road HR",
@@ -637,7 +637,7 @@
     "latitude": "-35.8772964469999",
     "longitude": "145.894653321",
     "region": "nsw",
-    "time_of_call": "04 Apr 2024 11:40:00",
+    "time_of_call": "05 Apr 2024 01:11:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -649,29 +649,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Apr 2024 11:40"
-  },
-  {
-    "title": "NEW ENGLAND HWY, WINGEN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542497",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.903966903",
-    "longitude": "150.879333496",
-    "region": "nsw",
-    "time_of_call": "04 Apr 2024 22:09:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "NEW ENGLAND HWY, WINGEN 2337",
-    "council_area": "Upper Hunter",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Apr 2024 22:09"
+    "updated": "5 Apr 2024 01:11"
   },
   {
     "title": "LOCKHART RD, WALBUNDRIE",
@@ -769,7 +747,7 @@
     "latitude": "-33.7774581909999",
     "longitude": "147.233398437",
     "region": "nsw",
-    "time_of_call": "04 Apr 2024 15:51:00",
+    "time_of_call": "05 Apr 2024 01:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -784,7 +762,7 @@
     "fire": "Yes",
     "size": "88 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Apr 2024 15:51"
+    "updated": "5 Apr 2024 01:13"
   },
   {
     "title": "AKUNA LANE, EUGOWRA",
@@ -841,7 +819,7 @@
     "latitude": "-34.1319885259999",
     "longitude": "149.007446289",
     "region": "nsw",
-    "time_of_call": "04 Apr 2024 21:52:00",
+    "time_of_call": "05 Apr 2024 01:00:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -853,6 +831,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Apr 2024 21:52"
+    "updated": "5 Apr 2024 01:00"
+  },
+  {
+    "title": "PACIFIC MTWY, ALISON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542591",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.27047348",
+    "longitude": "151.405624389",
+    "region": "nsw",
+    "time_of_call": "05 Apr 2024 01:06:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC MTWY, ALISON 2259",
+    "council_area": "Central Coast",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Apr 2024 01:06"
   }
 ]
