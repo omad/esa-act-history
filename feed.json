@@ -144,24 +144,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "ELECTRICAL THREAT OR POWER LINES DOWN - FRANKLIN",
-    "id": "005549-06042024",
-    "latitude": "-35.19977637",
-    "longitude": "149.1437554899",
-    "region": "act",
-    "time_of_call": "06 Apr 2024 23:17:59",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "ELECTRICAL THREAT OR POWER LINES DOWN",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/electrical-threat_0.svg"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -187,10 +169,10 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "06 Apr 2024 22:52:55",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -210,22 +192,6 @@
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": ""
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WESTON",
-    "id": "020426-06042024",
-    "latitude": "-35.335896",
-    "longitude": "149.058387",
-    "region": "act",
-    "time_of_call": "06 Apr 2024 23:11:13",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
   },
   {
     "agency": "Ambulance",
@@ -321,6 +287,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "020438-07042024",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "07 Apr 2024 00:41:12",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -736,7 +718,7 @@
     "latitude": "-32.6646385189999",
     "longitude": "151.500564575",
     "region": "nsw",
-    "time_of_call": "06 Apr 2024 21:43:00",
+    "time_of_call": "07 Apr 2024 00:29:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -748,7 +730,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Apr 2024 21:43"
+    "updated": "7 Apr 2024 00:29"
   },
   {
     "title": "EVANS LANE, APPLEBY",
@@ -839,23 +821,23 @@
     "updated": "7 Apr 2024 00:20"
   },
   {
-    "title": "UNNAMED RD, WARKWORTH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542949",
+    "title": "BORDER ST, ERARING",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542950",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.5539283749999",
-    "longitude": "151.028747558",
+    "latitude": "-33.0735778809999",
+    "longitude": "151.519180298",
     "region": "nsw",
-    "time_of_call": "07 Apr 2024 00:07:00",
+    "time_of_call": "07 Apr 2024 00:30:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
-    "location": "UNNAMED RD, WARKWORTH 2330",
-    "council_area": "Singleton",
+    "location": "110 BORDER ST, ERARING 2264",
+    "council_area": "Lake Macquarie",
     "type": "Flood/Storm/Tree Down",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Apr 2024 00:07"
+    "updated": "7 Apr 2024 00:30"
   }
 ]
