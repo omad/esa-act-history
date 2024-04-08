@@ -175,10 +175,10 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "09 Apr 2024 09:05:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -191,10 +191,26 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "09 Apr 2024 09:08:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "021009-09042024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "09 Apr 2024 09:23:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -483,9 +499,9 @@
     "latitude": "-34.106681824",
     "longitude": "145.734054566",
     "region": "nsw",
-    "time_of_call": "09 Apr 2024 08:32:00",
+    "time_of_call": "09 Apr 2024 09:17:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "1950 TABBITA LANE, TABBITA 2652",
     "council_area": "Carrathool",
@@ -493,7 +509,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Apr 2024 08:32"
+    "updated": "9 Apr 2024 09:17"
   },
   {
     "title": "GOODGER PL, EURUNDEREE",
@@ -514,6 +530,26 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Apr 2024 08:47"
+  },
+  {
+    "title": "COLDSTREAM ST, ULMARRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543119",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.631574631",
+    "longitude": "153.028961181",
+    "region": "nsw",
+    "time_of_call": "09 Apr 2024 08:48:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "15 COLDSTREAM ST, ULMARRA 2462",
+    "council_area": "Clarence Valley",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Apr 2024 08:48"
   },
   {
     "title": "PACIFIC MTWY (NORTHBOUND), SOMERSBY",
