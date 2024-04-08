@@ -68,6 +68,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "020990-09042024",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "09 Apr 2024 07:28:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Assist DPI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_526743",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -342,5 +358,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Apr 2024 06:59"
+  },
+  {
+    "title": "TELEGRAPH POINT RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543111",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.359788895",
+    "longitude": "152.777404785",
+    "region": "nsw",
+    "time_of_call": "09 Apr 2024 07:27:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "CAIRCROSS MRF 351 TELEGRAPH POINT RD, PEMBROOKE 2446",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Apr 2024 07:27"
   }
 ]
