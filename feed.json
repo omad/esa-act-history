@@ -232,6 +232,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUFFY",
+    "id": "020920-08042024",
+    "latitude": "-35.336273",
+    "longitude": "149.031217",
+    "region": "act",
+    "time_of_call": "08 Apr 2024 20:26:07",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Assist DPI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_526743",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -510,28 +526,6 @@
     "updated": "8 Apr 2024 18:32"
   },
   {
-    "title": "EDITH BLACK RD, BLAXLANDS RIDGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543081",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.5027236939999",
-    "longitude": "150.740112305",
-    "region": "nsw",
-    "time_of_call": "08 Apr 2024 18:55:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "17 EDITH BLACK RD, BLAXLANDS RIDGE 2758",
-    "council_area": "Hawkesbury",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Apr 2024 18:55"
-  },
-  {
     "title": "MONARO HWY, MICHELAGO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543088",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -552,5 +546,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Apr 2024 19:43"
+  },
+  {
+    "title": "FIFTEENTH AV, WEST HOXTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543089",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.920848846",
+    "longitude": "150.829742431",
+    "region": "nsw",
+    "time_of_call": "08 Apr 2024 20:06:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "FIFTEENTH AV, WEST HOXTON 2171",
+    "council_area": "Liverpool",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Apr 2024 20:06"
   }
 ]
