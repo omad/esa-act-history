@@ -87,38 +87,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HIGGINS",
-    "id": "021515-11042024",
-    "latitude": "-35.230526",
-    "longitude": "149.025052",
-    "region": "act",
-    "time_of_call": "11 Apr 2024 16:08:38",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - COOMBS",
-    "id": "021517-11042024",
-    "latitude": "-35.31486",
-    "longitude": "149.041664",
-    "region": "act",
-    "time_of_call": "11 Apr 2024 16:17:04",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WARAMANGA",
     "id": "021518-11042024",
     "latitude": "-35.353501",
@@ -221,10 +189,10 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "11 Apr 2024 16:59:41",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -253,10 +221,10 @@
     "longitude": "149.126815",
     "region": "act",
     "time_of_call": "11 Apr 2024 17:06:22",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -285,10 +253,10 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "11 Apr 2024 17:08:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -315,7 +283,7 @@
     "latitude": "-33.1642376739999",
     "longitude": "149.132915137",
     "region": "nsw",
-    "time_of_call": "11 Apr 2024 14:45:00",
+    "time_of_call": "11 Apr 2024 17:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -327,7 +295,7 @@
     "fire": "Yes",
     "size": "181 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "11 Apr 2024 14:45"
+    "updated": "11 Apr 2024 17:19"
   },
   {
     "title": "Rodwell Road ",
@@ -987,5 +955,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Apr 2024 17:05"
+  },
+  {
+    "title": "MAITLAND RD, HEXHAM",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543342",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8276367189999",
+    "longitude": "151.684204102",
+    "region": "nsw",
+    "time_of_call": "11 Apr 2024 17:16:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "MAITLAND RD, HEXHAM 2322",
+    "council_area": "Newcastle",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Apr 2024 17:16"
   }
 ]
