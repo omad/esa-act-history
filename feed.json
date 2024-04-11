@@ -175,10 +175,10 @@
     "longitude": "149.041664",
     "region": "act",
     "time_of_call": "11 Apr 2024 16:17:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -191,6 +191,22 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "11 Apr 2024 16:17:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "021520-11042024",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "11 Apr 2024 16:27:25",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
@@ -463,7 +479,7 @@
     "latitude": "-35.885546158",
     "longitude": "147.327246664",
     "region": "nsw",
-    "time_of_call": "11 Apr 2024 12:25:00",
+    "time_of_call": "11 Apr 2024 16:16:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -475,7 +491,7 @@
     "fire": "Yes",
     "size": "310 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "11 Apr 2024 12:25"
+    "updated": "11 Apr 2024 16:16"
   },
   {
     "title": "Meryla Pile Burn",
@@ -645,7 +661,7 @@
     "latitude": "-33.033004761",
     "longitude": "147.978164673",
     "region": "nsw",
-    "time_of_call": "11 Apr 2024 11:51:00",
+    "time_of_call": "11 Apr 2024 16:29:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -657,7 +673,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2024 11:51"
+    "updated": "11 Apr 2024 16:29"
   },
   {
     "title": "SWAN HILL DR, WATERVIEW HEIGHTS",
@@ -899,28 +915,6 @@
     "updated": "11 Apr 2024 15:01"
   },
   {
-    "title": "GOLDEN VALE RD, SUTTON FOREST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543324",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.541313171",
-    "longitude": "150.296295166",
-    "region": "nsw",
-    "time_of_call": "11 Apr 2024 15:06:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "371 GOLDEN VALE RD, SUTTON FOREST 2577",
-    "council_area": "Wingecarribee",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2024 15:06"
-  },
-  {
     "title": "VEECHS RD, WONGARBON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543329",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -928,9 +922,9 @@
     "latitude": "-32.294654846",
     "longitude": "148.759567261",
     "region": "nsw",
-    "time_of_call": "11 Apr 2024 15:36:00",
+    "time_of_call": "11 Apr 2024 16:14:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "35 VEECHS RD, WONGARBON 2831",
     "council_area": "Dubbo Regional",
@@ -940,7 +934,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2024 15:36"
+    "updated": "11 Apr 2024 16:14"
   },
   {
     "title": "GINGANUP RD, SUMMERLAND POINT",
@@ -963,18 +957,18 @@
     "updated": "11 Apr 2024 15:54"
   },
   {
-    "title": "NEW ENGLAND HWY, LOCHINVAR",
+    "title": "NEW ENGLAND HWY, MAITLAND",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543333",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.699489593",
-    "longitude": "151.450561524",
+    "latitude": "-32.725093842",
+    "longitude": "151.54309082",
     "region": "nsw",
     "time_of_call": "11 Apr 2024 15:58:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
-    "location": "100 NEW ENGLAND HWY, LOCHINVAR 2321",
+    "location": "NEW ENGLAND HWY, MAITLAND 2320",
     "council_area": "Maitland",
     "type": "MVA/Transport",
     "type_description": "",
@@ -1027,5 +1021,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Apr 2024 16:19"
+  },
+  {
+    "title": "Dasea St, Chullora",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543337",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.8919079999999",
+    "longitude": "151.040195",
+    "region": "nsw",
+    "time_of_call": "11 Apr 2024 16:31:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Dasea St, Chullora,  2190",
+    "council_area": "Canterbury-Bankstown",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "11 Apr 2024 16:31"
   }
 ]
