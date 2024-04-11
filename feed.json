@@ -39,24 +39,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "HAZARD REDUCTION BURN - PADDYS RIVER",
-    "id": "005770-11042024",
-    "latitude": "-35.4916757531",
-    "longitude": "149.0314100444",
-    "region": "act",
-    "time_of_call": "11 Apr 2024 12:52:05",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "HAZARD REDUCTION BURN",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "HAZARD REDUCTION BURN - BOOTH",
     "id": "005771-11042024",
     "latitude": "-35.6634664999",
@@ -241,10 +223,10 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "11 Apr 2024 15:16:21",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -649,7 +631,7 @@
     "latitude": "-35.796161652",
     "longitude": "150.199996949",
     "region": "nsw",
-    "time_of_call": "11 Apr 2024 06:17:00",
+    "time_of_call": "11 Apr 2024 15:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -661,7 +643,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2024 06:17"
+    "updated": "11 Apr 2024 15:22"
   },
   {
     "title": "South West Green Hills Plantation Burn",
@@ -770,31 +752,6 @@
     "size": "0 ha",
     "responsible_agency": "NSW Police",
     "updated": "11 Apr 2024 12:38"
-  },
-  {
-    "title": "ROSEWOOD LANE, GUNNING GAP",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543303",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.256404877",
-    "longitude": "147.817382812",
-    "region": "nsw",
-    "time_of_call": "11 Apr 2024 15:08:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "ROSEWOOD LANE, GUNNING GAP 2871",
-    "council_area": "Forbes",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "3 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2024 15:08"
   },
   {
     "title": "CASSIDYS RD, GOOLOOGONG",
@@ -962,7 +919,7 @@
     "latitude": "-35.715911865",
     "longitude": "149.63861084",
     "region": "nsw",
-    "time_of_call": "11 Apr 2024 14:58:00",
+    "time_of_call": "11 Apr 2024 15:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -974,7 +931,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2024 14:58"
+    "updated": "11 Apr 2024 15:27"
   },
   {
     "title": "STANIFORDS LANE, BUMBALDRY",
@@ -1006,9 +963,9 @@
     "latitude": "-33.845451356",
     "longitude": "148.651428223",
     "region": "nsw",
-    "time_of_call": "11 Apr 2024 14:26:00",
+    "time_of_call": "11 Apr 2024 15:12:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "9 RICHARDS DR, COWRA 2794",
     "council_area": "Cowra",
@@ -1018,7 +975,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2024 14:26"
+    "updated": "11 Apr 2024 15:12"
   },
   {
     "title": "KALANGAN RD, GALONG",
@@ -1091,8 +1048,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543322",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.0477485659999",
-    "longitude": "152.526489258",
+    "latitude": "-32.04335022",
+    "longitude": "152.534484863",
     "region": "nsw",
     "time_of_call": "11 Apr 2024 15:00:00",
     "event_type": "burnt area",
@@ -1127,5 +1084,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Apr 2024 15:06"
+  },
+  {
+    "title": "MOSS VALE RD, BURRADOO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543326",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.5285911559999",
+    "longitude": "150.397674561",
+    "region": "nsw",
+    "time_of_call": "11 Apr 2024 15:19:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "596-598 MOSS VALE RD, BURRADOO 2576",
+    "council_area": "Wingecarribee",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Apr 2024 15:19"
   }
 ]
