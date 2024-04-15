@@ -64,6 +64,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "022564-16042024",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "16 Apr 2024 03:28:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Prescribed Burn Mullions Creek 24 AC ",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_521775",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -658,30 +674,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Apr 2024 01:27"
-  },
-  {
-    "title": "Monash Rd, Menai",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543767",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.0035099999999",
-    "longitude": "151.016157",
-    "region": "nsw",
-    "time_of_call": "16 Apr 2024 03:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Monash Rd, Menai, NSW 2234",
-    "council_area": "Sutherland",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Apr 2024 03:12"
   }
 ]
