@@ -36,6 +36,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "RUBBISH FIRE - LYNEHAM",
+    "id": "006013-16042024",
+    "latitude": "-35.2536087036",
+    "longitude": "149.1330108643",
+    "region": "act",
+    "time_of_call": "16 Apr 2024 18:26:33",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "RUBBISH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -157,10 +175,10 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "16 Apr 2024 18:04:39",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -177,6 +195,38 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FADDEN",
+    "id": "022710-16042024",
+    "latitude": "-35.402396",
+    "longitude": "149.118589",
+    "region": "act",
+    "time_of_call": "16 Apr 2024 18:26:43",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUNLOP",
+    "id": "022712-16042024",
+    "latitude": "-35.193951",
+    "longitude": "149.019471",
+    "region": "act",
+    "time_of_call": "16 Apr 2024 18:30:32",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -783,7 +833,7 @@
     "latitude": "-35.8674812309999",
     "longitude": "147.155929566",
     "region": "nsw",
-    "time_of_call": "16 Apr 2024 15:24:00",
+    "time_of_call": "16 Apr 2024 18:24:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -795,7 +845,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Apr 2024 15:24"
+    "updated": "16 Apr 2024 18:24"
   },
   {
     "title": "KEECHES RD, GOOLHI",
@@ -805,9 +855,9 @@
     "latitude": "-31.026399613",
     "longitude": "149.625915527",
     "region": "nsw",
-    "time_of_call": "16 Apr 2024 15:14:00",
+    "time_of_call": "16 Apr 2024 18:21:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -820,7 +870,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Apr 2024 15:14"
+    "updated": "16 Apr 2024 18:21"
   },
   {
     "title": "RIVER RD, THULE",
@@ -888,26 +938,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Apr 2024 17:27"
-  },
-  {
-    "title": "THUNGHUTTI DR, BELLBROOK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543846",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.808763504",
-    "longitude": "152.517868042",
-    "region": "nsw",
-    "time_of_call": "16 Apr 2024 18:02:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "192 THUNGHUTTI DR, BELLBROOK 2440",
-    "council_area": "Kempsey",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Apr 2024 18:02"
   },
   {
     "title": "SIMPSON ST, BOGGABILLA",
