@@ -129,10 +129,26 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "18 Apr 2024 22:48:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "023208-18042024",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "18 Apr 2024 23:19:29",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -405,7 +421,7 @@
     "latitude": "-33.3317832939999",
     "longitude": "148.993652344",
     "region": "nsw",
-    "time_of_call": "17 Apr 2024 19:07:00",
+    "time_of_call": "18 Apr 2024 22:55:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -417,7 +433,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Apr 2024 19:07"
+    "updated": "18 Apr 2024 22:55"
   },
   {
     "title": "Borrows NR",
@@ -584,7 +600,7 @@
     "latitude": "-36.0090446479999",
     "longitude": "146.264923096",
     "region": "nsw",
-    "time_of_call": "17 Apr 2024 19:36:00",
+    "time_of_call": "18 Apr 2024 22:58:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -599,7 +615,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Apr 2024 19:36"
+    "updated": "18 Apr 2024 22:58"
   },
   {
     "title": "Hurleys South HR",
@@ -744,7 +760,7 @@
     "latitude": "-33.441806793",
     "longitude": "149.787597656",
     "region": "nsw",
-    "time_of_call": "17 Apr 2024 19:09:00",
+    "time_of_call": "18 Apr 2024 22:57:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -756,7 +772,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Apr 2024 19:09"
+    "updated": "18 Apr 2024 22:57"
   },
   {
     "title": "STRATHNOOK LANE, CLIFTON GROVE",
@@ -823,5 +839,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Apr 2024 20:36"
+  },
+  {
+    "title": "Oreilly St, Wagga Wagga",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_545019",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.1098049999999",
+    "longitude": "147.372121001",
+    "region": "nsw",
+    "time_of_call": "18 Apr 2024 23:08:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Oreilly St, Wagga Wagga, NSW 2650",
+    "council_area": "Wagga Wagga",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "18 Apr 2024 23:08"
+  },
+  {
+    "title": "WOOLSCOUR RD, NARRANDERA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_545020",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.7423133849999",
+    "longitude": "146.531951904",
+    "region": "nsw",
+    "time_of_call": "18 Apr 2024 23:15:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "TIMBGM 30 WOOLSCOUR RD, NARRANDERA 2700",
+    "council_area": "Narrandera",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Apr 2024 23:15"
   }
 ]
