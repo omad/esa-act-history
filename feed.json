@@ -234,6 +234,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "023102-18042024",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "18 Apr 2024 14:22:28",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Neville East HRB",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_327026",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1133,6 +1149,28 @@
     "updated": "18 Apr 2024 13:55"
   },
   {
+    "title": "AIRPORT RD, GILGAI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_544976",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.8806400299999",
+    "longitude": "151.128677369",
+    "region": "nsw",
+    "time_of_call": "18 Apr 2024 14:03:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "AIRPORT RD, GILGAI 2360",
+    "council_area": "Inverell",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Apr 2024 14:03"
+  },
+  {
     "title": "LEE AV, JINDABYNE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_544977",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1153,5 +1191,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Apr 2024 14:08"
+  },
+  {
+    "title": "Galleghan St, Hexham",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_544979",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.832241",
+    "longitude": "151.689942",
+    "region": "nsw",
+    "time_of_call": "18 Apr 2024 14:24:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Galleghan St, Hexham, NSW 2322",
+    "council_area": "Newcastle",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "18 Apr 2024 14:24"
   }
 ]
