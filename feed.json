@@ -71,22 +71,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AINSLIE",
-    "id": "023443-20042024",
-    "latitude": "-35.262117",
-    "longitude": "149.144037",
-    "region": "act",
-    "time_of_call": "20 Apr 2024 00:46:52",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - RICHARDSON",
     "id": "023444-20042024",
     "latitude": "-35.428715",
@@ -97,22 +81,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HIGGINS",
-    "id": "023447-20042024",
-    "latitude": "-35.230526",
-    "longitude": "149.025052",
-    "region": "act",
-    "time_of_call": "20 Apr 2024 01:39:18",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -173,10 +141,10 @@
     "longitude": "149.085118",
     "region": "act",
     "time_of_call": "20 Apr 2024 03:28:36",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -872,5 +840,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Apr 2024 03:20"
+  },
+  {
+    "title": "GREENWAY ST, DORA CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_545115",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.078533173",
+    "longitude": "151.495376587",
+    "region": "nsw",
+    "time_of_call": "20 Apr 2024 03:30:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "4 GREENWAY ST, DORA CREEK 2264",
+    "council_area": "Lake Macquarie",
+    "type": "Truck Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Apr 2024 03:30"
   }
 ]
