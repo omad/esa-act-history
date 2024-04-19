@@ -125,10 +125,42 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "20 Apr 2024 04:35:55",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "023459-20042024",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "20 Apr 2024 04:52:11",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "023460-20042024",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "20 Apr 2024 05:12:15",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -359,7 +391,7 @@
     "latitude": "-33.3317832939999",
     "longitude": "148.993652344",
     "region": "nsw",
-    "time_of_call": "18 Apr 2024 22:55:00",
+    "time_of_call": "20 Apr 2024 05:00:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -371,7 +403,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Apr 2024 22:55"
+    "updated": "20 Apr 2024 05:00"
   },
   {
     "title": "Borrows NR",
@@ -469,7 +501,7 @@
     "latitude": "-36.0090446479999",
     "longitude": "146.264923096",
     "region": "nsw",
-    "time_of_call": "18 Apr 2024 22:58:00",
+    "time_of_call": "20 Apr 2024 04:59:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -484,7 +516,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Apr 2024 22:58"
+    "updated": "20 Apr 2024 04:59"
   },
   {
     "title": "Airstrip Road",
@@ -585,7 +617,7 @@
     "latitude": "-33.441806793",
     "longitude": "149.787597656",
     "region": "nsw",
-    "time_of_call": "18 Apr 2024 22:57:00",
+    "time_of_call": "20 Apr 2024 05:00:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -597,7 +629,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Apr 2024 22:57"
+    "updated": "20 Apr 2024 05:00"
   },
   {
     "title": "STRATHNOOK LANE, CLIFTON GROVE",
@@ -824,5 +856,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Apr 2024 03:20"
+  },
+  {
+    "title": "PARRY PDE, ARMIDALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_545116",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.532833099",
+    "longitude": "151.674407958",
+    "region": "nsw",
+    "time_of_call": "20 Apr 2024 04:50:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "36 PARRY PDE, ARMIDALE 2350",
+    "council_area": "Armidale",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Apr 2024 04:50"
   }
 ]
