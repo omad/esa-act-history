@@ -196,6 +196,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STRATHNAIRN",
+    "id": "023450-20042024",
+    "latitude": "-35.237286",
+    "longitude": "148.98074",
+    "region": "act",
+    "time_of_call": "20 Apr 2024 02:30:45",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Neville East HRB",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_327026",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -888,5 +904,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Apr 2024 01:15"
+  },
+  {
+    "title": "Leeds Pde, Orange",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_545114",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.266312001",
+    "longitude": "149.108931",
+    "region": "nsw",
+    "time_of_call": "20 Apr 2024 02:33:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Leeds Pde, Orange, NSW 2800",
+    "council_area": "Orange",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "20 Apr 2024 02:33"
   }
 ]
