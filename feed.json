@@ -63,9 +63,9 @@
     "longitude": "149.0471433099",
     "region": "act",
     "time_of_call": "21 Apr 2024 04:43:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "CAR FIRE",
     "type_description": "",
@@ -85,22 +85,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "023688-21042024",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
-    "region": "act",
-    "time_of_call": "21 Apr 2024 04:15:12",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -790,5 +774,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Apr 2024 00:08"
+  },
+  {
+    "title": "ICELY RD, ORANGE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_545224",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.294822692",
+    "longitude": "149.141845704",
+    "region": "nsw",
+    "time_of_call": "21 Apr 2024 04:55:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "310 ICELY RD, ORANGE 2800",
+    "council_area": "Orange",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Apr 2024 04:55"
   }
 ]
