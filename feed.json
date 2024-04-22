@@ -133,10 +133,10 @@
     "longitude": "149.111857",
     "region": "act",
     "time_of_call": "22 Apr 2024 22:30:03",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -169,22 +169,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
     "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "024072-22042024",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "22 Apr 2024 22:47:12",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -879,26 +863,6 @@
     "updated": "22 Apr 2024 22:03"
   },
   {
-    "title": "KAMILAROI HWY, WALGETT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_545400",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.085645676",
-    "longitude": "147.46383667",
-    "region": "nsw",
-    "time_of_call": "22 Apr 2024 23:04:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "KAMILAROI HWY, WALGETT 2832",
-    "council_area": "Walgett",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Apr 2024 23:04"
-  },
-  {
     "title": "VICTORIA PL, WEST HAVEN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_545401",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -919,5 +883,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Apr 2024 22:49"
+  },
+  {
+    "title": "Middleton St, South Kempsey",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_545403",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.094305",
+    "longitude": "152.83088",
+    "region": "nsw",
+    "time_of_call": "22 Apr 2024 23:37:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "7 Middleton St, South Kempsey, NSW 2440",
+    "council_area": "Kempsey",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "22 Apr 2024 23:37"
   }
 ]
