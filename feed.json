@@ -141,32 +141,16 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "024338-24042024",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "24 Apr 2024 02:17:58",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WANNIASSA",
     "id": "024340-24042024",
     "latitude": "-35.399113",
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "24 Apr 2024 02:46:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -199,6 +183,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "024347-24042024",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "24 Apr 2024 03:48:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -1173,9 +1173,9 @@
     "latitude": "-29.4721794119999",
     "longitude": "153.205612183",
     "region": "nsw",
-    "time_of_call": "24 Apr 2024 02:55:00",
+    "time_of_call": "24 Apr 2024 03:27:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "PACIFIC HWY, GULMARRAD 2463",
     "council_area": "Clarence Valley",
@@ -1185,7 +1185,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Apr 2024 02:55"
+    "updated": "24 Apr 2024 03:27"
   },
   {
     "title": "Aberford St, Coonamble",
@@ -1211,5 +1211,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "24 Apr 2024 03:18"
+  },
+  {
+    "title": "GOODISON ST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_545520",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.697288514",
+    "longitude": "150.96182251",
+    "region": "nsw",
+    "time_of_call": "24 Apr 2024 03:44:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "MORAN KELLYVILLE 35 GOODISON ST, NORTH KELLYVILLE 2155",
+    "council_area": "The Hills",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Apr 2024 03:44"
   }
 ]
