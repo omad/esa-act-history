@@ -129,10 +129,10 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "24 Apr 2024 08:19:43",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -145,10 +145,10 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "24 Apr 2024 08:25:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -161,10 +161,26 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "24 Apr 2024 08:26:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "024381-24042024",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "24 Apr 2024 08:43:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -844,7 +860,7 @@
     "latitude": "-34.8459320059999",
     "longitude": "149.995605468",
     "region": "nsw",
-    "time_of_call": "23 Apr 2024 14:54:00",
+    "time_of_call": "24 Apr 2024 08:26:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -856,7 +872,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "23 Apr 2024 14:54"
+    "updated": "24 Apr 2024 08:26"
   },
   {
     "title": "RESERVOIR RD, MALUA BAY",
@@ -1128,26 +1144,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Apr 2024 07:59"
-  },
-  {
-    "title": "CENTENARY DR, WYALONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_546502",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.9203681939999",
-    "longitude": "147.234466552",
-    "region": "nsw",
-    "time_of_call": "24 Apr 2024 07:49:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "61 CENTENARY DR, WYALONG 2671",
-    "council_area": "Bland",
-    "type": "Medical",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Apr 2024 07:49"
   },
   {
     "title": "MURRAMARANG RD, BAWLEY POINT",
