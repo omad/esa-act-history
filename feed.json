@@ -9,9 +9,9 @@
     "longitude": "148.90274199",
     "region": "act",
     "time_of_call": "21 Apr 2024 09:57:46",
-    "status": "On Scene",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
     "status_filter_label": "Active",
     "type": "HAZARD REDUCTION BURN",
     "type_description": "",
@@ -77,10 +77,10 @@
     "longitude": "149.140719",
     "region": "act",
     "time_of_call": "25 Apr 2024 16:13:36",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -97,6 +97,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THROSBY",
+    "id": "024657-25042024",
+    "latitude": "-35.187595",
+    "longitude": "149.161141",
+    "region": "act",
+    "time_of_call": "25 Apr 2024 17:25:26",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -1188,9 +1204,9 @@
     "latitude": "-33.209270477",
     "longitude": "146.362670898",
     "region": "nsw",
-    "time_of_call": "25 Apr 2024 16:48:00",
+    "time_of_call": "25 Apr 2024 17:20:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1203,7 +1219,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Apr 2024 16:48"
+    "updated": "25 Apr 2024 17:20"
   },
   {
     "title": "WAMBAN RD, WAMBAN",
@@ -1235,9 +1251,9 @@
     "latitude": "-35.139419555",
     "longitude": "149.190246582",
     "region": "nsw",
-    "time_of_call": "25 Apr 2024 16:50:00",
+    "time_of_call": "25 Apr 2024 17:17:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MULLIGANS FLAT RD, SUTTON 2620",
     "council_area": "Yass Valley",
@@ -1247,7 +1263,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Apr 2024 16:50"
+    "updated": "25 Apr 2024 17:17"
   },
   {
     "title": "Mitchell Av, West Kempsey",
@@ -1257,9 +1273,9 @@
     "latitude": "-31.058352",
     "longitude": "152.832011",
     "region": "nsw",
-    "time_of_call": "25 Apr 2024 17:08:00",
+    "time_of_call": "25 Apr 2024 17:22:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1272,6 +1288,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Apr 2024 17:08"
+    "updated": "25 Apr 2024 17:22"
   }
 ]
