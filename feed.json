@@ -99,10 +99,10 @@
     "longitude": "149.115462796",
     "region": "act",
     "time_of_call": "28 Apr 2024 17:19:30",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg"
@@ -197,10 +197,10 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "28 Apr 2024 16:17:34",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -319,22 +319,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUNLOP",
-    "id": "025219-28042024",
-    "latitude": "-35.193951",
-    "longitude": "149.019471",
-    "region": "act",
-    "time_of_call": "28 Apr 2024 17:21:22",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CHIFLEY",
     "id": "025220-28042024",
     "latitude": "-35.351526",
@@ -345,6 +329,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FADDEN",
+    "id": "025222-28042024",
+    "latitude": "-35.402396",
+    "longitude": "149.118589",
+    "region": "act",
+    "time_of_call": "28 Apr 2024 17:30:40",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -1291,7 +1291,7 @@
     "latitude": "-36.645191629",
     "longitude": "149.957313536",
     "region": "nsw",
-    "time_of_call": "28 Apr 2024 10:40:00",
+    "time_of_call": "28 Apr 2024 17:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1303,7 +1303,7 @@
     "fire": "Yes",
     "size": "71 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "28 Apr 2024 10:40"
+    "updated": "28 Apr 2024 17:41"
   },
   {
     "title": "Kenny St HR (Bravo Sector)",
@@ -1583,7 +1583,7 @@
     "latitude": "-36.6835517879999",
     "longitude": "149.923568726",
     "region": "nsw",
-    "time_of_call": "28 Apr 2024 16:39:00",
+    "time_of_call": "28 Apr 2024 17:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1595,7 +1595,7 @@
     "fire": "Yes",
     "size": "218 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "28 Apr 2024 16:39"
+    "updated": "28 Apr 2024 17:35"
   },
   {
     "title": "RIVER RD, GOBBAGOMBALIN",
@@ -1715,27 +1715,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Apr 2024 16:23"
-  },
-  {
-    "title": "SEVEN CREEKS RD, QUIRINDI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547006",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.5028095239999",
-    "longitude": "150.700393676",
-    "region": "nsw",
-    "time_of_call": "28 Apr 2024 17:07:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "SEVEN CREEKS RD, QUIRINDI 2343",
-    "council_area": "Liverpool Plains",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Apr 2024 17:07"
   }
 ]
