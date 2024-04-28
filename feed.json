@@ -91,38 +91,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GIRALANG",
-    "id": "025271-28042024",
-    "latitude": "-35.210049",
-    "longitude": "149.100175",
-    "region": "act",
-    "time_of_call": "28 Apr 2024 23:32:02",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WATSON",
-    "id": "025276-29042024",
-    "latitude": "-35.234652",
-    "longitude": "149.15807",
-    "region": "act",
-    "time_of_call": "29 Apr 2024 00:41:21",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - O'CONNOR",
     "id": "025277-29042024",
     "latitude": "-35.256876",
@@ -177,6 +145,22 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "29 Apr 2024 01:30:05",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NICHOLLS",
+    "id": "025283-29042024",
+    "latitude": "-35.186387",
+    "longitude": "149.094445",
+    "region": "act",
+    "time_of_call": "29 Apr 2024 01:54:44",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
@@ -1102,7 +1086,7 @@
     "latitude": "-35.3827209469999",
     "longitude": "148.763366699",
     "region": "nsw",
-    "time_of_call": "28 Apr 2024 15:07:00",
+    "time_of_call": "29 Apr 2024 01:48:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1114,7 +1098,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Apr 2024 15:07"
+    "updated": "29 Apr 2024 01:48"
   },
   {
     "title": "SHARWILL DR, VALLA",
@@ -1278,7 +1262,7 @@
     "latitude": "-32.50927353",
     "longitude": "147.551727295",
     "region": "nsw",
-    "time_of_call": "28 Apr 2024 22:50:00",
+    "time_of_call": "29 Apr 2024 01:45:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1293,7 +1277,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Apr 2024 22:50"
+    "updated": "29 Apr 2024 01:45"
   },
   {
     "title": "RIVER RD, GOBBAGOMBALIN",
@@ -1316,5 +1300,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 Apr 2024 01:45"
+  },
+  {
+    "title": "ILLUSTRIOUS CT, CALLALA BAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547035",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.9959793089999",
+    "longitude": "150.706588746",
+    "region": "nsw",
+    "time_of_call": "29 Apr 2024 02:13:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "19 ILLUSTRIOUS CT, CALLALA BAY 2540",
+    "council_area": "Shoalhaven",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Apr 2024 02:13"
   }
 ]
