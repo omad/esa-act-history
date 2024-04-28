@@ -72,24 +72,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AIRCRAFT INCIDENT - CANBERRA AIRPORT",
-    "id": "006506-29042024",
-    "latitude": "-35.30446923",
-    "longitude": "149.1940431",
-    "region": "act",
-    "time_of_call": "29 Apr 2024 08:09:32",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "AIRCRAFT INCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/plane-accident_0.svg"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -119,22 +101,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BANKS",
-    "id": "025300-29042024",
-    "latitude": "-35.471552",
-    "longitude": "149.100249",
-    "region": "act",
-    "time_of_call": "29 Apr 2024 07:20:14",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -189,22 +155,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONASH",
-    "id": "025310-29042024",
-    "latitude": "-35.413962",
-    "longitude": "149.091126",
-    "region": "act",
-    "time_of_call": "29 Apr 2024 08:13:17",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DICKSON",
     "id": "025311-29042024",
     "latitude": "-35.250784",
@@ -243,10 +193,10 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "29 Apr 2024 08:44:40",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -259,6 +209,22 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "29 Apr 2024 09:07:39",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHARNWOOD",
+    "id": "025324-29042024",
+    "latitude": "-35.200338",
+    "longitude": "149.036735",
+    "region": "act",
+    "time_of_call": "29 Apr 2024 09:44:26",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
@@ -785,7 +751,7 @@
     "latitude": "-30.5805881159999",
     "longitude": "149.216995239",
     "region": "nsw",
-    "time_of_call": "28 Apr 2024 16:05:00",
+    "time_of_call": "29 Apr 2024 09:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -797,7 +763,7 @@
     "fire": "Yes",
     "size": "587 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "28 Apr 2024 16:05"
+    "updated": "29 Apr 2024 09:42"
   },
   {
     "title": "Burrier HR",
@@ -873,7 +839,7 @@
     "latitude": "-33.6742744439999",
     "longitude": "150.976547242",
     "region": "nsw",
-    "time_of_call": "29 Apr 2024 01:39:00",
+    "time_of_call": "29 Apr 2024 09:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -885,7 +851,7 @@
     "fire": "Yes",
     "size": "83 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Apr 2024 01:39"
+    "updated": "29 Apr 2024 09:21"
   },
   {
     "title": "220 Strathnook Lane - Hazard Reduction",
@@ -954,6 +920,28 @@
     "updated": "29 Apr 2024 07:14"
   },
   {
+    "title": "Boora Point HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_546524",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.967032076",
+    "longitude": "151.263327598",
+    "region": "nsw",
+    "time_of_call": "29 Apr 2024 09:31:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "malabar headland national park",
+    "council_area": "Randwick",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "8 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "29 Apr 2024 09:31"
+  },
+  {
     "title": "Coonong Reserve Stage 2",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_546618",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -983,7 +971,7 @@
     "latitude": "-30.151398795",
     "longitude": "149.866089821",
     "region": "nsw",
-    "time_of_call": "27 Apr 2024 15:24:00",
+    "time_of_call": "29 Apr 2024 09:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -995,7 +983,7 @@
     "fire": "Yes",
     "size": "272 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "27 Apr 2024 15:24"
+    "updated": "29 Apr 2024 09:31"
   },
   {
     "title": "LONG MEADOWS RD, BOURKE",
@@ -1287,28 +1275,6 @@
     "updated": "28 Apr 2024 17:50"
   },
   {
-    "title": "TERRY HIE HIE RD, MOREE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_546947",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.570856094",
-    "longitude": "149.973266602",
-    "region": "nsw",
-    "time_of_call": "29 Apr 2024 01:36:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "TERRY HIE HIE RD, MOREE 2400",
-    "council_area": "Moree Plains",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "29 Apr 2024 01:36"
-  },
-  {
     "title": "TURRAWAN RD, TURRAWAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_546952",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1573,27 +1539,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 Apr 2024 09:14"
-  },
-  {
-    "title": "PRODUCTION AV, WARRAGAMBA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547053",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.894924164",
-    "longitude": "150.604553223",
-    "region": "nsw",
-    "time_of_call": "29 Apr 2024 09:19:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "65 PRODUCTION AV, WARRAGAMBA 2752",
-    "council_area": "Wollondilly",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Apr 2024 09:19"
   }
 ]
