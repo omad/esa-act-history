@@ -81,10 +81,10 @@
     "longitude": "149.1452269499",
     "region": "act",
     "time_of_call": "30 Apr 2024 01:47:31",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg"
@@ -125,22 +125,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WEETANGERA",
-    "id": "025469-30042024",
-    "latitude": "-35.249342",
-    "longitude": "149.049485",
-    "region": "act",
-    "time_of_call": "30 Apr 2024 00:40:03",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BRADDON",
     "id": "025471-30042024",
     "latitude": "-35.270314",
@@ -163,6 +147,38 @@
     "longitude": "149.111133",
     "region": "act",
     "time_of_call": "30 Apr 2024 01:18:55",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FORDE",
+    "id": "025473-30042024",
+    "latitude": "-35.169175",
+    "longitude": "149.145987",
+    "region": "act",
+    "time_of_call": "30 Apr 2024 02:00:53",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONYTHON",
+    "id": "025474-30042024",
+    "latitude": "-35.435736",
+    "longitude": "149.081053",
+    "region": "act",
+    "time_of_call": "30 Apr 2024 02:05:36",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
@@ -287,7 +303,7 @@
     "latitude": "-33.3317832939999",
     "longitude": "148.993652344",
     "region": "nsw",
-    "time_of_call": "29 Apr 2024 01:27:00",
+    "time_of_call": "30 Apr 2024 01:49:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -299,7 +315,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Apr 2024 01:27"
+    "updated": "30 Apr 2024 01:49"
   },
   {
     "title": "Wog River Road",
@@ -667,7 +683,7 @@
     "latitude": "-33.8899688729999",
     "longitude": "148.592712403",
     "region": "nsw",
-    "time_of_call": "29 Apr 2024 01:28:00",
+    "time_of_call": "30 Apr 2024 01:50:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -679,7 +695,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Apr 2024 01:28"
+    "updated": "30 Apr 2024 01:50"
   },
   {
     "title": "Whitehall HR",
@@ -711,7 +727,7 @@
     "latitude": "-33.255081278",
     "longitude": "149.194978948",
     "region": "nsw",
-    "time_of_call": "29 Apr 2024 01:30:00",
+    "time_of_call": "30 Apr 2024 01:51:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -723,7 +739,7 @@
     "fire": "Yes",
     "size": "4 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Apr 2024 01:30"
+    "updated": "30 Apr 2024 01:51"
   },
   {
     "title": "Browns Waterhole Burn",
@@ -755,7 +771,7 @@
     "latitude": "-33.6872699319999",
     "longitude": "150.306143761",
     "region": "nsw",
-    "time_of_call": "29 Apr 2024 07:14:00",
+    "time_of_call": "30 Apr 2024 01:55:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -767,7 +783,7 @@
     "fire": "Yes",
     "size": "12 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Apr 2024 07:14"
+    "updated": "30 Apr 2024 01:55"
   },
   {
     "title": "Stone Basin HR",
@@ -978,7 +994,7 @@
     "latitude": "-36.159725189",
     "longitude": "150.100051879",
     "region": "nsw",
-    "time_of_call": "29 Apr 2024 01:20:00",
+    "time_of_call": "30 Apr 2024 01:47:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -990,7 +1006,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Apr 2024 01:20"
+    "updated": "30 Apr 2024 01:47"
   },
   {
     "title": "Second Trail HR",
@@ -1044,7 +1060,7 @@
     "latitude": "-35.3827209469999",
     "longitude": "148.763366699",
     "region": "nsw",
-    "time_of_call": "29 Apr 2024 01:48:00",
+    "time_of_call": "30 Apr 2024 01:53:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1056,7 +1072,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Apr 2024 01:48"
+    "updated": "30 Apr 2024 01:53"
   },
   {
     "title": "SHARWILL DR, VALLA",
@@ -1088,7 +1104,7 @@
     "latitude": "-37.0509986869999",
     "longitude": "149.894226074",
     "region": "nsw",
-    "time_of_call": "29 Apr 2024 01:34:00",
+    "time_of_call": "30 Apr 2024 01:52:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1100,7 +1116,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Apr 2024 01:34"
+    "updated": "30 Apr 2024 01:52"
   },
   {
     "title": "Linda Rock HR",
@@ -1198,7 +1214,7 @@
     "latitude": "-35.9409408569999",
     "longitude": "150.005630493",
     "region": "nsw",
-    "time_of_call": "29 Apr 2024 01:54:00",
+    "time_of_call": "30 Apr 2024 01:54:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1210,7 +1226,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Apr 2024 01:54"
+    "updated": "30 Apr 2024 01:54"
   },
   {
     "title": "PRINCES HWY, BODALLA",
@@ -1490,9 +1506,9 @@
     "latitude": "-29.273471833",
     "longitude": "149.780349732",
     "region": "nsw",
-    "time_of_call": "30 Apr 2024 01:34:00",
+    "time_of_call": "30 Apr 2024 01:45:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "CARNARVON HWY, ASHLEY 2400",
     "council_area": "Moree Plains",
@@ -1500,6 +1516,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Apr 2024 01:34"
+    "updated": "30 Apr 2024 01:45"
+  },
+  {
+    "title": "PACIFIC HWY, HERONS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547136",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.572433471",
+    "longitude": "152.734069825",
+    "region": "nsw",
+    "time_of_call": "30 Apr 2024 02:10:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, HERONS CREEK 2443",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Apr 2024 02:10"
   }
 ]
