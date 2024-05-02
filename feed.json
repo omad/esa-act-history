@@ -81,10 +81,10 @@
     "longitude": "149.0853336",
     "region": "act",
     "time_of_call": "02 May 2024 13:54:41",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HAZMAT INCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/incident-other_0.svg"
@@ -255,22 +255,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "026024-02052024",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "02 May 2024 16:57:16",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - RIVETT",
     "id": "026025-02052024",
     "latitude": "-35.346479",
@@ -325,6 +309,22 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "02 May 2024 17:09:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RED HILL",
+    "id": "026032-02052024",
+    "latitude": "-35.333636",
+    "longitude": "149.120031",
+    "region": "act",
+    "time_of_call": "02 May 2024 17:27:39",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
@@ -829,7 +829,7 @@
     "latitude": "-36.645191629",
     "longitude": "149.957313536",
     "region": "nsw",
-    "time_of_call": "02 May 2024 09:04:00",
+    "time_of_call": "02 May 2024 17:16:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -841,7 +841,7 @@
     "fire": "Yes",
     "size": "71 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "2 May 2024 09:04"
+    "updated": "2 May 2024 17:16"
   },
   {
     "title": "Linda Rock HR",
@@ -895,7 +895,7 @@
     "latitude": "-36.6835517879999",
     "longitude": "149.923568726",
     "region": "nsw",
-    "time_of_call": "02 May 2024 09:01:00",
+    "time_of_call": "02 May 2024 17:15:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -907,7 +907,7 @@
     "fire": "Yes",
     "size": "218 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "2 May 2024 09:01"
+    "updated": "2 May 2024 17:15"
   },
   {
     "title": "Southern Green Hills Plantation Burn",
@@ -1111,7 +1111,7 @@
     "latitude": "-36.582504273",
     "longitude": "149.912033081",
     "region": "nsw",
-    "time_of_call": "02 May 2024 15:27:00",
+    "time_of_call": "02 May 2024 17:11:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1123,7 +1123,7 @@
     "fire": "Yes",
     "size": "280 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "2 May 2024 15:27"
+    "updated": "2 May 2024 17:11"
   },
   {
     "title": "Ernies Way Plantation Burn",
@@ -1293,9 +1293,9 @@
     "latitude": "-29.9908924109999",
     "longitude": "150.595962524",
     "region": "nsw",
-    "time_of_call": "02 May 2024 16:19:00",
+    "time_of_call": "02 May 2024 17:16:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "COBBADAH RD, DINOGA 2404",
     "council_area": "Gwydir",
@@ -1305,7 +1305,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 May 2024 16:19"
+    "updated": "2 May 2024 17:16"
   },
   {
     "title": "(WESTERN MTWY), SOUTH PENRITH",
@@ -1373,5 +1373,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 May 2024 17:11"
+  },
+  {
+    "title": "NEILLY ST, WALGETT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547341",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.019500732",
+    "longitude": "148.11062622",
+    "region": "nsw",
+    "time_of_call": "02 May 2024 17:21:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "92 NEILLY ST, WALGETT 2832",
+    "council_area": "Walgett",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "2 May 2024 17:21"
   }
 ]
