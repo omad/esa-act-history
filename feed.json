@@ -72,6 +72,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HAZMAT INCIDENT - PHILLIP",
+    "id": "006657-02052024",
+    "latitude": "-35.3372756",
+    "longitude": "149.0853336",
+    "region": "act",
+    "time_of_call": "02 May 2024 13:54:41",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "HAZMAT INCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other_0.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -257,10 +275,10 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "02 May 2024 13:29:15",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -277,22 +295,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "025971-02052024",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "02 May 2024 13:54:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -337,10 +339,10 @@
     "longitude": "149.064271",
     "region": "act",
     "time_of_call": "02 May 2024 14:15:51",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -587,7 +589,7 @@
     "latitude": "-36.291484222",
     "longitude": "148.561782832",
     "region": "nsw",
-    "time_of_call": "01 May 2024 11:15:00",
+    "time_of_call": "02 May 2024 14:23:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -599,7 +601,7 @@
     "fire": "Yes",
     "size": "3730 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "1 May 2024 11:15"
+    "updated": "2 May 2024 14:23"
   },
   {
     "title": "Mt Alexander HR",
@@ -1311,28 +1313,6 @@
     "updated": "2 May 2024 13:03"
   },
   {
-    "title": "LEE AND CLARK RD, KEMPS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547314",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.909442901",
-    "longitude": "150.789733887",
-    "region": "nsw",
-    "time_of_call": "02 May 2024 13:04:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "110 LEE AND CLARK RD, KEMPS CREEK 2178",
-    "council_area": "Liverpool",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 May 2024 13:04"
-  },
-  {
     "title": "JONES RD, KOORAWATHA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547315",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1404,9 +1384,9 @@
     "latitude": "-33.6966476439999",
     "longitude": "150.831741333",
     "region": "nsw",
-    "time_of_call": "02 May 2024 13:38:00",
+    "time_of_call": "02 May 2024 14:25:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GARFIELD RD W, MARSDEN PARK 2765",
     "council_area": "Blacktown",
@@ -1414,7 +1394,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 May 2024 13:38"
+    "updated": "2 May 2024 14:25"
   },
   {
     "title": "KING ST, ROSSMORE",
