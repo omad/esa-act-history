@@ -54,24 +54,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "ANIMAL RESCUE - PEARCE",
-    "id": "006698-03052024",
-    "latitude": "-35.35848388",
-    "longitude": "149.08578772",
-    "region": "act",
-    "time_of_call": "03 May 2024 15:22:17",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "ANIMAL RESCUE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -197,6 +179,86 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "026249-03052024",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "03 May 2024 16:54:22",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "026250-03052024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "03 May 2024 16:54:46",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RICHARDSON",
+    "id": "026251-03052024",
+    "latitude": "-35.428715",
+    "longitude": "149.111133",
+    "region": "act",
+    "time_of_call": "03 May 2024 16:54:52",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "026252-03052024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "03 May 2024 16:57:11",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "026253-03052024",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "03 May 2024 17:10:24",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -474,7 +536,7 @@
     "latitude": "-30.093269348",
     "longitude": "145.89819336",
     "region": "nsw",
-    "time_of_call": "03 May 2024 08:11:00",
+    "time_of_call": "03 May 2024 16:45:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -489,7 +551,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 May 2024 08:11"
+    "updated": "3 May 2024 16:45"
   },
   {
     "title": "Myrtle Creek HR",
@@ -499,7 +561,7 @@
     "latitude": "-36.96861526",
     "longitude": "149.65528965",
     "region": "nsw",
-    "time_of_call": "03 May 2024 09:27:00",
+    "time_of_call": "03 May 2024 16:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -511,7 +573,7 @@
     "fire": "Yes",
     "size": "106 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "3 May 2024 09:27"
+    "updated": "3 May 2024 16:42"
   },
   {
     "title": "PRINCES HWY, DALMENY",
@@ -565,7 +627,7 @@
     "latitude": "-36.645191629",
     "longitude": "149.957313536",
     "region": "nsw",
-    "time_of_call": "03 May 2024 09:02:00",
+    "time_of_call": "03 May 2024 16:45:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -577,7 +639,7 @@
     "fire": "Yes",
     "size": "71 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "3 May 2024 09:02"
+    "updated": "3 May 2024 16:45"
   },
   {
     "title": "Linda Rock HR",
@@ -697,7 +759,7 @@
     "latitude": "-35.913557742",
     "longitude": "149.957499504",
     "region": "nsw",
-    "time_of_call": "03 May 2024 09:00:00",
+    "time_of_call": "03 May 2024 16:46:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -709,7 +771,7 @@
     "fire": "Yes",
     "size": "170 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "3 May 2024 09:00"
+    "updated": "3 May 2024 16:46"
   },
   {
     "title": "Bago Plantation Burn",
@@ -896,7 +958,7 @@
     "latitude": "-35.2924690249999",
     "longitude": "148.215011597",
     "region": "nsw",
-    "time_of_call": "03 May 2024 09:24:00",
+    "time_of_call": "03 May 2024 16:49:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -908,7 +970,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 May 2024 09:24"
+    "updated": "3 May 2024 16:49"
   },
   {
     "title": "FCNSW Bimmil Loop Hazard Reduction",
@@ -933,28 +995,6 @@
     "updated": "3 May 2024 15:04"
   },
   {
-    "title": "WONGALEA RD, NELUNGALOO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547416",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.03464508",
-    "longitude": "147.993209839",
-    "region": "nsw",
-    "time_of_call": "03 May 2024 14:35:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WONGALEA RD, NELUNGALOO 2876",
-    "council_area": "Parkes",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 May 2024 14:35"
-  },
-  {
     "title": "GOLDEN HWY, ELONG ELONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547418",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -962,7 +1002,7 @@
     "latitude": "-32.1157112129999",
     "longitude": "149.124176025",
     "region": "nsw",
-    "time_of_call": "03 May 2024 15:41:00",
+    "time_of_call": "03 May 2024 17:08:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -974,7 +1014,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 May 2024 15:41"
+    "updated": "3 May 2024 17:08"
   },
   {
     "title": "STANDING STONES WATSONS DR, GLEN INNES",
@@ -995,5 +1035,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 May 2024 16:16"
+  },
+  {
+    "title": "PACIFIC HWY, BONVILLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547429",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.395383835",
+    "longitude": "153.033721924",
+    "region": "nsw",
+    "time_of_call": "03 May 2024 17:12:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "1509 PACIFIC HWY, BONVILLE 2450",
+    "council_area": "Coffs Harbour",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 May 2024 17:12"
   }
 ]
