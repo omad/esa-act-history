@@ -72,20 +72,22 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WANNIASSA",
-    "id": "026206-03052024",
-    "latitude": "-35.399113",
-    "longitude": "149.091978",
+    "title": "MOTOR VEHICLE ACCIDENT - KAMBAH",
+    "id": "006696-03052024",
+    "latitude": "-35.390233",
+    "longitude": "149.078147",
     "region": "act",
-    "time_of_call": "03 May 2024 13:14:31",
+    "time_of_call": "03 May 2024 14:53:36",
     "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
   },
   {
     "agency": "Ambulance",
@@ -97,10 +99,10 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "03 May 2024 13:58:37",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -113,10 +115,10 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "03 May 2024 14:06:24",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -177,10 +179,10 @@
     "longitude": "149.165368",
     "region": "act",
     "time_of_call": "03 May 2024 14:37:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -197,6 +199,38 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "026229-03052024",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "03 May 2024 14:58:19",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "026231-03052024",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "03 May 2024 15:10:19",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -543,7 +577,7 @@
     "latitude": "-36.159725189",
     "longitude": "150.100051879",
     "region": "nsw",
-    "time_of_call": "03 May 2024 00:31:00",
+    "time_of_call": "03 May 2024 15:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -555,7 +589,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 May 2024 00:31"
+    "updated": "3 May 2024 15:13"
   },
   {
     "title": "Second Trail HR",
@@ -675,7 +709,7 @@
     "latitude": "-35.6658388179999",
     "longitude": "147.972900867",
     "region": "nsw",
-    "time_of_call": "03 May 2024 10:30:00",
+    "time_of_call": "03 May 2024 15:00:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -687,7 +721,7 @@
     "fire": "Yes",
     "size": "62 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "3 May 2024 10:30"
+    "updated": "3 May 2024 15:00"
   },
   {
     "title": "FCNSW Rosewood Park HR",
@@ -785,7 +819,7 @@
     "latitude": "-36.2343597409999",
     "longitude": "149.122695923",
     "region": "nsw",
-    "time_of_call": "03 May 2024 00:27:00",
+    "time_of_call": "03 May 2024 15:00:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -795,7 +829,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "NSW Police",
-    "updated": "3 May 2024 00:27"
+    "updated": "3 May 2024 15:00"
   },
   {
     "title": "Tea Ridge HR",
@@ -914,28 +948,6 @@
     "updated": "2 May 2024 13:56"
   },
   {
-    "title": "YARRAGEE RD, MORUYA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547349",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.9068527219999",
-    "longitude": "150.046554566",
-    "region": "nsw",
-    "time_of_call": "02 May 2024 18:08:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "76 YARRAGEE RD, MORUYA 2537",
-    "council_area": "Eurobodalla",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 May 2024 18:08"
-  },
-  {
     "title": "RENNIE RD, RENNIE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547352",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1031,7 +1043,7 @@
     "latitude": "-37.023113431",
     "longitude": "149.873256683",
     "region": "nsw",
-    "time_of_call": "03 May 2024 10:57:00",
+    "time_of_call": "03 May 2024 15:04:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1043,7 +1055,7 @@
     "fire": "Yes",
     "size": "1100 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "3 May 2024 10:57"
+    "updated": "3 May 2024 15:04"
   },
   {
     "title": "MITCHELL LINE OF ROAD, WHITTINGHAM",
@@ -1066,53 +1078,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 May 2024 12:18"
-  },
-  {
-    "title": "WARRABAH RD, QUAMBONE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547409",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.8944396979999",
-    "longitude": "148.010894775",
-    "region": "nsw",
-    "time_of_call": "03 May 2024 14:19:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "346 WARRABAH RD, QUAMBONE 2831",
-    "council_area": "Coonamble",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 May 2024 14:19"
-  },
-  {
-    "title": "RICHMOND RD, DEAN PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547414",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.73242569",
-    "longitude": "150.84765625",
-    "region": "nsw",
-    "time_of_call": "03 May 2024 13:58:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "RICHMOND RD, DEAN PARK 2761",
-    "council_area": "Blacktown",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "3 May 2024 13:58"
   },
   {
     "title": "WONGALEA RD, NELUNGALOO",
@@ -1179,5 +1144,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 May 2024 14:39"
+  },
+  {
+    "title": "BLUE VALE RD, GUNNEDAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547419",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.9311408999999",
+    "longitude": "150.213378907",
+    "region": "nsw",
+    "time_of_call": "03 May 2024 14:56:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "BROOKLYN 321 BLUE VALE RD, GUNNEDAH 2380",
+    "council_area": "Gunnedah",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 May 2024 14:56"
   }
 ]
