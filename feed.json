@@ -54,24 +54,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "STORM OR TREE DAMAGE - YARRALUMLA",
-    "id": "006778-05052024",
-    "latitude": "-35.3039880299",
-    "longitude": "149.1001563199",
-    "region": "act",
-    "time_of_call": "05 May 2024 07:14:01",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "STORM OR TREE DAMAGE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -145,6 +127,22 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "05 May 2024 08:16:07",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONYTHON",
+    "id": "026587-05052024",
+    "latitude": "-35.435736",
+    "longitude": "149.081053",
+    "region": "act",
+    "time_of_call": "05 May 2024 08:37:36",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
@@ -800,26 +798,6 @@
     "updated": "5 May 2024 07:24"
   },
   {
-    "title": "WITHERS RD, ROUSE HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547522",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6694717399999",
-    "longitude": "150.915298462",
-    "region": "nsw",
-    "time_of_call": "05 May 2024 07:54:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "WITHERS RD, ROUSE HILL 2155",
-    "council_area": "The Hills",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 May 2024 07:54"
-  },
-  {
     "title": "EDEN FOREST RD, GRAVESEND",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547523",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -849,9 +827,9 @@
     "latitude": "-32.300144196",
     "longitude": "152.293624878",
     "region": "nsw",
-    "time_of_call": "05 May 2024 08:01:00",
+    "time_of_call": "05 May 2024 08:28:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "WOOTTON WAY, WOOTTON 2423",
     "council_area": "Mid-Coast",
@@ -859,6 +837,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 May 2024 08:01"
+    "updated": "5 May 2024 08:28"
   }
 ]
