@@ -79,10 +79,10 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "04 May 2024 13:54:20",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -111,26 +111,10 @@
     "longitude": "149.03611",
     "region": "act",
     "time_of_call": "04 May 2024 15:59:08",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "026454-04052024",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "04 May 2024 16:13:02",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -191,10 +175,10 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "04 May 2024 16:57:41",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -211,6 +195,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUGHES",
+    "id": "026469-04052024",
+    "latitude": "-35.333105",
+    "longitude": "149.094654",
+    "region": "act",
+    "time_of_call": "04 May 2024 17:18:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -990,28 +990,6 @@
     "updated": "4 May 2024 13:45"
   },
   {
-    "title": "REMEMBRANCE DVWY, YANDERRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547489",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.314395904",
-    "longitude": "150.577957153",
-    "region": "nsw",
-    "time_of_call": "04 May 2024 17:02:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "REMEMBRANCE DVWY, YANDERRA 2574",
-    "council_area": "Wollondilly",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 May 2024 17:02"
-  },
-  {
     "title": "GOULBURN RD, CROOKWELL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547490",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1019,9 +997,9 @@
     "latitude": "-34.4761619559999",
     "longitude": "149.513442994",
     "region": "nsw",
-    "time_of_call": "04 May 2024 17:04:00",
+    "time_of_call": "04 May 2024 17:16:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GOULBURN RD, CROOKWELL 2583",
     "council_area": "Upper Lachlan",
@@ -1031,7 +1009,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 May 2024 17:04"
+    "updated": "4 May 2024 17:16"
   },
   {
     "title": "TUMBI RD, TUMBI UMBI",
