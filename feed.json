@@ -305,10 +305,10 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "06 May 2024 15:02:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -325,6 +325,38 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NICHOLLS",
+    "id": "026914-06052024",
+    "latitude": "-35.186387",
+    "longitude": "149.094445",
+    "region": "act",
+    "time_of_call": "06 May 2024 15:21:31",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "026915-06052024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "06 May 2024 15:23:29",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -514,7 +546,7 @@
     "latitude": "-36.96861526",
     "longitude": "149.65528965",
     "region": "nsw",
-    "time_of_call": "04 May 2024 15:06:00",
+    "time_of_call": "06 May 2024 15:26:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -526,7 +558,7 @@
     "fire": "Yes",
     "size": "106 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "4 May 2024 15:06"
+    "updated": "6 May 2024 15:26"
   },
   {
     "title": "OFF BASIN VIEW PDE, BASIN VIEW",
@@ -1030,9 +1062,9 @@
     "latitude": "-32.018177033",
     "longitude": "149.970916749",
     "region": "nsw",
-    "time_of_call": "06 May 2024 14:25:00",
+    "time_of_call": "06 May 2024 15:20:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GOLDEN HWY, CASSILIS 2329",
     "council_area": "Upper Hunter",
@@ -1042,27 +1074,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 May 2024 14:25"
-  },
-  {
-    "title": "PARK RD, ORANGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547640",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.303611756",
-    "longitude": "149.077133178",
-    "region": "nsw",
-    "time_of_call": "06 May 2024 14:28:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "SOMERVALE 83 PARK RD, ORANGE 2800",
-    "council_area": "Orange",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 May 2024 14:28"
+    "updated": "6 May 2024 15:20"
   },
   {
     "title": "ANNANGROVE RD, ROUSE HILL",
