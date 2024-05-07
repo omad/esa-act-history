@@ -1,19 +1,21 @@
 [
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "027218-08052024",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
+    "title": "RUBBISH FIRE - COOMBS",
+    "id": "006889-08052024",
+    "latitude": "-35.3156089783",
+    "longitude": "149.0337524414",
     "region": "act",
-    "time_of_call": "08 May 2024 00:32:31",
-    "status": "Resource Allocation Pending",
+    "time_of_call": "08 May 2024 03:36:52",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "RUBBISH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg"
   },
   {
     "agency": "Ambulance",
@@ -29,6 +31,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MAWSON",
+    "id": "027224-08052024",
+    "latitude": "-35.361049",
+    "longitude": "149.099386",
+    "region": "act",
+    "time_of_call": "08 May 2024 03:32:57",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
