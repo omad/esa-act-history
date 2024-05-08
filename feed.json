@@ -1,23 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "ANIMAL RESCUE - HACKETT",
-    "id": "006902-08052024",
-    "latitude": "-35.24955387",
-    "longitude": "149.1561057099",
-    "region": "act",
-    "time_of_call": "08 May 2024 10:36:03",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "ANIMAL RESCUE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg"
-  },
-  {
     "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -27,10 +9,10 @@
     "longitude": "149.11730778",
     "region": "act",
     "time_of_call": "08 May 2024 12:55:29",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "TRANSPORT FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/transport-fire_0.svg"
@@ -45,22 +27,6 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "08 May 2024 10:03:48",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FORREST",
-    "id": "027265-08052024",
-    "latitude": "-35.318088",
-    "longitude": "149.12506",
-    "region": "act",
-    "time_of_call": "08 May 2024 10:38:05",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
@@ -141,10 +107,10 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "08 May 2024 12:17:03",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -189,26 +155,10 @@
     "longitude": "149.129625",
     "region": "act",
     "time_of_call": "08 May 2024 12:30:46",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUNLOP",
-    "id": "027296-08052024",
-    "latitude": "-35.193951",
-    "longitude": "149.019471",
-    "region": "act",
-    "time_of_call": "08 May 2024 12:43:38",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -221,10 +171,10 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "08 May 2024 13:02:48",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -237,10 +187,10 @@
     "longitude": "149.036735",
     "region": "act",
     "time_of_call": "08 May 2024 13:14:31",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -260,6 +210,38 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLOREY",
+    "id": "027309-08052024",
+    "latitude": "-35.224909",
+    "longitude": "149.053511",
+    "region": "act",
+    "time_of_call": "08 May 2024 13:35:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "027312-08052024",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "08 May 2024 13:41:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Warrawilla",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542615",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -267,7 +249,7 @@
     "latitude": "-37.130329725",
     "longitude": "149.299899102",
     "region": "nsw",
-    "time_of_call": "06 May 2024 10:39:00",
+    "time_of_call": "08 May 2024 13:36:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -279,7 +261,7 @@
     "fire": "Yes",
     "size": "15 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "6 May 2024 10:39"
+    "updated": "8 May 2024 13:36"
   },
   {
     "title": "Bullflat Road",
@@ -289,7 +271,7 @@
     "latitude": "-37.1494123799999",
     "longitude": "149.216763497",
     "region": "nsw",
-    "time_of_call": "06 May 2024 10:37:00",
+    "time_of_call": "08 May 2024 13:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -301,7 +283,7 @@
     "fire": "Yes",
     "size": "130 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "6 May 2024 10:37"
+    "updated": "8 May 2024 13:31"
   },
   {
     "title": "Willigobung Plantation Burn",
@@ -355,7 +337,7 @@
     "latitude": "-37.0828451149999",
     "longitude": "149.466247558",
     "region": "nsw",
-    "time_of_call": "06 May 2024 10:39:00",
+    "time_of_call": "08 May 2024 13:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -367,7 +349,7 @@
     "fire": "Yes",
     "size": "150 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "6 May 2024 10:39"
+    "updated": "8 May 2024 13:38"
   },
   {
     "title": "Airstrip Road",
@@ -377,7 +359,7 @@
     "latitude": "-37.150568542",
     "longitude": "149.283156394",
     "region": "nsw",
-    "time_of_call": "06 May 2024 10:38:00",
+    "time_of_call": "08 May 2024 13:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -389,7 +371,7 @@
     "fire": "Yes",
     "size": "90 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "6 May 2024 10:38"
+    "updated": "8 May 2024 13:35"
   },
   {
     "title": "Miralai Road",
@@ -399,7 +381,7 @@
     "latitude": "-37.122822609",
     "longitude": "149.111423492",
     "region": "nsw",
-    "time_of_call": "06 May 2024 10:37:00",
+    "time_of_call": "08 May 2024 13:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -411,7 +393,7 @@
     "fire": "Yes",
     "size": "192 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "6 May 2024 10:37"
+    "updated": "8 May 2024 13:30"
   },
   {
     "title": "CROOKED CREEK RD, BARHAM",
