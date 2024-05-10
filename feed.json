@@ -41,26 +41,10 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "11 May 2024 06:22:35",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
-    "id": "027940-11052024",
-    "latitude": "-35.184984",
-    "longitude": "149.135062",
-    "region": "act",
-    "time_of_call": "11 May 2024 06:24:16",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -501,5 +485,25 @@
     "size": "231 ha",
     "responsible_agency": "Forestry Corporation of NSW",
     "updated": "10 May 2024 12:07"
+  },
+  {
+    "title": "MIDWAY RD, MANDALONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547981",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.1299705499999",
+    "longitude": "151.471130371",
+    "region": "nsw",
+    "time_of_call": "11 May 2024 07:18:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "MIDWAY RD, MANDALONG 2264",
+    "council_area": "Lake Macquarie",
+    "type": "Truck Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 May 2024 07:18"
   }
 ]
