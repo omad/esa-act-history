@@ -82,6 +82,38 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "027939-11052024",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "11 May 2024 06:22:35",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "027940-11052024",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "11 May 2024 06:24:16",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Prescribed Burn Monterey 24 AC",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_521765",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -457,28 +489,6 @@
     "updated": "10 May 2024 12:07"
   },
   {
-    "title": "OLD COOMA RD, GOOGONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547976",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.4005813599999",
-    "longitude": "149.230255127",
-    "region": "nsw",
-    "time_of_call": "11 May 2024 05:57:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "OLD COOMA RD, GOOGONG 2620",
-    "council_area": "Queanbeyan-Palerang",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 May 2024 05:57"
-  },
-  {
     "title": "DIAMOND SWAMP RD, TARANA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_547978",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -486,9 +496,9 @@
     "latitude": "-33.525566101",
     "longitude": "149.908691406",
     "region": "nsw",
-    "time_of_call": "11 May 2024 05:44:00",
+    "time_of_call": "11 May 2024 06:21:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "DIAMOND SWAMP RD, TARANA 2787",
     "council_area": "Lithgow",
@@ -498,7 +508,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 May 2024 05:44"
+    "updated": "11 May 2024 06:21"
   },
   {
     "title": "LOUISIANA RD",
