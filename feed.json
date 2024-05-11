@@ -18,7 +18,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - RIVETT",
@@ -45,26 +45,10 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "11 May 2024 10:06:13",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WANNIASSA",
-    "id": "027980-11052024",
-    "latitude": "-35.399113",
-    "longitude": "149.091978",
-    "region": "act",
-    "time_of_call": "11 May 2024 10:39:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -157,10 +141,10 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "11 May 2024 11:33:06",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -173,10 +157,10 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "11 May 2024 11:37:00",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -285,10 +269,10 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "11 May 2024 12:23:34",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -676,5 +660,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 May 2024 12:05"
+  },
+  {
+    "title": "DEVLIN RD, CASTLEREAGH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_548000",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6584854129999",
+    "longitude": "150.687164307",
+    "region": "nsw",
+    "time_of_call": "11 May 2024 12:25:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "135 DEVLIN RD, CASTLEREAGH 2749",
+    "council_area": "Penrith",
+    "type": "Search/Rescue",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 May 2024 12:25"
   }
 ]
