@@ -18,20 +18,22 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GOWRIE",
-    "id": "028087-11052024",
-    "latitude": "-35.411365",
-    "longitude": "149.110257",
+    "title": "STORM OR TREE DAMAGE - CALWELL",
+    "id": "007081-11052024",
+    "latitude": "-35.44231157",
+    "longitude": "149.10636639",
     "region": "act",
-    "time_of_call": "11 May 2024 17:57:48",
+    "time_of_call": "11 May 2024 20:31:19",
     "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg"
   },
   {
     "agency": "Ambulance",
@@ -43,26 +45,10 @@
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "11 May 2024 19:03:55",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DOWNER",
-    "id": "028098-11052024",
-    "latitude": "-35.245131",
-    "longitude": "149.143546",
-    "region": "act",
-    "time_of_call": "11 May 2024 19:04:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -155,10 +141,10 @@
     "longitude": "149.143546",
     "region": "act",
     "time_of_call": "11 May 2024 20:06:28",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -175,6 +161,38 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WEETANGERA",
+    "id": "028116-11052024",
+    "latitude": "-35.249342",
+    "longitude": "149.049485",
+    "region": "act",
+    "time_of_call": "11 May 2024 20:39:53",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "028117-11052024",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "11 May 2024 20:45:00",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -207,7 +225,7 @@
     "latitude": "-37.130329725",
     "longitude": "149.299899102",
     "region": "nsw",
-    "time_of_call": "10 May 2024 15:27:00",
+    "time_of_call": "11 May 2024 20:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -219,7 +237,7 @@
     "fire": "Yes",
     "size": "15 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "10 May 2024 15:27"
+    "updated": "11 May 2024 20:42"
   },
   {
     "title": "Bullflat Road",
@@ -229,7 +247,7 @@
     "latitude": "-37.1494123799999",
     "longitude": "149.216763497",
     "region": "nsw",
-    "time_of_call": "10 May 2024 15:23:00",
+    "time_of_call": "11 May 2024 20:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -241,7 +259,7 @@
     "fire": "Yes",
     "size": "130 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "10 May 2024 15:23"
+    "updated": "11 May 2024 20:43"
   },
   {
     "title": "Willigobung Plantation Burn",
@@ -295,7 +313,7 @@
     "latitude": "-37.0828451149999",
     "longitude": "149.466247558",
     "region": "nsw",
-    "time_of_call": "10 May 2024 15:28:00",
+    "time_of_call": "11 May 2024 20:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -307,7 +325,7 @@
     "fire": "Yes",
     "size": "150 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "10 May 2024 15:28"
+    "updated": "11 May 2024 20:41"
   },
   {
     "title": "Airstrip Road",
@@ -317,7 +335,7 @@
     "latitude": "-37.150568542",
     "longitude": "149.283156394",
     "region": "nsw",
-    "time_of_call": "10 May 2024 15:26:00",
+    "time_of_call": "11 May 2024 20:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -329,7 +347,7 @@
     "fire": "Yes",
     "size": "90 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "10 May 2024 15:26"
+    "updated": "11 May 2024 20:43"
   },
   {
     "title": "Miralai Road",
@@ -339,7 +357,7 @@
     "latitude": "-37.122822609",
     "longitude": "149.111423492",
     "region": "nsw",
-    "time_of_call": "10 May 2024 15:22:00",
+    "time_of_call": "11 May 2024 20:44:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -351,7 +369,7 @@
     "fire": "Yes",
     "size": "192 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "10 May 2024 15:22"
+    "updated": "11 May 2024 20:44"
   },
   {
     "title": "Deniliquin North West Cultural Burn",
