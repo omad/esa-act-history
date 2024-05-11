@@ -54,20 +54,22 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "028072-11052024",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
+    "title": "MOTOR VEHICLE ACCIDENT - OXLEY",
+    "id": "007072-11052024",
+    "latitude": "-35.407238",
+    "longitude": "149.08328399",
     "region": "act",
-    "time_of_call": "11 May 2024 16:04:49",
+    "time_of_call": "11 May 2024 17:24:40",
     "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
   },
   {
     "agency": "Ambulance",
@@ -131,6 +133,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FISHER",
+    "id": "028085-11052024",
+    "latitude": "-35.360481",
+    "longitude": "149.058056",
+    "region": "act",
+    "time_of_call": "11 May 2024 17:26:56",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -449,9 +467,9 @@
     "latitude": "-31.7999038689999",
     "longitude": "151.916992188",
     "region": "nsw",
-    "time_of_call": "11 May 2024 15:58:00",
+    "time_of_call": "11 May 2024 17:18:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "THUNDERBOLTS WAY, BRETTI 2422",
     "council_area": "Mid-Coast",
@@ -461,7 +479,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 May 2024 15:58"
+    "updated": "11 May 2024 17:18"
   },
   {
     "title": "LAVIS LANE, WILLIAMTOWN",
@@ -471,9 +489,9 @@
     "latitude": "-32.8175239569999",
     "longitude": "151.844482422",
     "region": "nsw",
-    "time_of_call": "11 May 2024 16:00:00",
+    "time_of_call": "11 May 2024 17:15:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "LAVIS LANE, WILLIAMTOWN 2318",
     "council_area": "Port Stephens",
@@ -483,6 +501,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 May 2024 16:00"
+    "updated": "11 May 2024 17:15"
   }
 ]
