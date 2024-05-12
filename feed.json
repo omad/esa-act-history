@@ -3,22 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HARRISON",
-    "id": "028223-12052024",
-    "latitude": "-35.200527",
-    "longitude": "149.154752",
-    "region": "act",
-    "time_of_call": "12 May 2024 12:23:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CHARNWOOD",
     "id": "028227-12052024",
     "latitude": "-35.200338",
@@ -121,10 +105,10 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "12 May 2024 15:11:20",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -157,6 +141,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PARKES",
+    "id": "028249-12052024",
+    "latitude": "-35.297058",
+    "longitude": "149.134319",
+    "region": "act",
+    "time_of_call": "12 May 2024 15:47:04",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -490,28 +490,6 @@
     "updated": "12 May 2024 14:34"
   },
   {
-    "title": "PACKHAM DR, MANILDRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_548084",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.1636238099999",
-    "longitude": "148.706710815",
-    "region": "nsw",
-    "time_of_call": "12 May 2024 14:24:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "YARRAN 1869 PACKHAM DR, MANILDRA 2865",
-    "council_area": "Cabonne",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 May 2024 14:24"
-  },
-  {
     "title": "SHERWOOD CREEK RD, UPPER CORINDI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_548086",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -519,9 +497,9 @@
     "latitude": "-30.041664123",
     "longitude": "153.11328125",
     "region": "nsw",
-    "time_of_call": "12 May 2024 15:02:00",
+    "time_of_call": "12 May 2024 15:32:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "SHERWOOD CREEK RD, UPPER CORINDI 2456",
     "council_area": "Coffs Harbour",
@@ -531,7 +509,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 May 2024 15:02"
+    "updated": "12 May 2024 15:32"
   },
   {
     "title": "TOURIST RD, EAST KANGALOON",
@@ -572,5 +550,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 May 2024 15:17"
+  },
+  {
+    "title": "PACIFIC HWY, OURIMBAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_548089",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.352184296",
+    "longitude": "151.370681763",
+    "region": "nsw",
+    "time_of_call": "12 May 2024 15:35:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "30-34 PACIFIC HWY, OURIMBAH 2258",
+    "council_area": "Central Coast",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "12 May 2024 15:35"
   }
 ]
