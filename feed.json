@@ -119,22 +119,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "028744-14052024",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
-    "region": "act",
-    "time_of_call": "14 May 2024 17:19:58",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GILMORE",
     "id": "028746-14052024",
     "latitude": "-35.417683",
@@ -180,6 +164,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "028757-14052024",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "14 May 2024 18:42:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Prescribed Burn Munjara 24 AC",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_521710",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -209,7 +209,7 @@
     "latitude": "-37.130329725",
     "longitude": "149.299899102",
     "region": "nsw",
-    "time_of_call": "13 May 2024 16:01:00",
+    "time_of_call": "14 May 2024 18:44:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -221,7 +221,7 @@
     "fire": "Yes",
     "size": "15 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "13 May 2024 16:01"
+    "updated": "14 May 2024 18:44"
   },
   {
     "title": "Bullflat Road",
@@ -297,7 +297,7 @@
     "latitude": "-37.150568542",
     "longitude": "149.283156394",
     "region": "nsw",
-    "time_of_call": "13 May 2024 16:00:00",
+    "time_of_call": "14 May 2024 18:44:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -309,7 +309,7 @@
     "fire": "Yes",
     "size": "90 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "13 May 2024 16:00"
+    "updated": "14 May 2024 18:44"
   },
   {
     "title": "Miralai Road",
@@ -491,26 +491,6 @@
     "updated": "14 May 2024 17:34"
   },
   {
-    "title": "WALLACE RD, COLEAMBALLY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_548209",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.7127990729999",
-    "longitude": "146.064666749",
-    "region": "nsw",
-    "time_of_call": "14 May 2024 18:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WALLACE RD, COLEAMBALLY 2707",
-    "council_area": "Murrumbidgee",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 May 2024 18:07"
-  },
-  {
     "title": "BRUXNER HWY, DRAKE VILLAGE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_548210",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -518,9 +498,9 @@
     "latitude": "-28.924999237",
     "longitude": "152.368255615",
     "region": "nsw",
-    "time_of_call": "14 May 2024 18:03:00",
+    "time_of_call": "14 May 2024 18:41:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "7786 BRUXNER HWY, DRAKE VILLAGE 2469",
     "council_area": "Tenterfield",
@@ -528,27 +508,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 May 2024 18:03"
-  },
-  {
-    "title": "BUNDARRA RD, GILGAI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_548211",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.858030319",
-    "longitude": "151.116958618",
-    "region": "nsw",
-    "time_of_call": "14 May 2024 18:13:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "UNIT 842/3624 BUNDARRA RD, GILGAI 2360",
-    "council_area": "Inverell",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 May 2024 18:13"
+    "updated": "14 May 2024 18:41"
   },
   {
     "title": "COROWA RAND RD, GOOMBARGANA",
