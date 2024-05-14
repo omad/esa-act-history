@@ -125,10 +125,10 @@
     "longitude": "149.034875",
     "region": "act",
     "time_of_call": "15 May 2024 04:42:59",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -157,10 +157,10 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "15 May 2024 05:01:51",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -173,10 +173,10 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "15 May 2024 05:12:34",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -498,9 +498,9 @@
     "latitude": "-30.3499298089999",
     "longitude": "149.639205933",
     "region": "nsw",
-    "time_of_call": "15 May 2024 04:35:00",
+    "time_of_call": "15 May 2024 05:12:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1027 KIANDOOL LANE, BOHENA CREEK 2390",
     "council_area": "Narrabri",
@@ -510,7 +510,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 May 2024 04:35"
+    "updated": "15 May 2024 05:12"
   },
   {
     "title": "ELDERSLIE RD, MITCHELLS FLAT",
@@ -520,9 +520,9 @@
     "latitude": "-32.5812606809999",
     "longitude": "151.318374634",
     "region": "nsw",
-    "time_of_call": "15 May 2024 04:17:00",
+    "time_of_call": "15 May 2024 04:41:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "ELDERSLIE RD, MITCHELLS FLAT 2330",
     "council_area": "Singleton",
@@ -530,7 +530,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 May 2024 04:17"
+    "updated": "15 May 2024 04:41"
   },
   {
     "title": "GEORGE BOOTH DR, WEST WALLSEND",
@@ -553,5 +553,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 May 2024 04:54"
+  },
+  {
+    "title": "HYDE AV, GLENHAVEN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_548225",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6980209349999",
+    "longitude": "151.000656127",
+    "region": "nsw",
+    "time_of_call": "15 May 2024 05:16:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "59 HYDE AV, GLENHAVEN 2156",
+    "council_area": "The Hills",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 May 2024 05:16"
   }
 ]
