@@ -97,10 +97,10 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "17 May 2024 15:56:08",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -129,10 +129,10 @@
     "longitude": "149.146868",
     "region": "act",
     "time_of_call": "17 May 2024 16:19:25",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -181,22 +181,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHISHOLM",
-    "id": "029429-17052024",
-    "latitude": "-35.422993",
-    "longitude": "149.12793",
-    "region": "act",
-    "time_of_call": "17 May 2024 17:12:39",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -261,6 +245,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FORDE",
+    "id": "029439-17052024",
+    "latitude": "-35.169175",
+    "longitude": "149.145987",
+    "region": "act",
+    "time_of_call": "17 May 2024 18:30:06",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -491,7 +491,7 @@
     "latitude": "-32.7852325439999",
     "longitude": "151.895812988",
     "region": "nsw",
-    "time_of_call": "16 May 2024 18:47:00",
+    "time_of_call": "17 May 2024 18:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -503,7 +503,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 May 2024 18:47"
+    "updated": "17 May 2024 18:20"
   },
   {
     "title": "FCNSW Murraguldrie HR",
@@ -724,26 +724,6 @@
     "updated": "17 May 2024 17:25"
   },
   {
-    "title": "QUINN ST, CATHERINE HILL BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549395",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.16337204",
-    "longitude": "151.625244141",
-    "region": "nsw",
-    "time_of_call": "17 May 2024 18:20:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "36 QUINN ST, CATHERINE HILL BAY 2281",
-    "council_area": "Lake Macquarie",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 May 2024 18:20"
-  },
-  {
     "title": "HARVEST BVD, CHISHOLM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549396",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -788,23 +768,25 @@
     "updated": "17 May 2024 17:58"
   },
   {
-    "title": "(WESTERN MTWY), ORCHARD HILLS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549399",
+    "title": "COBBADAH RD, DINOGA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549400",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.7854499819999",
-    "longitude": "150.703903198",
+    "latitude": "-30.0154304499999",
+    "longitude": "150.592941284",
     "region": "nsw",
-    "time_of_call": "17 May 2024 18:03:00",
+    "time_of_call": "17 May 2024 18:25:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
-    "location": "M4 (WESTERN MTWY), ORCHARD HILLS 2748",
-    "council_area": "Penrith",
-    "type": "Truck Fire",
-    "fire": "Yes",
+    "location": "RUBY HILL 4351 COBBADAH RD, DINOGA 2404",
+    "council_area": "Gwydir",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 May 2024 18:03"
+    "updated": "17 May 2024 18:25"
   }
 ]
