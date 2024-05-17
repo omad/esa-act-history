@@ -108,36 +108,22 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AMAROO",
-    "id": "029527-18052024",
-    "latitude": "-35.172039",
-    "longitude": "149.129625",
+    "title": "STORM OR TREE DAMAGE - WANNIASSA",
+    "id": "007379-18052024",
+    "latitude": "-35.39271723",
+    "longitude": "149.09052138",
     "region": "act",
-    "time_of_call": "18 May 2024 07:37:46",
+    "time_of_call": "18 May 2024 09:37:08",
     "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "029531-18052024",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "18 May 2024 08:20:01",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg"
   },
   {
     "agency": "Ambulance",
@@ -181,10 +167,10 @@
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "18 May 2024 08:35:04",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -213,10 +199,10 @@
     "longitude": "149.154752",
     "region": "act",
     "time_of_call": "18 May 2024 09:16:50",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -229,6 +215,22 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "18 May 2024 09:18:24",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLOREY",
+    "id": "029546-18052024",
+    "latitude": "-35.224909",
+    "longitude": "149.053511",
+    "region": "act",
+    "time_of_call": "18 May 2024 09:33:45",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
@@ -745,9 +747,9 @@
     "latitude": "-33.481484",
     "longitude": "150.140681",
     "region": "nsw",
-    "time_of_call": "18 May 2024 09:16:00",
+    "time_of_call": "18 May 2024 09:33:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -760,6 +762,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "18 May 2024 09:16"
+    "updated": "18 May 2024 09:33"
   }
 ]
