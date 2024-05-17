@@ -213,10 +213,10 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "17 May 2024 20:19:32",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -766,28 +766,6 @@
     "updated": "17 May 2024 19:38"
   },
   {
-    "title": "SWAN ST, RAYMOND TERRACE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549406",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.7640571599999",
-    "longitude": "151.739776611",
-    "region": "nsw",
-    "time_of_call": "17 May 2024 21:10:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "1C SWAN ST, RAYMOND TERRACE 2324",
-    "council_area": "Port Stephens",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 May 2024 21:10"
-  },
-  {
     "title": "LACHLAN VALLEY WAY, GODFREYS CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549407",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -850,5 +828,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 May 2024 21:12"
+  },
+  {
+    "title": "MEREDITH AV, LEMON TREE PASSAGE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549413",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.7324066159999",
+    "longitude": "152.033355713",
+    "region": "nsw",
+    "time_of_call": "17 May 2024 21:23:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "MEREDITH AV, LEMON TREE PASSAGE 2319",
+    "council_area": "Port Stephens",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 May 2024 21:23"
   }
 ]
