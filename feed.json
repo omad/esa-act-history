@@ -108,6 +108,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - CITY",
+    "id": "007407-19052024",
+    "latitude": "-35.27694",
+    "longitude": "149.13421",
+    "region": "act",
+    "time_of_call": "19 May 2024 02:06:54",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -117,22 +135,6 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "18 May 2024 21:34:55",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CRACE",
-    "id": "029703-18052024",
-    "latitude": "-35.202196",
-    "longitude": "149.110562",
-    "region": "act",
-    "time_of_call": "18 May 2024 23:49:10",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
@@ -181,10 +183,10 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "19 May 2024 01:44:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -606,28 +608,6 @@
     "updated": "18 May 2024 20:13"
   },
   {
-    "title": "PRINCES HWY, TILBA TILBA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549524",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.3408088689999",
-    "longitude": "150.030593873",
-    "region": "nsw",
-    "time_of_call": "19 May 2024 00:26:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "PRINCES HWY, TILBA TILBA 2546",
-    "council_area": "Eurobodalla",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 May 2024 00:26"
-  },
-  {
     "title": "KIALLA RD, CROOKWELL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549525",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -657,9 +637,9 @@
     "latitude": "-29.7379074099999",
     "longitude": "151.753204346",
     "region": "nsw",
-    "time_of_call": "19 May 2024 01:32:00",
+    "time_of_call": "19 May 2024 02:00:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "GWYDIR HWY, GLEN INNES 2370",
     "council_area": "Glen Innes Severn",
@@ -669,7 +649,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 May 2024 01:32"
+    "updated": "19 May 2024 02:00"
   },
   {
     "title": "LEETHAM RD, MATHOURA",
@@ -679,9 +659,9 @@
     "latitude": "-35.7966194159999",
     "longitude": "144.88597107",
     "region": "nsw",
-    "time_of_call": "19 May 2024 01:37:00",
+    "time_of_call": "19 May 2024 02:13:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "199 LEETHAM RD, MATHOURA 2710",
     "council_area": "Murray River",
@@ -689,6 +669,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 May 2024 01:37"
+    "updated": "19 May 2024 02:13"
   }
 ]
