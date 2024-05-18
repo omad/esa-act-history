@@ -108,24 +108,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - CITY",
-    "id": "007407-19052024",
-    "latitude": "-35.27694",
-    "longitude": "149.13421",
-    "region": "act",
-    "time_of_call": "19 May 2024 02:06:54",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -171,6 +153,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "029720-19052024",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "19 May 2024 03:31:30",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
