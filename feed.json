@@ -36,6 +36,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg"
   },
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - HUME",
+    "id": "007464-20052024",
+    "latitude": "-35.38417",
+    "longitude": "149.17212",
+    "region": "act",
+    "time_of_call": "20 May 2024 09:24:15",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -45,10 +63,10 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "20 May 2024 07:22:37",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -65,22 +83,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - THEODORE",
-    "id": "029924-20052024",
-    "latitude": "-35.449632",
-    "longitude": "149.120754",
-    "region": "act",
-    "time_of_call": "20 May 2024 08:04:16",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -189,10 +191,10 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "20 May 2024 09:06:42",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -728,28 +730,6 @@
     "updated": "20 May 2024 08:56"
   },
   {
-    "title": "JERANGLE RD, BREDBO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549626",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.9339790339999",
-    "longitude": "149.202438355",
-    "region": "nsw",
-    "time_of_call": "20 May 2024 08:50:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "682 JERANGLE RD, BREDBO 2626",
-    "council_area": "Snowy Monaro",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 May 2024 08:50"
-  },
-  {
     "title": "GOAN CREEK RD, BALLIMORE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549627",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -770,27 +750,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 May 2024 08:23"
-  },
-  {
-    "title": "KINGS HWY, NELLIGEN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549630",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.6531295779999",
-    "longitude": "150.146896363",
-    "region": "nsw",
-    "time_of_call": "20 May 2024 08:59:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "KINGS HWY, NELLIGEN 2536",
-    "council_area": "Eurobodalla",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 May 2024 08:59"
   }
 ]
