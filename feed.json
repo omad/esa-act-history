@@ -87,22 +87,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "029908-20052024",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "20 May 2024 06:39:16",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MACQUARIE",
     "id": "029914-20052024",
     "latitude": "-35.249901",
@@ -196,6 +180,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "029925-20052024",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "20 May 2024 08:27:31",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Prescribed Burn Hopes Rd 24AC ",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_518983",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -247,7 +247,7 @@
     "latitude": "-37.130329725",
     "longitude": "149.299899102",
     "region": "nsw",
-    "time_of_call": "18 May 2024 11:43:00",
+    "time_of_call": "20 May 2024 08:25:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -259,7 +259,7 @@
     "fire": "Yes",
     "size": "15 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "18 May 2024 11:43"
+    "updated": "20 May 2024 08:25"
   },
   {
     "title": "Bullflat Road",
@@ -269,7 +269,7 @@
     "latitude": "-37.1494123799999",
     "longitude": "149.216763497",
     "region": "nsw",
-    "time_of_call": "18 May 2024 11:42:00",
+    "time_of_call": "20 May 2024 08:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -281,7 +281,7 @@
     "fire": "Yes",
     "size": "130 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "18 May 2024 11:42"
+    "updated": "20 May 2024 08:22"
   },
   {
     "title": "Willigobung Plantation Burn",
@@ -335,7 +335,7 @@
     "latitude": "-37.150568542",
     "longitude": "149.283156394",
     "region": "nsw",
-    "time_of_call": "18 May 2024 11:42:00",
+    "time_of_call": "20 May 2024 08:23:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -347,7 +347,7 @@
     "fire": "Yes",
     "size": "90 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "18 May 2024 11:42"
+    "updated": "20 May 2024 08:23"
   },
   {
     "title": "Miralai Road",
@@ -357,7 +357,7 @@
     "latitude": "-37.122822609",
     "longitude": "149.111423492",
     "region": "nsw",
-    "time_of_call": "18 May 2024 11:40:00",
+    "time_of_call": "20 May 2024 08:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -369,7 +369,7 @@
     "fire": "Yes",
     "size": "192 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "18 May 2024 11:40"
+    "updated": "20 May 2024 08:19"
   },
   {
     "title": "Parish's HR",
@@ -773,5 +773,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 May 2024 07:44"
+  },
+  {
+    "title": "PACIFIC HIGHWAY, BULAHDELAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549625",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.367347717",
+    "longitude": "152.300048828",
+    "region": "nsw",
+    "time_of_call": "20 May 2024 08:12:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HIGHWAY, BULAHDELAH 2423",
+    "council_area": "Mid-Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 May 2024 08:12"
+  },
+  {
+    "title": "JERANGLE RD, BREDBO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549626",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.9339790339999",
+    "longitude": "149.202438355",
+    "region": "nsw",
+    "time_of_call": "20 May 2024 08:20:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "715 JERANGLE RD, BREDBO 2626",
+    "council_area": "Snowy Monaro",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 May 2024 08:20"
   }
 ]
