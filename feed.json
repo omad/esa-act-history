@@ -107,22 +107,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "029782-19052024",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "19 May 2024 14:19:23",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
     "id": "029784-19052024",
     "latitude": "-35.425091",
@@ -193,10 +177,10 @@
     "longitude": "149.154752",
     "region": "act",
     "time_of_call": "19 May 2024 14:58:08",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -213,6 +197,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISAACS",
+    "id": "029795-19052024",
+    "latitude": "-35.36866",
+    "longitude": "149.117192",
+    "region": "act",
+    "time_of_call": "19 May 2024 15:19:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -619,8 +619,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549564",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.8888147769999",
-    "longitude": "149.005684103",
+    "latitude": "-34.8888130189999",
+    "longitude": "149.005691529",
     "region": "nsw",
     "time_of_call": "19 May 2024 14:01:00",
     "event_type": "burnt area",
@@ -682,28 +682,6 @@
     "updated": "19 May 2024 13:38"
   },
   {
-    "title": "PUTTY RD, HOWES VALLEY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549569",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.7943840029999",
-    "longitude": "150.900421143",
-    "region": "nsw",
-    "time_of_call": "19 May 2024 13:53:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "PUTTY RD, HOWES VALLEY 2330",
-    "council_area": "Singleton",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 May 2024 13:53"
-  },
-  {
     "title": "GARRA RD, MOLONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549572",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -761,9 +739,9 @@
     "latitude": "-31.313394547",
     "longitude": "149.20489502",
     "region": "nsw",
-    "time_of_call": "19 May 2024 14:20:00",
+    "time_of_call": "19 May 2024 15:18:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -776,7 +754,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 May 2024 14:20"
+    "updated": "19 May 2024 15:18"
   },
   {
     "title": "LESLIE AV, LAKE MUNMORAH",
@@ -786,9 +764,9 @@
     "latitude": "-33.2061080939999",
     "longitude": "151.587066651",
     "region": "nsw",
-    "time_of_call": "19 May 2024 15:01:00",
+    "time_of_call": "19 May 2024 15:25:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "3 LESLIE AV, LAKE MUNMORAH 2259",
     "council_area": "Central Coast",
@@ -796,6 +774,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 May 2024 15:01"
+    "updated": "19 May 2024 15:25"
   }
 ]
