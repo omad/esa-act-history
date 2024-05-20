@@ -36,36 +36,22 @@
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
-    "id": "030106-20052024",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
+    "title": "MOTOR VEHICLE ACCIDENT - BELCONNEN",
+    "id": "007507-21052024",
+    "latitude": "-35.23591799",
+    "longitude": "149.06028",
     "region": "act",
-    "time_of_call": "20 May 2024 21:05:21",
-    "status": "Resource Allocation Pending",
+    "time_of_call": "21 May 2024 01:19:26",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "030126-20052024",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
-    "region": "act",
-    "time_of_call": "20 May 2024 23:03:52",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
   },
   {
     "agency": "Ambulance",
@@ -93,11 +79,77 @@
     "longitude": "149.085118",
     "region": "act",
     "time_of_call": "21 May 2024 00:44:08",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "030135-21052024",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "21 May 2024 00:59:18",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "030136-21052024",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "21 May 2024 01:16:46",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "030138-21052024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "21 May 2024 01:19:26",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - BELCONNEN",
+    "id": "030139-21052024",
+    "latitude": "-35.2352572799",
+    "longitude": "149.0603359899",
+    "region": "act",
+    "time_of_call": "21 May 2024 01:19:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": ""
   },
   {
     "title": "Prescribed Burn Hopes Rd 24AC ",
@@ -173,7 +225,7 @@
     "latitude": "-37.1494123799999",
     "longitude": "149.216763497",
     "region": "nsw",
-    "time_of_call": "20 May 2024 08:22:00",
+    "time_of_call": "21 May 2024 01:11:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -185,7 +237,7 @@
     "fire": "Yes",
     "size": "130 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "20 May 2024 08:22"
+    "updated": "21 May 2024 01:11"
   },
   {
     "title": "1606 Mt Canobolas Road",
@@ -195,7 +247,7 @@
     "latitude": "-33.3317832939999",
     "longitude": "148.993652344",
     "region": "nsw",
-    "time_of_call": "19 May 2024 20:52:00",
+    "time_of_call": "21 May 2024 01:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -207,7 +259,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 May 2024 20:52"
+    "updated": "21 May 2024 01:13"
   },
   {
     "title": "Airstrip Road",
@@ -217,7 +269,7 @@
     "latitude": "-37.150568542",
     "longitude": "149.283156394",
     "region": "nsw",
-    "time_of_call": "20 May 2024 08:23:00",
+    "time_of_call": "21 May 2024 01:12:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -229,7 +281,7 @@
     "fire": "Yes",
     "size": "90 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "20 May 2024 08:23"
+    "updated": "21 May 2024 01:12"
   },
   {
     "title": "Miralai Road",
@@ -239,7 +291,7 @@
     "latitude": "-37.122822609",
     "longitude": "149.111423492",
     "region": "nsw",
-    "time_of_call": "20 May 2024 08:19:00",
+    "time_of_call": "21 May 2024 01:11:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -251,7 +303,7 @@
     "fire": "Yes",
     "size": "192 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "20 May 2024 08:19"
+    "updated": "21 May 2024 01:11"
   },
   {
     "title": "RICHARDSON RD, SALT ASH",
@@ -261,7 +313,7 @@
     "latitude": "-32.7852325439999",
     "longitude": "151.895812988",
     "region": "nsw",
-    "time_of_call": "19 May 2024 20:53:00",
+    "time_of_call": "21 May 2024 01:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -273,7 +325,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 May 2024 20:53"
+    "updated": "21 May 2024 01:10"
   },
   {
     "title": "Yenargee HR",
@@ -283,7 +335,7 @@
     "latitude": "-31.367122625",
     "longitude": "150.035476685",
     "region": "nsw",
-    "time_of_call": "19 May 2024 14:35:00",
+    "time_of_call": "21 May 2024 01:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -295,7 +347,7 @@
     "fire": "Yes",
     "size": "680 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "19 May 2024 14:35"
+    "updated": "21 May 2024 01:10"
   },
   {
     "title": "GOAN CREEK RD, BALLIMORE",
@@ -426,5 +478,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 May 2024 00:42"
+  },
+  {
+    "title": "TERRALONG ST, KIAMA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549699",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.66728592",
+    "longitude": "150.850692749",
+    "region": "nsw",
+    "time_of_call": "21 May 2024 01:10:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "KIAMA VILLAGE 143 TERRALONG ST, KIAMA 2533",
+    "council_area": "Kiama",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 May 2024 01:10"
   }
 ]
