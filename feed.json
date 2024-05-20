@@ -127,10 +127,10 @@
     "longitude": "149.135062",
     "region": "act",
     "time_of_call": "20 May 2024 16:47:45",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -143,10 +143,10 @@
     "longitude": "149.036735",
     "region": "act",
     "time_of_call": "20 May 2024 17:12:22",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -239,10 +239,10 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "20 May 2024 18:12:17",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -271,10 +271,10 @@
     "longitude": "149.110257",
     "region": "act",
     "time_of_call": "20 May 2024 18:17:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -634,7 +634,7 @@
     "latitude": "-34.9845657339999",
     "longitude": "150.587234497",
     "region": "nsw",
-    "time_of_call": "20 May 2024 17:24:00",
+    "time_of_call": "20 May 2024 18:25:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -646,7 +646,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 May 2024 17:24"
+    "updated": "20 May 2024 18:25"
   },
   {
     "title": "KELVIN PARK DR, BRINGELLY",
@@ -698,7 +698,7 @@
     "latitude": "-34.524818421",
     "longitude": "146.398269653",
     "region": "nsw",
-    "time_of_call": "20 May 2024 18:07:00",
+    "time_of_call": "20 May 2024 18:24:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -710,7 +710,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 May 2024 18:07"
+    "updated": "20 May 2024 18:24"
   },
   {
     "title": "GRONG GRONG RIVER RD, GRONG GRONG",
@@ -733,5 +733,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 May 2024 18:18"
+  },
+  {
+    "title": "WARATAH ST, POTTERY ESTATE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549681",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.484073639",
+    "longitude": "150.156066895",
+    "region": "nsw",
+    "time_of_call": "20 May 2024 18:24:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "17 WARATAH ST, POTTERY ESTATE 2790",
+    "council_area": "Lithgow",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 May 2024 18:24"
   }
 ]
