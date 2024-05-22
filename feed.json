@@ -18,6 +18,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - KAMBAH",
+    "id": "007659-23052024",
+    "latitude": "-35.38913",
+    "longitude": "149.086004",
+    "region": "act",
+    "time_of_call": "23 May 2024 07:30:32",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -37,28 +55,28 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CALWELL",
-    "id": "030625-23052024",
-    "latitude": "-35.441132",
-    "longitude": "149.107648",
-    "region": "act",
-    "time_of_call": "23 May 2024 05:21:56",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WESTON",
     "id": "030634-23052024",
     "latitude": "-35.335896",
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "23 May 2024 07:10:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "030638-23052024",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "23 May 2024 07:30:22",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
@@ -227,7 +245,7 @@
     "latitude": "-31.9346828459999",
     "longitude": "148.995697022",
     "region": "nsw",
-    "time_of_call": "22 May 2024 18:25:00",
+    "time_of_call": "23 May 2024 07:18:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -239,7 +257,7 @@
     "fire": "Yes",
     "size": "719 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "22 May 2024 18:25"
+    "updated": "23 May 2024 07:18"
   },
   {
     "title": "YARRABANDAI RD, TRUNDLE",
@@ -381,9 +399,9 @@
     "latitude": "-35.610202789",
     "longitude": "144.134185791",
     "region": "nsw",
-    "time_of_call": "23 May 2024 07:00:00",
+    "time_of_call": "23 May 2024 07:21:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -396,6 +414,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2024 07:00"
+    "updated": "23 May 2024 07:21"
   }
 ]
