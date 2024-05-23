@@ -36,24 +36,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "HOUSE FIRE - KAMBAH",
-    "id": "007693-23052024",
-    "latitude": "-35.3901585699",
-    "longitude": "149.0568344499",
-    "region": "act",
-    "time_of_call": "23 May 2024 16:41:49",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "HOUSE FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -63,10 +45,10 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "23 May 2024 15:49:57",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -185,22 +167,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KINGSTON",
-    "id": "030756-23052024",
-    "latitude": "-35.315358",
-    "longitude": "149.146868",
-    "region": "act",
-    "time_of_call": "23 May 2024 17:24:26",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WESTON",
     "id": "030757-23052024",
     "latitude": "-35.335896",
@@ -243,6 +209,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "030768-23052024",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "23 May 2024 18:40:08",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -614,7 +596,7 @@
     "latitude": "-32.8261947629999",
     "longitude": "151.406768799",
     "region": "nsw",
-    "time_of_call": "23 May 2024 18:14:00",
+    "time_of_call": "23 May 2024 18:28:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -629,7 +611,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2024 18:14"
+    "updated": "23 May 2024 18:28"
   },
   {
     "title": "ADJUNGBILLY RD, GOBARRALONG",
@@ -664,7 +646,7 @@
     "latitude": "-30.2168865209999",
     "longitude": "151.664550781",
     "region": "nsw",
-    "time_of_call": "23 May 2024 18:02:00",
+    "time_of_call": "23 May 2024 18:44:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
@@ -676,7 +658,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 May 2024 18:02"
+    "updated": "23 May 2024 18:44"
   },
   {
     "title": "HUME HWY, LITTLE BILLABONG",
@@ -721,5 +703,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 May 2024 18:19"
+  },
+  {
+    "title": "SOUTH ST, MOLONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549932",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.101257324",
+    "longitude": "148.862884521",
+    "region": "nsw",
+    "time_of_call": "23 May 2024 18:42:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "59 SOUTH ST, MOLONG 2866",
+    "council_area": "Cabonne",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 May 2024 18:42"
   }
 ]
