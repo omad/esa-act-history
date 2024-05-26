@@ -54,6 +54,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
   },
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - WESTON",
+    "id": "007811-26052024",
+    "latitude": "-35.34816599",
+    "longitude": "149.06949599",
+    "region": "act",
+    "time_of_call": "26 May 2024 16:47:34",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -83,22 +101,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AINSLIE",
-    "id": "031313-26052024",
-    "latitude": "-35.262117",
-    "longitude": "149.144037",
-    "region": "act",
-    "time_of_call": "26 May 2024 14:56:20",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -143,10 +145,10 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "26 May 2024 16:16:08",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -838,28 +840,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 May 2024 15:57"
-  },
-  {
-    "title": "DOORALONG RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550211",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.1590118399999",
-    "longitude": "151.37071228",
-    "region": "nsw",
-    "time_of_call": "26 May 2024 15:59:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "DOORALONG TRANSFORMATION CTR 1467 DOORALONG RD, DOORALONG 2259",
-    "council_area": "Central Coast",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 May 2024 15:59"
   },
   {
     "title": "WATERMARK RD, CURLEWIS",
