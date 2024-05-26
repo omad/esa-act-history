@@ -27,10 +27,10 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "27 May 2024 08:12:00",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -91,10 +91,10 @@
     "longitude": "149.036735",
     "region": "act",
     "time_of_call": "27 May 2024 08:51:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -107,10 +107,26 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "27 May 2024 08:53:34",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "031467-27052024",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "27 May 2024 09:49:11",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -134,6 +150,28 @@
     "size": "208 ha",
     "responsible_agency": "Forestry Corporation of NSW",
     "updated": "27 May 2024 09:13"
+  },
+  {
+    "title": "Prescribed Burn Koromira 24AC",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_542303",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.990768784",
+    "longitude": "149.596710205",
+    "region": "nsw",
+    "time_of_call": "27 May 2024 09:35:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "Koromira State Forest",
+    "council_area": "Oberon",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "93 ha",
+    "responsible_agency": "Forestry Corporation of NSW",
+    "updated": "27 May 2024 09:35"
   },
   {
     "title": "Miralai Road",
@@ -312,6 +350,28 @@
     "updated": "26 May 2024 16:13"
   },
   {
+    "title": "Yaminba HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549887",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.0170443919999",
+    "longitude": "149.434404374",
+    "region": "nsw",
+    "time_of_call": "27 May 2024 09:31:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "Pilliga Nature Reserve, Yaminba Trail",
+    "council_area": "Warrumbungle",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "1221 ha",
+    "responsible_agency": "NSW National Parks and Wildlife Service",
+    "updated": "27 May 2024 09:31"
+  },
+  {
     "title": "Dividing Ridge West",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_549969",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -319,7 +379,7 @@
     "latitude": "-31.5674569139999",
     "longitude": "152.64043808",
     "region": "nsw",
-    "time_of_call": "25 May 2024 09:19:00",
+    "time_of_call": "27 May 2024 08:58:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -329,9 +389,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
     "fire": "Yes",
-    "size": "500 ha",
+    "size": "50 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "25 May 2024 09:19"
+    "updated": "27 May 2024 08:58"
   },
   {
     "title": "Cataract Scout Camp",
@@ -464,25 +524,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 May 2024 03:57"
-  },
-  {
-    "title": "NEW ENGLAND HWY, KOOTINGAL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550257",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.064006806",
-    "longitude": "151.039428711",
-    "region": "nsw",
-    "time_of_call": "27 May 2024 08:51:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "NEW ENGLAND HWY, KOOTINGAL 2352",
-    "council_area": "Tamworth",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 May 2024 08:51"
   }
 ]
