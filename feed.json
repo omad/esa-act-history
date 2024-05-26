@@ -88,22 +88,6 @@
     "alert_level": "",
     "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "031358-26052024",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
-    "region": "act",
-    "time_of_call": "26 May 2024 19:39:27",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
     "id": "031361-26052024",
     "latitude": "-35.227626",
     "longitude": "149.105773",
@@ -125,10 +109,10 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "26 May 2024 20:20:55",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -141,10 +125,10 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "26 May 2024 20:25:01",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -157,10 +141,10 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "26 May 2024 20:43:45",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -177,22 +161,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HAWKER",
-    "id": "031371-26052024",
-    "latitude": "-35.246757",
-    "longitude": "149.03611",
-    "region": "act",
-    "time_of_call": "26 May 2024 21:13:28",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -630,26 +598,6 @@
     "updated": "26 May 2024 21:00"
   },
   {
-    "title": "CONRAD CL, ILUKA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550236",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.3925151829999",
-    "longitude": "153.351257324",
-    "region": "nsw",
-    "time_of_call": "26 May 2024 20:39:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "26 CONRAD CL, ILUKA 2466",
-    "council_area": "Clarence Valley",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 May 2024 20:39"
-  },
-  {
     "title": "BROMAGE RD, ABERMAIN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550237",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -690,5 +638,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 May 2024 21:12"
+  },
+  {
+    "title": "CAPPANANA RD, BREDBO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550239",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.95280838",
+    "longitude": "149.195983887",
+    "region": "nsw",
+    "time_of_call": "26 May 2024 21:23:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "CAPPANANA RD, BREDBO 2626",
+    "council_area": "Snowy Monaro",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 May 2024 21:23"
   }
 ]
