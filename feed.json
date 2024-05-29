@@ -9,10 +9,10 @@
     "longitude": "148.9574056399",
     "region": "act",
     "time_of_call": "28 May 2024 08:10:25",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HAZARD REDUCTION BURN",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
@@ -163,10 +163,10 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "29 May 2024 18:52:39",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -183,22 +183,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CALWELL",
-    "id": "032038-29052024",
-    "latitude": "-35.441132",
-    "longitude": "149.107648",
-    "region": "act",
-    "time_of_call": "29 May 2024 19:17:28",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -311,6 +295,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MCKELLAR",
+    "id": "032059-29052024",
+    "latitude": "-35.216327",
+    "longitude": "149.076954",
+    "region": "act",
+    "time_of_call": "29 May 2024 21:17:32",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -934,28 +934,6 @@
     "updated": "29 May 2024 17:55"
   },
   {
-    "title": "MARY ST, GOULBURN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550490",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.7614097589999",
-    "longitude": "149.697937012",
-    "region": "nsw",
-    "time_of_call": "29 May 2024 18:09:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "83 MARY ST, GOULBURN 2580",
-    "council_area": "Goulburn Mulwaree",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "29 May 2024 18:09"
-  },
-  {
     "title": "PACIFIC MTWY, CHINDERAH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550498",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -976,27 +954,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 May 2024 19:08"
-  },
-  {
-    "title": "HEBDEN ST, LOCKHART",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550508",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.2221031189999",
-    "longitude": "146.717315674",
-    "region": "nsw",
-    "time_of_call": "29 May 2024 21:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "67 HEBDEN ST, LOCKHART 2656",
-    "council_area": "Lockhart",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 May 2024 21:12"
   }
 ]
