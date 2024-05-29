@@ -73,22 +73,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FARRER",
-    "id": "032062-29052024",
-    "latitude": "-35.377331",
-    "longitude": "149.104586",
-    "region": "act",
-    "time_of_call": "29 May 2024 21:41:42",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GILMORE",
     "id": "032069-29052024",
     "latitude": "-35.417683",
@@ -195,6 +179,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "032082-29052024",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "29 May 2024 23:55:54",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -818,26 +818,6 @@
     "updated": "29 May 2024 17:55"
   },
   {
-    "title": "PILLIGA RD, PILLIGA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550511",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.358041764",
-    "longitude": "148.974853516",
-    "region": "nsw",
-    "time_of_call": "29 May 2024 23:32:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PILLIGA RD, PILLIGA 2388",
-    "council_area": "Narrabri",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 May 2024 23:32"
-  },
-  {
     "title": "BILMARK DR, RAYMOND TERRACE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550513",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -845,9 +825,9 @@
     "latitude": "-32.7585296629999",
     "longitude": "151.772659302",
     "region": "nsw",
-    "time_of_call": "29 May 2024 23:16:00",
+    "time_of_call": "30 May 2024 00:13:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "48 BILMARK DR, RAYMOND TERRACE 2324",
     "council_area": "Port Stephens",
@@ -857,7 +837,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "29 May 2024 23:16"
+    "updated": "30 May 2024 00:13"
   },
   {
     "title": "BRIGADIER HAMMETT RD, WATTLE PONDS",
@@ -867,9 +847,9 @@
     "latitude": "-32.523029327",
     "longitude": "151.187194825",
     "region": "nsw",
-    "time_of_call": "29 May 2024 23:42:00",
+    "time_of_call": "30 May 2024 00:04:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "162 BRIGADIER HAMMETT RD, WATTLE PONDS 2330",
     "council_area": "Singleton",
@@ -877,6 +857,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 May 2024 23:42"
+    "updated": "30 May 2024 00:04"
   }
 ]
