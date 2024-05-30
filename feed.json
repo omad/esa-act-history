@@ -18,6 +18,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
+    "agency": "Fire",
+    "alert_level": "Advice",
+    "event_type": "incident",
+    "title": "GRASS AND BUSH FIRE - BELCONNEN",
+    "id": "008008-30052024",
+    "latitude": "-35.1874843192",
+    "longitude": "149.048213357",
+    "region": "act",
+    "time_of_call": "30 May 2024 17:27:22",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "type": "GRASS AND BUSH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -27,10 +45,10 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "30 May 2024 14:03:29",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -355,7 +373,7 @@
     "latitude": "-31.9346828459999",
     "longitude": "148.995697022",
     "region": "nsw",
-    "time_of_call": "30 May 2024 07:55:00",
+    "time_of_call": "30 May 2024 17:18:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -367,7 +385,7 @@
     "fire": "Yes",
     "size": "719 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "30 May 2024 07:55"
+    "updated": "30 May 2024 17:18"
   },
   {
     "title": "Bugaldie HR",
@@ -1135,9 +1153,9 @@
     "latitude": "-30.086691",
     "longitude": "145.940508",
     "region": "nsw",
-    "time_of_call": "30 May 2024 16:42:00",
+    "time_of_call": "30 May 2024 17:24:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1150,7 +1168,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "30 May 2024 16:42"
+    "updated": "30 May 2024 17:24"
   },
   {
     "title": "DUNCANS RD, CLARENZA",
@@ -1182,9 +1200,9 @@
     "latitude": "-35.8783683779999",
     "longitude": "146.836303711",
     "region": "nsw",
-    "time_of_call": "30 May 2024 16:51:00",
+    "time_of_call": "30 May 2024 17:24:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "SUTHERLAND RD, BURRUMBUTTOCK 2642",
     "council_area": "Greater Hume",
@@ -1194,7 +1212,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 May 2024 16:51"
+    "updated": "30 May 2024 17:24"
   },
   {
     "title": "FOREST RD, WYEE",
@@ -1224,9 +1242,9 @@
     "latitude": "-30.647412999",
     "longitude": "152.850222",
     "region": "nsw",
-    "time_of_call": "30 May 2024 17:11:00",
+    "time_of_call": "30 May 2024 17:19:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1239,7 +1257,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "30 May 2024 17:11"
+    "updated": "30 May 2024 17:19"
   },
   {
     "title": "PACIFIC HWY, GLENTHORNE",
@@ -1262,5 +1280,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 May 2024 17:15"
+  },
+  {
+    "title": "HILLSIDE DR, THARBOGANG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550601",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.242435455",
+    "longitude": "145.97605896",
+    "region": "nsw",
+    "time_of_call": "30 May 2024 17:19:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "HILLSIDE DR, THARBOGANG 2680",
+    "council_area": "Griffith",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 May 2024 17:19"
+  },
+  {
+    "title": "SEATON ST, ARMIDALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550602",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.540342331",
+    "longitude": "151.680648803",
+    "region": "nsw",
+    "time_of_call": "30 May 2024 17:25:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "SEATON ST, ARMIDALE 2350",
+    "council_area": "Armidale",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "30 May 2024 17:25"
   }
 ]
