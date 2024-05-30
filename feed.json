@@ -18,42 +18,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "CAR FIRE - LATHAM",
-    "id": "008027-31052024",
-    "latitude": "-35.2269668579",
-    "longitude": "149.035369873",
-    "region": "act",
-    "time_of_call": "31 May 2024 03:43:39",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "CAR FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - PHILLIP",
-    "id": "008028-31052024",
-    "latitude": "-35.349054",
-    "longitude": "149.089876",
-    "region": "act",
-    "time_of_call": "31 May 2024 04:00:09",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -95,10 +59,10 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "31 May 2024 04:10:46",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -970,5 +934,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 May 2024 20:03"
+  },
+  {
+    "title": "BATLOW RD, BATLOW",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550641",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.5338439939999",
+    "longitude": "148.099197388",
+    "region": "nsw",
+    "time_of_call": "31 May 2024 04:36:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "BATLOW RD, BATLOW 2730",
+    "council_area": "Snowy Valleys",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "31 May 2024 04:36"
   }
 ]
