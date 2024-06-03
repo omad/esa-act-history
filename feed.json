@@ -36,6 +36,38 @@
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "033163-04062024",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "04 Jun 2024 05:16:38",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RICHARDSON",
+    "id": "033164-04062024",
+    "latitude": "-35.428715",
+    "longitude": "149.111133",
+    "region": "act",
+    "time_of_call": "04 Jun 2024 05:18:54",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Prescribed Burn Northern Drive 24 AC",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_524061",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -362,27 +394,5 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "3 Jun 2024 18:31"
-  },
-  {
-    "title": "HUME HWY, YARRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_551004",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.806648255",
-    "longitude": "149.567840577",
-    "region": "nsw",
-    "time_of_call": "04 Jun 2024 04:18:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "20064 HUME HWY, YARRA 2580",
-    "council_area": "Goulburn Mulwaree",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jun 2024 04:18"
   }
 ]
