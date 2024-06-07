@@ -95,10 +95,10 @@
     "longitude": "149.094654",
     "region": "act",
     "time_of_call": "08 Jun 2024 07:46:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -115,6 +115,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "034088-08062024",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "08 Jun 2024 08:22:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -288,5 +304,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Jun 2024 08:12"
+  },
+  {
+    "title": "SUNSHINE BAY RD, SUNSHINE BAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553263",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.741512299",
+    "longitude": "150.204940796",
+    "region": "nsw",
+    "time_of_call": "08 Jun 2024 08:27:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "32 SUNSHINE BAY RD, SUNSHINE BAY 2536",
+    "council_area": "Eurobodalla",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Jun 2024 08:27"
   }
 ]
