@@ -18,6 +18,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - BRADDON",
+    "id": "008344-07062024",
+    "latitude": "-35.26798069",
+    "longitude": "149.1337195399",
+    "region": "act",
+    "time_of_call": "07 Jun 2024 04:10:54",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -27,22 +45,6 @@
     "longitude": "149.046603",
     "region": "act",
     "time_of_call": "07 Jun 2024 09:54:12",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WATSON",
-    "id": "033877-07062024",
-    "latitude": "-35.234652",
-    "longitude": "149.15807",
-    "region": "act",
-    "time_of_call": "07 Jun 2024 10:33:48",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
@@ -271,6 +273,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "033939-07062024",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "07 Jun 2024 14:25:46",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -539,9 +557,9 @@
     "latitude": "-30.4741992949999",
     "longitude": "151.747283935",
     "region": "nsw",
-    "time_of_call": "07 Jun 2024 13:54:00",
+    "time_of_call": "07 Jun 2024 14:31:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "865 ROCKVALE RD, ARMIDALE 2350",
     "council_area": "Armidale",
@@ -551,6 +569,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jun 2024 13:54"
+    "updated": "7 Jun 2024 14:31"
   }
 ]
