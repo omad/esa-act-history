@@ -36,20 +36,22 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PARKES",
-    "id": "034024-07062024",
-    "latitude": "-35.297058",
-    "longitude": "149.134319",
+    "title": "MOTOR VEHICLE ACCIDENT - BRUCE",
+    "id": "008392-07062024",
+    "latitude": "-35.23852999",
+    "longitude": "149.09042999",
     "region": "act",
-    "time_of_call": "07 Jun 2024 21:51:29",
-    "status": "On Scene",
+    "time_of_call": "07 Jun 2024 23:44:23",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
   },
   {
     "agency": "Ambulance",
@@ -294,25 +296,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "7 Jun 2024 22:09"
-  },
-  {
-    "title": "RED GUM DR, ULLADULLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553244",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.340053558",
-    "longitude": "150.454925537",
-    "region": "nsw",
-    "time_of_call": "07 Jun 2024 22:24:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "38A RED GUM DR, ULLADULLA 2539",
-    "council_area": "Shoalhaven",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Jun 2024 22:24"
   }
 ]
