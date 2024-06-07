@@ -79,10 +79,10 @@
     "longitude": "149.036831",
     "region": "act",
     "time_of_call": "08 Jun 2024 06:59:48",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -143,10 +143,10 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "08 Jun 2024 09:23:09",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -159,10 +159,10 @@
     "longitude": "149.099386",
     "region": "act",
     "time_of_call": "08 Jun 2024 09:24:42",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -301,9 +301,9 @@
     "latitude": "-33.893226624",
     "longitude": "150.616500854",
     "region": "nsw",
-    "time_of_call": "08 Jun 2024 08:12:00",
+    "time_of_call": "08 Jun 2024 09:36:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "SILVERDALE RD, SILVERDALE 2752",
     "council_area": "Wollondilly",
@@ -313,7 +313,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Jun 2024 08:12"
+    "updated": "8 Jun 2024 09:36"
   },
   {
     "title": "WISEMANS FERRY RD, CENTRAL MANGROVE",
@@ -334,28 +334,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Jun 2024 08:40"
-  },
-  {
-    "title": "EMAI WOODBRIDGE RD, MENANGLE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553265",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.117359162",
-    "longitude": "150.713989258",
-    "region": "nsw",
-    "time_of_call": "08 Jun 2024 09:11:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "EMAI WOODBRIDGE RD, MENANGLE 2568",
-    "council_area": "Wollondilly",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Jun 2024 09:11"
   },
   {
     "title": "OLD HUME HWY, BERRIMA",
@@ -396,5 +374,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Jun 2024 09:00"
+  },
+  {
+    "title": "CAMDEN VALLEY WAY, EDMONDSON PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553268",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.9532394409999",
+    "longitude": "150.856048584",
+    "region": "nsw",
+    "time_of_call": "08 Jun 2024 09:35:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "CAMDEN VALLEY WAY, EDMONDSON PARK 2174",
+    "council_area": "Liverpool",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Jun 2024 09:35"
   }
 ]
