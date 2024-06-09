@@ -86,6 +86,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "034380-09062024",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "09 Jun 2024 16:30:33",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Willigobung Plantation Burn",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_543390",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -260,28 +276,6 @@
     "updated": "9 Jun 2024 15:54"
   },
   {
-    "title": "GLOUCESTER TOPS RD, GLOUCESTER TOPS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553351",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.051078796",
-    "longitude": "151.637283325",
-    "region": "nsw",
-    "time_of_call": "09 Jun 2024 14:56:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "GLOUCESTER TOPS RD, GLOUCESTER TOPS 2422",
-    "council_area": "Mid-Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Jun 2024 14:56"
-  },
-  {
     "title": "THE BUCKETTS WAY, KRAMBACH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553357",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -289,9 +283,9 @@
     "latitude": "-32.049682617",
     "longitude": "152.266204834",
     "region": "nsw",
-    "time_of_call": "09 Jun 2024 15:45:00",
+    "time_of_call": "09 Jun 2024 16:29:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "3782 THE BUCKETTS WAY, KRAMBACH 2429",
     "council_area": "Mid-Coast",
@@ -299,7 +293,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Jun 2024 15:45"
+    "updated": "9 Jun 2024 16:29"
   },
   {
     "title": "WYANGALA COUNTRY CLUB SIXTH AV, WYANGALA DAM",
@@ -329,9 +323,9 @@
     "latitude": "-33.392772674",
     "longitude": "148.100708008",
     "region": "nsw",
-    "time_of_call": "09 Jun 2024 16:09:00",
+    "time_of_call": "09 Jun 2024 16:29:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "10759 THE ESCORT WAY, FORBES 2871",
     "council_area": "Forbes",
@@ -341,6 +335,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Jun 2024 16:09"
+    "updated": "9 Jun 2024 16:29"
+  },
+  {
+    "title": "CRAVEN CREEK RD, ROOKHURST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553360",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.905597687",
+    "longitude": "151.878723144",
+    "region": "nsw",
+    "time_of_call": "09 Jun 2024 16:44:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "CRAVEN CREEK RD, ROOKHURST 2422",
+    "council_area": "Mid-Coast",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Jun 2024 16:44"
   }
 ]
