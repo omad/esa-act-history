@@ -40,22 +40,6 @@
     "alert_level": "",
     "event_type": "incident",
     "title": "AMBULANCE RESPONSE - NICHOLLS",
-    "id": "035525-14062024",
-    "latitude": "-35.186387",
-    "longitude": "149.094445",
-    "region": "act",
-    "time_of_call": "14 Jun 2024 23:24:17",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NICHOLLS",
     "id": "035528-15062024",
     "latitude": "-35.186387",
     "longitude": "149.094445",
@@ -77,10 +61,10 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "15 Jun 2024 00:37:22",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -113,7 +97,7 @@
     "latitude": "-33.3317832939999",
     "longitude": "148.993652344",
     "region": "nsw",
-    "time_of_call": "13 Jun 2024 21:09:00",
+    "time_of_call": "15 Jun 2024 00:52:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -125,7 +109,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Jun 2024 21:09"
+    "updated": "15 Jun 2024 00:52"
   },
   {
     "title": "Emu HR",
@@ -179,7 +163,7 @@
     "latitude": "-32.773918151",
     "longitude": "151.942001343",
     "region": "nsw",
-    "time_of_call": "14 Jun 2024 07:01:00",
+    "time_of_call": "15 Jun 2024 00:51:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -191,7 +175,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Jun 2024 07:01"
+    "updated": "15 Jun 2024 00:51"
   },
   {
     "title": "Canoelands Hotspots",
@@ -216,28 +200,6 @@
     "updated": "14 Jun 2024 16:56"
   },
   {
-    "title": "(PACIFIC MTWY), CALGA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553722",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.4272575379999",
-    "longitude": "151.227462769",
-    "region": "nsw",
-    "time_of_call": "14 Jun 2024 23:54:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "M1 (PACIFIC MTWY), CALGA 2250",
-    "council_area": "Central Coast",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Jun 2024 23:54"
-  },
-  {
     "title": "SHERWOOD RD, SHERWOOD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553724",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -258,23 +220,28 @@
     "updated": "15 Jun 2024 00:06"
   },
   {
-    "title": "BROMAGE RD, ABERMAIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553725",
+    "title": "OXLEY HWY, YARRAS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553726",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.8361053469999",
-    "longitude": "151.448440552",
+    "latitude": "-31.419143676",
+    "longitude": "152.351013183",
     "region": "nsw",
-    "time_of_call": "15 Jun 2024 00:24:00",
+    "time_of_call": "15 Jun 2024 01:06:00",
     "event_type": "burnt area",
     "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "BROMAGE RD, ABERMAIN 2326",
-    "council_area": "Cessnock",
-    "type": "Car Fire",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "OXLEY HWY, YARRAS 2446",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jun 2024 00:24"
+    "updated": "15 Jun 2024 01:06"
   }
 ]
