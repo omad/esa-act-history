@@ -27,10 +27,10 @@
     "longitude": "149.0566711426",
     "region": "act",
     "time_of_call": "16 Jun 2024 14:51:26",
-    "status": "On Scene",
+    "status": "Out / Completed",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
+    "status_filter_label": "Out / Completed",
     "type": "GRASS AND BUSH FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg"
@@ -369,9 +369,9 @@
     "latitude": "-28.709466934",
     "longitude": "153.266326904",
     "region": "nsw",
-    "time_of_call": "16 Jun 2024 15:00:00",
+    "time_of_call": "16 Jun 2024 15:37:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -384,7 +384,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Jun 2024 15:00"
+    "updated": "16 Jun 2024 15:37"
   },
   {
     "title": "BRUXNER HWY, PIORA",
@@ -394,9 +394,9 @@
     "latitude": "-28.8537044519999",
     "longitude": "152.905639648",
     "region": "nsw",
-    "time_of_call": "16 Jun 2024 15:13:00",
+    "time_of_call": "16 Jun 2024 15:39:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BRUXNER HWY, PIORA 2470",
     "council_area": "Richmond Valley",
@@ -406,6 +406,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Jun 2024 15:13"
+    "updated": "16 Jun 2024 15:39"
+  },
+  {
+    "title": "LEGGETTS DR, MOUNT VINCENT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553833",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.9169006339999",
+    "longitude": "151.479003907",
+    "region": "nsw",
+    "time_of_call": "16 Jun 2024 15:25:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "LEGGETTS DR, MOUNT VINCENT 2323",
+    "council_area": "Cessnock",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Jun 2024 15:25"
   }
 ]
