@@ -1,23 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "CAR FIRE - BELCONNEN",
-    "id": "008925-19062024",
-    "latitude": "-35.2585258484",
-    "longitude": "149.0276794434",
-    "region": "act",
-    "time_of_call": "19 Jun 2024 03:28:39",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "CAR FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -63,6 +45,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "036435-19062024",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "19 Jun 2024 05:08:48",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -152,28 +150,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Jun 2024 02:34"
-  },
-  {
-    "title": "(PACIFIC MTWY), WYEE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_553976",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.193477631",
-    "longitude": "151.466064453",
-    "region": "nsw",
-    "time_of_call": "19 Jun 2024 03:47:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "M1 (PACIFIC MTWY), WYEE 2259",
-    "council_area": "Lake Macquarie",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 Jun 2024 03:47"
   },
   {
     "title": "RIVERINA HWY, THURGOONA",
