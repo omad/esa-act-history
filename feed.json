@@ -1,19 +1,39 @@
 [
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - SPENCE",
-    "id": "036654-20062024",
-    "latitude": "-35.196073",
-    "longitude": "149.064742",
+    "title": "MOTOR VEHICLE ACCIDENT - HOLT",
+    "id": "008990-20062024",
+    "latitude": "-35.22561499",
+    "longitude": "149.01140599",
     "region": "act",
-    "time_of_call": "20 Jun 2024 04:46:07",
+    "time_of_call": "20 Jun 2024 06:00:53",
+    "status": "Finished",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "CAR FIRE - NICHOLLS",
+    "id": "008991-20062024",
+    "latitude": "-35.18205857",
+    "longitude": "149.10022427",
+    "region": "act",
+    "time_of_call": "20 Jun 2024 06:04:20",
     "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "CAR FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg"
   },
   {
     "agency": "Ambulance",
@@ -83,7 +103,7 @@
     "latitude": "-35.519939423",
     "longitude": "148.142990112",
     "region": "nsw",
-    "time_of_call": "19 Jun 2024 14:25:00",
+    "time_of_call": "20 Jun 2024 06:11:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -95,7 +115,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Jun 2024 14:25"
+    "updated": "20 Jun 2024 06:11"
   },
   {
     "title": "OLD BYRON BAY RD, NEWRYBAR",
@@ -105,7 +125,7 @@
     "latitude": "-28.7382812499999",
     "longitude": "153.545471191",
     "region": "nsw",
-    "time_of_call": "19 Jun 2024 15:41:00",
+    "time_of_call": "20 Jun 2024 06:07:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -117,7 +137,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Jun 2024 15:41"
+    "updated": "20 Jun 2024 06:07"
   },
   {
     "title": "RACECOURSE RD, MENINDEE",
@@ -127,7 +147,7 @@
     "latitude": "-32.3704643249999",
     "longitude": "142.436355591",
     "region": "nsw",
-    "time_of_call": "19 Jun 2024 18:14:00",
+    "time_of_call": "20 Jun 2024 06:02:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -139,7 +159,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Jun 2024 18:14"
+    "updated": "20 Jun 2024 06:02"
   },
   {
     "title": "BUMBALLA ST, TALLONG",
@@ -149,7 +169,7 @@
     "latitude": "-34.724323273",
     "longitude": "150.091323853",
     "region": "nsw",
-    "time_of_call": "20 Jun 2024 01:44:00",
+    "time_of_call": "20 Jun 2024 06:15:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -161,6 +181,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Jun 2024 01:44"
+    "updated": "20 Jun 2024 06:15"
   }
 ]
