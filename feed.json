@@ -90,6 +90,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg"
   },
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - PALMERSTON",
+    "id": "009080-21062024",
+    "latitude": "-35.18778",
+    "longitude": "149.12122",
+    "region": "act",
+    "time_of_call": "21 Jun 2024 18:26:50",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -115,10 +133,10 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "21 Jun 2024 14:59:09",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -474,6 +492,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "037071-21062024",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "21 Jun 2024 18:25:10",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Woodford South 4 HR ",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_544967",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -582,26 +616,6 @@
     "updated": "21 Jun 2024 16:37"
   },
   {
-    "title": "SAPPHIRE RD, BIALA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_555119",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.623081207",
-    "longitude": "149.236297608",
-    "region": "nsw",
-    "time_of_call": "21 Jun 2024 16:49:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "SAPPHIRE RD, BIALA 2581",
-    "council_area": "Upper Lachlan",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "21 Jun 2024 16:49"
-  },
-  {
     "title": "MONTPELIER DR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_555121",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -647,5 +661,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Jun 2024 17:47"
+  },
+  {
+    "title": "SHAW ST, SPRINGDALE HEIGHTS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_555126",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.0207366939999",
+    "longitude": "146.950500488",
+    "region": "nsw",
+    "time_of_call": "21 Jun 2024 18:27:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "SHAW ST, SPRINGDALE HEIGHTS 2641",
+    "council_area": "Albury",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Jun 2024 18:27"
   }
 ]
