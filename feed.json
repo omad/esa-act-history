@@ -342,6 +342,38 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "037373-23062024",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "23 Jun 2024 01:22:49",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "037375-23062024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "23 Jun 2024 01:24:24",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Woodford South 4 HR ",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_544967",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -549,26 +581,6 @@
     "updated": "22 Jun 2024 23:57"
   },
   {
-    "title": "BROMAGE RD, ABERMAIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_555224",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.837219239",
-    "longitude": "151.444290161",
-    "region": "nsw",
-    "time_of_call": "22 Jun 2024 23:21:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "BROMAGE RD, ABERMAIN 2326",
-    "council_area": "Cessnock",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Jun 2024 23:21"
-  },
-  {
     "title": "ANNANGROVE RD, ROUSE HILL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_555226",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -589,5 +601,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Jun 2024 01:07"
+  },
+  {
+    "title": "ELEVEN MILE DR, EGLINTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_555227",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.3867683409999",
+    "longitude": "149.580032349",
+    "region": "nsw",
+    "time_of_call": "23 Jun 2024 01:17:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "165 ELEVEN MILE DR, EGLINTON 2795",
+    "council_area": "Bathurst",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Jun 2024 01:17"
   }
 ]
