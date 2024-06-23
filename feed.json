@@ -169,10 +169,10 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "23 Jun 2024 22:47:10",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -233,10 +233,10 @@
     "longitude": "149.161141",
     "region": "act",
     "time_of_call": "23 Jun 2024 23:24:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -249,6 +249,38 @@
     "longitude": "149.143165",
     "region": "act",
     "time_of_call": "23 Jun 2024 23:28:13",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "037565-23062024",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "23 Jun 2024 23:30:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "037567-23062024",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "23 Jun 2024 23:46:07",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
@@ -352,9 +384,9 @@
     "latitude": "-36.10773468",
     "longitude": "144.763717651",
     "region": "nsw",
-    "time_of_call": "23 Jun 2024 22:53:00",
+    "time_of_call": "23 Jun 2024 23:43:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "9 DAWSON ST, MOAMA 2731",
     "council_area": "Murray River",
@@ -364,6 +396,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jun 2024 22:53"
+    "updated": "23 Jun 2024 23:43"
   }
 ]
