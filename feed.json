@@ -227,10 +227,10 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "25 Jun 2024 18:57:03",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -307,10 +307,10 @@
     "longitude": "149.146674",
     "region": "act",
     "time_of_call": "25 Jun 2024 19:57:51",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -462,28 +462,6 @@
     "updated": "25 Jun 2024 15:15"
   },
   {
-    "title": "TWEED VALLEY WAY, STOKERS SIDING",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_555486",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.3938331599999",
-    "longitude": "153.421691895",
-    "region": "nsw",
-    "time_of_call": "25 Jun 2024 18:28:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "6903 TWEED VALLEY WAY, STOKERS SIDING 2484",
-    "council_area": "Tweed",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Jun 2024 18:28"
-  },
-  {
     "title": "SPEEDWAY RD, BOXERS CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_555491",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -504,5 +482,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Jun 2024 18:55"
+  },
+  {
+    "title": "LIZ KERNOHAN DR, SPRING FARM",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_555496",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.0707588189999",
+    "longitude": "150.74822998",
+    "region": "nsw",
+    "time_of_call": "25 Jun 2024 20:18:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "LIZ KERNOHAN DR, SPRING FARM 2570",
+    "council_area": "Camden",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Jun 2024 20:18"
   }
 ]
