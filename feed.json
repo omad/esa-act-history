@@ -91,10 +91,10 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "27 Jun 2024 00:07:57",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -111,6 +111,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "038206-27062024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "27 Jun 2024 00:47:52",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -143,7 +159,7 @@
     "latitude": "-33.3317832939999",
     "longitude": "148.993652344",
     "region": "nsw",
-    "time_of_call": "26 Jun 2024 01:16:00",
+    "time_of_call": "27 Jun 2024 00:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -155,7 +171,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Jun 2024 01:16"
+    "updated": "27 Jun 2024 00:42"
   },
   {
     "title": "Dunsandale HR ",
@@ -209,7 +225,7 @@
     "latitude": "-32.935100556",
     "longitude": "147.691390991",
     "region": "nsw",
-    "time_of_call": "26 Jun 2024 01:17:00",
+    "time_of_call": "27 Jun 2024 00:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -221,7 +237,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Jun 2024 01:17"
+    "updated": "27 Jun 2024 00:42"
   },
   {
     "title": "JERRYS PLAINS RD, MOUNT THORLEY",
@@ -231,7 +247,7 @@
     "latitude": "-32.5998039249999",
     "longitude": "151.099716186",
     "region": "nsw",
-    "time_of_call": "26 Jun 2024 01:18:00",
+    "time_of_call": "27 Jun 2024 00:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -243,7 +259,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Jun 2024 01:18"
+    "updated": "27 Jun 2024 00:43"
   },
   {
     "title": "BIRUBI RD, SPRINGDALE HEIGHTS",
@@ -253,7 +269,7 @@
     "latitude": "-36.0259056089999",
     "longitude": "146.955413819",
     "region": "nsw",
-    "time_of_call": "26 Jun 2024 01:20:00",
+    "time_of_call": "27 Jun 2024 00:44:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -265,7 +281,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Jun 2024 01:20"
+    "updated": "27 Jun 2024 00:44"
   },
   {
     "title": "Olney Basin HRB",
@@ -322,7 +338,7 @@
     "latitude": "-33.457256317",
     "longitude": "149.549011231",
     "region": "nsw",
-    "time_of_call": "26 Jun 2024 13:44:00",
+    "time_of_call": "27 Jun 2024 00:45:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -334,7 +350,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Jun 2024 13:44"
+    "updated": "27 Jun 2024 00:45"
   },
   {
     "title": "BROULA RD, WATTAMONDARA",
@@ -448,5 +464,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Jun 2024 23:45"
+  },
+  {
+    "title": "Olympic Dr, Lidcombe",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_556573",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.859546",
+    "longitude": "151.042783",
+    "region": "nsw",
+    "time_of_call": "27 Jun 2024 00:33:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Olympic Dr, Lidcombe, NSW 2141",
+    "council_area": "Cumberland",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "27 Jun 2024 00:33"
   }
 ]
