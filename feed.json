@@ -36,7 +36,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - HOLT",
@@ -223,10 +223,10 @@
     "longitude": "149.064271",
     "region": "act",
     "time_of_call": "07 Jul 2024 11:46:14",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -255,10 +255,10 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "07 Jul 2024 12:08:17",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -271,10 +271,10 @@
     "longitude": "149.053511",
     "region": "act",
     "time_of_call": "07 Jul 2024 12:17:13",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -287,10 +287,26 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "07 Jul 2024 12:25:42",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHARNWOOD",
+    "id": "040415-07072024",
+    "latitude": "-35.200338",
+    "longitude": "149.036735",
+    "region": "act",
+    "time_of_call": "07 Jul 2024 12:33:29",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -581,5 +597,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "7 Jul 2024 12:22"
+  },
+  {
+    "title": "MENINDEE CENTRAL SCHOOL MENINDEE ST, MENINDEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_557261",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.394340515",
+    "longitude": "142.412780761",
+    "region": "nsw",
+    "time_of_call": "07 Jul 2024 12:31:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "MENINDEE CENTRAL SCHOOL MENINDEE ST, MENINDEE 2879",
+    "council_area": "Central Darling",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Jul 2024 12:31"
+  },
+  {
+    "title": "MONTKEILA ST, WALGETT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_557262",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.0172920219999",
+    "longitude": "148.11341858",
+    "region": "nsw",
+    "time_of_call": "07 Jul 2024 12:39:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "47 MONTKEILA ST, WALGETT 2832",
+    "council_area": "Walgett",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Jul 2024 12:39"
   }
 ]
