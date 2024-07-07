@@ -39,38 +39,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHISHOLM",
-    "id": "040510-07072024",
-    "latitude": "-35.422993",
-    "longitude": "149.12793",
-    "region": "act",
-    "time_of_call": "07 Jul 2024 22:28:56",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "040511-07072024",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "07 Jul 2024 22:39:26",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WATSON",
     "id": "040516-07072024",
     "latitude": "-35.234652",
@@ -81,22 +49,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRUCE",
-    "id": "040518-08072024",
-    "latitude": "-35.242777",
-    "longitude": "149.096998",
-    "region": "act",
-    "time_of_call": "08 Jul 2024 00:03:21",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -125,10 +77,10 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "08 Jul 2024 00:24:10",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -148,6 +100,54 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LATHAM",
+    "id": "040524-08072024",
+    "latitude": "-35.217781",
+    "longitude": "149.034875",
+    "region": "act",
+    "time_of_call": "08 Jul 2024 01:02:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "040525-08072024",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "08 Jul 2024 01:05:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "040526-08072024",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "08 Jul 2024 01:20:45",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "MOUNT CANOBOLAS RD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550333",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -155,7 +155,7 @@
     "latitude": "-33.3317832939999",
     "longitude": "148.993652344",
     "region": "nsw",
-    "time_of_call": "07 Jul 2024 00:47:00",
+    "time_of_call": "08 Jul 2024 01:04:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -167,7 +167,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jul 2024 00:47"
+    "updated": "8 Jul 2024 01:04"
   },
   {
     "title": "HENRY PARKES WAY, PARKES NSW",
@@ -177,7 +177,7 @@
     "latitude": "-33.156833649",
     "longitude": "148.433868408",
     "region": "nsw",
-    "time_of_call": "07 Jul 2024 00:43:00",
+    "time_of_call": "08 Jul 2024 00:58:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -192,7 +192,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jul 2024 00:43"
+    "updated": "8 Jul 2024 00:58"
   },
   {
     "title": "HUDSONS RD, REDLANDS",
@@ -202,7 +202,7 @@
     "latitude": "-35.949996949",
     "longitude": "146.340042115",
     "region": "nsw",
-    "time_of_call": "07 Jul 2024 00:44:00",
+    "time_of_call": "08 Jul 2024 00:59:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -214,7 +214,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jul 2024 00:44"
+    "updated": "8 Jul 2024 00:59"
   },
   {
     "title": "BURREN JUNCTION CEMETERY BURREN JUNCTION",
@@ -224,7 +224,7 @@
     "latitude": "-30.075727463",
     "longitude": "148.953308105",
     "region": "nsw",
-    "time_of_call": "07 Jul 2024 00:45:00",
+    "time_of_call": "08 Jul 2024 01:02:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -236,7 +236,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jul 2024 00:45"
+    "updated": "8 Jul 2024 01:02"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -271,7 +271,7 @@
     "latitude": "-32.3413238529999",
     "longitude": "149.730606079",
     "region": "nsw",
-    "time_of_call": "06 Jul 2024 18:27:00",
+    "time_of_call": "08 Jul 2024 00:50:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -283,29 +283,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Jul 2024 18:27"
-  },
-  {
-    "title": "COLDEN DR, ALBION PARK RAIL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_557239",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.5735778809999",
-    "longitude": "150.813415527",
-    "region": "nsw",
-    "time_of_call": "07 Jul 2024 06:53:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "10 COLDEN DR, ALBION PARK RAIL 2527",
-    "council_area": "Shellharbour",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Jul 2024 06:53"
+    "updated": "8 Jul 2024 00:50"
   },
   {
     "title": "BARKERS LODGE RD",
@@ -337,7 +315,7 @@
     "latitude": "-29.558019638",
     "longitude": "150.608154296",
     "region": "nsw",
-    "time_of_call": "07 Jul 2024 12:10:00",
+    "time_of_call": "08 Jul 2024 01:09:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -352,7 +330,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jul 2024 12:10"
+    "updated": "8 Jul 2024 01:09"
   },
   {
     "title": "MENINDEE CENTRAL SCHOOL MENINDEE ST, MENINDEE",
@@ -467,5 +445,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "7 Jul 2024 21:50"
+  },
+  {
+    "title": "HORTON CL, GLEN MARTIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_557296",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.5635642999999",
+    "longitude": "151.809539795",
+    "region": "nsw",
+    "time_of_call": "08 Jul 2024 00:49:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "28 HORTON CL, GLEN MARTIN 2321",
+    "council_area": "Dungog",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Jul 2024 00:49"
   }
 ]
