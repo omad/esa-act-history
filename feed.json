@@ -103,22 +103,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUNLOP",
-    "id": "040992-10072024",
-    "latitude": "-35.193951",
-    "longitude": "149.019471",
-    "region": "act",
-    "time_of_call": "10 Jul 2024 11:18:47",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MACGREGOR",
     "id": "040993-10072024",
     "latitude": "-35.210615",
@@ -221,10 +205,10 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "10 Jul 2024 13:02:40",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -324,6 +308,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "041028-10072024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "10 Jul 2024 14:47:00",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "MOUNT CANOBOLAS RD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_550333",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -391,28 +391,6 @@
     "updated": "10 Jul 2024 09:46"
   },
   {
-    "title": "MID WESTERN HWY, CARCOAR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_557438",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.59197998",
-    "longitude": "149.17868042",
-    "region": "nsw",
-    "time_of_call": "10 Jul 2024 09:03:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MID WESTERN HWY, CARCOAR 2791",
-    "council_area": "Blayney",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Jul 2024 09:03"
-  },
-  {
     "title": "BASIN TRL, KU-RING-GAI CHASE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_557458",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -420,9 +398,9 @@
     "latitude": "-33.598423004",
     "longitude": "151.288543701",
     "region": "nsw",
-    "time_of_call": "10 Jul 2024 14:10:00",
+    "time_of_call": "10 Jul 2024 14:31:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BASIN TRL, KU-RING-GAI CHASE 2101",
     "council_area": "Northern Beaches",
@@ -430,6 +408,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Jul 2024 14:10"
+    "updated": "10 Jul 2024 14:31"
   }
 ]
