@@ -282,6 +282,38 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "041456-12072024",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "12 Jul 2024 13:24:33",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "041458-12072024",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "12 Jul 2024 13:25:37",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "BYENI HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_557330",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -346,28 +378,6 @@
     "updated": "12 Jul 2024 10:02"
   },
   {
-    "title": "PRINCES HWY, STONY CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_557566",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.6086158749999",
-    "longitude": "149.844711304",
-    "region": "nsw",
-    "time_of_call": "12 Jul 2024 12:54:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "PRINCES HWY, STONY CREEK 2550",
-    "council_area": "Bega Valley",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Jul 2024 12:54"
-  },
-  {
     "title": "ANDY POOLE DR, TATHRA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_557567",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -397,9 +407,9 @@
     "latitude": "-33.111335754",
     "longitude": "151.617858887",
     "region": "nsw",
-    "time_of_call": "12 Jul 2024 13:08:00",
+    "time_of_call": "12 Jul 2024 13:26:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "19 FRESHWATER CR, MURRAYS BEACH 2281",
     "council_area": "Lake Macquarie",
@@ -409,6 +419,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Jul 2024 13:08"
+    "updated": "12 Jul 2024 13:26"
   }
 ]
