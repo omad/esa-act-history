@@ -55,22 +55,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "041897-14072024",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "14 Jul 2024 20:32:41",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONASH",
     "id": "041906-14072024",
     "latitude": "-35.413962",
@@ -81,22 +65,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "041923-14072024",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "14 Jul 2024 22:46:29",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -157,10 +125,10 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "14 Jul 2024 23:52:42",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -173,10 +141,10 @@
     "longitude": "149.037677",
     "region": "act",
     "time_of_call": "15 Jul 2024 00:16:12",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -295,7 +263,7 @@
     "latitude": "-35.7982749939999",
     "longitude": "145.561416626",
     "region": "nsw",
-    "time_of_call": "14 Jul 2024 15:49:00",
+    "time_of_call": "15 Jul 2024 01:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -307,7 +275,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Jul 2024 15:49"
+    "updated": "15 Jul 2024 01:27"
   },
   {
     "title": "GWYDIR HWY, CANGAI",
@@ -399,30 +367,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Jul 2024 01:21"
-  },
-  {
-    "title": "Busby Rd, Busby",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_557781",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.914575",
-    "longitude": "150.877979001",
-    "region": "nsw",
-    "time_of_call": "15 Jul 2024 01:23:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "51A Busby Rd, Busby, NSW 2168",
-    "council_area": "Liverpool",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "15 Jul 2024 01:23"
   }
 ]
