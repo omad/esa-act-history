@@ -87,22 +87,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DOWNER",
-    "id": "042563-17072024",
-    "latitude": "-35.245131",
-    "longitude": "149.143546",
-    "region": "act",
-    "time_of_call": "17 Jul 2024 22:36:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GREENWAY",
     "id": "042564-17072024",
     "latitude": "-35.411775",
@@ -161,6 +145,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SCULLIN",
+    "id": "042569-17072024",
+    "latitude": "-35.235868",
+    "longitude": "149.037677",
+    "region": "act",
+    "time_of_call": "17 Jul 2024 23:29:02",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -303,5 +303,25 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "17 Jul 2024 22:07"
+  },
+  {
+    "title": "PACIFIC MTWY (SOUTHBOUND), HOLMESVILLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_559000",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.911769867",
+    "longitude": "151.56022644",
+    "region": "nsw",
+    "time_of_call": "17 Jul 2024 23:26:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "M1 PACIFIC MTWY (SOUTHBOUND), HOLMESVILLE 2286",
+    "council_area": "Lake Macquarie",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Jul 2024 23:26"
   }
 ]
