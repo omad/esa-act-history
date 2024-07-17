@@ -45,13 +45,45 @@
     "longitude": "149.15046143",
     "region": "act",
     "time_of_call": "18 Jul 2024 05:13:58",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "CAR FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CASEY",
+    "id": "042588-18072024",
+    "latitude": "-35.167812",
+    "longitude": "149.097085",
+    "region": "act",
+    "time_of_call": "18 Jul 2024 06:39:20",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "042589-18072024",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "18 Jul 2024 06:47:08",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
   },
   {
     "title": "431 FOGWELLS RD, YORKLEA",
@@ -61,7 +93,7 @@
     "latitude": "-28.951091767",
     "longitude": "153.105804443",
     "region": "nsw",
-    "time_of_call": "17 Jul 2024 08:45:00",
+    "time_of_call": "18 Jul 2024 06:28:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -73,7 +105,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Jul 2024 08:45"
+    "updated": "18 Jul 2024 06:28"
   },
   {
     "title": "ORARA WAY, LANITZA",
@@ -83,7 +115,7 @@
     "latitude": "-29.896375656",
     "longitude": "152.977813721",
     "region": "nsw",
-    "time_of_call": "17 Jul 2024 19:27:00",
+    "time_of_call": "18 Jul 2024 06:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -98,7 +130,7 @@
     "fire": "Yes",
     "size": "62 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Jul 2024 19:27"
+    "updated": "18 Jul 2024 06:33"
   },
   {
     "title": "PRINCE ST, CLARENCE TOWN",
@@ -108,7 +140,7 @@
     "latitude": "-32.584861756",
     "longitude": "151.78302002",
     "region": "nsw",
-    "time_of_call": "17 Jul 2024 16:36:00",
+    "time_of_call": "18 Jul 2024 06:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -120,7 +152,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Jul 2024 16:36"
+    "updated": "18 Jul 2024 06:31"
   },
   {
     "title": "ROUCHEL RD, ROUCHEL",
@@ -155,7 +187,7 @@
     "latitude": "-31.452140808",
     "longitude": "152.436462403",
     "region": "nsw",
-    "time_of_call": "17 Jul 2024 19:15:00",
+    "time_of_call": "18 Jul 2024 06:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -170,7 +202,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Jul 2024 19:15"
+    "updated": "18 Jul 2024 06:30"
   },
   {
     "title": "GOOLMA RD, GUNTAWANG",
@@ -224,9 +256,9 @@
     "latitude": "-32.4384994499999",
     "longitude": "151.207885742",
     "region": "nsw",
-    "time_of_call": "18 Jul 2024 06:08:00",
+    "time_of_call": "18 Jul 2024 06:30:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "TORYBURN 1388 BRIDGMAN RD, BRIDGMAN 2330",
     "council_area": "Singleton",
@@ -236,19 +268,19 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Jul 2024 06:08"
+    "updated": "18 Jul 2024 06:30"
   },
   {
     "title": "LORNE RD, LORNE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_559010",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.657554627",
-    "longitude": "152.591674805",
+    "latitude": "-31.6564674379999",
+    "longitude": "152.594497681",
     "region": "nsw",
-    "time_of_call": "18 Jul 2024 05:58:00",
+    "time_of_call": "18 Jul 2024 06:44:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "LORNE RD, LORNE 2439",
     "council_area": "Port Macquarie-Hastings",
@@ -256,7 +288,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Jul 2024 05:58"
+    "updated": "18 Jul 2024 06:44"
   },
   {
     "title": "Middleton St, South Kempsey",
@@ -266,9 +298,9 @@
     "latitude": "-31.094008",
     "longitude": "152.831767",
     "region": "nsw",
-    "time_of_call": "18 Jul 2024 06:26:00",
+    "time_of_call": "18 Jul 2024 06:43:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -281,6 +313,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "18 Jul 2024 06:26"
+    "updated": "18 Jul 2024 06:43"
   }
 ]
