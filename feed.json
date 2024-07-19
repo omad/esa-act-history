@@ -84,6 +84,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HIGGINS",
+    "id": "043026-20072024",
+    "latitude": "-35.230526",
+    "longitude": "149.025052",
+    "region": "act",
+    "time_of_call": "20 Jul 2024 07:19:44",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "431 FOGWELLS RD, YORKLEA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_557945",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -432,28 +448,6 @@
     "updated": "20 Jul 2024 05:11"
   },
   {
-    "title": "QUIA STATION RD, GHOOLENDAADI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_559180",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.9331550589999",
-    "longitude": "149.922302246",
-    "region": "nsw",
-    "time_of_call": "20 Jul 2024 06:22:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "LONGREACH 930 QUIA STATION RD, GHOOLENDAADI 2380",
-    "council_area": "Gunnedah",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Jul 2024 06:22"
-  },
-  {
     "title": "PERRY ST, MENINDEE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_559182",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -492,5 +486,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Jul 2024 07:03"
+  },
+  {
+    "title": "RIVERSIDE RD, WALCHA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_559184",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.986139297",
+    "longitude": "151.923171997",
+    "region": "nsw",
+    "time_of_call": "20 Jul 2024 07:21:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "244 RIVERSIDE RD, WALCHA 2354",
+    "council_area": "Walcha",
+    "type": "Search/Rescue",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Jul 2024 07:21"
   }
 ]
