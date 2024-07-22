@@ -221,10 +221,10 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "22 Jul 2024 14:54:25",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -337,6 +337,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BARTON",
+    "id": "043465-22072024",
+    "latitude": "-35.309306",
+    "longitude": "149.13437",
+    "region": "act",
+    "time_of_call": "22 Jul 2024 15:48:20",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -456,28 +472,6 @@
     "updated": "22 Jul 2024 14:35"
   },
   {
-    "title": "MOUNT BROUGHTON RD, WERAI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_559555",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.587306976",
-    "longitude": "150.354919434",
-    "region": "nsw",
-    "time_of_call": "22 Jul 2024 15:14:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "228 MOUNT BROUGHTON RD, WERAI 2577",
-    "council_area": "Wingecarribee",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Jul 2024 15:14"
-  },
-  {
     "title": "OXLEY HWY, MOUNT SEAVIEW",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_559557",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -523,5 +517,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Jul 2024 15:22"
+  },
+  {
+    "title": "Salamander Way, Salamander Bay",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_559560",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.74049",
+    "longitude": "152.098419",
+    "region": "nsw",
+    "time_of_call": "22 Jul 2024 15:45:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Salamander Way, Salamander Bay, NSW 2317",
+    "council_area": "Port Stephens",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "22 Jul 2024 15:45"
   }
 ]
