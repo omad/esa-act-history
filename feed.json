@@ -18,6 +18,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg"
   },
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HAZMAT INCIDENT - RED HILL",
+    "id": "010444-24072024",
+    "latitude": "-35.3349714599",
+    "longitude": "149.1290439699",
+    "region": "act",
+    "time_of_call": "24 Jul 2024 13:39:49",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "HAZMAT INCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other_0.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -47,22 +65,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "043852-24072024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "24 Jul 2024 10:18:20",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -379,10 +381,10 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "24 Jul 2024 13:28:26",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -395,6 +397,38 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "24 Jul 2024 13:28:54",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "043905-24072024",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "24 Jul 2024 13:36:29",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "043906-24072024",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "24 Jul 2024 13:37:16",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
@@ -927,9 +961,9 @@
     "latitude": "-34.677921295",
     "longitude": "149.774948121",
     "region": "nsw",
-    "time_of_call": "24 Jul 2024 13:09:00",
+    "time_of_call": "24 Jul 2024 13:40:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BUNDARA 933 TARALGA RD, TARLO 2580",
     "council_area": "Goulburn Mulwaree",
@@ -939,6 +973,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Jul 2024 13:09"
+    "updated": "24 Jul 2024 13:40"
   }
 ]
