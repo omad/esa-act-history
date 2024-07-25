@@ -9,10 +9,10 @@
     "longitude": "149.136009607",
     "region": "act",
     "time_of_call": "25 Jul 2024 22:44:26",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STRUCTURE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg"
@@ -31,22 +31,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
     "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - RICHARDSON",
-    "id": "044194-25072024",
-    "latitude": "-35.428715",
-    "longitude": "149.111133",
-    "region": "act",
-    "time_of_call": "25 Jul 2024 22:36:43",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -75,10 +59,10 @@
     "longitude": "149.118589",
     "region": "act",
     "time_of_call": "25 Jul 2024 22:58:58",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -710,5 +694,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Jul 2024 23:13"
+  },
+  {
+    "title": "GEORGE BOOTH DR, WEST WALLSEND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_559858",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.890029907",
+    "longitude": "151.572372437",
+    "region": "nsw",
+    "time_of_call": "25 Jul 2024 23:15:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "GEORGE BOOTH DR, WEST WALLSEND 2286",
+    "council_area": "Lake Macquarie",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Jul 2024 23:15"
   }
 ]
