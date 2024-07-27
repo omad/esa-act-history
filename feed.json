@@ -21,22 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FISHER",
-    "id": "044675-28072024",
-    "latitude": "-35.360481",
-    "longitude": "149.058056",
-    "region": "act",
-    "time_of_call": "28 Jul 2024 06:33:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GREENWAY",
     "id": "044679-28072024",
     "latitude": "-35.411775",
@@ -91,10 +75,10 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "28 Jul 2024 07:56:55",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -107,10 +91,10 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "28 Jul 2024 08:04:45",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -335,7 +319,7 @@
     "latitude": "-33.4951896659999",
     "longitude": "150.864913941",
     "region": "nsw",
-    "time_of_call": "27 Jul 2024 00:30:00",
+    "time_of_call": "28 Jul 2024 08:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -347,7 +331,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Jul 2024 00:30"
+    "updated": "28 Jul 2024 08:19"
   },
   {
     "title": "MIDDLE TRUNDLE RD, COOKS MYALLS",
@@ -423,9 +407,9 @@
     "latitude": "-35.016056061",
     "longitude": "149.267578125",
     "region": "nsw",
-    "time_of_call": "27 Jul 2024 13:18:00",
+    "time_of_call": "28 Jul 2024 08:23:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "ACACIA ST, GUNDAROO 2620",
     "council_area": "Yass Valley",
@@ -435,29 +419,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Jul 2024 13:18"
-  },
-  {
-    "title": "BOWMANS RD, OLNEY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_559993",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.017467499",
-    "longitude": "151.301315307",
-    "region": "nsw",
-    "time_of_call": "27 Jul 2024 17:12:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "BOWMANS RD, OLNEY 2325",
-    "council_area": "Cessnock",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Jul 2024 17:12"
+    "updated": "28 Jul 2024 08:23"
   },
   {
     "title": "LINDEN AV, BELROSE",
@@ -514,9 +476,9 @@
     "latitude": "-29.017118454",
     "longitude": "153.43031311",
     "region": "nsw",
-    "time_of_call": "27 Jul 2024 18:33:00",
+    "time_of_call": "28 Jul 2024 08:16:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "7 RIVER ST, BROADWATER 2472",
     "council_area": "Richmond Valley",
@@ -526,7 +488,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Jul 2024 18:33"
+    "updated": "28 Jul 2024 08:16"
   },
   {
     "title": "TYALGUM RD, EUNGELLA",
@@ -593,25 +555,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Jul 2024 08:00"
-  },
-  {
-    "title": "WOOSTERS LANE, NABIAC",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560042",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.086483001",
-    "longitude": "152.394378662",
-    "region": "nsw",
-    "time_of_call": "28 Jul 2024 08:10:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "70 WOOSTERS LANE, NABIAC 2312",
-    "council_area": "Mid-Coast",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Jul 2024 08:10"
   }
 ]
