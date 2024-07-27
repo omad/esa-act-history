@@ -141,10 +141,10 @@
     "longitude": "149.111133",
     "region": "act",
     "time_of_call": "27 Jul 2024 16:02:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -193,22 +193,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CALWELL",
-    "id": "044571-27072024",
-    "latitude": "-35.441132",
-    "longitude": "149.107648",
-    "region": "act",
-    "time_of_call": "27 Jul 2024 16:18:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -317,10 +301,10 @@
     "longitude": "149.100249",
     "region": "act",
     "time_of_call": "27 Jul 2024 17:14:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -733,19 +717,19 @@
     "latitude": "-35.832729339",
     "longitude": "146.997482299",
     "region": "nsw",
-    "time_of_call": "27 Jul 2024 16:41:00",
+    "time_of_call": "27 Jul 2024 17:16:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
     "location": "41 COACH RD, GEROGERY 2642",
     "council_area": "Greater Hume",
-    "type": "Other",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Jul 2024 16:41"
+    "updated": "27 Jul 2024 17:16"
   },
   {
     "title": "STRATHERNE RD, COREEN",
@@ -755,9 +739,9 @@
     "latitude": "-35.7786560059999",
     "longitude": "146.257644653",
     "region": "nsw",
-    "time_of_call": "27 Jul 2024 16:54:00",
+    "time_of_call": "27 Jul 2024 17:17:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -770,6 +754,28 @@
     "fire": "Yes",
     "size": "8 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Jul 2024 16:54"
+    "updated": "27 Jul 2024 17:17"
+  },
+  {
+    "title": "PRINCE ST, BULAHDELAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560001",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.40220642",
+    "longitude": "152.205734253",
+    "region": "nsw",
+    "time_of_call": "27 Jul 2024 17:21:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "15 PRINCE ST, BULAHDELAH 2423",
+    "council_area": "Mid-Coast",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Jul 2024 17:21"
   }
 ]
