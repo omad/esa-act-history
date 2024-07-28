@@ -151,22 +151,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "044726-28072024",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "28 Jul 2024 13:29:49",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BARTON",
     "id": "044727-28072024",
     "latitude": "-35.309306",
@@ -193,22 +177,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
     "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PALMERSTON",
-    "id": "044731-28072024",
-    "latitude": "-35.193269",
-    "longitude": "149.1195",
-    "region": "act",
-    "time_of_call": "28 Jul 2024 13:38:36",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -253,10 +221,10 @@
     "longitude": "149.165368",
     "region": "act",
     "time_of_call": "28 Jul 2024 13:59:49",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -285,10 +253,10 @@
     "longitude": "149.066659",
     "region": "act",
     "time_of_call": "28 Jul 2024 14:06:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -317,10 +285,10 @@
     "longitude": "149.097085",
     "region": "act",
     "time_of_call": "28 Jul 2024 14:12:39",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -349,10 +317,10 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "28 Jul 2024 14:19:45",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -614,9 +582,9 @@
     "latitude": "-33.9632110589999",
     "longitude": "150.692977905",
     "region": "nsw",
-    "time_of_call": "28 Jul 2024 12:08:00",
+    "time_of_call": "28 Jul 2024 14:31:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "70 CHEVIOT DR, COBBITTY 2570",
     "council_area": "Camden",
@@ -624,7 +592,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Jul 2024 12:08"
+    "updated": "28 Jul 2024 14:31"
   },
   {
     "title": "MID WESTERN HWY, BLAYNEY",
@@ -647,31 +615,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Jul 2024 12:54"
-  },
-  {
-    "title": "ALBERT DR, DONNELLYVILLE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560062",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.755619049",
-    "longitude": "152.904724121",
-    "region": "nsw",
-    "time_of_call": "28 Jul 2024 13:44:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "ALBERT DR, DONNELLYVILLE 2447",
-    "council_area": "Nambucca",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Jul 2024 13:44"
   },
   {
     "title": "BUNGENDORE RD, TARAGO",
@@ -766,5 +709,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Jul 2024 14:09"
+  },
+  {
+    "title": "LAKE COWAL RD, BURCHER",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560070",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.5309791569999",
+    "longitude": "147.349655152",
+    "region": "nsw",
+    "time_of_call": "28 Jul 2024 14:21:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "LAKE COWAL RD, BURCHER 2671",
+    "council_area": "Bland",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Jul 2024 14:21"
   }
 ]
