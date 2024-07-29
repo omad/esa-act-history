@@ -36,6 +36,24 @@
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STRUCTURE FIRE - PHILLIP",
+    "id": "010667-29072024",
+    "latitude": "-35.35700242",
+    "longitude": "149.0909468799",
+    "region": "act",
+    "time_of_call": "29 Jul 2024 15:30:06",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "STRUCTURE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -49,22 +67,6 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
     "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FRANKLIN",
-    "id": "044929-29072024",
-    "latitude": "-35.199225",
-    "longitude": "149.144681",
-    "region": "act",
-    "time_of_call": "29 Jul 2024 12:48:31",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -285,10 +287,10 @@
     "longitude": "149.174707",
     "region": "act",
     "time_of_call": "29 Jul 2024 15:09:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -305,6 +307,22 @@
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "044968-29072024",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "29 Jul 2024 15:22:41",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE"
   },
   {
@@ -470,9 +488,9 @@
     "latitude": "-33.5411682129999",
     "longitude": "150.851181031",
     "region": "nsw",
-    "time_of_call": "29 Jul 2024 14:15:00",
+    "time_of_call": "29 Jul 2024 15:27:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "40 ARGENTS RD, WILBERFORCE 2756",
     "council_area": "Hawkesbury",
@@ -482,7 +500,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Jul 2024 14:15"
+    "updated": "29 Jul 2024 15:27"
   },
   {
     "title": "RED HEAD RD, RED HEAD",
