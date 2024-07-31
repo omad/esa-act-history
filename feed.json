@@ -258,6 +258,22 @@
     "type": "AMBULANCE RESPONSE"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GIRALANG",
+    "id": "045511-01082024",
+    "latitude": "-35.210049",
+    "longitude": "149.100175",
+    "region": "act",
+    "time_of_call": "01 Aug 2024 00:43:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE"
+  },
+  {
     "title": "Sunset HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560144",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -507,5 +523,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "31 Jul 2024 23:12"
+  },
+  {
+    "title": "CAPTAIN COOK DR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560320",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.0221786499999",
+    "longitude": "151.19833374",
+    "region": "nsw",
+    "time_of_call": "01 Aug 2024 00:37:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "DICKER DATA LTD 238-258 CAPTAIN COOK DR, KURNELL 2231",
+    "council_area": "Sutherland",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Aug 2024 00:37"
   }
 ]
