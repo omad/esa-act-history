@@ -54,7 +54,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - O'CONNOR",
@@ -67,6 +67,24 @@
     "status_description": "Out / Completed description\r\n",
     "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
     "status_filter_label": "Out / Completed",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
+  },
+  {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - TURNER",
+    "id": "011027-06082024",
+    "latitude": "-35.2668804999",
+    "longitude": "149.11835693",
+    "region": "act",
+    "time_of_call": "06 Aug 2024 09:20:34",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg"
@@ -525,9 +543,9 @@
     "latitude": "-34.276500702",
     "longitude": "146.542053223",
     "region": "nsw",
-    "time_of_call": "06 Aug 2024 09:03:00",
+    "time_of_call": "06 Aug 2024 09:19:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BURLEY GRIFFIN WAY, BARELLAN 2665",
     "council_area": "Narrandera",
@@ -537,6 +555,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Aug 2024 09:03"
+    "updated": "6 Aug 2024 09:19"
+  },
+  {
+    "title": "NORTHERN PWY, TUNCURRY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560824",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.1613121029999",
+    "longitude": "152.494567871",
+    "region": "nsw",
+    "time_of_call": "06 Aug 2024 09:26:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "TAFE NSW TUNCURRY 2 NORTHERN PWY, TUNCURRY 2428",
+    "council_area": "Mid-Coast",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Aug 2024 09:26"
   }
 ]
