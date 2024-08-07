@@ -35,7 +35,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "07 Aug 2024 21:25:48"
+    "updated": "08 Aug 2024 06:09:44"
   },
   {
     "agency": "Ambulance",
@@ -95,24 +95,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "046975-08082024",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "08 Aug 2024 03:37:00",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "08 Aug 2024 05:30:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HACKETT",
     "id": "046976-08082024",
     "latitude": "-35.249801",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
-    "updated": "08 Aug 2024 05:33:13"
+    "updated": "08 Aug 2024 05:49:22"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "08 Aug 2024 05:47:21"
+    "updated": "08 Aug 2024 06:06:40"
   },
   {
     "agency": "Ambulance",
@@ -198,6 +180,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
     "updated": "08 Aug 2024 05:04:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "046985-08082024",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "08 Aug 2024 05:49:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "08 Aug 2024 05:59:38"
   },
   {
     "title": "North HR",
@@ -513,5 +513,71 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Aug 2024 05:08"
+  },
+  {
+    "title": "CORAMBA RD, KARANGI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560968",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.262405395",
+    "longitude": "153.048995972",
+    "region": "nsw",
+    "time_of_call": "08 Aug 2024 06:14:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "CORAMBA RD, KARANGI 2450",
+    "council_area": "Coffs Harbour",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Aug 2024 06:14"
+  },
+  {
+    "title": "(WESTERN MTWY), ERSKINE PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560969",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.791301727",
+    "longitude": "150.807601929",
+    "region": "nsw",
+    "time_of_call": "08 Aug 2024 06:01:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "M4 (WESTERN MTWY), ERSKINE PARK 2759",
+    "council_area": "Penrith",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Aug 2024 06:01"
+  },
+  {
+    "title": "PACIFIC MTWY (NORTHBOUND)",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560970",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.9442176819999",
+    "longitude": "151.545059204",
+    "region": "nsw",
+    "time_of_call": "08 Aug 2024 06:06:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "ET599 M1 PACIFIC MTWY (NORTHBOUND), KILLINGWORTH 2278",
+    "council_area": "Lake Macquarie",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Aug 2024 06:06"
   }
 ]
