@@ -1,6 +1,6 @@
 [
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - KAMBAH",
@@ -38,6 +38,26 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "GREENHILLS CONFERENCE CENTRE, COTTER ROAD, STROMLO, 0000",
     "updated": "07 Aug 2024 13:18:11"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HAZARD REDUCTION BURN - PADDYS RIVER",
+    "id": "011077-07082024",
+    "latitude": "-35.44569468",
+    "longitude": "148.9574056399",
+    "region": "act",
+    "time_of_call": "07 Aug 2024 13:39:33",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "HAZARD REDUCTION BURN",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
+    "location": "BIRRIGAI OUTDOOR SCHOOL, TIDBINBILLA ROAD, PADDYS RIVER, 0000",
+    "updated": "07 Aug 2024 13:39:55"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +111,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "07 Aug 2024 13:18:25"
+    "updated": "07 Aug 2024 13:45:26"
   },
   {
     "agency": "Ambulance",
@@ -277,24 +297,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "046838-07082024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "07 Aug 2024 12:20:00",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "07 Aug 2024 12:57:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - FARRER",
     "id": "046840-07082024",
     "latitude": "-35.377331",
@@ -307,7 +309,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "07 Aug 2024 12:33:16"
+    "updated": "07 Aug 2024 13:44:41"
   },
   {
     "agency": "Ambulance",
@@ -343,7 +345,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "07 Aug 2024 13:29:18"
+    "updated": "07 Aug 2024 13:48:00"
   },
   {
     "agency": "Ambulance",
@@ -415,7 +417,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "07 Aug 2024 13:10:18"
+    "updated": "07 Aug 2024 13:36:17"
   },
   {
     "agency": "Ambulance",
@@ -427,13 +429,49 @@
     "longitude": "149.115669",
     "region": "act",
     "time_of_call": "07 Aug 2024 13:34:30",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ACTON",
+    "updated": "07 Aug 2024 13:41:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - OXLEY",
+    "id": "046859-07082024",
+    "latitude": "-35.410682",
+    "longitude": "149.078026",
+    "region": "act",
+    "time_of_call": "07 Aug 2024 13:45:02",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "ACTON",
-    "updated": "07 Aug 2024 13:34:54"
+    "location": "OXLEY",
+    "updated": "07 Aug 2024 13:47:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "046861-07082024",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "07 Aug 2024 13:45:23",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "07 Aug 2024 13:47:54"
   },
   {
     "title": "North HR",
@@ -738,9 +776,9 @@
     "latitude": "-28.6194953909999",
     "longitude": "153.506713867",
     "region": "nsw",
-    "time_of_call": "07 Aug 2024 12:54:00",
+    "time_of_call": "07 Aug 2024 13:38:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -753,7 +791,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Aug 2024 12:54"
+    "updated": "7 Aug 2024 13:38"
   },
   {
     "title": "PRINCES HWY, COOPERS GULLY",
@@ -763,9 +801,9 @@
     "latitude": "-36.644207001",
     "longitude": "149.822006225",
     "region": "nsw",
-    "time_of_call": "07 Aug 2024 12:56:00",
+    "time_of_call": "07 Aug 2024 13:35:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -778,17 +816,17 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Aug 2024 12:56"
+    "updated": "7 Aug 2024 13:35"
   },
   {
     "title": "South Arm Rd, Urunga",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560912",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.4774879999999",
-    "longitude": "152.995571",
+    "latitude": "-30.495271682",
+    "longitude": "152.990829468",
     "region": "nsw",
-    "time_of_call": "07 Aug 2024 13:31:00",
+    "time_of_call": "07 Aug 2024 13:34:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -803,6 +841,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Aug 2024 13:31"
+    "updated": "7 Aug 2024 13:34"
+  },
+  {
+    "title": "RIVER RD, SUSSEX INLET",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560913",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.1567001339999",
+    "longitude": "150.601562501",
+    "region": "nsw",
+    "time_of_call": "07 Aug 2024 13:34:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "RIVER RD, SUSSEX INLET 2540",
+    "council_area": "Shoalhaven",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Aug 2024 13:34"
   }
 ]
