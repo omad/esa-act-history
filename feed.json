@@ -95,24 +95,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "046889-07082024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "07 Aug 2024 16:07:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "07 Aug 2024 16:37:00"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KAMBAH",
     "id": "046890-07082024",
     "latitude": "-35.384074",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "07 Aug 2024 17:11:37"
+    "updated": "07 Aug 2024 17:26:33"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,13 @@
     "longitude": "149.046603",
     "region": "act",
     "time_of_call": "07 Aug 2024 16:38:00",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "07 Aug 2024 17:09:33"
+    "updated": "07 Aug 2024 17:27:59"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "07 Aug 2024 17:03:11"
+    "updated": "07 Aug 2024 17:26:11"
   },
   {
     "title": "North HR",
@@ -653,12 +635,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560937",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.2685694644685",
-    "longitude": "147.548715758543",
+    "latitude": "-34.2598130436095",
+    "longitude": "147.546050773835",
     "region": "nsw",
-    "time_of_call": "07 Aug 2024 16:44:00",
+    "time_of_call": "07 Aug 2024 17:21:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "TRUNGLEY HALL RD, TRUNGLEY HALL 2666",
     "council_area": "Temora",
@@ -668,7 +650,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Aug 2024 16:44"
+    "updated": "7 Aug 2024 17:21"
   },
   {
     "title": "DEVONSHIRE RD, KEMPS CREEK",
@@ -714,5 +696,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "7 Aug 2024 17:01"
+  },
+  {
+    "title": "NEW ENGLAND HWY, ALLANDALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560943",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.70867157",
+    "longitude": "151.426010132",
+    "region": "nsw",
+    "time_of_call": "07 Aug 2024 17:25:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "NEW ENGLAND HWY, ALLANDALE 2320",
+    "council_area": "Maitland",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Aug 2024 17:25"
   }
 ]
