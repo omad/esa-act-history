@@ -175,24 +175,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "047078-08082024",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "08 Aug 2024 12:24:03",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "08 Aug 2024 15:20:08"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GARRAN",
     "id": "047084-08082024",
     "latitude": "-35.340821",
@@ -331,7 +313,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "08 Aug 2024 15:10:07"
+    "updated": "08 Aug 2024 15:26:13"
   },
   {
     "agency": "Ambulance",
@@ -349,7 +331,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "08 Aug 2024 15:11:47"
+    "updated": "08 Aug 2024 15:29:56"
   },
   {
     "agency": "Ambulance",
@@ -385,7 +367,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "08 Aug 2024 15:12:44"
+    "updated": "08 Aug 2024 15:32:57"
   },
   {
     "agency": "Ambulance",
@@ -403,7 +385,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "08 Aug 2024 15:06:40"
+    "updated": "08 Aug 2024 15:24:52"
   },
   {
     "agency": "Ambulance",
@@ -421,7 +403,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "08 Aug 2024 15:17:53"
+    "updated": "08 Aug 2024 15:26:40"
   },
   {
     "agency": "Ambulance",
@@ -433,13 +415,31 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "08 Aug 2024 15:13:37",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "08 Aug 2024 15:18:37"
+    "updated": "08 Aug 2024 15:30:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUFFY",
+    "id": "047126-08082024",
+    "latitude": "-35.336273",
+    "longitude": "149.031217",
+    "region": "act",
+    "time_of_call": "08 Aug 2024 15:27:29",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUFFY",
+    "updated": "08 Aug 2024 15:30:45"
   },
   {
     "title": "HR - Snake Gully Road Upper Burringbar",
@@ -471,7 +471,7 @@
     "latitude": "-29.1345062249999",
     "longitude": "153.41986084",
     "region": "nsw",
-    "time_of_call": "07 Aug 2024 15:08:00",
+    "time_of_call": "08 Aug 2024 15:16:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -481,9 +481,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
     "fire": "Yes",
-    "size": "1100 ha",
+    "size": "1500 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "7 Aug 2024 15:08"
+    "updated": "8 Aug 2024 15:16"
   },
   {
     "title": "Jervis Bay DOD, HR Cluster",
@@ -742,7 +742,7 @@
     "latitude": "-36.858161926",
     "longitude": "149.935409546",
     "region": "nsw",
-    "time_of_call": "08 Aug 2024 06:36:00",
+    "time_of_call": "08 Aug 2024 15:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -754,7 +754,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Aug 2024 06:36"
+    "updated": "8 Aug 2024 15:27"
   },
   {
     "title": "OCEAN RIDGE DR, WAY WAY",
@@ -801,28 +801,6 @@
     "updated": "8 Aug 2024 10:42"
   },
   {
-    "title": "ELLIOTS RD, TAMBAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560988",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.862480164",
-    "longitude": "152.83052063",
-    "region": "nsw",
-    "time_of_call": "08 Aug 2024 12:44:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "299 ELLIOTS RD, TAMBAN 2441",
-    "council_area": "Nambucca",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Aug 2024 12:44"
-  },
-  {
     "title": "BUDAWANG RD, MONGARLOWE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560997",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -830,7 +808,7 @@
     "latitude": "-35.429050445",
     "longitude": "149.947937012",
     "region": "nsw",
-    "time_of_call": "08 Aug 2024 14:29:00",
+    "time_of_call": "08 Aug 2024 15:23:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -845,7 +823,7 @@
     "fire": "Yes",
     "size": "3 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Aug 2024 14:29"
+    "updated": "8 Aug 2024 15:23"
   },
   {
     "title": "BROWNS RD, LAKE BATHURST",
