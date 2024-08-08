@@ -89,15 +89,15 @@
     "longitude": "149.09911399",
     "region": "act",
     "time_of_call": "08 Aug 2024 15:02:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "ROUNDABOUT, CLARRIE HERMES DRIVE, HORSE PARK DRIVE, CASEY, 2913",
-    "updated": "08 Aug 2024 15:13:39"
+    "updated": "08 Aug 2024 15:42:39"
   },
   {
     "agency": "Ambulance",
@@ -187,7 +187,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "08 Aug 2024 14:47:22"
+    "updated": "08 Aug 2024 15:38:18"
   },
   {
     "agency": "Ambulance",
@@ -295,7 +295,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "08 Aug 2024 15:20:22"
+    "updated": "08 Aug 2024 15:38:43"
   },
   {
     "agency": "Ambulance",
@@ -349,7 +349,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
-    "updated": "08 Aug 2024 15:12:35"
+    "updated": "08 Aug 2024 15:35:55"
   },
   {
     "agency": "Ambulance",
@@ -397,13 +397,13 @@
     "longitude": "149.126815",
     "region": "act",
     "time_of_call": "08 Aug 2024 15:12:37",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "08 Aug 2024 15:26:40"
+    "updated": "08 Aug 2024 15:33:18"
   },
   {
     "agency": "Ambulance",
@@ -421,7 +421,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "08 Aug 2024 15:30:08"
+    "updated": "08 Aug 2024 15:41:03"
   },
   {
     "agency": "Ambulance",
@@ -439,7 +439,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "08 Aug 2024 15:30:45"
+    "updated": "08 Aug 2024 15:45:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACARTHUR",
+    "id": "047128-08082024",
+    "latitude": "-35.407599",
+    "longitude": "149.129639",
+    "region": "act",
+    "time_of_call": "08 Aug 2024 15:44:39",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACARTHUR",
+    "updated": "08 Aug 2024 15:48:50"
   },
   {
     "title": "HR - Snake Gully Road Upper Burringbar",
@@ -805,8 +823,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_560997",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.429050445",
-    "longitude": "149.947937012",
+    "latitude": "-35.4298531319999",
+    "longitude": "149.946797824",
     "region": "nsw",
     "time_of_call": "08 Aug 2024 15:23:00",
     "event_type": "burnt area",
@@ -849,26 +867,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Aug 2024 15:04"
-  },
-  {
-    "title": "KINGS HWY, WARRI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561004",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.299476624",
-    "longitude": "149.704071045",
-    "region": "nsw",
-    "time_of_call": "08 Aug 2024 14:59:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "KINGS HWY, WARRI 2622",
-    "council_area": "Queanbeyan-Palerang",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Aug 2024 14:59"
   },
   {
     "title": "OLYMPIC HWY, YOUNG",
