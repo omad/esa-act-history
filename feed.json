@@ -99,24 +99,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "047100-08082024",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "08 Aug 2024 13:26:30",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "08 Aug 2024 16:45:33"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DICKSON",
     "id": "047108-08082024",
     "latitude": "-35.250784",
@@ -219,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "08 Aug 2024 20:16:48"
+    "updated": "08 Aug 2024 20:30:41"
   },
   {
     "agency": "Ambulance",
@@ -507,7 +489,7 @@
     "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "APSLEY PLACE, KALEEN, 2617",
-    "updated": "08 Aug 2024 20:18:57"
+    "updated": "08 Aug 2024 20:28:29"
   },
   {
     "agency": "Ambulance",
@@ -526,6 +508,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
     "updated": "08 Aug 2024 20:03:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "047182-08082024",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "08 Aug 2024 20:24:49",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "08 Aug 2024 20:29:06"
   },
   {
     "title": "HR - Snake Gully Road Upper Burringbar",
@@ -977,5 +977,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Aug 2024 20:08"
+  },
+  {
+    "title": "MOUNT RUSSELL RD, MOUNT RUSSELL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561027",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.678180695",
+    "longitude": "150.895294189",
+    "region": "nsw",
+    "time_of_call": "08 Aug 2024 20:12:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "1023 MOUNT RUSSELL RD, MOUNT RUSSELL 2360",
+    "council_area": "Inverell",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Aug 2024 20:12"
   }
 ]
