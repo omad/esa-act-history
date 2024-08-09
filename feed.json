@@ -199,13 +199,13 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "10 Aug 2024 00:30:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "10 Aug 2024 01:45:53"
+    "updated": "10 Aug 2024 02:16:42"
   },
   {
     "agency": "Ambulance",
@@ -223,7 +223,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "10 Aug 2024 01:42:58"
+    "updated": "10 Aug 2024 01:57:34"
   },
   {
     "agency": "Ambulance",
@@ -259,7 +259,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "10 Aug 2024 01:35:54"
+    "updated": "10 Aug 2024 02:20:10"
   },
   {
     "agency": "Ambulance",
@@ -277,7 +277,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "10 Aug 2024 01:44:05"
+    "updated": "10 Aug 2024 02:15:47"
   },
   {
     "agency": "Ambulance",
@@ -295,7 +295,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "10 Aug 2024 01:44:54"
+    "updated": "10 Aug 2024 02:10:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACQUARIE",
+    "id": "047513-10082024",
+    "latitude": "-35.249901",
+    "longitude": "149.061171",
+    "region": "act",
+    "time_of_call": "10 Aug 2024 02:01:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACQUARIE",
+    "updated": "10 Aug 2024 02:08:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FORDE",
+    "id": "047514-10082024",
+    "latitude": "-35.169175",
+    "longitude": "149.145987",
+    "region": "act",
+    "time_of_call": "10 Aug 2024 02:08:47",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FORDE",
+    "updated": "10 Aug 2024 02:25:52"
   },
   {
     "title": "HR - Snake Gully Road Upper Burringbar",
@@ -847,25 +883,45 @@
     "updated": "9 Aug 2024 20:50"
   },
   {
-    "title": "CANGAI RD, CANGAI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561126",
+    "title": "EUGOWRA RD, PARKES",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561128",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.514600753",
-    "longitude": "152.485549927",
+    "latitude": "-33.17257309",
+    "longitude": "148.209777832",
     "region": "nsw",
-    "time_of_call": "10 Aug 2024 01:26:00",
+    "time_of_call": "10 Aug 2024 01:54:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "CANGAI RD, CANGAI 2460",
-    "council_area": "Clarence Valley",
-    "type": "MVA/Transport",
+    "location": "6970 EUGOWRA RD, PARKES 2870",
+    "council_area": "Parkes",
+    "type": "Other",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Aug 2024 01:26"
+    "updated": "10 Aug 2024 01:54"
+  },
+  {
+    "title": "ROSEWOOD AV, PARKES",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561129",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.1433601379999",
+    "longitude": "148.15637207",
+    "region": "nsw",
+    "time_of_call": "10 Aug 2024 02:00:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "6 ROSEWOOD AV, PARKES 2870",
+    "council_area": "Parkes",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "10 Aug 2024 02:00"
   }
 ]
