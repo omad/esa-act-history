@@ -100,6 +100,26 @@
     "updated": "10 Aug 2024 16:18:13"
   },
   {
+    "agency": "Fire",
+    "alert_level": "Advice",
+    "event_type": "incident",
+    "title": "GRASS AND BUSH FIRE - GREENWAY",
+    "id": "011249-11082024",
+    "latitude": "-35.4244651794",
+    "longitude": "149.0759887695",
+    "region": "act",
+    "time_of_call": "11 Aug 2024 03:04:56",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "type": "GRASS AND BUSH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
+    "location": "ROUNDABOUT, ATHLLON DRIVE, BARR SMITH AVENUE, BONYTHON, 2905",
+    "updated": "11 Aug 2024 03:14:18"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -121,24 +141,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "047703-11082024",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "11 Aug 2024 01:36:49",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "11 Aug 2024 02:34:52"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - TAYLOR",
     "id": "047704-11082024",
     "latitude": "-35.147416",
@@ -151,7 +153,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "11 Aug 2024 01:57:25"
+    "updated": "11 Aug 2024 03:07:44"
   },
   {
     "agency": "Ambulance",
@@ -187,7 +189,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "11 Aug 2024 02:36:17"
+    "updated": "11 Aug 2024 03:15:25"
   },
   {
     "agency": "Ambulance",
@@ -205,7 +207,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "11 Aug 2024 02:40:03"
+    "updated": "11 Aug 2024 03:04:37"
   },
   {
     "agency": "Ambulance",
@@ -235,13 +237,31 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "11 Aug 2024 02:41:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "11 Aug 2024 02:46:41"
+    "updated": "11 Aug 2024 03:13:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "047713-11082024",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "11 Aug 2024 03:03:26",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "11 Aug 2024 03:16:46"
   },
   {
     "title": "North HR",
@@ -832,5 +852,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Aug 2024 00:15"
+  },
+  {
+    "title": "TARRION YARRAWIN RD, BREWARRINA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561256",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.27208519",
+    "longitude": "147.212554932",
+    "region": "nsw",
+    "time_of_call": "11 Aug 2024 02:57:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "4912 TARRION YARRAWIN RD, BREWARRINA 2839",
+    "council_area": "Brewarrina",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Aug 2024 02:57"
+  },
+  {
+    "title": "MARY GILMORE WAY, BRIBBAREE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561257",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.0394592279999",
+    "longitude": "147.92944336",
+    "region": "nsw",
+    "time_of_call": "11 Aug 2024 03:11:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "MARY GILMORE WAY, BRIBBAREE 2594",
+    "council_area": "Weddin",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Aug 2024 03:11"
   }
 ]
