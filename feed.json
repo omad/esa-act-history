@@ -101,24 +101,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - STIRLING",
-    "id": "047570-10082024",
-    "latitude": "-35.351472",
-    "longitude": "149.046603",
-    "region": "act",
-    "time_of_call": "10 Aug 2024 10:42:08",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "STIRLING",
-    "updated": "10 Aug 2024 13:16:35"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KAMBAH",
     "id": "047582-10082024",
     "latitude": "-35.384074",
@@ -185,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "10 Aug 2024 13:06:53"
+    "updated": "10 Aug 2024 13:46:46"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "10 Aug 2024 13:28:24"
+    "updated": "10 Aug 2024 13:47:14"
   },
   {
     "agency": "Ambulance",
@@ -239,7 +221,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "10 Aug 2024 13:30:39"
+    "updated": "10 Aug 2024 13:42:18"
   },
   {
     "agency": "Ambulance",
@@ -257,7 +239,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "10 Aug 2024 13:18:34"
+    "updated": "10 Aug 2024 13:47:31"
   },
   {
     "agency": "Ambulance",
@@ -305,13 +287,13 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "10 Aug 2024 13:16:02",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "10 Aug 2024 13:20:55"
+    "updated": "10 Aug 2024 13:41:36"
   },
   {
     "agency": "Ambulance",
@@ -323,13 +305,31 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "10 Aug 2024 13:25:20",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "10 Aug 2024 13:35:32"
+    "updated": "10 Aug 2024 13:48:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "047603-10082024",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "10 Aug 2024 13:44:21",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "10 Aug 2024 13:48:12"
   },
   {
     "title": "North HR",
@@ -1026,7 +1026,7 @@
     "latitude": "-32.5070762629999",
     "longitude": "151.574859619",
     "region": "nsw",
-    "time_of_call": "10 Aug 2024 13:33:00",
+    "time_of_call": "10 Aug 2024 13:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1038,7 +1038,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Aug 2024 13:33"
+    "updated": "10 Aug 2024 13:38"
   },
   {
     "title": "TARAGO ROAD, BUNGENDORE",
@@ -1084,51 +1084,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Aug 2024 12:53"
-  },
-  {
-    "title": "DUNEDOO RD, DUBBO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561172",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.2285537719999",
-    "longitude": "148.666366577",
-    "region": "nsw",
-    "time_of_call": "10 Aug 2024 13:15:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "EAST MUGGA 12R DUNEDOO RD, DUBBO 2830",
-    "council_area": "Dubbo Regional",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Aug 2024 13:15"
-  },
-  {
-    "title": "Orchard Pl, Inverell",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561173",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.772416",
-    "longitude": "151.158729",
-    "region": "nsw",
-    "time_of_call": "10 Aug 2024 13:35:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "97 Orchard Pl, Inverell, NSW 2360",
-    "council_area": "Inverell",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "10 Aug 2024 13:35"
   },
   {
     "title": "HANGING ROCK RD, COOMBADJHA",
@@ -1185,9 +1140,9 @@
     "latitude": "-31.09164",
     "longitude": "152.829284999",
     "region": "nsw",
-    "time_of_call": "10 Aug 2024 13:35:00",
+    "time_of_call": "10 Aug 2024 13:41:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1200,6 +1155,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "10 Aug 2024 13:35"
+    "updated": "10 Aug 2024 13:41"
   }
 ]
