@@ -100,13 +100,13 @@
     "updated": "10 Aug 2024 16:18:13"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - PIALLIGO",
+    "title": "MOTOR VEHICLE ACCIDENT - MAJURA",
     "id": "011226-10082024",
-    "latitude": "-35.2863273621",
-    "longitude": "149.1840209961",
+    "latitude": "-35.2734184265",
+    "longitude": "149.187210083",
     "region": "act",
     "time_of_call": "10 Aug 2024 17:04:50",
     "status": "On Scene",
@@ -117,7 +117,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "MAJURA PARKWAY, FAIRBAIRN AVENUE, PIALLIGO, 2609",
-    "updated": "10 Aug 2024 17:16:54"
+    "updated": "10 Aug 2024 17:19:16"
   },
   {
     "agency": "Ambulance",
@@ -153,25 +153,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "10 Aug 2024 17:02:18"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BARTON",
-    "id": "047619-10082024",
-    "latitude": "-35.309306",
-    "longitude": "149.13437",
-    "region": "act",
-    "time_of_call": "10 Aug 2024 15:19:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BARTON",
-    "updated": "10 Aug 2024 16:14:24"
+    "updated": "10 Aug 2024 17:27:07"
   },
   {
     "agency": "Ambulance",
@@ -226,24 +208,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FRASER",
     "updated": "10 Aug 2024 17:11:41"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PHILLIP",
-    "id": "047629-10082024",
-    "latitude": "-35.348136",
-    "longitude": "149.090018",
-    "region": "act",
-    "time_of_call": "10 Aug 2024 15:58:55",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PHILLIP",
-    "updated": "10 Aug 2024 16:47:41"
   },
   {
     "agency": "Ambulance",
@@ -423,7 +387,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "10 Aug 2024 17:16:33"
+    "updated": "10 Aug 2024 17:19:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "047644-10082024",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "10 Aug 2024 17:21:37",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "10 Aug 2024 17:24:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "047645-10082024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "10 Aug 2024 17:28:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "10 Aug 2024 17:28:43"
   },
   {
     "title": "North HR",
@@ -1384,5 +1384,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Aug 2024 17:12"
+  },
+  {
+    "title": "CAMERON ST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561206",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.4673995969999",
+    "longitude": "152.734268189",
+    "region": "nsw",
+    "time_of_call": "10 Aug 2024 17:22:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "BUNDALEER GARDENS VILLAGE 142A CAMERON ST, WAUCHOPE 2446",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "10 Aug 2024 17:22"
   }
 ]
