@@ -239,7 +239,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "11 Aug 2024 14:55:23"
+    "updated": "11 Aug 2024 15:28:08"
   },
   {
     "agency": "Ambulance",
@@ -258,24 +258,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
     "updated": "11 Aug 2024 15:01:25"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
-    "id": "047810-11082024",
-    "latitude": "-35.184984",
-    "longitude": "149.135062",
-    "region": "act",
-    "time_of_call": "11 Aug 2024 14:27:42",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GUNGAHLIN",
-    "updated": "11 Aug 2024 14:35:18"
   },
   {
     "agency": "Ambulance",
@@ -341,13 +323,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "11 Aug 2024 14:51:59",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "11 Aug 2024 14:55:15"
+    "updated": "11 Aug 2024 15:25:23"
   },
   {
     "agency": "Ambulance",
@@ -365,7 +347,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "11 Aug 2024 15:00:25"
+    "updated": "11 Aug 2024 15:26:48"
   },
   {
     "agency": "Ambulance",
@@ -383,7 +365,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "11 Aug 2024 15:19:42"
+    "updated": "11 Aug 2024 15:20:20"
   },
   {
     "agency": "Ambulance",
@@ -395,13 +377,31 @@
     "longitude": "149.1195",
     "region": "act",
     "time_of_call": "11 Aug 2024 15:16:37",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PALMERSTON",
+    "updated": "11 Aug 2024 15:28:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "047819-11082024",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "11 Aug 2024 15:28:26",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "PALMERSTON",
-    "updated": "11 Aug 2024 15:18:48"
+    "location": "PHILLIP",
+    "updated": "11 Aug 2024 15:28:35"
   },
   {
     "title": "North HR",
@@ -1149,28 +1149,6 @@
     "updated": "11 Aug 2024 14:12"
   },
   {
-    "title": "YARRAWONGA RD, YARRAWONGA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561305",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.386631011",
-    "longitude": "149.642715454",
-    "region": "nsw",
-    "time_of_call": "11 Aug 2024 14:11:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "SHIRMAL 384 YARRAWONGA RD, YARRAWONGA 2850",
-    "council_area": "Mid-Western",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Aug 2024 14:11"
-  },
-  {
     "title": "ELIZABETH DR, CECIL PARK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561306",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1240,6 +1218,28 @@
     "updated": "11 Aug 2024 14:44"
   },
   {
+    "title": "CAPITAL PL, ROUSE HILL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561311",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6733627319999",
+    "longitude": "150.912734986",
+    "region": "nsw",
+    "time_of_call": "11 Aug 2024 15:05:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "1 CAPITAL PL, ROUSE HILL 2155",
+    "council_area": "The Hills",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Aug 2024 15:05"
+  },
+  {
     "title": "MINGARA DR, TUMBI UMBI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561312",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1258,5 +1258,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Aug 2024 15:06"
+  },
+  {
+    "title": "COOPERABUNG DR, COOPERABUNG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561314",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.307540893",
+    "longitude": "152.814498901",
+    "region": "nsw",
+    "time_of_call": "11 Aug 2024 15:20:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "263 COOPERABUNG DR, COOPERABUNG 2441",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Aug 2024 15:20"
   }
 ]
