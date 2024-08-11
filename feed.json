@@ -113,7 +113,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "12 Aug 2024 07:29:13"
+    "updated": "12 Aug 2024 07:34:19"
   },
   {
     "agency": "Ambulance",
@@ -149,7 +149,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "12 Aug 2024 06:54:41"
+    "updated": "12 Aug 2024 07:33:35"
   },
   {
     "agency": "Ambulance",
@@ -161,13 +161,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "12 Aug 2024 07:06:40",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "12 Aug 2024 07:22:54"
+    "updated": "12 Aug 2024 07:47:49"
   },
   {
     "agency": "Ambulance",
@@ -179,13 +179,13 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "12 Aug 2024 07:19:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "12 Aug 2024 07:23:02"
+    "updated": "12 Aug 2024 07:34:48"
   },
   {
     "agency": "Ambulance",
@@ -197,13 +197,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "12 Aug 2024 07:22:02",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "12 Aug 2024 07:27:47"
+    "updated": "12 Aug 2024 07:38:16"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +221,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PIALLIGO",
-    "updated": "12 Aug 2024 07:29:16"
+    "updated": "12 Aug 2024 07:31:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "047912-12082024",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "12 Aug 2024 07:41:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "12 Aug 2024 07:43:39"
   },
   {
     "title": "North HR",
@@ -705,5 +723,71 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Aug 2024 00:20"
+  },
+  {
+    "title": "PACIFIC HWY, JACKY BULBIN FLAT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561368",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.2713298799999",
+    "longitude": "153.220199585",
+    "region": "nsw",
+    "time_of_call": "12 Aug 2024 07:34:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, JACKY BULBIN FLAT 2463",
+    "council_area": "Clarence Valley",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Aug 2024 07:34"
+  },
+  {
+    "title": "MITCHELL HWY, DUNKELD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561369",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4133415219999",
+    "longitude": "149.466049194",
+    "region": "nsw",
+    "time_of_call": "12 Aug 2024 07:41:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "MITCHELL HWY, DUNKELD 2795",
+    "council_area": "Bathurst",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Aug 2024 07:41"
+  },
+  {
+    "title": "EDMONDSON AV, AUSTRAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561370",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.9462356569999",
+    "longitude": "150.81124878",
+    "region": "nsw",
+    "time_of_call": "12 Aug 2024 07:43:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "SCALABRINI VILLAGE 65 EDMONDSON AV, AUSTRAL 2179",
+    "council_area": "Liverpool",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Aug 2024 07:43"
   }
 ]
