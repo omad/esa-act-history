@@ -125,13 +125,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "11 Aug 2024 22:19:48",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "12 Aug 2024 00:29:29"
+    "updated": "12 Aug 2024 01:09:47"
   },
   {
     "agency": "Ambulance",
@@ -150,42 +150,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
     "updated": "11 Aug 2024 23:09:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GRIFFITH",
-    "id": "047871-11082024",
-    "latitude": "-35.325773",
-    "longitude": "149.133842",
-    "region": "act",
-    "time_of_call": "11 Aug 2024 23:18:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GRIFFITH",
-    "updated": "12 Aug 2024 00:08:04"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CURTIN",
-    "id": "047872-11082024",
-    "latitude": "-35.326585",
-    "longitude": "149.076856",
-    "region": "act",
-    "time_of_call": "11 Aug 2024 23:28:38",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CURTIN",
-    "updated": "12 Aug 2024 00:31:59"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +185,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "12 Aug 2024 00:36:47"
+    "updated": "12 Aug 2024 00:49:52"
   },
   {
     "agency": "Ambulance",
@@ -239,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "12 Aug 2024 00:34:53"
+    "updated": "12 Aug 2024 00:55:33"
   },
   {
     "agency": "Ambulance",
@@ -257,7 +221,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "12 Aug 2024 00:46:06"
+    "updated": "12 Aug 2024 01:12:44"
   },
   {
     "agency": "Ambulance",
@@ -269,13 +233,13 @@
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "12 Aug 2024 00:46:23",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "12 Aug 2024 00:47:48"
+    "updated": "12 Aug 2024 00:55:46"
   },
   {
     "title": "North HR",
@@ -759,52 +723,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Aug 2024 00:20"
-  },
-  {
-    "title": "PARNWELL ST, BUXTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561357",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.2537651059999",
-    "longitude": "150.532958984",
-    "region": "nsw",
-    "time_of_call": "11 Aug 2024 23:46:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PARNWELL ST, BUXTON 2571",
-    "council_area": "Wollondilly",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Aug 2024 23:46"
-  },
-  {
-    "title": "HUME HWY, SUTTON FOREST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561360",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.5958061219999",
-    "longitude": "150.236282349",
-    "region": "nsw",
-    "time_of_call": "11 Aug 2024 23:53:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "CURRA-NARDIE 12942 HUME HWY, SUTTON FOREST 2577",
-    "council_area": "Wingecarribee",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Aug 2024 23:53"
   }
 ]
