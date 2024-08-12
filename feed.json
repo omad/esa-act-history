@@ -93,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "13 Aug 2024 08:18:28"
+    "updated": "13 Aug 2024 08:43:20"
   },
   {
     "agency": "Ambulance",
@@ -195,13 +195,13 @@
     "longitude": "149.046336",
     "region": "act",
     "time_of_call": "13 Aug 2024 07:57:53",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "13 Aug 2024 07:58:06"
+    "updated": "13 Aug 2024 08:42:26"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +219,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "13 Aug 2024 08:11:48"
+    "updated": "13 Aug 2024 08:36:32"
   },
   {
     "agency": "Ambulance",
@@ -267,13 +267,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "13 Aug 2024 08:22:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "13 Aug 2024 08:24:53"
+    "updated": "13 Aug 2024 08:34:34"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +291,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "13 Aug 2024 08:33:43"
+    "updated": "13 Aug 2024 08:35:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RED HILL",
+    "id": "048168-13082024",
+    "latitude": "-35.333636",
+    "longitude": "149.120031",
+    "region": "act",
+    "time_of_call": "13 Aug 2024 08:40:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RED HILL",
+    "updated": "13 Aug 2024 08:45:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "048169-13082024",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "13 Aug 2024 08:41:01",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "13 Aug 2024 08:42:32"
   },
   {
     "title": "ANDERSONS MOUNTAIN RD, UPPER CORINDI",
@@ -536,5 +572,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Aug 2024 08:27"
+  },
+  {
+    "title": "RANNOCK RD, RANNOCK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561453",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.613681793",
+    "longitude": "147.261596679",
+    "region": "nsw",
+    "time_of_call": "13 Aug 2024 08:32:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "2442 RANNOCK RD, RANNOCK 2701",
+    "council_area": "Coolamon",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Aug 2024 08:32"
   }
 ]
