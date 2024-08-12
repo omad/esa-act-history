@@ -75,7 +75,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "12 Aug 2024 18:59:12"
+    "updated": "12 Aug 2024 19:26:00"
   },
   {
     "agency": "Ambulance",
@@ -112,24 +112,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
     "updated": "12 Aug 2024 18:55:23"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FISHER",
-    "id": "048057-12082024",
-    "latitude": "-35.360481",
-    "longitude": "149.058056",
-    "region": "act",
-    "time_of_call": "12 Aug 2024 17:28:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FISHER",
-    "updated": "12 Aug 2024 18:45:54"
   },
   {
     "agency": "Ambulance",
@@ -231,13 +213,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "12 Aug 2024 18:59:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "12 Aug 2024 19:13:51"
+    "updated": "12 Aug 2024 19:23:41"
   },
   {
     "agency": "Ambulance",
@@ -255,7 +237,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "12 Aug 2024 19:16:08"
+    "updated": "12 Aug 2024 19:31:19"
   },
   {
     "agency": "Ambulance",
@@ -273,7 +255,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "SYMONSTON",
-    "updated": "12 Aug 2024 19:22:35"
+    "updated": "12 Aug 2024 19:24:51"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +273,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "12 Aug 2024 19:22:48"
+    "updated": "12 Aug 2024 19:25:04"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "048083-12082024",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "12 Aug 2024 19:30:15",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "12 Aug 2024 19:32:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MELBA",
+    "id": "048084-12082024",
+    "latitude": "-35.209077",
+    "longitude": "149.057326",
+    "region": "act",
+    "time_of_call": "12 Aug 2024 19:31:50",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MELBA",
+    "updated": "12 Aug 2024 19:32:50"
   },
   {
     "title": "ANDERSONS MOUNTAIN RD, UPPER CORINDI",
@@ -439,8 +457,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561426",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.2129898069999",
-    "longitude": "152.833023071",
+    "latitude": "-31.2121925349999",
+    "longitude": "152.834030152",
     "region": "nsw",
     "time_of_call": "12 Aug 2024 18:38:00",
     "event_type": "burnt area",
@@ -464,7 +482,7 @@
     "latitude": "-33.354007721",
     "longitude": "147.119903564",
     "region": "nsw",
-    "time_of_call": "12 Aug 2024 19:07:00",
+    "time_of_call": "12 Aug 2024 19:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -476,6 +494,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Aug 2024 19:07"
+    "updated": "12 Aug 2024 19:22"
   }
 ]
