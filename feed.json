@@ -24,26 +24,6 @@
     "alert_level": "",
     "event_type": "incident",
     "title": "HAZARD REDUCTION BURN - PADDYS RIVER",
-    "id": "011258-11082024",
-    "latitude": "-35.44952003",
-    "longitude": "148.9776817499",
-    "region": "act",
-    "time_of_call": "11 Aug 2024 12:05:04",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "HAZARD REDUCTION BURN",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
-    "location": "PADDYS RIVER, TIDBINBILLA ROAD, PADDYS RIVER, 0000",
-    "updated": "13 Aug 2024 14:48:34"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "HAZARD REDUCTION BURN - PADDYS RIVER",
     "id": "011263-11082024",
     "latitude": "-35.4876689999",
     "longitude": "149.0309942799",
@@ -120,6 +100,26 @@
     "updated": "13 Aug 2024 15:28:44"
   },
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - BANKS",
+    "id": "011338-13082024",
+    "latitude": "-35.464171",
+    "longitude": "149.09115099",
+    "region": "act",
+    "time_of_call": "13 Aug 2024 15:44:38",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "ROUNDABOUT, THARWA DRIVE, BOX HILL AVENUE, BANKS, 2906",
+    "updated": "13 Aug 2024 15:48:46"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -129,13 +129,13 @@
     "longitude": "149.105209",
     "region": "act",
     "time_of_call": "13 Aug 2024 09:56:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "13 Aug 2024 15:32:44"
+    "updated": "13 Aug 2024 15:33:04"
   },
   {
     "agency": "Ambulance",
@@ -189,7 +189,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "13 Aug 2024 15:32:05"
+    "updated": "13 Aug 2024 15:42:34"
   },
   {
     "agency": "Ambulance",
@@ -207,7 +207,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "13 Aug 2024 15:29:00"
+    "updated": "13 Aug 2024 15:46:46"
   },
   {
     "agency": "Ambulance",
@@ -226,60 +226,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
     "updated": "13 Aug 2024 15:15:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - HOLT",
-    "id": "048251-13082024",
-    "latitude": "-35.22348125",
-    "longitude": "149.01928993",
-    "region": "act",
-    "time_of_call": "13 Aug 2024 14:25:53",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
-    "location": "KALPAR KALPARRIN AGED CARE RFBI, HARDWICK CRESCENT, HOLT, 2615",
-    "updated": "13 Aug 2024 15:14:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUNLOP",
-    "id": "048253-13082024",
-    "latitude": "-35.193951",
-    "longitude": "149.019471",
-    "region": "act",
-    "time_of_call": "13 Aug 2024 14:27:56",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DUNLOP",
-    "updated": "13 Aug 2024 15:32:35"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GARRAN",
-    "id": "048255-13082024",
-    "latitude": "-35.340821",
-    "longitude": "149.105209",
-    "region": "act",
-    "time_of_call": "13 Aug 2024 14:32:49",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GARRAN",
-    "updated": "13 Aug 2024 14:36:53"
   },
   {
     "agency": "Ambulance",
@@ -315,7 +261,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "13 Aug 2024 15:30:11"
+    "updated": "13 Aug 2024 15:47:45"
   },
   {
     "agency": "Ambulance",
@@ -327,13 +273,13 @@
     "longitude": "149.143165",
     "region": "act",
     "time_of_call": "13 Aug 2024 15:13:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "13 Aug 2024 15:32:52"
+    "updated": "13 Aug 2024 15:39:48"
   },
   {
     "agency": "Ambulance",
@@ -351,7 +297,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "13 Aug 2024 15:25:42"
+    "updated": "13 Aug 2024 15:45:22"
   },
   {
     "agency": "Ambulance",
@@ -363,13 +309,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "13 Aug 2024 15:20:42",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "13 Aug 2024 15:28:30"
+    "updated": "13 Aug 2024 15:35:18"
   },
   {
     "agency": "Ambulance",
@@ -481,28 +427,6 @@
     "updated": "13 Aug 2024 15:09"
   },
   {
-    "title": "MACLEANS POINT RD, SANCTUARY POINT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561479",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.112941742",
-    "longitude": "150.622909546",
-    "region": "nsw",
-    "time_of_call": "13 Aug 2024 15:16:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "201 MACLEANS POINT RD, SANCTUARY POINT 2540",
-    "council_area": "Shoalhaven",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Aug 2024 15:16"
-  },
-  {
     "title": "BARTON HWY, MURRUMBATEMAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561480",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -523,5 +447,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Aug 2024 14:56"
+  },
+  {
+    "title": "LAKE CANOBOLAS RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561481",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.301753998",
+    "longitude": "149.031478882",
+    "region": "nsw",
+    "time_of_call": "13 Aug 2024 15:45:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "LAKE CANOBOLAS PARK LAKE CANOBOLAS RD, NASHDALE 2800",
+    "council_area": "Cabonne",
+    "type": "Rescue Other",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Aug 2024 15:45"
   }
 ]
