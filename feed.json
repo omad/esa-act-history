@@ -251,13 +251,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "13 Aug 2024 12:29:26",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "13 Aug 2024 13:23:32"
+    "updated": "13 Aug 2024 13:27:46"
   },
   {
     "agency": "Ambulance",
@@ -281,24 +281,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYONS",
-    "id": "048230-13082024",
-    "latitude": "-35.340941",
-    "longitude": "149.072217",
-    "region": "act",
-    "time_of_call": "13 Aug 2024 12:43:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LYONS",
-    "updated": "13 Aug 2024 12:53:05"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KAMBAH",
     "id": "048232-13082024",
     "latitude": "-35.384074",
@@ -311,7 +293,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "13 Aug 2024 13:01:25"
+    "updated": "13 Aug 2024 13:32:45"
   },
   {
     "agency": "Ambulance",
@@ -365,7 +347,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "13 Aug 2024 13:22:13"
+    "updated": "13 Aug 2024 13:33:06"
   },
   {
     "agency": "Ambulance",
@@ -419,7 +401,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "13 Aug 2024 13:22:53"
+    "updated": "13 Aug 2024 13:26:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAPITAL HILL",
+    "id": "048240-13082024",
+    "latitude": "-35.305595",
+    "longitude": "149.126792",
+    "region": "act",
+    "time_of_call": "13 Aug 2024 13:28:04",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAPITAL HILL",
+    "updated": "13 Aug 2024 13:28:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "048241-13082024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "13 Aug 2024 13:29:41",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "13 Aug 2024 13:33:05"
   },
   {
     "title": "WILSON DR, HILL TOP",
@@ -512,5 +530,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Aug 2024 12:49"
+  },
+  {
+    "title": "PURCHASE RD, CHERRYBROOK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561473",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.708873749",
+    "longitude": "151.055557251",
+    "region": "nsw",
+    "time_of_call": "13 Aug 2024 13:12:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "223 PURCHASE RD, CHERRYBROOK 2126",
+    "council_area": "Hornsby",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Aug 2024 13:12"
   }
 ]
