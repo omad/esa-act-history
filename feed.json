@@ -25,19 +25,19 @@
     "event_type": "incident",
     "title": "CAR FIRE - CHIFLEY",
     "id": "011358-14082024",
-    "latitude": "-35.3485861699",
-    "longitude": "149.0786992099",
+    "latitude": "-35.3487663269",
+    "longitude": "149.078704834",
     "region": "act",
     "time_of_call": "14 Aug 2024 06:16:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "CAR FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
     "location": "RENWICK STREET, CHIFLEY, 2606",
-    "updated": "14 Aug 2024 06:20:34"
+    "updated": "14 Aug 2024 06:28:45"
   },
   {
     "agency": "Ambulance",
@@ -55,7 +55,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "14 Aug 2024 02:19:28"
+    "updated": "14 Aug 2024 06:24:53"
   },
   {
     "agency": "Ambulance",
@@ -79,24 +79,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "048381-14082024",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "14 Aug 2024 04:47:37",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "14 Aug 2024 04:56:53"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONASH",
     "id": "048382-14082024",
     "latitude": "-35.413962",
@@ -109,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "14 Aug 2024 05:47:53"
+    "updated": "14 Aug 2024 06:27:58"
   },
   {
     "agency": "Ambulance",
@@ -127,25 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "14 Aug 2024 06:18:57"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "048384-14082024",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
-    "region": "act",
-    "time_of_call": "14 Aug 2024 06:02:23",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "14 Aug 2024 06:05:00"
+    "updated": "14 Aug 2024 06:22:03"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +145,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "14 Aug 2024 06:20:32"
+    "updated": "14 Aug 2024 06:23:33"
   },
   {
     "title": "WILSON DR, HILL TOP",
@@ -226,5 +190,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Aug 2024 12:31"
+  },
+  {
+    "title": "THE NORTHERN RD, BRINGELLY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561513",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.9349136349999",
+    "longitude": "150.728134155",
+    "region": "nsw",
+    "time_of_call": "14 Aug 2024 06:23:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "1265 THE NORTHERN RD, BRINGELLY 2556",
+    "council_area": "Liverpool",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Aug 2024 06:23"
+  },
+  {
+    "title": "WEST WYALONG CONDOBOLIN RD, WEST WYALONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561514",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.835956574",
+    "longitude": "147.156021118",
+    "region": "nsw",
+    "time_of_call": "14 Aug 2024 06:26:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "WEST WYALONG CONDOBOLIN RD, WEST WYALONG 2671",
+    "council_area": "Bland",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Aug 2024 06:26"
   }
 ]
