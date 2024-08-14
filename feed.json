@@ -23,26 +23,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "ANIMAL RESCUE - WESTON",
-    "id": "011394-14082024",
-    "latitude": "-35.3395447459",
-    "longitude": "149.0533762515",
-    "region": "act",
-    "time_of_call": "14 Aug 2024 15:33:03",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "ANIMAL RESCUE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
-    "location": "MCDONALDS WESTON, NAMATJIRA DRIVE, MACNALLY STREET, WESTON, 2611",
-    "updated": "14 Aug 2024 16:20:45"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "RUBBISH FIRE - HOLT",
     "id": "011398-14082024",
     "latitude": "-35.2234840393",
@@ -201,7 +181,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "14 Aug 2024 17:18:55"
+    "updated": "14 Aug 2024 17:19:35"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +193,13 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "14 Aug 2024 17:06:03",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "14 Aug 2024 17:09:51"
+    "updated": "14 Aug 2024 17:23:20"
   },
   {
     "agency": "Ambulance",
@@ -237,7 +217,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "14 Aug 2024 17:13:25"
+    "updated": "14 Aug 2024 17:28:24"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +271,25 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "14 Aug 2024 17:18:56"
+    "updated": "14 Aug 2024 17:22:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GILMORE",
+    "id": "048523-14082024",
+    "latitude": "-35.417683",
+    "longitude": "149.134893",
+    "region": "act",
+    "time_of_call": "14 Aug 2024 17:23:21",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GILMORE",
+    "updated": "14 Aug 2024 17:27:18"
   },
   {
     "title": "SKYLINE, MOUNT PANORAMA",
@@ -312,5 +310,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Aug 2024 15:55"
+  },
+  {
+    "title": "PRINCES HWY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561541",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.7024192819999",
+    "longitude": "150.835571289",
+    "region": "nsw",
+    "time_of_call": "14 Aug 2024 17:23:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "KIAMA BENDS REST AREA PRINCES HWY (A1), KIAMA HEIGHTS 2533",
+    "council_area": "Kiama",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Aug 2024 17:23"
+  },
+  {
+    "title": "BULLI APPIN RD, APPIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561542",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.20482254",
+    "longitude": "150.790878296",
+    "region": "nsw",
+    "time_of_call": "14 Aug 2024 17:24:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "BULLI APPIN RD, APPIN 2560",
+    "council_area": "Wollondilly",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Aug 2024 17:24"
   }
 ]
