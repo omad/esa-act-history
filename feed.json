@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "17 Aug 2024 01:35:28"
+    "updated": "17 Aug 2024 02:06:02"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "17 Aug 2024 01:13:33"
+    "updated": "17 Aug 2024 02:27:34"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,13 @@
     "longitude": "149.041664",
     "region": "act",
     "time_of_call": "17 Aug 2024 01:40:17",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "17 Aug 2024 01:48:48"
+    "updated": "17 Aug 2024 02:26:18"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,49 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "17 Aug 2024 01:43:44",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "17 Aug 2024 02:25:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "049046-17082024",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "17 Aug 2024 02:19:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TAYLOR",
+    "updated": "17 Aug 2024 02:26:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "049047-17082024",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "17 Aug 2024 02:23:47",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "17 Aug 2024 01:47:59"
+    "location": "KALEEN",
+    "updated": "17 Aug 2024 02:26:54"
   },
   {
     "title": "JACKSON ST, HAY",
@@ -170,5 +206,50 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Aug 2024 01:44"
+  },
+  {
+    "title": "MERINDA ST, HARGRAVES",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561693",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.78414917",
+    "longitude": "149.462890625",
+    "region": "nsw",
+    "time_of_call": "17 Aug 2024 01:59:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "MERINDA ST, HARGRAVES 2850",
+    "council_area": "Mid-Western",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Aug 2024 01:59"
+  },
+  {
+    "title": "Hume Hwy, South Albury",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561694",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.09001",
+    "longitude": "146.90859",
+    "region": "nsw",
+    "time_of_call": "17 Aug 2024 02:24:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Hume Hwy, South Albury, NSW 2640",
+    "council_area": "Albury",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "17 Aug 2024 02:24"
   }
 ]
