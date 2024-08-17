@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NICHOLLS",
-    "id": "049164-17082024",
-    "latitude": "-35.186387",
-    "longitude": "149.094445",
-    "region": "act",
-    "time_of_call": "17 Aug 2024 17:15:00",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NICHOLLS",
-    "updated": "17 Aug 2024 18:33:19"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MACARTHUR",
     "id": "049171-17082024",
     "latitude": "-35.407599",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "17 Aug 2024 19:07:46"
+    "updated": "17 Aug 2024 19:22:27"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "17 Aug 2024 19:11:00"
+    "updated": "17 Aug 2024 19:24:48"
   },
   {
     "agency": "Ambulance",
@@ -232,6 +214,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
     "updated": "17 Aug 2024 19:11:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - CITY",
+    "id": "049184-17082024",
+    "latitude": "-35.277427",
+    "longitude": "149.134418",
+    "region": "act",
+    "time_of_call": "17 Aug 2024 19:20:15",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
+    "location": "COOYONG STREET, SCOTTS CROSSING, CITY, 2601",
+    "updated": "17 Aug 2024 19:25:03"
   },
   {
     "title": "MAUDE RD, HAY",
@@ -465,9 +465,9 @@
     "latitude": "-33.529010773",
     "longitude": "151.343383789",
     "region": "nsw",
-    "time_of_call": "17 Aug 2024 18:53:00",
+    "time_of_call": "17 Aug 2024 19:17:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -480,7 +480,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Aug 2024 18:53"
+    "updated": "17 Aug 2024 19:17"
   },
   {
     "title": "Surveyor St, Crestwood",
@@ -506,5 +506,69 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "17 Aug 2024 19:10"
+  },
+  {
+    "title": "KINGFISHER AV, COLEAMBALLY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561760",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.804908753",
+    "longitude": "145.887878418",
+    "region": "nsw",
+    "time_of_call": "17 Aug 2024 19:19:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "KINGFISHER AV, COLEAMBALLY 2707",
+    "council_area": "Murrumbidgee",
+    "type": "Planned Event",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Aug 2024 19:19"
+  },
+  {
+    "title": "LOGANS CROSSING RD, LOGANS CROSSING",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561761",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.619979859",
+    "longitude": "152.700607299",
+    "region": "nsw",
+    "time_of_call": "17 Aug 2024 19:21:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "LOGANS CROSSING RD, LOGANS CROSSING 2439",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Aug 2024 19:21"
+  },
+  {
+    "title": "FLAT RD, PITNACREE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561762",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.7365608219999",
+    "longitude": "151.587799073",
+    "region": "nsw",
+    "time_of_call": "17 Aug 2024 19:25:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "FLAT RD, PITNACREE 2323",
+    "council_area": "Maitland",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Aug 2024 19:25"
   }
 ]
