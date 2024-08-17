@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
-    "updated": "17 Aug 2024 20:13:13"
+    "updated": "17 Aug 2024 20:32:14"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "17 Aug 2024 18:43:54",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "17 Aug 2024 20:12:14"
+    "updated": "17 Aug 2024 20:33:06"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +171,13 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "17 Aug 2024 20:00:24",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "17 Aug 2024 20:10:38"
+    "updated": "17 Aug 2024 20:32:05"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +213,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "17 Aug 2024 20:22:35"
+    "updated": "17 Aug 2024 20:24:07"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +231,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "17 Aug 2024 20:17:48"
+    "updated": "17 Aug 2024 20:33:21"
   },
   {
     "agency": "Ambulance",
@@ -249,7 +249,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "17 Aug 2024 20:22:07"
+    "updated": "17 Aug 2024 20:25:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "049197-17082024",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "17 Aug 2024 20:32:00",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "17 Aug 2024 20:34:13"
   },
   {
     "title": "MAUDE RD, HAY",
@@ -473,28 +491,6 @@
     "updated": "17 Aug 2024 19:45"
   },
   {
-    "title": "THOMPSONS LANE, GILGANDRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561765",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.7249793999999",
-    "longitude": "148.634353637",
-    "region": "nsw",
-    "time_of_call": "17 Aug 2024 19:47:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "206 THOMPSONS LANE, GILGANDRA 2827",
-    "council_area": "Gilgandra",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Aug 2024 19:47"
-  },
-  {
     "title": "SUMMERLAND WAY, ELLANGOWAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561766",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -558,5 +554,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Aug 2024 20:03"
+  },
+  {
+    "title": "Showground Rd, Narrandera",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561771",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.746138",
+    "longitude": "146.569026",
+    "region": "nsw",
+    "time_of_call": "17 Aug 2024 20:30:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Showground Rd, Narrandera, NSW 2700",
+    "council_area": "Narrandera",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "17 Aug 2024 20:30"
   }
 ]
