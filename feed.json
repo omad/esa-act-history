@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
-    "updated": "19 Aug 2024 09:07:49"
+    "updated": "19 Aug 2024 09:44:59"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "19 Aug 2024 08:57:15"
+    "updated": "19 Aug 2024 09:37:46"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "19 Aug 2024 09:24:13"
+    "updated": "19 Aug 2024 09:47:49"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +211,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "19 Aug 2024 09:26:14",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "19 Aug 2024 09:29:20"
+    "updated": "19 Aug 2024 09:31:51"
   },
   {
     "title": "Brownlow Hill Loop Rd Cultural Burn",
@@ -467,5 +467,71 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Aug 2024 06:29"
+  },
+  {
+    "title": "LORNE RD, LIGHTNING RIDGE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561871",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.5042152409999",
+    "longitude": "147.984588623",
+    "region": "nsw",
+    "time_of_call": "19 Aug 2024 09:28:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "LORNE RD, LIGHTNING RIDGE 2834",
+    "council_area": "Walgett",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Aug 2024 09:28"
+  },
+  {
+    "title": "HILLSIDE DR, TUMBI UMBI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561872",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.3569831849999",
+    "longitude": "151.43888855",
+    "region": "nsw",
+    "time_of_call": "19 Aug 2024 09:46:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "HILLSIDE DR, TUMBI UMBI 2261",
+    "council_area": "Central Coast",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Aug 2024 09:46"
+  },
+  {
+    "title": "LAWRENCE RISE, CUMBALUM",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561874",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.816671371",
+    "longitude": "153.533386231",
+    "region": "nsw",
+    "time_of_call": "19 Aug 2024 09:42:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "10 LAWRENCE RISE, CUMBALUM 2478",
+    "council_area": "Ballina",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Aug 2024 09:42"
   }
 ]
