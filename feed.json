@@ -40,6 +40,26 @@
     "updated": "18 Aug 2024 12:39:35"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "CAR FIRE - LYNEHAM",
+    "id": "011619-19082024",
+    "latitude": "-35.23826323",
+    "longitude": "149.1201175699",
+    "region": "act",
+    "time_of_call": "19 Aug 2024 01:27:09",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "CAR FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
+    "location": "FERNYHOUGH CRESCENT, LYNEHAM, 2602",
+    "updated": "19 Aug 2024 01:28:38"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -103,13 +123,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "18 Aug 2024 21:50:59",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "18 Aug 2024 21:54:51"
+    "updated": "19 Aug 2024 01:26:25"
   },
   {
     "agency": "Ambulance",
@@ -200,24 +220,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
     "updated": "19 Aug 2024 00:19:13"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "049454-19082024",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
-    "region": "act",
-    "time_of_call": "19 Aug 2024 00:19:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "19 Aug 2024 00:33:38"
   },
   {
     "agency": "Ambulance",
@@ -319,13 +321,31 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "19 Aug 2024 01:15:07",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "19 Aug 2024 01:19:27"
+    "updated": "19 Aug 2024 01:26:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "049464-19082024",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "19 Aug 2024 01:20:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "19 Aug 2024 01:27:57"
   },
   {
     "title": "Brownlow Hill Loop Rd Cultural Burn",
@@ -580,5 +600,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Aug 2024 22:44"
+  },
+  {
+    "title": "HUME MTWY, PHEASANTS NEST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561862",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.2373809809999",
+    "longitude": "150.662353516",
+    "region": "nsw",
+    "time_of_call": "19 Aug 2024 01:12:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "HUME MTWY, PHEASANTS NEST 2574",
+    "council_area": "Wollondilly",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Aug 2024 01:12"
   }
 ]
