@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
-    "updated": "18 Aug 2024 20:22:42"
+    "updated": "18 Aug 2024 20:48:07"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "18 Aug 2024 19:50:08"
+    "updated": "18 Aug 2024 20:34:17"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "18 Aug 2024 20:23:19"
+    "updated": "18 Aug 2024 20:38:09"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +247,67 @@
     "longitude": "149.037677",
     "region": "act",
     "time_of_call": "18 Aug 2024 20:30:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "18 Aug 2024 20:33:54"
+    "updated": "18 Aug 2024 20:41:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "049412-18082024",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "18 Aug 2024 20:34:30",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "18 Aug 2024 20:47:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "049413-18082024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "18 Aug 2024 20:39:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "18 Aug 2024 20:45:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "049414-18082024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "18 Aug 2024 20:41:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "18 Aug 2024 20:47:33"
   },
   {
     "title": "Brownlow Hill Loop Rd Cultural Burn",
@@ -263,7 +317,7 @@
     "latitude": "-34.0254783629999",
     "longitude": "150.645095825",
     "region": "nsw",
-    "time_of_call": "18 Aug 2024 14:33:00",
+    "time_of_call": "18 Aug 2024 20:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -275,7 +329,7 @@
     "fire": "Yes",
     "size": "3 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Aug 2024 14:33"
+    "updated": "18 Aug 2024 20:31"
   },
   {
     "title": "Gleniffer Control",
@@ -532,28 +586,28 @@
     "updated": "18 Aug 2024 17:45"
   },
   {
-    "title": "Kemp St, West Kempsey",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561859",
+    "title": "Nambucca Dr, Woy Woy",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561861",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.068217999",
-    "longitude": "152.833992",
+    "latitude": "-33.5000479999999",
+    "longitude": "151.306869",
     "region": "nsw",
-    "time_of_call": "18 Aug 2024 20:30:00",
+    "time_of_call": "18 Aug 2024 20:41:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Out of control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "Kemp St, West Kempsey, NSW 2440",
-    "council_area": "Kempsey",
-    "type": "Grass Fire",
+    "location": "29 Nambucca Dr, Woy Woy, NSW 2256",
+    "council_area": "Central Coast",
+    "type": "Bush Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "18 Aug 2024 20:30"
+    "updated": "18 Aug 2024 20:41"
   }
 ]
