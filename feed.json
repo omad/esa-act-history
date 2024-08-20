@@ -101,24 +101,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "049980-21082024",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "21 Aug 2024 07:18:26",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "21 Aug 2024 08:26:56"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BELCONNEN",
     "id": "049981-21082024",
     "latitude": "-35.235936",
@@ -185,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "21 Aug 2024 08:54:05"
+    "updated": "21 Aug 2024 09:36:27"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +185,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "21 Aug 2024 09:14:14"
+    "updated": "21 Aug 2024 09:42:14"
   },
   {
     "agency": "Ambulance",
@@ -233,13 +215,31 @@
     "longitude": "149.031217",
     "region": "act",
     "time_of_call": "21 Aug 2024 09:23:47",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUFFY",
+    "updated": "21 Aug 2024 09:35:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "050003-21082024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "21 Aug 2024 09:44:32",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "DUFFY",
-    "updated": "21 Aug 2024 09:28:30"
+    "location": "KAMBAH",
+    "updated": "21 Aug 2024 09:46:30"
   },
   {
     "title": "Gleniffer Control",
@@ -422,23 +422,25 @@
     "updated": "21 Aug 2024 08:17"
   },
   {
-    "title": "GULGAN RD, BRUNSWICK HEADS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561996",
+    "title": "ROCK ABBEY RD, URALLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561997",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-28.564987183",
-    "longitude": "153.538574219",
+    "latitude": "-30.644353867",
+    "longitude": "151.521072388",
     "region": "nsw",
-    "time_of_call": "21 Aug 2024 08:50:00",
+    "time_of_call": "21 Aug 2024 08:55:00",
     "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "296 GULGAN RD, BRUNSWICK HEADS 2483",
-    "council_area": "Byron",
-    "type": "Car Fire",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "ROCK ABBEY RD, URALLA 2358",
+    "council_area": "Uralla",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Aug 2024 08:50"
+    "updated": "21 Aug 2024 08:55"
   }
 ]
