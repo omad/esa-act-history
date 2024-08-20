@@ -69,15 +69,15 @@
     "longitude": "149.1378450999",
     "region": "act",
     "time_of_call": "21 Aug 2024 08:23:50",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "SWINDEN STREET, DOWNER, 2602",
-    "updated": "21 Aug 2024 08:42:32"
+    "updated": "21 Aug 2024 09:03:48"
   },
   {
     "agency": "Ambulance",
@@ -131,25 +131,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "21 Aug 2024 08:44:31"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GARRAN",
-    "id": "049984-21082024",
-    "latitude": "-35.340821",
-    "longitude": "149.105209",
-    "region": "act",
-    "time_of_call": "21 Aug 2024 07:39:29",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GARRAN",
-    "updated": "21 Aug 2024 08:40:35"
+    "updated": "21 Aug 2024 09:15:57"
   },
   {
     "agency": "Ambulance",
@@ -167,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "21 Aug 2024 08:27:17"
+    "updated": "21 Aug 2024 09:13:59"
   },
   {
     "agency": "Ambulance",
@@ -179,13 +161,13 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "21 Aug 2024 08:32:40",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "21 Aug 2024 08:40:55"
+    "updated": "21 Aug 2024 09:18:37"
   },
   {
     "agency": "Ambulance",
@@ -197,13 +179,13 @@
     "longitude": "149.129625",
     "region": "act",
     "time_of_call": "21 Aug 2024 08:38:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "21 Aug 2024 08:41:03"
+    "updated": "21 Aug 2024 08:54:05"
   },
   {
     "agency": "Ambulance",
@@ -215,13 +197,31 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "21 Aug 2024 08:47:36",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "21 Aug 2024 08:48:10"
+    "updated": "21 Aug 2024 09:14:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "049997-21082024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "21 Aug 2024 08:52:03",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "21 Aug 2024 08:58:08"
   },
   {
     "title": "Gleniffer Control",
@@ -366,7 +366,7 @@
     "latitude": "-30.508001328",
     "longitude": "152.109466552",
     "region": "nsw",
-    "time_of_call": "21 Aug 2024 03:11:00",
+    "time_of_call": "21 Aug 2024 09:01:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -381,7 +381,7 @@
     "fire": "Yes",
     "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Aug 2024 03:11"
+    "updated": "21 Aug 2024 09:01"
   },
   {
     "title": "KENTHURST RD, KENTHURST",
@@ -402,5 +402,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Aug 2024 08:17"
+  },
+  {
+    "title": "GULGAN RD, BRUNSWICK HEADS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561996",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.564987183",
+    "longitude": "153.538574219",
+    "region": "nsw",
+    "time_of_call": "21 Aug 2024 08:50:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "296 GULGAN RD, BRUNSWICK HEADS 2483",
+    "council_area": "Byron",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Aug 2024 08:50"
   }
 ]
