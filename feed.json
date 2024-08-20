@@ -81,19 +81,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BARTON",
-    "id": "049822-20082024",
-    "latitude": "-35.309306",
-    "longitude": "149.13437",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "049813-20082024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
     "region": "act",
-    "time_of_call": "20 Aug 2024 13:01:12",
-    "status": "On Scene",
+    "time_of_call": "20 Aug 2024 12:23:57",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "BARTON",
-    "updated": "20 Aug 2024 13:52:41"
+    "location": "CITY",
+    "updated": "20 Aug 2024 14:39:21"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "20 Aug 2024 14:19:50"
+    "updated": "20 Aug 2024 14:33:09"
   },
   {
     "agency": "Ambulance",
@@ -130,24 +130,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
     "updated": "20 Aug 2024 13:42:59"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
-    "id": "049832-20082024",
-    "latitude": "-35.184984",
-    "longitude": "149.135062",
-    "region": "act",
-    "time_of_call": "20 Aug 2024 13:45:28",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GUNGAHLIN",
-    "updated": "20 Aug 2024 13:45:40"
   },
   {
     "agency": "Ambulance",
@@ -177,13 +159,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "20 Aug 2024 14:08:27",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "20 Aug 2024 14:26:39"
+    "updated": "20 Aug 2024 14:46:13"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +195,13 @@
     "longitude": "149.12506",
     "region": "act",
     "time_of_call": "20 Aug 2024 14:16:10",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORREST",
-    "updated": "20 Aug 2024 14:22:01"
+    "updated": "20 Aug 2024 14:42:29"
   },
   {
     "agency": "Ambulance",
@@ -231,13 +213,31 @@
     "longitude": "149.100175",
     "region": "act",
     "time_of_call": "20 Aug 2024 14:21:05",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GIRALANG",
+    "updated": "20 Aug 2024 14:35:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHARNWOOD",
+    "id": "049842-20082024",
+    "latitude": "-35.200338",
+    "longitude": "149.036735",
+    "region": "act",
+    "time_of_call": "20 Aug 2024 14:29:05",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "GIRALANG",
-    "updated": "20 Aug 2024 14:27:12"
+    "location": "CHARNWOOD",
+    "updated": "20 Aug 2024 14:42:10"
   },
   {
     "title": "Gleniffer Control",
@@ -351,5 +351,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Aug 2024 12:43"
+  },
+  {
+    "title": "ALLOWRIE ST, JAMBEROO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_561951",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.6488990779999",
+    "longitude": "150.777404785",
+    "region": "nsw",
+    "time_of_call": "20 Aug 2024 14:42:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "UNIT 1/36 ALLOWRIE ST, JAMBEROO 2533",
+    "council_area": "Kiama",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Aug 2024 14:42"
   }
 ]
