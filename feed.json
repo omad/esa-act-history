@@ -69,31 +69,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "21 Aug 2024 22:32:55",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "21 Aug 2024 22:35:55"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "050163-21082024",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "21 Aug 2024 23:29:47",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "22 Aug 2024 02:10:10"
+    "updated": "22 Aug 2024 02:36:42"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "22 Aug 2024 02:14:55"
+    "updated": "22 Aug 2024 02:41:50"
   },
   {
     "agency": "Ambulance",
@@ -255,7 +237,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "22 Aug 2024 02:20:16"
+    "updated": "22 Aug 2024 02:41:47"
   },
   {
     "agency": "Ambulance",
@@ -273,7 +255,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "22 Aug 2024 02:25:58"
+    "updated": "22 Aug 2024 02:29:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HIGGINS",
+    "id": "050184-22082024",
+    "latitude": "-35.230526",
+    "longitude": "149.025052",
+    "region": "act",
+    "time_of_call": "22 Aug 2024 02:34:07",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "22 Aug 2024 02:44:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RICHARDSON",
+    "id": "050185-22082024",
+    "latitude": "-35.428715",
+    "longitude": "149.111133",
+    "region": "act",
+    "time_of_call": "22 Aug 2024 02:35:22",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RICHARDSON",
+    "updated": "22 Aug 2024 02:43:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WHITLAM",
+    "id": "050186-22082024",
+    "latitude": "-35.277508",
+    "longitude": "149.033417",
+    "region": "act",
+    "time_of_call": "22 Aug 2024 02:39:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WHITLAM",
+    "updated": "22 Aug 2024 02:47:27"
   },
   {
     "title": "Gleniffer Control",
@@ -406,5 +442,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Aug 2024 19:43"
+  },
+  {
+    "title": "AWABA AV, CHARMHAVEN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563046",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.2262649539999",
+    "longitude": "151.502990723",
+    "region": "nsw",
+    "time_of_call": "22 Aug 2024 02:36:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "AWABA AV, CHARMHAVEN 2263",
+    "council_area": "Central Coast",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "22 Aug 2024 02:36"
   }
 ]
