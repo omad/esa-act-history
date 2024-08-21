@@ -75,43 +75,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "22 Aug 2024 06:30:02"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
-    "id": "050166-21082024",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
-    "region": "act",
-    "time_of_call": "21 Aug 2024 23:40:02",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CANBERRA AIRPORT",
-    "updated": "22 Aug 2024 04:07:35"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "050194-22082024",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "22 Aug 2024 03:39:53",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "22 Aug 2024 03:57:18"
+    "updated": "22 Aug 2024 06:38:44"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "22 Aug 2024 06:12:20"
+    "updated": "22 Aug 2024 06:36:25"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "22 Aug 2024 06:03:05"
+    "updated": "22 Aug 2024 06:36:33"
   },
   {
     "agency": "Ambulance",
@@ -159,13 +123,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "22 Aug 2024 05:33:47",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "22 Aug 2024 05:37:27"
+    "updated": "22 Aug 2024 06:45:44"
   },
   {
     "agency": "Ambulance",
@@ -177,13 +141,13 @@
     "longitude": "149.036274",
     "region": "act",
     "time_of_call": "22 Aug 2024 05:48:46",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "22 Aug 2024 05:55:50"
+    "updated": "22 Aug 2024 06:44:15"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +177,13 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "22 Aug 2024 06:24:15",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "22 Aug 2024 06:32:17"
+    "updated": "22 Aug 2024 06:47:46"
   },
   {
     "title": "Gleniffer Control",
@@ -372,5 +336,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Aug 2024 06:23"
+  },
+  {
+    "title": "FINDLAY AV, CHAIN VALLEY BAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563054",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.1655769349999",
+    "longitude": "151.577682495",
+    "region": "nsw",
+    "time_of_call": "22 Aug 2024 06:35:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "FINDLAY AV, CHAIN VALLEY BAY 2259",
+    "council_area": "Central Coast",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Aug 2024 06:35"
   }
 ]
