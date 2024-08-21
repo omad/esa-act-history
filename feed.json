@@ -75,7 +75,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "22 Aug 2024 07:01:43"
+    "updated": "22 Aug 2024 07:39:41"
   },
   {
     "agency": "Ambulance",
@@ -93,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "22 Aug 2024 07:23:11"
+    "updated": "22 Aug 2024 07:39:18"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "22 Aug 2024 07:24:55"
+    "updated": "22 Aug 2024 07:46:38"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "22 Aug 2024 07:17:55"
+    "updated": "22 Aug 2024 07:44:03"
   },
   {
     "agency": "Ambulance",
@@ -159,13 +159,49 @@
     "longitude": "149.144681",
     "region": "act",
     "time_of_call": "22 Aug 2024 07:22:01",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FRANKLIN",
+    "updated": "22 Aug 2024 07:30:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "050217-22082024",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "22 Aug 2024 07:38:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "22 Aug 2024 07:41:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "050218-22082024",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "22 Aug 2024 07:39:05",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "FRANKLIN",
-    "updated": "22 Aug 2024 07:27:20"
+    "location": "HARRISON",
+    "updated": "22 Aug 2024 07:48:49"
   },
   {
     "title": "Gleniffer Control",
@@ -278,28 +314,6 @@
     "updated": "21 Aug 2024 19:43"
   },
   {
-    "title": "BOSTON ST, MOREE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563050",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.475234986",
-    "longitude": "149.838394165",
-    "region": "nsw",
-    "time_of_call": "22 Aug 2024 06:13:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "331 BOSTON ST, MOREE 2400",
-    "council_area": "Moree Plains",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Aug 2024 06:13"
-  },
-  {
     "title": "CHURCH LANE, CASTLEREAGH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563052",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -307,7 +321,7 @@
     "latitude": "-33.687713623",
     "longitude": "150.677352905",
     "region": "nsw",
-    "time_of_call": "22 Aug 2024 07:20:00",
+    "time_of_call": "22 Aug 2024 07:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -317,7 +331,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Aug 2024 07:20"
+    "updated": "22 Aug 2024 07:31"
   },
   {
     "title": "FINDLAY AV, CHAIN VALLEY BAY",
@@ -358,5 +372,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Aug 2024 07:05"
+  },
+  {
+    "title": "MOUNTAIN STRAIGHT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563057",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.44744873",
+    "longitude": "149.552612305",
+    "region": "nsw",
+    "time_of_call": "22 Aug 2024 07:35:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "KOOTINGAL 160 MOUNTAIN STRAIGHT, MOUNT PANORAMA 2795",
+    "council_area": "Bathurst",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Aug 2024 07:35"
+  },
+  {
+    "title": "THE NORTHERN RD, ORAN PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563058",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.995006561",
+    "longitude": "150.726303101",
+    "region": "nsw",
+    "time_of_call": "22 Aug 2024 07:38:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "THE NORTHERN RD, ORAN PARK 2570",
+    "council_area": "Camden",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Aug 2024 07:38"
   }
 ]
