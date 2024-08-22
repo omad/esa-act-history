@@ -60,6 +60,26 @@
     "updated": "20 Aug 2024 17:18:52"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HAZARD REDUCTION BURN - STROMLO",
+    "id": "011812-23082024",
+    "latitude": "-35.3300300699",
+    "longitude": "148.95841429",
+    "region": "act",
+    "time_of_call": "23 Aug 2024 09:32:09",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "HAZARD REDUCTION BURN",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
+    "location": "GREENHILLS CONFERENCE CENTRE, COTTER ROAD, STROMLO, 0000",
+    "updated": "23 Aug 2024 09:32:58"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -147,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "23 Aug 2024 09:24:27"
+    "updated": "23 Aug 2024 09:35:22"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +185,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "23 Aug 2024 09:11:44"
+    "updated": "23 Aug 2024 09:38:34"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +203,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "23 Aug 2024 09:27:33"
+    "updated": "23 Aug 2024 09:45:51"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +233,13 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "23 Aug 2024 09:17:10",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "23 Aug 2024 09:23:48"
+    "updated": "23 Aug 2024 09:42:36"
   },
   {
     "agency": "Ambulance",
@@ -237,7 +257,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
-    "updated": "23 Aug 2024 09:25:59"
+    "updated": "23 Aug 2024 09:38:41"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SYMONSTON",
+    "id": "050494-23082024",
+    "latitude": "-35.34936",
+    "longitude": "149.163724",
+    "region": "act",
+    "time_of_call": "23 Aug 2024 09:31:47",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SYMONSTON",
+    "updated": "23 Aug 2024 09:33:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GIRALANG",
+    "id": "050495-23082024",
+    "latitude": "-35.210049",
+    "longitude": "149.100175",
+    "region": "act",
+    "time_of_call": "23 Aug 2024 09:37:37",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GIRALANG",
+    "updated": "23 Aug 2024 09:48:40"
   },
   {
     "title": "EUCHAREENA RD, MOLONG",
@@ -373,5 +429,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Aug 2024 09:18"
+  },
+  {
+    "title": "FEDERAL HWY, SUTTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563151",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.176147461",
+    "longitude": "149.292236328",
+    "region": "nsw",
+    "time_of_call": "23 Aug 2024 09:20:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "FEDERAL HWY, SUTTON 2620",
+    "council_area": "Queanbeyan-Palerang",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Aug 2024 09:20"
+  },
+  {
+    "title": "A BONAIRA ST, KIAMA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563152",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.682670593",
+    "longitude": "150.851150513",
+    "region": "nsw",
+    "time_of_call": "23 Aug 2024 09:26:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "14 A BONAIRA ST, KIAMA 2533",
+    "council_area": "Kiama",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Aug 2024 09:26"
   }
 ]
