@@ -69,15 +69,15 @@
     "longitude": "149.0471801758",
     "region": "act",
     "time_of_call": "22 Aug 2024 15:27:12",
-    "status": "Finished",
+    "status": "Out / Completed",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
+    "status_filter_label": "Out / Completed",
     "type": "GRASS AND BUSH FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "ANNABELLE VIEW, LAFFAN STREET, COOMBS, 2611",
-    "updated": "22 Aug 2024 16:59:52"
+    "updated": "22 Aug 2024 17:25:18"
   },
   {
     "agency": "Fire - Ambulance",
@@ -89,15 +89,15 @@
     "longitude": "149.056832",
     "region": "act",
     "time_of_call": "22 Aug 2024 17:19:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "SULWOOD DRIVE, DRAKEFORD DRIVE, KAMBAH, 2902",
-    "updated": "22 Aug 2024 17:19:41"
+    "updated": "22 Aug 2024 17:24:35"
   },
   {
     "agency": "Ambulance",
@@ -188,24 +188,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
     "updated": "22 Aug 2024 15:14:06"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "050343-22082024",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "22 Aug 2024 15:27:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "22 Aug 2024 17:12:06"
   },
   {
     "agency": "Ambulance",
@@ -313,7 +295,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "22 Aug 2024 16:52:30"
+    "updated": "22 Aug 2024 17:25:26"
   },
   {
     "agency": "Ambulance",
@@ -325,13 +307,13 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "22 Aug 2024 16:55:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "22 Aug 2024 17:10:28"
+    "updated": "22 Aug 2024 17:28:35"
   },
   {
     "agency": "Ambulance",
@@ -350,6 +332,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
     "updated": "22 Aug 2024 17:10:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "050370-22082024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "22 Aug 2024 17:25:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "22 Aug 2024 17:29:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "050372-22082024",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "22 Aug 2024 17:28:12",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "22 Aug 2024 17:29:54"
   },
   {
     "title": "Gleniffer Control",
@@ -381,7 +399,7 @@
     "latitude": "-33.053577423",
     "longitude": "148.906784057",
     "region": "nsw",
-    "time_of_call": "22 Aug 2024 05:53:00",
+    "time_of_call": "22 Aug 2024 17:17:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -393,7 +411,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Aug 2024 05:53"
+    "updated": "22 Aug 2024 17:17"
   },
   {
     "title": "MAUDE RD, MOULAMEIN",
@@ -513,7 +531,7 @@
     "latitude": "-33.661262512",
     "longitude": "150.661956787",
     "region": "nsw",
-    "time_of_call": "22 Aug 2024 16:19:00",
+    "time_of_call": "22 Aug 2024 17:17:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -523,7 +541,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "22 Aug 2024 16:19"
+    "updated": "22 Aug 2024 17:17"
   },
   {
     "title": "BAROKEE RD, EBOR",
@@ -566,26 +584,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "22 Aug 2024 16:15"
-  },
-  {
-    "title": "MONASH ST, GWABEGAR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563095",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.6087799069999",
-    "longitude": "148.973312378",
-    "region": "nsw",
-    "time_of_call": "22 Aug 2024 15:41:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "MONASH ST, GWABEGAR 2356",
-    "council_area": "Narrabri",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Aug 2024 15:41"
   },
   {
     "title": "DERWENT RD, BRINGELLY",
@@ -658,12 +656,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563100",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.065103",
-    "longitude": "152.831294",
+    "latitude": "-31.060760498",
+    "longitude": "152.82963562",
     "region": "nsw",
-    "time_of_call": "22 Aug 2024 17:08:00",
+    "time_of_call": "22 Aug 2024 17:18:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -676,7 +674,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Aug 2024 17:08"
+    "updated": "22 Aug 2024 17:18"
   },
   {
     "title": "GOOLMA RD",
@@ -686,9 +684,9 @@
     "latitude": "-32.5071678159999",
     "longitude": "148.980255127",
     "region": "nsw",
-    "time_of_call": "22 Aug 2024 17:04:00",
+    "time_of_call": "22 Aug 2024 17:20:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "WELLINGTON CORRECTIONAL CTR GOOLMA RD, WUULUMAN 2820",
     "council_area": "Dubbo Regional",
@@ -697,8 +695,8 @@
     "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
     "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Aug 2024 17:04"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "22 Aug 2024 17:20"
   },
   {
     "title": "WEROMBI RD",
@@ -743,5 +741,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Aug 2024 17:11"
+  },
+  {
+    "title": "Mitchell Av, West Kempsey",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563107",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.057649",
+    "longitude": "152.832474",
+    "region": "nsw",
+    "time_of_call": "22 Aug 2024 17:25:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "14 Mitchell Av, West Kempsey, NSW 2440",
+    "council_area": "Kempsey",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "22 Aug 2024 17:25"
   }
 ]
