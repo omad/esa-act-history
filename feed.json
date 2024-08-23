@@ -89,15 +89,15 @@
     "longitude": "148.9870300293",
     "region": "act",
     "time_of_call": "23 Aug 2024 09:59:10",
-    "status": "On Scene",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
     "status_filter_label": "Active",
     "type": "HAZARD REDUCTION BURN",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "GINNINDERRY CONSERVATION CORRIDOR",
-    "updated": "23 Aug 2024 15:12:54"
+    "updated": "23 Aug 2024 15:26:27"
   },
   {
     "agency": "Fire",
@@ -333,7 +333,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "23 Aug 2024 13:53:03"
+    "updated": "23 Aug 2024 15:24:28"
   },
   {
     "agency": "Ambulance",
@@ -345,13 +345,13 @@
     "longitude": "149.134893",
     "region": "act",
     "time_of_call": "23 Aug 2024 13:03:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "23 Aug 2024 14:55:53"
+    "updated": "23 Aug 2024 15:26:52"
   },
   {
     "agency": "Ambulance",
@@ -423,7 +423,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "23 Aug 2024 15:05:50"
+    "updated": "23 Aug 2024 15:24:46"
   },
   {
     "agency": "Ambulance",
@@ -585,7 +585,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "23 Aug 2024 15:15:21"
+    "updated": "23 Aug 2024 15:29:43"
   },
   {
     "agency": "Ambulance",
@@ -621,7 +621,43 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "23 Aug 2024 15:15:23"
+    "updated": "23 Aug 2024 15:31:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "050589-23082024",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "23 Aug 2024 15:20:12",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "23 Aug 2024 15:28:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RIVETT",
+    "id": "050591-23082024",
+    "latitude": "-35.346479",
+    "longitude": "149.039315",
+    "region": "act",
+    "time_of_call": "23 Aug 2024 15:28:06",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RIVETT",
+    "updated": "23 Aug 2024 15:31:01"
   },
   {
     "title": "EUCHAREENA RD, MOLONG",
@@ -754,31 +790,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Aug 2024 12:56"
-  },
-  {
-    "title": "CONKERBERRY ST, MELONBA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563168",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.695442199",
-    "longitude": "150.79283142",
-    "region": "nsw",
-    "time_of_call": "23 Aug 2024 13:05:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "CONKERBERRY ST, MELONBA 2765",
-    "council_area": "Blacktown",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Aug 2024 13:05"
   },
   {
     "title": "BERRAMBOOL DR, BERRAMBOOL",
@@ -978,51 +989,6 @@
     "updated": "23 Aug 2024 14:08"
   },
   {
-    "title": "NARAMBI RD, BUFF POINT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563185",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.2305717469999",
-    "longitude": "151.538589478",
-    "region": "nsw",
-    "time_of_call": "23 Aug 2024 14:41:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "64 NARAMBI RD, BUFF POINT 2262",
-    "council_area": "Central Coast",
-    "type": "Rescue General",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Aug 2024 14:41"
-  },
-  {
-    "title": "SEDGER RD, KENTHURST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563186",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.670337677",
-    "longitude": "150.986663819",
-    "region": "nsw",
-    "time_of_call": "23 Aug 2024 15:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "44 SEDGER RD, KENTHURST 2156",
-    "council_area": "The Hills",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Aug 2024 15:07"
-  },
-  {
     "title": "CANIABA RD, CANIABA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563187",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1052,9 +1018,9 @@
     "latitude": "-35.073631286",
     "longitude": "150.50076294",
     "region": "nsw",
-    "time_of_call": "23 Aug 2024 15:05:00",
+    "time_of_call": "23 Aug 2024 15:22:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "122 BOLLERANG RD, WANDANDIAN 2540",
     "council_area": "Shoalhaven",
@@ -1064,7 +1030,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Aug 2024 15:05"
+    "updated": "23 Aug 2024 15:22"
   },
   {
     "title": "Lyrebird HR",
