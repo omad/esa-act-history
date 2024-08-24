@@ -61,42 +61,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRADDON",
-    "id": "050909-24082024",
-    "latitude": "-35.270314",
-    "longitude": "149.135874",
-    "region": "act",
-    "time_of_call": "24 Aug 2024 22:19:19",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BRADDON",
-    "updated": "25 Aug 2024 00:22:22"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
-    "id": "050921-24082024",
-    "latitude": "-35.184984",
-    "longitude": "149.135062",
-    "region": "act",
-    "time_of_call": "24 Aug 2024 23:28:35",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GUNGAHLIN",
-    "updated": "25 Aug 2024 00:55:56"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CURTIN",
     "id": "050923-25082024",
     "latitude": "-35.326585",
@@ -139,13 +103,13 @@
     "longitude": "149.100249",
     "region": "act",
     "time_of_call": "25 Aug 2024 00:59:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "25 Aug 2024 01:21:15"
+    "updated": "25 Aug 2024 01:30:27"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +121,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "25 Aug 2024 01:00:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "25 Aug 2024 01:19:11"
+    "updated": "25 Aug 2024 01:39:18"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "25 Aug 2024 01:25:00"
+    "updated": "25 Aug 2024 01:38:36"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +163,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "25 Aug 2024 01:22:29"
+    "updated": "25 Aug 2024 01:39:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "050935-25082024",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "25 Aug 2024 01:36:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "25 Aug 2024 01:46:00"
   },
   {
     "title": "MAUDE RD, MOULAMEIN",
@@ -767,5 +749,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Aug 2024 01:16"
+  },
+  {
+    "title": "CLARENCE TOWN RD, SEAHAM",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563372",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.660266876",
+    "longitude": "151.723449707",
+    "region": "nsw",
+    "time_of_call": "25 Aug 2024 01:27:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "CLARENCE TOWN RD, SEAHAM 2324",
+    "council_area": "Port Stephens",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Aug 2024 01:27"
   }
 ]
