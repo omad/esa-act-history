@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "050867-24082024",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
-    "region": "act",
-    "time_of_call": "24 Aug 2024 18:47:24",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "24 Aug 2024 22:05:03"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - ACTON",
     "id": "050873-24082024",
     "latitude": "-35.289989",
@@ -145,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "24 Aug 2024 22:37:42"
+    "updated": "24 Aug 2024 22:55:41"
   },
   {
     "agency": "Ambulance",
@@ -181,25 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "24 Aug 2024 22:34:10"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - COOMBS",
-    "id": "050908-24082024",
-    "latitude": "-35.31486",
-    "longitude": "149.041664",
-    "region": "act",
-    "time_of_call": "24 Aug 2024 22:04:08",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "COOMBS",
-    "updated": "24 Aug 2024 22:08:47"
+    "updated": "24 Aug 2024 22:43:38"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "24 Aug 2024 22:36:55"
+    "updated": "24 Aug 2024 22:49:05"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +199,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "24 Aug 2024 22:37:51"
+    "updated": "24 Aug 2024 22:40:40"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +211,49 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "24 Aug 2024 22:35:37",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "24 Aug 2024 22:57:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLYNN",
+    "id": "050914-24082024",
+    "latitude": "-35.207317",
+    "longitude": "149.042983",
+    "region": "act",
+    "time_of_call": "24 Aug 2024 22:53:00",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "24 Aug 2024 22:37:16"
+    "location": "FLYNN",
+    "updated": "24 Aug 2024 22:56:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MELBA",
+    "id": "050915-24082024",
+    "latitude": "-35.209077",
+    "longitude": "149.057326",
+    "region": "act",
+    "time_of_call": "24 Aug 2024 22:54:13",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MELBA",
+    "updated": "24 Aug 2024 22:57:15"
   },
   {
     "title": "MAUDE RD, MOULAMEIN",
@@ -506,7 +506,7 @@
     "latitude": "-33.4801368719999",
     "longitude": "150.835784912",
     "region": "nsw",
-    "time_of_call": "24 Aug 2024 20:14:00",
+    "time_of_call": "24 Aug 2024 22:55:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -521,7 +521,7 @@
     "fire": "Yes",
     "size": "16 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Aug 2024 20:14"
+    "updated": "24 Aug 2024 22:55"
   },
   {
     "title": "LITTLE RIVER RD, BRAIDWOOD",
@@ -781,28 +781,6 @@
     "updated": "24 Aug 2024 20:49"
   },
   {
-    "title": "GOLDEN HWY, JERRYS PLAINS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563355",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.435157776",
-    "longitude": "150.792144775",
-    "region": "nsw",
-    "time_of_call": "24 Aug 2024 22:33:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "GOLDEN HWY, JERRYS PLAINS 2330",
-    "council_area": "Muswellbrook",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Aug 2024 22:33"
-  },
-  {
     "title": "CAMP RD, DUBBO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563356",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -959,5 +937,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Aug 2024 22:19"
+  },
+  {
+    "title": "COMLEROY RD, KURRAJONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563365",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.5073623649999",
+    "longitude": "150.703079223",
+    "region": "nsw",
+    "time_of_call": "24 Aug 2024 22:35:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "558 COMLEROY RD, KURRAJONG 2758",
+    "council_area": "Hawkesbury",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Aug 2024 22:35"
+  },
+  {
+    "title": "SHEPPEARD DR, RICHMOND VALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563367",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.85836792",
+    "longitude": "151.517196656",
+    "region": "nsw",
+    "time_of_call": "24 Aug 2024 22:57:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "OS 2244 SHEPPEARD DR, RICHMOND VALE 2323",
+    "council_area": "Cessnock",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Aug 2024 22:57"
   }
 ]
