@@ -49,15 +49,15 @@
     "longitude": "149.0640312399",
     "region": "act",
     "time_of_call": "26 Aug 2024 06:17:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "GAMOR STREET, WARAMANGA, 2611",
-    "updated": "26 Aug 2024 06:28:29"
+    "updated": "26 Aug 2024 06:43:20"
   },
   {
     "agency": "Ambulance",
@@ -81,24 +81,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONCRIEFF",
-    "id": "051141-26082024",
-    "latitude": "-35.158865",
-    "longitude": "149.117806",
-    "region": "act",
-    "time_of_call": "26 Aug 2024 05:18:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONCRIEFF",
-    "updated": "26 Aug 2024 06:19:21"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GUNGAHLIN",
     "id": "051142-26082024",
     "latitude": "-35.184984",
@@ -111,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "26 Aug 2024 06:30:25"
+    "updated": "26 Aug 2024 06:47:28"
   },
   {
     "agency": "Ambulance",
@@ -123,13 +105,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "26 Aug 2024 06:14:16",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "26 Aug 2024 06:14:35"
+    "updated": "26 Aug 2024 06:45:20"
   },
   {
     "agency": "Ambulance",
@@ -141,13 +123,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "26 Aug 2024 06:21:25",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "26 Aug 2024 06:24:01"
+    "updated": "26 Aug 2024 06:42:52"
   },
   {
     "agency": "Ambulance",
@@ -159,13 +141,49 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "26 Aug 2024 06:29:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "26 Aug 2024 06:32:40"
+    "updated": "26 Aug 2024 06:45:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "051147-26082024",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "26 Aug 2024 06:41:40",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "26 Aug 2024 06:46:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "051148-26082024",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "26 Aug 2024 06:47:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "26 Aug 2024 06:48:53"
   },
   {
     "title": "SPRINGWOOD RD",
@@ -328,28 +346,6 @@
     "updated": "25 Aug 2024 14:45"
   },
   {
-    "title": "CUDGEGONG RD, ROUSE HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563465",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6851997369999",
-    "longitude": "150.904724121",
-    "region": "nsw",
-    "time_of_call": "26 Aug 2024 05:52:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "96 CUDGEGONG RD, ROUSE HILL 2155",
-    "council_area": "Blacktown",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Aug 2024 05:52"
-  },
-  {
     "title": "CHARLTON RD, BROKE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563466",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -357,9 +353,9 @@
     "latitude": "-32.699253082",
     "longitude": "151.074951172",
     "region": "nsw",
-    "time_of_call": "26 Aug 2024 05:56:00",
+    "time_of_call": "26 Aug 2024 06:39:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "CHARLTON RD, BROKE 2330",
     "council_area": "Singleton",
@@ -367,6 +363,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Aug 2024 05:56"
+    "updated": "26 Aug 2024 06:39"
   }
 ]
