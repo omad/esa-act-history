@@ -67,31 +67,13 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "25 Aug 2024 19:26:13",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "THEODORE",
-    "updated": "25 Aug 2024 23:17:53"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "051085-25082024",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
-    "region": "act",
-    "time_of_call": "25 Aug 2024 20:10:10",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "KALEEN",
-    "updated": "25 Aug 2024 22:41:59"
+    "location": "THEODORE",
+    "updated": "25 Aug 2024 23:25:57"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "25 Aug 2024 23:09:09"
+    "updated": "25 Aug 2024 23:22:25"
   },
   {
     "agency": "Ambulance",
@@ -146,6 +128,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
     "updated": "25 Aug 2024 23:09:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "051111-25082024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "25 Aug 2024 23:27:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "25 Aug 2024 23:29:54"
   },
   {
     "title": "SPRINGWOOD RD",
@@ -199,7 +199,7 @@
     "latitude": "-29.2547798159999",
     "longitude": "150.749938965",
     "region": "nsw",
-    "time_of_call": "25 Aug 2024 04:27:00",
+    "time_of_call": "25 Aug 2024 23:28:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -211,7 +211,7 @@
     "fire": "Yes",
     "size": "10 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Aug 2024 04:27"
+    "updated": "25 Aug 2024 23:28"
   },
   {
     "title": "KIACATOO RD, CONDOBOLIN",
@@ -243,7 +243,7 @@
     "latitude": "-35.79542923",
     "longitude": "150.216552735",
     "region": "nsw",
-    "time_of_call": "24 Aug 2024 19:07:00",
+    "time_of_call": "25 Aug 2024 23:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -255,7 +255,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Aug 2024 19:07"
+    "updated": "25 Aug 2024 23:27"
   },
   {
     "title": "WOLUMLA PEAK RD, LOCHIEL",
@@ -265,7 +265,7 @@
     "latitude": "-36.9115066529999",
     "longitude": "149.813217163",
     "region": "nsw",
-    "time_of_call": "24 Aug 2024 15:25:00",
+    "time_of_call": "25 Aug 2024 23:25:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -277,7 +277,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Aug 2024 15:25"
+    "updated": "25 Aug 2024 23:25"
   },
   {
     "title": "ROBERTS CREEK, EAST KURRAJONG",
@@ -438,66 +438,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Aug 2024 20:27"
-  },
-  {
-    "title": "JINDERA-WALLA WALLA RD, GLENELLEN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563448",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.879016876",
-    "longitude": "146.893417358",
-    "region": "nsw",
-    "time_of_call": "25 Aug 2024 21:53:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "JINDERA-WALLA WALLA RD, GLENELLEN 2642",
-    "council_area": "Greater Hume",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Aug 2024 21:53"
-  },
-  {
-    "title": "GEROGERY RD, TABLE TOP",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563450",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.962123871",
-    "longitude": "146.967941284",
-    "region": "nsw",
-    "time_of_call": "25 Aug 2024 21:10:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "GEROGERY RD, TABLE TOP 2640",
-    "council_area": "Albury",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Aug 2024 21:10"
-  },
-  {
-    "title": "HANGING ROCK RD, SUTTON FOREST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563453",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.631393433",
-    "longitude": "150.152267456",
-    "region": "nsw",
-    "time_of_call": "25 Aug 2024 23:05:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "HANGING ROCK RD, SUTTON FOREST 2577",
-    "council_area": "Wingecarribee",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Aug 2024 23:05"
   },
   {
     "title": "BIRRAW ST, NAMBUCCA HEADS",
