@@ -43,26 +43,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "ANIMAL RESCUE - FRASER",
-    "id": "011942-25082024",
-    "latitude": "-35.1878654799",
-    "longitude": "149.04007053",
-    "region": "act",
-    "time_of_call": "25 Aug 2024 19:31:45",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "ANIMAL RESCUE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
-    "location": "SHAKESPEARE CRESCENT, FRASER, 2615",
-    "updated": "25 Aug 2024 19:43:38"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "RUBBISH FIRE - GUNGAHLIN",
     "id": "011943-25082024",
     "latitude": "-35.1831932068",
@@ -197,13 +177,13 @@
     "longitude": "149.037677",
     "region": "act",
     "time_of_call": "25 Aug 2024 19:21:33",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "25 Aug 2024 20:32:37"
+    "updated": "25 Aug 2024 20:47:56"
   },
   {
     "agency": "Ambulance",
@@ -251,13 +231,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "25 Aug 2024 19:46:09",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "25 Aug 2024 20:17:06"
+    "updated": "25 Aug 2024 20:37:15"
   },
   {
     "agency": "Ambulance",
@@ -275,7 +255,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "25 Aug 2024 20:15:34"
+    "updated": "25 Aug 2024 20:40:09"
   },
   {
     "agency": "Ambulance",
@@ -293,7 +273,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "25 Aug 2024 20:23:39"
+    "updated": "25 Aug 2024 20:40:15"
   },
   {
     "agency": "Ambulance",
@@ -311,7 +291,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "25 Aug 2024 20:14:39"
+    "updated": "25 Aug 2024 20:43:39"
   },
   {
     "agency": "Ambulance",
@@ -384,6 +364,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
     "updated": "25 Aug 2024 20:29:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLOREY",
+    "id": "051094-25082024",
+    "latitude": "-35.224909",
+    "longitude": "149.053511",
+    "region": "act",
+    "time_of_call": "25 Aug 2024 20:43:10",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLOREY",
+    "updated": "25 Aug 2024 20:44:40"
   },
   {
     "title": "SPRINGWOOD RD",
@@ -796,9 +794,9 @@
     "latitude": "-30.9838559999999",
     "longitude": "151.598576001",
     "region": "nsw",
-    "time_of_call": "25 Aug 2024 20:26:00",
+    "time_of_call": "25 Aug 2024 20:34:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -811,6 +809,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Aug 2024 20:26"
+    "updated": "25 Aug 2024 20:34"
+  },
+  {
+    "title": "IRRIGATION WAY, NARRANDERA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563446",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.7303276059999",
+    "longitude": "146.526794434",
+    "region": "nsw",
+    "time_of_call": "25 Aug 2024 20:33:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "IRRIGATION WAY, NARRANDERA 2700",
+    "council_area": "Narrandera",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Aug 2024 20:33"
   }
 ]
