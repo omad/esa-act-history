@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
-    "updated": "27 Aug 2024 22:50:46"
+    "updated": "27 Aug 2024 23:10:21"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PARKES",
-    "updated": "27 Aug 2024 22:48:48"
+    "updated": "27 Aug 2024 23:01:47"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +195,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "27 Aug 2024 22:53:32"
+    "updated": "27 Aug 2024 23:19:45"
   },
   {
     "agency": "Ambulance",
@@ -243,13 +243,67 @@
     "longitude": "149.1195",
     "region": "act",
     "time_of_call": "27 Aug 2024 22:42:46",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PALMERSTON",
+    "updated": "27 Aug 2024 23:16:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GILMORE",
+    "id": "051572-27082024",
+    "latitude": "-35.417683",
+    "longitude": "149.134893",
+    "region": "act",
+    "time_of_call": "27 Aug 2024 23:03:33",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "PALMERSTON",
-    "updated": "27 Aug 2024 22:48:13"
+    "location": "GILMORE",
+    "updated": "27 Aug 2024 23:08:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "051573-27082024",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "27 Aug 2024 23:10:06",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "27 Aug 2024 23:13:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "051574-27082024",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "27 Aug 2024 23:12:00",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "27 Aug 2024 23:20:35"
   },
   {
     "title": "Front Tableland HR",
@@ -645,27 +699,5 @@
     "size": "13 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Aug 2024 22:04"
-  },
-  {
-    "title": "SHEAFFES RD, KEMBLA GRANGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563691",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.472560882",
-    "longitude": "150.782684326",
-    "region": "nsw",
-    "time_of_call": "27 Aug 2024 22:32:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "79-83 SHEAFFES RD, KEMBLA GRANGE 2526",
-    "council_area": "Wollongong",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Aug 2024 22:32"
   }
 ]
