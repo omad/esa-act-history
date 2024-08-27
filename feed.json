@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "YALLOURN STREET, FYSHWICK, 2609",
-    "updated": "28 Aug 2024 09:28:52"
+    "updated": "28 Aug 2024 09:32:09"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "28 Aug 2024 09:17:05"
+    "updated": "28 Aug 2024 09:41:33"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +101,13 @@
     "longitude": "149.046336",
     "region": "act",
     "time_of_call": "28 Aug 2024 08:35:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "28 Aug 2024 09:20:55"
+    "updated": "28 Aug 2024 09:33:52"
   },
   {
     "agency": "Ambulance",
@@ -137,31 +137,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "28 Aug 2024 09:16:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "28 Aug 2024 09:26:47"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "051630-28082024",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "28 Aug 2024 09:25:47",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "28 Aug 2024 09:28:48"
+    "updated": "28 Aug 2024 09:35:21"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +155,67 @@
     "longitude": "149.13437",
     "region": "act",
     "time_of_call": "28 Aug 2024 09:27:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BARTON",
+    "updated": "28 Aug 2024 09:45:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "051632-28082024",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "28 Aug 2024 09:33:25",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "BARTON",
-    "updated": "28 Aug 2024 09:28:23"
+    "location": "CURTIN",
+    "updated": "28 Aug 2024 09:47:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "051633-28082024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "28 Aug 2024 09:37:03",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "28 Aug 2024 09:47:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "051634-28082024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "28 Aug 2024 09:46:28",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "28 Aug 2024 09:48:37"
   },
   {
     "title": "Front Tableland HR",
@@ -415,7 +451,7 @@
     "latitude": "-31.556450223",
     "longitude": "152.749357223",
     "region": "nsw",
-    "time_of_call": "27 Aug 2024 14:44:00",
+    "time_of_call": "28 Aug 2024 09:24:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -427,7 +463,7 @@
     "fire": "Yes",
     "size": "100 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "27 Aug 2024 14:44"
+    "updated": "28 Aug 2024 09:24"
   },
   {
     "title": "THE RIVER RD, CURROWAN",
@@ -575,28 +611,6 @@
     "updated": "28 Aug 2024 06:57"
   },
   {
-    "title": "ROSEBY DR, ROSEDALE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563719",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.819484711",
-    "longitude": "150.213653564",
-    "region": "nsw",
-    "time_of_call": "28 Aug 2024 08:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "11 ROSEBY DR, ROSEDALE 2536",
-    "council_area": "Eurobodalla",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Aug 2024 08:07"
-  },
-  {
     "title": "PRINCES HWY, YATTE YATTAH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563721",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -629,7 +643,7 @@
     "latitude": "-35.2187080379999",
     "longitude": "150.434722901",
     "region": "nsw",
-    "time_of_call": "28 Aug 2024 08:45:00",
+    "time_of_call": "28 Aug 2024 09:29:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -641,7 +655,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Aug 2024 08:45"
+    "updated": "28 Aug 2024 09:29"
   },
   {
     "title": "PRINCES HWY, MILLINGANDI",
@@ -830,8 +844,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563739",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.71591568",
-    "longitude": "150.832122803",
+    "latitude": "-34.713535309",
+    "longitude": "150.835250854",
     "region": "nsw",
     "time_of_call": "28 Aug 2024 09:05:00",
     "event_type": "burnt area",
@@ -840,7 +854,7 @@
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "80 PRINCES HWY, ROSE VALLEY 2534",
+    "location": "49 PRINCES HWY, ROSE VALLEY 2534",
     "council_area": "Kiama",
     "type": "Grass Fire",
     "type_description": "",
