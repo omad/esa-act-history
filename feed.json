@@ -29,15 +29,15 @@
     "longitude": "149.103575",
     "region": "act",
     "time_of_call": "27 Aug 2024 15:07:54",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "BRAYBROOKE STREET, GINNINDERRA DRIVE, BRUCE, 2617",
-    "updated": "27 Aug 2024 15:20:13"
+    "updated": "27 Aug 2024 15:23:01"
   },
   {
     "agency": "Ambulance",
@@ -55,7 +55,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "27 Aug 2024 13:32:43"
+    "updated": "27 Aug 2024 15:25:54"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "27 Aug 2024 15:16:58"
+    "updated": "27 Aug 2024 15:25:57"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FYSHWICK",
-    "updated": "27 Aug 2024 15:08:57"
+    "updated": "27 Aug 2024 15:23:15"
   },
   {
     "agency": "Ambulance",
@@ -151,37 +151,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "051469-27082024",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "27 Aug 2024 13:40:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "27 Aug 2024 14:43:35"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GREENWAY",
     "id": "051472-27082024",
     "latitude": "-35.411775",
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "27 Aug 2024 13:51:24",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "27 Aug 2024 15:16:15"
+    "updated": "27 Aug 2024 15:27:04"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +229,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "27 Aug 2024 14:27:34",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "27 Aug 2024 15:08:00"
+    "updated": "27 Aug 2024 15:23:46"
   },
   {
     "agency": "Ambulance",
@@ -272,6 +254,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
     "updated": "27 Aug 2024 15:04:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHARNWOOD",
+    "id": "051493-27082024",
+    "latitude": "-35.200338",
+    "longitude": "149.036735",
+    "region": "act",
+    "time_of_call": "27 Aug 2024 15:24:01",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHARNWOOD",
+    "updated": "27 Aug 2024 15:29:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOK",
+    "id": "051495-27082024",
+    "latitude": "-35.261055",
+    "longitude": "149.064271",
+    "region": "act",
+    "time_of_call": "27 Aug 2024 15:27:22",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOK",
+    "updated": "27 Aug 2024 15:30:12"
   },
   {
     "title": "Front Tableland HR",
@@ -696,9 +714,9 @@
     "latitude": "-28.781759262",
     "longitude": "153.383743287",
     "region": "nsw",
-    "time_of_call": "27 Aug 2024 14:07:00",
+    "time_of_call": "27 Aug 2024 15:28:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "CAMERON RD, BOAT HARBOUR 2480",
     "council_area": "Lismore",
@@ -708,24 +726,24 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Aug 2024 14:07"
+    "updated": "27 Aug 2024 15:28"
   },
   {
     "title": "THE RIVER RD, CURROWAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563624",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.60433197",
-    "longitude": "150.15171814",
+    "latitude": "-35.619312286",
+    "longitude": "150.146606445",
     "region": "nsw",
-    "time_of_call": "27 Aug 2024 14:14:00",
+    "time_of_call": "27 Aug 2024 15:22:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "628 THE RIVER RD, CURROWAN 2536",
+    "location": "ACACIA PARK 560 THE RIVER RD, CURROWAN 2536",
     "council_area": "Eurobodalla",
     "type": "Grass Fire",
     "type_description": "",
@@ -733,7 +751,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Aug 2024 14:14"
+    "updated": "27 Aug 2024 15:22"
   },
   {
     "title": "GWYDIR HWY, CANGAI",
@@ -811,28 +829,6 @@
     "updated": "27 Aug 2024 14:44"
   },
   {
-    "title": "NAMBUCCA RD, TERREY HILLS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563634",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6795463559999",
-    "longitude": "151.22227478",
-    "region": "nsw",
-    "time_of_call": "27 Aug 2024 14:44:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "16 NAMBUCCA RD, TERREY HILLS 2084",
-    "council_area": "Northern Beaches",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Aug 2024 14:44"
-  },
-  {
     "title": "KAMILAROI HWY, TURRAWAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563636",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -904,9 +900,9 @@
     "latitude": "-35.07850647",
     "longitude": "150.657791138",
     "region": "nsw",
-    "time_of_call": "27 Aug 2024 15:06:00",
+    "time_of_call": "27 Aug 2024 15:25:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -919,7 +915,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Aug 2024 15:06"
+    "updated": "27 Aug 2024 15:25"
   },
   {
     "title": "THE LAKE CCT, CULBURRA BEACH",
@@ -942,5 +938,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Aug 2024 15:19"
+  },
+  {
+    "title": "Benaud Cr, Warilla",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563642",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.5498959999999",
+    "longitude": "150.860597999",
+    "region": "nsw",
+    "time_of_call": "27 Aug 2024 15:28:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Benaud Cr, Warilla, NSW 2528",
+    "council_area": "Shellharbour",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "27 Aug 2024 15:28"
   }
 ]
