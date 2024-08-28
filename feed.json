@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "STURDEE CRESCENT, SHIRRA CLOSE, MONASH, 2904",
-    "updated": "28 Aug 2024 19:37:50"
+    "updated": "28 Aug 2024 20:23:29"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "28 Aug 2024 20:21:53"
+    "updated": "28 Aug 2024 20:33:07"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +213,13 @@
     "longitude": "149.146868",
     "region": "act",
     "time_of_call": "28 Aug 2024 19:55:25",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "28 Aug 2024 19:57:38"
+    "updated": "28 Aug 2024 20:32:15"
   },
   {
     "agency": "Ambulance",
@@ -1469,7 +1469,7 @@
     "latitude": "-34.711082458",
     "longitude": "150.469741822",
     "region": "nsw",
-    "time_of_call": "28 Aug 2024 16:58:00",
+    "time_of_call": "28 Aug 2024 20:26:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1482,9 +1482,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Aug 2024 16:58"
+    "updated": "28 Aug 2024 20:26"
   },
   {
     "title": "RICHMOND RD, MARSDEN PARK",
@@ -1984,46 +1984,6 @@
     "updated": "28 Aug 2024 19:56"
   },
   {
-    "title": "WAKEHURST PWY, OXFORD FALLS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563943",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.7625122059999",
-    "longitude": "151.232345581",
-    "region": "nsw",
-    "time_of_call": "28 Aug 2024 19:57:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "WAKEHURST PWY, OXFORD FALLS 2100",
-    "council_area": "Northern Beaches",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Aug 2024 19:57"
-  },
-  {
-    "title": "APPENINE RD, YERRINBOOL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563944",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.3686027529999",
-    "longitude": "150.542007446",
-    "region": "nsw",
-    "time_of_call": "28 Aug 2024 19:59:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "67 APPENINE RD, YERRINBOOL 2575",
-    "council_area": "Wingecarribee",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Aug 2024 19:59"
-  },
-  {
     "title": "ROCKBARTON RD, LAKESLAND",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563945",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2082,5 +2042,55 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Aug 2024 20:19"
+  },
+  {
+    "title": "WILLINA RD, WILLINA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563948",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.169410706",
+    "longitude": "152.273178101",
+    "region": "nsw",
+    "time_of_call": "28 Aug 2024 20:22:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "689 WILLINA RD, WILLINA 2423",
+    "council_area": "Mid-Coast",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Aug 2024 20:22"
+  },
+  {
+    "title": "Whitby Rd, Kings Langley",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563950",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.75254",
+    "longitude": "150.943958",
+    "region": "nsw",
+    "time_of_call": "28 Aug 2024 20:30:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Whitby Rd, Kings Langley, NSW 2147",
+    "council_area": "Blacktown",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "28 Aug 2024 20:30"
   }
 ]
