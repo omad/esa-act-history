@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "052118-30082024",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
-    "region": "act",
-    "time_of_call": "30 Aug 2024 07:00:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "30 Aug 2024 07:58:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KENNY",
     "id": "052123-30082024",
     "latitude": "-35.215069",
@@ -71,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KENNY",
-    "updated": "30 Aug 2024 08:06:22"
+    "updated": "30 Aug 2024 08:22:35"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "30 Aug 2024 07:54:47"
+    "updated": "30 Aug 2024 08:33:37"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "30 Aug 2024 08:13:53"
+    "updated": "30 Aug 2024 08:22:46"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "30 Aug 2024 08:02:12"
+    "updated": "30 Aug 2024 08:26:24"
   },
   {
     "agency": "Ambulance",
@@ -162,6 +144,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
     "updated": "30 Aug 2024 08:20:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "052132-30082024",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "30 Aug 2024 08:25:30",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "30 Aug 2024 08:30:21"
   },
   {
     "title": "Front Tableland HR",
@@ -1290,7 +1290,7 @@
     "latitude": "-30.406986236",
     "longitude": "152.748138428",
     "region": "nsw",
-    "time_of_call": "30 Aug 2024 04:20:00",
+    "time_of_call": "30 Aug 2024 08:24:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "status_description": "",
@@ -1305,27 +1305,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Aug 2024 04:20"
-  },
-  {
-    "title": "STANNIX PARK RD, WILBERFORCE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564122",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.521595002",
-    "longitude": "150.849319458",
-    "region": "nsw",
-    "time_of_call": "30 Aug 2024 07:46:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "199 STANNIX PARK RD, WILBERFORCE 2756",
-    "council_area": "Hawkesbury",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Aug 2024 07:46"
+    "updated": "30 Aug 2024 08:24"
   },
   {
     "title": "WINDSOR RD, VINEYARD",
@@ -1379,8 +1359,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564126",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.9498159999999",
-    "longitude": "150.838633",
+    "latitude": "-33.949817658",
+    "longitude": "150.838638306",
     "region": "nsw",
     "time_of_call": "30 Aug 2024 08:16:00",
     "event_type": "burnt area",
@@ -1398,5 +1378,52 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "30 Aug 2024 08:16"
+  },
+  {
+    "title": "HWY, SHANNON VALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564127",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.725553513",
+    "longitude": "151.789230347",
+    "region": "nsw",
+    "time_of_call": "30 Aug 2024 08:26:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "GWYDIR (B76) HWY, SHANNON VALE 2370",
+    "council_area": "Glen Innes Severn",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Aug 2024 08:26"
+  },
+  {
+    "title": "(Princes Mtwy), Kanahooka",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564128",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.487747",
+    "longitude": "150.808472",
+    "region": "nsw",
+    "time_of_call": "30 Aug 2024 08:31:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "M1 (Princes Mtwy), Kanahooka, NSW 2530",
+    "council_area": "Wollongong",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "30 Aug 2024 08:31"
   }
 ]
