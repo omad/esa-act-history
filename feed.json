@@ -69,15 +69,15 @@
     "longitude": "149.176205",
     "region": "act",
     "time_of_call": "29 Aug 2024 16:59:00",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "CANBERRA AVENUE, NEWCASTLE STREET, SYMONSTON, 2609",
-    "updated": "29 Aug 2024 17:14:31"
+    "updated": "29 Aug 2024 17:27:25"
   },
   {
     "agency": "Ambulance",
@@ -113,7 +113,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "29 Aug 2024 16:45:03"
+    "updated": "29 Aug 2024 17:22:29"
   },
   {
     "agency": "Ambulance",
@@ -167,43 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "29 Aug 2024 17:01:48"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "051962-29082024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "29 Aug 2024 15:10:49",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "29 Aug 2024 16:49:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GRIFFITH",
-    "id": "051969-29082024",
-    "latitude": "-35.325773",
-    "longitude": "149.133842",
-    "region": "act",
-    "time_of_call": "29 Aug 2024 15:30:53",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GRIFFITH",
-    "updated": "29 Aug 2024 16:39:52"
+    "updated": "29 Aug 2024 17:24:51"
   },
   {
     "agency": "Ambulance",
@@ -239,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "29 Aug 2024 17:14:35"
+    "updated": "29 Aug 2024 17:23:53"
   },
   {
     "agency": "Ambulance",
@@ -311,7 +275,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "29 Aug 2024 17:04:24"
+    "updated": "29 Aug 2024 17:24:48"
   },
   {
     "agency": "Ambulance",
@@ -341,13 +305,49 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "29 Aug 2024 17:07:16",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "29 Aug 2024 17:26:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYONS",
+    "id": "051990-29082024",
+    "latitude": "-35.340941",
+    "longitude": "149.072217",
+    "region": "act",
+    "time_of_call": "29 Aug 2024 17:22:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYONS",
+    "updated": "29 Aug 2024 17:27:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FORREST",
+    "id": "051991-29082024",
+    "latitude": "-35.318088",
+    "longitude": "149.12506",
+    "region": "act",
+    "time_of_call": "29 Aug 2024 17:28:21",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "AINSLIE",
-    "updated": "29 Aug 2024 17:11:40"
+    "location": "FORREST",
+    "updated": "29 Aug 2024 17:28:50"
   },
   {
     "title": "Front Tableland HR",
@@ -649,7 +649,7 @@
     "latitude": "-35.2633781439999",
     "longitude": "150.42402649",
     "region": "nsw",
-    "time_of_call": "28 Aug 2024 16:17:00",
+    "time_of_call": "29 Aug 2024 17:16:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -664,7 +664,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Aug 2024 16:17"
+    "updated": "29 Aug 2024 17:16"
   },
   {
     "title": "PRINCES HWY, YATTE YATTAH",
@@ -724,7 +724,7 @@
     "latitude": "-34.8718109129999",
     "longitude": "150.617980957",
     "region": "nsw",
-    "time_of_call": "29 Aug 2024 02:39:00",
+    "time_of_call": "29 Aug 2024 17:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -736,32 +736,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Aug 2024 02:39"
-  },
-  {
-    "title": "GANNONS POINT RD, BODALLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_563750",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.0763893119999",
-    "longitude": "150.073532104",
-    "region": "nsw",
-    "time_of_call": "29 Aug 2024 16:50:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "GANNONS POINT RD, BODALLA 2545",
-    "council_area": "Eurobodalla",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Aug 2024 16:50"
+    "updated": "29 Aug 2024 17:21"
   },
   {
     "title": "Saltwater South HR",
@@ -818,7 +793,7 @@
     "latitude": "-34.9270286559999",
     "longitude": "150.662231445",
     "region": "nsw",
-    "time_of_call": "29 Aug 2024 02:22:00",
+    "time_of_call": "29 Aug 2024 17:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -830,7 +805,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Aug 2024 02:22"
+    "updated": "29 Aug 2024 17:19"
   },
   {
     "title": "WILLOWFORD RD, WOOLLAMIA NSW",
@@ -915,7 +890,7 @@
     "latitude": "-35.248836517",
     "longitude": "150.500396729",
     "region": "nsw",
-    "time_of_call": "28 Aug 2024 19:09:00",
+    "time_of_call": "29 Aug 2024 17:17:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -930,7 +905,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Aug 2024 19:09"
+    "updated": "29 Aug 2024 17:17"
   },
   {
     "title": "TORRYBURN RD, YARROWYCK",
@@ -1452,18 +1427,18 @@
     "updated": "29 Aug 2024 16:42"
   },
   {
-    "title": "BATE ST, CENTRAL TILBA",
+    "title": "PUNKALLA TILBA RD, CENTRAL TILBA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564042",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-36.3129997249999",
-    "longitude": "150.074508667",
+    "latitude": "-36.309959412",
+    "longitude": "150.072082519",
     "region": "nsw",
     "time_of_call": "29 Aug 2024 16:14:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "2 BATE ST, CENTRAL TILBA 2546",
+    "location": "37 PUNKALLA TILBA RD, CENTRAL TILBA 2546",
     "council_area": "Eurobodalla",
     "type": "Burn off",
     "type_description": "",
@@ -1506,9 +1481,9 @@
     "latitude": "-31.632623672",
     "longitude": "152.378967285",
     "region": "nsw",
-    "time_of_call": "29 Aug 2024 14:58:00",
+    "time_of_call": "29 Aug 2024 16:55:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "WATERFALL RD, BOORGANNA 2429",
     "council_area": "Port Macquarie-Hastings",
@@ -1518,7 +1493,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Aug 2024 14:58"
+    "updated": "29 Aug 2024 16:55"
   },
   {
     "title": "SUMMERLAND WAY, UNUMGAR",
@@ -1694,9 +1669,9 @@
     "latitude": "-33.919733",
     "longitude": "150.901522",
     "region": "nsw",
-    "time_of_call": "29 Aug 2024 17:14:00",
+    "time_of_call": "29 Aug 2024 17:22:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1709,6 +1684,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "29 Aug 2024 17:14"
+    "updated": "29 Aug 2024 17:22"
   }
 ]
