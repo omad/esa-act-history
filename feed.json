@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KENNY",
-    "updated": "30 Aug 2024 08:22:35"
+    "updated": "30 Aug 2024 08:43:33"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "30 Aug 2024 08:22:46"
+    "updated": "30 Aug 2024 08:46:20"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "30 Aug 2024 08:26:24"
+    "updated": "30 Aug 2024 08:37:55"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,13 @@
     "longitude": "149.036735",
     "region": "act",
     "time_of_call": "30 Aug 2024 08:13:25",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "30 Aug 2024 08:20:16"
+    "updated": "30 Aug 2024 08:45:58"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,31 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "30 Aug 2024 08:25:30",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "30 Aug 2024 08:41:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "052136-30082024",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "30 Aug 2024 08:43:38",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "30 Aug 2024 08:30:21"
+    "location": "TURNER",
+    "updated": "30 Aug 2024 08:46:29"
   },
   {
     "title": "Front Tableland HR",
@@ -1308,28 +1326,6 @@
     "updated": "30 Aug 2024 08:24"
   },
   {
-    "title": "WINDSOR RD, VINEYARD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564123",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6562232969999",
-    "longitude": "150.873718262",
-    "region": "nsw",
-    "time_of_call": "30 Aug 2024 07:47:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WINDSOR RD, VINEYARD 2765",
-    "council_area": "Hawkesbury",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Aug 2024 07:47"
-  },
-  {
     "title": "Church St, Ulladulla",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564124",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1409,9 +1405,9 @@
     "latitude": "-34.487747",
     "longitude": "150.808472",
     "region": "nsw",
-    "time_of_call": "30 Aug 2024 08:31:00",
+    "time_of_call": "30 Aug 2024 08:39:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1424,6 +1420,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "30 Aug 2024 08:31"
+    "updated": "30 Aug 2024 08:39"
+  },
+  {
+    "title": "RED HEAD RD, RED HEAD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564129",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.059436799",
+    "longitude": "152.544143676",
+    "region": "nsw",
+    "time_of_call": "30 Aug 2024 08:36:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "RED HEAD RD, RED HEAD 2430",
+    "council_area": "Mid-Coast",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Aug 2024 08:36"
   }
 ]
