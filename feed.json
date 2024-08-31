@@ -29,15 +29,15 @@
     "longitude": "149.13214775",
     "region": "act",
     "time_of_call": "01 Sep 2024 03:00:03",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "RUBBISH FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
     "location": "MONARO CRESCENT, RED HILL, 2603",
-    "updated": "01 Sep 2024 03:07:27"
+    "updated": "01 Sep 2024 03:31:34"
   },
   {
     "agency": "Ambulance",
@@ -49,13 +49,13 @@
     "longitude": "149.066294",
     "region": "act",
     "time_of_call": "31 Aug 2024 19:43:22",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "01 Sep 2024 03:16:14"
+    "updated": "01 Sep 2024 03:39:44"
   },
   {
     "agency": "Ambulance",
@@ -187,24 +187,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CAMPBELL",
-    "id": "052595-01092024",
-    "latitude": "-35.288663",
-    "longitude": "149.155928",
-    "region": "act",
-    "time_of_call": "01 Sep 2024 02:32:23",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CAMPBELL",
-    "updated": "01 Sep 2024 03:17:06"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BRADDON",
     "id": "052596-01092024",
     "latitude": "-35.270314",
@@ -229,13 +211,13 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "01 Sep 2024 02:49:10",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "01 Sep 2024 03:15:14"
+    "updated": "01 Sep 2024 03:42:53"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +271,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "01 Sep 2024 03:10:18"
+    "updated": "01 Sep 2024 03:41:37"
   },
   {
     "agency": "Ambulance",
@@ -319,13 +301,13 @@
     "longitude": "149.053511",
     "region": "act",
     "time_of_call": "01 Sep 2024 03:18:22",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "01 Sep 2024 03:28:52"
+    "updated": "01 Sep 2024 03:37:33"
   },
   {
     "agency": "Ambulance",
@@ -343,7 +325,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "01 Sep 2024 03:27:16"
+    "updated": "01 Sep 2024 03:32:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "052610-01092024",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "01 Sep 2024 03:37:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "01 Sep 2024 03:39:23"
   },
   {
     "title": "Front Tableland HR",
