@@ -157,7 +157,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
     "location": "BARTON HIGHWAY, GUNGAHLIN DRIVE OFF RAMP, KALEEN, 2617",
-    "updated": "31 Aug 2024 15:19:54"
+    "updated": "31 Aug 2024 15:31:32"
   },
   {
     "agency": "Ambulance",
@@ -176,24 +176,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "31 Aug 2024 12:13:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - COOMBS",
-    "id": "052411-31082024",
-    "latitude": "-35.31486",
-    "longitude": "149.041664",
-    "region": "act",
-    "time_of_call": "31 Aug 2024 10:40:33",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "COOMBS",
-    "updated": "31 Aug 2024 14:58:53"
   },
   {
     "agency": "Ambulance",
@@ -247,7 +229,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "31 Aug 2024 15:09:12"
+    "updated": "31 Aug 2024 15:22:27"
   },
   {
     "agency": "Ambulance",
@@ -301,7 +283,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "31 Aug 2024 14:36:08"
+    "updated": "31 Aug 2024 15:25:20"
   },
   {
     "agency": "Ambulance",
@@ -331,13 +313,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "31 Aug 2024 14:18:44",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "31 Aug 2024 15:17:37"
+    "updated": "31 Aug 2024 15:26:56"
   },
   {
     "agency": "Ambulance",
@@ -409,7 +391,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "31 Aug 2024 15:09:58"
+    "updated": "31 Aug 2024 15:25:19"
   },
   {
     "agency": "Ambulance",
@@ -427,7 +409,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "31 Aug 2024 15:01:02"
+    "updated": "31 Aug 2024 15:29:19"
   },
   {
     "agency": "Ambulance",
@@ -463,7 +445,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "31 Aug 2024 15:08:59"
+    "updated": "31 Aug 2024 15:24:17"
   },
   {
     "agency": "Ambulance",
@@ -481,7 +463,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "31 Aug 2024 15:14:22"
+    "updated": "31 Aug 2024 15:21:28"
   },
   {
     "agency": "Ambulance",
@@ -499,7 +481,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "31 Aug 2024 15:17:44"
+    "updated": "31 Aug 2024 15:22:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HIGGINS",
+    "id": "052470-31082024",
+    "latitude": "-35.230526",
+    "longitude": "149.025052",
+    "region": "act",
+    "time_of_call": "31 Aug 2024 15:23:59",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "31 Aug 2024 15:31:00"
   },
   {
     "title": "Front Tableland HR",
@@ -1068,7 +1068,7 @@
     "latitude": "-30.7071571349999",
     "longitude": "152.374710082",
     "region": "nsw",
-    "time_of_call": "31 Aug 2024 11:13:00",
+    "time_of_call": "31 Aug 2024 15:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1083,7 +1083,7 @@
     "fire": "Yes",
     "size": "231 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Aug 2024 11:13"
+    "updated": "31 Aug 2024 15:19"
   },
   {
     "title": "THE LAKE CCT, CULBURRA BEACH",
@@ -1615,28 +1615,6 @@
     "updated": "31 Aug 2024 13:34"
   },
   {
-    "title": "ALLAN CUNNINGHAM RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564308",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.570463181",
-    "longitude": "150.536712647",
-    "region": "nsw",
-    "time_of_call": "31 Aug 2024 12:06:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "MOURABIE 3371 ALLAN CUNNINGHAM RD, WARIALDA RAIL 2402",
-    "council_area": "Gwydir",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 Aug 2024 12:06"
-  },
-  {
     "title": "ANDERSONS MOUNTAIN RD, UPPER CORINDI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564309",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1813,9 +1791,9 @@
     "latitude": "-30.5736675269999",
     "longitude": "152.665161133",
     "region": "nsw",
-    "time_of_call": "31 Aug 2024 12:42:00",
+    "time_of_call": "31 Aug 2024 15:18:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1828,7 +1806,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Aug 2024 12:42"
+    "updated": "31 Aug 2024 15:18"
   },
   {
     "title": "MITCHELLS ACCS, BELLBROOK",
@@ -1913,7 +1891,7 @@
     "latitude": "-31.524610519",
     "longitude": "152.399230957",
     "region": "nsw",
-    "time_of_call": "31 Aug 2024 13:25:00",
+    "time_of_call": "31 Aug 2024 15:14:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "status_description": "",
@@ -1928,7 +1906,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Aug 2024 13:25"
+    "updated": "31 Aug 2024 15:14"
   },
   {
     "title": "ARGYLE ST, MOSS VALE",
@@ -1938,9 +1916,9 @@
     "latitude": "-34.5458984369999",
     "longitude": "150.378997803",
     "region": "nsw",
-    "time_of_call": "31 Aug 2024 15:04:00",
+    "time_of_call": "31 Aug 2024 15:23:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "ARGYLE ST, MOSS VALE 2577",
     "council_area": "Wingecarribee",
@@ -1950,7 +1928,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Aug 2024 15:04"
+    "updated": "31 Aug 2024 15:23"
   },
   {
     "title": "Brighton Av, Toronto",
@@ -2029,9 +2007,9 @@
     "latitude": "-28.4989204409999",
     "longitude": "152.267364502",
     "region": "nsw",
-    "time_of_call": "31 Aug 2024 14:03:00",
+    "time_of_call": "31 Aug 2024 15:24:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -2042,9 +2020,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "55 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Aug 2024 14:03"
+    "updated": "31 Aug 2024 15:24"
   },
   {
     "title": "WINGHAM RD, TAREE",
@@ -2176,9 +2154,9 @@
     "latitude": "-29.73535347",
     "longitude": "152.877777099",
     "region": "nsw",
-    "time_of_call": "31 Aug 2024 14:52:00",
+    "time_of_call": "31 Aug 2024 15:23:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -2189,9 +2167,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "4 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Aug 2024 14:52"
+    "updated": "31 Aug 2024 15:23"
   },
   {
     "title": "IRON POT CREEK RD, GHINNI GHI",
@@ -2345,18 +2323,96 @@
     "latitude": "-31.923242569",
     "longitude": "151.234344482",
     "region": "nsw",
-    "time_of_call": "31 Aug 2024 15:09:00",
+    "time_of_call": "31 Aug 2024 15:18:00",
     "event_type": "burnt area",
     "status": "Out of control",
-    "alert_level": "Not Applicable",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "SEMPILL ST, MOONAN FLAT 2337",
     "council_area": "Upper Hunter",
-    "type": "Structure Fire",
+    "type": "Grass Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Aug 2024 15:09"
+    "updated": "31 Aug 2024 15:18"
+  },
+  {
+    "title": "LOWER COLO RD, LOWER PORTLAND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564381",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.430904389",
+    "longitude": "150.86303711",
+    "region": "nsw",
+    "time_of_call": "31 Aug 2024 15:16:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "677 LOWER COLO RD, LOWER PORTLAND 2756",
+    "council_area": "Hawkesbury",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "31 Aug 2024 15:16"
+  },
+  {
+    "title": "LURCOCKS RD, GLENREAGH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564382",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.0697746279999",
+    "longitude": "152.985443115",
+    "region": "nsw",
+    "time_of_call": "31 Aug 2024 15:18:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "239 LURCOCKS RD, GLENREAGH 2450",
+    "council_area": "Clarence Valley",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "31 Aug 2024 15:18"
+  },
+  {
+    "title": "Decora Cr, Warabrook",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564383",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8804079999999",
+    "longitude": "151.712642",
+    "region": "nsw",
+    "time_of_call": "31 Aug 2024 15:26:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Decora Cr, Warabrook, NSW 2304",
+    "council_area": "Newcastle",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "31 Aug 2024 15:26"
   }
 ]
