@@ -253,7 +253,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "31 Aug 2024 23:21:52"
+    "updated": "31 Aug 2024 23:23:24"
   },
   {
     "agency": "Ambulance",
@@ -272,6 +272,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
     "updated": "31 Aug 2024 23:21:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONYTHON",
+    "id": "052568-31082024",
+    "latitude": "-35.435736",
+    "longitude": "149.081053",
+    "region": "act",
+    "time_of_call": "31 Aug 2024 23:26:59",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONYTHON",
+    "updated": "31 Aug 2024 23:30:07"
   },
   {
     "title": "Front Tableland HR",
@@ -1761,9 +1779,9 @@
     "latitude": "-34.8635101319999",
     "longitude": "150.495101929",
     "region": "nsw",
-    "time_of_call": "31 Aug 2024 19:38:00",
+    "time_of_call": "31 Aug 2024 23:28:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "170 RIVERSDALE RD, ILLAROO 2540",
     "council_area": "Shoalhaven",
@@ -1771,7 +1789,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Aug 2024 19:38"
+    "updated": "31 Aug 2024 23:28"
   },
   {
     "title": "FORBES RIVER RD, FORBES RIVER",
@@ -1925,9 +1943,9 @@
     "latitude": "-30.515960693",
     "longitude": "141.995223999",
     "region": "nsw",
-    "time_of_call": "31 Aug 2024 22:51:00",
+    "time_of_call": "31 Aug 2024 23:26:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "SILVER CITY HWY, PACKSADDLE 2880",
     "council_area": "Unincorporated",
@@ -1937,6 +1955,51 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Aug 2024 22:51"
+    "updated": "31 Aug 2024 23:26"
+  },
+  {
+    "title": "Austral St, Nelson Bay",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564464",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.722518",
+    "longitude": "152.155997",
+    "region": "nsw",
+    "time_of_call": "31 Aug 2024 23:23:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "60 Austral St, Nelson Bay, NSW 2315",
+    "council_area": "Port Stephens",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "31 Aug 2024 23:23"
+  },
+  {
+    "title": "CLARENCE WAY, MOUNTAIN VIEW",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564465",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.604574204",
+    "longitude": "152.932373047",
+    "region": "nsw",
+    "time_of_call": "31 Aug 2024 23:27:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "CLARENCE WAY, MOUNTAIN VIEW 2460",
+    "council_area": "Clarence Valley",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "31 Aug 2024 23:27"
   }
 ]
