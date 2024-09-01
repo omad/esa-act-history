@@ -61,24 +61,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CAMPBELL",
-    "id": "052701-01092024",
-    "latitude": "-35.288663",
-    "longitude": "149.155928",
-    "region": "act",
-    "time_of_call": "01 Sep 2024 16:22:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CAMPBELL",
-    "updated": "01 Sep 2024 17:55:57"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - RED HILL",
     "id": "052702-01092024",
     "latitude": "-35.333636",
@@ -91,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "01 Sep 2024 18:27:49"
+    "updated": "01 Sep 2024 18:39:17"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "01 Sep 2024 18:36:05"
+    "updated": "01 Sep 2024 18:46:48"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "01 Sep 2024 18:36:40"
+    "updated": "01 Sep 2024 18:44:08"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +175,49 @@
     "longitude": "149.142366",
     "region": "act",
     "time_of_call": "01 Sep 2024 18:32:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "01 Sep 2024 18:34:19"
+    "updated": "01 Sep 2024 18:39:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUGHES",
+    "id": "052722-01092024",
+    "latitude": "-35.333105",
+    "longitude": "149.094654",
+    "region": "act",
+    "time_of_call": "01 Sep 2024 18:39:35",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUGHES",
+    "updated": "01 Sep 2024 18:41:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "052723-01092024",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "01 Sep 2024 18:44:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "01 Sep 2024 18:48:05"
   },
   {
     "title": "Front Tableland HR",
@@ -1299,9 +1317,9 @@
     "latitude": "-29.0498447419999",
     "longitude": "152.923690796",
     "region": "nsw",
-    "time_of_call": "01 Sep 2024 16:02:00",
+    "time_of_call": "01 Sep 2024 18:27:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1314,7 +1332,7 @@
     "fire": "Yes",
     "size": "94 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Sep 2024 16:02"
+    "updated": "1 Sep 2024 18:27"
   },
   {
     "title": "FIRE TRAIL RD, CASTLEREAGH",
@@ -1490,9 +1508,9 @@
     "latitude": "-29.100450516",
     "longitude": "152.53541565",
     "region": "nsw",
-    "time_of_call": "01 Sep 2024 16:50:00",
+    "time_of_call": "01 Sep 2024 18:34:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1503,9 +1521,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "10 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Sep 2024 16:50"
+    "updated": "1 Sep 2024 18:34"
   },
   {
     "title": "KALPARA CL, BONNY HILLS",
@@ -1602,31 +1620,6 @@
     "updated": "1 Sep 2024 17:36"
   },
   {
-    "title": "The Barbette, Castlecrag",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564572",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.804255",
-    "longitude": "151.219437001",
-    "region": "nsw",
-    "time_of_call": "01 Sep 2024 18:31:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "The Barbette, Castlecrag, NSW 2068",
-    "council_area": "Willoughby",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Sep 2024 18:31"
-  },
-  {
     "title": "LADY CARRINGTON DR TRK, ROYAL NATIONAL PARK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564573",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1706,9 +1699,9 @@
     "latitude": "-35.320033",
     "longitude": "148.232098",
     "region": "nsw",
-    "time_of_call": "01 Sep 2024 18:22:00",
+    "time_of_call": "01 Sep 2024 18:43:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1721,7 +1714,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Sep 2024 18:22"
+    "updated": "1 Sep 2024 18:43"
   },
   {
     "title": "PACIFIC MTWY, WAHROONGA",
@@ -1744,31 +1737,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Sep 2024 18:23"
-  },
-  {
-    "title": "Meacher Street, Mount Druitt",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564579",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.761141",
-    "longitude": "150.82212",
-    "region": "nsw",
-    "time_of_call": "01 Sep 2024 18:28:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "26 Meacher Street, Mount Druitt, NSW 2770",
-    "council_area": "Blacktown",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Sep 2024 18:28"
   },
   {
     "title": "NERRIGA RD, TOMBOYE",
