@@ -21,37 +21,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BONNER",
-    "id": "052931-02092024",
-    "latitude": "-35.155183",
-    "longitude": "149.143165",
-    "region": "act",
-    "time_of_call": "02 Sep 2024 17:18:18",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BONNER",
-    "updated": "02 Sep 2024 20:14:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CHISHOLM",
     "id": "052946-02092024",
     "latitude": "-35.422993",
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "02 Sep 2024 18:39:06",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "02 Sep 2024 21:25:33"
+    "updated": "02 Sep 2024 21:33:23"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +63,13 @@
     "longitude": "149.165368",
     "region": "act",
     "time_of_call": "02 Sep 2024 19:57:00",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
-    "updated": "02 Sep 2024 21:24:57"
+    "updated": "02 Sep 2024 21:29:39"
   },
   {
     "agency": "Ambulance",
@@ -178,6 +160,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
     "updated": "02 Sep 2024 21:28:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RED HILL",
+    "id": "052983-02092024",
+    "latitude": "-35.333636",
+    "longitude": "149.120031",
+    "region": "act",
+    "time_of_call": "02 Sep 2024 21:34:38",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RED HILL",
+    "updated": "02 Sep 2024 21:43:20"
   },
   {
     "title": "Front Tableland HR",
@@ -1359,7 +1359,7 @@
     "latitude": "-32.351607701",
     "longitude": "149.678132875",
     "region": "nsw",
-    "time_of_call": "02 Sep 2024 17:55:00",
+    "time_of_call": "02 Sep 2024 21:29:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -1374,7 +1374,7 @@
     "fire": "Yes",
     "size": "8 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2024 17:55"
+    "updated": "2 Sep 2024 21:29"
   },
   {
     "title": "SPRINGWOOD RD, YARRAMUNDI",
@@ -1850,9 +1850,9 @@
     "latitude": "-30.5691146849999",
     "longitude": "152.939743042",
     "region": "nsw",
-    "time_of_call": "02 Sep 2024 19:28:00",
+    "time_of_call": "02 Sep 2024 21:40:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1865,7 +1865,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2024 19:28"
+    "updated": "2 Sep 2024 21:40"
   },
   {
     "title": "UNARA RD, BEXHILL",
@@ -2152,27 +2152,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Sep 2024 19:56"
-  },
-  {
-    "title": "HUME HWY, COLO VALE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564865",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.386222839",
-    "longitude": "150.522674561",
-    "region": "nsw",
-    "time_of_call": "02 Sep 2024 21:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "HUME HWY, COLO VALE 2575",
-    "council_area": "Wingecarribee",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2024 21:07"
   }
 ]
