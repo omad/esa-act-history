@@ -57,24 +57,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLT",
-    "id": "052979-02092024",
-    "latitude": "-35.224201",
-    "longitude": "149.013141",
-    "region": "act",
-    "time_of_call": "02 Sep 2024 21:12:38",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HOLT",
-    "updated": "02 Sep 2024 22:18:01"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BONNER",
     "id": "052987-02092024",
     "latitude": "-35.155183",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "02 Sep 2024 23:01:53"
+    "updated": "02 Sep 2024 23:21:57"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "02 Sep 2024 22:45:27"
+    "updated": "02 Sep 2024 23:19:06"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "02 Sep 2024 23:03:41"
+    "updated": "02 Sep 2024 23:25:47"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +135,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "02 Sep 2024 23:01:09",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "02 Sep 2024 23:04:44"
+    "updated": "02 Sep 2024 23:08:48"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +159,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "02 Sep 2024 23:04:07"
+    "updated": "02 Sep 2024 23:11:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOK",
+    "id": "052995-02092024",
+    "latitude": "-35.261055",
+    "longitude": "149.064271",
+    "region": "act",
+    "time_of_call": "02 Sep 2024 23:05:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOK",
+    "updated": "02 Sep 2024 23:11:10"
   },
   {
     "title": "Front Tableland HR",
@@ -1903,9 +1903,9 @@
     "latitude": "-32.7256355289999",
     "longitude": "152.183547974",
     "region": "nsw",
-    "time_of_call": "02 Sep 2024 17:02:00",
+    "time_of_call": "02 Sep 2024 23:04:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1916,9 +1916,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "3 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2024 17:02"
+    "updated": "2 Sep 2024 23:04"
   },
   {
     "title": "UPPER SMITHS CREEK RD, KUNDABUNG",
@@ -2090,56 +2090,6 @@
     "updated": "2 Sep 2024 21:48"
   },
   {
-    "title": "Potter Cl, Wetherill Park",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564869",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.842229",
-    "longitude": "150.882863",
-    "region": "nsw",
-    "time_of_call": "02 Sep 2024 22:39:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Potter Cl, Wetherill Park, NSW 2164",
-    "council_area": "Fairfield",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "2 Sep 2024 22:39"
-  },
-  {
-    "title": "Darling St, Hamilton South",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564870",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.933285",
-    "longitude": "151.741044",
-    "region": "nsw",
-    "time_of_call": "02 Sep 2024 22:52:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Darling St, Hamilton South, NSW 2303",
-    "council_area": "Newcastle",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "2 Sep 2024 22:52"
-  },
-  {
     "title": "BENTS BASIN RD, WALLACIA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564871",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2147,9 +2097,9 @@
     "latitude": "-33.8775062559999",
     "longitude": "150.637191772",
     "region": "nsw",
-    "time_of_call": "02 Sep 2024 22:53:00",
+    "time_of_call": "02 Sep 2024 23:05:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "145 BENTS BASIN RD, WALLACIA 2745",
     "council_area": "Wollondilly",
@@ -2157,6 +2107,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2024 22:53"
+    "updated": "2 Sep 2024 23:05"
+  },
+  {
+    "title": "WICKERSLACK LANE, GOOGONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564872",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.390422821",
+    "longitude": "149.252197265",
+    "region": "nsw",
+    "time_of_call": "02 Sep 2024 23:10:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "139 WICKERSLACK LANE, GOOGONG 2620",
+    "council_area": "Queanbeyan-Palerang",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Sep 2024 23:10"
   }
 ]
