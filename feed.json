@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "03 Sep 2024 05:01:38"
+    "updated": "03 Sep 2024 05:45:34"
   },
   {
     "agency": "Ambulance",
@@ -70,6 +70,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
     "updated": "03 Sep 2024 05:02:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SPENCE",
+    "id": "053019-03092024",
+    "latitude": "-35.196073",
+    "longitude": "149.064742",
+    "region": "act",
+    "time_of_call": "03 Sep 2024 05:33:04",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SPENCE",
+    "updated": "03 Sep 2024 05:43:28"
   },
   {
     "title": "Front Tableland HR",
@@ -1120,7 +1138,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "139 ha",
-    "major_fire_update_as_at_2_sep_2024_9:09pm": "<a href='http://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12074' target='_blank'> More information</a>",
+    "major_fire_update_as_at_3_sep_2024_5:38am": "<a href='http://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12074' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Sep 2024 00:46"
   },
@@ -1945,9 +1963,9 @@
     "latitude": "-33.924007",
     "longitude": "150.893019999",
     "region": "nsw",
-    "time_of_call": "03 Sep 2024 05:20:00",
+    "time_of_call": "03 Sep 2024 05:33:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1960,28 +1978,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "3 Sep 2024 05:20"
-  },
-  {
-    "title": "BONVENTI CL, TUNCURRY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564885",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.174926758",
-    "longitude": "152.491470337",
-    "region": "nsw",
-    "time_of_call": "03 Sep 2024 05:20:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "ESTIA HEALTH TUNCURRY 4 BONVENTI CL, TUNCURRY 2428",
-    "council_area": "Mid-Coast",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Sep 2024 05:20"
+    "updated": "3 Sep 2024 05:33"
   }
 ]
