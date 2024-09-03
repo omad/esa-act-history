@@ -143,13 +143,13 @@
     "longitude": "149.099934",
     "region": "act",
     "time_of_call": "03 Sep 2024 20:48:33",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "03 Sep 2024 21:24:20"
+    "updated": "03 Sep 2024 21:37:09"
   },
   {
     "agency": "Ambulance",
@@ -179,13 +179,13 @@
     "longitude": "149.034875",
     "region": "act",
     "time_of_call": "03 Sep 2024 21:12:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "03 Sep 2024 21:28:06"
+    "updated": "03 Sep 2024 21:43:17"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "03 Sep 2024 21:26:15"
+    "updated": "03 Sep 2024 21:43:28"
   },
   {
     "agency": "Ambulance",
@@ -215,13 +215,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "03 Sep 2024 21:17:03",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "03 Sep 2024 21:19:46"
+    "updated": "03 Sep 2024 21:41:50"
   },
   {
     "title": "Front Tableland HR",
@@ -1014,9 +1014,9 @@
     "latitude": "-32.8125381469999",
     "longitude": "151.730667115",
     "region": "nsw",
-    "time_of_call": "03 Sep 2024 15:51:00",
+    "time_of_call": "03 Sep 2024 21:01:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1027,10 +1027,10 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "207 ha",
+    "size": "233 ha",
     "major_fire_update_as_at_3_sep_2024_5:08pm": "<a href='http://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12074' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Sep 2024 15:51"
+    "updated": "3 Sep 2024 21:01"
   },
   {
     "title": "MID WESTERN HWY, COWRA",
@@ -1612,28 +1612,6 @@
     "updated": "3 Sep 2024 20:52"
   },
   {
-    "title": "Cooinda Lane, Deniliquin",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564857",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.5665054319999",
-    "longitude": "144.98109436",
-    "region": "nsw",
-    "time_of_call": "02 Sep 2024 19:45:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "84 Cooinda Lane, Deniliquin, NSW 2710",
-    "council_area": "Edward River",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "2 Sep 2024 19:45"
-  },
-  {
     "title": "FCNSW Wedding Bells HRB",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564891",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1767,31 +1745,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Sep 2024 15:33"
-  },
-  {
-    "title": "Pye Rd, Quakers Hill",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564920",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.732141",
-    "longitude": "150.906488",
-    "region": "nsw",
-    "time_of_call": "03 Sep 2024 11:40:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Pye Rd, Quakers Hill, NSW 2763",
-    "council_area": "Blacktown",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "3 Sep 2024 11:40"
   },
   {
     "title": "Ralfes Trail ",
@@ -1975,31 +1928,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Sep 2024 13:51"
-  },
-  {
-    "title": "Llangothlin Rd, Guyra",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564948",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.207301",
-    "longitude": "151.672182",
-    "region": "nsw",
-    "time_of_call": "03 Sep 2024 14:03:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "111 Llangothlin Rd, Guyra, NSW 2365",
-    "council_area": "Armidale",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "3 Sep 2024 14:03"
   },
   {
     "title": "OLD GLEN INNES RD, BUCCARUMBI",
