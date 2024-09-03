@@ -117,7 +117,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "CRUIKSHANK STREET, WANNIASSA, 2903",
-    "updated": "03 Sep 2024 19:21:49"
+    "updated": "03 Sep 2024 19:33:14"
   },
   {
     "agency": "Ambulance",
@@ -191,7 +191,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "03 Sep 2024 19:19:28"
+    "updated": "03 Sep 2024 19:23:31"
   },
   {
     "agency": "Ambulance",
@@ -228,6 +228,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
     "updated": "03 Sep 2024 18:54:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BANKS",
+    "id": "053193-03092024",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
+    "region": "act",
+    "time_of_call": "03 Sep 2024 19:26:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BANKS",
+    "updated": "03 Sep 2024 19:30:12"
   },
   {
     "title": "Front Tableland HR",
@@ -1785,7 +1803,7 @@
     "latitude": "-29.5199124609999",
     "longitude": "153.158136273",
     "region": "nsw",
-    "time_of_call": "03 Sep 2024 16:53:00",
+    "time_of_call": "03 Sep 2024 19:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1797,7 +1815,7 @@
     "fire": "Yes",
     "size": "82 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "3 Sep 2024 16:53"
+    "updated": "3 Sep 2024 19:19"
   },
   {
     "title": "Jaspers",
@@ -2346,31 +2364,6 @@
     "updated": "3 Sep 2024 18:13"
   },
   {
-    "title": "BELLS LINE OF ROAD, KURRAJONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564988",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.5503311159999",
-    "longitude": "150.681884766",
-    "region": "nsw",
-    "time_of_call": "03 Sep 2024 18:17:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "BELLS LINE OF ROAD, KURRAJONG 2758",
-    "council_area": "Hawkesbury",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Sep 2024 18:17"
-  },
-  {
     "title": "CAPTAINS FLAT RD, PRIMROSE VALLEY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564991",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2396,6 +2389,28 @@
     "updated": "3 Sep 2024 18:40"
   },
   {
+    "title": "KELVIN RD, GUNNEDAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564993",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.942995071",
+    "longitude": "150.276123047",
+    "region": "nsw",
+    "time_of_call": "03 Sep 2024 19:31:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "CORINYA 351 KELVIN RD, GUNNEDAH 2380",
+    "council_area": "Gunnedah",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Sep 2024 19:31"
+  },
+  {
     "title": "THIRLMERE WAY, TAHMOOR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564994",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2418,29 +2433,26 @@
     "updated": "3 Sep 2024 19:00"
   },
   {
-    "title": "GWYDIR HWY, DELUNGRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564995",
+    "title": "CAPTAINS FLAT RD, PRIMROSE VALLEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564996",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.6214637759999",
-    "longitude": "150.747909546",
+    "latitude": "-35.465454102",
+    "longitude": "149.433761597",
     "region": "nsw",
-    "time_of_call": "03 Sep 2024 19:03:00",
+    "time_of_call": "03 Sep 2024 19:31:00",
     "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "GWYDIR HWY, DELUNGRA 2403",
-    "council_area": "Inverell",
-    "type": "Bush Fire",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "CAPTAINS FLAT RD, PRIMROSE VALLEY 2621",
+    "council_area": "Queanbeyan-Palerang",
+    "type": "MVA/Transport",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Sep 2024 19:03"
+    "updated": "3 Sep 2024 19:31"
   },
   {
     "title": "DORLAND ST, NIRIMBA FIELDS",
@@ -2485,5 +2497,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Sep 2024 19:15"
+  },
+  {
+    "title": "GALSTON RD, DURAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564999",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6693534849999",
+    "longitude": "151.037521363",
+    "region": "nsw",
+    "time_of_call": "03 Sep 2024 19:27:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "GALSTON RD, DURAL 2158",
+    "council_area": "Hornsby",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Sep 2024 19:27"
   }
 ]
