@@ -109,7 +109,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "05 Sep 2024 06:21:49"
+    "updated": "05 Sep 2024 06:29:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "053470-05092024",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "05 Sep 2024 06:26:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "05 Sep 2024 06:30:47"
   },
   {
     "title": "Front Tableland HR",
@@ -2099,9 +2117,9 @@
     "latitude": "-33.0239982599999",
     "longitude": "150.671157837",
     "region": "nsw",
-    "time_of_call": "05 Sep 2024 04:54:00",
+    "time_of_call": "05 Sep 2024 06:26:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -2112,9 +2130,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "7 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2024 04:54"
+    "updated": "5 Sep 2024 06:26"
   },
   {
     "title": "OLD NORTHERN RD, WISEMANS FERRY",
@@ -2137,5 +2155,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Sep 2024 06:16"
+  },
+  {
+    "title": "NEW ENGLAND HWY, BRANXTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565161",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.6657829279999",
+    "longitude": "151.369812012",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 06:22:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "2057 NEW ENGLAND HWY, BRANXTON 2335",
+    "council_area": "Cessnock",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 06:22"
   }
 ]
