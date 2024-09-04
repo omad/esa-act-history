@@ -73,25 +73,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "05 Sep 2024 06:06:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "053466-05092024",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "05 Sep 2024 06:15:45",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "05 Sep 2024 06:45:18"
+    "updated": "05 Sep 2024 07:04:12"
   },
   {
     "agency": "Ambulance",
@@ -103,13 +85,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "05 Sep 2024 06:19:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "05 Sep 2024 06:44:59"
+    "updated": "05 Sep 2024 07:03:20"
   },
   {
     "agency": "Ambulance",
@@ -128,6 +110,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
     "updated": "05 Sep 2024 06:30:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - PARKES",
+    "id": "053472-05092024",
+    "latitude": "-35.3001",
+    "longitude": "149.13847",
+    "region": "act",
+    "time_of_call": "05 Sep 2024 07:04:25",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
+    "location": "PARKES PLACE EAST, QUEEN ELIZABETH TERRACE, PARKES, 2600",
+    "updated": "05 Sep 2024 07:08:07"
   },
   {
     "title": "Front Tableland HR",
@@ -2097,7 +2097,7 @@
     "latitude": "-33.0239982599999",
     "longitude": "150.671157837",
     "region": "nsw",
-    "time_of_call": "05 Sep 2024 06:26:00",
+    "time_of_call": "05 Sep 2024 06:48:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -2110,9 +2110,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "7 ha",
+    "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2024 06:26"
+    "updated": "5 Sep 2024 06:48"
   },
   {
     "title": "OLD NORTHERN RD, WISEMANS FERRY",
@@ -2122,9 +2122,9 @@
     "latitude": "-33.390796661",
     "longitude": "150.986251831",
     "region": "nsw",
-    "time_of_call": "05 Sep 2024 06:16:00",
+    "time_of_call": "05 Sep 2024 07:12:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "OLD NORTHERN RD, WISEMANS FERRY 2775",
     "council_area": "The Hills",
@@ -2134,7 +2134,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2024 06:16"
+    "updated": "5 Sep 2024 07:12"
   },
   {
     "title": "NEW ENGLAND HWY, BRANXTON",
@@ -2157,5 +2157,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Sep 2024 06:22"
+  },
+  {
+    "title": "PACIFIC HWY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565163",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.1941661829999",
+    "longitude": "153.273635864",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 06:54:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "TABBIMOBILE REST AREA PACIFIC HWY (A1), TABBIMOBLE 2472",
+    "council_area": "Richmond Valley",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 06:54"
+  },
+  {
+    "title": "GOWAN RD, GOWAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565164",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.197040558",
+    "longitude": "149.320037842",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 07:11:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "COOLUMBALO PARK 436 GOWAN RD, GOWAN 2795",
+    "council_area": "Cabonne",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 07:11"
   }
 ]
