@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "05 Sep 2024 09:21:43"
+    "updated": "05 Sep 2024 09:47:32"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "05 Sep 2024 09:05:55"
+    "updated": "05 Sep 2024 09:32:21"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "05 Sep 2024 09:24:41"
+    "updated": "05 Sep 2024 09:47:06"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "05 Sep 2024 09:28:24"
+    "updated": "05 Sep 2024 09:35:39"
   },
   {
     "agency": "Ambulance",
@@ -229,13 +229,13 @@
     "longitude": "149.108737",
     "region": "act",
     "time_of_call": "05 Sep 2024 09:16:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TUGGERANONG",
-    "updated": "05 Sep 2024 09:18:26"
+    "updated": "05 Sep 2024 09:32:14"
   },
   {
     "agency": "Ambulance",
@@ -265,13 +265,31 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "05 Sep 2024 09:30:36",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": ""
+    "updated": "05 Sep 2024 09:37:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUME",
+    "id": "053500-05092024",
+    "latitude": "-35.383449",
+    "longitude": "149.170863",
+    "region": "act",
+    "time_of_call": "05 Sep 2024 09:33:18",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUME",
+    "updated": "05 Sep 2024 09:39:27"
   },
   {
     "title": "Front Tableland HR",
@@ -961,7 +979,7 @@
     "latitude": "-32.351607701",
     "longitude": "149.678132875",
     "region": "nsw",
-    "time_of_call": "04 Sep 2024 17:03:00",
+    "time_of_call": "05 Sep 2024 09:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -976,7 +994,7 @@
     "fire": "Yes",
     "size": "9 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Sep 2024 17:03"
+    "updated": "5 Sep 2024 09:31"
   },
   {
     "title": "Forestry HR Lorne ",
@@ -1033,7 +1051,7 @@
     "latitude": "-33.51110077",
     "longitude": "151.400619507",
     "region": "nsw",
-    "time_of_call": "04 Sep 2024 17:31:00",
+    "time_of_call": "05 Sep 2024 09:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1045,7 +1063,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "4 Sep 2024 17:31"
+    "updated": "5 Sep 2024 09:35"
   },
   {
     "title": "Horse Point Rd",
@@ -1196,7 +1214,7 @@
     "latitude": "-32.881702423",
     "longitude": "151.452285766",
     "region": "nsw",
-    "time_of_call": "04 Sep 2024 15:26:00",
+    "time_of_call": "05 Sep 2024 09:23:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1208,7 +1226,7 @@
     "fire": "Yes",
     "size": "64 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "4 Sep 2024 15:26"
+    "updated": "5 Sep 2024 09:23"
   },
   {
     "title": "Tucki Tucki HR",
@@ -1334,8 +1352,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564827",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.738571167",
-    "longitude": "151.779373169",
+    "latitude": "-32.7327073129999",
+    "longitude": "151.792387962",
     "region": "nsw",
     "time_of_call": "04 Sep 2024 08:31:00",
     "event_type": "burnt area",
@@ -1616,7 +1634,7 @@
     "latitude": "-33.091685367",
     "longitude": "151.223287582",
     "region": "nsw",
-    "time_of_call": "04 Sep 2024 16:07:00",
+    "time_of_call": "05 Sep 2024 09:39:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1628,7 +1646,7 @@
     "fire": "Yes",
     "size": "20 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "4 Sep 2024 16:07"
+    "updated": "5 Sep 2024 09:39"
   },
   {
     "title": "YESTER RD, WENTWORTH FALLS",
@@ -2144,7 +2162,7 @@
     "latitude": "-35.695524232",
     "longitude": "149.444330191",
     "region": "nsw",
-    "time_of_call": "04 Sep 2024 23:21:00",
+    "time_of_call": "05 Sep 2024 09:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -2157,9 +2175,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Sep 2024 23:21"
+    "updated": "5 Sep 2024 09:38"
   },
   {
     "title": "Bartlett St, Moama",
@@ -2354,9 +2372,9 @@
     "latitude": "-32.467273712",
     "longitude": "149.626937867",
     "region": "nsw",
-    "time_of_call": "05 Sep 2024 08:33:00",
+    "time_of_call": "05 Sep 2024 09:38:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "HENRY LAWSON DR, ST FILLANS 2850",
     "council_area": "Mid-Western",
@@ -2366,7 +2384,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2024 08:33"
+    "updated": "5 Sep 2024 09:38"
   },
   {
     "title": "HEZ DR, RICHMOND VALE",
@@ -2436,5 +2454,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Sep 2024 09:03"
+  },
+  {
+    "title": "DARRUYA RD, NORTH MACKSVILLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565176",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.694126129",
+    "longitude": "152.943939209",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 09:31:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "100 DARRUYA RD, NORTH MACKSVILLE 2447",
+    "council_area": "Nambucca",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 09:31"
+  },
+  {
+    "title": "MITCHELL HWY, MOLONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565177",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.1232986439999",
+    "longitude": "148.960754394",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 09:36:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "2319 MITCHELL HWY, MOLONG 2866",
+    "council_area": "Cabonne",
+    "type": "Haystack fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_6.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 09:36"
   }
 ]
