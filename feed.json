@@ -79,24 +79,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "053421-04092024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "04 Sep 2024 21:19:22",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "04 Sep 2024 21:56:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BANKS",
     "id": "053423-04092024",
     "latitude": "-35.471552",
@@ -145,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "04 Sep 2024 22:16:55"
+    "updated": "04 Sep 2024 22:57:40"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +145,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
-    "updated": "04 Sep 2024 22:43:21"
+    "updated": "04 Sep 2024 22:44:42"
   },
   {
     "agency": "Ambulance",
@@ -175,13 +157,13 @@
     "longitude": "149.097085",
     "region": "act",
     "time_of_call": "04 Sep 2024 22:34:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "04 Sep 2024 22:38:25"
+    "updated": "04 Sep 2024 22:48:21"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +181,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "04 Sep 2024 22:40:21"
+    "updated": "04 Sep 2024 22:48:59"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +199,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "04 Sep 2024 22:40:56"
+    "updated": "04 Sep 2024 22:49:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NICHOLLS",
+    "id": "053433-04092024",
+    "latitude": "-35.186387",
+    "longitude": "149.094445",
+    "region": "act",
+    "time_of_call": "04 Sep 2024 23:04:04",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NICHOLLS",
+    "updated": "04 Sep 2024 23:05:27"
   },
   {
     "title": "Front Tableland HR",
@@ -2198,5 +2198,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "4 Sep 2024 22:33"
+  },
+  {
+    "title": "KULLAROO RD, SUMMERLAND POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565148",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.1336212159999",
+    "longitude": "151.561843873",
+    "region": "nsw",
+    "time_of_call": "04 Sep 2024 22:54:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "53 KULLAROO RD, SUMMERLAND POINT 2259",
+    "council_area": "Lake Macquarie",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Sep 2024 22:54"
+  },
+  {
+    "title": "WALKER CR, WELLINGTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565149",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.55027008",
+    "longitude": "148.955307006",
+    "region": "nsw",
+    "time_of_call": "04 Sep 2024 23:00:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "NEXT TO 33 WALKER CR, WELLINGTON 2820",
+    "council_area": "Dubbo Regional",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "4 Sep 2024 23:00"
   }
 ]
