@@ -151,24 +151,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NICHOLLS",
-    "id": "053433-04092024",
-    "latitude": "-35.186387",
-    "longitude": "149.094445",
-    "region": "act",
-    "time_of_call": "04 Sep 2024 23:04:04",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NICHOLLS",
-    "updated": "04 Sep 2024 23:59:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PAGE",
     "id": "053434-04092024",
     "latitude": "-35.238051",
@@ -181,7 +163,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "04 Sep 2024 23:18:17"
+    "updated": "05 Sep 2024 00:47:11"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +235,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "05 Sep 2024 00:23:28"
+    "updated": "05 Sep 2024 00:46:50"
   },
   {
     "agency": "Ambulance",
@@ -272,6 +254,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
     "updated": "05 Sep 2024 00:31:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "053442-05092024",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "05 Sep 2024 00:35:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GRIFFITH",
+    "updated": "05 Sep 2024 00:40:51"
   },
   {
     "title": "Front Tableland HR",
@@ -1776,7 +1776,7 @@
     "latitude": "-32.668296813",
     "longitude": "151.951660156",
     "region": "nsw",
-    "time_of_call": "03 Sep 2024 17:09:00",
+    "time_of_call": "05 Sep 2024 00:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1791,7 +1791,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Sep 2024 17:09"
+    "updated": "5 Sep 2024 00:42"
   },
   {
     "title": "SUMMERLAND WAY, UNUMGAR",
@@ -2299,5 +2299,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Sep 2024 00:04"
+  },
+  {
+    "title": "Mitchell Rd, Alexandria",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565152",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.900111001",
+    "longitude": "151.193888",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 00:45:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Mitchell Rd, Alexandria, NSW 2015",
+    "council_area": "Sydney",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 Sep 2024 00:45"
   }
 ]
