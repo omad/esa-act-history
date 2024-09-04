@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "05 Sep 2024 07:03:20"
+    "updated": "05 Sep 2024 07:41:18"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "05 Sep 2024 06:30:47"
+    "updated": "05 Sep 2024 07:30:36"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "PARKES PLACE EAST, QUEEN ELIZABETH TERRACE, PARKES, 2600",
-    "updated": "05 Sep 2024 07:20:17"
+    "updated": "05 Sep 2024 07:48:34"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +139,13 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "05 Sep 2024 07:23:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "05 Sep 2024 07:26:16"
+    "updated": "05 Sep 2024 07:31:43"
   },
   {
     "title": "Front Tableland HR",
@@ -1722,8 +1722,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564991",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.4557073",
-    "longitude": "149.131450462",
+    "latitude": "-35.453860399",
+    "longitude": "149.418439865",
     "region": "nsw",
     "time_of_call": "05 Sep 2024 00:53:00",
     "event_type": "burnt area",
@@ -2115,7 +2115,7 @@
     "latitude": "-33.0239982599999",
     "longitude": "150.671157837",
     "region": "nsw",
-    "time_of_call": "05 Sep 2024 07:20:00",
+    "time_of_call": "05 Sep 2024 07:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -2130,7 +2130,29 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2024 07:20"
+    "updated": "5 Sep 2024 07:33"
+  },
+  {
+    "title": "DOONSIDE RD, ARNDELL PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565159",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.787281036",
+    "longitude": "150.872070313",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 05:47:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "DOONSIDE RD, ARNDELL PARK 2148",
+    "council_area": "Blacktown",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 Sep 2024 05:47"
   },
   {
     "title": "OLD NORTHERN RD, WISEMANS FERRY",
@@ -2217,5 +2239,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Sep 2024 07:11"
+  },
+  {
+    "title": "SETTLERS WAY, SOUTH KEMPSEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565165",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.1267604829999",
+    "longitude": "152.858047485",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 07:21:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "154 SETTLERS WAY, SOUTH KEMPSEY 2440",
+    "council_area": "Kempsey",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 Sep 2024 07:21"
+  },
+  {
+    "title": "GIBSONS RD, LOVEDALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565166",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.795726776",
+    "longitude": "151.394378662",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 07:41:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "GIBSONS RD, LOVEDALE 2325",
+    "council_area": "Cessnock",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 07:41"
   }
 ]
