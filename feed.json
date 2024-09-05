@@ -77,24 +77,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - STIRLING",
-    "id": "053658-05092024",
-    "latitude": "-35.351472",
-    "longitude": "149.046603",
-    "region": "act",
-    "time_of_call": "05 Sep 2024 22:34:35",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "STIRLING",
-    "updated": "05 Sep 2024 23:44:13"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HOLT",
     "id": "053663-05092024",
     "latitude": "-35.224201",
@@ -125,7 +107,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "06 Sep 2024 00:08:22"
+    "updated": "06 Sep 2024 00:27:35"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +119,13 @@
     "longitude": "149.036735",
     "region": "act",
     "time_of_call": "05 Sep 2024 23:33:02",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "06 Sep 2024 00:17:14"
+    "updated": "06 Sep 2024 00:26:00"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +197,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "06 Sep 2024 00:20:14"
+    "updated": "06 Sep 2024 00:21:22"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +215,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "06 Sep 2024 00:20:05"
+    "updated": "06 Sep 2024 00:21:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "053672-06092024",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "06 Sep 2024 00:22:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "06 Sep 2024 00:26:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GIRALANG",
+    "id": "053673-06092024",
+    "latitude": "-35.210049",
+    "longitude": "149.100175",
+    "region": "act",
+    "time_of_call": "06 Sep 2024 00:24:17",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GIRALANG",
+    "updated": "06 Sep 2024 00:32:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "053674-06092024",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "06 Sep 2024 00:33:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "06 Sep 2024 00:33:25"
   },
   {
     "title": "Hallidays Road HR",
@@ -2049,5 +2085,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Sep 2024 21:14"
+  },
+  {
+    "title": "Wakehurst Pwy, North Narrabeen",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565283",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.710952",
+    "longitude": "151.292377",
+    "region": "nsw",
+    "time_of_call": "06 Sep 2024 00:31:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Wakehurst Pwy, North Narrabeen, NSW 2101",
+    "council_area": "Northern Beaches",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "6 Sep 2024 00:31"
   }
 ]
