@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "05 Sep 2024 22:36:50"
+    "updated": "05 Sep 2024 23:00:20"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +119,13 @@
     "longitude": "149.126815",
     "region": "act",
     "time_of_call": "05 Sep 2024 21:57:16",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "05 Sep 2024 22:01:13"
+    "updated": "05 Sep 2024 23:02:22"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,13 @@
     "longitude": "149.135062",
     "region": "act",
     "time_of_call": "05 Sep 2024 22:06:26",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "05 Sep 2024 22:09:22"
+    "updated": "05 Sep 2024 23:01:31"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA CENTRAL",
-    "updated": "05 Sep 2024 22:37:35"
+    "updated": "05 Sep 2024 22:50:56"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "05 Sep 2024 22:35:59"
+    "updated": "05 Sep 2024 22:48:15"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +191,49 @@
     "longitude": "149.046603",
     "region": "act",
     "time_of_call": "05 Sep 2024 22:34:35",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STIRLING",
+    "updated": "05 Sep 2024 22:57:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THEODORE",
+    "id": "053659-05092024",
+    "latitude": "-35.449632",
+    "longitude": "149.120754",
+    "region": "act",
+    "time_of_call": "05 Sep 2024 22:48:55",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "STIRLING",
-    "updated": "05 Sep 2024 22:37:10"
+    "location": "THEODORE",
+    "updated": "05 Sep 2024 22:58:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "053660-05092024",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "05 Sep 2024 22:56:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "05 Sep 2024 23:02:44"
   },
   {
     "title": "Hallidays Road HR",
@@ -2015,31 +2051,6 @@
     "updated": "5 Sep 2024 21:14"
   },
   {
-    "title": "Landa Pde, Waratah West",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565276",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.8990939999999",
-    "longitude": "151.709628",
-    "region": "nsw",
-    "time_of_call": "05 Sep 2024 22:16:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Landa Pde, Waratah West, NSW 2298",
-    "council_area": "Newcastle",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Sep 2024 22:16"
-  },
-  {
     "title": "BRUXNER HWY, PIORA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565277",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2047,9 +2058,9 @@
     "latitude": "-28.8476448059999",
     "longitude": "152.89642334",
     "region": "nsw",
-    "time_of_call": "05 Sep 2024 22:26:00",
+    "time_of_call": "05 Sep 2024 22:46:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "4740 BRUXNER HWY, PIORA 2470",
     "council_area": "Richmond Valley",
@@ -2057,6 +2068,66 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2024 22:26"
+    "updated": "5 Sep 2024 22:46"
+  },
+  {
+    "title": "INVERELL ST, DELUNGRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565278",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.656101227",
+    "longitude": "150.834533691",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 22:50:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "79 INVERELL ST, DELUNGRA 2403",
+    "council_area": "Inverell",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 22:50"
+  },
+  {
+    "title": "WATERFALL WAY, EBOR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565279",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.40225029",
+    "longitude": "152.349334716",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 22:57:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "WATERFALL WAY, EBOR 2453",
+    "council_area": "Armidale",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 22:57"
+  },
+  {
+    "title": "SUNPATCH PDE, TOMAKIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565280",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.827701568",
+    "longitude": "150.188461304",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 22:57:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "66 SUNPATCH PDE, TOMAKIN 2537",
+    "council_area": "Eurobodalla",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 22:57"
   }
 ]
