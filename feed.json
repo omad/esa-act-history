@@ -40,26 +40,6 @@
     "updated": "03 Sep 2024 10:07:51"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "ANIMAL RESCUE - MONCRIEFF",
-    "id": "012585-05092024",
-    "latitude": "-35.16381",
-    "longitude": "149.11551",
-    "region": "act",
-    "time_of_call": "05 Sep 2024 11:23:04",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "ANIMAL RESCUE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
-    "location": "RUBY HUNTER RISE, MONCRIEFF, 2914",
-    "updated": "05 Sep 2024 12:40:50"
-  },
-  {
     "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -76,8 +56,8 @@
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
-    "location": "BREWER STREET, MELROSE DRIVE, LYONS, 2606",
-    "updated": "05 Sep 2024 13:34:54"
+    "location": "7/179, MELROSE DRIVE, LYONS, 2606",
+    "updated": "05 Sep 2024 13:47:16"
   },
   {
     "agency": "Ambulance",
@@ -131,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "05 Sep 2024 12:57:03"
+    "updated": "05 Sep 2024 13:43:46"
   },
   {
     "agency": "Ambulance",
@@ -185,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FYSHWICK",
-    "updated": "05 Sep 2024 13:25:19"
+    "updated": "05 Sep 2024 13:40:15"
   },
   {
     "agency": "Ambulance",
@@ -233,13 +213,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "05 Sep 2024 12:55:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "05 Sep 2024 13:30:18"
+    "updated": "05 Sep 2024 13:40:45"
   },
   {
     "agency": "Ambulance",
@@ -311,7 +291,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "05 Sep 2024 13:33:41"
+    "updated": "05 Sep 2024 13:38:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "053549-05092024",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "05 Sep 2024 13:35:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "05 Sep 2024 13:40:03"
   },
   {
     "title": "Front Tableland HR",
@@ -566,7 +564,7 @@
     "latitude": "-33.605085376",
     "longitude": "151.324514151",
     "region": "nsw",
-    "time_of_call": "05 Sep 2024 10:48:00",
+    "time_of_call": "05 Sep 2024 13:37:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -578,7 +576,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Sep 2024 10:48"
+    "updated": "5 Sep 2024 13:37"
   },
   {
     "title": "RAZORBACK CREEK RD, RIVERTREE",
@@ -2207,31 +2205,6 @@
     "updated": "5 Sep 2024 12:23"
   },
   {
-    "title": "SELINA ST, BENDEMEER",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565197",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.883291244",
-    "longitude": "151.15840149",
-    "region": "nsw",
-    "time_of_call": "05 Sep 2024 12:20:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "SELINA ST, BENDEMEER 2355",
-    "council_area": "Tamworth",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2024 12:20"
-  },
-  {
     "title": "THOMPSONS RD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565202",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2250,6 +2223,50 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Sep 2024 12:23"
+  },
+  {
+    "title": "GIINAGAY WAY, VALLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565207",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.6222858429999",
+    "longitude": "152.97567749",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 13:01:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "GIINAGAY WAY, VALLA 2448",
+    "council_area": "Nambucca",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 13:01"
+  },
+  {
+    "title": "HUNTERS RD, EWINGAR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565209",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.091724396",
+    "longitude": "152.548431397",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 13:05:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "HUNTERS RD, EWINGAR 2469",
+    "council_area": "Clarence Valley",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 13:05"
   },
   {
     "title": "LITTLE JILLIBY RD, JILLIBY",
@@ -2275,5 +2292,55 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Sep 2024 13:18"
+  },
+  {
+    "title": "CLOUGHS RD, YARRAGUNDRY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565211",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.148391724",
+    "longitude": "147.218521118",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 13:37:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "276 CLOUGHS RD, YARRAGUNDRY 2650",
+    "council_area": "Wagga Wagga",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 13:37"
+  },
+  {
+    "title": "FLOWERS DR, CATHERINE HILL BAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565212",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.1360092159999",
+    "longitude": "151.627044678",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2024 13:41:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "FLOWERS DR, CATHERINE HILL BAY 2281",
+    "council_area": "Lake Macquarie",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2024 13:41"
   }
 ]
