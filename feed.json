@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "053831-06092024",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
-    "region": "act",
-    "time_of_call": "06 Sep 2024 16:39:10",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "06 Sep 2024 19:18:01"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - LATHAM",
     "id": "053845-06092024",
     "latitude": "-35.217781",
@@ -73,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "06 Sep 2024 19:18:47"
+    "updated": "06 Sep 2024 19:33:31"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "06 Sep 2024 18:48:33"
+    "updated": "06 Sep 2024 19:31:19"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "06 Sep 2024 19:21:58"
+    "updated": "06 Sep 2024 19:32:20"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +229,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "06 Sep 2024 19:13:50",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "06 Sep 2024 19:20:50"
+    "updated": "06 Sep 2024 19:34:02"
   },
   {
     "agency": "Ambulance",
@@ -272,6 +254,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
     "updated": "06 Sep 2024 19:17:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "053866-06092024",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "06 Sep 2024 19:32:09",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "06 Sep 2024 19:34:38"
   },
   {
     "title": "Hallidays Road HR",
@@ -1413,7 +1413,7 @@
     "latitude": "-32.845878601",
     "longitude": "151.464950561",
     "region": "nsw",
-    "time_of_call": "05 Sep 2024 08:41:00",
+    "time_of_call": "06 Sep 2024 19:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1425,7 +1425,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2024 08:41"
+    "updated": "6 Sep 2024 19:30"
   },
   {
     "title": "Rayners South HR",
@@ -1473,31 +1473,6 @@
     "size": "1122 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Sep 2024 14:44"
-  },
-  {
-    "title": "BOYDS LANE, STOCKINBINGAL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565232",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.4236488339999",
-    "longitude": "147.851379394",
-    "region": "nsw",
-    "time_of_call": "05 Sep 2024 16:39:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "BOYDS LANE, STOCKINBINGAL 2725",
-    "council_area": "Temora",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "2 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2024 16:39"
   },
   {
     "title": "WHIPBIRD DR, ASHBY HEIGHTS",
@@ -1880,27 +1855,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Sep 2024 18:41"
-  },
-  {
-    "title": "COMUR ST, YASS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565391",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.8471298219999",
-    "longitude": "148.914596558",
-    "region": "nsw",
-    "time_of_call": "06 Sep 2024 19:18:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "CORONATION PARK 259 COMUR ST, YASS 2582",
-    "council_area": "Yass Valley",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Sep 2024 19:18"
   }
 ]
