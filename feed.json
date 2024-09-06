@@ -1,26 +1,6 @@
 [
   {
     "agency": "Fire",
-    "alert_level": "Advice",
-    "event_type": "incident",
-    "title": "GRASS AND BUSH FIRE - KINGSTON",
-    "id": "012646-06092024",
-    "latitude": "-35.314788",
-    "longitude": "149.153513",
-    "region": "act",
-    "time_of_call": "06 Sep 2024 13:53:22",
-    "status": "Out / Completed",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "GRASS AND BUSH FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
-    "location": "EYRE STREET, BLUEBERRY STREET, KINGSTON, 2604",
-    "updated": "06 Sep 2024 16:27:52"
-  },
-  {
-    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "HOUSE FIRE - HOLT",
@@ -93,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "06 Sep 2024 17:01:06"
+    "updated": "06 Sep 2024 17:22:00"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "06 Sep 2024 17:04:41"
+    "updated": "06 Sep 2024 17:20:25"
   },
   {
     "agency": "Ambulance",
@@ -274,6 +254,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
     "updated": "06 Sep 2024 17:18:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "053840-06092024",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "06 Sep 2024 17:22:25",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "06 Sep 2024 17:27:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BARTON",
+    "id": "053841-06092024",
+    "latitude": "-35.309306",
+    "longitude": "149.13437",
+    "region": "act",
+    "time_of_call": "06 Sep 2024 17:28:07",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BARTON",
+    "updated": "06 Sep 2024 17:28:43"
   },
   {
     "title": "Hallidays Road HR",
@@ -1777,28 +1793,6 @@
     "updated": "6 Sep 2024 15:50"
   },
   {
-    "title": "CANA RD, WERRIS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565367",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.3299865719999",
-    "longitude": "150.563018799",
-    "region": "nsw",
-    "time_of_call": "06 Sep 2024 15:38:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "WOODSTOCK 282 CANA RD, WERRIS CREEK 2341",
-    "council_area": "Liverpool Plains",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 15:38"
-  },
-  {
     "title": "MAMRE RD, KEMPS CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565370",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1959,26 +1953,6 @@
     "updated": "6 Sep 2024 17:00"
   },
   {
-    "title": "WEST KAMERUKA RD, KAMERUKA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565382",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.736412049",
-    "longitude": "149.704833984",
-    "region": "nsw",
-    "time_of_call": "06 Sep 2024 17:06:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "WEST KAMERUKA RD, KAMERUKA 2550",
-    "council_area": "Bega Valley",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 17:06"
-  },
-  {
     "title": "DURREN RD, JILLIBY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565383",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1986,9 +1960,9 @@
     "latitude": "-33.2101669309999",
     "longitude": "151.384429932",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 17:07:00",
+    "time_of_call": "06 Sep 2024 17:17:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "204 DURREN RD, JILLIBY 2259",
     "council_area": "Central Coast",
@@ -1996,6 +1970,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 17:07"
+    "updated": "6 Sep 2024 17:17"
   }
 ]
