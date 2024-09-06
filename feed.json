@@ -27,31 +27,13 @@
     "longitude": "149.101598",
     "region": "act",
     "time_of_call": "07 Sep 2024 02:22:28",
-    "status": "Units On Route",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "07 Sep 2024 02:48:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "053917-07092024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "07 Sep 2024 02:24:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "07 Sep 2024 02:49:58"
+    "updated": "07 Sep 2024 03:17:46"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "07 Sep 2024 02:38:30"
+    "updated": "07 Sep 2024 03:00:15"
   },
   {
     "agency": "Ambulance",
@@ -88,6 +70,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
     "updated": "07 Sep 2024 02:49:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MAWSON",
+    "id": "053920-07092024",
+    "latitude": "-35.361049",
+    "longitude": "149.099386",
+    "region": "act",
+    "time_of_call": "07 Sep 2024 02:59:59",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MAWSON",
+    "updated": "07 Sep 2024 03:02:56"
   },
   {
     "title": "Hallidays Road HR",
@@ -185,7 +185,7 @@
     "latitude": "-34.2343912630555",
     "longitude": "146.057679175283",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 08:16:00",
+    "time_of_call": "07 Sep 2024 03:14:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -200,7 +200,7 @@
     "fire": "Yes",
     "size": "6 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 08:16"
+    "updated": "7 Sep 2024 03:14"
   },
   {
     "title": "Wood Creek HR",
@@ -210,7 +210,7 @@
     "latitude": "-33.6099243159999",
     "longitude": "150.641845704",
     "region": "nsw",
-    "time_of_call": "05 Sep 2024 12:13:00",
+    "time_of_call": "07 Sep 2024 03:16:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -222,7 +222,7 @@
     "fire": "Yes",
     "size": "250 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "5 Sep 2024 12:13"
+    "updated": "7 Sep 2024 03:16"
   },
   {
     "title": "JOBS MOUNTAIN, FIVE DAY CREEK",
@@ -270,28 +270,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "5 Sep 2024 13:37"
-  },
-  {
-    "title": "Dangarsleigh Road HR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_564413",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.531410218",
-    "longitude": "151.671630859",
-    "region": "nsw",
-    "time_of_call": "05 Sep 2024 21:38:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "8 MURTAGH CL, ARMIDALE 2350",
-    "council_area": "Armidale",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "10 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Sep 2024 21:38"
   },
   {
     "title": "Pee Dee",
@@ -492,7 +470,7 @@
     "latitude": "-28.998901417",
     "longitude": "152.251904096",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 16:24:00",
+    "time_of_call": "07 Sep 2024 02:49:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -507,7 +485,7 @@
     "fire": "Yes",
     "size": "828 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 16:24"
+    "updated": "7 Sep 2024 02:49"
   },
   {
     "title": "South Basin Rd",
@@ -517,7 +495,7 @@
     "latitude": "-32.881702423",
     "longitude": "151.452285766",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 13:09:00",
+    "time_of_call": "07 Sep 2024 03:12:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -529,7 +507,7 @@
     "fire": "Yes",
     "size": "64 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "6 Sep 2024 13:09"
+    "updated": "7 Sep 2024 03:12"
   },
   {
     "title": "TAYLORS ARM RD, THUMB CREEK",
@@ -564,7 +542,7 @@
     "latitude": "-32.7327073129999",
     "longitude": "151.792387962",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 16:33:00",
+    "time_of_call": "07 Sep 2024 03:00:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -576,7 +554,7 @@
     "fire": "Yes",
     "size": "37 ha",
     "responsible_agency": "Water NSW",
-    "updated": "6 Sep 2024 16:33"
+    "updated": "7 Sep 2024 03:00"
   },
   {
     "title": "THE LAKES WAY, TUNCURRY",
@@ -796,7 +774,7 @@
     "latitude": "-33.724832227",
     "longitude": "150.380516052",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 14:57:00",
+    "time_of_call": "07 Sep 2024 03:06:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -808,7 +786,7 @@
     "fire": "Yes",
     "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 14:57"
+    "updated": "7 Sep 2024 03:06"
   },
   {
     "title": "Bulahdelah Markwell HRB",
@@ -840,7 +818,7 @@
     "latitude": "-33.661705018",
     "longitude": "150.645599366",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 15:21:00",
+    "time_of_call": "07 Sep 2024 03:06:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -852,7 +830,7 @@
     "fire": "Yes",
     "size": "3 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 15:21"
+    "updated": "7 Sep 2024 03:06"
   },
   {
     "title": "Gun Club Rd HR",
@@ -862,7 +840,7 @@
     "latitude": "-32.951909695",
     "longitude": "151.72539711",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 17:04:00",
+    "time_of_call": "07 Sep 2024 02:58:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -874,7 +852,7 @@
     "fire": "Yes",
     "size": "20 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "6 Sep 2024 17:04"
+    "updated": "7 Sep 2024 02:58"
   },
   {
     "title": "TAREAN RD, KARUAH",
@@ -884,7 +862,7 @@
     "latitude": "-32.668296813",
     "longitude": "151.951660156",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 06:54:00",
+    "time_of_call": "07 Sep 2024 02:59:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -899,7 +877,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 06:54"
+    "updated": "7 Sep 2024 02:59"
   },
   {
     "title": "SUMMERLAND WAY, UNUMGAR",
@@ -952,28 +930,6 @@
     "updated": "6 Sep 2024 16:54"
   },
   {
-    "title": "GOREMANS RD, EUREKA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565020",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.696678162",
-    "longitude": "153.45022583",
-    "region": "nsw",
-    "time_of_call": "06 Sep 2024 16:06:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "HILLCREST 345 GOREMANS RD, EUREKA 2480",
-    "council_area": "Byron",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 16:06"
-  },
-  {
     "title": "CONGEWAI RD, CONGEWAI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565021",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -981,7 +937,7 @@
     "latitude": "-32.9925880439999",
     "longitude": "151.274566651",
     "region": "nsw",
-    "time_of_call": "07 Sep 2024 02:17:00",
+    "time_of_call": "07 Sep 2024 03:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -993,7 +949,7 @@
     "fire": "Yes",
     "size": "41 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Sep 2024 02:17"
+    "updated": "7 Sep 2024 03:13"
   },
   {
     "title": "Forestry HR Broken Bago-Milligan's ",
@@ -1047,7 +1003,7 @@
     "latitude": "-33.49937556",
     "longitude": "150.794406099",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 09:59:00",
+    "time_of_call": "07 Sep 2024 03:14:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1059,7 +1015,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 09:59"
+    "updated": "7 Sep 2024 03:14"
   },
   {
     "title": "Haystack HR",
@@ -1091,7 +1047,7 @@
     "latitude": "-32.862949371",
     "longitude": "151.397888183",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 19:36:00",
+    "time_of_call": "07 Sep 2024 03:11:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1103,7 +1059,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 19:36"
+    "updated": "7 Sep 2024 03:11"
   },
   {
     "title": "WILD CATTLE FLAT RD, JINGERA",
@@ -1138,7 +1094,7 @@
     "latitude": "-32.99376297",
     "longitude": "151.281829834",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 06:53:00",
+    "time_of_call": "07 Sep 2024 03:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1153,7 +1109,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 06:53"
+    "updated": "7 Sep 2024 03:10"
   },
   {
     "title": "GENTLE DESTINY RD, FROGMORE",
@@ -1176,28 +1132,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Sep 2024 19:35"
-  },
-  {
-    "title": "GOWAN RD, GOWAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565164",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.197040558",
-    "longitude": "149.320037842",
-    "region": "nsw",
-    "time_of_call": "06 Sep 2024 10:18:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "COOLUMBALO PARK 436 GOWAN RD, GOWAN 2795",
-    "council_area": "Cabonne",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "17 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 10:18"
   },
   {
     "title": "SETTLERS WAY, SOUTH KEMPSEY",
@@ -1229,7 +1163,7 @@
     "latitude": "-32.845878601",
     "longitude": "151.464950561",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 19:30:00",
+    "time_of_call": "07 Sep 2024 02:53:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1241,7 +1175,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 19:30"
+    "updated": "7 Sep 2024 02:53"
   },
   {
     "title": "Rayners South HR",
@@ -1291,28 +1225,6 @@
     "updated": "6 Sep 2024 14:44"
   },
   {
-    "title": "WHIPBIRD DR, ASHBY HEIGHTS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565296",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.406999588",
-    "longitude": "153.177886963",
-    "region": "nsw",
-    "time_of_call": "06 Sep 2024 08:35:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "16 WHIPBIRD DR, ASHBY HEIGHTS 2463",
-    "council_area": "Clarence Valley",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 08:35"
-  },
-  {
     "title": "KING RD, MOUNT VIEW",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565300",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1320,7 +1232,7 @@
     "latitude": "-32.844783783",
     "longitude": "151.25428772",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 16:23:00",
+    "time_of_call": "07 Sep 2024 03:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1332,7 +1244,7 @@
     "fire": "Yes",
     "size": "7 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 16:23"
+    "updated": "7 Sep 2024 03:10"
   },
   {
     "title": "Native Grove HR",
@@ -1364,7 +1276,7 @@
     "latitude": "-28.4337196349999",
     "longitude": "153.538589478",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 12:52:00",
+    "time_of_call": "07 Sep 2024 03:03:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1376,7 +1288,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 12:52"
+    "updated": "7 Sep 2024 03:03"
   },
   {
     "title": "RICKARDS RD, CASTLEREAGH",
@@ -1408,7 +1320,7 @@
     "latitude": "-34.882598877",
     "longitude": "150.592514039",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 14:14:00",
+    "time_of_call": "07 Sep 2024 03:01:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1423,7 +1335,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Sep 2024 14:14"
+    "updated": "7 Sep 2024 03:01"
   },
   {
     "title": "FOURTH AV, AUSTRAL",
@@ -1474,26 +1386,6 @@
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Sep 2024 16:22"
-  },
-  {
-    "title": "Lockwood Rise, Kelso",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565353",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.4049911499999",
-    "longitude": "149.62046814",
-    "region": "nsw",
-    "time_of_call": "06 Sep 2024 15:50:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "12 Lockwood Rise, Kelso",
-    "council_area": "Bathurst",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 15:50"
   },
   {
     "title": "NEWELL HWY, COONABARABRAN",
@@ -1569,10 +1461,10 @@
     "latitude": "-33.2101669309999",
     "longitude": "151.384429932",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 18:26:00",
+    "time_of_call": "07 Sep 2024 02:52:00",
     "event_type": "burnt area",
     "status": "Under control",
-    "alert_level": "Not Applicable",
+    "alert_level": "Planned Burn",
     "location": "204 DURREN RD, JILLIBY 2259",
     "council_area": "Central Coast",
     "type": "Hazard Reduction",
@@ -1581,7 +1473,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 18:26"
+    "updated": "7 Sep 2024 02:52"
   },
   {
     "title": "BENTLEY RD, BENTLEY",
@@ -1631,50 +1523,6 @@
     "updated": "7 Sep 2024 02:43"
   },
   {
-    "title": "NICHOLLS DR, YASS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565392",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.856517792",
-    "longitude": "148.918914795",
-    "region": "nsw",
-    "time_of_call": "06 Sep 2024 19:36:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "NICHOLLS DR, YASS 2582",
-    "council_area": "Yass Valley",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Sep 2024 19:36"
-  },
-  {
-    "title": "AMBER WAY, KUNDABUNG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565400",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.1811161049999",
-    "longitude": "152.817382812",
-    "region": "nsw",
-    "time_of_call": "06 Sep 2024 22:03:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "60 AMBER WAY, KUNDABUNG 2441",
-    "council_area": "Kempsey",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 22:03"
-  },
-  {
     "title": "MACPHERSON RD, LONDONDERRY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565403",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1704,7 +1552,7 @@
     "latitude": "-33.874031067",
     "longitude": "150.817306518",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 23:52:00",
+    "time_of_call": "07 Sep 2024 02:55:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1716,7 +1564,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2024 23:52"
+    "updated": "7 Sep 2024 02:55"
   },
   {
     "title": "MITCHELL HWY, GIRILAMBONE",
@@ -1746,7 +1594,7 @@
     "latitude": "-33.703990936",
     "longitude": "150.36592102",
     "region": "nsw",
-    "time_of_call": "07 Sep 2024 01:35:00",
+    "time_of_call": "07 Sep 2024 02:51:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1756,7 +1604,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Sep 2024 01:35"
+    "updated": "7 Sep 2024 02:51"
   },
   {
     "title": "SUMMERLAND WAY, CARRS CREEK",
@@ -1766,9 +1614,9 @@
     "latitude": "-29.653066635",
     "longitude": "152.929519653",
     "region": "nsw",
-    "time_of_call": "07 Sep 2024 02:02:00",
+    "time_of_call": "07 Sep 2024 02:49:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "785 SUMMERLAND WAY, CARRS CREEK 2460",
     "council_area": "Clarence Valley",
@@ -1776,6 +1624,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Sep 2024 02:02"
+    "updated": "7 Sep 2024 02:49"
   }
 ]
