@@ -29,15 +29,15 @@
     "longitude": "149.06372493",
     "region": "act",
     "time_of_call": "06 Sep 2024 17:49:47",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_0.svg",
     "status_filter_label": "Active",
     "type": "ELECTRICAL THREAT OR POWER LINES DOWN",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/electrical-threat_0.svg",
     "location": "BADIMARA STREET, FISHER, 2611",
-    "updated": "06 Sep 2024 17:57:27"
+    "updated": "06 Sep 2024 19:48:01"
   },
   {
     "agency": "Ambulance",
@@ -109,25 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "OXLEY",
-    "updated": "06 Sep 2024 19:20:11"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHISHOLM",
-    "id": "053855-06092024",
-    "latitude": "-35.422993",
-    "longitude": "149.12793",
-    "region": "act",
-    "time_of_call": "06 Sep 2024 17:59:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHISHOLM",
-    "updated": "06 Sep 2024 18:49:12"
+    "updated": "06 Sep 2024 19:35:17"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "06 Sep 2024 19:32:20"
+    "updated": "06 Sep 2024 19:42:19"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +193,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "06 Sep 2024 19:08:10",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "06 Sep 2024 19:12:00"
+    "updated": "06 Sep 2024 19:44:35"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +217,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "06 Sep 2024 19:34:02"
+    "updated": "06 Sep 2024 19:47:49"
   },
   {
     "agency": "Ambulance",
@@ -271,7 +253,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "06 Sep 2024 19:34:38"
+    "updated": "06 Sep 2024 19:35:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CASEY",
+    "id": "053867-06092024",
+    "latitude": "-35.167812",
+    "longitude": "149.097085",
+    "region": "act",
+    "time_of_call": "06 Sep 2024 19:40:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CASEY",
+    "updated": "06 Sep 2024 19:45:37"
   },
   {
     "title": "Hallidays Road HR",
@@ -607,7 +607,7 @@
     "latitude": "-33.5077857969999",
     "longitude": "151.392288208",
     "region": "nsw",
-    "time_of_call": "06 Sep 2024 15:40:00",
+    "time_of_call": "06 Sep 2024 19:40:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -619,7 +619,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "6 Sep 2024 15:40"
+    "updated": "6 Sep 2024 19:40"
   },
   {
     "title": "UPPER EDEN CREEK RD, UPPER EDEN CREEK",
@@ -1275,10 +1275,10 @@
     "latitude": "-32.862949371",
     "longitude": "151.397888183",
     "region": "nsw",
-    "time_of_call": "05 Sep 2024 21:28:00",
+    "time_of_call": "06 Sep 2024 19:36:00",
     "event_type": "burnt area",
     "status": "Under control",
-    "alert_level": "Not Applicable",
+    "alert_level": "Planned Burn",
     "location": "LAKE RD, KEARSLEY 2325",
     "council_area": "Cessnock",
     "type": "Hazard Reduction",
@@ -1287,7 +1287,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2024 21:28"
+    "updated": "6 Sep 2024 19:36"
   },
   {
     "title": "WILD CATTLE FLAT RD, JINGERA",
@@ -1347,7 +1347,7 @@
     "latitude": "-34.318378448",
     "longitude": "148.889816284",
     "region": "nsw",
-    "time_of_call": "05 Sep 2024 08:49:00",
+    "time_of_call": "06 Sep 2024 19:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1359,7 +1359,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2024 08:49"
+    "updated": "6 Sep 2024 19:35"
   },
   {
     "title": "GOWAN RD, GOWAN",
@@ -1855,5 +1855,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Sep 2024 18:41"
+  },
+  {
+    "title": "NICHOLLS DR, YASS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565392",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.856517792",
+    "longitude": "148.918914795",
+    "region": "nsw",
+    "time_of_call": "06 Sep 2024 19:36:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "NICHOLLS DR, YASS 2582",
+    "council_area": "Yass Valley",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "6 Sep 2024 19:36"
   }
 ]
