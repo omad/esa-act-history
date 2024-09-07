@@ -37,27 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "TEWKSBURY CIRCUIT, THEODORE, 2905",
-    "updated": "08 Sep 2024 08:30:58"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "CAR FIRE - HALL",
-    "id": "012782-08092024",
-    "latitude": "-35.1733589172",
-    "longitude": "149.0579528809",
-    "region": "act",
-    "time_of_call": "08 Sep 2024 07:02:47",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "CAR FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
-    "location": "BARTON HIGHWAY, WALLAROO ROAD EXIT, HALL, 2618",
-    "updated": "08 Sep 2024 07:35:09"
+    "updated": "08 Sep 2024 08:46:22"
   },
   {
     "agency": "Ambulance",
@@ -177,13 +157,49 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "08 Sep 2024 08:30:14",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "08 Sep 2024 08:41:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "054141-08092024",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "08 Sep 2024 08:37:25",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "WARAMANGA",
-    "updated": "08 Sep 2024 08:33:56"
+    "location": "LYNEHAM",
+    "updated": "08 Sep 2024 08:43:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "054143-08092024",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "08 Sep 2024 08:42:25",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "08 Sep 2024 08:48:38"
   },
   {
     "title": "Hallidays Road HR",
@@ -1999,9 +2015,9 @@
     "latitude": "-28.3955993659999",
     "longitude": "153.423995972",
     "region": "nsw",
-    "time_of_call": "07 Sep 2024 21:47:00",
+    "time_of_call": "08 Sep 2024 08:39:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -2014,7 +2030,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Sep 2024 21:47"
+    "updated": "8 Sep 2024 08:39"
   },
   {
     "title": "NEWELL HWY, GILGANDRA",
@@ -2101,21 +2117,21 @@
     "updated": "8 Sep 2024 07:39"
   },
   {
-    "title": "BYRNES RD, BOMEN",
+    "title": "Byrnes Rd, Bomen",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565607",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
     "latitude": "-35.071178437",
     "longitude": "147.415374755",
     "region": "nsw",
-    "time_of_call": "08 Sep 2024 08:24:00",
+    "time_of_call": "08 Sep 2024 08:43:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "BYRNES RD, BOMEN 2650",
+    "location": "Byrnes Rd, Bomen, NSW 2650",
     "council_area": "Wagga Wagga",
     "type": "Grass Fire",
     "type_description": "",
@@ -2123,6 +2139,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Sep 2024 08:24"
+    "updated": "8 Sep 2024 08:43"
   }
 ]
