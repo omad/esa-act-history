@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "TEWKSBURY CIRCUIT, THEODORE, 2905",
-    "updated": "08 Sep 2024 08:19:40"
+    "updated": "08 Sep 2024 08:30:58"
   },
   {
     "agency": "Fire",
@@ -105,13 +105,13 @@
     "longitude": "149.088064",
     "region": "act",
     "time_of_call": "08 Sep 2024 07:17:12",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "08 Sep 2024 07:27:26"
+    "updated": "08 Sep 2024 08:32:09"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "08 Sep 2024 08:14:58"
+    "updated": "08 Sep 2024 08:22:44"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +147,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "08 Sep 2024 08:14:19"
+    "updated": "08 Sep 2024 08:31:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "054139-08092024",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "08 Sep 2024 08:24:22",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "08 Sep 2024 08:24:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "054140-08092024",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "08 Sep 2024 08:30:14",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "08 Sep 2024 08:33:56"
   },
   {
     "title": "Hallidays Road HR",
@@ -2063,5 +2099,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Sep 2024 07:39"
+  },
+  {
+    "title": "BYRNES RD, BOMEN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565607",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.071178437",
+    "longitude": "147.415374755",
+    "region": "nsw",
+    "time_of_call": "08 Sep 2024 08:24:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "BYRNES RD, BOMEN 2650",
+    "council_area": "Wagga Wagga",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "8 Sep 2024 08:24"
   }
 ]
