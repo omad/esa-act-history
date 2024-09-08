@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - STIRLING",
-    "id": "054284-09092024",
-    "latitude": "-35.351472",
-    "longitude": "149.046603",
-    "region": "act",
-    "time_of_call": "09 Sep 2024 05:23:22",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "STIRLING",
-    "updated": "09 Sep 2024 05:33:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DICKSON",
     "id": "054286-09092024",
     "latitude": "-35.250784",
@@ -73,7 +55,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "09 Sep 2024 06:17:21"
+    "updated": "09 Sep 2024 07:16:15"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "09 Sep 2024 06:43:19"
+    "updated": "09 Sep 2024 07:18:33"
   },
   {
     "agency": "Ambulance",
@@ -103,13 +85,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "09 Sep 2024 06:34:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "09 Sep 2024 06:48:55"
+    "updated": "09 Sep 2024 07:09:51"
   },
   {
     "agency": "Ambulance",
@@ -128,6 +110,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FRASER",
     "updated": "09 Sep 2024 06:47:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BANKS",
+    "id": "054290-09092024",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
+    "region": "act",
+    "time_of_call": "09 Sep 2024 06:49:31",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BANKS",
+    "updated": "09 Sep 2024 07:12:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NICHOLLS",
+    "id": "054296-09092024",
+    "latitude": "-35.186387",
+    "longitude": "149.094445",
+    "region": "act",
+    "time_of_call": "09 Sep 2024 07:10:05",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NICHOLLS",
+    "updated": "09 Sep 2024 07:13:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLYNN",
+    "id": "054297-09092024",
+    "latitude": "-35.207317",
+    "longitude": "149.042983",
+    "region": "act",
+    "time_of_call": "09 Sep 2024 07:12:31",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLYNN",
+    "updated": "09 Sep 2024 07:15:09"
   },
   {
     "title": "Hallidays Road HR",
@@ -2005,5 +2041,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Sep 2024 06:10"
+  },
+  {
+    "title": "LOG BRIDGE RD, WENTWORTH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565720",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.1125602719999",
+    "longitude": "141.884933471",
+    "region": "nsw",
+    "time_of_call": "09 Sep 2024 06:17:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "139A LOG BRIDGE RD, WENTWORTH 2648",
+    "council_area": "Wentworth",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Sep 2024 06:17"
   }
 ]
