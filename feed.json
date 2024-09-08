@@ -149,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "08 Sep 2024 13:16:50"
+    "updated": "08 Sep 2024 13:39:03"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
-    "updated": "08 Sep 2024 13:15:07"
+    "updated": "08 Sep 2024 13:39:02"
   },
   {
     "agency": "Ambulance",
@@ -251,13 +251,13 @@
     "longitude": "149.076955",
     "region": "act",
     "time_of_call": "08 Sep 2024 13:04:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHIFLEY",
-    "updated": "08 Sep 2024 13:33:28"
+    "updated": "08 Sep 2024 13:40:10"
   },
   {
     "agency": "Ambulance",
@@ -305,13 +305,13 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "08 Sep 2024 13:15:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "08 Sep 2024 13:30:03"
+    "updated": "08 Sep 2024 13:44:46"
   },
   {
     "title": "Hallidays Road HR",
@@ -992,7 +992,7 @@
     "latitude": "-32.358612014",
     "longitude": "152.229652405",
     "region": "nsw",
-    "time_of_call": "08 Sep 2024 11:16:00",
+    "time_of_call": "08 Sep 2024 13:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1004,7 +1004,7 @@
     "fire": "Yes",
     "size": "100 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "8 Sep 2024 11:16"
+    "updated": "8 Sep 2024 13:35"
   },
   {
     "title": "BOOKER RD, HAWKESBURY HEIGHTS",
@@ -1670,7 +1670,7 @@
     "latitude": "-34.015617371",
     "longitude": "151.052505493",
     "region": "nsw",
-    "time_of_call": "08 Sep 2024 11:54:00",
+    "time_of_call": "08 Sep 2024 13:44:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1682,7 +1682,7 @@
     "fire": "Yes",
     "size": "7 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Sep 2024 11:54"
+    "updated": "8 Sep 2024 13:44"
   },
   {
     "title": "GREENS ROAD HR",
@@ -2276,9 +2276,9 @@
     "latitude": "-34.112426758",
     "longitude": "141.885696411",
     "region": "nsw",
-    "time_of_call": "08 Sep 2024 11:16:00",
+    "time_of_call": "08 Sep 2024 13:29:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "139A LOG BRIDGE RD, WENTWORTH 2648",
     "council_area": "Wentworth",
@@ -2287,8 +2287,8 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Sep 2024 11:16"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "8 Sep 2024 13:29"
   },
   {
     "title": "MITCHELL RD, GREGADOO",
@@ -2408,28 +2408,6 @@
     "updated": "8 Sep 2024 12:38"
   },
   {
-    "title": "WEEROONA PL, ROUSE HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565634",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.673179627",
-    "longitude": "150.927062988",
-    "region": "nsw",
-    "time_of_call": "08 Sep 2024 13:10:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "21 WEEROONA PL, ROUSE HILL 2155",
-    "council_area": "The Hills",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Sep 2024 13:10"
-  },
-  {
     "title": "OLD STOCK ROUTE RD, OAKVILLE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565636",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2475,30 +2453,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Sep 2024 13:13"
-  },
-  {
-    "title": "CASTLEREAGH RD, CASTLEREAGH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565638",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.7174110409999",
-    "longitude": "150.69581604",
-    "region": "nsw",
-    "time_of_call": "08 Sep 2024 13:18:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "CASTLEREAGH RD, CASTLEREAGH 2749",
-    "council_area": "Penrith",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Sep 2024 13:18"
   }
 ]
