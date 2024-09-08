@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "054273-09092024",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "09 Sep 2024 00:28:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "09 Sep 2024 02:36:57"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GREENWAY",
     "id": "054278-09092024",
     "latitude": "-35.411775",
@@ -73,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "09 Sep 2024 02:42:57"
+    "updated": "09 Sep 2024 02:55:48"
   },
   {
     "agency": "Ambulance",
@@ -92,6 +74,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
     "updated": "09 Sep 2024 02:48:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GILMORE",
+    "id": "054281-09092024",
+    "latitude": "-35.417683",
+    "longitude": "149.134893",
+    "region": "act",
+    "time_of_call": "09 Sep 2024 03:17:36",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GILMORE",
+    "updated": "09 Sep 2024 03:18:35"
   },
   {
     "title": "Hallidays Road HR",
@@ -1914,9 +1914,9 @@
     "latitude": "-31.114761352",
     "longitude": "152.83152771",
     "region": "nsw",
-    "time_of_call": "09 Sep 2024 02:27:00",
+    "time_of_call": "09 Sep 2024 02:53:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "50 PACIFIC HWY, SOUTH KEMPSEY 2440",
     "council_area": "Kempsey",
@@ -1924,6 +1924,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Sep 2024 02:27"
+    "updated": "9 Sep 2024 02:53"
+  },
+  {
+    "title": "GOWINGS HILL RD, DONDINGALONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565714",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.103404998",
+    "longitude": "152.76701355",
+    "region": "nsw",
+    "time_of_call": "09 Sep 2024 02:45:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "6 GOWINGS HILL RD, DONDINGALONG 2440",
+    "council_area": "Kempsey",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Sep 2024 02:45"
   }
 ]
