@@ -93,25 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "08 Sep 2024 17:08:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "054199-08092024",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "08 Sep 2024 15:21:45",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "08 Sep 2024 17:01:42"
+    "updated": "08 Sep 2024 17:27:20"
   },
   {
     "agency": "Ambulance",
@@ -130,24 +112,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
     "updated": "08 Sep 2024 16:57:49"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "054205-08092024",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
-    "region": "act",
-    "time_of_call": "08 Sep 2024 15:59:50",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KALEEN",
-    "updated": "08 Sep 2024 17:01:57"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "08 Sep 2024 16:48:05"
+    "updated": "08 Sep 2024 17:26:47"
   },
   {
     "agency": "Ambulance",
@@ -231,13 +195,13 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "08 Sep 2024 17:04:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "08 Sep 2024 17:15:22"
+    "updated": "08 Sep 2024 17:23:27"
   },
   {
     "agency": "Ambulance",
@@ -255,7 +219,25 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "08 Sep 2024 17:17:45"
+    "updated": "08 Sep 2024 17:21:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "054214-08092024",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "08 Sep 2024 17:23:45",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "08 Sep 2024 17:27:46"
   },
   {
     "title": "Hallidays Road HR",
@@ -2317,6 +2299,31 @@
     "updated": "8 Sep 2024 16:51"
   },
   {
+    "title": "GLENDONBROOK RD, SUMMER HILL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565672",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.474700927",
+    "longitude": "151.464721679",
+    "region": "nsw",
+    "time_of_call": "08 Sep 2024 16:58:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "1844 GLENDONBROOK RD, SUMMER HILL 2421",
+    "council_area": "Dungog",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Sep 2024 16:58"
+  },
+  {
     "title": "LES AVERY DR, TABULAM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565673",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2340,5 +2347,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Sep 2024 17:00"
+  },
+  {
+    "title": "CARGO CEMETERY CARGO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565674",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4129295349999",
+    "longitude": "148.803115845",
+    "region": "nsw",
+    "time_of_call": "08 Sep 2024 17:18:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "CARGO CEMETERY CARGO 2800",
+    "council_area": "Cabonne",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Sep 2024 17:18"
+  },
+  {
+    "title": "MOUNT LINDESAY RD, KOREELAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565675",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.39443016",
+    "longitude": "152.426803589",
+    "region": "nsw",
+    "time_of_call": "08 Sep 2024 17:19:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "11417 MOUNT LINDESAY RD, KOREELAH 2476",
+    "council_area": "Tenterfield",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Sep 2024 17:19"
   }
 ]
