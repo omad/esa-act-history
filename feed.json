@@ -15,7 +15,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "09 Sep 2024 21:17:45"
+    "updated": "09 Sep 2024 21:21:10"
   },
   {
     "agency": "Ambulance",
@@ -57,24 +57,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHAPMAN",
-    "id": "054479-09092024",
-    "latitude": "-35.356631",
-    "longitude": "149.036831",
-    "region": "act",
-    "time_of_call": "09 Sep 2024 19:39:18",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHAPMAN",
-    "updated": "09 Sep 2024 19:49:13"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CITY",
     "id": "054481-09092024",
     "latitude": "-35.282068",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "09 Sep 2024 21:09:20"
+    "updated": "09 Sep 2024 21:25:45"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "09 Sep 2024 21:06:05"
+    "updated": "09 Sep 2024 21:20:26"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "09 Sep 2024 21:00:21"
+    "updated": "09 Sep 2024 21:22:42"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +171,13 @@
     "longitude": "149.154752",
     "region": "act",
     "time_of_call": "09 Sep 2024 21:10:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "09 Sep 2024 21:16:16"
+    "updated": "09 Sep 2024 21:26:30"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +195,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "09 Sep 2024 21:17:50"
+    "updated": "09 Sep 2024 21:20:44"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +213,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "09 Sep 2024 21:17:12"
+    "updated": "09 Sep 2024 21:23:12"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SYMONSTON",
+    "id": "054493-09092024",
+    "latitude": "-35.34936",
+    "longitude": "149.163724",
+    "region": "act",
+    "time_of_call": "09 Sep 2024 21:27:09",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SYMONSTON",
+    "updated": "09 Sep 2024 21:27:13"
   },
   {
     "title": "Hallidays Road HR",
@@ -2065,5 +2065,69 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Sep 2024 21:00"
+  },
+  {
+    "title": "NEW ENGLAND HWY, KENTUCKY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565824",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.777454376",
+    "longitude": "151.351577758",
+    "region": "nsw",
+    "time_of_call": "09 Sep 2024 21:16:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "YARRAWONGA 6544 NEW ENGLAND HWY, KENTUCKY 2354",
+    "council_area": "Tamworth",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Sep 2024 21:16"
+  },
+  {
+    "title": "BRUXNER HWY, PIORA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565825",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.83903122",
+    "longitude": "152.868408203",
+    "region": "nsw",
+    "time_of_call": "09 Sep 2024 21:17:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "BRUXNER HWY, PIORA 2470",
+    "council_area": "Kyogle",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Sep 2024 21:17"
+  },
+  {
+    "title": "THE ENTRANCE RD, ERINA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565826",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4369850159999",
+    "longitude": "151.38017273",
+    "region": "nsw",
+    "time_of_call": "09 Sep 2024 21:20:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "155A THE ENTRANCE RD, ERINA 2250",
+    "council_area": "Central Coast",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "9 Sep 2024 21:20"
   }
 ]
