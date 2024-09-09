@@ -9,15 +9,15 @@
     "longitude": "149.15653499",
     "region": "act",
     "time_of_call": "10 Sep 2024 09:18:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "WELL STATION DRIVE, RHODANTHE WAY, GUNGAHLIN, 0000",
-    "updated": "10 Sep 2024 09:31:02"
+    "updated": "10 Sep 2024 09:34:37"
   },
   {
     "agency": "Ambulance",
@@ -36,24 +36,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MAJURA",
     "updated": "10 Sep 2024 06:54:46"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYNEHAM",
-    "id": "054546-10092024",
-    "latitude": "-35.238929",
-    "longitude": "149.124748",
-    "region": "act",
-    "time_of_call": "10 Sep 2024 06:52:13",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LYNEHAM",
-    "updated": "10 Sep 2024 08:54:02"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "10 Sep 2024 09:33:01"
+    "updated": "10 Sep 2024 09:44:58"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +107,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "10 Sep 2024 08:51:03"
+    "updated": "10 Sep 2024 09:41:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "054566-10092024",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "10 Sep 2024 09:42:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "10 Sep 2024 09:42:15"
   },
   {
     "title": "Hallidays Road HR",
@@ -1070,7 +1070,7 @@
     "latitude": "-29.9876270299999",
     "longitude": "153.140991211",
     "region": "nsw",
-    "time_of_call": "09 Sep 2024 21:21:00",
+    "time_of_call": "10 Sep 2024 09:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1082,7 +1082,7 @@
     "fire": "Yes",
     "size": "4 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Sep 2024 21:21"
+    "updated": "10 Sep 2024 09:33"
   },
   {
     "title": "BLACKSMITH SHOP RD, NEWTON BOYD",
@@ -1286,6 +1286,28 @@
     "updated": "9 Sep 2024 22:15"
   },
   {
+    "title": "Soapy Flat North HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565444",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.383750205",
+    "longitude": "150.342578887",
+    "region": "nsw",
+    "time_of_call": "10 Sep 2024 09:17:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "WOMBAROO 162 BLACK SPRING RD, HIGH RANGE 2575",
+    "council_area": "Wingecarribee",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "190 ha",
+    "responsible_agency": "NSW National Parks and Wildlife Service",
+    "updated": "10 Sep 2024 09:17"
+  },
+  {
     "title": "YANCO WEIR RD, EUROLEY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565460",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1403,6 +1425,28 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "9 Sep 2024 21:46"
+  },
+  {
+    "title": "Allenby Park West HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565685",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.7625808719999",
+    "longitude": "151.254302978",
+    "region": "nsw",
+    "time_of_call": "10 Sep 2024 09:42:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "SANANANDA AV, ALLAMBIE HEIGHTS 2100",
+    "council_area": "Northern Beaches",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "11 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "10 Sep 2024 09:42"
   },
   {
     "title": "EAST PDE, COURIDJAH",
@@ -1895,12 +1939,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565854",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-28.364419937",
-    "longitude": "153.433654785",
+    "latitude": "-28.35990715",
+    "longitude": "153.434661865",
     "region": "nsw",
-    "time_of_call": "10 Sep 2024 09:05:00",
+    "time_of_call": "10 Sep 2024 09:42:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "479 WARDROP VALLEY RD, FERNVALE 2484",
     "council_area": "Tweed",
@@ -1910,7 +1954,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Sep 2024 09:05"
+    "updated": "10 Sep 2024 09:42"
   },
   {
     "title": "OKEEFE DR, ORAN PARK",
@@ -1982,9 +2026,9 @@
     "latitude": "-34.7299429999999",
     "longitude": "149.743773",
     "region": "nsw",
-    "time_of_call": "10 Sep 2024 09:25:00",
+    "time_of_call": "10 Sep 2024 09:43:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1997,6 +2041,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "10 Sep 2024 09:25"
+    "updated": "10 Sep 2024 09:43"
+  },
+  {
+    "title": "OLD OAKS RD, THE OAKS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565862",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.1029510499999",
+    "longitude": "150.564361572",
+    "region": "nsw",
+    "time_of_call": "10 Sep 2024 09:28:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "OLD OAKS RD, THE OAKS 2570",
+    "council_area": "Wollondilly",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Sep 2024 09:28"
   }
 ]
