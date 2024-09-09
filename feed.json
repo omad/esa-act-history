@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "10 Sep 2024 08:09:40"
+    "updated": "10 Sep 2024 08:38:40"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "10 Sep 2024 08:31:15"
+    "updated": "10 Sep 2024 08:35:34"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "10 Sep 2024 08:34:43"
+    "updated": "10 Sep 2024 08:36:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "054562-10092024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "10 Sep 2024 08:46:26",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "10 Sep 2024 08:48:02"
   },
   {
     "title": "Hallidays Road HR",
@@ -1758,10 +1776,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565843",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.646503448",
-    "longitude": "151.104766845",
+    "latitude": "-33.6439971359999",
+    "longitude": "151.106781006",
     "region": "nsw",
-    "time_of_call": "10 Sep 2024 06:00:00",
+    "time_of_call": "10 Sep 2024 08:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1773,26 +1791,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "10 Sep 2024 06:00"
+    "updated": "10 Sep 2024 08:41"
   },
   {
-    "title": "BOOROOBANILLY RD, FINLEY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565845",
+    "title": "Stanwell Cr, Ashcroft",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565848",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.47000122",
-    "longitude": "145.630142212",
+    "latitude": "-33.9211490009999",
+    "longitude": "150.900316999",
     "region": "nsw",
-    "time_of_call": "10 Sep 2024 07:06:00",
+    "time_of_call": "10 Sep 2024 08:45:00",
     "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "GLENCOVE 1097 BOOROOBANILLY RD, FINLEY 2713",
-    "council_area": "Murrumbidgee",
-    "type": "Assist Other Agency",
-    "fire": "No",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Stanwell Cr, Ashcroft, NSW 2168",
+    "council_area": "Liverpool",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Sep 2024 07:06"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "10 Sep 2024 08:45"
   }
 ]
