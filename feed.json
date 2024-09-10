@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "10 Sep 2024 19:23:59"
+    "updated": "10 Sep 2024 19:31:00"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +251,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "10 Sep 2024 19:21:38"
+    "updated": "10 Sep 2024 19:31:55"
   },
   {
     "agency": "Ambulance",
@@ -269,7 +269,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "10 Sep 2024 19:05:25"
+    "updated": "10 Sep 2024 19:29:24"
   },
   {
     "agency": "Ambulance",
@@ -281,13 +281,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "10 Sep 2024 18:49:22",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "10 Sep 2024 18:52:44"
+    "updated": "10 Sep 2024 19:28:16"
   },
   {
     "agency": "Ambulance",
@@ -317,13 +317,13 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "10 Sep 2024 18:54:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "10 Sep 2024 19:21:19"
+    "updated": "10 Sep 2024 19:32:45"
   },
   {
     "agency": "Ambulance",
@@ -341,7 +341,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "10 Sep 2024 19:13:01"
+    "updated": "10 Sep 2024 19:33:27"
   },
   {
     "agency": "Ambulance",
@@ -353,13 +353,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "10 Sep 2024 19:00:26",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "10 Sep 2024 19:04:24"
+    "updated": "10 Sep 2024 19:27:08"
   },
   {
     "agency": "Ambulance",
@@ -413,7 +413,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "10 Sep 2024 19:24:49"
+    "updated": "10 Sep 2024 19:33:31"
   },
   {
     "title": "Hallidays Road HR",
@@ -2172,9 +2172,9 @@
     "latitude": "-33.6130752569999",
     "longitude": "151.003860473",
     "region": "nsw",
-    "time_of_call": "10 Sep 2024 17:30:00",
+    "time_of_call": "10 Sep 2024 19:28:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "61 POST OFFICE RD, GLENORIE 2157",
     "council_area": "The Hills",
@@ -2184,7 +2184,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Sep 2024 17:30"
+    "updated": "10 Sep 2024 19:28"
   },
   {
     "title": "OLD HUME HWY, YANDERRA",
@@ -2252,5 +2252,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Sep 2024 19:04"
+  },
+  {
+    "title": "FIFTH AV, LOFTUS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565937",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.0376090999999",
+    "longitude": "151.042495727",
+    "region": "nsw",
+    "time_of_call": "10 Sep 2024 19:08:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "CAMP WANAWONG 11 FIFTH AV, LOFTUS 2232",
+    "council_area": "Sutherland",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Sep 2024 19:08"
+  },
+  {
+    "title": "JUDY JAKINS DR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565938",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.216426849",
+    "longitude": "148.569946289",
+    "region": "nsw",
+    "time_of_call": "10 Sep 2024 19:28:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "ROYAL FLYING DOCTORS DUBBO 21 JUDY JAKINS DR, DUBBO 2830",
+    "council_area": "Dubbo Regional",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "10 Sep 2024 19:28"
   }
 ]
