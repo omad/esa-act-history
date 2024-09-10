@@ -9,15 +9,15 @@
     "longitude": "149.1446433399",
     "region": "act",
     "time_of_call": "10 Sep 2024 15:36:52",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "MAJURA AVENUE, AINSLIE, 2602",
-    "updated": "10 Sep 2024 16:20:46"
+    "updated": "10 Sep 2024 16:39:33"
   },
   {
     "agency": "Fire",
@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AINSLIE",
-    "id": "054639-10092024",
-    "latitude": "-35.262117",
-    "longitude": "149.144037",
-    "region": "act",
-    "time_of_call": "10 Sep 2024 13:38:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "AINSLIE",
-    "updated": "10 Sep 2024 16:01:32"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GRIFFITH",
     "id": "054656-10092024",
     "latitude": "-35.325773",
@@ -73,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "10 Sep 2024 16:10:07"
+    "updated": "10 Sep 2024 16:42:39"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "10 Sep 2024 16:19:32"
+    "updated": "10 Sep 2024 16:35:24"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "10 Sep 2024 16:30:47"
+    "updated": "10 Sep 2024 16:43:28"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +181,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "10 Sep 2024 16:30:41"
+    "updated": "10 Sep 2024 16:32:26"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +193,31 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "10 Sep 2024 16:30:35",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "10 Sep 2024 16:30:36"
+    "updated": "10 Sep 2024 16:44:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "054681-10092024",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "10 Sep 2024 16:32:12",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "10 Sep 2024 16:39:14"
   },
   {
     "title": "Hallidays Road HR",
@@ -1454,9 +1454,9 @@
     "latitude": "-28.910211564",
     "longitude": "152.509460449",
     "region": "nsw",
-    "time_of_call": "10 Sep 2024 15:20:00",
+    "time_of_call": "10 Sep 2024 16:35:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1469,7 +1469,7 @@
     "fire": "Yes",
     "size": "315 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Sep 2024 15:20"
+    "updated": "10 Sep 2024 16:35"
   },
   {
     "title": "Woolgoolga Creek HR ",
@@ -1595,7 +1595,7 @@
     "latitude": "-30.928506177",
     "longitude": "150.147607325",
     "region": "nsw",
-    "time_of_call": "10 Sep 2024 10:45:00",
+    "time_of_call": "10 Sep 2024 16:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1607,7 +1607,7 @@
     "fire": "Yes",
     "size": "6 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Sep 2024 10:45"
+    "updated": "10 Sep 2024 16:33"
   },
   {
     "title": "Cessnock Rd, Abermain",
@@ -1931,50 +1931,6 @@
     "updated": "10 Sep 2024 16:13"
   },
   {
-    "title": "ROSE CR, GLOSSODIA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565911",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.535007477",
-    "longitude": "150.75881958",
-    "region": "nsw",
-    "time_of_call": "10 Sep 2024 15:22:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "ROSE CR, GLOSSODIA 2756",
-    "council_area": "Hawkesbury",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Sep 2024 15:22"
-  },
-  {
-    "title": "FAIRLIGHT WAY, CULBURRA BEACH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565912",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.9339408879999",
-    "longitude": "150.775253296",
-    "region": "nsw",
-    "time_of_call": "10 Sep 2024 16:27:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "5 FAIRLIGHT WAY, CULBURRA BEACH 2540",
-    "council_area": "Shoalhaven",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Sep 2024 16:27"
-  },
-  {
     "title": "BERMAGUI CEMETERY BERMAGUI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565913",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2026,9 +1982,9 @@
     "latitude": "-33.7386016849999",
     "longitude": "150.917770386",
     "region": "nsw",
-    "time_of_call": "10 Sep 2024 16:00:00",
+    "time_of_call": "10 Sep 2024 16:33:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "M7 (WESTLINK MTWY), KINGS PARK 2148",
     "council_area": "Blacktown",
@@ -2036,6 +1992,48 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "10 Sep 2024 16:00"
+    "updated": "10 Sep 2024 16:33"
+  },
+  {
+    "title": "CURRAWANG RD, TIRRANNAVILLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565920",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.8767585759999",
+    "longitude": "149.634445191",
+    "region": "nsw",
+    "time_of_call": "10 Sep 2024 16:43:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "LIAHONA 659 CURRAWANG RD, TIRRANNAVILLE 2580",
+    "council_area": "Goulburn Mulwaree",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Sep 2024 16:43"
+  },
+  {
+    "title": "MITCHELL HWY, SHADFORTH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565924",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.390628814",
+    "longitude": "149.223251343",
+    "region": "nsw",
+    "time_of_call": "10 Sep 2024 16:43:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "MITCHELL HWY, SHADFORTH 2800",
+    "council_area": "Orange",
+    "type": "Truck Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Sep 2024 16:43"
   }
 ]
