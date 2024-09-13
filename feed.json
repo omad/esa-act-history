@@ -83,24 +83,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "055354-13092024",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "13 Sep 2024 16:17:49",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "13 Sep 2024 18:06:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WATSON",
     "id": "055372-13092024",
     "latitude": "-35.234652",
@@ -185,7 +167,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "13 Sep 2024 19:15:28"
+    "updated": "13 Sep 2024 21:20:06"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "13 Sep 2024 20:56:57"
+    "updated": "13 Sep 2024 21:20:46"
   },
   {
     "agency": "Ambulance",
@@ -329,7 +311,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "13 Sep 2024 21:14:50"
+    "updated": "13 Sep 2024 21:22:27"
   },
   {
     "agency": "Ambulance",
@@ -365,7 +347,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "13 Sep 2024 21:16:40"
+    "updated": "13 Sep 2024 21:25:30"
   },
   {
     "agency": "Ambulance",
@@ -377,13 +359,67 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "13 Sep 2024 21:15:06",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "13 Sep 2024 21:19:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "055414-13092024",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "13 Sep 2024 21:20:18",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CURTIN",
-    "updated": "13 Sep 2024 21:18:41"
+    "location": "CONDER",
+    "updated": "13 Sep 2024 21:28:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "055415-13092024",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "13 Sep 2024 21:22:12",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PALMERSTON",
+    "updated": "13 Sep 2024 21:27:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THROSBY",
+    "id": "055416-13092024",
+    "latitude": "-35.187595",
+    "longitude": "149.161141",
+    "region": "act",
+    "time_of_call": "13 Sep 2024 21:23:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THROSBY",
+    "updated": "13 Sep 2024 21:26:41"
   },
   {
     "title": "The River Reserve HR",
@@ -1181,6 +1217,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Sep 2024 21:01"
+  },
+  {
+    "title": "ATFIELD ST, SOUTH GUNDURIMBA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566250",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.852581024",
+    "longitude": "153.260650634",
+    "region": "nsw",
+    "time_of_call": "13 Sep 2024 20:35:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "1 ATFIELD ST, SOUTH GUNDURIMBA 2480",
+    "council_area": "Lismore",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Sep 2024 20:35"
   },
   {
     "title": "Butu Wargun Dr, Pemulwuy",
