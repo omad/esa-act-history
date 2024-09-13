@@ -49,13 +49,13 @@
     "longitude": "149.036735",
     "region": "act",
     "time_of_call": "14 Sep 2024 05:54:25",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "14 Sep 2024 09:21:09"
+    "updated": "14 Sep 2024 09:28:37"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "14 Sep 2024 09:20:48"
+    "updated": "14 Sep 2024 09:25:22"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "14 Sep 2024 09:09:32"
+    "updated": "14 Sep 2024 09:24:06"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +157,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "14 Sep 2024 09:13:12",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "14 Sep 2024 09:15:17"
+    "updated": "14 Sep 2024 09:26:06"
   },
   {
     "title": "The River Reserve HR",
@@ -374,7 +374,7 @@
     "latitude": "-34.383750205",
     "longitude": "150.342578887",
     "region": "nsw",
-    "time_of_call": "13 Sep 2024 16:20:00",
+    "time_of_call": "14 Sep 2024 09:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -386,7 +386,7 @@
     "fire": "Yes",
     "size": "190 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Sep 2024 16:20"
+    "updated": "14 Sep 2024 09:27"
   },
   {
     "title": "Yeramba East HR",
@@ -1007,23 +1007,50 @@
     "updated": "14 Sep 2024 08:47"
   },
   {
-    "title": "PACIFIC MTWY, OURIMBAH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566283",
+    "title": "ROYALLA DR, ROYALLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566284",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.3465385439999",
-    "longitude": "151.367660522",
+    "latitude": "-35.505558014",
+    "longitude": "149.181991577",
     "region": "nsw",
-    "time_of_call": "14 Sep 2024 08:50:00",
+    "time_of_call": "14 Sep 2024 09:03:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
-    "location": "M1 PACIFIC MTWY, OURIMBAH 2258",
-    "council_area": "Central Coast",
-    "type": "Car Fire",
+    "location": "446 ROYALLA DR, ROYALLA 2620",
+    "council_area": "Queanbeyan-Palerang",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Sep 2024 08:50"
+    "updated": "14 Sep 2024 09:03"
+  },
+  {
+    "title": "REMEMBRANCE DVWY, RAZORBACK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566285",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.146736145",
+    "longitude": "150.681625366",
+    "region": "nsw",
+    "time_of_call": "14 Sep 2024 09:21:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "1145 REMEMBRANCE DVWY, RAZORBACK 2571",
+    "council_area": "Wollondilly",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Sep 2024 09:21"
   }
 ]
