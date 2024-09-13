@@ -41,26 +41,6 @@
   },
   {
     "agency": "Fire",
-    "alert_level": "Advice",
-    "event_type": "incident",
-    "title": "GRASS AND BUSH FIRE - BELCONNEN",
-    "id": "013007-13092024",
-    "latitude": "-35.1871986389",
-    "longitude": "149.0479431152",
-    "region": "act",
-    "time_of_call": "13 Sep 2024 17:26:42",
-    "status": "Out / Completed",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "GRASS AND BUSH FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
-    "location": "KURINGA DRIVE, TILLYARD DRIVE, FRASER, 2615",
-    "updated": "13 Sep 2024 18:24:58"
-  },
-  {
-    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "CAR FIRE - TUGGERANONG",
@@ -77,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
     "location": "BELLVIEW, MONARO HIGHWAY, TUGGERANONG, 0000",
-    "updated": "13 Sep 2024 19:22:44"
+    "updated": "13 Sep 2024 19:32:37"
   },
   {
     "agency": "Ambulance",
@@ -323,13 +303,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "13 Sep 2024 19:10:33",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "13 Sep 2024 19:15:21"
+    "updated": "13 Sep 2024 19:29:07"
   },
   {
     "agency": "Ambulance",
@@ -347,7 +327,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DENMAN PROSPECT",
-    "updated": "13 Sep 2024 19:22:53"
+    "updated": "13 Sep 2024 19:23:32"
   },
   {
     "agency": "Ambulance",
@@ -359,13 +339,31 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "13 Sep 2024 19:22:41",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "13 Sep 2024 19:30:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "055399-13092024",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "13 Sep 2024 19:31:59",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "13 Sep 2024 19:22:43"
+    "location": "PHILLIP",
+    "updated": "13 Sep 2024 19:32:43"
   },
   {
     "title": "The River Reserve HR",
@@ -1101,28 +1099,6 @@
     "updated": "13 Sep 2024 18:57"
   },
   {
-    "title": "MACLEAY VALLEY WAY, CLYBUCCA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566236",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.9190196989999",
-    "longitude": "152.940933228",
-    "region": "nsw",
-    "time_of_call": "13 Sep 2024 19:15:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MACLEAY VALLEY WAY, CLYBUCCA 2440",
-    "council_area": "Kempsey",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Sep 2024 19:15"
-  },
-  {
     "title": "IVANHOE MENINDEE RD, MENINDEE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566237",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1165,6 +1141,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Sep 2024 19:11"
+  },
+  {
+    "title": "HALCROWS RD, CATTAI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566240",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.55929184",
+    "longitude": "150.921279907",
+    "region": "nsw",
+    "time_of_call": "13 Sep 2024 19:19:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "HALCROWS RD, CATTAI 2756",
+    "council_area": "The Hills",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Sep 2024 19:19"
   },
   {
     "title": "SLOPES RD, THE SLOPES",
