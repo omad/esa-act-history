@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "BARRENJOEY ROAD, CANBERRA CENTRAL, 2600",
-    "updated": "13 Sep 2024 21:03:51"
+    "updated": "14 Sep 2024 09:19:39"
   },
   {
     "agency": "Fire",
@@ -49,31 +49,13 @@
     "longitude": "149.036735",
     "region": "act",
     "time_of_call": "14 Sep 2024 05:54:25",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "14 Sep 2024 08:44:27"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "055479-14092024",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
-    "region": "act",
-    "time_of_call": "14 Sep 2024 07:18:32",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KALEEN",
-    "updated": "14 Sep 2024 08:28:57"
+    "updated": "14 Sep 2024 09:21:09"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "14 Sep 2024 08:46:47"
+    "updated": "14 Sep 2024 09:20:48"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "14 Sep 2024 08:21:35"
+    "updated": "14 Sep 2024 09:07:04"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +109,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "14 Sep 2024 08:41:34"
+    "updated": "14 Sep 2024 09:09:15"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "14 Sep 2024 08:39:30"
+    "updated": "14 Sep 2024 09:09:32"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +139,31 @@
     "longitude": "149.101598",
     "region": "act",
     "time_of_call": "14 Sep 2024 08:47:49",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "14 Sep 2024 08:48:12"
+    "updated": "14 Sep 2024 09:01:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "055493-14092024",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "14 Sep 2024 09:13:12",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "14 Sep 2024 09:15:17"
   },
   {
     "title": "The River Reserve HR",
@@ -656,6 +656,28 @@
     "updated": "12 Sep 2024 15:16"
   },
   {
+    "title": "Glengarry Hazard Reduction",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565922",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.6762561799999",
+    "longitude": "147.642028809",
+    "region": "nsw",
+    "time_of_call": "14 Sep 2024 08:57:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "GLENGARRY 2832",
+    "council_area": "Walgett",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Sep 2024 08:57"
+  },
+  {
     "title": "Lansdowne HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_565923",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -899,28 +921,6 @@
     "updated": "14 Sep 2024 03:30"
   },
   {
-    "title": "PACIFIC HWY, MIDDLE BROTHER",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566269",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.689037323",
-    "longitude": "152.734100341",
-    "region": "nsw",
-    "time_of_call": "14 Sep 2024 05:20:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, MIDDLE BROTHER 2443",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Sep 2024 05:20"
-  },
-  {
     "title": "POST OFFICE RD, GLENORIE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566276",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -965,26 +965,6 @@
     "updated": "14 Sep 2024 06:11"
   },
   {
-    "title": "APPENINE RD, YERRINBOOL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566280",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.372894287",
-    "longitude": "150.538513183",
-    "region": "nsw",
-    "time_of_call": "14 Sep 2024 07:32:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "2 APPENINE RD, YERRINBOOL 2575",
-    "council_area": "Wingecarribee",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Sep 2024 07:32"
-  },
-  {
     "title": "CANDELO WOLUMLA RD, TOOTHDALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566281",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1005,5 +985,45 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Sep 2024 08:00"
+  },
+  {
+    "title": "BROWNS LANE, SUTTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566282",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.090595245",
+    "longitude": "149.251022339",
+    "region": "nsw",
+    "time_of_call": "14 Sep 2024 08:47:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "BROWNS LANE, SUTTON 2620",
+    "council_area": "Yass Valley",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Sep 2024 08:47"
+  },
+  {
+    "title": "PACIFIC MTWY, OURIMBAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566283",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.3465385439999",
+    "longitude": "151.367660522",
+    "region": "nsw",
+    "time_of_call": "14 Sep 2024 08:50:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "M1 PACIFIC MTWY, OURIMBAH 2258",
+    "council_area": "Central Coast",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Sep 2024 08:50"
   }
 ]
