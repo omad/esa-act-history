@@ -40,7 +40,7 @@
     "updated": "14 Sep 2024 17:35:20"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - CURTIN",
@@ -69,15 +69,15 @@
     "longitude": "149.08014199",
     "region": "act",
     "time_of_call": "14 Sep 2024 20:27:42",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "PARKHILL STREET, LEIGHTON STREET, PEARCE, 2607",
-    "updated": "14 Sep 2024 20:29:10"
+    "updated": "14 Sep 2024 20:44:50"
   },
   {
     "agency": "Ambulance",
@@ -113,7 +113,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "14 Sep 2024 20:21:17"
+    "updated": "14 Sep 2024 20:48:43"
   },
   {
     "agency": "Ambulance",
@@ -245,24 +245,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYONS",
-    "id": "055601-14092024",
-    "latitude": "-35.340941",
-    "longitude": "149.072217",
-    "region": "act",
-    "time_of_call": "14 Sep 2024 19:49:21",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LYONS",
-    "updated": "14 Sep 2024 20:29:22"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DEAKIN",
     "id": "055603-14092024",
     "latitude": "-35.319944",
@@ -329,7 +311,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "14 Sep 2024 20:30:39"
+    "updated": "14 Sep 2024 20:38:13"
   },
   {
     "agency": "Ambulance",
@@ -347,7 +329,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "14 Sep 2024 20:29:56"
+    "updated": "14 Sep 2024 20:37:09"
   },
   {
     "agency": "Ambulance",
@@ -365,7 +347,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "14 Sep 2024 20:34:52"
+    "updated": "14 Sep 2024 20:37:45"
   },
   {
     "agency": "Ambulance",
@@ -377,13 +359,85 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "14 Sep 2024 20:30:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "14 Sep 2024 20:33:45"
+    "updated": "14 Sep 2024 20:38:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "055611-14092024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "14 Sep 2024 20:36:14",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "14 Sep 2024 20:37:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TUGGERANONG",
+    "id": "055613-14092024",
+    "latitude": "-35.501489",
+    "longitude": "149.108737",
+    "region": "act",
+    "time_of_call": "14 Sep 2024 20:39:35",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TUGGERANONG",
+    "updated": "14 Sep 2024 20:41:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "055614-14092024",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "14 Sep 2024 20:41:18",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "14 Sep 2024 20:43:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "055615-14092024",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "14 Sep 2024 20:44:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "14 Sep 2024 20:46:55"
   },
   {
     "title": "The River Reserve HR",
@@ -1367,36 +1421,16 @@
     "updated": "14 Sep 2024 19:24"
   },
   {
-    "title": "CAPTAIN COOK DR, KURNELL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566358",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.0198898319999",
-    "longitude": "151.201660156",
-    "region": "nsw",
-    "time_of_call": "14 Sep 2024 19:56:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "CAPTAIN COOK DR, KURNELL 2231",
-    "council_area": "Sutherland",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Sep 2024 19:56"
-  },
-  {
     "title": "Queen St, Junee",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566360",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.854698",
-    "longitude": "147.578731",
+    "latitude": "-34.8546981809999",
+    "longitude": "147.578735352",
     "region": "nsw",
-    "time_of_call": "14 Sep 2024 20:33:00",
+    "time_of_call": "14 Sep 2024 20:44:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1409,6 +1443,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "14 Sep 2024 20:33"
+    "updated": "14 Sep 2024 20:44"
   }
 ]
