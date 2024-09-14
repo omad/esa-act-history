@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "15 Sep 2024 07:10:33"
+    "updated": "15 Sep 2024 07:24:07"
   },
   {
     "agency": "Ambulance",
@@ -121,13 +121,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "15 Sep 2024 06:58:22",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "15 Sep 2024 07:04:45"
+    "updated": "15 Sep 2024 07:24:44"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +139,31 @@
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "15 Sep 2024 07:04:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "15 Sep 2024 07:13:03"
+    "updated": "15 Sep 2024 07:21:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "055665-15092024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "15 Sep 2024 07:23:00",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "15 Sep 2024 07:26:38"
   },
   {
     "title": "The River Reserve HR",
@@ -1038,9 +1056,9 @@
     "latitude": "-33.1155166629999",
     "longitude": "151.6350708",
     "region": "nsw",
-    "time_of_call": "15 Sep 2024 07:15:00",
+    "time_of_call": "15 Sep 2024 07:18:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1052,7 +1070,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "15 Sep 2024 07:15"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Sep 2024 07:18"
   }
 ]
