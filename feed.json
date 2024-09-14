@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "15 Sep 2024 03:15:45"
+    "updated": "15 Sep 2024 03:47:22"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,13 @@
     "longitude": "149.115669",
     "region": "act",
     "time_of_call": "15 Sep 2024 03:00:37",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
-    "updated": "15 Sep 2024 03:28:08"
+    "updated": "15 Sep 2024 03:44:04"
   },
   {
     "agency": "Ambulance",
@@ -90,6 +90,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
     "updated": "15 Sep 2024 03:08:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LATHAM",
+    "id": "055651-15092024",
+    "latitude": "-35.217781",
+    "longitude": "149.034875",
+    "region": "act",
+    "time_of_call": "15 Sep 2024 03:44:31",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LATHAM",
+    "updated": "15 Sep 2024 03:47:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LATHAM",
+    "id": "055652-15092024",
+    "latitude": "-35.217781",
+    "longitude": "149.034875",
+    "region": "act",
+    "time_of_call": "15 Sep 2024 03:46:31",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LATHAM",
+    "updated": "15 Sep 2024 03:48:13"
   },
   {
     "title": "The River Reserve HR",
@@ -829,7 +865,7 @@
     "latitude": "-36.157913208",
     "longitude": "150.095779419",
     "region": "nsw",
-    "time_of_call": "15 Sep 2024 01:19:00",
+    "time_of_call": "15 Sep 2024 03:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -841,7 +877,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Sep 2024 01:19"
+    "updated": "15 Sep 2024 03:41"
   },
   {
     "title": "FOREST RD",
@@ -1006,9 +1042,9 @@
     "latitude": "-32.376228333",
     "longitude": "150.719345093",
     "region": "nsw",
-    "time_of_call": "15 Sep 2024 03:18:00",
+    "time_of_call": "15 Sep 2024 03:37:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "JERRYS PLAINS RD, DENMAN 2328",
     "council_area": "Muswellbrook",
@@ -1016,6 +1052,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Sep 2024 03:18"
+    "updated": "15 Sep 2024 03:37"
   }
 ]
