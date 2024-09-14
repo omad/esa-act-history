@@ -59,24 +59,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "055640-15092024",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "15 Sep 2024 00:34:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "15 Sep 2024 01:09:11"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DEAKIN",
     "id": "055641-15092024",
     "latitude": "-35.319944",
@@ -107,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "15 Sep 2024 01:19:15"
+    "updated": "15 Sep 2024 01:29:54"
   },
   {
     "title": "The River Reserve HR",
@@ -847,10 +829,10 @@
     "latitude": "-36.157913208",
     "longitude": "150.095779419",
     "region": "nsw",
-    "time_of_call": "14 Sep 2024 16:23:00",
+    "time_of_call": "15 Sep 2024 01:19:00",
     "event_type": "burnt area",
     "status": "Under control",
-    "alert_level": "Planned Burn",
+    "alert_level": "Not Applicable",
     "location": "6016-6018 PRINCES HWY, DALMENY 2546",
     "council_area": "Eurobodalla",
     "type": "Hazard Reduction",
@@ -859,7 +841,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Sep 2024 16:23"
+    "updated": "15 Sep 2024 01:19"
   },
   {
     "title": "FOREST RD",
@@ -975,31 +957,6 @@
     "updated": "15 Sep 2024 01:07"
   },
   {
-    "title": "Churchill Dr, Winston Hills",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566373",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.779418946",
-    "longitude": "150.995223999",
-    "region": "nsw",
-    "time_of_call": "15 Sep 2024 00:58:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Churchill Dr, Winston Hills, NSW 2153",
-    "council_area": "City of Parramatta",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "15 Sep 2024 00:58"
-  },
-  {
     "title": "CRAWFORD RD, COORANBONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566374",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1018,5 +975,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Sep 2024 00:53"
+  },
+  {
+    "title": "MORIALTA RD, MUNGINDI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566375",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.114652634",
+    "longitude": "149.002441406",
+    "region": "nsw",
+    "time_of_call": "15 Sep 2024 01:25:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "MORIALTA RD, MUNGINDI 2406",
+    "council_area": "Moree Plains",
+    "type": "Rescue Road Crash",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Sep 2024 01:25"
   }
 ]
