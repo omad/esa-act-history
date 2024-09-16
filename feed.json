@@ -71,7 +71,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FRASER",
-    "updated": "16 Sep 2024 21:14:10"
+    "updated": "16 Sep 2024 21:28:07"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "16 Sep 2024 21:18:13"
+    "updated": "16 Sep 2024 21:24:58"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "16 Sep 2024 21:13:06"
+    "updated": "16 Sep 2024 21:26:58"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "16 Sep 2024 21:10:06"
+    "updated": "16 Sep 2024 21:25:56"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "16 Sep 2024 21:16:14"
+    "updated": "16 Sep 2024 21:22:04"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +209,13 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "16 Sep 2024 21:16:52",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "16 Sep 2024 21:18:27"
+    "updated": "16 Sep 2024 21:23:31"
   },
   {
     "title": "Blue Pool Hazard Reduction",
@@ -955,28 +955,6 @@
     "updated": "16 Sep 2024 19:46"
   },
   {
-    "title": "FOX VALLEY RD, DENHAM COURT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566572",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.963180542",
-    "longitude": "150.832626343",
-    "region": "nsw",
-    "time_of_call": "16 Sep 2024 21:04:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "FOX VALLEY RD, DENHAM COURT 2565",
-    "council_area": "Liverpool",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Sep 2024 21:04"
-  },
-  {
     "title": "KENTHURST RD, DURAL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566574",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1041,5 +1019,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Sep 2024 21:01"
+  },
+  {
+    "title": "HORNBY ST, WILTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566578",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.237464905",
+    "longitude": "150.691238403",
+    "region": "nsw",
+    "time_of_call": "16 Sep 2024 21:11:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "92 HORNBY ST, WILTON 2571",
+    "council_area": "Wollondilly",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Sep 2024 21:11"
+  },
+  {
+    "title": "BEAUMONT RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566579",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6406249999999",
+    "longitude": "151.130844116",
+    "region": "nsw",
+    "time_of_call": "16 Sep 2024 21:18:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "GATEWAY ESTATE 22 BEAUMONT RD, MOUNT KURING-GAI 2080",
+    "council_area": "Hornsby",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "16 Sep 2024 21:18"
   }
 ]
