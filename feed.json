@@ -40,22 +40,24 @@
     "updated": "17 Sep 2024 06:37:16"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYONS",
-    "id": "056049-17092024",
-    "latitude": "-35.340941",
-    "longitude": "149.072217",
+    "title": "HAZARD REDUCTION BURN - TUGGERANONG",
+    "id": "013186-17092024",
+    "latitude": "-35.49397",
+    "longitude": "149.075748",
     "region": "act",
-    "time_of_call": "17 Sep 2024 06:19:54",
-    "status": "On Scene",
+    "time_of_call": "17 Sep 2024 07:51:45",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LYONS",
-    "updated": "17 Sep 2024 07:42:13"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "HAZARD REDUCTION BURN",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
+    "location": "LANYON, THARWA DR, TUGGERANONG",
+    "updated": "17 Sep 2024 07:58:39"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "17 Sep 2024 07:41:13"
+    "updated": "17 Sep 2024 08:07:19"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "17 Sep 2024 07:42:50"
+    "updated": "17 Sep 2024 08:00:57"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +141,13 @@
     "longitude": "149.085827",
     "region": "act",
     "time_of_call": "17 Sep 2024 07:28:03",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "17 Sep 2024 07:40:29"
+    "updated": "17 Sep 2024 07:58:07"
   },
   {
     "agency": "Ambulance",
@@ -175,13 +177,67 @@
     "longitude": "149.034875",
     "region": "act",
     "time_of_call": "17 Sep 2024 07:43:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LATHAM",
+    "updated": "17 Sep 2024 08:17:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MAWSON",
+    "id": "056065-17092024",
+    "latitude": "-35.361049",
+    "longitude": "149.099386",
+    "region": "act",
+    "time_of_call": "17 Sep 2024 07:57:38",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MAWSON",
+    "updated": "17 Sep 2024 08:17:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RED HILL",
+    "id": "056066-17092024",
+    "latitude": "-35.333636",
+    "longitude": "149.120031",
+    "region": "act",
+    "time_of_call": "17 Sep 2024 08:15:28",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "LATHAM",
-    "updated": "17 Sep 2024 07:47:02"
+    "location": "RED HILL",
+    "updated": "17 Sep 2024 08:19:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "056068-17092024",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "17 Sep 2024 08:17:49",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "17 Sep 2024 08:19:35"
   },
   {
     "title": "STURT HWY, HAY SOUTH",
@@ -807,5 +863,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Sep 2024 00:55"
+  },
+  {
+    "title": "WARLANDS CREEK RD, BLANDFORD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566592",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.775354385",
+    "longitude": "150.897750854",
+    "region": "nsw",
+    "time_of_call": "17 Sep 2024 07:59:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "WARLANDS CREEK RD, BLANDFORD 2338",
+    "council_area": "Upper Hunter",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Sep 2024 07:59"
   }
 ]
