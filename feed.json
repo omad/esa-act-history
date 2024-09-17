@@ -43,42 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CONDER",
-    "id": "056282-18092024",
-    "latitude": "-35.458351",
-    "longitude": "149.106348",
-    "region": "act",
-    "time_of_call": "18 Sep 2024 07:01:02",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CONDER",
-    "updated": "18 Sep 2024 07:59:25"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONASH",
-    "id": "056284-18092024",
-    "latitude": "-35.413962",
-    "longitude": "149.091126",
-    "region": "act",
-    "time_of_call": "18 Sep 2024 07:37:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "18 Sep 2024 07:43:09"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
     "id": "056285-18092024",
     "latitude": "-35.425091",
@@ -91,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "18 Sep 2024 08:18:22"
+    "updated": "18 Sep 2024 08:32:21"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +73,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "18 Sep 2024 08:16:47"
+    "updated": "18 Sep 2024 08:33:10"
   },
   {
     "agency": "Ambulance",
@@ -121,13 +85,31 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "18 Sep 2024 08:18:01",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "18 Sep 2024 08:30:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "056291-18092024",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "18 Sep 2024 08:31:43",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CURTIN",
-    "updated": "18 Sep 2024 08:21:20"
+    "location": "AINSLIE",
+    "updated": "18 Sep 2024 08:33:20"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -427,7 +409,7 @@
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "BEETHOVEN ST, ENGADINE 2233",
+    "location": "33 BEETHOVEN ST, ENGADINE 2233",
     "council_area": "Sutherland",
     "type": "Hazard Reduction",
     "type_description": "",
@@ -995,5 +977,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Sep 2024 08:13"
+  },
+  {
+    "title": "Riamukka SF HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566711",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.372985362",
+    "longitude": "151.653900146",
+    "region": "nsw",
+    "time_of_call": "11 Sep 2024 08:26:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "RIAMUKKA 5234 BRACKENDALE RD, NOWENDOC NSW 2354",
+    "council_area": "Walcha",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "15 ha",
+    "responsible_agency": "Forestry Corporation of NSW",
+    "updated": "11 Sep 2024 08:26"
   }
 ]
