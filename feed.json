@@ -80,26 +80,6 @@
     "updated": "17 Sep 2024 15:26:55"
   },
   {
-    "agency": "Fire",
-    "alert_level": "Advice",
-    "event_type": "incident",
-    "title": "GRASS AND BUSH FIRE - CASEY",
-    "id": "013220-17092024",
-    "latitude": "-35.1743888855",
-    "longitude": "149.0983581543",
-    "region": "act",
-    "time_of_call": "17 Sep 2024 13:55:22",
-    "status": "Out / Completed",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "GRASS AND BUSH FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
-    "location": "HORSE PARK DRIVE, THE BICENTENNIAL NATIONAL TRAIL, CASEY, 2913",
-    "updated": "17 Sep 2024 14:46:54"
-  },
-  {
     "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -120,6 +100,26 @@
     "updated": "17 Sep 2024 15:17:56"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "RUBBISH FIRE - CITY",
+    "id": "013230-17092024",
+    "latitude": "-35.27776214",
+    "longitude": "149.13115528",
+    "region": "act",
+    "time_of_call": "17 Sep 2024 15:46:15",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "RUBBISH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
+    "location": "BUNDA STREET, CITY, 2601",
+    "updated": "17 Sep 2024 15:47:01"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -135,7 +135,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "17 Sep 2024 15:27:22"
+    "updated": "17 Sep 2024 15:44:58"
   },
   {
     "agency": "Ambulance",
@@ -183,13 +183,13 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "17 Sep 2024 12:12:37",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "17 Sep 2024 13:19:27"
+    "updated": "17 Sep 2024 15:42:31"
   },
   {
     "agency": "Ambulance",
@@ -261,7 +261,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "17 Sep 2024 14:08:38"
+    "updated": "17 Sep 2024 15:42:21"
   },
   {
     "agency": "Ambulance",
@@ -315,7 +315,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "17 Sep 2024 15:17:19"
+    "updated": "17 Sep 2024 15:45:20"
   },
   {
     "agency": "Ambulance",
@@ -387,7 +387,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "17 Sep 2024 15:09:45"
+    "updated": "17 Sep 2024 15:39:29"
   },
   {
     "agency": "Ambulance",
@@ -405,7 +405,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "17 Sep 2024 15:32:59"
+    "updated": "17 Sep 2024 15:36:15"
   },
   {
     "agency": "Ambulance",
@@ -477,7 +477,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "17 Sep 2024 15:33:38"
+    "updated": "17 Sep 2024 15:35:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "056175-17092024",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "17 Sep 2024 15:37:31",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "17 Sep 2024 15:44:09"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -1017,31 +1035,6 @@
     "updated": "17 Sep 2024 14:05"
   },
   {
-    "title": "TYRINGHAM RD, TYRINGHAM",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566632",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.220825195",
-    "longitude": "152.56048584",
-    "region": "nsw",
-    "time_of_call": "17 Sep 2024 15:31:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "TYRINGHAM RD, TYRINGHAM 2453",
-    "council_area": "Clarence Valley",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Sep 2024 15:31"
-  },
-  {
     "title": "CASTLEREAGH HWY, GILGANDRA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566634",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1158,25 +1151,23 @@
     "updated": "17 Sep 2024 15:12"
   },
   {
-    "title": "STRINGER RD, NORTH KELLYVILLE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566640",
+    "title": "RD, MOUNT KEIRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566641",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.670379639",
-    "longitude": "150.942077637",
+    "latitude": "-34.3749351499999",
+    "longitude": "150.861114502",
     "region": "nsw",
-    "time_of_call": "17 Sep 2024 15:16:00",
+    "time_of_call": "17 Sep 2024 15:29:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
-    "location": "STRINGER RD, NORTH KELLYVILLE 2155",
-    "council_area": "The Hills",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "location": "MOUNT OUSLEY (M1) RD, MOUNT KEIRA 2500",
+    "council_area": "Wollongong",
+    "type": "Car Fire",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Sep 2024 15:16"
+    "updated": "17 Sep 2024 15:29"
   }
 ]
