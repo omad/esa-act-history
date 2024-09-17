@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "CROFTS PLACE, SPENCE, 2615",
-    "updated": "17 Sep 2024 14:54:39"
+    "updated": "17 Sep 2024 15:32:56"
   },
   {
     "agency": "Fire",
@@ -69,15 +69,15 @@
     "longitude": "149.0840759277",
     "region": "act",
     "time_of_call": "17 Sep 2024 11:28:02",
-    "status": "Finished",
+    "status": "Out / Completed",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
+    "status_filter_label": "Out / Completed",
     "type": "GRASS AND BUSH FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "THARWA DR, GEIKIE TRAIL, THARWA, 0000",
-    "updated": "17 Sep 2024 15:21:17"
+    "updated": "17 Sep 2024 15:26:55"
   },
   {
     "agency": "Fire",
@@ -129,13 +129,13 @@
     "longitude": "149.036735",
     "region": "act",
     "time_of_call": "17 Sep 2024 10:09:07",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "17 Sep 2024 15:10:46"
+    "updated": "17 Sep 2024 15:27:22"
   },
   {
     "agency": "Ambulance",
@@ -297,7 +297,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "17 Sep 2024 15:02:33"
+    "updated": "17 Sep 2024 15:22:35"
   },
   {
     "agency": "Ambulance",
@@ -369,7 +369,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "17 Sep 2024 14:17:23"
+    "updated": "17 Sep 2024 15:23:45"
   },
   {
     "agency": "Ambulance",
@@ -405,7 +405,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "17 Sep 2024 14:36:47"
+    "updated": "17 Sep 2024 15:32:59"
   },
   {
     "agency": "Ambulance",
@@ -453,13 +453,31 @@
     "longitude": "149.099934",
     "region": "act",
     "time_of_call": "17 Sep 2024 15:16:07",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "17 Sep 2024 15:17:58"
+    "updated": "17 Sep 2024 15:30:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "056174-17092024",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "17 Sep 2024 15:33:14",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "17 Sep 2024 15:33:38"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -704,28 +722,6 @@
     "updated": "15 Sep 2024 09:30"
   },
   {
-    "title": "WHILEY RD, SPRING HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566366",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.401195527",
-    "longitude": "149.157958984",
-    "region": "nsw",
-    "time_of_call": "16 Sep 2024 23:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WHILEY RD, SPRING HILL 2800",
-    "council_area": "Orange",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Sep 2024 23:07"
-  },
-  {
     "title": "Wellington Creek South HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566496",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -768,28 +764,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Sep 2024 11:27"
-  },
-  {
-    "title": "GLENTHORNE RD, GLENTHORNE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566516",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.935218811",
-    "longitude": "152.472106933",
-    "region": "nsw",
-    "time_of_call": "16 Sep 2024 14:23:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "79 GLENTHORNE RD, GLENTHORNE 2430",
-    "council_area": "Mid-Coast",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Sep 2024 14:23"
   },
   {
     "title": "Fairview HR",
@@ -1003,9 +977,9 @@
     "latitude": "-31.239156723",
     "longitude": "149.310806274",
     "region": "nsw",
-    "time_of_call": "17 Sep 2024 14:38:00",
+    "time_of_call": "17 Sep 2024 15:17:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1018,7 +992,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Sep 2024 14:38"
+    "updated": "17 Sep 2024 15:17"
   },
   {
     "title": "NARROW NECK LOOKOUT KATOOMBA",
@@ -1050,9 +1024,9 @@
     "latitude": "-30.220825195",
     "longitude": "152.56048584",
     "region": "nsw",
-    "time_of_call": "17 Sep 2024 14:25:00",
+    "time_of_call": "17 Sep 2024 15:31:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1065,7 +1039,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Sep 2024 14:25"
+    "updated": "17 Sep 2024 15:31"
   },
   {
     "title": "CASTLEREAGH HWY, GILGANDRA",
