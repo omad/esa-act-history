@@ -67,13 +67,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "18 Sep 2024 08:00:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "18 Sep 2024 08:33:10"
+    "updated": "18 Sep 2024 08:39:45"
   },
   {
     "agency": "Ambulance",
@@ -85,13 +85,13 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "18 Sep 2024 08:18:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "18 Sep 2024 08:30:27"
+    "updated": "18 Sep 2024 08:40:26"
   },
   {
     "agency": "Ambulance",
@@ -103,13 +103,31 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "18 Sep 2024 08:31:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "18 Sep 2024 08:48:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BARTON",
+    "id": "056294-18092024",
+    "latitude": "-35.309306",
+    "longitude": "149.13437",
+    "region": "act",
+    "time_of_call": "18 Sep 2024 08:48:42",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "AINSLIE",
-    "updated": "18 Sep 2024 08:33:20"
+    "location": "BARTON",
+    "updated": "18 Sep 2024 08:48:43"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -634,7 +652,7 @@
     "latitude": "-33.7272796629999",
     "longitude": "150.292663574",
     "region": "nsw",
-    "time_of_call": "17 Sep 2024 14:05:00",
+    "time_of_call": "18 Sep 2024 08:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -646,7 +664,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Sep 2024 14:05"
+    "updated": "18 Sep 2024 08:35"
   },
   {
     "title": "BURRIER RD, BURRIER",
@@ -957,28 +975,6 @@
     "updated": "18 Sep 2024 07:15"
   },
   {
-    "title": "PACIFIC HWY, OURIMBAH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566710",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.3464088439999",
-    "longitude": "151.370437622",
-    "region": "nsw",
-    "time_of_call": "18 Sep 2024 08:13:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, OURIMBAH 2258",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2024 08:13"
-  },
-  {
     "title": "Riamukka SF HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566711",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -999,5 +995,27 @@
     "size": "15 ha",
     "responsible_agency": "Forestry Corporation of NSW",
     "updated": "11 Sep 2024 08:26"
+  },
+  {
+    "title": "HEATHCOTE RD, HOLSWORTHY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566712",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.966709137",
+    "longitude": "150.971389771",
+    "region": "nsw",
+    "time_of_call": "18 Sep 2024 08:39:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "HEATHCOTE RD, HOLSWORTHY 2173",
+    "council_area": "Liverpool",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Sep 2024 08:39"
   }
 ]
