@@ -81,24 +81,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CURTIN",
-    "id": "056353-18092024",
-    "latitude": "-35.326585",
-    "longitude": "149.076856",
-    "region": "act",
-    "time_of_call": "18 Sep 2024 13:36:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CURTIN",
-    "updated": "18 Sep 2024 14:28:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - O'CONNOR",
     "id": "056354-18092024",
     "latitude": "-35.256876",
@@ -111,25 +93,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "18 Sep 2024 15:22:18"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TURNER",
-    "id": "056355-18092024",
-    "latitude": "-35.269392",
-    "longitude": "149.126815",
-    "region": "act",
-    "time_of_call": "18 Sep 2024 13:44:29",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TURNER",
-    "updated": "18 Sep 2024 14:51:01"
+    "updated": "18 Sep 2024 15:25:57"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "18 Sep 2024 15:06:01"
+    "updated": "18 Sep 2024 15:23:15"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +177,13 @@
     "longitude": "149.066294",
     "region": "act",
     "time_of_call": "18 Sep 2024 14:53:48",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "18 Sep 2024 15:15:57"
+    "updated": "18 Sep 2024 15:27:22"
   },
   {
     "agency": "Ambulance",
@@ -237,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "18 Sep 2024 15:03:26"
+    "updated": "18 Sep 2024 15:28:16"
   },
   {
     "agency": "Ambulance",
@@ -249,13 +213,49 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "18 Sep 2024 15:03:57",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "18 Sep 2024 15:19:45"
+    "updated": "18 Sep 2024 15:30:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "056376-18092024",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "18 Sep 2024 15:29:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STIRLING",
+    "updated": "18 Sep 2024 15:31:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "056377-18092024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "18 Sep 2024 15:34:00",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "18 Sep 2024 15:34:32"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -1197,31 +1197,6 @@
     "updated": "18 Sep 2024 12:52"
   },
   {
-    "title": "PRINCES HWY, GERRINGONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566752",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.738609314",
-    "longitude": "150.821517944",
-    "region": "nsw",
-    "time_of_call": "18 Sep 2024 13:35:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "PRINCES HWY, GERRINGONG 2534",
-    "council_area": "Kiama",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2024 13:35"
-  },
-  {
     "title": "LADY WAKEHURST DR, ROYAL NATIONAL PARK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566755",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1273,9 +1248,9 @@
     "latitude": "-30.403224945",
     "longitude": "152.938079834",
     "region": "nsw",
-    "time_of_call": "18 Sep 2024 13:49:00",
+    "time_of_call": "18 Sep 2024 15:31:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "HYDES CREEK RD, HYDES CREEK 2454",
     "council_area": "Bellingen",
@@ -1283,7 +1258,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2024 13:49"
+    "updated": "18 Sep 2024 15:31"
   },
   {
     "title": "MCINTOSHS RD, UNUMGAR",
@@ -1318,9 +1293,9 @@
     "latitude": "-35.1793136599999",
     "longitude": "149.241577149",
     "region": "nsw",
-    "time_of_call": "18 Sep 2024 14:04:00",
+    "time_of_call": "18 Sep 2024 15:22:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1333,7 +1308,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2024 14:04"
+    "updated": "18 Sep 2024 15:22"
   },
   {
     "title": "NERRIGA RD, DURRAN DURRA",
@@ -1504,9 +1479,9 @@
     "latitude": "-31.484817505",
     "longitude": "148.517990112",
     "region": "nsw",
-    "time_of_call": "18 Sep 2024 14:46:00",
+    "time_of_call": "18 Sep 2024 15:22:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "CASTLEREAGH HWY, CURBAN 2827",
     "council_area": "Gilgandra",
@@ -1514,7 +1489,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2024 14:46"
+    "updated": "18 Sep 2024 15:22"
   },
   {
     "title": "HINCHINBROOK RD, BURRINGBAR",
@@ -1627,31 +1602,6 @@
     "updated": "18 Sep 2024 14:54"
   },
   {
-    "title": "Surfside Dr, Port Kembla",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566779",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.4925749999999",
-    "longitude": "150.902448",
-    "region": "nsw",
-    "time_of_call": "18 Sep 2024 14:55:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Surfside Dr, Port Kembla, NSW 2505",
-    "council_area": "Wollongong",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "18 Sep 2024 14:55"
-  },
-  {
     "title": "THE FALLS FALLS RD, WELLINGTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566780",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1659,9 +1609,9 @@
     "latitude": "-32.5521316529999",
     "longitude": "148.973388672",
     "region": "nsw",
-    "time_of_call": "18 Sep 2024 15:08:00",
+    "time_of_call": "18 Sep 2024 15:24:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "THE FALLS FALLS RD, WELLINGTON 2820",
     "council_area": "Dubbo Regional",
@@ -1671,7 +1621,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2024 15:08"
+    "updated": "18 Sep 2024 15:24"
   },
   {
     "title": "Amaroo St, Bonnyrigg",
@@ -1706,9 +1656,9 @@
     "latitude": "-34.5634994499999",
     "longitude": "150.777770997",
     "region": "nsw",
-    "time_of_call": "18 Sep 2024 15:12:00",
+    "time_of_call": "18 Sep 2024 15:30:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1721,7 +1671,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2024 15:12"
+    "updated": "18 Sep 2024 15:30"
   },
   {
     "title": "TUNTABLE CREEK RD, TUNTABLE CREEK",
@@ -1742,5 +1692,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Sep 2024 15:17"
+  },
+  {
+    "title": "Harvey Pl, North Nowra",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566784",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.857478",
+    "longitude": "150.581101",
+    "region": "nsw",
+    "time_of_call": "18 Sep 2024 15:33:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "2 Harvey Pl, North Nowra, NSW 2541",
+    "council_area": "Shoalhaven",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "18 Sep 2024 15:33"
   }
 ]
