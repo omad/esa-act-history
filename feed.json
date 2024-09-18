@@ -103,13 +103,31 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "19 Sep 2024 08:32:06",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "19 Sep 2024 08:34:34"
+    "updated": "19 Sep 2024 08:43:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACQUARIE",
+    "id": "056510-19092024",
+    "latitude": "-35.249901",
+    "longitude": "149.061171",
+    "region": "act",
+    "time_of_call": "19 Sep 2024 08:38:51",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACQUARIE",
+    "updated": "19 Sep 2024 08:46:36"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -568,7 +586,7 @@
     "latitude": "-33.7272796629999",
     "longitude": "150.292663574",
     "region": "nsw",
-    "time_of_call": "18 Sep 2024 15:48:00",
+    "time_of_call": "19 Sep 2024 08:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -580,7 +598,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2024 15:48"
+    "updated": "19 Sep 2024 08:38"
   },
   {
     "title": "BURRIER RD, BURRIER",
@@ -1206,21 +1224,21 @@
     "updated": "19 Sep 2024 08:28"
   },
   {
-    "title": "OCEAN DR, LAURIETON",
+    "title": "Ocean Dr, Laurieton",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_567854",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.635490418",
-    "longitude": "152.793273926",
+    "latitude": "-31.6354899999999",
+    "longitude": "152.79328",
     "region": "nsw",
-    "time_of_call": "19 Sep 2024 08:31:00",
+    "time_of_call": "19 Sep 2024 08:42:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "OCEAN DR, LAURIETON 2443",
+    "location": "Ocean Dr, Laurieton, NSW 2443",
     "council_area": "Port Macquarie-Hastings",
     "type": "Grass Fire",
     "type_description": "",
@@ -1228,6 +1246,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "19 Sep 2024 08:31"
+    "updated": "19 Sep 2024 08:42"
   }
 ]
