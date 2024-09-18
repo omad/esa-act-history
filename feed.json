@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "DAMALA STREET, WARAMANGA, 2611",
-    "updated": "18 Sep 2024 19:23:40"
+    "updated": "18 Sep 2024 19:38:45"
   },
   {
     "agency": "Fire",
@@ -185,7 +185,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "18 Sep 2024 19:33:57"
+    "updated": "18 Sep 2024 19:45:59"
   },
   {
     "agency": "Ambulance",
@@ -239,7 +239,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "18 Sep 2024 19:30:00"
+    "updated": "18 Sep 2024 19:38:30"
   },
   {
     "agency": "Ambulance",
@@ -269,13 +269,13 @@
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "18 Sep 2024 18:20:49",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "18 Sep 2024 18:26:46"
+    "updated": "18 Sep 2024 19:47:31"
   },
   {
     "agency": "Ambulance",
@@ -311,7 +311,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "18 Sep 2024 18:33:22"
+    "updated": "18 Sep 2024 19:43:52"
   },
   {
     "agency": "Ambulance",
@@ -329,7 +329,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "18 Sep 2024 19:29:30"
+    "updated": "18 Sep 2024 19:46:01"
   },
   {
     "agency": "Ambulance",
@@ -383,7 +383,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "18 Sep 2024 19:28:56"
+    "updated": "18 Sep 2024 19:39:39"
   },
   {
     "agency": "Ambulance",
@@ -401,7 +401,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "18 Sep 2024 19:34:13"
+    "updated": "18 Sep 2024 19:48:29"
   },
   {
     "agency": "Ambulance",
@@ -437,7 +437,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "18 Sep 2024 19:34:08"
+    "updated": "18 Sep 2024 19:48:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "056427-18092024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "18 Sep 2024 19:37:32",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "18 Sep 2024 19:44:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "056428-18092024",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "18 Sep 2024 19:39:00",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "18 Sep 2024 19:45:26"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -1338,31 +1374,6 @@
     "updated": "18 Sep 2024 15:55"
   },
   {
-    "title": "GOOBARRAGANDRA RD, GOOBARRAGANDRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566776",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.3417282099999",
-    "longitude": "148.38331604",
-    "region": "nsw",
-    "time_of_call": "18 Sep 2024 15:35:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "678 GOOBARRAGANDRA RD, GOOBARRAGANDRA 2720",
-    "council_area": "Snowy Valleys",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2024 15:35"
-  },
-  {
     "title": "CREEK RD, BARADINE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566785",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1457,26 +1468,6 @@
     "updated": "18 Sep 2024 18:53"
   },
   {
-    "title": "POMEROY RD, POMEROY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566821",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.66960907",
-    "longitude": "149.499206543",
-    "region": "nsw",
-    "time_of_call": "18 Sep 2024 18:06:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "1001 POMEROY RD, POMEROY 2580",
-    "council_area": "Goulburn Mulwaree",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2024 18:06"
-  },
-  {
     "title": "GIANTS CREEK RD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566822",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1553,9 +1544,9 @@
     "latitude": "-35.1722068789999",
     "longitude": "150.570266724",
     "region": "nsw",
-    "time_of_call": "18 Sep 2024 19:11:00",
+    "time_of_call": "18 Sep 2024 19:35:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "3 JUSTFIELD DR, SUSSEX INLET 2540",
     "council_area": "Shoalhaven",
@@ -1565,6 +1556,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2024 19:11"
+    "updated": "18 Sep 2024 19:35"
   }
 ]
