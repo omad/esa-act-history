@@ -45,19 +45,19 @@
     "event_type": "incident",
     "title": "CAR FIRE - ACTON",
     "id": "013392-20092024",
-    "latitude": "-35.2863845825",
-    "longitude": "149.1171417236",
+    "latitude": "-35.2850341797",
+    "longitude": "149.1011199951",
     "region": "act",
     "time_of_call": "20 Sep 2024 09:22:42",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "CAR FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
     "location": "PARKES WAY, PARKES, 2600",
-    "updated": "20 Sep 2024 09:25:50"
+    "updated": "20 Sep 2024 09:43:45"
   },
   {
     "agency": "Fire - Ambulance",
@@ -77,7 +77,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "THE BRADFIELD, BRADFIELD STREET, DOWNER, 2602",
-    "updated": "20 Sep 2024 09:30:33"
+    "updated": "20 Sep 2024 09:39:54"
   },
   {
     "agency": "Ambulance",
@@ -96,24 +96,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "20 Sep 2024 08:51:22"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "056745-20092024",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "20 Sep 2024 06:55:24",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "20 Sep 2024 08:27:55"
   },
   {
     "agency": "Ambulance",
@@ -149,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "20 Sep 2024 09:19:07"
+    "updated": "20 Sep 2024 09:47:08"
   },
   {
     "agency": "Ambulance",
@@ -185,7 +167,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "20 Sep 2024 09:14:29"
+    "updated": "20 Sep 2024 09:43:18"
   },
   {
     "agency": "Ambulance",
@@ -239,7 +221,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "20 Sep 2024 09:29:56"
+    "updated": "20 Sep 2024 09:31:23"
   },
   {
     "agency": "Ambulance",
@@ -257,7 +239,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "20 Sep 2024 09:26:49"
+    "updated": "20 Sep 2024 09:46:13"
   },
   {
     "agency": "Ambulance",
@@ -275,7 +257,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "20 Sep 2024 09:27:03"
+    "updated": "20 Sep 2024 09:41:40"
   },
   {
     "agency": "Ambulance",
@@ -305,13 +287,31 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "20 Sep 2024 09:29:58",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "20 Sep 2024 09:30:45"
+    "updated": "20 Sep 2024 09:36:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "056774-20092024",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "20 Sep 2024 09:31:18",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHAPMAN",
+    "updated": "20 Sep 2024 09:45:13"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -321,7 +321,7 @@
     "latitude": "-30.0550633829999",
     "longitude": "153.16980958",
     "region": "nsw",
-    "time_of_call": "19 Sep 2024 18:22:00",
+    "time_of_call": "20 Sep 2024 09:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -333,7 +333,7 @@
     "fire": "Yes",
     "size": "62 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "19 Sep 2024 18:22"
+    "updated": "20 Sep 2024 09:30"
   },
   {
     "title": "ALEX 39-40 HR",
@@ -957,29 +957,29 @@
     "updated": "19 Sep 2024 07:37"
   },
   {
-    "title": "BOUNDARY CREEK RD, NYMBOIDA",
+    "title": "BOUNDARY CREEK RD, NYMBOIDA NSW",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566810",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.9279022219999",
-    "longitude": "152.676803589",
+    "latitude": "-29.9281470449999",
+    "longitude": "152.669444085",
     "region": "nsw",
-    "time_of_call": "19 Sep 2024 16:51:00",
+    "time_of_call": "20 Sep 2024 09:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "266 BOUNDARY CREEK RD, NYMBOIDA 2460",
+    "location": "323 BOUNDARY CREEK RD, NYMBOIDA NSW 2460",
     "council_area": "Clarence Valley",
     "type": "Bush Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "16 ha",
+    "size": "21 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Sep 2024 16:51"
+    "updated": "20 Sep 2024 09:35"
   },
   {
     "title": "NICLINS RD, MANGROVE MOUNTAIN",
@@ -1470,6 +1470,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Sep 2024 07:42"
+  },
+  {
+    "title": "611 Growee Rd - Agricultural Burn",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568003",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.644309285",
+    "longitude": "150.117272196",
+    "region": "nsw",
+    "time_of_call": "20 Sep 2024 09:35:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "GROWEE STATION 611 GROWEE RD, GROWEE NSW 2849",
+    "council_area": "Mid-Western",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "80 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Sep 2024 09:35"
   },
   {
     "title": "TUNCURRY TIP RD, DARAWANK",
