@@ -59,24 +59,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHISHOLM",
-    "id": "056693-19092024",
-    "latitude": "-35.422993",
-    "longitude": "149.12793",
-    "region": "act",
-    "time_of_call": "19 Sep 2024 23:06:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHISHOLM",
-    "updated": "20 Sep 2024 00:27:30"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GARRAN",
     "id": "056697-19092024",
     "latitude": "-35.340821",
@@ -107,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "20 Sep 2024 01:15:53"
+    "updated": "20 Sep 2024 01:27:09"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "20 Sep 2024 00:56:25"
+    "updated": "20 Sep 2024 01:26:25"
   },
   {
     "agency": "Ambulance",
@@ -143,25 +125,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "20 Sep 2024 00:32:54"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONASH",
-    "id": "056705-20092024",
-    "latitude": "-35.413962",
-    "longitude": "149.091126",
-    "region": "act",
-    "time_of_call": "20 Sep 2024 00:37:31",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "20 Sep 2024 00:53:01"
+    "updated": "20 Sep 2024 01:25:28"
   },
   {
     "agency": "Ambulance",
@@ -180,6 +144,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
     "updated": "20 Sep 2024 00:49:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "056708-20092024",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "20 Sep 2024 01:30:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "20 Sep 2024 01:32:05"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -1371,50 +1353,5 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "20 Sep 2024 00:32"
-  },
-  {
-    "title": "ANDY POOLE DR, TATHRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_567986",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.7222442619999",
-    "longitude": "149.977340698",
-    "region": "nsw",
-    "time_of_call": "20 Sep 2024 01:21:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "9 ANDY POOLE DR, TATHRA 2550",
-    "council_area": "Bega Valley",
-    "type": "Medical",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Sep 2024 01:21"
-  },
-  {
-    "title": "Duke St, Grafton",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_567987",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.6895099999999",
-    "longitude": "152.937606",
-    "region": "nsw",
-    "time_of_call": "20 Sep 2024 01:12:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "60 Duke St, Grafton, NSW 2460",
-    "council_area": "Clarence Valley",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "20 Sep 2024 01:12"
   }
 ]
