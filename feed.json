@@ -40,6 +40,26 @@
     "updated": "20 Sep 2024 12:37:43"
   },
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STRUCTURE FIRE - GREENWAY",
+    "id": "013417-21092024",
+    "latitude": "-35.4147588",
+    "longitude": "149.0690817",
+    "region": "act",
+    "time_of_call": "21 Sep 2024 01:49:29",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "STRUCTURE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
+    "location": "TUGGERANONG LIBRARY, COWLISHAW STREET, GREENWAY, 2900",
+    "updated": "21 Sep 2024 02:25:49"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -61,42 +81,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FISHER",
-    "id": "056931-20092024",
-    "latitude": "-35.360481",
-    "longitude": "149.058056",
-    "region": "act",
-    "time_of_call": "20 Sep 2024 23:06:28",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FISHER",
-    "updated": "20 Sep 2024 23:20:54"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WATSON",
-    "id": "056938-21092024",
-    "latitude": "-35.234652",
-    "longitude": "149.15807",
-    "region": "act",
-    "time_of_call": "21 Sep 2024 00:57:04",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WATSON",
-    "updated": "21 Sep 2024 01:22:06"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BELCONNEN",
     "id": "056939-21092024",
     "latitude": "-35.235936",
@@ -109,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "21 Sep 2024 01:44:10"
+    "updated": "21 Sep 2024 02:05:43"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "21 Sep 2024 01:47:21"
+    "updated": "21 Sep 2024 02:07:05"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "21 Sep 2024 01:47:40"
+    "updated": "21 Sep 2024 02:26:30"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -857,7 +841,7 @@
     "latitude": "-33.362703425",
     "longitude": "148.972141742",
     "region": "nsw",
-    "time_of_call": "20 Sep 2024 17:53:00",
+    "time_of_call": "21 Sep 2024 01:48:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -872,7 +856,7 @@
     "fire": "Yes",
     "size": "11 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "20 Sep 2024 17:53"
+    "updated": "21 Sep 2024 01:48"
   },
   {
     "title": "CANIABA RD, LOFTVILLE",
@@ -1392,9 +1376,9 @@
     "latitude": "-31.7266502379999",
     "longitude": "152.699066163",
     "region": "nsw",
-    "time_of_call": "21 Sep 2024 01:16:00",
+    "time_of_call": "21 Sep 2024 02:11:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1407,7 +1391,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Sep 2024 01:16"
+    "updated": "21 Sep 2024 02:11"
   },
   {
     "title": "RUSSELL ST, BINALONG",
@@ -1432,28 +1416,48 @@
     "updated": "21 Sep 2024 01:39"
   },
   {
-    "title": "Macquarie St, Glen Innes",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568158",
+    "title": "KING ST, CLARENCE TOWN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568159",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.746323",
-    "longitude": "151.728352",
+    "latitude": "-32.5903015129999",
+    "longitude": "151.782623291",
     "region": "nsw",
-    "time_of_call": "21 Sep 2024 01:42:00",
+    "time_of_call": "21 Sep 2024 01:47:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "132 KING ST, CLARENCE TOWN 2321",
+    "council_area": "Dungog",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Sep 2024 01:47"
+  },
+  {
+    "title": "River St, West Ballina",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568160",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.8627049999999",
+    "longitude": "153.522247",
+    "region": "nsw",
+    "time_of_call": "21 Sep 2024 02:01:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "Macquarie St, Glen Innes,  2370",
-    "council_area": "Glen Innes Severn",
+    "location": "595 River St, West Ballina, NSW 2478",
+    "council_area": "Ballina",
     "type": "Grass Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "21 Sep 2024 01:42"
+    "updated": "21 Sep 2024 02:01"
   }
 ]
