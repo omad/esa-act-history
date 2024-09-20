@@ -165,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "21 Sep 2024 00:19:13"
+    "updated": "21 Sep 2024 00:39:54"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "DENMAN PROSPECT",
-    "updated": "21 Sep 2024 00:34:35"
+    "updated": "21 Sep 2024 00:37:05"
   },
   {
     "agency": "Ambulance",
@@ -195,13 +195,13 @@
     "longitude": "149.126815",
     "region": "act",
     "time_of_call": "21 Sep 2024 00:31:36",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "21 Sep 2024 00:34:18"
+    "updated": "21 Sep 2024 00:42:53"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -1448,7 +1448,7 @@
     "latitude": "-33.975948333",
     "longitude": "141.903900146",
     "region": "nsw",
-    "time_of_call": "20 Sep 2024 23:07:00",
+    "time_of_call": "21 Sep 2024 00:36:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1460,7 +1460,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Sep 2024 23:07"
+    "updated": "21 Sep 2024 00:36"
   },
   {
     "title": "OAKDALE RD, GATESHEAD",
@@ -1513,47 +1513,50 @@
     "updated": "20 Sep 2024 23:09"
   },
   {
-    "title": "WALKER ST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568149",
+    "title": "NANCE RD, SOUTH KEMPSEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568152",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.191913605",
-    "longitude": "150.982131958",
+    "latitude": "-31.0991096499999",
+    "longitude": "152.828170777",
     "region": "nsw",
-    "time_of_call": "20 Sep 2024 23:35:00",
+    "time_of_call": "21 Sep 2024 00:34:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Out of control",
     "alert_level": "Not Applicable",
-    "location": "COLES HELENSBURGH 23-33 WALKER ST, HELENSBURGH 2508",
-    "council_area": "Wollongong",
-    "type": "Structure Fire",
+    "location": "44-46 NANCE RD, SOUTH KEMPSEY 2440",
+    "council_area": "Kempsey",
+    "type": "Vehicle/Equipment Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "20 Sep 2024 23:35"
+    "updated": "21 Sep 2024 00:34"
   },
   {
-    "title": "PRINCES HWY, CROOM",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568151",
+    "title": "JOHNS RIVER RD, JOHNS RIVER",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568153",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.588924408",
-    "longitude": "150.844497681",
+    "latitude": "-31.7266502379999",
+    "longitude": "152.699066163",
     "region": "nsw",
-    "time_of_call": "21 Sep 2024 00:05:00",
+    "time_of_call": "21 Sep 2024 00:40:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "PRINCES HWY, CROOM 2527",
-    "council_area": "Shellharbour",
-    "type": "MVA/Transport",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "86 JOHNS RIVER RD, JOHNS RIVER 2443",
+    "council_area": "Mid-Coast",
+    "type": "Bush Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Sep 2024 00:05"
+    "updated": "21 Sep 2024 00:40"
   }
 ]
