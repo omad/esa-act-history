@@ -121,13 +121,13 @@
     "longitude": "149.03611",
     "region": "act",
     "time_of_call": "21 Sep 2024 21:59:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
-    "updated": "21 Sep 2024 23:14:23"
+    "updated": "21 Sep 2024 23:27:06"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +289,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "21 Sep 2024 23:21:14"
+    "updated": "21 Sep 2024 23:26:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DENMAN PROSPECT",
+    "id": "057172-21092024",
+    "latitude": "-35.303694",
+    "longitude": "149.025004",
+    "region": "act",
+    "time_of_call": "21 Sep 2024 23:29:31",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DENMAN PROSPECT",
+    "updated": "21 Sep 2024 23:31:22"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -1608,5 +1626,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Sep 2024 22:52"
+  },
+  {
+    "title": "TUCKA TUCKA RD, BOGGABILLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568310",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.669027329",
+    "longitude": "150.442642212",
+    "region": "nsw",
+    "time_of_call": "21 Sep 2024 23:25:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "TUCKA TUCKA RD, BOGGABILLA 2409",
+    "council_area": "Moree Plains",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Sep 2024 23:25"
   }
 ]
