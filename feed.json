@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "057418-23092024",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "23 Sep 2024 05:05:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "23 Sep 2024 06:09:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KAMBAH",
     "id": "057420-23092024",
     "latitude": "-35.384074",
@@ -109,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "23 Sep 2024 06:30:15"
+    "updated": "23 Sep 2024 06:38:51"
   },
   {
     "agency": "Ambulance",
@@ -128,6 +110,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
     "updated": "23 Sep 2024 06:30:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "057424-23092024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "23 Sep 2024 06:37:12",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "23 Sep 2024 06:48:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "057425-23092024",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "23 Sep 2024 06:47:45",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "23 Sep 2024 06:48:53"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -239,7 +257,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "147 ha",
-    "major_fire_update_as_at_22_sep_2024_8:22pm": "<a href='http://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12083' target='_blank'> More information</a>",
+    "major_fire_update_as_at_23_sep_2024_6:34am": "<a href='http://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12083' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Sep 2024 03:00"
   },
@@ -1277,5 +1295,27 @@
     "size": "4 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Sep 2024 22:26"
+  },
+  {
+    "title": "MONARO HWY, WILLIAMSDALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568478",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.628822326",
+    "longitude": "149.160964966",
+    "region": "nsw",
+    "time_of_call": "23 Sep 2024 06:33:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "7061 MONARO HWY, WILLIAMSDALE 2620",
+    "council_area": "Snowy Monaro",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Sep 2024 06:33"
   }
 ]
