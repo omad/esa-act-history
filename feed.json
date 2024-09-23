@@ -77,10 +77,10 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "PATTEN STREET, NGUNNAWAL, 2913",
-    "updated": "24 Sep 2024 09:28:52"
+    "updated": "24 Sep 2024 09:39:38"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - GUNGAHLIN",
@@ -133,7 +133,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "24 Sep 2024 09:06:10"
+    "updated": "24 Sep 2024 09:38:37"
   },
   {
     "agency": "Ambulance",
@@ -151,7 +151,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "24 Sep 2024 09:14:50"
+    "updated": "24 Sep 2024 09:45:59"
   },
   {
     "agency": "Ambulance",
@@ -181,13 +181,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "24 Sep 2024 09:13:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "24 Sep 2024 09:18:04"
+    "updated": "24 Sep 2024 09:41:40"
   },
   {
     "agency": "Ambulance",
@@ -205,7 +205,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "24 Sep 2024 09:29:08"
+    "updated": "24 Sep 2024 09:43:41"
   },
   {
     "agency": "Ambulance",
@@ -217,13 +217,13 @@
     "longitude": "149.143165",
     "region": "act",
     "time_of_call": "24 Sep 2024 09:28:28",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "24 Sep 2024 09:29:52"
+    "updated": "24 Sep 2024 09:36:36"
   },
   {
     "agency": "Ambulance",
@@ -235,13 +235,67 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "24 Sep 2024 09:29:52",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "24 Sep 2024 09:38:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "057678-24092024",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "24 Sep 2024 09:35:29",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "24 Sep 2024 09:29:54"
+    "location": "CONDER",
+    "updated": "24 Sep 2024 09:47:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "057681-24092024",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "24 Sep 2024 09:44:09",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "24 Sep 2024 09:48:36"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "057682-24092024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "24 Sep 2024 09:47:33",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "24 Sep 2024 09:48:48"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -1091,7 +1145,7 @@
     "latitude": "-28.289234162",
     "longitude": "153.560241699",
     "region": "nsw",
-    "time_of_call": "24 Sep 2024 00:39:00",
+    "time_of_call": "24 Sep 2024 09:34:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1103,7 +1157,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2024 00:39"
+    "updated": "24 Sep 2024 09:34"
   },
   {
     "title": "WEROMBI RD, BROWNLOW HILL NSW",
@@ -1160,7 +1214,7 @@
     "latitude": "-31.368221916",
     "longitude": "151.646690368",
     "region": "nsw",
-    "time_of_call": "24 Sep 2024 08:52:00",
+    "time_of_call": "24 Sep 2024 09:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1172,7 +1226,7 @@
     "fire": "Yes",
     "size": "5 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "24 Sep 2024 08:52"
+    "updated": "24 Sep 2024 09:32"
   },
   {
     "title": "Middle Ridge HR",
@@ -1682,5 +1736,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Sep 2024 09:04"
+  },
+  {
+    "title": "LUCAS ST, OLD ADAMINABY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568627",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.037952423",
+    "longitude": "148.70652771",
+    "region": "nsw",
+    "time_of_call": "24 Sep 2024 09:39:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "LUCAS ST, OLD ADAMINABY 2629",
+    "council_area": "Snowy Monaro",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Sep 2024 09:39"
+  },
+  {
+    "title": "Sugarloaf SF HRB",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568628",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.9630174759999",
+    "longitude": "152.629108429",
+    "region": "nsw",
+    "time_of_call": "24 Sep 2024 09:00:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "sugarloaf State Forest, nsw",
+    "council_area": "Kyogle",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Forestry Corporation of NSW",
+    "updated": "24 Sep 2024 09:00"
   }
 ]
