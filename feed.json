@@ -80,7 +80,7 @@
     "updated": "24 Sep 2024 06:24:58"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - O'CONNOR",
@@ -89,15 +89,35 @@
     "longitude": "149.115337",
     "region": "act",
     "time_of_call": "24 Sep 2024 06:13:55",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "MILLER STREET, MACARTHUR AVENUE, OCONNOR, 2602",
-    "updated": "24 Sep 2024 06:36:51"
+    "updated": "24 Sep 2024 06:38:02"
+  },
+  {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - GUNGAHLIN",
+    "id": "013577-24092024",
+    "latitude": "-35.19320799",
+    "longitude": "149.12782",
+    "region": "act",
+    "time_of_call": "24 Sep 2024 06:42:45",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "GUNGAHLIN DRIVE, KOSCIUSZKO AVENUE, GUNGAHLIN, 2912",
+    "updated": "24 Sep 2024 06:47:51"
   },
   {
     "agency": "Ambulance",
@@ -121,24 +141,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "057639-24092024",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "24 Sep 2024 05:31:42",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "24 Sep 2024 05:55:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - LYNEHAM",
     "id": "057641-24092024",
     "latitude": "-35.238929",
@@ -151,7 +153,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "24 Sep 2024 06:25:56"
+    "updated": "24 Sep 2024 06:44:34"
   },
   {
     "agency": "Ambulance",
@@ -169,7 +171,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "24 Sep 2024 06:11:02"
+    "updated": "24 Sep 2024 06:47:55"
   },
   {
     "agency": "Ambulance",
@@ -187,7 +189,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DENMAN PROSPECT",
-    "updated": "24 Sep 2024 06:26:11"
+    "updated": "24 Sep 2024 06:46:03"
   },
   {
     "agency": "Ambulance",
@@ -206,6 +208,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "24 Sep 2024 06:31:04"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "057651-24092024",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "24 Sep 2024 06:40:01",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "24 Sep 2024 06:44:23"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -620,28 +640,6 @@
     "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Sep 2024 00:30"
-  },
-  {
-    "title": "DUNS CREEK RD, DUNS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568173",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.601463317",
-    "longitude": "151.667419434",
-    "region": "nsw",
-    "time_of_call": "24 Sep 2024 00:34:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "669E DUNS CREEK RD, DUNS CREEK 2321",
-    "council_area": "Port Stephens",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "1 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2024 00:34"
   },
   {
     "title": "BRUXNER HWY, SANDY HILL",
