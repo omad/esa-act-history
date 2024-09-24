@@ -109,13 +109,13 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "24 Sep 2024 18:59:52",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "24 Sep 2024 21:12:30"
+    "updated": "24 Sep 2024 21:19:35"
   },
   {
     "agency": "Ambulance",
@@ -133,7 +133,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "24 Sep 2024 20:59:29"
+    "updated": "24 Sep 2024 21:26:57"
   },
   {
     "agency": "Ambulance",
@@ -151,7 +151,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "24 Sep 2024 20:57:54"
+    "updated": "24 Sep 2024 21:21:03"
   },
   {
     "agency": "Ambulance",
@@ -187,7 +187,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "24 Sep 2024 21:18:54"
+    "updated": "24 Sep 2024 21:27:50"
   },
   {
     "agency": "Ambulance",
@@ -223,25 +223,43 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "24 Sep 2024 21:16:31"
+    "updated": "24 Sep 2024 21:20:56"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - EVATT",
-    "id": "057843-24092024",
-    "latitude": "-35.212001",
-    "longitude": "149.066294",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "057844-24092024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
     "region": "act",
-    "time_of_call": "24 Sep 2024 21:18:16",
+    "time_of_call": "24 Sep 2024 21:19:40",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "EVATT",
-    "updated": "24 Sep 2024 21:18:27"
+    "location": "GREENWAY",
+    "updated": "24 Sep 2024 21:27:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "057845-24092024",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "24 Sep 2024 21:25:03",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "24 Sep 2024 21:27:30"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -618,7 +636,7 @@
     "latitude": "-33.7541492459999",
     "longitude": "151.263803959",
     "region": "nsw",
-    "time_of_call": "23 Sep 2024 18:23:00",
+    "time_of_call": "24 Sep 2024 21:23:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -630,7 +648,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 Sep 2024 18:23"
+    "updated": "24 Sep 2024 21:23"
   },
   {
     "title": "COOK DR, SWAN BAY",
@@ -1714,7 +1732,7 @@
     "latitude": "-30.220716476",
     "longitude": "152.56060791",
     "region": "nsw",
-    "time_of_call": "24 Sep 2024 20:59:00",
+    "time_of_call": "24 Sep 2024 21:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1729,7 +1747,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2024 20:59"
+    "updated": "24 Sep 2024 21:21"
   },
   {
     "title": "SIX MILE RD, EAGLETON",
@@ -1752,31 +1770,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Sep 2024 21:01"
-  },
-  {
-    "title": "BENTLEY RD, FERNSIDE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568720",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.792060852",
-    "longitude": "153.146362305",
-    "region": "nsw",
-    "time_of_call": "24 Sep 2024 21:13:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "BENTLEY RD, FERNSIDE 2480",
-    "council_area": "Richmond Valley",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2024 21:13"
   },
   {
     "title": "TUNNEL HILL LANE, MARRANGAROO",
@@ -1824,31 +1817,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Sep 2024 20:37"
-  },
-  {
-    "title": "PACIFIC HWY, FREEMANS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568723",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.187316895",
-    "longitude": "151.58380127",
-    "region": "nsw",
-    "time_of_call": "24 Sep 2024 20:52:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "PACIFIC HWY, FREEMANS 2259",
-    "council_area": "Central Coast",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2024 20:52"
   },
   {
     "title": "WYRALLAH RD, MONALTRIE",
