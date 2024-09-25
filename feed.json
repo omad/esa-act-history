@@ -97,25 +97,47 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/incident-other_0.svg",
     "location": "LONDON CIRCUIT, CITY, 2601",
-    "updated": "26 Sep 2024 08:15:27"
+    "updated": "26 Sep 2024 08:33:57"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "058145-26092024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
+    "title": "STORM OR TREE DAMAGE - CHIFLEY",
+    "id": "013678-26092024",
+    "latitude": "-35.35283115",
+    "longitude": "149.0820395799",
     "region": "act",
-    "time_of_call": "26 Sep 2024 07:01:53",
-    "status": "On Scene",
+    "time_of_call": "26 Sep 2024 08:25:45",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "26 Sep 2024 07:29:50"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "114B EGGLESTON CRESCENT, CHIFLEY, 2606",
+    "updated": "26 Sep 2024 08:26:14"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STORM OR TREE DAMAGE - GORDON",
+    "id": "013679-26092024",
+    "latitude": "-35.4537584899",
+    "longitude": "149.08466297",
+    "region": "act",
+    "time_of_call": "26 Sep 2024 08:35:14",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "MCGILVRAY CLOSE, GORDON, 2906",
+    "updated": "26 Sep 2024 08:36:31"
   },
   {
     "agency": "Ambulance",
@@ -151,7 +173,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MOLONGLO VALLEY",
-    "updated": "26 Sep 2024 07:47:53"
+    "updated": "26 Sep 2024 08:36:38"
   },
   {
     "agency": "Ambulance",
@@ -187,7 +209,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "26 Sep 2024 08:06:58"
+    "updated": "26 Sep 2024 08:24:34"
   },
   {
     "agency": "Ambulance",
@@ -848,8 +870,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568623",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.521102905",
-    "longitude": "152.314163208",
+    "latitude": "-30.614277413",
+    "longitude": "152.196350098",
     "region": "nsw",
     "time_of_call": "25 Sep 2024 16:27:00",
     "event_type": "burnt area",
@@ -1381,31 +1403,6 @@
     "updated": "25 Sep 2024 21:55"
   },
   {
-    "title": "DRY ARM TRK, WOLLOMBI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568842",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.9496688839999",
-    "longitude": "151.123062133",
-    "region": "nsw",
-    "time_of_call": "25 Sep 2024 21:48:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "DRY ARM TRK, WOLLOMBI 2325",
-    "council_area": "Cessnock",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Sep 2024 21:48"
-  },
-  {
     "title": "REMEMBRANCE DVWY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568846",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1510,9 +1507,9 @@
     "latitude": "-35.8151855469999",
     "longitude": "150.132583618",
     "region": "nsw",
-    "time_of_call": "26 Sep 2024 07:46:00",
+    "time_of_call": "26 Sep 2024 08:23:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "25 OLD MOSSY POINT RD, JEREMADRA 2536",
     "council_area": "Eurobodalla",
@@ -1522,7 +1519,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Sep 2024 07:46"
+    "updated": "26 Sep 2024 08:23"
   },
   {
     "title": "SANCROX RD, SANCROX",
@@ -1532,7 +1529,7 @@
     "latitude": "-31.4418163299999",
     "longitude": "152.822341919",
     "region": "nsw",
-    "time_of_call": "26 Sep 2024 08:14:00",
+    "time_of_call": "26 Sep 2024 08:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1544,7 +1541,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Sep 2024 08:14"
+    "updated": "26 Sep 2024 08:22"
   },
   {
     "title": "SURFSIDE DR, CATHERINE HILL BAY",
@@ -1565,27 +1562,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Sep 2024 08:08"
-  },
-  {
-    "title": "CAMDEN RUGBY CLUB",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568873",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.08833313",
-    "longitude": "150.686096191",
-    "region": "nsw",
-    "time_of_call": "26 Sep 2024 08:13:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "76 WIRE LANE, CAMDEN SOUTH NSW 2570",
-    "council_area": "Camden",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Sep 2024 08:13"
   }
 ]
