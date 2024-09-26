@@ -59,24 +59,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - COOK",
-    "id": "058282-26092024",
-    "latitude": "-35.261055",
-    "longitude": "149.064271",
-    "region": "act",
-    "time_of_call": "26 Sep 2024 18:24:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "COOK",
-    "updated": "26 Sep 2024 19:36:30"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GRIFFITH",
     "id": "058289-26092024",
     "latitude": "-35.325773",
@@ -101,13 +83,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "26 Sep 2024 19:39:01",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "26 Sep 2024 20:06:58"
+    "updated": "26 Sep 2024 20:43:03"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "26 Sep 2024 20:36:25"
+    "updated": "26 Sep 2024 20:46:21"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "26 Sep 2024 20:03:51"
+    "updated": "26 Sep 2024 20:39:00"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +155,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "26 Sep 2024 20:16:52",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "26 Sep 2024 20:31:07"
+    "updated": "26 Sep 2024 20:47:03"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "26 Sep 2024 20:21:33",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "26 Sep 2024 20:25:03"
+    "updated": "26 Sep 2024 20:45:29"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +197,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": ""
+    "updated": "26 Sep 2024 20:40:27"
   },
   {
     "title": "Hunter Water HR - Grahamstown Dam spillway",
@@ -1094,40 +1076,18 @@
     "updated": "26 Sep 2024 20:25"
   },
   {
-    "title": "AVOCA DR, KINCUMBER",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568924",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.4668617249999",
-    "longitude": "151.410064698",
-    "region": "nsw",
-    "time_of_call": "26 Sep 2024 20:09:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "298 AVOCA DR, KINCUMBER 2251",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Sep 2024 20:09"
-  },
-  {
     "title": "BUREEN RD, MARTINDALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568925",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.438999176",
-    "longitude": "150.674072265",
+    "latitude": "-32.443122864",
+    "longitude": "150.678985595",
     "region": "nsw",
     "time_of_call": "26 Sep 2024 20:32:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
-    "location": "BUREEN RD, MARTINDALE 2328",
+    "location": "WYVERN PARK 30 BUREEN RD, MARTINDALE 2328",
     "council_area": "Muswellbrook",
     "type": "Vehicle/Equipment Fire",
     "type_description": "",
@@ -1158,5 +1118,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Sep 2024 20:37"
+  },
+  {
+    "title": "POPLAR AV, ALBION PARK RAIL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568927",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.5558700559999",
+    "longitude": "150.788665772",
+    "region": "nsw",
+    "time_of_call": "26 Sep 2024 20:41:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "76 POPLAR AV, ALBION PARK RAIL 2527",
+    "council_area": "Shellharbour",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "26 Sep 2024 20:41"
   }
 ]
