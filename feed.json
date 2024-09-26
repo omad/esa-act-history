@@ -29,15 +29,15 @@
     "longitude": "149.1440957599",
     "region": "act",
     "time_of_call": "27 Sep 2024 08:12:49",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "BLAXLAND CRESCENT, GRIFFITH, 2603",
-    "updated": "27 Sep 2024 08:25:20"
+    "updated": "27 Sep 2024 08:48:21"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "27 Sep 2024 08:19:26"
+    "updated": "27 Sep 2024 08:42:07"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +211,13 @@
     "longitude": "149.066294",
     "region": "act",
     "time_of_call": "27 Sep 2024 08:20:52",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "27 Sep 2024 08:33:00"
+    "updated": "27 Sep 2024 08:38:21"
   },
   {
     "agency": "Ambulance",
@@ -236,6 +236,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "27 Sep 2024 08:32:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "058363-27092024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "27 Sep 2024 08:43:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "27 Sep 2024 08:46:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "058364-27092024",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "27 Sep 2024 08:45:18",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STIRLING",
+    "updated": "27 Sep 2024 08:48:39"
   },
   {
     "title": "Hunter Water HR - Grahamstown Dam spillway",
@@ -905,27 +941,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Sep 2024 06:36"
-  },
-  {
-    "title": "PACIFIC HWY, BEROWRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568945",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.627975464",
-    "longitude": "151.148040772",
-    "region": "nsw",
-    "time_of_call": "27 Sep 2024 08:30:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, BEROWRA 2081",
-    "council_area": "Hornsby",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "27 Sep 2024 08:30"
   }
 ]
