@@ -35,7 +35,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "26 Sep 2024 23:50:08"
+    "updated": "27 Sep 2024 04:52:22"
   },
   {
     "agency": "Ambulance",
@@ -54,24 +54,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "27 Sep 2024 03:55:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "058333-27092024",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "27 Sep 2024 04:03:38",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "27 Sep 2024 04:47:54"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +83,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "27 Sep 2024 04:17:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "27 Sep 2024 04:32:51"
+    "updated": "27 Sep 2024 04:53:05"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +101,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "27 Sep 2024 04:44:24",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "27 Sep 2024 04:48:29"
+    "updated": "27 Sep 2024 04:57:57"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +119,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "27 Sep 2024 04:46:47",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "27 Sep 2024 04:48:27"
+    "updated": "27 Sep 2024 05:09:59"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "27 Sep 2024 04:48:26"
+    "updated": "27 Sep 2024 04:53:13"
   },
   {
     "title": "Hunter Water HR - Grahamstown Dam spillway",
@@ -947,5 +929,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Sep 2024 13:58"
+  },
+  {
+    "title": "EATON RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568938",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.8866043089999",
+    "longitude": "150.699493408",
+    "region": "nsw",
+    "time_of_call": "27 Sep 2024 05:13:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "WESTERN SYDNEY INT AIRPORT EX CTR 100 EATON RD, LUDDENHAM 2745",
+    "council_area": "Liverpool",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Sep 2024 05:13"
+  },
+  {
+    "title": "BOWNING RD, BOWNING",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568939",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.769126892",
+    "longitude": "148.828292847",
+    "region": "nsw",
+    "time_of_call": "27 Sep 2024 05:01:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "TALINGA 29 BOWNING RD, BOWNING 2582",
+    "council_area": "Yass Valley",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Sep 2024 05:01"
   }
 ]
