@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "BLAXLAND CRESCENT, GRIFFITH, 2603",
-    "updated": "27 Sep 2024 08:19:37"
+    "updated": "27 Sep 2024 08:25:20"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "27 Sep 2024 08:06:53"
+    "updated": "27 Sep 2024 08:23:14"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "27 Sep 2024 07:57:13"
+    "updated": "27 Sep 2024 08:32:11"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "27 Sep 2024 07:52:46"
+    "updated": "27 Sep 2024 08:34:39"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +211,31 @@
     "longitude": "149.066294",
     "region": "act",
     "time_of_call": "27 Sep 2024 08:20:52",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "27 Sep 2024 08:21:49"
+    "updated": "27 Sep 2024 08:33:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "058362-27092024",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "27 Sep 2024 08:32:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "27 Sep 2024 08:32:32"
   },
   {
     "title": "Hunter Water HR - Grahamstown Dam spillway",
@@ -655,7 +673,7 @@
     "latitude": "-28.695854187",
     "longitude": "152.070343017",
     "region": "nsw",
-    "time_of_call": "26 Sep 2024 11:18:00",
+    "time_of_call": "27 Sep 2024 08:26:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -670,7 +688,7 @@
     "fire": "Yes",
     "size": "29 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Sep 2024 11:18"
+    "updated": "27 Sep 2024 08:26"
   },
   {
     "title": "ENGLANDS RD, NORTH BOAMBEE VALLEY",
@@ -721,31 +739,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Sep 2024 07:52"
-  },
-  {
-    "title": "SUGARBAG RD W, DRAKE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568803",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.8785076139999",
-    "longitude": "152.441925048",
-    "region": "nsw",
-    "time_of_call": "27 Sep 2024 07:50:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "SUGARBAG RD W, DRAKE 2469",
-    "council_area": "Tenterfield",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2024 07:50"
   },
   {
     "title": "SUMMER HILL RD, SUMMER HILL",
@@ -912,5 +905,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Sep 2024 06:36"
+  },
+  {
+    "title": "PACIFIC HWY, BEROWRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568945",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.627975464",
+    "longitude": "151.148040772",
+    "region": "nsw",
+    "time_of_call": "27 Sep 2024 08:30:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, BEROWRA 2081",
+    "council_area": "Hornsby",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "27 Sep 2024 08:30"
   }
 ]
