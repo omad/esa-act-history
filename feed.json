@@ -40,26 +40,6 @@
     "updated": "27 Sep 2024 09:11:01"
   },
   {
-    "agency": "Fire - Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - MCKELLAR",
-    "id": "013762-27092024",
-    "latitude": "-35.220134",
-    "longitude": "149.079768",
-    "region": "act",
-    "time_of_call": "27 Sep 2024 19:02:26",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "DUMAS STREET, GUNDAROO DRIVE, MCKELLAR, 2617",
-    "updated": "27 Sep 2024 19:29:46"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -75,7 +55,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DENMAN PROSPECT",
-    "updated": "27 Sep 2024 20:03:46"
+    "updated": "27 Sep 2024 20:31:55"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "27 Sep 2024 20:00:12"
+    "updated": "27 Sep 2024 20:29:55"
   },
   {
     "agency": "Ambulance",
@@ -202,6 +182,26 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
     "updated": "27 Sep 2024 20:03:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - MCKELLAR",
+    "id": "058517-27092024",
+    "latitude": "-35.220134",
+    "longitude": "149.079768",
+    "region": "act",
+    "time_of_call": "27 Sep 2024 19:02:26",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "",
+    "location": "DUMAS STREET, GUNDAROO DRIVE, MCKELLAR, 2617",
+    "updated": "27 Sep 2024 19:29:46"
   },
   {
     "agency": "Ambulance",
@@ -273,7 +273,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "27 Sep 2024 20:24:32"
+    "updated": "27 Sep 2024 20:38:45"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +291,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "27 Sep 2024 20:15:40"
+    "updated": "27 Sep 2024 20:34:27"
   },
   {
     "agency": "Ambulance",
@@ -321,13 +321,49 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "27 Sep 2024 20:13:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "27 Sep 2024 20:21:08"
+    "updated": "27 Sep 2024 20:26:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "058533-27092024",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "27 Sep 2024 20:25:42",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "27 Sep 2024 20:38:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "058536-27092024",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "27 Sep 2024 20:35:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": ""
   },
   {
     "title": "Hunter Water HR - Grahamstown Dam spillway",
@@ -648,28 +684,6 @@
     "updated": "27 Sep 2024 09:51"
   },
   {
-    "title": "BINGLEY WAY, WAMBOIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568982",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.260875702",
-    "longitude": "149.310577392",
-    "region": "nsw",
-    "time_of_call": "27 Sep 2024 15:46:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "139 BINGLEY WAY, WAMBOIN 2620",
-    "council_area": "Queanbeyan-Palerang",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2024 15:46"
-  },
-  {
     "title": "Hazard Reduction",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568983",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -779,28 +793,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Sep 2024 19:01"
-  },
-  {
-    "title": "OLD BARMAH RD, MOAMA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568993",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.0978851319999",
-    "longitude": "144.813491822",
-    "region": "nsw",
-    "time_of_call": "27 Sep 2024 19:38:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "256 OLD BARMAH RD, MOAMA 2731",
-    "council_area": "Murray River",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2024 19:38"
   },
   {
     "title": "RIVER RD, LOWER PORTLAND",
