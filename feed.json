@@ -131,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "28 Sep 2024 07:04:46"
+    "updated": "28 Sep 2024 07:23:03"
   },
   {
     "agency": "Ambulance",
@@ -149,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "28 Sep 2024 07:20:16"
+    "updated": "28 Sep 2024 07:29:39"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +203,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "28 Sep 2024 07:11:02"
+    "updated": "28 Sep 2024 07:27:38"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +221,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "28 Sep 2024 07:20:53"
+    "updated": "28 Sep 2024 07:21:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KINGSTON",
+    "id": "058600-28092024",
+    "latitude": "-35.315358",
+    "longitude": "149.146868",
+    "region": "act",
+    "time_of_call": "28 Sep 2024 07:30:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KINGSTON",
+    "updated": "28 Sep 2024 07:30:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MELBA",
+    "id": "058601-28092024",
+    "latitude": "-35.209077",
+    "longitude": "149.057326",
+    "region": "act",
+    "time_of_call": "28 Sep 2024 07:30:37",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MELBA",
+    "updated": "28 Sep 2024 07:30:51"
   },
   {
     "title": "Hunter Water HR - Grahamstown Dam spillway",
@@ -680,9 +716,9 @@
     "latitude": "-28.656114578",
     "longitude": "153.490417481",
     "region": "nsw",
-    "time_of_call": "28 Sep 2024 06:18:00",
+    "time_of_call": "28 Sep 2024 07:19:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "45 TALLOWOOD RD, POSSUM CREEK 2479",
     "council_area": "Byron",
@@ -692,7 +728,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2024 06:18"
+    "updated": "28 Sep 2024 07:19"
   },
   {
     "title": "COORABELL RD, COORABELL",
@@ -735,5 +771,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Sep 2024 07:10"
+  },
+  {
+    "title": "DAWN AV, GOL GOL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569023",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.178676606",
+    "longitude": "142.211608887",
+    "region": "nsw",
+    "time_of_call": "28 Sep 2024 07:16:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "DAWN AV, GOL GOL 2738",
+    "council_area": "Wentworth",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Sep 2024 07:16"
   }
 ]
