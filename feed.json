@@ -169,7 +169,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "28 Sep 2024 09:06:43"
+    "updated": "28 Sep 2024 09:46:28"
   },
   {
     "agency": "Ambulance",
@@ -217,13 +217,13 @@
     "longitude": "149.126815",
     "region": "act",
     "time_of_call": "28 Sep 2024 08:24:50",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "28 Sep 2024 09:17:59"
+    "updated": "28 Sep 2024 09:40:23"
   },
   {
     "agency": "Ambulance",
@@ -313,7 +313,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "28 Sep 2024 09:30:47"
+    "updated": "28 Sep 2024 09:31:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "058615-28092024",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "28 Sep 2024 09:41:01",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "28 Sep 2024 09:47:31"
   },
   {
     "title": "Hunter Water HR - Grahamstown Dam spillway",
@@ -584,6 +602,28 @@
     "updated": "27 Sep 2024 14:37"
   },
   {
+    "title": "87L Mogriguy Road Dubbo",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568877",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.066207885",
+    "longitude": "148.660766602",
+    "region": "nsw",
+    "time_of_call": "28 Sep 2024 09:44:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "DUBBO ST, MOGRIGUY 2830",
+    "council_area": "Dubbo Regional",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Sep 2024 09:44"
+  },
+  {
     "title": "Andersons Mountain Road 2",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568887",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -632,31 +672,6 @@
     "size": "228 ha",
     "responsible_agency": "Forestry Corporation of NSW",
     "updated": "27 Sep 2024 09:51"
-  },
-  {
-    "title": "Hazard Reduction",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_568983",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.3156356809999",
-    "longitude": "148.982437133",
-    "region": "nsw",
-    "time_of_call": "27 Sep 2024 16:33:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "PININDI 237 OLD CANOBOLAS RD, NASHDALE NSW 2800",
-    "council_area": "Cabonne",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2024 16:33"
   },
   {
     "title": "WINE COUNTRY DR, NORTH ROTHBURY",
@@ -816,9 +831,9 @@
     "latitude": "-33.69317627",
     "longitude": "151.22265625",
     "region": "nsw",
-    "time_of_call": "28 Sep 2024 08:01:00",
+    "time_of_call": "28 Sep 2024 09:38:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "THOMPSON DR, TERREY HILLS 2084",
     "council_area": "Northern Beaches",
@@ -826,7 +841,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2024 08:01"
+    "updated": "28 Sep 2024 09:38"
   },
   {
     "title": "ELLALONG RD, ELLALONG",
@@ -871,5 +886,30 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "28 Sep 2024 09:28"
+  },
+  {
+    "title": "BRINGELLY RD, AUSTRAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569031",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.951988221",
+    "longitude": "150.822555542",
+    "region": "nsw",
+    "time_of_call": "28 Sep 2024 09:34:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "BRINGELLY RD, AUSTRAL 2179",
+    "council_area": "Liverpool",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Sep 2024 09:34"
   }
 ]
