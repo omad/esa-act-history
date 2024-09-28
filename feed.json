@@ -113,7 +113,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "28 Sep 2024 19:12:56"
+    "updated": "28 Sep 2024 19:28:12"
   },
   {
     "agency": "Ambulance",
@@ -185,7 +185,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "28 Sep 2024 18:52:47"
+    "updated": "28 Sep 2024 19:25:28"
   },
   {
     "agency": "Ambulance",
@@ -257,7 +257,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "28 Sep 2024 19:21:50"
+    "updated": "28 Sep 2024 19:25:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "058712-28092024",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "28 Sep 2024 19:24:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "28 Sep 2024 19:27:58"
   },
   {
     "title": "Hunter Water HR - Grahamstown Dam spillway",
@@ -851,26 +869,6 @@
     "updated": "28 Sep 2024 18:36"
   },
   {
-    "title": "SNOWY MOUNTAINS HWY, BEMBOKA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569095",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.602367401",
-    "longitude": "149.451522828",
-    "region": "nsw",
-    "time_of_call": "28 Sep 2024 18:50:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "SNOWY MOUNTAINS HWY, BEMBOKA 2550",
-    "council_area": "Bega Valley",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2024 18:50"
-  },
-  {
     "title": "ANNANDALE ROW, DENMAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569096",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -920,7 +918,7 @@
     "latitude": "-33.697029114",
     "longitude": "150.776123047",
     "region": "nsw",
-    "time_of_call": "28 Sep 2024 19:11:00",
+    "time_of_call": "28 Sep 2024 19:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -932,7 +930,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2024 19:11"
+    "updated": "28 Sep 2024 19:22"
   },
   {
     "title": "HENRY LAWSON WAY, GRENFELL",
@@ -1002,5 +1000,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Sep 2024 19:09"
+  },
+  {
+    "title": "PACIFIC HWY, STOTTS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569103",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.279600144",
+    "longitude": "153.520172119",
+    "region": "nsw",
+    "time_of_call": "28 Sep 2024 19:18:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, STOTTS CREEK 2487",
+    "council_area": "Tweed",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Sep 2024 19:18"
+  },
+  {
+    "title": "TUMBI RD, WAMBERAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569104",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.3890075689999",
+    "longitude": "151.450592042",
+    "region": "nsw",
+    "time_of_call": "28 Sep 2024 19:20:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "TUMBI RD, WAMBERAL 2260",
+    "council_area": "Central Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Sep 2024 19:20"
   }
 ]
