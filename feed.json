@@ -205,7 +205,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SYMONSTON",
-    "updated": "28 Sep 2024 23:58:04"
+    "updated": "29 Sep 2024 00:29:52"
   },
   {
     "agency": "Ambulance",
@@ -223,7 +223,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "28 Sep 2024 23:37:00"
+    "updated": "29 Sep 2024 00:24:06"
   },
   {
     "agency": "Ambulance",
@@ -313,7 +313,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "29 Sep 2024 00:03:50"
+    "updated": "29 Sep 2024 00:29:48"
   },
   {
     "agency": "Ambulance",
@@ -349,7 +349,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "29 Sep 2024 00:17:19"
+    "updated": "29 Sep 2024 00:27:14"
   },
   {
     "agency": "Ambulance",
@@ -368,6 +368,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
     "updated": "29 Sep 2024 00:17:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "058755-29092024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "29 Sep 2024 00:23:32",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "29 Sep 2024 00:25:50"
   },
   {
     "title": "Hunter Water HR - Grahamstown Dam spillway",
@@ -986,28 +1004,6 @@
     "updated": "28 Sep 2024 23:36"
   },
   {
-    "title": "CUNJURONG POINT RD, MANYANA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569119",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.253898621",
-    "longitude": "150.506210327",
-    "region": "nsw",
-    "time_of_call": "28 Sep 2024 23:51:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "CUNJURONG POINT RD, MANYANA 2539",
-    "council_area": "Shoalhaven",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2024 23:51"
-  },
-  {
     "title": "YETMAN RD, GRAMAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569120",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1040,9 +1036,9 @@
     "latitude": "-34.6478195189999",
     "longitude": "150.118041992",
     "region": "nsw",
-    "time_of_call": "29 Sep 2024 00:04:00",
+    "time_of_call": "29 Sep 2024 00:29:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1055,7 +1051,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Sep 2024 00:04"
+    "updated": "29 Sep 2024 00:29"
   },
   {
     "title": "COWPASTURE RD, HORNINGSEA PARK",
@@ -1078,5 +1074,49 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "29 Sep 2024 00:08"
+  },
+  {
+    "title": "ELIZA POWER DR, MARULAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569123",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.708183289",
+    "longitude": "149.999847412",
+    "region": "nsw",
+    "time_of_call": "29 Sep 2024 00:23:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "ELIZA POWER DR, MARULAN 2579",
+    "council_area": "Goulburn Mulwaree",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Sep 2024 00:23"
+  },
+  {
+    "title": "CAMDEN RD, DOUGLAS PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569124",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.187519073",
+    "longitude": "150.711090088",
+    "region": "nsw",
+    "time_of_call": "29 Sep 2024 00:24:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "198 CAMDEN RD, DOUGLAS PARK 2569",
+    "council_area": "Wollondilly",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Sep 2024 00:24"
   }
 ]
