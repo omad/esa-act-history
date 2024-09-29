@@ -147,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "29 Sep 2024 20:37:41"
+    "updated": "29 Sep 2024 21:25:42"
   },
   {
     "agency": "Ambulance",
@@ -177,13 +177,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "29 Sep 2024 20:43:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "29 Sep 2024 21:14:38"
+    "updated": "29 Sep 2024 21:18:30"
   },
   {
     "agency": "Ambulance",
@@ -220,6 +220,24 @@
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "ROUNDABOUT, CHASELING STREET, TANK STREET, PHILLIP, 2606",
     "updated": "29 Sep 2024 21:17:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHARNWOOD",
+    "id": "058951-29092024",
+    "latitude": "-35.200338",
+    "longitude": "149.036735",
+    "region": "act",
+    "time_of_call": "29 Sep 2024 21:20:25",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHARNWOOD",
+    "updated": "29 Sep 2024 21:26:00"
   },
   {
     "title": "Hunter Water HR - Grahamstown Dam spillway",
@@ -628,47 +646,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 Sep 2024 20:25"
-  },
-  {
-    "title": "SPRING CREEK RD, YOUNG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569189",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.316883087",
-    "longitude": "148.275802612",
-    "region": "nsw",
-    "time_of_call": "29 Sep 2024 21:03:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "SPRING CREEK RD, YOUNG 2594",
-    "council_area": "Hilltops",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Sep 2024 21:03"
-  },
-  {
-    "title": "RESERVE RD, PUTTY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569192",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.961299896",
-    "longitude": "150.678695679",
-    "region": "nsw",
-    "time_of_call": "29 Sep 2024 21:11:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "151 RESERVE RD, PUTTY 2330",
-    "council_area": "Singleton",
-    "type": "Medical",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Sep 2024 21:11"
   }
 ]
