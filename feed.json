@@ -89,15 +89,15 @@
     "longitude": "149.140744",
     "region": "act",
     "time_of_call": "30 Sep 2024 07:07:28",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "EYRE STREET, LEICHHARDT STREET, GRIFFITH, 2603",
-    "updated": "30 Sep 2024 07:20:57"
+    "updated": "30 Sep 2024 07:35:23"
   },
   {
     "agency": "Ambulance",
@@ -116,24 +116,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
     "updated": "29 Sep 2024 18:27:00"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "058985-30092024",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "30 Sep 2024 05:47:48",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "30 Sep 2024 07:16:23"
   },
   {
     "agency": "Ambulance",
@@ -169,7 +151,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "30 Sep 2024 07:22:07"
+    "updated": "30 Sep 2024 07:38:15"
   },
   {
     "agency": "Ambulance",
@@ -187,7 +169,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "30 Sep 2024 07:28:03"
+    "updated": "30 Sep 2024 07:41:11"
   },
   {
     "agency": "Ambulance",
@@ -223,7 +205,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "30 Sep 2024 07:13:46"
+    "updated": "30 Sep 2024 07:33:52"
   },
   {
     "agency": "Ambulance",
@@ -235,13 +217,31 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "30 Sep 2024 07:19:18",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "30 Sep 2024 07:21:16"
+    "updated": "30 Sep 2024 07:46:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "059005-30092024",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "30 Sep 2024 07:42:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "30 Sep 2024 07:45:46"
   },
   {
     "title": "Hunter Water HR - Grahamstown Dam spillway",
@@ -630,28 +630,6 @@
     "updated": "30 Sep 2024 05:48"
   },
   {
-    "title": "FERNLEIGH RD, FERNLEIGH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569204",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.78194809",
-    "longitude": "153.498504639",
-    "region": "nsw",
-    "time_of_call": "30 Sep 2024 05:43:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "FERNLEIGH RD, FERNLEIGH 2479",
-    "council_area": "Ballina",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Sep 2024 05:43"
-  },
-  {
     "title": "CESSNOCK RD, FREEMANS WATERHOLE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569208",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -672,5 +650,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Sep 2024 07:15"
+  },
+  {
+    "title": "NEW LINE RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569209",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.734481811",
+    "longitude": "151.044738769",
+    "region": "nsw",
+    "time_of_call": "30 Sep 2024 07:31:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "WEST PENNANT HILLS SPORTS CLUB 103 NEW LINE RD, WEST PENNANT HILLS 2125",
+    "council_area": "Hornsby",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "30 Sep 2024 07:31"
   }
 ]
