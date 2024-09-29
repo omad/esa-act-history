@@ -105,13 +105,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "29 Sep 2024 22:32:12",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "29 Sep 2024 23:19:54"
+    "updated": "29 Sep 2024 23:26:07"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "29 Sep 2024 23:00:06"
+    "updated": "29 Sep 2024 23:26:15"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "29 Sep 2024 23:14:27"
+    "updated": "29 Sep 2024 23:25:28"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +219,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "29 Sep 2024 23:23:42"
+    "updated": "29 Sep 2024 23:28:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "058964-29092024",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "29 Sep 2024 23:26:39",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "29 Sep 2024 23:33:50"
   },
   {
     "title": "Hunter Water HR - Grahamstown Dam spillway",
@@ -606,5 +624,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 Sep 2024 23:09"
+  },
+  {
+    "title": "SIGNATA RD, PIMLICO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569198",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.922113418",
+    "longitude": "153.476623535",
+    "region": "nsw",
+    "time_of_call": "29 Sep 2024 23:32:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "SIGNATA RD, PIMLICO 2478",
+    "council_area": "Ballina",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Sep 2024 23:32"
   }
 ]
