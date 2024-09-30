@@ -147,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "30 Sep 2024 23:14:50"
+    "updated": "30 Sep 2024 23:46:38"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "30 Sep 2024 23:08:00"
+    "updated": "30 Sep 2024 23:48:03"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "30 Sep 2024 23:24:14"
+    "updated": "30 Sep 2024 23:42:06"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +213,49 @@
     "longitude": "149.143546",
     "region": "act",
     "time_of_call": "30 Sep 2024 23:24:41",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DOWNER",
+    "updated": "30 Sep 2024 23:37:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "059192-30092024",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "30 Sep 2024 23:32:03",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "30 Sep 2024 23:36:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOMBS",
+    "id": "059193-30092024",
+    "latitude": "-35.31486",
+    "longitude": "149.041664",
+    "region": "act",
+    "time_of_call": "30 Sep 2024 23:37:04",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "DOWNER",
-    "updated": "30 Sep 2024 23:27:31"
+    "location": "COOMBS",
+    "updated": "30 Sep 2024 23:39:00"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -414,9 +450,9 @@
     "latitude": "-35.296485901",
     "longitude": "149.643096924",
     "region": "nsw",
-    "time_of_call": "30 Sep 2024 21:13:00",
+    "time_of_call": "30 Sep 2024 23:43:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "308 MANAR RD, MANAR 2622",
     "council_area": "Queanbeyan-Palerang",
@@ -426,7 +462,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Sep 2024 21:13"
+    "updated": "30 Sep 2024 23:43"
   },
   {
     "title": "MONARO HWY, COOMA",
@@ -524,9 +560,9 @@
     "latitude": "-28.6637668609999",
     "longitude": "153.611404419",
     "region": "nsw",
-    "time_of_call": "30 Sep 2024 23:27:00",
+    "time_of_call": "30 Sep 2024 23:42:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "UNIT 2 2-6 CEMETERY RD SE, BYRON BAY 2481",
     "council_area": "Byron",
@@ -536,6 +572,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "30 Sep 2024 23:27"
+    "updated": "30 Sep 2024 23:42"
+  },
+  {
+    "title": "WARRENA LANE, COONAMBLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569283",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.9588394159999",
+    "longitude": "148.390991211",
+    "region": "nsw",
+    "time_of_call": "30 Sep 2024 23:35:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "WARRENA LANE, COONAMBLE 2829",
+    "council_area": "Coonamble",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "30 Sep 2024 23:35"
   }
 ]
