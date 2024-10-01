@@ -95,7 +95,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "01 Oct 2024 15:14:53"
+    "updated": "01 Oct 2024 15:39:00"
   },
   {
     "agency": "Ambulance",
@@ -167,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "01 Oct 2024 15:33:06"
+    "updated": "01 Oct 2024 15:43:03"
   },
   {
     "agency": "Ambulance",
@@ -233,13 +233,13 @@
     "longitude": "149.085118",
     "region": "act",
     "time_of_call": "01 Oct 2024 15:03:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "01 Oct 2024 15:35:44"
+    "updated": "01 Oct 2024 15:46:43"
   },
   {
     "agency": "Ambulance",
@@ -257,7 +257,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "01 Oct 2024 15:35:20"
+    "updated": "01 Oct 2024 15:48:00"
   },
   {
     "agency": "Ambulance",
@@ -311,7 +311,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "01 Oct 2024 15:19:39"
+    "updated": ""
   },
   {
     "agency": "Ambulance",
@@ -329,7 +329,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "01 Oct 2024 15:35:59"
+    "updated": "01 Oct 2024 15:42:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "059352-01102024",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "01 Oct 2024 15:45:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HARRISON",
+    "updated": "01 Oct 2024 15:47:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUGHES",
+    "id": "059353-01102024",
+    "latitude": "-35.333105",
+    "longitude": "149.094654",
+    "region": "act",
+    "time_of_call": "01 Oct 2024 15:46:20",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUGHES",
+    "updated": "01 Oct 2024 15:48:49"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -480,7 +516,7 @@
     "latitude": "-34.8121299749999",
     "longitude": "147.260391236",
     "region": "nsw",
-    "time_of_call": "01 Oct 2024 15:21:00",
+    "time_of_call": "01 Oct 2024 15:38:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
@@ -492,7 +528,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Oct 2024 15:21"
+    "updated": "1 Oct 2024 15:38"
   },
   {
     "title": "MONARO HWY, CHAKOLA",
@@ -515,5 +551,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Oct 2024 15:31"
+  },
+  {
+    "title": "DEL MAR DR, COPACABANA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569438",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4852218629999",
+    "longitude": "151.433364868",
+    "region": "nsw",
+    "time_of_call": "01 Oct 2024 15:34:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "144 DEL MAR DR, COPACABANA 2251",
+    "council_area": "Central Coast",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Oct 2024 15:34"
+  },
+  {
+    "title": "CASTLERAG RD, DEEPWATER",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569439",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.368749619",
+    "longitude": "151.823074341",
+    "region": "nsw",
+    "time_of_call": "01 Oct 2024 15:45:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "CASTLERAG RD, DEEPWATER 2371",
+    "council_area": "Tenterfield",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Oct 2024 15:45"
   }
 ]
