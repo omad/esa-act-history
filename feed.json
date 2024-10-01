@@ -89,15 +89,35 @@
     "longitude": "149.061966",
     "region": "act",
     "time_of_call": "02 Oct 2024 07:22:28",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "KINGSFORD SMITH DRIVE, MAGRATH CRESCENT, SPENCE, 2615",
-    "updated": "02 Oct 2024 07:32:06"
+    "updated": "02 Oct 2024 07:36:36"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "GAS PIPELINE INCIDENT - CITY",
+    "id": "013957-02102024",
+    "latitude": "-35.28457399",
+    "longitude": "149.12517299",
+    "region": "act",
+    "time_of_call": "02 Oct 2024 07:40:35",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "GAS PIPELINE INCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/pipe-fire_0.svg",
+    "location": "KENDALL LANE, MARCUS CLARKE STREET, CITY, 2601",
+    "updated": "02 Oct 2024 07:47:33"
   },
   {
     "agency": "Ambulance",
@@ -109,13 +129,13 @@
     "longitude": "149.094654",
     "region": "act",
     "time_of_call": "02 Oct 2024 04:27:32",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "02 Oct 2024 07:17:48"
+    "updated": "02 Oct 2024 07:39:31"
   },
   {
     "agency": "Ambulance",
@@ -151,7 +171,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "FYSHWICK",
-    "updated": "02 Oct 2024 07:27:21"
+    "updated": "02 Oct 2024 07:38:47"
   },
   {
     "agency": "Ambulance",
@@ -329,30 +349,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Oct 2024 00:38"
-  },
-  {
-    "title": "BARRIER HWY, COBAR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569476",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.5288448329999",
-    "longitude": "145.972625732",
-    "region": "nsw",
-    "time_of_call": "02 Oct 2024 07:14:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "NEAR SCRUBBY VALLEY 11965 BARRIER HWY, COBAR 2835",
-    "council_area": "Cobar",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Oct 2024 07:14"
   }
 ]
