@@ -89,15 +89,15 @@
     "longitude": "149.12165",
     "region": "act",
     "time_of_call": "03 Oct 2024 09:16:07",
-    "status": "On Scene",
+    "status": "Out / Completed",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
+    "status_filter_label": "Out / Completed",
     "type": "GRASS AND BUSH FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "ALSTON STREET PLAYGROUND / PARK, ALSTON STREET, CHISHOLM, 2905",
-    "updated": "03 Oct 2024 09:26:26"
+    "updated": "03 Oct 2024 09:40:38"
   },
   {
     "agency": "Ambulance",
@@ -133,7 +133,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "03 Oct 2024 09:26:03"
+    "updated": "03 Oct 2024 09:42:49"
   },
   {
     "agency": "Ambulance",
@@ -169,7 +169,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "03 Oct 2024 09:29:48"
+    "updated": "03 Oct 2024 09:38:59"
   },
   {
     "agency": "Ambulance",
@@ -187,7 +187,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "03 Oct 2024 09:21:27"
+    "updated": "03 Oct 2024 09:43:05"
   },
   {
     "agency": "Ambulance",
@@ -205,7 +205,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "03 Oct 2024 09:32:10"
+    "updated": "03 Oct 2024 09:33:33"
   },
   {
     "agency": "Ambulance",
@@ -217,13 +217,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "03 Oct 2024 09:32:36",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "03 Oct 2024 09:32:45"
+    "updated": "03 Oct 2024 09:48:22"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -428,31 +428,6 @@
     "updated": "2 Oct 2024 20:34"
   },
   {
-    "title": "BLOWERING",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569533",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.537940979",
-    "longitude": "148.276931763",
-    "region": "nsw",
-    "time_of_call": "03 Oct 2024 09:27:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "BLOWERING 2720",
-    "council_area": "Snowy Valleys",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "3 Oct 2024 09:27"
-  },
-  {
     "title": "PAST GOLF CLUB GAP RD, WERRIS CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569552",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -493,5 +468,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Oct 2024 09:11"
+  },
+  {
+    "title": "GLENS CREEK RD, NYMBOIDA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569566",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.9304065709999",
+    "longitude": "152.725128174",
+    "region": "nsw",
+    "time_of_call": "03 Oct 2024 09:25:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "69 GLENS CREEK RD, NYMBOIDA 2460",
+    "council_area": "Clarence Valley",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Oct 2024 09:25"
   }
 ]
