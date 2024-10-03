@@ -93,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "04 Oct 2024 09:26:00"
+    "updated": "04 Oct 2024 09:37:00"
   },
   {
     "agency": "Ambulance",
@@ -105,13 +105,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "04 Oct 2024 08:31:14",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "04 Oct 2024 09:25:59"
+    "updated": "04 Oct 2024 09:46:40"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "04 Oct 2024 09:11:03"
+    "updated": "04 Oct 2024 09:33:19"
   },
   {
     "agency": "Ambulance",
@@ -171,24 +171,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TORRENS",
-    "id": "059922-04102024",
-    "latitude": "-35.372705",
-    "longitude": "149.085827",
-    "region": "act",
-    "time_of_call": "04 Oct 2024 08:56:38",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TORRENS",
-    "updated": "04 Oct 2024 08:58:08"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - DICKSON",
     "id": "059927-04102024",
     "latitude": "-35.2562237799",
@@ -201,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "WILSHIRE STREET, DICKSON, 2602",
-    "updated": "04 Oct 2024 09:19:44"
+    "updated": "04 Oct 2024 09:37:28"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "04 Oct 2024 09:27:03"
+    "updated": "04 Oct 2024 09:43:37"
   },
   {
     "agency": "Ambulance",
@@ -249,13 +231,67 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "04 Oct 2024 09:27:30",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "04 Oct 2024 09:36:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "059933-04102024",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "04 Oct 2024 09:37:10",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "04 Oct 2024 09:48:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "059934-04102024",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "04 Oct 2024 09:46:45",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "04 Oct 2024 09:31:30"
+    "location": "LYNEHAM",
+    "updated": "04 Oct 2024 09:48:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "059935-04102024",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "04 Oct 2024 09:46:53",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "04 Oct 2024 09:48:32"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -300,31 +336,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Oct 2024 23:01"
-  },
-  {
-    "title": "Kooringal Camp Fire",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569493",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.551811218",
-    "longitude": "145.787536621",
-    "region": "nsw",
-    "time_of_call": "03 Oct 2024 11:04:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "145.788",
-    "council_area": "Carrathool",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "3 Oct 2024 11:04"
   },
   {
     "title": "CONARGO RD, DENILIQUIN",
@@ -411,25 +422,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "4 Oct 2024 08:58"
-  },
-  {
-    "title": "BROADWATER KOALA RESERVE BROADWATER",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569644",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.0205841069999",
-    "longitude": "153.422653198",
-    "region": "nsw",
-    "time_of_call": "04 Oct 2024 09:05:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "BROADWATER KOALA RESERVE BROADWATER 2472",
-    "council_area": "Richmond Valley",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Oct 2024 09:05"
   }
 ]
