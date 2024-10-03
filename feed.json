@@ -95,7 +95,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "04 Oct 2024 06:09:28"
+    "updated": "04 Oct 2024 08:38:53"
   },
   {
     "agency": "Ambulance",
@@ -179,13 +179,13 @@
     "longitude": "149.088064",
     "region": "act",
     "time_of_call": "04 Oct 2024 08:34:14",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "04 Oct 2024 08:36:42"
+    "updated": "04 Oct 2024 08:42:00"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +203,61 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "04 Oct 2024 08:36:52"
+    "updated": "04 Oct 2024 08:45:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "059918-04102024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "04 Oct 2024 08:40:11",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "04 Oct 2024 08:46:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GIRALANG",
+    "id": "059920-04102024",
+    "latitude": "-35.210049",
+    "longitude": "149.100175",
+    "region": "act",
+    "time_of_call": "04 Oct 2024 08:46:25",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GIRALANG",
+    "updated": "04 Oct 2024 08:48:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "059921-04102024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "04 Oct 2024 08:46:33",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "04 Oct 2024 08:48:41"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -365,10 +419,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569642",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.16847992",
-    "longitude": "153.109405518",
+    "latitude": "-30.1628284449999",
+    "longitude": "153.119369507",
     "region": "nsw",
-    "time_of_call": "04 Oct 2024 08:16:00",
+    "time_of_call": "04 Oct 2024 08:38:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
@@ -378,6 +432,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Oct 2024 08:16"
+    "updated": "4 Oct 2024 08:38"
   }
 ]
