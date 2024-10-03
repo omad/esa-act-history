@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "CROKE PLACE, EVATT, 2617",
-    "updated": "03 Oct 2024 17:20:30"
+    "updated": "03 Oct 2024 17:43:30"
   },
   {
     "agency": "Fire",
@@ -101,24 +101,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AINSLIE",
-    "id": "059751-03102024",
-    "latitude": "-35.262117",
-    "longitude": "149.144037",
-    "region": "act",
-    "time_of_call": "03 Oct 2024 14:54:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "AINSLIE",
-    "updated": "03 Oct 2024 16:05:51"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - O'CONNOR",
     "id": "059754-03102024",
     "latitude": "-35.256876",
@@ -149,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "03 Oct 2024 17:17:59"
+    "updated": "03 Oct 2024 17:47:05"
   },
   {
     "agency": "Ambulance",
@@ -185,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "03 Oct 2024 17:14:29"
+    "updated": "03 Oct 2024 17:33:15"
   },
   {
     "agency": "Ambulance",
@@ -197,13 +179,13 @@
     "longitude": "149.13395",
     "region": "act",
     "time_of_call": "03 Oct 2024 17:15:10",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "NATIONAL PORTRAIT GALLERY, KING EDWARD TERRACE, PARKES PLACE, PARKES, 2600",
-    "updated": "03 Oct 2024 17:20:30"
+    "updated": "03 Oct 2024 17:40:30"
   },
   {
     "agency": "Ambulance",
@@ -233,13 +215,31 @@
     "longitude": "149.129639",
     "region": "act",
     "time_of_call": "03 Oct 2024 17:24:37",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACARTHUR",
-    "updated": "03 Oct 2024 17:26:40"
+    "updated": "03 Oct 2024 17:42:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "059788-03102024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "03 Oct 2024 17:35:13",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "03 Oct 2024 17:37:56"
   },
   {
     "title": "FCNSW Wedding Bells HRB",
@@ -628,9 +628,9 @@
     "latitude": "-31.103687286",
     "longitude": "151.014160156",
     "region": "nsw",
-    "time_of_call": "03 Oct 2024 17:20:00",
+    "time_of_call": "03 Oct 2024 17:30:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "346 BACK KOOTINGAL RD, NEMINGHA 2340",
     "council_area": "Tamworth",
@@ -640,6 +640,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Oct 2024 17:20"
+    "updated": "3 Oct 2024 17:30"
+  },
+  {
+    "title": "Minorie Dr, Toormina",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569609",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.3548309999999",
+    "longitude": "153.094308",
+    "region": "nsw",
+    "time_of_call": "03 Oct 2024 17:39:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Minorie Dr, Toormina, NSW 2452",
+    "council_area": "Coffs Harbour",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "3 Oct 2024 17:39"
   }
 ]
