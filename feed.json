@@ -49,15 +49,15 @@
     "longitude": "149.0378205199",
     "region": "act",
     "time_of_call": "04 Oct 2024 21:13:08",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "ANIMAL RESCUE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
     "location": "ARKWOOKERUM STREET, WHITLAM, 2615",
-    "updated": "04 Oct 2024 21:24:39"
+    "updated": "04 Oct 2024 21:40:46"
   },
   {
     "agency": "Ambulance",
@@ -87,13 +87,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "04 Oct 2024 18:49:31",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "04 Oct 2024 21:20:22"
+    "updated": "04 Oct 2024 21:31:26"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "04 Oct 2024 21:28:24"
+    "updated": "04 Oct 2024 21:47:25"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "04 Oct 2024 21:04:18"
+    "updated": "04 Oct 2024 21:48:21"
   },
   {
     "agency": "Ambulance",
@@ -159,13 +159,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "04 Oct 2024 19:53:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "04 Oct 2024 21:19:43"
+    "updated": "04 Oct 2024 21:30:22"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "04 Oct 2024 21:13:03"
+    "updated": "04 Oct 2024 21:32:41"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "04 Oct 2024 21:09:59"
+    "updated": "04 Oct 2024 21:34:41"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +219,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "04 Oct 2024 21:24:05"
+    "updated": "04 Oct 2024 21:36:15"
   },
   {
     "agency": "Ambulance",
@@ -238,6 +238,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
     "updated": "04 Oct 2024 21:27:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "060085-04102024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "04 Oct 2024 21:33:33",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "04 Oct 2024 21:40:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONYTHON",
+    "id": "060086-04102024",
+    "latitude": "-35.435736",
+    "longitude": "149.081053",
+    "region": "act",
+    "time_of_call": "04 Oct 2024 21:43:49",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONYTHON",
+    "updated": "04 Oct 2024 21:48:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONCRIEFF",
+    "id": "060087-04102024",
+    "latitude": "-35.158865",
+    "longitude": "149.117806",
+    "region": "act",
+    "time_of_call": "04 Oct 2024 21:46:19",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONCRIEFF",
+    "updated": "04 Oct 2024 21:48:35"
   },
   {
     "title": "WILSON DR, HILL TOP",
@@ -348,23 +402,28 @@
     "updated": "4 Oct 2024 18:45"
   },
   {
-    "title": "BLAXLAND CR, SUNSHINE BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569701",
+    "title": "Dale Cr, Armidale",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569702",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.7479782099999",
-    "longitude": "150.207458496",
+    "latitude": "-30.534123",
+    "longitude": "151.673462",
     "region": "nsw",
-    "time_of_call": "04 Oct 2024 21:21:00",
+    "time_of_call": "04 Oct 2024 21:43:00",
     "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "22 BLAXLAND CR, SUNSHINE BAY 2536",
-    "council_area": "Eurobodalla",
-    "type": "Assist Other Agency",
-    "fire": "No",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Behind/33 Dale Cr, Armidale, NSW 2350",
+    "council_area": "Armidale",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Oct 2024 21:21"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "4 Oct 2024 21:43"
   }
 ]
