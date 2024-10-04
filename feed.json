@@ -77,24 +77,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "060147-05102024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "05 Oct 2024 07:17:23",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "05 Oct 2024 08:10:43"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KALEEN",
     "id": "060149-05102024",
     "latitude": "-35.227626",
@@ -143,7 +125,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "05 Oct 2024 07:59:01"
+    "updated": "05 Oct 2024 08:48:01"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "05 Oct 2024 08:34:52"
+    "updated": "05 Oct 2024 08:36:37"
   },
   {
     "agency": "Ambulance",
@@ -198,6 +180,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
     "updated": "05 Oct 2024 08:34:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "060160-05102024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "05 Oct 2024 08:39:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "05 Oct 2024 08:44:52"
   },
   {
     "title": "WILSON DR, HILL TOP",
@@ -315,9 +315,9 @@
     "latitude": "-34.019569396",
     "longitude": "147.633270264",
     "region": "nsw",
-    "time_of_call": "05 Oct 2024 08:05:00",
+    "time_of_call": "05 Oct 2024 08:34:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "590 EAST BLAND LANE, BLAND 2721",
     "council_area": "Bland",
@@ -327,7 +327,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Oct 2024 08:05"
+    "updated": "5 Oct 2024 08:34"
   },
   {
     "title": "CUNNINGHAM DR, TARLO",
@@ -350,5 +350,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Oct 2024 08:02"
+  },
+  {
+    "title": "JUMBUNNA PL, TERREY HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569724",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.683666229",
+    "longitude": "151.223052978",
+    "region": "nsw",
+    "time_of_call": "05 Oct 2024 08:42:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "7 JUMBUNNA PL, TERREY HILLS 2084",
+    "council_area": "Northern Beaches",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Oct 2024 08:42"
   }
 ]
