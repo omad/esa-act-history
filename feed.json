@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FRANKLIN",
-    "id": "060123-05102024",
-    "latitude": "-35.199225",
-    "longitude": "149.144681",
-    "region": "act",
-    "time_of_call": "05 Oct 2024 03:57:02",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FRANKLIN",
-    "updated": "05 Oct 2024 05:05:31"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BRUCE",
     "id": "060125-05102024",
     "latitude": "-35.242777",
@@ -107,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": "05 Oct 2024 05:24:49"
+    "updated": "05 Oct 2024 05:35:42"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +101,13 @@
     "longitude": "149.097085",
     "region": "act",
     "time_of_call": "05 Oct 2024 04:41:31",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "05 Oct 2024 05:24:23"
+    "updated": "05 Oct 2024 05:40:32"
   },
   {
     "title": "WILSON DR, HILL TOP",
@@ -221,9 +203,9 @@
     "latitude": "-35.954429627",
     "longitude": "149.146118164",
     "region": "nsw",
-    "time_of_call": "05 Oct 2024 03:53:00",
+    "time_of_call": "05 Oct 2024 05:44:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "18 WALKER ST, BREDBO 2626",
     "council_area": "Snowy Monaro",
@@ -233,7 +215,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Oct 2024 03:53"
+    "updated": "5 Oct 2024 05:44"
   },
   {
     "title": "MANILLA RD, ATTUNGA",
@@ -256,5 +238,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Oct 2024 05:13"
+  },
+  {
+    "title": "PRINCES HWY, MOGO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569714",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.7461318969999",
+    "longitude": "150.160308837",
+    "region": "nsw",
+    "time_of_call": "05 Oct 2024 05:35:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "PRINCES HWY, MOGO 2536",
+    "council_area": "Eurobodalla",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Oct 2024 05:35"
   }
 ]
