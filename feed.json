@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "060247-05102024",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "05 Oct 2024 17:18:50",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "05 Oct 2024 18:51:51"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WESTON CREEK",
     "id": "060250-05102024",
     "latitude": "-35.312463",
@@ -51,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON CREEK",
-    "updated": "05 Oct 2024 19:09:22"
+    "updated": "05 Oct 2024 19:27:06"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +81,13 @@
     "longitude": "149.111857",
     "region": "act",
     "time_of_call": "05 Oct 2024 18:03:45",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "05 Oct 2024 19:12:50"
+    "updated": "05 Oct 2024 19:26:39"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "05 Oct 2024 19:20:18"
+    "updated": "05 Oct 2024 19:30:53"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +153,13 @@
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "05 Oct 2024 18:39:18",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "05 Oct 2024 19:19:13"
+    "updated": "05 Oct 2024 19:33:13"
   },
   {
     "agency": "Ambulance",
@@ -285,7 +267,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "05 Oct 2024 19:23:16"
+    "updated": "05 Oct 2024 19:25:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FISHER",
+    "id": "060277-05102024",
+    "latitude": "-35.360481",
+    "longitude": "149.058056",
+    "region": "act",
+    "time_of_call": "05 Oct 2024 19:25:13",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FISHER",
+    "updated": "05 Oct 2024 19:33:40"
   },
   {
     "title": "WILSON DR, HILL TOP",
@@ -468,28 +468,6 @@
     "updated": "5 Oct 2024 18:29"
   },
   {
-    "title": "PAPERBARK DR, FOREST HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569782",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.1488876349999",
-    "longitude": "147.452804566",
-    "region": "nsw",
-    "time_of_call": "05 Oct 2024 18:26:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "16 PAPERBARK DR, FOREST HILL 2651",
-    "council_area": "Wagga Wagga",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Oct 2024 18:26"
-  },
-  {
     "title": "ARMIDALE RD, BELLBROOK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569786",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -583,9 +561,9 @@
     "latitude": "-28.386995315",
     "longitude": "153.524307251",
     "region": "nsw",
-    "time_of_call": "05 Oct 2024 19:21:00",
+    "time_of_call": "05 Oct 2024 19:27:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "999 CUDGERA CREEK RD, CUDGERA CREEK 2484",
     "council_area": "Tweed",
@@ -595,19 +573,19 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Oct 2024 19:21"
+    "updated": "5 Oct 2024 19:27"
   },
   {
     "title": "Harvey St, Oran Park",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569797",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.009453",
-    "longitude": "150.736941",
+    "latitude": "-34.009449005",
+    "longitude": "150.736938476",
     "region": "nsw",
-    "time_of_call": "05 Oct 2024 19:22:00",
+    "time_of_call": "05 Oct 2024 19:28:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -620,6 +598,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Oct 2024 19:22"
+    "updated": "5 Oct 2024 19:28"
+  },
+  {
+    "title": "Offerton Way, Cranebrook",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569799",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.724684999",
+    "longitude": "150.718207",
+    "region": "nsw",
+    "time_of_call": "05 Oct 2024 19:30:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "9 Offerton Way, Cranebrook, NSW 2749",
+    "council_area": "Penrith",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 Oct 2024 19:30"
   }
 ]
