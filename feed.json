@@ -15,7 +15,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "06 Oct 2024 01:29:25"
+    "updated": "06 Oct 2024 03:45:26"
   },
   {
     "agency": "Ambulance",
@@ -39,37 +39,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LATHAM",
-    "id": "060335-06102024",
-    "latitude": "-35.217781",
-    "longitude": "149.034875",
-    "region": "act",
-    "time_of_call": "06 Oct 2024 00:50:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LATHAM",
-    "updated": "06 Oct 2024 03:09:27"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BARTON",
     "id": "060343-06102024",
     "latitude": "-35.309306",
     "longitude": "149.13437",
     "region": "act",
     "time_of_call": "06 Oct 2024 01:48:15",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": "06 Oct 2024 03:18:11"
+    "updated": "06 Oct 2024 03:31:04"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "06 Oct 2024 03:23:04"
+    "updated": "06 Oct 2024 03:32:33"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "06 Oct 2024 03:15:25"
+    "updated": "06 Oct 2024 03:41:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "060349-06102024",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "06 Oct 2024 03:31:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "06 Oct 2024 03:34:09"
   },
   {
     "title": "WILSON DR, HILL TOP",
@@ -288,26 +288,6 @@
     "updated": "5 Oct 2024 17:15"
   },
   {
-    "title": "RAWSON ST, WESTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569821",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.816074371",
-    "longitude": "151.454498291",
-    "region": "nsw",
-    "time_of_call": "06 Oct 2024 01:39:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "RAWSON ST, WESTON 2326",
-    "council_area": "Cessnock",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Oct 2024 01:39"
-  },
-  {
     "title": "OLD NORTHERN RD, MAROOTA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569823",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -328,5 +308,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Oct 2024 01:15"
+  },
+  {
+    "title": "TWEED VALLEY WAY, CHINDERAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569824",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.2637081149999",
+    "longitude": "153.521926879",
+    "region": "nsw",
+    "time_of_call": "06 Oct 2024 03:30:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "9394 TWEED VALLEY WAY, CHINDERAH 2487",
+    "council_area": "Tweed",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Oct 2024 03:30"
   }
 ]
