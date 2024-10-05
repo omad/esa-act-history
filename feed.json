@@ -63,13 +63,13 @@
     "longitude": "149.161141",
     "region": "act",
     "time_of_call": "06 Oct 2024 03:07:02",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "06 Oct 2024 03:51:54"
+    "updated": "06 Oct 2024 04:30:14"
   },
   {
     "agency": "Ambulance",
@@ -106,6 +106,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
     "updated": "06 Oct 2024 03:34:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RICHARDSON",
+    "id": "060350-06102024",
+    "latitude": "-35.428715",
+    "longitude": "149.111133",
+    "region": "act",
+    "time_of_call": "06 Oct 2024 04:20:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RICHARDSON",
+    "updated": "06 Oct 2024 04:32:09"
   },
   {
     "title": "WILSON DR, HILL TOP",
@@ -328,5 +346,45 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Oct 2024 03:48"
+  },
+  {
+    "title": "FLORENCE TCE, SCOTLAND ISLAND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569825",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.637172699",
+    "longitude": "151.293151856",
+    "region": "nsw",
+    "time_of_call": "06 Oct 2024 04:06:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "4 FLORENCE TCE, SCOTLAND ISLAND 2105",
+    "council_area": "Northern Beaches",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Oct 2024 04:06"
+  },
+  {
+    "title": "IRRIGATION WAY, WHITTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569826",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.503025055",
+    "longitude": "146.188476563",
+    "region": "nsw",
+    "time_of_call": "06 Oct 2024 04:22:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "IRRIGATION WAY, WHITTON 2705",
+    "council_area": "Leeton",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Oct 2024 04:22"
   }
 ]
