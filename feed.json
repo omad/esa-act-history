@@ -20,7 +20,7 @@
     "updated": "23 Sep 2024 17:25:05"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - PARKES",
@@ -29,15 +29,15 @@
     "longitude": "149.12684954",
     "region": "act",
     "time_of_call": "05 Oct 2024 15:25:55",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "COMMONWEALTH AVENUE BRIDGE, COMMONWEALTH AVENUE, PARKES, 2600",
-    "updated": "05 Oct 2024 15:31:29"
+    "updated": "05 Oct 2024 15:48:39"
   },
   {
     "agency": "Ambulance",
@@ -92,42 +92,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
     "updated": "05 Oct 2024 15:33:02"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CAMPBELL",
-    "id": "060204-05102024",
-    "latitude": "-35.288663",
-    "longitude": "149.155928",
-    "region": "act",
-    "time_of_call": "05 Oct 2024 12:54:12",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CAMPBELL",
-    "updated": "05 Oct 2024 15:17:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - HUME",
-    "id": "060214-05102024",
-    "latitude": "-35.3720202378",
-    "longitude": "149.1692144355",
-    "region": "act",
-    "time_of_call": "05 Oct 2024 14:18:23",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
-    "location": "GAOL / JAIL, MONARO HIGHWAY, HUME, 2620",
-    "updated": "05 Oct 2024 14:41:33"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +157,13 @@
     "longitude": "149.066294",
     "region": "act",
     "time_of_call": "05 Oct 2024 14:25:34",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "05 Oct 2024 14:31:22"
+    "updated": "05 Oct 2024 15:39:29"
   },
   {
     "agency": "Ambulance",
@@ -271,7 +235,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "05 Oct 2024 15:29:58"
+    "updated": "05 Oct 2024 15:47:32"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +253,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "05 Oct 2024 15:18:35"
+    "updated": "05 Oct 2024 15:39:01"
   },
   {
     "agency": "Ambulance",
@@ -325,7 +289,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "05 Oct 2024 15:25:26"
+    "updated": "05 Oct 2024 15:42:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "060232-05102024",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "05 Oct 2024 15:42:27",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "05 Oct 2024 15:47:45"
   },
   {
     "title": "WILSON DR, HILL TOP",
@@ -481,28 +463,6 @@
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "5 Oct 2024 10:28"
-  },
-  {
-    "title": "OXLEY HWY, MOUNT SEAVIEW",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569743",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.408132553",
-    "longitude": "152.238006592",
-    "region": "nsw",
-    "time_of_call": "05 Oct 2024 14:22:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "OXLEY HWY, MOUNT SEAVIEW 2446",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Oct 2024 14:22"
   },
   {
     "title": "Pile Burn - Mitchell Rd Dural",
