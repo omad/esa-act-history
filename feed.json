@@ -15,7 +15,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "06 Oct 2024 22:15:58"
+    "updated": "06 Oct 2024 22:27:18"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "06 Oct 2024 22:06:06"
+    "updated": "06 Oct 2024 22:22:44"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "06 Oct 2024 22:08:27"
+    "updated": "06 Oct 2024 22:20:54"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,13 @@
     "longitude": "149.126815",
     "region": "act",
     "time_of_call": "06 Oct 2024 22:10:56",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "06 Oct 2024 22:14:35"
+    "updated": "06 Oct 2024 22:26:07"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,31 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "06 Oct 2024 22:17:09",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "06 Oct 2024 22:23:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SYMONSTON",
+    "id": "060500-06102024",
+    "latitude": "-35.34936",
+    "longitude": "149.163724",
+    "region": "act",
+    "time_of_call": "06 Oct 2024 22:26:50",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "06 Oct 2024 22:17:45"
+    "location": "SYMONSTON",
+    "updated": "06 Oct 2024 22:28:45"
   },
   {
     "title": "WILSON DR, HILL TOP",
@@ -565,9 +583,9 @@
     "latitude": "-33.7226028439999",
     "longitude": "150.703948975",
     "region": "nsw",
-    "time_of_call": "06 Oct 2024 21:45:00",
+    "time_of_call": "06 Oct 2024 22:22:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -580,24 +598,24 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Oct 2024 21:45"
+    "updated": "6 Oct 2024 22:22"
   },
   {
-    "title": "WIANAMATTA PWY, ST MARYS",
+    "title": "Wianamatta Pwy, St Marys",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569914",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.728992462",
-    "longitude": "150.76461792",
+    "latitude": "-33.7289919999999",
+    "longitude": "150.764616",
     "region": "nsw",
-    "time_of_call": "06 Oct 2024 21:35:00",
+    "time_of_call": "06 Oct 2024 22:16:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "WIANAMATTA PWY, ST MARYS 2760",
+    "location": "Wianamatta Pwy, St Marys, NSW 2760",
     "council_area": "Blacktown",
     "type": "Grass Fire",
     "type_description": "",
@@ -605,7 +623,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Oct 2024 21:35"
+    "updated": "6 Oct 2024 22:16"
   },
   {
     "title": "MUNGABAREENA RD, EAST ALBURY",
@@ -615,9 +633,9 @@
     "latitude": "-36.09664917",
     "longitude": "146.948989868",
     "region": "nsw",
-    "time_of_call": "06 Oct 2024 21:45:00",
+    "time_of_call": "06 Oct 2024 22:10:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "240 MUNGABAREENA RD, EAST ALBURY 2640",
     "council_area": "Albury",
@@ -625,7 +643,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Oct 2024 21:45"
+    "updated": "6 Oct 2024 22:10"
   },
   {
     "title": "CANOELANDS RD, CANOELANDS",
@@ -648,5 +666,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Oct 2024 21:54"
+  },
+  {
+    "title": "Hoskins Av, Port Kembla",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569917",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.4907499999999",
+    "longitude": "150.894232",
+    "region": "nsw",
+    "time_of_call": "06 Oct 2024 22:25:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Hoskins Av, Port Kembla, NSW 2505",
+    "council_area": "Wollongong",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "6 Oct 2024 22:25"
   }
 ]
