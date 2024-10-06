@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "STORM OR TREE DAMAGE - KALEEN",
-    "id": "014132-06102024",
-    "latitude": "-35.2180425399",
-    "longitude": "149.1046292999",
-    "region": "act",
-    "time_of_call": "06 Oct 2024 19:37:32",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "STORM OR TREE DAMAGE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
-    "location": "CALLABONNA STREET, KALEEN, 2617",
-    "updated": "06 Oct 2024 20:29:27"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -29,13 +9,13 @@
     "longitude": "149.034875",
     "region": "act",
     "time_of_call": "06 Oct 2024 19:36:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "06 Oct 2024 21:17:28"
+    "updated": "06 Oct 2024 21:27:44"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +33,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "06 Oct 2024 21:22:46"
+    "updated": "06 Oct 2024 21:33:55"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +135,13 @@
     "longitude": "149.097085",
     "region": "act",
     "time_of_call": "06 Oct 2024 20:43:00",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "06 Oct 2024 21:21:14"
+    "updated": "06 Oct 2024 21:31:49"
   },
   {
     "agency": "Ambulance",
@@ -234,6 +214,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
     "updated": "06 Oct 2024 21:21:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "060494-06102024",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "06 Oct 2024 21:31:49",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "06 Oct 2024 21:36:33"
   },
   {
     "title": "WILSON DR, HILL TOP",
@@ -592,7 +590,7 @@
     "latitude": "-33.5894980369999",
     "longitude": "150.946637392",
     "region": "nsw",
-    "time_of_call": "06 Oct 2024 20:44:00",
+    "time_of_call": "06 Oct 2024 21:25:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -605,9 +603,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "3 ha",
+    "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Oct 2024 20:44"
+    "updated": "6 Oct 2024 21:25"
   },
   {
     "title": "WINE COUNTRY DR, LOVEDALE",
@@ -654,28 +652,6 @@
     "updated": "6 Oct 2024 19:55"
   },
   {
-    "title": "AVENUE RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569908",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.734088898",
-    "longitude": "153.066772461",
-    "region": "nsw",
-    "time_of_call": "06 Oct 2024 21:03:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "CLARENCE CORRECTIONAL CENTRE 313 AVENUE RD, LAVADIA 2462",
-    "council_area": "Clarence Valley",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Oct 2024 21:03"
-  },
-  {
     "title": "NEWNES FOREST RD, CLARENCE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569909",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -703,9 +679,9 @@
     "latitude": "-34.850318909",
     "longitude": "150.656036377",
     "region": "nsw",
-    "time_of_call": "06 Oct 2024 21:02:00",
+    "time_of_call": "06 Oct 2024 21:30:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "RIVERVIEW FARM 650 BOLONG RD, BOLONG 2540",
     "council_area": "Shoalhaven",
@@ -715,24 +691,24 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Oct 2024 21:02"
+    "updated": "6 Oct 2024 21:30"
   },
   {
-    "title": "CAMELOT DR, CRANEBROOK",
+    "title": "Camelot Dr, Cranebrook",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569913",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
     "latitude": "-33.7226028439999",
     "longitude": "150.703948975",
     "region": "nsw",
-    "time_of_call": "06 Oct 2024 21:20:00",
+    "time_of_call": "06 Oct 2024 21:26:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "CAMELOT DR, CRANEBROOK 2749",
+    "location": "Camelot Dr, Cranebrook, NSW 2749",
     "council_area": "Penrith",
     "type": "Grass Fire",
     "type_description": "",
@@ -740,6 +716,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Oct 2024 21:20"
+    "updated": "6 Oct 2024 21:26"
+  },
+  {
+    "title": "WIANAMATTA PWY, ST MARYS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569914",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.7289919999999",
+    "longitude": "150.764616",
+    "region": "nsw",
+    "time_of_call": "06 Oct 2024 21:35:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "WIANAMATTA PWY, ST MARYS 2760",
+    "council_area": "Blacktown",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "6 Oct 2024 21:35"
   }
 ]
