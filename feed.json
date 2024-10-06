@@ -9,15 +9,15 @@
     "longitude": "149.06365403",
     "region": "act",
     "time_of_call": "07 Oct 2024 08:28:44",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "BLUMENTHAL PLACE, SPENCE, 2615",
-    "updated": "07 Oct 2024 08:28:45"
+    "updated": "07 Oct 2024 08:38:45"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "07 Oct 2024 08:27:46"
+    "updated": "07 Oct 2024 08:43:04"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +83,13 @@
     "longitude": "149.072217",
     "region": "act",
     "time_of_call": "07 Oct 2024 08:15:12",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "07 Oct 2024 08:19:45"
+    "updated": "07 Oct 2024 08:38:31"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "07 Oct 2024 08:27:51"
+    "updated": "07 Oct 2024 08:31:37"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "07 Oct 2024 08:19:55"
+    "updated": "07 Oct 2024 08:34:24"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "07 Oct 2024 08:22:03"
+    "updated": "07 Oct 2024 08:35:51"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "07 Oct 2024 08:26:49"
+    "updated": "07 Oct 2024 08:41:35"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +173,49 @@
     "longitude": "149.034875",
     "region": "act",
     "time_of_call": "07 Oct 2024 08:24:18",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LATHAM",
+    "updated": "07 Oct 2024 08:33:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "060556-07102024",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "07 Oct 2024 08:30:45",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "LATHAM",
-    "updated": "07 Oct 2024 08:27:24"
+    "location": "MACGREGOR",
+    "updated": "07 Oct 2024 08:48:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "060559-07102024",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "07 Oct 2024 08:44:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "07 Oct 2024 08:47:04"
   },
   {
     "title": "WILSON DR, HILL TOP",
@@ -565,21 +601,65 @@
     "latitude": "-34.5027885439999",
     "longitude": "150.333221436",
     "region": "nsw",
-    "time_of_call": "07 Oct 2024 08:25:00",
+    "time_of_call": "07 Oct 2024 08:45:00",
     "event_type": "burnt area",
     "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "41 ARGYLE ST, NEW BERRIMA 2577",
+    "council_area": "Wingecarribee",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Oct 2024 08:45"
+  },
+  {
+    "title": "KINGS RD, COORANBONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569939",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.0770301819999",
+    "longitude": "151.429656983",
+    "region": "nsw",
+    "time_of_call": "07 Oct 2024 08:28:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "85 KINGS RD, COORANBONG 2265",
+    "council_area": "Lake Macquarie",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Oct 2024 08:28"
+  },
+  {
+    "title": "Maitland St, Stanford Merthyr",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569941",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.823991",
+    "longitude": "151.493275001",
+    "region": "nsw",
+    "time_of_call": "07 Oct 2024 08:46:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "41 ARGYLE ST, NEW BERRIMA 2577",
-    "council_area": "Wingecarribee",
+    "location": "69 Maitland St, Stanford Merthyr, NSW 2327",
+    "council_area": "Cessnock",
     "type": "Grass Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Oct 2024 08:25"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "7 Oct 2024 08:46"
   }
 ]
