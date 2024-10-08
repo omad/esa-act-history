@@ -25,8 +25,8 @@
     "event_type": "incident",
     "title": "GRASS AND BUSH FIRE - MOLONGLO VALLEY",
     "id": "014212-08102024",
-    "latitude": "-35.3173408508",
-    "longitude": "149.0526733398",
+    "latitude": "-35.3165969849",
+    "longitude": "149.0544128418",
     "region": "act",
     "time_of_call": "08 Oct 2024 19:50:03",
     "status": "On Scene",
@@ -37,10 +37,10 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "FOREST DRIVE (BICENTENNIAL NATIONAL TRAIL), FOREST DRIVE, MOLONGLO VALLEY, 0000",
-    "updated": "08 Oct 2024 20:33:52"
+    "updated": "08 Oct 2024 20:46:34"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - FRANKLIN",
@@ -77,7 +77,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "NAAS ROAD, SUNSHINE ROAD, TENNENT, 0000",
-    "updated": "08 Oct 2024 20:34:42"
+    "updated": "08 Oct 2024 20:41:25"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "08 Oct 2024 20:22:28"
+    "updated": "08 Oct 2024 20:45:47"
   },
   {
     "agency": "Ambulance",
@@ -257,7 +257,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FRASER",
-    "updated": "08 Oct 2024 20:35:27"
+    "updated": "08 Oct 2024 20:40:48"
   },
   {
     "agency": "Ambulance",
@@ -269,13 +269,31 @@
     "longitude": "149.165368",
     "region": "act",
     "time_of_call": "08 Oct 2024 20:25:54",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HACKETT",
+    "updated": "08 Oct 2024 20:48:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "060905-08102024",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "08 Oct 2024 20:38:32",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "HACKETT",
-    "updated": "08 Oct 2024 20:29:25"
+    "location": "CHAPMAN",
+    "updated": "08 Oct 2024 20:41:04"
   },
   {
     "title": "Ashfords Road, Gregadoo",
@@ -727,28 +745,6 @@
     "updated": "8 Oct 2024 18:52"
   },
   {
-    "title": "POVEYS RD, COLINTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570086",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.828872681",
-    "longitude": "149.200698853",
-    "region": "nsw",
-    "time_of_call": "08 Oct 2024 18:31:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "ROCKVIEW 403 POVEYS RD, COLINTON 2626",
-    "council_area": "Snowy Monaro",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Oct 2024 18:31"
-  },
-  {
     "title": "ILFORD SOFALA RD, SOFALA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570089",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -769,31 +765,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Oct 2024 20:02"
-  },
-  {
-    "title": "MEHI FIRETRAIL, MOREE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570090",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.4720535279999",
-    "longitude": "149.858489991",
-    "region": "nsw",
-    "time_of_call": "08 Oct 2024 20:32:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "MEHI FIRETRAIL, MOREE 2400",
-    "council_area": "Moree Plains",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Oct 2024 20:32"
   },
   {
     "title": "ADELAIDE ST, BOURKE",
@@ -843,28 +814,6 @@
     "updated": "8 Oct 2024 20:20"
   },
   {
-    "title": "YARRAMALONG RD, WYONG CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570093",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.2571710619999",
-    "longitude": "151.331305504",
-    "region": "nsw",
-    "time_of_call": "08 Oct 2024 20:01:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "841 YARRAMALONG RD, WYONG CREEK 2259",
-    "council_area": "Central Coast",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Oct 2024 20:01"
-  },
-  {
     "title": "Jindabyne Cr, Peakhurst",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570094",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -888,30 +837,5 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "8 Oct 2024 20:31"
-  },
-  {
-    "title": "Jiniwin Pl, Ambarvale",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570096",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.083129001",
-    "longitude": "150.798262",
-    "region": "nsw",
-    "time_of_call": "08 Oct 2024 20:34:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "11 Jiniwin Pl, Ambarvale, NSW 2560",
-    "council_area": "Campbelltown",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Oct 2024 20:34"
   }
 ]
