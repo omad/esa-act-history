@@ -55,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "09 Oct 2024 05:46:25"
+    "updated": "09 Oct 2024 05:51:32"
   },
   {
     "agency": "Ambulance",
@@ -85,13 +85,31 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "09 Oct 2024 05:41:45",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "09 Oct 2024 05:47:15"
+    "updated": "09 Oct 2024 05:56:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "060941-09102024",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "09 Oct 2024 05:55:45",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "09 Oct 2024 06:05:51"
   },
   {
     "title": "Ashfords Road, Gregadoo",
@@ -310,28 +328,6 @@
     "updated": "8 Oct 2024 21:35"
   },
   {
-    "title": "GREENFIELD PL, FORSTER",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_569940",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.21181488",
-    "longitude": "152.541183471",
-    "region": "nsw",
-    "time_of_call": "07 Oct 2024 08:32:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "5 GREENFIELD PL, FORSTER 2428",
-    "council_area": "Mid-Coast",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Oct 2024 08:32"
-  },
-  {
     "title": "NAMBUCCA HEADS SLSC NEWRY ST, NAMBUCCA HEADS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570007",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -527,9 +523,9 @@
     "latitude": "-33.4857101439999",
     "longitude": "150.812957764",
     "region": "nsw",
-    "time_of_call": "09 Oct 2024 05:40:00",
+    "time_of_call": "09 Oct 2024 06:01:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "35 CARMICHAEL PL, EAST KURRAJONG 2758",
     "council_area": "Hawkesbury",
@@ -539,6 +535,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Oct 2024 05:40"
+    "updated": "9 Oct 2024 06:01"
+  },
+  {
+    "title": "COXS GAP TUNNEL BYLONG VALLEY WAY, MURRUMBO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570111",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.422058105",
+    "longitude": "150.272857666",
+    "region": "nsw",
+    "time_of_call": "09 Oct 2024 06:02:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "COXS GAP TUNNEL BYLONG VALLEY WAY, MURRUMBO 2849",
+    "council_area": "Mid-Western",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Oct 2024 06:02"
   }
 ]
