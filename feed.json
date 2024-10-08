@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "FOREST DRIVE (BICENTENNIAL NATIONAL TRAIL), FOREST DRIVE, MOLONGLO VALLEY, 0000",
-    "updated": "08 Oct 2024 21:24:42"
+    "updated": "08 Oct 2024 22:25:57"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "08 Oct 2024 22:11:26"
+    "updated": "08 Oct 2024 22:29:54"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +219,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "08 Oct 2024 22:02:29"
+    "updated": "08 Oct 2024 22:25:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DOWNER",
+    "id": "060914-08102024",
+    "latitude": "-35.245131",
+    "longitude": "149.143546",
+    "region": "act",
+    "time_of_call": "08 Oct 2024 22:21:03",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DOWNER",
+    "updated": ""
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "060915-08102024",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "08 Oct 2024 22:21:20",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TAYLOR",
+    "updated": "08 Oct 2024 22:29:13"
   },
   {
     "title": "Ashfords Road, Gregadoo",
@@ -700,7 +736,7 @@
     "latitude": "-34.922008514",
     "longitude": "148.165679932",
     "region": "nsw",
-    "time_of_call": "08 Oct 2024 21:56:00",
+    "time_of_call": "08 Oct 2024 22:10:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
@@ -712,7 +748,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Oct 2024 21:56"
+    "updated": "8 Oct 2024 22:10"
   },
   {
     "title": "Laurel Pl, Macquarie Fields",
@@ -747,9 +783,9 @@
     "latitude": "-33.3701019289999",
     "longitude": "151.308792115",
     "region": "nsw",
-    "time_of_call": "08 Oct 2024 21:50:00",
+    "time_of_call": "08 Oct 2024 22:21:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "M1 (PACIFIC MTWY), SOMERSBY 2250",
     "council_area": "Central Coast",
@@ -759,31 +795,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Oct 2024 21:50"
-  },
-  {
-    "title": "Waratah Av, Inverell",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570102",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.788113",
-    "longitude": "151.100474",
-    "region": "nsw",
-    "time_of_call": "08 Oct 2024 22:17:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Waratah Av, Inverell, NSW 2360",
-    "council_area": "Inverell",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Oct 2024 22:17"
+    "updated": "8 Oct 2024 22:21"
   }
 ]
