@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "FISHER STREET, AINSLIE, 2602",
-    "updated": "10 Oct 2024 08:11:34"
+    "updated": "10 Oct 2024 08:28:05"
   },
   {
     "agency": "Fire - Ambulance",
@@ -125,13 +125,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "10 Oct 2024 06:11:41",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "10 Oct 2024 06:21:43"
+    "updated": "10 Oct 2024 08:28:50"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "10 Oct 2024 07:42:52"
+    "updated": "10 Oct 2024 08:24:34"
   },
   {
     "agency": "Ambulance",
@@ -239,7 +239,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "10 Oct 2024 07:59:20"
+    "updated": "10 Oct 2024 08:28:22"
   },
   {
     "agency": "Ambulance",
@@ -258,6 +258,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
     "updated": "10 Oct 2024 07:52:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "061158-10102024",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "10 Oct 2024 08:22:52",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "10 Oct 2024 08:29:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "061159-10102024",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "10 Oct 2024 08:27:09",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "10 Oct 2024 08:28:25"
   },
   {
     "title": "Gully Rd HR",
@@ -742,5 +778,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Oct 2024 07:33"
+  },
+  {
+    "title": "SOUTH BANK RD, PALMERS CHANNEL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570227",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.458871841",
+    "longitude": "153.282577515",
+    "region": "nsw",
+    "time_of_call": "10 Oct 2024 08:08:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "SOUTH BANK RD, PALMERS CHANNEL 2463",
+    "council_area": "Clarence Valley",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Oct 2024 08:08"
   }
 ]
