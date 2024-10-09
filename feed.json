@@ -20,26 +20,6 @@
     "updated": "09 Oct 2024 14:11:34"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "STRUCTURE FIRE - BRADDON",
-    "id": "014280-09102024",
-    "latitude": "-35.272578824",
-    "longitude": "149.1331850218",
-    "region": "act",
-    "time_of_call": "09 Oct 2024 23:08:30",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "STRUCTURE FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
-    "location": "MODE APARTMENTS, LONSDALE STREET, ELOUERA STREET, BRADDON, 2612",
-    "updated": "10 Oct 2024 01:45:47"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -109,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "10 Oct 2024 02:24:13"
+    "updated": "10 Oct 2024 02:46:19"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "10 Oct 2024 02:25:01"
+    "updated": "10 Oct 2024 02:46:33"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +119,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "10 Oct 2024 02:16:10",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "10 Oct 2024 02:35:37"
+    "updated": "10 Oct 2024 02:45:45"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +137,49 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "10 Oct 2024 02:32:37",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "10 Oct 2024 02:40:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "061126-10102024",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "10 Oct 2024 02:42:06",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "10 Oct 2024 02:36:22"
+    "location": "CALWELL",
+    "updated": "10 Oct 2024 02:45:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "061127-10102024",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "10 Oct 2024 02:46:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "10 Oct 2024 02:47:52"
   },
   {
     "title": "Gully Rd HR",
@@ -584,5 +600,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Oct 2024 20:57"
+  },
+  {
+    "title": "CHAIN VALLEY BAY RD, CRANGAN BAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570213",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.178405761",
+    "longitude": "151.581588746",
+    "region": "nsw",
+    "time_of_call": "10 Oct 2024 02:36:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "CHAIN VALLEY BAY RD, CRANGAN BAY 2259",
+    "council_area": "Central Coast",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Oct 2024 02:36"
   }
 ]
