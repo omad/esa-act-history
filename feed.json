@@ -127,7 +127,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "10 Oct 2024 06:17:05"
+    "updated": "10 Oct 2024 06:21:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUGHES",
+    "id": "061140-10102024",
+    "latitude": "-35.333105",
+    "longitude": "149.094654",
+    "region": "act",
+    "time_of_call": "10 Oct 2024 06:22:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUGHES",
+    "updated": "10 Oct 2024 06:27:18"
   },
   {
     "title": "Gully Rd HR",
@@ -557,9 +575,9 @@
     "latitude": "-36.751869202",
     "longitude": "149.946487426",
     "region": "nsw",
-    "time_of_call": "10 Oct 2024 05:57:00",
+    "time_of_call": "10 Oct 2024 06:14:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "15 SHUMACK PL, WALLAGOOT 2550",
     "council_area": "Bega Valley",
@@ -569,7 +587,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Oct 2024 05:57"
+    "updated": "10 Oct 2024 06:14"
   },
   {
     "title": "BURRAGORANG RD, THE OAKS",
@@ -592,5 +610,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Oct 2024 06:03"
+  },
+  {
+    "title": "PACIFIC HWY, COOPERNOOK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570220",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.833208084",
+    "longitude": "152.616088867",
+    "region": "nsw",
+    "time_of_call": "10 Oct 2024 06:16:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, COOPERNOOK 2426",
+    "council_area": "Mid-Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Oct 2024 06:16"
+  },
+  {
+    "title": "COLBRAN AV, KENTHURST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570221",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6825294499999",
+    "longitude": "150.969406127",
+    "region": "nsw",
+    "time_of_call": "10 Oct 2024 06:15:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "21 COLBRAN AV, KENTHURST 2156",
+    "council_area": "The Hills",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Oct 2024 06:15"
   }
 ]
