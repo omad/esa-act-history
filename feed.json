@@ -15,7 +15,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "11 Oct 2024 00:21:03"
+    "updated": "11 Oct 2024 00:43:02"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "11 Oct 2024 00:25:27"
+    "updated": "11 Oct 2024 00:31:32"
   },
   {
     "agency": "Ambulance",
@@ -207,13 +207,13 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "11 Oct 2024 00:02:52",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "11 Oct 2024 00:08:53"
+    "updated": "11 Oct 2024 00:40:27"
   },
   {
     "agency": "Ambulance",
@@ -285,7 +285,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "11 Oct 2024 00:28:50"
+    "updated": "11 Oct 2024 00:42:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOK",
+    "id": "061358-11102024",
+    "latitude": "-35.261055",
+    "longitude": "149.064271",
+    "region": "act",
+    "time_of_call": "11 Oct 2024 00:40:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOK",
+    "updated": "11 Oct 2024 00:42:59"
   },
   {
     "title": "Gully Rd HR",
@@ -818,27 +836,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Oct 2024 00:00"
-  },
-  {
-    "title": "SUTHERLAND ST, WALGETT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570291",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.026330948",
-    "longitude": "148.113433837",
-    "region": "nsw",
-    "time_of_call": "11 Oct 2024 00:04:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "SUTHERLAND ST, WALGETT 2832",
-    "council_area": "Walgett",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 Oct 2024 00:04"
   }
 ]
