@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "10 Oct 2024 21:25:35"
+    "updated": "10 Oct 2024 21:45:00"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "10 Oct 2024 21:17:48"
+    "updated": "10 Oct 2024 21:47:33"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "10 Oct 2024 21:30:37"
+    "updated": "10 Oct 2024 21:44:15"
   },
   {
     "agency": "Ambulance",
@@ -107,25 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "10 Oct 2024 21:22:51"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHISHOLM",
-    "id": "061311-10102024",
-    "latitude": "-35.422993",
-    "longitude": "149.12793",
-    "region": "act",
-    "time_of_call": "10 Oct 2024 20:31:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHISHOLM",
-    "updated": "10 Oct 2024 21:16:54"
+    "updated": "10 Oct 2024 21:42:42"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,13 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "10 Oct 2024 21:32:40",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "10 Oct 2024 21:37:49"
+    "updated": "10 Oct 2024 21:45:44"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +197,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "10 Oct 2024 21:39:37"
+    "updated": "10 Oct 2024 21:42:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "061326-10102024",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "10 Oct 2024 21:41:53",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "10 Oct 2024 21:46:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "061327-10102024",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "10 Oct 2024 21:48:34",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "10 Oct 2024 21:48:37"
   },
   {
     "title": "Gully Rd HR",
@@ -704,9 +722,9 @@
     "latitude": "-30.086709976",
     "longitude": "145.926834107",
     "region": "nsw",
-    "time_of_call": "10 Oct 2024 20:48:00",
+    "time_of_call": "10 Oct 2024 21:42:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -719,7 +737,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Oct 2024 20:48"
+    "updated": "10 Oct 2024 21:42"
   },
   {
     "title": "COLLIES LANE, MARDI",
@@ -742,28 +760,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Oct 2024 20:51"
-  },
-  {
-    "title": "GAN GAN RD, ONE MILE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570279",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.767162323",
-    "longitude": "152.123138428",
-    "region": "nsw",
-    "time_of_call": "10 Oct 2024 21:02:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "SAMURAI BEACH RESORT 562 GAN GAN RD, ONE MILE 2316",
-    "council_area": "Port Stephens",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Oct 2024 21:02"
   },
   {
     "title": "GAMBAN RD, GWANDALAN",
