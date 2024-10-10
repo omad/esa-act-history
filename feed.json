@@ -69,7 +69,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "11 Oct 2024 01:20:55"
+    "updated": "11 Oct 2024 01:29:42"
   },
   {
     "agency": "Ambulance",
@@ -88,24 +88,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
     "updated": "11 Oct 2024 00:17:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WARAMANGA",
-    "id": "061343-10102024",
-    "latitude": "-35.353501",
-    "longitude": "149.06067",
-    "region": "act",
-    "time_of_call": "10 Oct 2024 23:22:47",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WARAMANGA",
-    "updated": "11 Oct 2024 00:26:39"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +177,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "11 Oct 2024 01:11:33"
+    "updated": "11 Oct 2024 01:26:34"
   },
   {
     "agency": "Ambulance",
@@ -286,6 +268,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
     "updated": "11 Oct 2024 01:20:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "061362-11102024",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "11 Oct 2024 01:23:34",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "11 Oct 2024 01:25:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RED HILL",
+    "id": "061363-11102024",
+    "latitude": "-35.333636",
+    "longitude": "149.120031",
+    "region": "act",
+    "time_of_call": "11 Oct 2024 01:24:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RED HILL",
+    "updated": "11 Oct 2024 01:27:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ACTON",
+    "id": "061364-11102024",
+    "latitude": "-35.289989",
+    "longitude": "149.115669",
+    "region": "act",
+    "time_of_call": "11 Oct 2024 01:27:10",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ACTON",
+    "updated": "11 Oct 2024 01:32:33"
   },
   {
     "title": "Gully Rd HR",
@@ -791,5 +827,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Oct 2024 01:02"
+  },
+  {
+    "title": "TOCAL RD, BOLWARRA HEIGHTS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570293",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.692260742",
+    "longitude": "151.578735352",
+    "region": "nsw",
+    "time_of_call": "11 Oct 2024 01:21:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "TOCAL RD, BOLWARRA HEIGHTS 2320",
+    "council_area": "Maitland",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "11 Oct 2024 01:21"
   }
 ]
