@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "12 Oct 2024 05:24:15"
+    "updated": "12 Oct 2024 05:45:48"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "12 Oct 2024 05:27:03",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "12 Oct 2024 05:29:12"
+    "updated": "12 Oct 2024 05:41:54"
   },
   {
     "title": "Gully Rd HR",
@@ -515,5 +515,47 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "12 Oct 2024 02:41"
+  },
+  {
+    "title": "PACIFIC HWY, WARRELL CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570411",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.781524659",
+    "longitude": "152.891281127",
+    "region": "nsw",
+    "time_of_call": "12 Oct 2024 05:32:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, WARRELL CREEK 2447",
+    "council_area": "Nambucca",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Oct 2024 05:32"
+  },
+  {
+    "title": "(PACIFIC MTWY), SOMERSBY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570412",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.422035218",
+    "longitude": "151.288803101",
+    "region": "nsw",
+    "time_of_call": "12 Oct 2024 05:42:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "M1 (PACIFIC MTWY), SOMERSBY 2250",
+    "council_area": "Central Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "12 Oct 2024 05:42"
   }
 ]
