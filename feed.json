@@ -55,7 +55,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "11 Oct 2024 21:30:11"
+    "updated": "11 Oct 2024 21:42:14"
   },
   {
     "agency": "Ambulance",
@@ -67,13 +67,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "11 Oct 2024 17:50:39",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "11 Oct 2024 18:03:18"
+    "updated": "11 Oct 2024 21:43:12"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "11 Oct 2024 21:02:57"
+    "updated": "11 Oct 2024 21:48:49"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "11 Oct 2024 21:33:52"
+    "updated": "11 Oct 2024 21:47:17"
   },
   {
     "agency": "Ambulance",
@@ -229,13 +229,31 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "11 Oct 2024 21:30:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "11 Oct 2024 21:36:01"
+    "updated": "11 Oct 2024 21:45:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "061602-11102024",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "11 Oct 2024 21:45:20",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "11 Oct 2024 21:47:30"
   },
   {
     "title": "Gully Rd HR",
@@ -701,5 +719,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Oct 2024 17:19"
+  },
+  {
+    "title": "COVINGTON CT, LAKE MUNMORAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570376",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.192260742",
+    "longitude": "151.582397461",
+    "region": "nsw",
+    "time_of_call": "11 Oct 2024 21:43:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "7 COVINGTON CT, LAKE MUNMORAH 2259",
+    "council_area": "Central Coast",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Oct 2024 21:43"
   }
 ]
