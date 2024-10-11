@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "11 Oct 2024 23:56:50"
+    "updated": "12 Oct 2024 00:35:53"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "11 Oct 2024 23:53:07"
+    "updated": "12 Oct 2024 00:32:12"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +233,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "11 Oct 2024 23:59:51"
+    "updated": "12 Oct 2024 00:10:52"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +251,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "11 Oct 2024 23:53:54"
+    "updated": "12 Oct 2024 00:17:41"
   },
   {
     "agency": "Ambulance",
@@ -305,7 +305,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MITCHELL",
-    "updated": "12 Oct 2024 00:06:10"
+    "updated": "12 Oct 2024 00:11:34"
   },
   {
     "agency": "Ambulance",
@@ -323,7 +323,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "12 Oct 2024 00:01:05"
+    "updated": "12 Oct 2024 00:33:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "061626-12102024",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "12 Oct 2024 00:18:32",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "12 Oct 2024 00:21:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "061627-12102024",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "12 Oct 2024 00:19:47",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HARRISON",
+    "updated": "12 Oct 2024 00:34:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "061629-12102024",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "12 Oct 2024 00:27:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "12 Oct 2024 00:31:02"
   },
   {
     "title": "Gully Rd HR",
@@ -769,31 +823,6 @@
     "updated": "11 Oct 2024 17:19"
   },
   {
-    "title": "OXLEY HWY, GOOLHI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570382",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.115171432",
-    "longitude": "149.78137207",
-    "region": "nsw",
-    "time_of_call": "11 Oct 2024 22:46:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "OXLEY HWY, GOOLHI 2379",
-    "council_area": "Warrumbungle",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2024 22:46"
-  },
-  {
     "title": "DELUNGRA RD, BINGARA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570385",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -801,9 +830,9 @@
     "latitude": "-29.840387345",
     "longitude": "150.56314087",
     "region": "nsw",
-    "time_of_call": "11 Oct 2024 23:50:00",
+    "time_of_call": "12 Oct 2024 00:11:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "DELUNGRA RD, BINGARA 2404",
     "council_area": "Gwydir",
@@ -813,7 +842,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2024 23:50"
+    "updated": "12 Oct 2024 00:11"
   },
   {
     "title": "THE BOGAN WAY, FORBES",
@@ -858,5 +887,97 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Oct 2024 00:03"
+  },
+  {
+    "title": "Duff St, Walgett",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570388",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.017712",
+    "longitude": "148.112762001",
+    "region": "nsw",
+    "time_of_call": "12 Oct 2024 00:33:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "7 Duff St, Walgett, NSW 2832",
+    "council_area": "Walgett",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "12 Oct 2024 00:33"
+  },
+  {
+    "title": "NINGEE NIMBELL CREEK RD, TOMBOYE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570389",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.2254295349999",
+    "longitude": "149.982009888",
+    "region": "nsw",
+    "time_of_call": "12 Oct 2024 00:30:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "301 NINGEE NIMBELL CREEK RD, TOMBOYE 2622",
+    "council_area": "Queanbeyan-Palerang",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Oct 2024 00:30"
+  },
+  {
+    "title": "Mackenzie St, Moree",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570390",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.4611179999999",
+    "longitude": "149.833656",
+    "region": "nsw",
+    "time_of_call": "12 Oct 2024 00:29:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "20 Mackenzie St, Moree, NSW 2400",
+    "council_area": "Moree Plains",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "12 Oct 2024 00:29"
+  },
+  {
+    "title": "HUME MTWY, PHEASANTS NEST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570391",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.3098526009999",
+    "longitude": "150.601531983",
+    "region": "nsw",
+    "time_of_call": "12 Oct 2024 00:32:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "HUME MTWY, PHEASANTS NEST 2574",
+    "council_area": "Wollondilly",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Oct 2024 00:32"
   }
 ]
