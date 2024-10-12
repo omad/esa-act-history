@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "12 Oct 2024 15:57:18"
+    "updated": "12 Oct 2024 16:43:13"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "12 Oct 2024 16:12:18",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "12 Oct 2024 16:26:08"
+    "updated": "12 Oct 2024 16:36:01"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "12 Oct 2024 16:32:33"
+    "updated": "12 Oct 2024 16:45:35"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +251,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "12 Oct 2024 16:35:25"
+    "updated": "12 Oct 2024 16:47:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "061732-12102024",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "12 Oct 2024 16:41:11",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "12 Oct 2024 16:45:00"
   },
   {
     "title": "Gully Rd HR",
@@ -557,7 +575,7 @@
     "latitude": "-32.9968795779999",
     "longitude": "151.089370727",
     "region": "nsw",
-    "time_of_call": "12 Oct 2024 14:38:00",
+    "time_of_call": "12 Oct 2024 16:34:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -567,7 +585,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "NSW Police",
-    "updated": "12 Oct 2024 14:38"
+    "updated": "12 Oct 2024 16:34"
   },
   {
     "title": "BULLONGRA RD, BUDDONG",
@@ -608,28 +626,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Oct 2024 14:41"
-  },
-  {
-    "title": "PACIFIC HWY, CUDGERA CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570446",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.3891048429999",
-    "longitude": "153.52406311",
-    "region": "nsw",
-    "time_of_call": "12 Oct 2024 14:29:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, CUDGERA CREEK 2484",
-    "council_area": "Tweed",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Oct 2024 14:29"
   },
   {
     "title": "MYALLA RD, SPRINGFIELD",
@@ -723,21 +719,21 @@
     "updated": "12 Oct 2024 16:09"
   },
   {
-    "title": "Warialda Rd, Inverell",
+    "title": "INVERELL LOOKOUT INVERELL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570463",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.7756669999999",
-    "longitude": "151.112928",
+    "latitude": "-29.780216217",
+    "longitude": "151.078582764",
     "region": "nsw",
-    "time_of_call": "12 Oct 2024 16:21:00",
+    "time_of_call": "12 Oct 2024 16:38:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "Warialda Rd, Inverell, NSW 2360",
+    "location": "INVERELL LOOKOUT INVERELL 2360",
     "council_area": "Inverell",
     "type": "Grass Fire",
     "type_description": "",
@@ -745,6 +741,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "12 Oct 2024 16:21"
+    "updated": "12 Oct 2024 16:38"
   }
 ]
