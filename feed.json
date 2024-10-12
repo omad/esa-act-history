@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "YAMBINA CRESCENT, WARAMANGA, 2611",
-    "updated": "13 Oct 2024 06:22:32"
+    "updated": "13 Oct 2024 06:35:59"
   },
   {
     "agency": "Ambulance",
@@ -55,25 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "13 Oct 2024 06:14:48"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "061813-13102024",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "13 Oct 2024 05:39:46",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "13 Oct 2024 06:10:53"
+    "updated": "13 Oct 2024 06:44:40"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "13 Oct 2024 06:23:36"
+    "updated": "13 Oct 2024 06:43:12"
   },
   {
     "agency": "Ambulance",
@@ -123,31 +105,67 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "13 Oct 2024 06:11:29",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "13 Oct 2024 06:15:07"
+    "updated": "13 Oct 2024 06:37:25"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
-    "id": "061818-13102024",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
+    "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - WESTON",
+    "id": "061819-13102024",
+    "latitude": "-35.3343121699",
+    "longitude": "149.06206273",
     "region": "act",
-    "time_of_call": "13 Oct 2024 06:14:00",
+    "time_of_call": "13 Oct 2024 06:34:18",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
+    "location": "HILDER STREET, WESTON, 2611",
+    "updated": "13 Oct 2024 06:42:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "061820-13102024",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "13 Oct 2024 06:38:13",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "13 Oct 2024 06:47:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "061821-13102024",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "13 Oct 2024 06:47:36",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CANBERRA AIRPORT",
-    "updated": "13 Oct 2024 06:14:34"
+    "location": "WANNIASSA",
+    "updated": "13 Oct 2024 06:48:37"
   },
   {
     "title": "Gully Rd HR",
@@ -192,28 +210,6 @@
     "size": "22 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Oct 2024 19:54"
-  },
-  {
-    "title": "SOFALA RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570034",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.138263703",
-    "longitude": "149.684982299",
-    "region": "nsw",
-    "time_of_call": "12 Oct 2024 15:39:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "WATTLE FLAT HERITAGE LANDS SOUTH HR SOFALA RD, WATTLE FLAT 2795",
-    "council_area": "Bathurst",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Oct 2024 15:39"
   },
   {
     "title": "Kingswood Magazine HR",
@@ -605,5 +601,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Oct 2024 05:25"
+  },
+  {
+    "title": "HELENSBURGH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570513",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.1705131529999",
+    "longitude": "150.966552735",
+    "region": "nsw",
+    "time_of_call": "13 Oct 2024 06:38:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "FIRETRAIL NO 9I, HELENSBURGH 2508",
+    "council_area": "Wollongong",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Oct 2024 06:38"
   }
 ]
