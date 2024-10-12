@@ -29,15 +29,15 @@
     "longitude": "149.0694686299",
     "region": "act",
     "time_of_call": "12 Oct 2024 18:11:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "ANIMAL RESCUE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
     "location": "HAVERFIELD PLACE, MCKELLAR, 2617",
-    "updated": "12 Oct 2024 18:14:08"
+    "updated": "12 Oct 2024 18:22:35"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "12 Oct 2024 17:58:48"
+    "updated": "12 Oct 2024 18:25:59"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "12 Oct 2024 18:09:33"
+    "updated": "12 Oct 2024 18:28:08"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "12 Oct 2024 18:12:02"
+    "updated": "12 Oct 2024 18:27:32"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +211,13 @@
     "longitude": "149.1195",
     "region": "act",
     "time_of_call": "12 Oct 2024 18:03:19",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "12 Oct 2024 18:16:30"
+    "updated": "12 Oct 2024 18:24:46"
   },
   {
     "agency": "Ambulance",
@@ -559,9 +559,9 @@
     "latitude": "-35.6895790099999",
     "longitude": "148.153884888",
     "region": "nsw",
-    "time_of_call": "12 Oct 2024 13:10:00",
+    "time_of_call": "12 Oct 2024 18:23:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BULLONGRA RD, BUDDONG 2720",
     "council_area": "Snowy Valleys",
@@ -569,7 +569,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Oct 2024 13:10"
+    "updated": "12 Oct 2024 18:23"
   },
   {
     "title": "BARRIER HWY, NOONA",
@@ -683,31 +683,6 @@
     "updated": "12 Oct 2024 17:06"
   },
   {
-    "title": "INVERELL LOOKOUT INVERELL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570463",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.780216217",
-    "longitude": "151.078582764",
-    "region": "nsw",
-    "time_of_call": "12 Oct 2024 16:38:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "INVERELL LOOKOUT INVERELL 2360",
-    "council_area": "Inverell",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "12 Oct 2024 16:38"
-  },
-  {
     "title": "BLUE CREEK TRL, PINBEYAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570464",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -782,9 +757,9 @@
     "latitude": "-31.3302574149999",
     "longitude": "149.312332153",
     "region": "nsw",
-    "time_of_call": "12 Oct 2024 17:55:00",
+    "time_of_call": "12 Oct 2024 18:23:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "6918 WARRUMBUNGLES WAY, COONABARABRAN 2357",
     "council_area": "Warrumbungle",
@@ -794,6 +769,48 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Oct 2024 17:55"
+    "updated": "12 Oct 2024 18:23"
+  },
+  {
+    "title": "SCENIC DR, PINNY BEACH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570470",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.11524582",
+    "longitude": "151.637405395",
+    "region": "nsw",
+    "time_of_call": "12 Oct 2024 18:18:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "65A SCENIC DR, PINNY BEACH 2281",
+    "council_area": "Lake Macquarie",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Oct 2024 18:18"
+  },
+  {
+    "title": "ORIENT POINT RD, CULBURRA BEACH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570471",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.913734436",
+    "longitude": "150.758255005",
+    "region": "nsw",
+    "time_of_call": "12 Oct 2024 18:19:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "52 ORIENT POINT RD, CULBURRA BEACH 2540",
+    "council_area": "Shoalhaven",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Oct 2024 18:19"
   }
 ]
