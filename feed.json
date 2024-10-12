@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "13 Oct 2024 09:57:37"
+    "updated": "13 Oct 2024 10:29:46"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +247,13 @@
     "longitude": "148.98074",
     "region": "act",
     "time_of_call": "13 Oct 2024 10:13:09",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "13 Oct 2024 10:18:54"
+    "updated": "13 Oct 2024 10:27:08"
   },
   {
     "agency": "Ambulance",
@@ -272,6 +272,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
     "updated": "13 Oct 2024 10:18:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUME",
+    "id": "061848-13102024",
+    "latitude": "-35.383449",
+    "longitude": "149.170863",
+    "region": "act",
+    "time_of_call": "13 Oct 2024 10:24:00",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUME",
+    "updated": "13 Oct 2024 10:28:47"
   },
   {
     "title": "Gully Rd HR",
@@ -454,31 +472,6 @@
     "updated": "12 Oct 2024 15:49"
   },
   {
-    "title": "CUNJURONG POINT RD, MANYANA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570340",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.2563190669999",
-    "longitude": "150.501893455",
-    "region": "nsw",
-    "time_of_call": "13 Oct 2024 05:56:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "CUNJURONG POINT RD, MANYANA 2539",
-    "council_area": "Shoalhaven",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Oct 2024 05:56"
-  },
-  {
     "title": "Welsh's rd",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570342",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -590,28 +583,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Oct 2024 07:11"
-  },
-  {
-    "title": "ANNANGROVE RD, ROUSE HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570515",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6582298279999",
-    "longitude": "150.929260254",
-    "region": "nsw",
-    "time_of_call": "13 Oct 2024 10:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "251 ANNANGROVE RD, ROUSE HILL 2155",
-    "council_area": "The Hills",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Oct 2024 10:12"
   },
   {
     "title": "CUNNINGHAM DR, TARLO",
@@ -789,5 +760,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Oct 2024 10:15"
+  },
+  {
+    "title": "Gwydir Hwy, Inverell",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570528",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.774595",
+    "longitude": "151.091178",
+    "region": "nsw",
+    "time_of_call": "13 Oct 2024 10:25:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Gwydir Hwy, Inverell, NSW 2360",
+    "council_area": "Inverell",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "13 Oct 2024 10:25"
   }
 ]
