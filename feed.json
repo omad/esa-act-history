@@ -23,26 +23,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "STRUCTURE FIRE - BELCONNEN",
-    "id": "014470-13102024",
-    "latitude": "-35.24383748",
-    "longitude": "149.0694431999",
-    "region": "act",
-    "time_of_call": "13 Oct 2024 23:21:29",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "STRUCTURE FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
-    "location": "ILLAWARRA COURT, HOWIE COURT, BELCONNEN, 2617",
-    "updated": "14 Oct 2024 00:44:16"
-  },
-  {
-    "agency": "Fire - Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "HOUSE FIRE - WANNIASSA",
     "id": "014471-14102024",
     "latitude": "-35.4013857899",
@@ -93,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "14 Oct 2024 01:20:29"
+    "updated": "14 Oct 2024 01:40:17"
   },
   {
     "agency": "Ambulance",
@@ -105,13 +85,13 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "14 Oct 2024 00:28:45",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "14 Oct 2024 01:26:33"
+    "updated": "14 Oct 2024 01:38:31"
   },
   {
     "agency": "Ambulance",
@@ -159,13 +139,31 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "14 Oct 2024 01:27:30",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "14 Oct 2024 01:37:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOMBS",
+    "id": "061980-14102024",
+    "latitude": "-35.31486",
+    "longitude": "149.041664",
+    "region": "act",
+    "time_of_call": "14 Oct 2024 01:41:53",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "PHILLIP",
-    "updated": "14 Oct 2024 01:31:15"
+    "location": "COOMBS",
+    "updated": "14 Oct 2024 01:48:05"
   },
   {
     "title": "Gully Rd HR",
@@ -528,5 +526,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Oct 2024 01:14"
+  },
+  {
+    "title": "Mehi Cr, Moree",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570583",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.469397",
+    "longitude": "149.821312",
+    "region": "nsw",
+    "time_of_call": "14 Oct 2024 01:46:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Mehi Cr, Moree, NSW 2400",
+    "council_area": "Moree Plains",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "14 Oct 2024 01:46"
   }
 ]
