@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "15 Oct 2024 10:29:14"
+    "updated": "15 Oct 2024 10:44:33"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "15 Oct 2024 09:48:34"
+    "updated": "15 Oct 2024 10:47:42"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,13 @@
     "longitude": "149.085827",
     "region": "act",
     "time_of_call": "15 Oct 2024 10:07:10",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "15 Oct 2024 10:12:40"
+    "updated": "15 Oct 2024 10:44:46"
   },
   {
     "agency": "Ambulance",
@@ -160,6 +160,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
     "updated": "15 Oct 2024 10:29:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "062250-15102024",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "15 Oct 2024 10:31:35",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "15 Oct 2024 10:47:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "062251-15102024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "15 Oct 2024 10:35:24",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "15 Oct 2024 10:48:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "062252-15102024",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "15 Oct 2024 10:39:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STIRLING",
+    "updated": "15 Oct 2024 10:42:46"
   },
   {
     "title": "Caleys HR",
@@ -317,5 +371,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Oct 2024 09:00"
+  },
+  {
+    "title": "OAKVIEW DR, HALLIDAYS POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570668",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.078308105",
+    "longitude": "152.49685669",
+    "region": "nsw",
+    "time_of_call": "15 Oct 2024 10:41:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "45 OAKVIEW DR, HALLIDAYS POINT 2430",
+    "council_area": "Mid-Coast",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Oct 2024 10:41"
+  },
+  {
+    "title": "STEVE HUTTON DR, MENINDEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570669",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.268756867",
+    "longitude": "142.392486572",
+    "region": "nsw",
+    "time_of_call": "15 Oct 2024 10:44:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "1A STEVE HUTTON DR, MENINDEE 2879",
+    "council_area": "Central Darling",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Oct 2024 10:44"
   }
 ]
