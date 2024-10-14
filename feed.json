@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "15 Oct 2024 03:00:42"
+    "updated": "15 Oct 2024 03:38:53"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "15 Oct 2024 03:09:10",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "15 Oct 2024 03:24:15"
+    "updated": "15 Oct 2024 03:35:43"
   },
   {
     "title": "Gully Rd HR",
@@ -257,5 +257,27 @@
     "size": "21 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Oct 2024 01:24"
+  },
+  {
+    "title": "OPHIR RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570653",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.263881683",
+    "longitude": "149.134887695",
+    "region": "nsw",
+    "time_of_call": "15 Oct 2024 03:44:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "J R RICHARDS WASTE MANAGEMENT OPHIR RD, ORANGE 2800",
+    "council_area": "Orange",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Oct 2024 03:44"
   }
 ]
