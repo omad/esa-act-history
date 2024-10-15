@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "16 Oct 2024 07:12:19"
+    "updated": "16 Oct 2024 07:47:53"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "16 Oct 2024 07:08:23"
+    "updated": "16 Oct 2024 07:39:57"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,13 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "16 Oct 2024 07:22:38",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "16 Oct 2024 07:27:09"
+    "updated": "16 Oct 2024 07:36:25"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +177,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "16 Oct 2024 07:35:00"
+    "updated": "16 Oct 2024 07:46:06"
   },
   {
     "title": "Caleys HR",
@@ -360,5 +360,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Oct 2024 21:59"
+  },
+  {
+    "title": "MULGOA RD, WALLACIA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570730",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.864776611",
+    "longitude": "150.641281127",
+    "region": "nsw",
+    "time_of_call": "16 Oct 2024 07:36:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "WALLACIA HOTEL 1590 MULGOA RD, WALLACIA 2745",
+    "council_area": "Penrith",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Oct 2024 07:36"
+  },
+  {
+    "title": "THOMPSONS RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570731",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.785614014",
+    "longitude": "151.281997681",
+    "region": "nsw",
+    "time_of_call": "16 Oct 2024 07:39:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "ELYSIA WELLNESS RETREAT 165 THOMPSONS RD, POKOLBIN 2320",
+    "council_area": "Cessnock",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Oct 2024 07:39"
   }
 ]
