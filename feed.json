@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "15 Oct 2024 18:27:52"
+    "updated": "15 Oct 2024 18:48:26"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "15 Oct 2024 18:21:42"
+    "updated": "15 Oct 2024 18:41:25"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "15 Oct 2024 18:22:01"
+    "updated": "15 Oct 2024 18:35:14"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +217,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "15 Oct 2024 17:40:05"
+    "updated": "15 Oct 2024 18:44:17"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +253,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "15 Oct 2024 18:16:24"
+    "updated": "15 Oct 2024 18:38:59"
   },
   {
     "agency": "Ambulance",
@@ -271,7 +271,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "15 Oct 2024 18:14:52"
+    "updated": "15 Oct 2024 18:48:25"
   },
   {
     "agency": "Ambulance",
@@ -319,13 +319,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "15 Oct 2024 18:24:45",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "15 Oct 2024 18:27:15"
+    "updated": "15 Oct 2024 18:47:41"
   },
   {
     "agency": "Ambulance",
@@ -361,7 +361,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "15 Oct 2024 18:34:29"
+    "updated": "15 Oct 2024 18:42:35"
   },
   {
     "agency": "Ambulance",
@@ -373,13 +373,67 @@
     "longitude": "149.170863",
     "region": "act",
     "time_of_call": "15 Oct 2024 18:31:47",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUME",
+    "updated": "15 Oct 2024 18:40:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WEETANGERA",
+    "id": "062361-15102024",
+    "latitude": "-35.249342",
+    "longitude": "149.049485",
+    "region": "act",
+    "time_of_call": "15 Oct 2024 18:34:58",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WEETANGERA",
+    "updated": "15 Oct 2024 18:48:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "062362-15102024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "15 Oct 2024 18:38:06",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "HUME",
-    "updated": "15 Oct 2024 18:34:41"
+    "location": "KAMBAH",
+    "updated": "15 Oct 2024 18:41:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLYNN",
+    "id": "062363-15102024",
+    "latitude": "-35.207317",
+    "longitude": "149.042983",
+    "region": "act",
+    "time_of_call": "15 Oct 2024 18:38:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLYNN",
+    "updated": "15 Oct 2024 18:41:37"
   },
   {
     "title": "Caleys HR",
@@ -586,31 +640,6 @@
     "updated": "15 Oct 2024 18:07"
   },
   {
-    "title": "QUEENS PINCH RD, MEROO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570700",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.754257202",
-    "longitude": "149.625335693",
-    "region": "nsw",
-    "time_of_call": "15 Oct 2024 17:39:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "MEROO DOWNS 1904 QUEENS PINCH RD, MEROO 2850",
-    "council_area": "Mid-Western",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "15 Oct 2024 17:39"
-  },
-  {
     "title": "EUROLEY RD, EUROLEY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570701",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -629,5 +658,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Oct 2024 17:51"
+  },
+  {
+    "title": "SIXTH RD, BERKSHIRE PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570703",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.676002503",
+    "longitude": "150.779876709",
+    "region": "nsw",
+    "time_of_call": "15 Oct 2024 18:30:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "SIXTH RD, BERKSHIRE PARK 2765",
+    "council_area": "Penrith",
+    "type": "Planned Event",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Oct 2024 18:30"
+  },
+  {
+    "title": "GREEN HILLS RD, BERRIGAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570704",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.6835937499999",
+    "longitude": "145.822937012",
+    "region": "nsw",
+    "time_of_call": "15 Oct 2024 18:42:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "GREEN HILLS RD, BERRIGAN 2712",
+    "council_area": "Berrigan",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Oct 2024 18:42"
   }
 ]
