@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "18 Oct 2024 07:07:36"
+    "updated": "18 Oct 2024 07:37:41"
   },
   {
     "agency": "Ambulance",
@@ -88,6 +88,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
     "updated": "18 Oct 2024 07:21:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "062880-18102024",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "18 Oct 2024 07:37:09",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STIRLING",
+    "updated": "18 Oct 2024 07:42:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LAWSON",
+    "id": "062881-18102024",
+    "latitude": "-35.225525",
+    "longitude": "149.088854",
+    "region": "act",
+    "time_of_call": "18 Oct 2024 07:37:41",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LAWSON",
+    "updated": "18 Oct 2024 07:48:36"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "062883-18102024",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "18 Oct 2024 07:43:19",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "18 Oct 2024 07:48:39"
   },
   {
     "title": "ORANGE GROVE RD, ORANGE GROVE",
@@ -245,5 +299,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "18 Oct 2024 07:30"
+  },
+  {
+    "title": "KALINDA RD, INVERGOWRIE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571860",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.531560898",
+    "longitude": "151.515060425",
+    "region": "nsw",
+    "time_of_call": "18 Oct 2024 07:44:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "175 KALINDA RD, INVERGOWRIE 2350",
+    "council_area": "Uralla",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Oct 2024 07:44"
   }
 ]
