@@ -63,13 +63,13 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "17 Oct 2024 20:40:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "17 Oct 2024 21:31:58"
+    "updated": "17 Oct 2024 21:42:50"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "17 Oct 2024 21:21:26",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "17 Oct 2024 21:37:13"
+    "updated": "17 Oct 2024 21:41:56"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +189,31 @@
     "longitude": "149.034875",
     "region": "act",
     "time_of_call": "17 Oct 2024 21:37:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "17 Oct 2024 21:39:39"
+    "updated": "17 Oct 2024 21:44:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "062821-17102024",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "17 Oct 2024 21:44:38",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONNER",
+    "updated": "17 Oct 2024 21:45:55"
   },
   {
     "title": "ORANGE GROVE RD, ORANGE GROVE",
@@ -372,30 +390,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Oct 2024 20:49"
-  },
-  {
-    "title": "Luzon Av, Lethbridge Park",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571839",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.7389249999999",
-    "longitude": "150.79462",
-    "region": "nsw",
-    "time_of_call": "17 Oct 2024 21:36:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "37 Luzon Av, Lethbridge Park, NSW 2770",
-    "council_area": "Blacktown",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "17 Oct 2024 21:36"
   }
 ]
