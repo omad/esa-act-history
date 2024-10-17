@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "17 Oct 2024 14:23:25"
+    "updated": "17 Oct 2024 14:29:56"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "17 Oct 2024 14:13:31"
+    "updated": "17 Oct 2024 14:29:51"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "17 Oct 2024 14:03:35"
+    "updated": "17 Oct 2024 14:41:39"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +209,13 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "17 Oct 2024 13:57:26",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "17 Oct 2024 14:05:53"
+    "updated": "17 Oct 2024 14:36:07"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +233,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAJURA",
-    "updated": "17 Oct 2024 14:17:42"
+    "updated": "17 Oct 2024 14:41:41"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +251,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "17 Oct 2024 14:15:00"
+    "updated": "17 Oct 2024 14:47:51"
   },
   {
     "agency": "Ambulance",
@@ -269,7 +269,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "17 Oct 2024 14:21:57"
+    "updated": "17 Oct 2024 14:48:23"
   },
   {
     "agency": "Ambulance",
@@ -281,13 +281,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "17 Oct 2024 14:12:00",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "17 Oct 2024 14:18:33"
+    "updated": "17 Oct 2024 14:48:10"
   },
   {
     "agency": "Ambulance",
@@ -416,28 +416,6 @@
     "updated": "17 Oct 2024 13:08"
   },
   {
-    "title": "REG HAILSTONE WAY, WYANGALA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571812",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.955749512",
-    "longitude": "148.956283569",
-    "region": "nsw",
-    "time_of_call": "17 Oct 2024 12:33:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "2891 REG HAILSTONE WAY, WYANGALA 2808",
-    "council_area": "Cowra",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Oct 2024 12:33"
-  },
-  {
     "title": "TARAGO RD, LAKE GEORGE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571814",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -467,9 +445,9 @@
     "latitude": "-36.0347938529999",
     "longitude": "146.373428344",
     "region": "nsw",
-    "time_of_call": "17 Oct 2024 14:01:00",
+    "time_of_call": "17 Oct 2024 14:37:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -482,6 +460,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Oct 2024 14:01"
+    "updated": "17 Oct 2024 14:37"
+  },
+  {
+    "title": "Power Outage Western NSW",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571819",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.985534668",
+    "longitude": "141.425445557",
+    "region": "nsw",
+    "time_of_call": "17 Oct 2024 14:32:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "9-11 PINNACLES PL, BROKEN HILL 2880",
+    "council_area": "Broken Hill",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Oct 2024 14:32"
   }
 ]
