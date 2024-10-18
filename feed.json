@@ -9,13 +9,31 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "19 Oct 2024 07:04:33",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "19 Oct 2024 07:40:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "063086-19102024",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "19 Oct 2024 07:45:34",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "19 Oct 2024 07:30:19"
+    "location": "GUNGAHLIN",
+    "updated": "19 Oct 2024 07:48:52"
   },
   {
     "title": "ORANGE GROVE RD, ORANGE GROVE",
@@ -69,9 +87,9 @@
     "latitude": "-31.985534668",
     "longitude": "141.425445557",
     "region": "nsw",
-    "time_of_call": "17 Oct 2024 15:52:00",
+    "time_of_call": "19 Oct 2024 07:37:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "9-11 PINNACLES PL, BROKEN HILL 2880",
     "council_area": "Broken Hill",
@@ -81,7 +99,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Oct 2024 15:52"
+    "updated": "19 Oct 2024 07:37"
   },
   {
     "title": "CHANTER ST, MOAMA",
@@ -221,9 +239,9 @@
     "latitude": "-31.556200028",
     "longitude": "144.414993287",
     "region": "nsw",
-    "time_of_call": "19 Oct 2024 07:06:00",
+    "time_of_call": "19 Oct 2024 07:41:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BARRIER HWY, TILPA 2840",
     "council_area": "Cobar",
@@ -233,7 +251,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2024 07:06"
+    "updated": "19 Oct 2024 07:41"
   },
   {
     "title": "MANGROVE RD, SOMERSBY",
@@ -276,5 +294,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Oct 2024 06:58"
+  },
+  {
+    "title": "PORTSEA PDE, CAMERON PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571953",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8998908999999",
+    "longitude": "151.606811524",
+    "region": "nsw",
+    "time_of_call": "19 Oct 2024 07:43:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "3 PORTSEA PDE, CAMERON PARK 2285",
+    "council_area": "Lake Macquarie",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "19 Oct 2024 07:43"
+  },
+  {
+    "title": "TANTITHA RD, TOMINGLEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571954",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.4817237849999",
+    "longitude": "148.302413941",
+    "region": "nsw",
+    "time_of_call": "19 Oct 2024 07:38:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "TANTITHA RD, TOMINGLEY 2869",
+    "council_area": "Narromine",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Oct 2024 07:38"
   }
 ]
