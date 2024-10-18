@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
-    "id": "063086-19102024",
-    "latitude": "-35.184984",
-    "longitude": "149.135062",
-    "region": "act",
-    "time_of_call": "19 Oct 2024 07:45:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GUNGAHLIN",
-    "updated": "19 Oct 2024 08:51:23"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BELCONNEN",
     "id": "063087-19102024",
     "latitude": "-35.235936",
@@ -45,13 +27,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "19 Oct 2024 08:16:54",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "19 Oct 2024 09:00:16"
+    "updated": "19 Oct 2024 09:25:39"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +69,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "19 Oct 2024 09:21:37"
+    "updated": "19 Oct 2024 09:30:17"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "19 Oct 2024 09:09:45"
+    "updated": "19 Oct 2024 09:25:19"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "19 Oct 2024 09:22:49"
+    "updated": "19 Oct 2024 09:27:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACQUARIE",
+    "id": "063100-19102024",
+    "latitude": "-35.249901",
+    "longitude": "149.061171",
+    "region": "act",
+    "time_of_call": "19 Oct 2024 09:35:45",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACQUARIE",
+    "updated": "19 Oct 2024 09:36:52"
   },
   {
     "title": "ORANGE GROVE RD, ORANGE GROVE",
@@ -298,26 +298,6 @@
     "updated": "19 Oct 2024 03:17"
   },
   {
-    "title": "TANTITHA RD, NARROMINE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571954",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.3941726689999",
-    "longitude": "148.306930542",
-    "region": "nsw",
-    "time_of_call": "19 Oct 2024 07:38:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "TANTITHA RD, NARROMINE 2869",
-    "council_area": "Narromine",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2024 07:38"
-  },
-  {
     "title": "LYNCH ST, ADELONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571956",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -384,25 +364,45 @@
     "updated": "19 Oct 2024 08:59"
   },
   {
-    "title": "PORTSEA PDE, CAMERON PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571959",
+    "title": "NEWELL HWY, GURLEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571960",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.8998908999999",
-    "longitude": "151.606811524",
+    "latitude": "-29.666456223",
+    "longitude": "149.809204102",
     "region": "nsw",
-    "time_of_call": "19 Oct 2024 09:06:00",
+    "time_of_call": "19 Oct 2024 09:23:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
-    "location": "3 PORTSEA PDE, CAMERON PARK 2285",
-    "council_area": "Lake Macquarie",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "location": "NEWELL HWY, GURLEY 2398",
+    "council_area": "Moree Plains",
+    "type": "Car Fire",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "19 Oct 2024 09:06"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Oct 2024 09:23"
+  },
+  {
+    "title": "CLYDESDALE RD, CARWOOLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571961",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.3626251219999",
+    "longitude": "149.305999755",
+    "region": "nsw",
+    "time_of_call": "19 Oct 2024 09:27:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "30 CLYDESDALE RD, CARWOOLA 2620",
+    "council_area": "Queanbeyan-Palerang",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Oct 2024 09:27"
   }
 ]
