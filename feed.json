@@ -9,15 +9,15 @@
     "longitude": "149.1038627599",
     "region": "act",
     "time_of_call": "20 Oct 2024 09:17:10",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "CARTER CRESCENT, CALWELL, 2905",
-    "updated": "20 Oct 2024 09:46:35"
+    "updated": "20 Oct 2024 10:12:10"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "20 Oct 2024 09:33:27"
+    "updated": "20 Oct 2024 10:01:26"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "20 Oct 2024 09:25:56",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "20 Oct 2024 09:47:23"
+    "updated": "20 Oct 2024 09:51:25"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "20 Oct 2024 09:46:14"
+    "updated": "20 Oct 2024 10:05:22"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "20 Oct 2024 09:43:39"
+    "updated": "20 Oct 2024 10:01:53"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +119,85 @@
     "longitude": "149.085118",
     "region": "act",
     "time_of_call": "20 Oct 2024 09:40:27",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PEARCE",
+    "updated": "20 Oct 2024 10:20:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "063349-20102024",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "20 Oct 2024 09:51:00",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "20 Oct 2024 09:56:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "063352-20102024",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "20 Oct 2024 10:01:54",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "20 Oct 2024 10:08:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "063353-20102024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "20 Oct 2024 10:09:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "20 Oct 2024 10:13:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYONS",
+    "id": "063354-20102024",
+    "latitude": "-35.340941",
+    "longitude": "149.072217",
+    "region": "act",
+    "time_of_call": "20 Oct 2024 10:13:23",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "PEARCE",
-    "updated": "20 Oct 2024 09:43:07"
+    "location": "LYONS",
+    "updated": "20 Oct 2024 10:19:45"
   },
   {
     "title": "ORANGE GROVE RD, ORANGE GROVE",
@@ -154,10 +226,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_570763",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.6107997899999",
-    "longitude": "151.46723938",
+    "latitude": "-30.6049385069999",
+    "longitude": "151.466674805",
     "region": "nsw",
-    "time_of_call": "20 Oct 2024 09:44:00",
+    "time_of_call": "20 Oct 2024 09:46:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -169,7 +241,7 @@
     "fire": "Yes",
     "size": "4 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Oct 2024 09:44"
+    "updated": "20 Oct 2024 09:46"
   },
   {
     "title": "Barnet HR",
@@ -201,7 +273,7 @@
     "latitude": "-31.985534668",
     "longitude": "141.425445557",
     "region": "nsw",
-    "time_of_call": "19 Oct 2024 07:37:00",
+    "time_of_call": "20 Oct 2024 10:06:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -213,7 +285,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2024 07:37"
+    "updated": "20 Oct 2024 10:06"
   },
   {
     "title": "Kariwoga Ridge",
@@ -223,9 +295,9 @@
     "latitude": "-33.62607193",
     "longitude": "150.598739625",
     "region": "nsw",
-    "time_of_call": "19 Oct 2024 18:41:00",
+    "time_of_call": "20 Oct 2024 10:05:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -238,7 +310,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "19 Oct 2024 18:41"
+    "updated": "20 Oct 2024 10:05"
   },
   {
     "title": "CLARENCE WAY, ALICE",
@@ -298,7 +370,7 @@
     "latitude": "-33.412769318",
     "longitude": "150.918533325",
     "region": "nsw",
-    "time_of_call": "20 Oct 2024 04:42:00",
+    "time_of_call": "20 Oct 2024 09:58:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -310,7 +382,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Oct 2024 04:42"
+    "updated": "20 Oct 2024 09:58"
   },
   {
     "title": "THE BOGAN WAY, TRUNDLE",
@@ -355,28 +427,6 @@
     "updated": "20 Oct 2024 08:39"
   },
   {
-    "title": "JENKYN LANE, ROCKY RIVER",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572045",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.6107997899999",
-    "longitude": "151.46723938",
-    "region": "nsw",
-    "time_of_call": "20 Oct 2024 09:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "94 JENKYN LANE, ROCKY RIVER 2358",
-    "council_area": "Uralla",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Oct 2024 09:07"
-  },
-  {
     "title": "MITCHELL HWY, NEUREA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572046",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -384,9 +434,9 @@
     "latitude": "-32.6651420599999",
     "longitude": "148.941253662",
     "region": "nsw",
-    "time_of_call": "20 Oct 2024 09:18:00",
+    "time_of_call": "20 Oct 2024 10:04:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -399,7 +449,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Oct 2024 09:18"
+    "updated": "20 Oct 2024 10:04"
   },
   {
     "title": "GORMAN LANE, VERGES CREEK",
@@ -464,5 +514,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Oct 2024 09:42"
+  },
+  {
+    "title": "BARTLETT ST, BONNY HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572050",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.595891953",
+    "longitude": "152.842285156",
+    "region": "nsw",
+    "time_of_call": "20 Oct 2024 10:13:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "BARTLETT ST, BONNY HILLS 2445",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Oct 2024 10:13"
   }
 ]
