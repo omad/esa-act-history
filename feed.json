@@ -151,24 +151,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FRASER",
-    "id": "063579-21102024",
-    "latitude": "-35.189989",
-    "longitude": "149.043755",
-    "region": "act",
-    "time_of_call": "21 Oct 2024 08:33:59",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FRASER",
-    "updated": "21 Oct 2024 08:40:54"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KALEEN",
     "id": "063583-21102024",
     "latitude": "-35.227626",
@@ -199,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "21 Oct 2024 10:16:20"
+    "updated": "21 Oct 2024 10:27:37"
   },
   {
     "agency": "Ambulance",
@@ -271,7 +253,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "21 Oct 2024 09:50:26"
+    "updated": "21 Oct 2024 10:27:52"
   },
   {
     "agency": "Ambulance",
@@ -307,7 +289,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "21 Oct 2024 09:59:28"
+    "updated": "21 Oct 2024 10:27:50"
   },
   {
     "agency": "Ambulance",
@@ -325,7 +307,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "21 Oct 2024 10:13:45"
+    "updated": "21 Oct 2024 10:28:40"
   },
   {
     "agency": "Ambulance",
@@ -337,13 +319,13 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "21 Oct 2024 10:13:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "21 Oct 2024 10:18:01"
+    "updated": "21 Oct 2024 10:26:18"
   },
   {
     "agency": "Ambulance",
@@ -362,6 +344,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
     "updated": "21 Oct 2024 10:17:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "063601-21102024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "21 Oct 2024 10:27:00",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "21 Oct 2024 10:29:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "063602-21102024",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "21 Oct 2024 10:29:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "21 Oct 2024 10:32:46"
   },
   {
     "title": "ORANGE GROVE RD, ORANGE GROVE",
@@ -733,5 +751,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Oct 2024 10:14"
+  },
+  {
+    "title": "JAMES COWAN RD, FIREFLY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572125",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.0673408499999",
+    "longitude": "152.242248535",
+    "region": "nsw",
+    "time_of_call": "21 Oct 2024 10:23:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "154 JAMES COWAN RD, FIREFLY 2429",
+    "council_area": "Mid-Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Oct 2024 10:23"
   }
 ]
