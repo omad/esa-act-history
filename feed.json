@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "22 Oct 2024 07:09:48"
+    "updated": "22 Oct 2024 07:31:13"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "22 Oct 2024 07:04:31"
+    "updated": "22 Oct 2024 07:35:19"
   },
   {
     "agency": "Ambulance",
@@ -90,6 +90,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "22 Oct 2024 07:04:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUGHES",
+    "id": "063833-22102024",
+    "latitude": "-35.333105",
+    "longitude": "149.094654",
+    "region": "act",
+    "time_of_call": "22 Oct 2024 07:25:45",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUGHES",
+    "updated": "22 Oct 2024 07:31:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
+    "id": "063836-22102024",
+    "latitude": "-35.425091",
+    "longitude": "149.088064",
+    "region": "act",
+    "time_of_call": "22 Oct 2024 07:35:09",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "22 Oct 2024 07:35:50"
   },
   {
     "title": "ORANGE GROVE RD, ORANGE GROVE",
@@ -331,9 +367,9 @@
     "latitude": "-31.273445129",
     "longitude": "149.069610595",
     "region": "nsw",
-    "time_of_call": "22 Oct 2024 07:04:00",
+    "time_of_call": "22 Oct 2024 07:26:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "JOHN RENSHAW PWY, COONABARABRAN 2357",
     "council_area": "Warrumbungle",
@@ -343,7 +379,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Oct 2024 07:04"
+    "updated": "22 Oct 2024 07:26"
   },
   {
     "title": "(WESTERN MTWY), PROSPECT",
@@ -366,5 +402,52 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "22 Oct 2024 07:05"
+  },
+  {
+    "title": "HUNTER EXP, LOXFORD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572198",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.797714234",
+    "longitude": "151.474563599",
+    "region": "nsw",
+    "time_of_call": "22 Oct 2024 07:26:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "HUNTER EXP, LOXFORD 2326",
+    "council_area": "Cessnock",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "22 Oct 2024 07:26"
+  },
+  {
+    "title": "HAWKESBURY RD, WINMALEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572199",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.67509079",
+    "longitude": "150.606002808",
+    "region": "nsw",
+    "time_of_call": "22 Oct 2024 07:28:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "HAWKESBURY RD, WINMALEE 2777",
+    "council_area": "Blue Mountains",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "22 Oct 2024 07:28"
   }
 ]
