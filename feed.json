@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "21 Oct 2024 18:21:19"
+    "updated": "21 Oct 2024 18:45:43"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "21 Oct 2024 17:53:42"
+    "updated": "21 Oct 2024 18:35:40"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +235,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "21 Oct 2024 18:27:44"
+    "updated": "21 Oct 2024 18:48:24"
   },
   {
     "agency": "Ambulance",
@@ -271,7 +271,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "21 Oct 2024 18:33:03"
+    "updated": "21 Oct 2024 18:43:37"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +289,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "21 Oct 2024 18:34:22"
+    "updated": "21 Oct 2024 18:34:56"
   },
   {
     "agency": "Ambulance",
@@ -325,7 +325,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "21 Oct 2024 18:30:45"
+    "updated": "21 Oct 2024 18:42:34"
   },
   {
     "agency": "Ambulance",
@@ -337,13 +337,13 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "21 Oct 2024 18:25:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "21 Oct 2024 18:33:14"
+    "updated": "21 Oct 2024 18:39:33"
   },
   {
     "agency": "Ambulance",
@@ -355,13 +355,13 @@
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "21 Oct 2024 18:34:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "21 Oct 2024 18:34:45"
+    "updated": "21 Oct 2024 18:42:32"
   },
   {
     "agency": "Ambulance",
@@ -379,7 +379,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "21 Oct 2024 18:34:25"
+    "updated": "21 Oct 2024 18:39:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "063736-21102024",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "21 Oct 2024 18:44:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "21 Oct 2024 18:48:51"
   },
   {
     "title": "ORANGE GROVE RD, ORANGE GROVE",
@@ -609,53 +627,6 @@
     "updated": "21 Oct 2024 13:33"
   },
   {
-    "title": "Hardes Av, Maryland",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572153",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.878481",
-    "longitude": "151.662944",
-    "region": "nsw",
-    "time_of_call": "21 Oct 2024 18:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "9 Hardes Av, Maryland, NSW 2287",
-    "council_area": "Newcastle",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "21 Oct 2024 18:07"
-  },
-  {
-    "title": "MONARO HWY, BIBBENLUKE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572154",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.802753448",
-    "longitude": "149.284591675",
-    "region": "nsw",
-    "time_of_call": "21 Oct 2024 17:57:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "1292 MONARO HWY, BIBBENLUKE 2632",
-    "council_area": "Snowy Monaro",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "21 Oct 2024 17:57"
-  },
-  {
     "title": "STAIRCASE RD, MANDAGERY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572159",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -699,26 +670,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Oct 2024 18:15"
-  },
-  {
-    "title": "DOYALSON LINK RD, DOYALSON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572162",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.205562592",
-    "longitude": "151.508651733",
-    "region": "nsw",
-    "time_of_call": "21 Oct 2024 17:49:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "DOYALSON LINK RD, DOYALSON 2262",
-    "council_area": "Central Coast",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "21 Oct 2024 17:49"
   },
   {
     "title": "OLD WARREN RD, WARREN",
@@ -765,25 +716,25 @@
     "updated": "21 Oct 2024 18:10"
   },
   {
-    "title": "(PACIFIC MTWY), COWAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572172",
+    "title": "(PACIFIC MTWY), OURIMBAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572173",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.606792449",
-    "longitude": "151.163101197",
+    "latitude": "-33.344844818",
+    "longitude": "151.369110107",
     "region": "nsw",
-    "time_of_call": "21 Oct 2024 18:25:00",
+    "time_of_call": "21 Oct 2024 18:32:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
-    "location": "M1 (PACIFIC MTWY), COWAN 2081",
-    "council_area": "Hornsby",
+    "location": "M1 (PACIFIC MTWY), OURIMBAH 2258",
+    "council_area": "Central Coast",
     "type": "MVA/Transport",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Oct 2024 18:25"
+    "updated": "21 Oct 2024 18:32"
   }
 ]
