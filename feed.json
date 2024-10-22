@@ -1,6 +1,6 @@
 [
   {
-    "agency": "Fire",
+    "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
     "title": "STRUCTURE FIRE - BRUCE",
@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "GUGINYA, TELITA STREET, COOINDA STREET, BRUCE, 2617",
-    "updated": "23 Oct 2024 10:22:32"
+    "updated": "23 Oct 2024 10:32:30"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "23 Oct 2024 10:20:43"
+    "updated": "23 Oct 2024 10:32:44"
   },
   {
     "agency": "Ambulance",
@@ -77,37 +77,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "064060-23102024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "23 Oct 2024 09:08:26",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "23 Oct 2024 10:01:08"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - RIVETT",
     "id": "064061-23102024",
     "latitude": "-35.346479",
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "23 Oct 2024 09:19:55",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "23 Oct 2024 10:08:35"
+    "updated": "23 Oct 2024 10:23:37"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORREST",
-    "updated": "23 Oct 2024 10:16:20"
+    "updated": "23 Oct 2024 10:33:29"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +137,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "23 Oct 2024 09:46:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "23 Oct 2024 10:14:22"
+    "updated": "23 Oct 2024 10:30:46"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +197,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "23 Oct 2024 10:22:39"
+    "updated": "23 Oct 2024 10:23:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "064074-23102024",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "23 Oct 2024 10:25:29",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GRIFFITH",
+    "updated": "23 Oct 2024 10:32:47"
   },
   {
     "title": "Power Outage Western NSW",
@@ -334,28 +334,6 @@
     "updated": "23 Oct 2024 07:26"
   },
   {
-    "title": "GEORGE BASS DR, SURF BEACH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572140",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.7733612059999",
-    "longitude": "150.207092285",
-    "region": "nsw",
-    "time_of_call": "23 Oct 2024 07:37:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "RUBBISH DEPOT 311 GEORGE BASS DR, SURF BEACH 2536",
-    "council_area": "Eurobodalla",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Oct 2024 07:37"
-  },
-  {
     "title": "PELLOWS RD, BURCHER",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572155",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -404,6 +382,28 @@
     "size": "26 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Oct 2024 07:44"
+  },
+  {
+    "title": "Government Road West HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572183",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.731983081",
+    "longitude": "151.267979622",
+    "region": "nsw",
+    "time_of_call": "23 Oct 2024 10:20:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "Government Road Reserve, Government Road Cromer NSW 2099",
+    "council_area": "Northern Beaches",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "1 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "23 Oct 2024 10:20"
   },
   {
     "title": "Black Gold Motel Pile Burns",
