@@ -83,13 +83,13 @@
     "longitude": "149.099386",
     "region": "act",
     "time_of_call": "22 Oct 2024 20:41:32",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "22 Oct 2024 22:07:30"
+    "updated": "22 Oct 2024 22:28:16"
   },
   {
     "agency": "Ambulance",
@@ -317,13 +317,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "22 Oct 2024 22:14:18",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "22 Oct 2024 22:18:07"
+    "updated": "22 Oct 2024 22:23:58"
   },
   {
     "agency": "Ambulance",
@@ -335,13 +335,31 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "22 Oct 2024 22:16:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "22 Oct 2024 22:17:52"
+    "updated": "22 Oct 2024 22:21:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - REID",
+    "id": "064014-22102024",
+    "latitude": "-35.281706",
+    "longitude": "149.140719",
+    "region": "act",
+    "time_of_call": "22 Oct 2024 22:25:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "REID",
+    "updated": "22 Oct 2024 22:28:19"
   },
   {
     "title": "Power Outage Western NSW",
@@ -675,9 +693,9 @@
     "latitude": "-29.027477265",
     "longitude": "152.053543091",
     "region": "nsw",
-    "time_of_call": "22 Oct 2024 20:53:00",
+    "time_of_call": "22 Oct 2024 22:23:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -690,7 +708,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Oct 2024 20:53"
+    "updated": "22 Oct 2024 22:23"
   },
   {
     "title": "MITCHELLS RD, HILLSTON",
@@ -850,9 +868,9 @@
     "latitude": "-29.4736839999999",
     "longitude": "149.835966",
     "region": "nsw",
-    "time_of_call": "22 Oct 2024 22:13:00",
+    "time_of_call": "22 Oct 2024 22:23:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -865,6 +883,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Oct 2024 22:13"
+    "updated": "22 Oct 2024 22:23"
   }
 ]
