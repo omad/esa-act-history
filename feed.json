@@ -71,7 +71,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "23 Oct 2024 03:25:23"
+    "updated": "23 Oct 2024 03:39:45"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "23 Oct 2024 03:27:09"
+    "updated": "23 Oct 2024 03:45:07"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "23 Oct 2024 03:27:03"
+    "updated": "23 Oct 2024 03:43:50"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "23 Oct 2024 03:09:00"
+    "updated": "23 Oct 2024 03:51:36"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CASEY",
+    "id": "064032-23102024",
+    "latitude": "-35.167812",
+    "longitude": "149.097085",
+    "region": "act",
+    "time_of_call": "23 Oct 2024 03:33:35",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CASEY",
+    "updated": "23 Oct 2024 03:51:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "064033-23102024",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "23 Oct 2024 03:40:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "23 Oct 2024 03:42:40"
   },
   {
     "title": "Power Outage Western NSW",
@@ -497,27 +533,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Oct 2024 02:09"
-  },
-  {
-    "title": "PUTTY RD, BULGA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572295",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.64004898",
-    "longitude": "151.049972535",
-    "region": "nsw",
-    "time_of_call": "23 Oct 2024 02:51:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "PUTTY RD, BULGA 2330",
-    "council_area": "Singleton",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Oct 2024 02:51"
   }
 ]
