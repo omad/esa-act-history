@@ -29,15 +29,15 @@
     "longitude": "149.1078948975",
     "region": "act",
     "time_of_call": "23 Oct 2024 06:07:03",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "PETROL SERVICE STATION, HOPETOUN CIRCUIT, DEAKIN, 2600",
-    "updated": "23 Oct 2024 06:18:25"
+    "updated": "23 Oct 2024 06:28:34"
   },
   {
     "agency": "Ambulance",
@@ -67,13 +67,31 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "23 Oct 2024 06:17:49",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THEODORE",
+    "updated": "23 Oct 2024 06:27:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "064038-23102024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "23 Oct 2024 06:26:15",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "THEODORE",
-    "updated": "23 Oct 2024 06:19:40"
+    "location": "BELCONNEN",
+    "updated": "23 Oct 2024 06:27:11"
   },
   {
     "title": "Power Outage Western NSW",
@@ -443,27 +461,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Oct 2024 05:38"
-  },
-  {
-    "title": "HANSON AVE, GALSTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572302",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.649188996",
-    "longitude": "151.03881836",
-    "region": "nsw",
-    "time_of_call": "23 Oct 2024 06:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "32 HANSON AVE, GALSTON 2159",
-    "council_area": "Hornsby",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Oct 2024 06:07"
   }
 ]
