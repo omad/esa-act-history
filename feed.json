@@ -143,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "22 Oct 2024 21:37:22"
+    "updated": "22 Oct 2024 21:47:41"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,13 @@
     "longitude": "149.099386",
     "region": "act",
     "time_of_call": "22 Oct 2024 20:41:32",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "22 Oct 2024 21:34:38"
+    "updated": "22 Oct 2024 21:47:31"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "22 Oct 2024 21:29:15"
+    "updated": "22 Oct 2024 21:43:18"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "22 Oct 2024 21:27:45"
+    "updated": "22 Oct 2024 21:42:46"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +251,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "22 Oct 2024 21:17:49"
+    "updated": "22 Oct 2024 21:45:43"
   },
   {
     "agency": "Ambulance",
@@ -269,7 +269,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "22 Oct 2024 21:29:13"
+    "updated": "22 Oct 2024 21:45:43"
   },
   {
     "agency": "Ambulance",
@@ -306,6 +306,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "SYMONSTON",
     "updated": "22 Oct 2024 21:36:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISAACS",
+    "id": "064006-22102024",
+    "latitude": "-35.36866",
+    "longitude": "149.117192",
+    "region": "act",
+    "time_of_call": "22 Oct 2024 21:46:29",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISAACS",
+    "updated": "22 Oct 2024 21:47:12"
   },
   {
     "title": "Power Outage Western NSW",
@@ -730,9 +748,9 @@
     "latitude": "-32.651462555",
     "longitude": "151.876678467",
     "region": "nsw",
-    "time_of_call": "22 Oct 2024 20:52:00",
+    "time_of_call": "22 Oct 2024 21:41:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "NORTHBND PACIFIC HWY, TWELVE MILE CREEK 2324",
     "council_area": "Port Stephens",
@@ -740,27 +758,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Oct 2024 20:52"
-  },
-  {
-    "title": "BLAIR ST, OLD EROWAL BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572282",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.091148376",
-    "longitude": "150.646926879",
-    "region": "nsw",
-    "time_of_call": "22 Oct 2024 21:33:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "17 BLAIR ST, OLD EROWAL BAY 2540",
-    "council_area": "Shoalhaven",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Oct 2024 21:33"
+    "updated": "22 Oct 2024 21:41"
   },
   {
     "title": "CLERGATE RD, ORANGE",
@@ -770,7 +768,7 @@
     "latitude": "-33.234584809",
     "longitude": "149.105667115",
     "region": "nsw",
-    "time_of_call": "22 Oct 2024 21:28:00",
+    "time_of_call": "22 Oct 2024 21:41:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
@@ -782,7 +780,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Oct 2024 21:28"
+    "updated": "22 Oct 2024 21:41"
   },
   {
     "title": "TRENAYR RD, KYARRAN",
@@ -825,5 +823,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "22 Oct 2024 21:34"
+  },
+  {
+    "title": "ROSE ST, WOMBAT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572287",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.4257163999999",
+    "longitude": "148.24482727",
+    "region": "nsw",
+    "time_of_call": "22 Oct 2024 21:42:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "56-66 ROSE ST, WOMBAT 2587",
+    "council_area": "Hilltops",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Oct 2024 21:42"
   }
 ]
