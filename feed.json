@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "24 Oct 2024 02:21:38"
+    "updated": "24 Oct 2024 02:27:26"
   },
   {
     "agency": "Ambulance",
@@ -93,24 +93,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WESTON",
-    "id": "064281-24102024",
-    "latitude": "-35.335896",
-    "longitude": "149.058387",
-    "region": "act",
-    "time_of_call": "24 Oct 2024 01:13:33",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WESTON",
-    "updated": "24 Oct 2024 01:53:21"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WANNIASSA",
     "id": "064283-24102024",
     "latitude": "-35.399113",
@@ -135,13 +117,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "24 Oct 2024 02:13:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "24 Oct 2024 02:19:49"
+    "updated": "24 Oct 2024 02:26:37"
   },
   {
     "agency": "Ambulance",
@@ -160,6 +142,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "JACKA",
     "updated": "24 Oct 2024 02:22:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - EVATT",
+    "id": "064286-24102024",
+    "latitude": "-35.212001",
+    "longitude": "149.066294",
+    "region": "act",
+    "time_of_call": "24 Oct 2024 02:28:41",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "EVATT",
+    "updated": "24 Oct 2024 02:36:46"
   },
   {
     "title": "Chase Avenue HR",
@@ -775,27 +775,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Oct 2024 01:02"
-  },
-  {
-    "title": "CORRINYAH RD, BRISBANE GROVE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572374",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.78962326",
-    "longitude": "149.71951294",
-    "region": "nsw",
-    "time_of_call": "24 Oct 2024 02:01:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "PEN FARM 32 CORRINYAH RD, BRISBANE GROVE 2580",
-    "council_area": "Goulburn Mulwaree",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Oct 2024 02:01"
   }
 ]
