@@ -171,13 +171,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "25 Oct 2024 00:31:11",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "25 Oct 2024 00:34:31"
+    "updated": "25 Oct 2024 02:41:24"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +213,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "25 Oct 2024 02:34:23"
+    "updated": "25 Oct 2024 02:46:24"
   },
   {
     "agency": "Ambulance",
@@ -267,7 +267,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "25 Oct 2024 01:42:59"
+    "updated": "25 Oct 2024 02:42:01"
   },
   {
     "title": "Chase Avenue HR",
@@ -933,5 +933,74 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "25 Oct 2024 02:23"
+  },
+  {
+    "title": "NORTHERN BOUNDARY RD, CANOBOLAS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572468",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.3612747189999",
+    "longitude": "148.984680175",
+    "region": "nsw",
+    "time_of_call": "25 Oct 2024 02:33:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "NORTHERN BOUNDARY RD, CANOBOLAS 2800",
+    "council_area": "Cabonne",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Oct 2024 02:33"
+  },
+  {
+    "title": "GULGAN RD, BRUNSWICK HEADS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572469",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.5692062379999",
+    "longitude": "153.53465271",
+    "region": "nsw",
+    "time_of_call": "25 Oct 2024 02:33:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "233 GULGAN RD, BRUNSWICK HEADS 2483",
+    "council_area": "Byron",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Oct 2024 02:33"
+  },
+  {
+    "title": "SUMMERLAND WAY, KYOGLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572470",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.653102874",
+    "longitude": "152.996780395",
+    "region": "nsw",
+    "time_of_call": "25 Oct 2024 02:34:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "13056 SUMMERLAND WAY, KYOGLE 2474",
+    "council_area": "Kyogle",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "25 Oct 2024 02:34"
   }
 ]
