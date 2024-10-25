@@ -45,13 +45,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "26 Oct 2024 06:09:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "26 Oct 2024 07:25:45"
+    "updated": "26 Oct 2024 07:44:38"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "26 Oct 2024 07:26:35"
+    "updated": "26 Oct 2024 07:39:46"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "26 Oct 2024 07:25:37"
+    "updated": "26 Oct 2024 07:39:07"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,31 @@
     "longitude": "149.099934",
     "region": "act",
     "time_of_call": "26 Oct 2024 07:22:42",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "26 Oct 2024 07:26:51"
+    "updated": "26 Oct 2024 07:36:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "064782-26102024",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "26 Oct 2024 07:42:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "26 Oct 2024 07:47:39"
   },
   {
     "title": "Chase Avenue HR",
@@ -778,21 +796,21 @@
     "updated": "26 Oct 2024 07:27"
   },
   {
-    "title": "Morton St, Moree",
+    "title": "Oak St, Moree",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572564",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.469912",
-    "longitude": "149.848672",
+    "latitude": "-29.469866",
+    "longitude": "149.84967",
     "region": "nsw",
-    "time_of_call": "26 Oct 2024 07:31:00",
+    "time_of_call": "26 Oct 2024 07:43:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "Morton St, Moree, NSW 2400",
+    "location": "13 Oak St, Moree, NSW 2400",
     "council_area": "Moree Plains",
     "type": "Grass Fire",
     "type_description": "",
@@ -800,6 +818,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "26 Oct 2024 07:31"
+    "updated": "26 Oct 2024 07:43"
+  },
+  {
+    "title": "COTTONWOOD CR, MACQUARIE FIELDS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572565",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.990814209",
+    "longitude": "150.90409851",
+    "region": "nsw",
+    "time_of_call": "26 Oct 2024 07:40:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "COTTONWOOD CR, MACQUARIE FIELDS 2564",
+    "council_area": "Campbelltown",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "26 Oct 2024 07:40"
   }
 ]
