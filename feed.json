@@ -15,7 +15,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "26 Oct 2024 07:11:19"
+    "updated": "26 Oct 2024 07:28:04"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "26 Oct 2024 07:21:58"
+    "updated": "26 Oct 2024 07:25:45"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "26 Oct 2024 06:45:04"
+    "updated": "26 Oct 2024 07:26:35"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "26 Oct 2024 07:03:25"
+    "updated": "26 Oct 2024 07:25:37"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "26 Oct 2024 07:23:24"
+    "updated": "26 Oct 2024 07:35:31"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "26 Oct 2024 07:24:16"
+    "updated": "26 Oct 2024 07:26:51"
   },
   {
     "title": "Chase Avenue HR",
@@ -562,9 +562,9 @@
     "latitude": "-30.315536688",
     "longitude": "151.483432579",
     "region": "nsw",
-    "time_of_call": "25 Oct 2024 18:59:00",
+    "time_of_call": "26 Oct 2024 07:20:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -575,9 +575,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Oct 2024 18:59"
+    "updated": "26 Oct 2024 07:20"
   },
   {
     "title": "HAYSTACK RD, BELLATA",
@@ -714,5 +714,92 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Oct 2024 06:41"
+  },
+  {
+    "title": "ROSEHILL RD, COOTAMUNDRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572561",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.7076454159999",
+    "longitude": "148.20036316",
+    "region": "nsw",
+    "time_of_call": "26 Oct 2024 07:14:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "969 ROSEHILL RD, COOTAMUNDRA 2590",
+    "council_area": "Cootamundra-Gundagai",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Oct 2024 07:14"
+  },
+  {
+    "title": "TAREE AIRPORT CUNDLETOWN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572562",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.890230179",
+    "longitude": "152.509414673",
+    "region": "nsw",
+    "time_of_call": "26 Oct 2024 07:17:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "TAREE AIRPORT CUNDLETOWN 2430",
+    "council_area": "Mid-Coast",
+    "type": "Planned Event",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "26 Oct 2024 07:17"
+  },
+  {
+    "title": "SAUNDERS RD, OAKVILLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572563",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6108016969999",
+    "longitude": "150.861999512",
+    "region": "nsw",
+    "time_of_call": "26 Oct 2024 07:27:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "SAUNDERS RD, OAKVILLE 2765",
+    "council_area": "Hawkesbury",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Oct 2024 07:27"
+  },
+  {
+    "title": "Morton St, Moree",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572564",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.469912",
+    "longitude": "149.848672",
+    "region": "nsw",
+    "time_of_call": "26 Oct 2024 07:31:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Morton St, Moree, NSW 2400",
+    "council_area": "Moree Plains",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "26 Oct 2024 07:31"
   }
 ]
