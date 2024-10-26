@@ -33,25 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "26 Oct 2024 23:33:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HARRISON",
-    "id": "064956-26102024",
-    "latitude": "-35.200527",
-    "longitude": "149.154752",
-    "region": "act",
-    "time_of_call": "26 Oct 2024 22:30:45",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HARRISON",
-    "updated": "26 Oct 2024 23:37:55"
+    "updated": "26 Oct 2024 23:48:45"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +45,13 @@
     "longitude": "149.1195",
     "region": "act",
     "time_of_call": "26 Oct 2024 22:48:55",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "26 Oct 2024 23:41:22"
+    "updated": "26 Oct 2024 23:52:10"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +69,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "26 Oct 2024 22:55:57"
+    "updated": "26 Oct 2024 23:57:39"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "26 Oct 2024 23:39:50"
+    "updated": "26 Oct 2024 23:46:47"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +99,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "26 Oct 2024 23:18:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "26 Oct 2024 23:38:48"
+    "updated": "26 Oct 2024 23:51:41"
   },
   {
     "agency": "Ambulance",
@@ -142,6 +124,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
     "updated": "26 Oct 2024 23:30:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHARNWOOD",
+    "id": "064965-26102024",
+    "latitude": "-35.200338",
+    "longitude": "149.036735",
+    "region": "act",
+    "time_of_call": "26 Oct 2024 23:51:51",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHARNWOOD",
+    "updated": "26 Oct 2024 23:54:54"
   },
   {
     "title": "Chase Avenue HR",
@@ -661,5 +661,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Oct 2024 21:27"
+  },
+  {
+    "title": "PACIFIC HWY, COOPERNOOK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572654",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.8575382229999",
+    "longitude": "152.601013183",
+    "region": "nsw",
+    "time_of_call": "26 Oct 2024 23:37:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, COOPERNOOK 2426",
+    "council_area": "Mid-Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Oct 2024 23:37"
   }
 ]
