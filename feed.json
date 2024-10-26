@@ -9,15 +9,15 @@
     "longitude": "149.0641326904",
     "region": "act",
     "time_of_call": "27 Oct 2024 01:42:24",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STRUCTURE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "CENTRAL PARK APARTMENTS   BLOCKS D  E  F AND G, BEISSEL STREET, EVELYN PARKER PLACE, BELCONNEN, 2617",
-    "updated": "27 Oct 2024 02:20:16"
+    "updated": "27 Oct 2024 02:38:00"
   },
   {
     "agency": "Ambulance",
@@ -197,25 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
-    "updated": "27 Oct 2024 02:09:27"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "064991-27102024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "27 Oct 2024 01:52:46",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "27 Oct 2024 02:01:25"
+    "updated": "27 Oct 2024 02:44:35"
   },
   {
     "agency": "Ambulance",
@@ -245,13 +227,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "27 Oct 2024 02:02:51",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "27 Oct 2024 02:29:58"
+    "updated": "27 Oct 2024 02:41:03"
   },
   {
     "agency": "Ambulance",
@@ -270,6 +252,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
     "updated": "27 Oct 2024 02:24:04"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "064999-27102024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "27 Oct 2024 02:39:28",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "27 Oct 2024 02:48:56"
   },
   {
     "title": "Chase Avenue HR",
@@ -789,26 +789,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Oct 2024 01:35"
-  },
-  {
-    "title": "PACIFIC HWY, HERONS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572657",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.571012497",
-    "longitude": "152.735534668",
-    "region": "nsw",
-    "time_of_call": "27 Oct 2024 02:05:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, HERONS CREEK 2443",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2024 02:05"
   },
   {
     "title": "ILLAWARRA HWY, TULLIMBAR",
