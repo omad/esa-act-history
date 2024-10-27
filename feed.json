@@ -33,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "28 Oct 2024 00:05:59"
+    "updated": "28 Oct 2024 00:47:31"
   },
   {
     "agency": "Ambulance",
@@ -69,25 +69,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "28 Oct 2024 00:21:05"
+    "updated": "28 Oct 2024 00:32:13"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACQUARIE",
-    "id": "065137-27102024",
-    "latitude": "-35.249901",
-    "longitude": "149.061171",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "065139-28102024",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
     "region": "act",
-    "time_of_call": "27 Oct 2024 23:33:18",
+    "time_of_call": "28 Oct 2024 00:36:00",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GRIFFITH",
+    "updated": "28 Oct 2024 00:46:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BANKS",
+    "id": "065140-28102024",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
+    "region": "act",
+    "time_of_call": "28 Oct 2024 00:44:54",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "MACQUARIE",
-    "updated": "28 Oct 2024 00:13:40"
+    "location": "BANKS",
+    "updated": "28 Oct 2024 00:46:29"
   },
   {
     "title": "Chase Avenue HR",
@@ -207,7 +225,7 @@
     "latitude": "-36.364505768",
     "longitude": "148.58946228",
     "region": "nsw",
-    "time_of_call": "26 Oct 2024 20:58:00",
+    "time_of_call": "28 Oct 2024 00:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -219,7 +237,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2024 20:58"
+    "updated": "28 Oct 2024 00:27"
   },
   {
     "title": "Weethalle Tip",
@@ -229,7 +247,7 @@
     "latitude": "-33.8863830569999",
     "longitude": "146.62059021",
     "region": "nsw",
-    "time_of_call": "26 Oct 2024 22:31:00",
+    "time_of_call": "28 Oct 2024 00:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -241,7 +259,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2024 22:31"
+    "updated": "28 Oct 2024 00:30"
   },
   {
     "title": "BUCKIE RD, CROPPA CREEK",
@@ -298,7 +316,7 @@
     "latitude": "-29.1077022549999",
     "longitude": "148.413314819",
     "region": "nsw",
-    "time_of_call": "26 Oct 2024 21:41:00",
+    "time_of_call": "28 Oct 2024 00:28:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -313,7 +331,7 @@
     "fire": "Yes",
     "size": "129 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2024 21:41"
+    "updated": "28 Oct 2024 00:28"
   },
   {
     "title": "Scout Camp HR - Shape 1",
@@ -367,7 +385,7 @@
     "latitude": "-34.8909492499999",
     "longitude": "147.576843262",
     "region": "nsw",
-    "time_of_call": "26 Oct 2024 18:52:00",
+    "time_of_call": "28 Oct 2024 00:25:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -378,8 +396,8 @@
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "26 Oct 2024 18:52"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Oct 2024 00:25"
   },
   {
     "title": "BOOROLONG RD, BOOROLONG",
@@ -454,31 +472,6 @@
     "updated": "27 Oct 2024 16:53"
   },
   {
-    "title": "REMEMBRANCE DVWY, YANDERRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572684",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.323371887",
-    "longitude": "150.572296143",
-    "region": "nsw",
-    "time_of_call": "27 Oct 2024 12:18:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "33 REMEMBRANCE DVWY, YANDERRA 2574",
-    "council_area": "Wollondilly",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2024 12:18"
-  },
-  {
     "title": "BACK BAROOGA RD, BOOMANOOMANA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572696",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -511,7 +504,7 @@
     "latitude": "-31.57019043",
     "longitude": "152.733642578",
     "region": "nsw",
-    "time_of_call": "27 Oct 2024 14:15:00",
+    "time_of_call": "28 Oct 2024 00:34:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -526,7 +519,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2024 14:15"
+    "updated": "28 Oct 2024 00:34"
   },
   {
     "title": "BLOOMFIELD ST, GUNNEDAH",
@@ -608,7 +601,7 @@
     "latitude": "-35.388679505",
     "longitude": "149.186828614",
     "region": "nsw",
-    "time_of_call": "27 Oct 2024 18:25:00",
+    "time_of_call": "28 Oct 2024 00:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -623,29 +616,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2024 18:25"
-  },
-  {
-    "title": "KING ST, TAHMOOR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572734",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.2223625189999",
-    "longitude": "150.583358764",
-    "region": "nsw",
-    "time_of_call": "27 Oct 2024 23:57:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "40 KING ST, TAHMOOR 2573",
-    "council_area": "Wollondilly",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2024 23:57"
+    "updated": "28 Oct 2024 00:38"
   },
   {
     "title": "OTWAY ST, ORIENT POINT",
@@ -668,30 +639,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Oct 2024 00:00"
-  },
-  {
-    "title": "Eastern Rd, Bateau Bay",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572748",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.3791029999999",
-    "longitude": "151.473556",
-    "region": "nsw",
-    "time_of_call": "28 Oct 2024 00:14:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Eastern Rd, Bateau Bay, NSW 2261",
-    "council_area": "Central Coast",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "28 Oct 2024 00:14"
   }
 ]
