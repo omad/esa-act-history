@@ -40,22 +40,24 @@
     "updated": "28 Oct 2024 19:14:03"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FRASER",
-    "id": "065274-28102024",
-    "latitude": "-35.189989",
-    "longitude": "149.043755",
+    "title": "STORM OR TREE DAMAGE - AINSLIE",
+    "id": "015190-28102024",
+    "latitude": "-35.27093099",
+    "longitude": "149.147818",
     "region": "act",
-    "time_of_call": "28 Oct 2024 15:38:22",
+    "time_of_call": "28 Oct 2024 19:47:34",
     "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FRASER",
-    "updated": "28 Oct 2024 19:24:42"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "EBDEN STREET, CHISHOLM STREET, AINSLIE, 2602",
+    "updated": "28 Oct 2024 19:49:54"
   },
   {
     "agency": "Ambulance",
@@ -85,13 +87,13 @@
     "longitude": "149.164179",
     "region": "act",
     "time_of_call": "28 Oct 2024 18:09:44",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KENNY",
-    "updated": "28 Oct 2024 19:16:45"
+    "updated": "28 Oct 2024 19:30:07"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "28 Oct 2024 19:23:52"
+    "updated": "28 Oct 2024 19:39:23"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "28 Oct 2024 19:13:55"
+    "updated": "28 Oct 2024 19:46:12"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +147,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "28 Oct 2024 19:08:43"
+    "updated": "28 Oct 2024 19:40:14"
   },
   {
     "agency": "Ambulance",
@@ -163,25 +165,79 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORREST",
-    "updated": "28 Oct 2024 19:21:39"
+    "updated": "28 Oct 2024 19:50:35"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
-    "id": "065308-28102024",
-    "latitude": "-35.184984",
-    "longitude": "149.135062",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "065310-28102024",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
     "region": "act",
-    "time_of_call": "28 Oct 2024 19:29:14",
+    "time_of_call": "28 Oct 2024 19:38:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "28 Oct 2024 19:50:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "065313-28102024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "28 Oct 2024 19:41:56",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "GUNGAHLIN",
-    "updated": "28 Oct 2024 19:29:57"
+    "location": "KAMBAH",
+    "updated": "28 Oct 2024 19:48:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "065314-28102024",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "28 Oct 2024 19:44:58",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "28 Oct 2024 19:49:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "065315-28102024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "28 Oct 2024 19:47:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "28 Oct 2024 19:50:40"
   },
   {
     "title": "Power Outage Western NSW",
@@ -561,7 +617,7 @@
     "latitude": "-35.6286735529999",
     "longitude": "146.90348816",
     "region": "nsw",
-    "time_of_call": "28 Oct 2024 18:08:00",
+    "time_of_call": "28 Oct 2024 19:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -576,7 +632,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Oct 2024 18:08"
+    "updated": "28 Oct 2024 19:30"
   },
   {
     "title": "MYSTERY BAY RD, MYSTERY BAY",
@@ -655,9 +711,9 @@
     "latitude": "-34.005508423",
     "longitude": "145.628585815",
     "region": "nsw",
-    "time_of_call": "28 Oct 2024 18:41:00",
+    "time_of_call": "28 Oct 2024 19:37:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MID WESTERN HWY, GOOLGOWI 2652",
     "council_area": "Carrathool",
@@ -667,7 +723,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Oct 2024 18:41"
+    "updated": "28 Oct 2024 19:37"
   },
   {
     "title": "LOUTTITS LANE, KORALEIGH",
@@ -677,9 +733,9 @@
     "latitude": "-35.150192261",
     "longitude": "143.420227051",
     "region": "nsw",
-    "time_of_call": "28 Oct 2024 18:49:00",
+    "time_of_call": "28 Oct 2024 19:28:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -692,7 +748,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Oct 2024 18:49"
+    "updated": "28 Oct 2024 19:28"
   },
   {
     "title": "CASTLEREAGH HWY, WALGETT",
@@ -702,9 +758,9 @@
     "latitude": "-29.612411499",
     "longitude": "148.075866699",
     "region": "nsw",
-    "time_of_call": "28 Oct 2024 19:03:00",
+    "time_of_call": "28 Oct 2024 19:34:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -717,7 +773,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Oct 2024 19:03"
+    "updated": "28 Oct 2024 19:34"
   },
   {
     "title": "BENGAL ST, COOLONGOLOOK",
@@ -727,9 +783,9 @@
     "latitude": "-32.2167816159999",
     "longitude": "152.322296143",
     "region": "nsw",
-    "time_of_call": "28 Oct 2024 19:10:00",
+    "time_of_call": "28 Oct 2024 19:36:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BENGAL ST, COOLONGOLOOK 2423",
     "council_area": "Mid-Coast",
@@ -739,6 +795,53 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Oct 2024 19:10"
+    "updated": "28 Oct 2024 19:36"
+  },
+  {
+    "title": "GUNDONG RD, OBLEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572835",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.704631806",
+    "longitude": "148.543548584",
+    "region": "nsw",
+    "time_of_call": "28 Oct 2024 19:40:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "OBLEY 3574 GUNDONG RD, OBLEY 2868",
+    "council_area": "Cabonne",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Oct 2024 19:40"
+  },
+  {
+    "title": "Tudor St, Bourke",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572836",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.08768",
+    "longitude": "145.952096",
+    "region": "nsw",
+    "time_of_call": "28 Oct 2024 19:48:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "85 Tudor St, Bourke, NSW 2840",
+    "council_area": "Bourke",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "28 Oct 2024 19:48"
   }
 ]
