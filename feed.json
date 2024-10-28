@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "29 Oct 2024 08:14:09"
+    "updated": "29 Oct 2024 08:31:46"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,13 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "29 Oct 2024 08:12:51",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "29 Oct 2024 08:17:07"
+    "updated": "29 Oct 2024 08:23:14"
   },
   {
     "title": "Power Outage Western NSW",
@@ -141,7 +141,7 @@
     "latitude": "-33.754512787",
     "longitude": "151.099258423",
     "region": "nsw",
-    "time_of_call": "28 Oct 2024 12:51:00",
+    "time_of_call": "29 Oct 2024 08:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -153,7 +153,7 @@
     "fire": "Yes",
     "size": "17 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "28 Oct 2024 12:51"
+    "updated": "29 Oct 2024 08:22"
   },
   {
     "title": "Black Gold Motel Pile Burns",
@@ -560,31 +560,6 @@
     "updated": "29 Oct 2024 06:00"
   },
   {
-    "title": "Leonard St, Hay",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572860",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.5074099999999",
-    "longitude": "144.851489",
-    "region": "nsw",
-    "time_of_call": "29 Oct 2024 07:11:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Leonard St, Hay, NSW 2711",
-    "council_area": "Hay",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "29 Oct 2024 07:11"
-  },
-  {
     "title": "WHEELBARROW RIDGE RD, COLO HEIGHTS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572861",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -603,5 +578,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 Oct 2024 07:54"
+  },
+  {
+    "title": "FCNSW Wedding Bells HRB #2",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572864",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.0589171149999",
+    "longitude": "153.158211708",
+    "region": "nsw",
+    "time_of_call": "29 Oct 2024 08:13:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "Quarry Trail 7km NNW of Woolgoolga",
+    "council_area": "Coffs Harbour",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "175 ha",
+    "responsible_agency": "Forestry Corporation of NSW",
+    "updated": "29 Oct 2024 08:13"
   }
 ]
