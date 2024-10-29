@@ -1,21 +1,23 @@
 [
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FARRER",
-    "id": "065565-30102024",
-    "latitude": "-35.377331",
-    "longitude": "149.104586",
+    "title": "MOTOR VEHICLE ACCIDENT - CANBERRA AIRPORT",
+    "id": "015261-30102024",
+    "latitude": "-35.3001946199",
+    "longitude": "149.19892052",
     "region": "act",
-    "time_of_call": "30 Oct 2024 04:00:52",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FARRER",
-    "updated": "30 Oct 2024 04:48:15"
+    "time_of_call": "30 Oct 2024 05:27:27",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "ESA HEADQUARTERS, AMBERLEY AVENUE, CANBERRA AIRPORT, 2609",
+    "updated": "30 Oct 2024 05:29:14"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "30 Oct 2024 04:44:32"
+    "updated": "30 Oct 2024 05:06:58"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +53,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "30 Oct 2024 04:30:18"
+    "updated": "30 Oct 2024 05:14:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FRANKLIN",
+    "id": "065570-30102024",
+    "latitude": "-35.199225",
+    "longitude": "149.144681",
+    "region": "act",
+    "time_of_call": "30 Oct 2024 05:29:04",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FRANKLIN",
+    "updated": "30 Oct 2024 05:31:36"
   },
   {
     "title": "Power Outage Western NSW",
@@ -381,7 +401,7 @@
     "latitude": "-34.5081735109999",
     "longitude": "144.850880873",
     "region": "nsw",
-    "time_of_call": "29 Oct 2024 12:53:00",
+    "time_of_call": "30 Oct 2024 05:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -396,7 +416,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "29 Oct 2024 12:53"
+    "updated": "30 Oct 2024 05:27"
   },
   {
     "title": "Fishermans Bend",
@@ -563,27 +583,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Oct 2024 03:23"
-  },
-  {
-    "title": "OLD NORTH RD, WHITTINGHAM",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572966",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.651016236",
-    "longitude": "151.234024048",
-    "region": "nsw",
-    "time_of_call": "30 Oct 2024 04:35:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "OLD NORTH RD, WHITTINGHAM 2330",
-    "council_area": "Singleton",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Oct 2024 04:35"
   }
 ]
