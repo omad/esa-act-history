@@ -215,7 +215,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "30 Oct 2024 10:15:25"
+    "updated": "30 Oct 2024 10:31:42"
   },
   {
     "agency": "Ambulance",
@@ -287,7 +287,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "30 Oct 2024 10:21:45"
+    "updated": "30 Oct 2024 10:24:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RIVETT",
+    "id": "065607-30102024",
+    "latitude": "-35.346479",
+    "longitude": "149.039315",
+    "region": "act",
+    "time_of_call": "30 Oct 2024 10:25:57",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RIVETT",
+    "updated": "30 Oct 2024 10:28:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "065608-30102024",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "30 Oct 2024 10:31:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GRIFFITH",
+    "updated": "30 Oct 2024 10:31:07"
   },
   {
     "title": "Power Outage Western NSW",
@@ -363,7 +399,7 @@
     "latitude": "-33.8863830569999",
     "longitude": "146.62059021",
     "region": "nsw",
-    "time_of_call": "29 Oct 2024 16:18:00",
+    "time_of_call": "30 Oct 2024 10:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -375,7 +411,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Oct 2024 16:18"
+    "updated": "30 Oct 2024 10:22"
   },
   {
     "title": "BURLEY GRIFFIN WAY, CUNNINGAR",
@@ -754,6 +790,28 @@
     "updated": "29 Oct 2024 19:38"
   },
   {
+    "title": "Central East 1 HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572923",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.910921361",
+    "longitude": "150.632429123",
+    "region": "nsw",
+    "time_of_call": "30 Oct 2024 10:06:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "Worrigee Road, Worrigee Nature Reserve",
+    "council_area": "Shoalhaven",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "9 ha",
+    "responsible_agency": "NSW National Parks and Wildlife Service",
+    "updated": "30 Oct 2024 10:06"
+  },
+  {
     "title": "BELLS LINE OF ROAD, KURRAJONG HILLS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572960",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -886,28 +944,6 @@
     "updated": "30 Oct 2024 09:53"
   },
   {
-    "title": "GEORGE BOOTH DR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572981",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.859405518",
-    "longitude": "151.535507202",
-    "region": "nsw",
-    "time_of_call": "30 Oct 2024 10:18:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ORICA MINING SVC TECH CENTRE 1151 GEORGE BOOTH DR, RICHMOND VALE 2323",
-    "council_area": "Cessnock",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Oct 2024 10:18"
-  },
-  {
     "title": "REMEMBRANCE DVWY, BARGO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572982",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -930,21 +966,21 @@
     "updated": "30 Oct 2024 10:18"
   },
   {
-    "title": "HOWICK ST, TUMUT",
+    "title": "Howick St, Tumut",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572983",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
     "latitude": "-35.3080940249999",
     "longitude": "148.221542358",
     "region": "nsw",
-    "time_of_call": "30 Oct 2024 10:13:00",
+    "time_of_call": "30 Oct 2024 10:22:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "TUMUT PRESCHOOL 50 HOWICK ST, TUMUT 2720",
+    "location": "50 Howick St, Tumut, NSW 2720",
     "council_area": "Snowy Valleys",
     "type": "Grass Fire",
     "type_description": "",
@@ -952,6 +988,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "30 Oct 2024 10:13"
+    "updated": "30 Oct 2024 10:22"
   }
 ]
