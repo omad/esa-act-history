@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "30 Oct 2024 08:18:38"
+    "updated": "30 Oct 2024 08:37:03"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +83,13 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "30 Oct 2024 08:04:19",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "30 Oct 2024 08:25:24"
+    "updated": "30 Oct 2024 08:35:20"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PARKES",
-    "updated": "30 Oct 2024 08:26:11"
+    "updated": "30 Oct 2024 08:47:16"
   },
   {
     "title": "Power Outage Western NSW",
@@ -480,7 +480,7 @@
     "latitude": "-35.795232111",
     "longitude": "145.035788225",
     "region": "nsw",
-    "time_of_call": "29 Oct 2024 19:58:00",
+    "time_of_call": "30 Oct 2024 07:58:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -493,9 +493,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "12 ha",
+    "size": "18 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "29 Oct 2024 19:58"
+    "updated": "30 Oct 2024 07:58"
   },
   {
     "title": "THE WOOL RD, VINCENTIA",
@@ -634,5 +634,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Oct 2024 08:11"
+  },
+  {
+    "title": "PARR RD, TUNCURRY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572974",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.163593292",
+    "longitude": "152.494018555",
+    "region": "nsw",
+    "time_of_call": "30 Oct 2024 08:39:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "PARR RD, TUNCURRY 2428",
+    "council_area": "Mid-Coast",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "30 Oct 2024 08:39"
   }
 ]
