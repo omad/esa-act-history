@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "30 Oct 2024 09:30:25"
+    "updated": "30 Oct 2024 09:45:21"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "30 Oct 2024 09:12:55"
+    "updated": "30 Oct 2024 09:47:30"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,13 @@
     "longitude": "149.101598",
     "region": "act",
     "time_of_call": "30 Oct 2024 09:20:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "30 Oct 2024 09:29:52"
+    "updated": "30 Oct 2024 09:40:46"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +191,13 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "30 Oct 2024 09:29:42",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "30 Oct 2024 09:30:18"
+    "updated": "30 Oct 2024 09:48:02"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +209,31 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "30 Oct 2024 09:33:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "30 Oct 2024 09:40:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "065599-30102024",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "30 Oct 2024 09:47:36",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "30 Oct 2024 09:36:13"
+    "location": "CONDER",
+    "updated": "30 Oct 2024 09:48:54"
   },
   {
     "title": "Power Outage Western NSW",
@@ -837,5 +855,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Oct 2024 09:29"
+  },
+  {
+    "title": "GEORGE BOOTH DR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572981",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.859405518",
+    "longitude": "151.535507202",
+    "region": "nsw",
+    "time_of_call": "30 Oct 2024 09:40:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "ORICA MINING SVC TECH CENTRE 1151 GEORGE BOOTH DR, RICHMOND VALE 2323",
+    "council_area": "Cessnock",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Oct 2024 09:40"
   }
 ]
