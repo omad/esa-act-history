@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "31 Oct 2024 10:11:20"
+    "updated": "31 Oct 2024 10:44:12"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "31 Oct 2024 10:24:44",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "31 Oct 2024 10:25:22"
+    "updated": "31 Oct 2024 10:39:19"
   },
   {
     "agency": "Ambulance",
@@ -142,6 +142,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
     "updated": "31 Oct 2024 10:29:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WHITLAM",
+    "id": "065802-31102024",
+    "latitude": "-35.277508",
+    "longitude": "149.033417",
+    "region": "act",
+    "time_of_call": "31 Oct 2024 10:41:37",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WHITLAM",
+    "updated": "31 Oct 2024 10:47:08"
   },
   {
     "title": "Power Outage Western NSW",
@@ -490,7 +508,7 @@
     "latitude": "-30.922842907",
     "longitude": "150.080431489",
     "region": "nsw",
-    "time_of_call": "30 Oct 2024 16:49:00",
+    "time_of_call": "31 Oct 2024 10:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -505,7 +523,7 @@
     "fire": "Yes",
     "size": "14 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Oct 2024 16:49"
+    "updated": "31 Oct 2024 10:41"
   },
   {
     "title": "BONANZA RD, WALGETT",
@@ -746,7 +764,7 @@
     "latitude": "-33.768390656",
     "longitude": "151.139007569",
     "region": "nsw",
-    "time_of_call": "31 Oct 2024 08:30:00",
+    "time_of_call": "31 Oct 2024 10:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -758,7 +776,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "31 Oct 2024 08:30"
+    "updated": "31 Oct 2024 10:32"
   },
   {
     "title": "BILLABONG CREEK FOUR CORNERS RD, RAND",
@@ -869,28 +887,47 @@
     "updated": "31 Oct 2024 10:28"
   },
   {
-    "title": "DUNDEE RD, BURREN JUNCTION",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573088",
+    "title": "PUTTY RD, COLO HEIGHTS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573090",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.014810562",
-    "longitude": "148.731414795",
+    "latitude": "-33.2387008659999",
+    "longitude": "150.647994995",
     "region": "nsw",
-    "time_of_call": "31 Oct 2024 10:13:00",
+    "time_of_call": "31 Oct 2024 10:27:00",
     "event_type": "burnt area",
     "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "258 DUNDEE RD, BURREN JUNCTION 2386",
-    "council_area": "Walgett",
-    "type": "Grass Fire",
+    "alert_level": "Not Applicable",
+    "location": "5108 PUTTY RD, COLO HEIGHTS 2756",
+    "council_area": "Hawkesbury",
+    "type": "MVA/Transport",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "31 Oct 2024 10:27"
+  },
+  {
+    "title": "GLEN EWAN RD, SANCROX",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573091",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.414531708",
+    "longitude": "152.821014405",
+    "region": "nsw",
+    "time_of_call": "31 Oct 2024 10:39:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "40 GLEN EWAN RD, SANCROX 2446",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Oct 2024 10:13"
+    "updated": "31 Oct 2024 10:39"
   }
 ]
