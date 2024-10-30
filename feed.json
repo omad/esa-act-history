@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "30 Oct 2024 21:23:59"
+    "updated": "30 Oct 2024 21:46:19"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,13 @@
     "longitude": "149.117192",
     "region": "act",
     "time_of_call": "30 Oct 2024 20:46:06",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "30 Oct 2024 21:18:26"
+    "updated": "30 Oct 2024 21:45:48"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "30 Oct 2024 21:14:47"
+    "updated": "30 Oct 2024 21:44:53"
   },
   {
     "agency": "Ambulance",
@@ -123,25 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "30 Oct 2024 21:04:18"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CASEY",
-    "id": "065713-30102024",
-    "latitude": "-35.167812",
-    "longitude": "149.097085",
-    "region": "act",
-    "time_of_call": "30 Oct 2024 20:55:57",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CASEY",
-    "updated": "30 Oct 2024 21:03:33"
+    "updated": "30 Oct 2024 21:45:42"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "30 Oct 2024 21:23:37"
+    "updated": "30 Oct 2024 21:46:00"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +171,31 @@
     "longitude": "149.111133",
     "region": "act",
     "time_of_call": "30 Oct 2024 21:21:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "30 Oct 2024 21:24:59"
+    "updated": "30 Oct 2024 21:28:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "065721-30102024",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "30 Oct 2024 21:47:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "30 Oct 2024 21:48:06"
   },
   {
     "title": "Power Outage Western NSW",
@@ -837,31 +837,6 @@
     "updated": "30 Oct 2024 20:26"
   },
   {
-    "title": "THE BOGAN WAY, NYNGAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573048",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.586074829",
-    "longitude": "147.183242798",
-    "region": "nsw",
-    "time_of_call": "30 Oct 2024 21:22:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "THE BOGAN WAY, NYNGAN 2825",
-    "council_area": "Bogan",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Oct 2024 21:22"
-  },
-  {
     "title": "HILL END RD, SOFALA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573050",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -924,5 +899,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Oct 2024 21:00"
+  },
+  {
+    "title": "ARGYLE REACH RD, WILBERFORCE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573053",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.577728271",
+    "longitude": "150.827056885",
+    "region": "nsw",
+    "time_of_call": "30 Oct 2024 21:37:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "ARGYLE REACH RD, WILBERFORCE 2756",
+    "council_area": "Hawkesbury",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Oct 2024 21:37"
   }
 ]
