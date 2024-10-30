@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "31 Oct 2024 09:26:28"
+    "updated": "31 Oct 2024 09:39:27"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "31 Oct 2024 09:32:23"
+    "updated": "31 Oct 2024 09:42:31"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.036274",
     "region": "act",
     "time_of_call": "31 Oct 2024 09:23:16",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "31 Oct 2024 09:31:23"
+    "updated": "31 Oct 2024 09:48:06"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,31 @@
     "longitude": "149.088064",
     "region": "act",
     "time_of_call": "31 Oct 2024 09:35:25",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "31 Oct 2024 09:45:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "065794-31102024",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "31 Oct 2024 09:48:56",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "ISABELLA PLAINS",
-    "updated": "31 Oct 2024 09:36:53"
+    "location": "O'CONNOR",
+    "updated": "31 Oct 2024 09:48:57"
   },
   {
     "title": "Power Outage Western NSW",
@@ -546,31 +564,6 @@
     "updated": "30 Oct 2024 09:20"
   },
   {
-    "title": "REYNOLDS RD, CASINO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572991",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.8251800539999",
-    "longitude": "153.034286499",
-    "region": "nsw",
-    "time_of_call": "30 Oct 2024 14:53:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "170 REYNOLDS RD, CASINO 2470",
-    "council_area": "Richmond Valley",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Oct 2024 14:53"
-  },
-  {
     "title": "Stockyard trail west",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_572997",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -881,9 +874,9 @@
     "latitude": "-35.594524384",
     "longitude": "146.575561524",
     "region": "nsw",
-    "time_of_call": "31 Oct 2024 08:44:00",
+    "time_of_call": "31 Oct 2024 09:30:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BILLABONG CREEK FOUR CORNERS RD, RAND 2642",
     "council_area": "Federation",
@@ -893,7 +886,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Oct 2024 08:44"
+    "updated": "31 Oct 2024 09:30"
   },
   {
     "title": "WOOYUNG RD, WOOYUNG",
@@ -916,5 +909,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "31 Oct 2024 09:02"
+  },
+  {
+    "title": "HUNTINGDALE RD, GLEN ALICE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573080",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.065280914",
+    "longitude": "150.162841797",
+    "region": "nsw",
+    "time_of_call": "31 Oct 2024 09:37:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "HUNTINGDALE RD, GLEN ALICE 2849",
+    "council_area": "Lithgow",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "31 Oct 2024 09:37"
+  },
+  {
+    "title": "TARATAN DOREEN LANE, MERAH NORTH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573082",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.146680832",
+    "longitude": "149.30960083",
+    "region": "nsw",
+    "time_of_call": "31 Oct 2024 09:42:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "TARATAN DOREEN LANE, MERAH NORTH 2388",
+    "council_area": "Narrabri",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "31 Oct 2024 09:42"
   }
 ]
