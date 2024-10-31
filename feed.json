@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "01 Nov 2024 10:10:07"
+    "updated": "01 Nov 2024 10:24:17"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "01 Nov 2024 10:10:32"
+    "updated": "01 Nov 2024 10:29:11"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "01 Nov 2024 10:14:26"
+    "updated": "01 Nov 2024 10:25:22"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "01 Nov 2024 10:00:35"
+    "updated": "01 Nov 2024 10:33:11"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +209,13 @@
     "longitude": "149.134893",
     "region": "act",
     "time_of_call": "01 Nov 2024 10:05:39",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "01 Nov 2024 10:13:37"
+    "updated": "01 Nov 2024 10:35:26"
   },
   {
     "agency": "Ambulance",
@@ -245,13 +245,13 @@
     "longitude": "149.099386",
     "region": "act",
     "time_of_call": "01 Nov 2024 10:14:36",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "01 Nov 2024 10:18:34"
+    "updated": "01 Nov 2024 10:26:25"
   },
   {
     "agency": "Ambulance",
@@ -287,7 +287,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "01 Nov 2024 10:22:43"
+    "updated": "01 Nov 2024 10:35:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "066026-01112024",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "01 Nov 2024 10:26:54",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "01 Nov 2024 10:32:41"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "066028-01112024",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "01 Nov 2024 10:32:42",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHAPMAN",
+    "updated": "01 Nov 2024 10:34:32"
   },
   {
     "title": "Power Outage Western NSW",
@@ -310,28 +346,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "31 Oct 2024 11:29"
-  },
-  {
-    "title": "Bantry Bay HR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_571892",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.778289795",
-    "longitude": "151.227233887",
-    "region": "nsw",
-    "time_of_call": "30 Oct 2024 13:21:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "GARIGAL NATIONAL PARK KILLARNEY DR, KILLARNEY HEIGHTS 2087",
-    "council_area": "Northern Beaches",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "48 ha",
-    "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "30 Oct 2024 13:21"
   },
   {
     "title": "WARGIN RD, WYALONG",
@@ -704,28 +718,6 @@
     "updated": "31 Oct 2024 20:22"
   },
   {
-    "title": "Lester Close",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573083",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.5173110969999",
-    "longitude": "151.172439575",
-    "region": "nsw",
-    "time_of_call": "01 Nov 2024 10:18:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "20 LESTER CL, WATTLE PONDS 2330",
-    "council_area": "Singleton",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Nov 2024 10:18"
-  },
-  {
     "title": "COMLEROI RD, WARKWORTH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573100",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1010,9 +1002,9 @@
     "latitude": "-31.265388",
     "longitude": "149.28113",
     "region": "nsw",
-    "time_of_call": "01 Nov 2024 10:19:00",
+    "time_of_call": "01 Nov 2024 10:29:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1025,6 +1017,53 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Nov 2024 10:19"
+    "updated": "1 Nov 2024 10:29"
+  },
+  {
+    "title": "YAMBO ST, MORISSET",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573189",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.1067161559999",
+    "longitude": "151.48866272",
+    "region": "nsw",
+    "time_of_call": "01 Nov 2024 10:24:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "25 YAMBO ST, MORISSET 2264",
+    "council_area": "Lake Macquarie",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "1 Nov 2024 10:24"
+  },
+  {
+    "title": "MULGOA RD, MULGOA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573190",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.8462295529999",
+    "longitude": "150.653686524",
+    "region": "nsw",
+    "time_of_call": "01 Nov 2024 10:32:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "1310 MULGOA RD, MULGOA 2745",
+    "council_area": "Penrith",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Nov 2024 10:32"
   }
 ]
