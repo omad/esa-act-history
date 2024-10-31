@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PARKES",
-    "updated": "01 Nov 2024 09:15:29"
+    "updated": "01 Nov 2024 09:28:40"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.057326",
     "region": "act",
     "time_of_call": "01 Nov 2024 09:17:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "01 Nov 2024 09:19:41"
+    "updated": "01 Nov 2024 09:29:48"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,67 @@
     "longitude": "149.099386",
     "region": "act",
     "time_of_call": "01 Nov 2024 09:21:36",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MAWSON",
+    "updated": "01 Nov 2024 09:34:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "066012-01112024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "01 Nov 2024 09:29:09",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "01 Nov 2024 09:32:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "066013-01112024",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "01 Nov 2024 09:30:48",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "MAWSON",
-    "updated": "01 Nov 2024 09:21:38"
+    "location": "BONNER",
+    "updated": "01 Nov 2024 09:34:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "066014-01112024",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "01 Nov 2024 09:31:21",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "01 Nov 2024 09:33:48"
   },
   {
     "title": "Power Outage Western NSW",
@@ -141,7 +195,7 @@
     "latitude": "-33.991268158",
     "longitude": "147.24168396",
     "region": "nsw",
-    "time_of_call": "31 Oct 2024 10:06:00",
+    "time_of_call": "01 Nov 2024 09:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -153,7 +207,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Oct 2024 10:06"
+    "updated": "1 Nov 2024 09:27"
   },
   {
     "title": "taronga western plains zoo HR",
@@ -467,7 +521,7 @@
     "latitude": "-30.0583477019999",
     "longitude": "152.259231567",
     "region": "nsw",
-    "time_of_call": "31 Oct 2024 16:29:00",
+    "time_of_call": "01 Nov 2024 09:08:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -482,7 +536,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "31 Oct 2024 16:29"
+    "updated": "1 Nov 2024 09:08"
   },
   {
     "title": "JAMES GIBSON RD, CLUNES",
@@ -832,28 +886,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Nov 2024 07:04"
-  },
-  {
-    "title": "PACIFIC HWY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573183",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.0114765169999",
-    "longitude": "153.433898926",
-    "region": "nsw",
-    "time_of_call": "01 Nov 2024 08:21:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "BROADWATER SUGAR MILL 117-153 PACIFIC HWY, BROADWATER 2472",
-    "council_area": "Richmond Valley",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Nov 2024 08:21"
   },
   {
     "title": "Retreat HR",
