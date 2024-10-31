@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "01 Nov 2024 07:17:06"
+    "updated": "01 Nov 2024 07:34:04"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,31 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "01 Nov 2024 07:09:57",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": ""
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "065996-01112024",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "01 Nov 2024 07:32:41",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "CONDER",
-    "updated": "01 Nov 2024 07:16:33"
+    "location": "HOLT",
+    "updated": "01 Nov 2024 07:33:46"
   },
   {
     "title": "Power Outage Western NSW",
@@ -834,5 +852,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Nov 2024 07:04"
+  },
+  {
+    "title": "PRINCES HWY, WOLUMLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573180",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.849521637",
+    "longitude": "149.822677612",
+    "region": "nsw",
+    "time_of_call": "01 Nov 2024 07:27:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "PRINCES HWY, WOLUMLA 2550",
+    "council_area": "Bega Valley",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Nov 2024 07:27"
   }
 ]
