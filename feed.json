@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "TONGS HOLE FIRE TRAIL, MOLONGLO FIRE TRAIL, BELCONNEN, 0000",
-    "updated": "02 Nov 2024 09:21:33"
+    "updated": "02 Nov 2024 09:35:01"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "02 Nov 2024 08:30:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "02 Nov 2024 09:18:58"
+    "updated": "02 Nov 2024 09:25:58"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "02 Nov 2024 09:06:28"
+    "updated": "02 Nov 2024 09:25:23"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +101,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "02 Nov 2024 08:57:36",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "02 Nov 2024 09:14:33"
+    "updated": "02 Nov 2024 09:22:20"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +119,49 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "02 Nov 2024 09:19:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "02 Nov 2024 09:34:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "066236-02112024",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "02 Nov 2024 09:28:36",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "BRUCE",
-    "updated": "02 Nov 2024 09:20:52"
+    "location": "WANNIASSA",
+    "updated": "02 Nov 2024 09:34:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "066237-02112024",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "02 Nov 2024 09:29:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "02 Nov 2024 09:35:21"
   },
   {
     "title": "Power Outage Western NSW",
@@ -918,7 +954,7 @@
     "latitude": "-30.3547992699999",
     "longitude": "152.717941284",
     "region": "nsw",
-    "time_of_call": "02 Nov 2024 09:03:00",
+    "time_of_call": "02 Nov 2024 09:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -930,7 +966,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Nov 2024 09:03"
+    "updated": "2 Nov 2024 09:19"
   },
   {
     "title": "CARROLLS RD, MENANGLE",
@@ -953,26 +989,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Nov 2024 08:38"
-  },
-  {
-    "title": "LOFTUS ST, GRANTHAM FARM",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573299",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.662418365",
-    "longitude": "150.866607666",
-    "region": "nsw",
-    "time_of_call": "02 Nov 2024 08:46:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "LOFTUS ST, GRANTHAM FARM 2765",
-    "council_area": "Blacktown",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Nov 2024 08:46"
   },
   {
     "title": "HERITAGE DR, MOONEE BEACH",
@@ -1051,9 +1067,9 @@
     "latitude": "-36.0282707219999",
     "longitude": "146.925231933",
     "region": "nsw",
-    "time_of_call": "02 Nov 2024 08:36:00",
+    "time_of_call": "02 Nov 2024 09:20:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "629 KRAUTZ ST, LAVINGTON 2641",
     "council_area": "Albury",
@@ -1061,7 +1077,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "2 Nov 2024 08:36"
+    "updated": "2 Nov 2024 09:20"
   },
   {
     "title": "DEVONSHIRE RD, KEMPS CREEK",
