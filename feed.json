@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "01 Nov 2024 16:17:08"
+    "updated": "01 Nov 2024 16:41:10"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "01 Nov 2024 16:26:52"
+    "updated": "01 Nov 2024 16:41:56"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "01 Nov 2024 16:31:35"
+    "updated": "01 Nov 2024 16:40:24"
   },
   {
     "agency": "Ambulance",
@@ -263,13 +263,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "01 Nov 2024 16:12:52",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "01 Nov 2024 16:35:17"
+    "updated": "01 Nov 2024 16:44:11"
   },
   {
     "agency": "Ambulance",
@@ -305,7 +305,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "01 Nov 2024 16:36:46"
+    "updated": "01 Nov 2024 16:41:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BARTON",
+    "id": "066120-01112024",
+    "latitude": "-35.309306",
+    "longitude": "149.13437",
+    "region": "act",
+    "time_of_call": "01 Nov 2024 16:36:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BARTON",
+    "updated": "01 Nov 2024 16:40:43"
   },
   {
     "title": "Power Outage Western NSW",
@@ -892,7 +910,7 @@
     "latitude": "-31.536071777",
     "longitude": "147.900390625",
     "region": "nsw",
-    "time_of_call": "01 Nov 2024 15:43:00",
+    "time_of_call": "01 Nov 2024 16:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -907,7 +925,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Nov 2024 15:43"
+    "updated": "1 Nov 2024 16:33"
   },
   {
     "title": "NEW ENGLAND HWY, WINDELLA",
@@ -930,28 +948,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Nov 2024 15:27"
-  },
-  {
-    "title": "FERRERS RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573223",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.80198288",
-    "longitude": "150.865905761",
-    "region": "nsw",
-    "time_of_call": "01 Nov 2024 15:34:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "LIGHT HORSE BUSINESS HUB 475 FERRERS RD, EASTERN CREEK 2766",
-    "council_area": "Blacktown",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Nov 2024 15:34"
   },
   {
     "title": "GOOLMA RD",
