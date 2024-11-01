@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "02 Nov 2024 05:08:47"
+    "updated": "02 Nov 2024 05:52:04"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
-    "updated": "02 Nov 2024 05:13:54"
+    "updated": "02 Nov 2024 06:09:36"
   },
   {
     "agency": "Ambulance",
@@ -108,24 +108,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
     "updated": "02 Nov 2024 05:02:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "066211-02112024",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
-    "region": "act",
-    "time_of_call": "02 Nov 2024 03:55:30",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KALEEN",
-    "updated": "02 Nov 2024 04:52:05"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +155,13 @@
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "02 Nov 2024 05:15:07",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "02 Nov 2024 05:48:39"
+    "updated": "02 Nov 2024 06:10:37"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +179,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "02 Nov 2024 05:22:13"
+    "updated": "02 Nov 2024 05:54:11"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +191,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "02 Nov 2024 05:40:40",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "02 Nov 2024 05:47:31"
+    "updated": "02 Nov 2024 06:18:49"
   },
   {
     "title": "Power Outage Western NSW",
@@ -935,5 +917,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Nov 2024 04:30"
+  },
+  {
+    "title": "NAMBA RD, DUFFYS FOREST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573290",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.675685882",
+    "longitude": "151.182937622",
+    "region": "nsw",
+    "time_of_call": "02 Nov 2024 06:08:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "8 NAMBA RD, DUFFYS FOREST 2084",
+    "council_area": "Northern Beaches",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Nov 2024 06:08"
+  },
+  {
+    "title": "MUNGABAREENA RD, EAST ALBURY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573291",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.0816688529999",
+    "longitude": "146.949172974",
+    "region": "nsw",
+    "time_of_call": "02 Nov 2024 06:11:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "MUNGABAREENA RD, EAST ALBURY 2640",
+    "council_area": "Albury",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Nov 2024 06:11"
   }
 ]
