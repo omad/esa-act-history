@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KINGSTON",
-    "id": "066173-01112024",
-    "latitude": "-35.315358",
-    "longitude": "149.146868",
-    "region": "act",
-    "time_of_call": "01 Nov 2024 22:47:41",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KINGSTON",
-    "updated": "01 Nov 2024 23:59:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - AINSLIE",
     "id": "066174-01112024",
     "latitude": "-35.262117",
@@ -71,25 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "02 Nov 2024 01:09:16"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "066182-01112024",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
-    "region": "act",
-    "time_of_call": "01 Nov 2024 23:41:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "02 Nov 2024 00:48:44"
+    "updated": "02 Nov 2024 01:26:57"
   },
   {
     "agency": "Ambulance",
@@ -126,24 +90,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
     "updated": "02 Nov 2024 01:17:25"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WESTON",
-    "id": "066190-02112024",
-    "latitude": "-35.335896",
-    "longitude": "149.058387",
-    "region": "act",
-    "time_of_call": "02 Nov 2024 00:18:02",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WESTON",
-    "updated": "02 Nov 2024 00:43:27"
   },
   {
     "agency": "Ambulance",
@@ -227,13 +173,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "02 Nov 2024 01:15:51",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "02 Nov 2024 01:20:26"
+    "updated": "02 Nov 2024 01:27:17"
   },
   {
     "title": "Power Outage Western NSW",
@@ -931,5 +877,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Nov 2024 01:02"
+  },
+  {
+    "title": "RIVER OAK VIEW, SUMMER HILL CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573280",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.1976509089999",
+    "longitude": "149.152282715",
+    "region": "nsw",
+    "time_of_call": "02 Nov 2024 01:28:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "RIVER OAK VIEW, SUMMER HILL CREEK 2800",
+    "council_area": "Cabonne",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Nov 2024 01:28"
   }
 ]
