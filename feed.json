@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "TONGS HOLE FIRE TRAIL, MOLONGLO FIRE TRAIL, BELCONNEN, 0000",
-    "updated": "02 Nov 2024 08:27:56"
+    "updated": "02 Nov 2024 08:43:16"
   },
   {
     "agency": "Ambulance",
@@ -36,24 +36,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
     "updated": "02 Nov 2024 08:08:14"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "066220-02112024",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
-    "region": "act",
-    "time_of_call": "02 Nov 2024 06:39:12",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "02 Nov 2024 07:44:29"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "02 Nov 2024 08:19:52"
+    "updated": "02 Nov 2024 08:46:13"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +83,31 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "02 Nov 2024 07:51:39",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "02 Nov 2024 08:48:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "066231-02112024",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "02 Nov 2024 08:30:43",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "02 Nov 2024 07:55:23"
+    "location": "WANNIASSA",
+    "updated": "02 Nov 2024 08:36:06"
   },
   {
     "title": "Power Outage Western NSW",
@@ -362,7 +362,7 @@
     "latitude": "-29.9516620639999",
     "longitude": "152.525634766",
     "region": "nsw",
-    "time_of_call": "01 Nov 2024 16:28:00",
+    "time_of_call": "02 Nov 2024 08:24:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -377,7 +377,7 @@
     "fire": "Yes",
     "size": "194 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "1 Nov 2024 16:28"
+    "updated": "2 Nov 2024 08:24"
   },
   {
     "title": "Park River Close HR",
@@ -434,7 +434,7 @@
     "latitude": "-30.0583477019999",
     "longitude": "152.259231567",
     "region": "nsw",
-    "time_of_call": "01 Nov 2024 16:57:00",
+    "time_of_call": "02 Nov 2024 08:39:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -449,7 +449,7 @@
     "fire": "Yes",
     "size": "52 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "1 Nov 2024 16:57"
+    "updated": "2 Nov 2024 08:39"
   },
   {
     "title": "BANDALONG AV, WEST PYMBLE",
@@ -903,9 +903,9 @@
     "latitude": "-30.3547992699999",
     "longitude": "152.717941284",
     "region": "nsw",
-    "time_of_call": "02 Nov 2024 08:04:00",
+    "time_of_call": "02 Nov 2024 08:39:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "3926 WATERFALL WAY, DORRIGO 2453",
     "council_area": "Bellingen",
@@ -915,7 +915,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Nov 2024 08:04"
+    "updated": "2 Nov 2024 08:39"
   },
   {
     "title": "CARROLLS RD, MENANGLE",
@@ -925,9 +925,9 @@
     "latitude": "-34.1407012939999",
     "longitude": "150.712539673",
     "region": "nsw",
-    "time_of_call": "02 Nov 2024 08:07:00",
+    "time_of_call": "02 Nov 2024 08:38:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BONDIAH 10 CARROLLS RD, MENANGLE 2568",
     "council_area": "Wollondilly",
@@ -937,19 +937,19 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Nov 2024 08:07"
+    "updated": "2 Nov 2024 08:38"
   },
   {
     "title": "LOFTUS ST, GRANTHAM FARM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573299",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.6638679509999",
-    "longitude": "150.862945557",
+    "latitude": "-33.662418365",
+    "longitude": "150.866607666",
     "region": "nsw",
-    "time_of_call": "02 Nov 2024 08:10:00",
+    "time_of_call": "02 Nov 2024 08:40:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "LOFTUS ST, GRANTHAM FARM 2765",
     "council_area": "Blacktown",
@@ -957,7 +957,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "2 Nov 2024 08:10"
+    "updated": "2 Nov 2024 08:40"
   },
   {
     "title": "HERITAGE DR, MOONEE BEACH",
@@ -980,5 +980,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Nov 2024 08:19"
+  },
+  {
+    "title": "CASTLEREAGH HWY, CUDGEGONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573301",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.832950592",
+    "longitude": "149.809341431",
+    "region": "nsw",
+    "time_of_call": "02 Nov 2024 08:23:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "8841 CASTLEREAGH HWY, CUDGEGONG 2850",
+    "council_area": "Mid-Western",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Nov 2024 08:23"
   }
 ]
