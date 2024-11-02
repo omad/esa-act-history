@@ -65,13 +65,13 @@
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "02 Nov 2024 22:05:37",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "02 Nov 2024 22:09:04"
+    "updated": "03 Nov 2024 01:03:08"
   },
   {
     "agency": "Ambulance",
@@ -113,24 +113,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - EVATT",
-    "id": "066377-02112024",
-    "latitude": "-35.212001",
-    "longitude": "149.066294",
-    "region": "act",
-    "time_of_call": "02 Nov 2024 23:00:27",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "EVATT",
-    "updated": "03 Nov 2024 00:09:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GIRALANG",
     "id": "066380-02112024",
     "latitude": "-35.210049",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "03 Nov 2024 00:23:19"
+    "updated": "03 Nov 2024 00:49:49"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +137,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "02 Nov 2024 23:19:06",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "02 Nov 2024 23:23:52"
+    "updated": "03 Nov 2024 01:17:29"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "03 Nov 2024 00:48:14"
+    "updated": "03 Nov 2024 00:54:21"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +179,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "03 Nov 2024 00:43:57"
+    "updated": "03 Nov 2024 01:00:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "066386-03112024",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "03 Nov 2024 00:58:24",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "03 Nov 2024 01:02:12"
   },
   {
     "title": "Power Outage Western NSW",
@@ -992,49 +992,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Nov 2024 22:15"
-  },
-  {
-    "title": "SHEEPWASH RD, BURRAWANG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573389",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.575149536",
-    "longitude": "150.478439332",
-    "region": "nsw",
-    "time_of_call": "03 Nov 2024 00:30:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "250 SHEEPWASH RD, BURRAWANG 2577",
-    "council_area": "Wingecarribee",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Nov 2024 00:30"
-  },
-  {
-    "title": "THE ABBEY NURSING HOME RANGE RD, MITTAGONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573390",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.4745292659999",
-    "longitude": "150.466918946",
-    "region": "nsw",
-    "time_of_call": "03 Nov 2024 00:32:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "THE ABBEY NURSING HOME RANGE RD, MITTAGONG 2575",
-    "council_area": "Wingecarribee",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Nov 2024 00:32"
   }
 ]
