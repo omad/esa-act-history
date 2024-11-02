@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "03 Nov 2024 09:07:36"
+    "updated": "03 Nov 2024 09:38:30"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +83,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "03 Nov 2024 08:51:38",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "03 Nov 2024 09:18:55"
+    "updated": "03 Nov 2024 09:35:42"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +119,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "03 Nov 2024 09:09:30",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "03 Nov 2024 09:22:10"
+    "updated": "03 Nov 2024 09:44:41"
   },
   {
     "agency": "Ambulance",
@@ -162,6 +162,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
     "updated": "03 Nov 2024 09:33:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THEODORE",
+    "id": "066436-03112024",
+    "latitude": "-35.449632",
+    "longitude": "149.120754",
+    "region": "act",
+    "time_of_call": "03 Nov 2024 09:35:43",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THEODORE",
+    "updated": "03 Nov 2024 09:46:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "066438-03112024",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "03 Nov 2024 09:41:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "03 Nov 2024 09:47:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TORRENS",
+    "id": "066439-03112024",
+    "latitude": "-35.372705",
+    "longitude": "149.085827",
+    "region": "act",
+    "time_of_call": "03 Nov 2024 09:47:35",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TORRENS",
+    "updated": "03 Nov 2024 09:48:11"
   },
   {
     "title": "Power Outage Western NSW",
@@ -976,5 +1030,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Nov 2024 09:10"
+  },
+  {
+    "title": "Manilla Rd, Oxley Vale",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573411",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.0561739999999",
+    "longitude": "150.894362",
+    "region": "nsw",
+    "time_of_call": "03 Nov 2024 09:42:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "214 Manilla Rd, Oxley Vale, NSW 2340",
+    "council_area": "Tamworth",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "3 Nov 2024 09:42"
   }
 ]
