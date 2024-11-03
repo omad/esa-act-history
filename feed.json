@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "04 Nov 2024 07:12:33"
+    "updated": "04 Nov 2024 07:32:46"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "04 Nov 2024 07:14:35"
+    "updated": "04 Nov 2024 07:40:15"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "04 Nov 2024 07:20:26"
+    "updated": "04 Nov 2024 07:38:11"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,13 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "04 Nov 2024 07:19:31",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "04 Nov 2024 07:23:39"
+    "updated": "04 Nov 2024 07:32:10"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,49 @@
     "longitude": "149.116238",
     "region": "act",
     "time_of_call": "04 Nov 2024 07:30:40",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
+    "location": "ROUNDABOUT, MILLER STREET, SCRIVENER STREET, OCONNOR, 2602",
+    "updated": "04 Nov 2024 07:43:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "066634-04112024",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "04 Nov 2024 07:37:46",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
-    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
-    "location": "ROUNDABOUT, MILLER STREET, SCRIVENER STREET, OCONNOR, 2602",
-    "updated": "04 Nov 2024 07:31:45"
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "04 Nov 2024 07:41:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUNLOP",
+    "id": "066636-04112024",
+    "latitude": "-35.193951",
+    "longitude": "149.019471",
+    "region": "act",
+    "time_of_call": "04 Nov 2024 07:44:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUNLOP",
+    "updated": "04 Nov 2024 07:45:22"
   },
   {
     "title": "Power Outage Western NSW",
@@ -1118,18 +1154,18 @@
     "updated": "4 Nov 2024 07:07"
   },
   {
-    "title": "BRUXNER HWY, SOUTH GUNDURIMBA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573522",
+    "title": "WYRALLAH RD, MONALTRIE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573525",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-28.888820648",
-    "longitude": "153.228744507",
+    "latitude": "-28.855258942",
+    "longitude": "153.28503418",
     "region": "nsw",
-    "time_of_call": "04 Nov 2024 06:36:00",
+    "time_of_call": "04 Nov 2024 07:42:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "BRUXNER HWY, SOUTH GUNDURIMBA 2480",
+    "location": "MONALTRIE 451 WYRALLAH RD, MONALTRIE 2480",
     "council_area": "Lismore",
     "type": "MVA/Transport",
     "type_description": "",
@@ -1137,32 +1173,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Nov 2024 06:36"
-  },
-  {
-    "title": "TOMINGLEY RD, NARROMINE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573524",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.467273712",
-    "longitude": "148.198013306",
-    "region": "nsw",
-    "time_of_call": "04 Nov 2024 07:11:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "WALLABY PARK 2606 TOMINGLEY RD, NARROMINE 2821",
-    "council_area": "Narromine",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Nov 2024 07:11"
+    "updated": "4 Nov 2024 07:42"
   },
   {
     "title": "Euroka St, Walgett",
@@ -1172,9 +1183,9 @@
     "latitude": "-30.022816",
     "longitude": "148.109965",
     "region": "nsw",
-    "time_of_call": "04 Nov 2024 07:26:00",
+    "time_of_call": "04 Nov 2024 07:31:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1187,6 +1198,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "4 Nov 2024 07:26"
+    "updated": "4 Nov 2024 07:31"
   }
 ]
