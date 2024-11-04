@@ -69,15 +69,15 @@
     "longitude": "149.0681826199",
     "region": "act",
     "time_of_call": "04 Nov 2024 18:09:51",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "BRIDGEWATER, GROUNDS CRESCENT, GREENWAY, 2900",
-    "updated": "04 Nov 2024 18:11:14"
+    "updated": "04 Nov 2024 18:21:21"
   },
   {
     "agency": "Ambulance",
@@ -161,13 +161,13 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "04 Nov 2024 17:16:35",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "04 Nov 2024 17:34:43"
+    "updated": "04 Nov 2024 18:25:47"
   },
   {
     "agency": "Ambulance",
@@ -239,7 +239,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "04 Nov 2024 17:59:29"
+    "updated": "04 Nov 2024 18:30:46"
   },
   {
     "agency": "Ambulance",
@@ -275,7 +275,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "04 Nov 2024 18:02:12"
+    "updated": "04 Nov 2024 18:31:47"
   },
   {
     "agency": "Ambulance",
@@ -305,13 +305,31 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "04 Nov 2024 18:19:18",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "04 Nov 2024 18:25:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "066774-04112024",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "04 Nov 2024 18:31:17",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "AINSLIE",
-    "updated": "04 Nov 2024 18:19:59"
+    "location": "GUNGAHLIN",
+    "updated": "04 Nov 2024 18:31:47"
   },
   {
     "title": "Power Outage Western NSW",
@@ -1002,9 +1020,9 @@
     "latitude": "-30.889410019",
     "longitude": "153.046661377",
     "region": "nsw",
-    "time_of_call": "04 Nov 2024 17:04:00",
+    "time_of_call": "04 Nov 2024 18:28:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "2 SPORTSMANS WY, SOUTH WEST ROCKS 2431",
     "council_area": "Kempsey",
@@ -1014,7 +1032,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "4 Nov 2024 17:04"
+    "updated": "4 Nov 2024 18:28"
   },
   {
     "title": "TOWER RD, PEMBROOKE",
@@ -1049,36 +1067,33 @@
     "latitude": "-31.0866432189999",
     "longitude": "152.699386597",
     "region": "nsw",
-    "time_of_call": "04 Nov 2024 17:39:00",
+    "time_of_call": "04 Nov 2024 18:23:00",
     "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
     "location": "226 YESSABAH RD, SHERWOOD 2440",
     "council_area": "Kempsey",
-    "type": "Bush Fire",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Nov 2024 17:39"
+    "updated": "4 Nov 2024 18:23"
   },
   {
-    "title": "MACLEAY VALLEY WAY, SOUTH KEMPSEY",
+    "title": "PACIFIC HWY, SOUTH KEMPSEY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573580",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.125675202",
-    "longitude": "152.82472229",
+    "latitude": "-31.1251144409999",
+    "longitude": "152.823852539",
     "region": "nsw",
     "time_of_call": "04 Nov 2024 18:13:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
-    "location": "MACLEAY VALLEY WAY, SOUTH KEMPSEY 2440",
+    "location": "620 PACIFIC HWY, SOUTH KEMPSEY 2440",
     "council_area": "Kempsey",
     "type": "Other",
     "type_description": "",
@@ -1121,9 +1136,9 @@
     "latitude": "-34.703029632",
     "longitude": "147.267654419",
     "region": "nsw",
-    "time_of_call": "04 Nov 2024 18:21:00",
+    "time_of_call": "04 Nov 2024 18:27:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1136,6 +1151,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Nov 2024 18:21"
+    "updated": "4 Nov 2024 18:27"
+  },
+  {
+    "title": "SHERWOOD RD, SHERWOOD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573585",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.068288803",
+    "longitude": "152.70211792",
+    "region": "nsw",
+    "time_of_call": "04 Nov 2024 18:23:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "898 SHERWOOD RD, SHERWOOD 2440",
+    "council_area": "Kempsey",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Nov 2024 18:23"
   }
 ]
