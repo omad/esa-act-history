@@ -189,13 +189,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "06 Nov 2024 09:09:12",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "06 Nov 2024 09:23:07"
+    "updated": "06 Nov 2024 09:37:37"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +213,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "06 Nov 2024 09:21:24"
+    "updated": "06 Nov 2024 09:45:48"
   },
   {
     "agency": "Ambulance",
@@ -243,13 +243,13 @@
     "longitude": "149.126815",
     "region": "act",
     "time_of_call": "06 Nov 2024 09:25:51",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "06 Nov 2024 09:30:17"
+    "updated": "06 Nov 2024 09:36:12"
   },
   {
     "agency": "Ambulance",
@@ -267,7 +267,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "06 Nov 2024 09:35:19"
+    "updated": "06 Nov 2024 09:37:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "067150-06112024",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "06 Nov 2024 09:36:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "06 Nov 2024 09:38:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - REID",
+    "id": "067153-06112024",
+    "latitude": "-35.281706",
+    "longitude": "149.140719",
+    "region": "act",
+    "time_of_call": "06 Nov 2024 09:47:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "REID",
+    "updated": "06 Nov 2024 09:47:44"
   },
   {
     "title": "Power Outage Western NSW",
@@ -955,28 +991,6 @@
     "updated": "5 Nov 2024 22:07"
   },
   {
-    "title": "JIM MCDONNELLS LANE, BIDGEEMIA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573701",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.364517212",
-    "longitude": "146.532562256",
-    "region": "nsw",
-    "time_of_call": "05 Nov 2024 21:55:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "JIM MCDONNELLS LANE, BIDGEEMIA 2642",
-    "council_area": "Lockhart",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Nov 2024 21:55"
-  },
-  {
     "title": "BROGDEN RD, THARBOGANG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573717",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1167,9 +1181,9 @@
     "latitude": "-33.330150604",
     "longitude": "151.272369385",
     "region": "nsw",
-    "time_of_call": "06 Nov 2024 09:13:00",
+    "time_of_call": "06 Nov 2024 09:37:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "WISEMANS FERRY RD, SOMERSBY 2250",
     "council_area": "Central Coast",
@@ -1179,6 +1193,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Nov 2024 09:13"
+    "updated": "6 Nov 2024 09:37"
+  },
+  {
+    "title": "GOOLMA RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573732",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.5071678159999",
+    "longitude": "148.980255127",
+    "region": "nsw",
+    "time_of_call": "06 Nov 2024 09:34:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "WELLINGTON CORRECTIONAL CTR GOOLMA RD, WUULUMAN 2820",
+    "council_area": "Dubbo Regional",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Nov 2024 09:34"
   }
 ]
