@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "ELOUERA FLATS, NORTHBOURNE AVENUE, BRADDON, 2612",
-    "updated": "07 Nov 2024 07:07:54"
+    "updated": "07 Nov 2024 07:29:42"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +83,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "07 Nov 2024 07:16:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "07 Nov 2024 07:17:59"
+    "updated": "07 Nov 2024 07:24:01"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "07 Nov 2024 07:21:15"
+    "updated": "07 Nov 2024 07:25:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "067379-07112024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "07 Nov 2024 07:25:27",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "07 Nov 2024 07:30:09"
   },
   {
     "title": "Power Outage Western NSW",
@@ -1256,5 +1274,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "7 Nov 2024 07:05"
+  },
+  {
+    "title": "(PACIFIC MTWY), OURIMBAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573873",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.333644867",
+    "longitude": "151.379638672",
+    "region": "nsw",
+    "time_of_call": "07 Nov 2024 07:24:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "M1 (PACIFIC MTWY), OURIMBAH 2258",
+    "council_area": "Central Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Nov 2024 07:24"
   }
 ]
