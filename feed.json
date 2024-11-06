@@ -9,13 +9,13 @@
     "longitude": "149.110562",
     "region": "act",
     "time_of_call": "06 Nov 2024 22:49:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "07 Nov 2024 00:44:29"
+    "updated": "07 Nov 2024 00:55:38"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "07 Nov 2024 00:40:21"
+    "updated": "07 Nov 2024 00:55:19"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "07 Nov 2024 00:41:57"
+    "updated": "07 Nov 2024 01:00:06"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TENNENT",
-    "updated": "07 Nov 2024 00:48:46"
+    "updated": "07 Nov 2024 01:14:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STRATHNAIRN",
+    "id": "067337-07112024",
+    "latitude": "-35.237286",
+    "longitude": "148.98074",
+    "region": "act",
+    "time_of_call": "07 Nov 2024 00:54:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STRATHNAIRN",
+    "updated": "07 Nov 2024 01:21:53"
   },
   {
     "title": "Power Outage Western NSW",
@@ -1022,7 +1040,7 @@
     "updated": "6 Nov 2024 23:34"
   },
   {
-    "title": "BRINGAGEE RD, WARRAWIDGEE",
+    "title": "WYVERN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573835",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -1045,28 +1063,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "7 Nov 2024 00:39"
-  },
-  {
-    "title": "ROSEDALE RD, ASHLEY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573837",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.156860352",
-    "longitude": "149.845535279",
-    "region": "nsw",
-    "time_of_call": "06 Nov 2024 23:30:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ROSEDALE RD, ASHLEY 2400",
-    "council_area": "Moree Plains",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Nov 2024 23:30"
   },
   {
     "title": "MURRUMBIDGEE RIVER RD, CARRATHOOL",
@@ -1092,26 +1088,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Nov 2024 23:50"
-  },
-  {
-    "title": "JONES RD, CALGA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573842",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.416175843",
-    "longitude": "151.222564698",
-    "region": "nsw",
-    "time_of_call": "07 Nov 2024 00:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "JONES RD, CALGA 2250",
-    "council_area": "Central Coast",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Nov 2024 00:07"
   },
   {
     "title": "KIDMAN WAY, BUNDURE",
@@ -1146,9 +1122,9 @@
     "latitude": "-35.03048706",
     "longitude": "146.015808105",
     "region": "nsw",
-    "time_of_call": "06 Nov 2024 23:59:00",
+    "time_of_call": "07 Nov 2024 01:17:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1159,9 +1135,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Nov 2024 23:59"
+    "updated": "7 Nov 2024 01:17"
   },
   {
     "title": "BROWN RD, THARBOGANG",
@@ -1171,7 +1147,7 @@
     "latitude": "-34.259101868",
     "longitude": "145.953567505",
     "region": "nsw",
-    "time_of_call": "07 Nov 2024 00:06:00",
+    "time_of_call": "07 Nov 2024 00:46:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "status_description": "",
@@ -1186,19 +1162,19 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Nov 2024 00:06"
+    "updated": "7 Nov 2024 00:46"
   },
   {
-    "title": "BRINGAGEE RD, CARRATHOOL",
+    "title": "Wyvern South, CARRATHOOL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573847",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.409740448",
-    "longitude": "145.687545777",
+    "latitude": "-34.389431578",
+    "longitude": "145.651893785",
     "region": "nsw",
-    "time_of_call": "07 Nov 2024 00:13:00",
+    "time_of_call": "07 Nov 2024 00:57:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1209,30 +1185,30 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "100 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Nov 2024 00:13"
+    "updated": "7 Nov 2024 00:57"
   },
   {
-    "title": "OLD BUNDARRA RD, GILGAI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573848",
+    "title": "JERVIS BAY RD, JERVIS BAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573849",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.855400086",
-    "longitude": "151.090255738",
+    "latitude": "-35.140518189",
+    "longitude": "150.73928833",
     "region": "nsw",
-    "time_of_call": "07 Nov 2024 00:18:00",
+    "time_of_call": "07 Nov 2024 01:09:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
-    "location": "BRIAR RIDGE 970 OLD BUNDARRA RD, GILGAI 2360",
-    "council_area": "Inverell",
-    "type": "Other",
+    "location": "JERVIS BAY RD, JERVIS BAY 2540",
+    "council_area": "Shoalhaven",
+    "type": "MVA/Transport",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Nov 2024 00:18"
+    "updated": "7 Nov 2024 01:09"
   }
 ]
