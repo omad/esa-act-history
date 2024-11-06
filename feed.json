@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GRIFFITH",
-    "id": "067282-06112024",
-    "latitude": "-35.325773",
-    "longitude": "149.133842",
-    "region": "act",
-    "time_of_call": "06 Nov 2024 18:20:36",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GRIFFITH",
-    "updated": "06 Nov 2024 21:53:41"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WARAMANGA",
     "id": "067301-06112024",
     "latitude": "-35.353501",
@@ -33,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "06 Nov 2024 22:15:31"
+    "updated": "06 Nov 2024 22:24:24"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "06 Nov 2024 21:59:49"
+    "updated": "06 Nov 2024 22:22:14"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +45,13 @@
     "longitude": "149.108737",
     "region": "act",
     "time_of_call": "06 Nov 2024 21:15:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TUGGERANONG",
-    "updated": "06 Nov 2024 22:09:48"
+    "updated": "06 Nov 2024 22:27:19"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
-    "updated": "06 Nov 2024 21:50:46"
+    "updated": "06 Nov 2024 22:25:06"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +135,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "06 Nov 2024 21:51:56",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "06 Nov 2024 22:09:59"
+    "updated": "06 Nov 2024 22:21:09"
   },
   {
     "agency": "Ambulance",
@@ -178,6 +160,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "06 Nov 2024 22:14:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HAWKER",
+    "id": "067325-06112024",
+    "latitude": "-35.246757",
+    "longitude": "149.03611",
+    "region": "act",
+    "time_of_call": "06 Nov 2024 22:24:52",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HAWKER",
+    "updated": "06 Nov 2024 22:28:23"
   },
   {
     "title": "Power Outage Western NSW",
@@ -900,9 +900,9 @@
     "latitude": "-33.699184418",
     "longitude": "148.613082885",
     "region": "nsw",
-    "time_of_call": "06 Nov 2024 17:26:00",
+    "time_of_call": "06 Nov 2024 22:20:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -915,32 +915,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Nov 2024 17:26"
-  },
-  {
-    "title": "CONARGO RD, HARTWOOD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573781",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.361457824",
-    "longitude": "145.414138794",
-    "region": "nsw",
-    "time_of_call": "06 Nov 2024 18:04:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "CONARGO RD, HARTWOOD 2710",
-    "council_area": "Edward River",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Nov 2024 18:04"
+    "updated": "6 Nov 2024 22:20"
   },
   {
     "title": "TWIN RIVERS RD, NORTH BOURKE",
@@ -1097,7 +1072,7 @@
     "latitude": "-31.280921936",
     "longitude": "147.026535034",
     "region": "nsw",
-    "time_of_call": "06 Nov 2024 21:42:00",
+    "time_of_call": "06 Nov 2024 22:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1112,7 +1087,7 @@
     "fire": "Yes",
     "size": "17 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Nov 2024 21:42"
+    "updated": "6 Nov 2024 22:21"
   },
   {
     "title": "GIMBERTS LANE, GULMARRAD",
@@ -1141,8 +1116,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573815",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.8498001099999",
-    "longitude": "145.415161133",
+    "latitude": "-34.57177353",
+    "longitude": "145.558135986",
     "region": "nsw",
     "time_of_call": "06 Nov 2024 21:29:00",
     "event_type": "burnt area",
@@ -1259,26 +1234,6 @@
     "updated": "6 Nov 2024 21:59"
   },
   {
-    "title": "MAJORS LANE, SAWYERS GULLY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573825",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.765293121",
-    "longitude": "151.438339234",
-    "region": "nsw",
-    "time_of_call": "06 Nov 2024 22:03:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MAJORS LANE, SAWYERS GULLY 2326",
-    "council_area": "Cessnock",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Nov 2024 22:03"
-  },
-  {
     "title": "GREAT WESTERN HWY, MARRANGAROO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573826",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1352,12 +1307,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573829",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.471258001",
-    "longitude": "149.847714",
+    "latitude": "-29.468491",
+    "longitude": "149.848475",
     "region": "nsw",
-    "time_of_call": "06 Nov 2024 22:06:00",
+    "time_of_call": "06 Nov 2024 22:24:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1370,21 +1325,21 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Nov 2024 22:06"
+    "updated": "6 Nov 2024 22:24"
   },
   {
-    "title": "WALLAMORE RD, WESTDALE",
+    "title": "INDUSTRIAL CL, WESTDALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573830",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.072608948",
-    "longitude": "150.864852905",
+    "latitude": "-31.073007584",
+    "longitude": "150.862121582",
     "region": "nsw",
     "time_of_call": "06 Nov 2024 22:00:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
-    "location": "WALLAMORE RD, WESTDALE 2340",
+    "location": "INDUSTRIAL CL, WESTDALE 2340",
     "council_area": "Tamworth",
     "type": "Other",
     "type_description": "",
