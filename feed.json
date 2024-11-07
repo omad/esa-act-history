@@ -135,13 +135,13 @@
     "longitude": "149.072217",
     "region": "act",
     "time_of_call": "07 Nov 2024 17:24:16",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "07 Nov 2024 19:22:46"
+    "updated": "07 Nov 2024 19:27:57"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,13 @@
     "longitude": "149.072217",
     "region": "act",
     "time_of_call": "07 Nov 2024 17:41:01",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "07 Nov 2024 17:50:16"
+    "updated": "07 Nov 2024 19:45:39"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +213,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "07 Nov 2024 19:09:14"
+    "updated": "07 Nov 2024 19:29:21"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +231,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "07 Nov 2024 19:27:22"
+    "updated": "07 Nov 2024 19:42:16"
   },
   {
     "agency": "Ambulance",
@@ -249,7 +249,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "07 Nov 2024 19:23:47"
+    "updated": "07 Nov 2024 19:30:00"
   },
   {
     "agency": "Ambulance",
@@ -261,13 +261,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "07 Nov 2024 19:01:52",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "07 Nov 2024 19:18:44"
+    "updated": "07 Nov 2024 19:37:52"
   },
   {
     "agency": "Ambulance",
@@ -279,13 +279,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "07 Nov 2024 19:08:18",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "07 Nov 2024 19:13:01"
+    "updated": "07 Nov 2024 19:46:50"
   },
   {
     "agency": "Ambulance",
@@ -304,6 +304,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
     "updated": "07 Nov 2024 19:12:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "067562-07112024",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "07 Nov 2024 19:30:54",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STIRLING",
+    "updated": "07 Nov 2024 19:43:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "067563-07112024",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "07 Nov 2024 19:30:56",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "07 Nov 2024 19:47:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "067565-07112024",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "07 Nov 2024 19:35:35",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "07 Nov 2024 19:40:49"
   },
   {
     "title": "Power Outage Western NSW",
@@ -1099,26 +1153,6 @@
     "updated": "7 Nov 2024 17:49"
   },
   {
-    "title": "OAKEY CREEK RD, POKOLBIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573918",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.8259773259999",
-    "longitude": "151.322738648",
-    "region": "nsw",
-    "time_of_call": "07 Nov 2024 17:07:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "OAKEY CREEK RD, POKOLBIN 2320",
-    "council_area": "Cessnock",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Nov 2024 17:07"
-  },
-  {
     "title": "BRIGALOW LANE, BELLATA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573919",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1223,9 +1257,9 @@
     "latitude": "-30.734247207",
     "longitude": "152.661056518",
     "region": "nsw",
-    "time_of_call": "07 Nov 2024 17:08:00",
+    "time_of_call": "07 Nov 2024 19:27:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1238,7 +1272,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Nov 2024 17:08"
+    "updated": "7 Nov 2024 19:27"
   },
   {
     "title": "KINGS HWY, WARRI",
@@ -1292,12 +1326,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573955",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-28.5029926299999",
-    "longitude": "152.965515137",
+    "latitude": "-28.4987277979999",
+    "longitude": "152.950637817",
     "region": "nsw",
-    "time_of_call": "07 Nov 2024 19:08:00",
+    "time_of_call": "07 Nov 2024 19:36:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "SUMMERLAND WAY, WEST WIANGAREE 2474",
     "council_area": "Kyogle",
@@ -1307,7 +1341,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Nov 2024 19:08"
+    "updated": "7 Nov 2024 19:36"
   },
   {
     "title": "COONABARABRAN RD, SPRING RIDGE",
@@ -1355,5 +1389,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "7 Nov 2024 19:09"
+  },
+  {
+    "title": "LINDIFFERON LANE, LINDIFFERON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_573959",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.431186676",
+    "longitude": "145.175476074",
+    "region": "nsw",
+    "time_of_call": "07 Nov 2024 19:39:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "1141 LINDIFFERON LANE, LINDIFFERON 2710",
+    "council_area": "Edward River",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Nov 2024 19:39"
   }
 ]
