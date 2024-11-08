@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "09 Nov 2024 07:51:37"
+    "updated": "09 Nov 2024 08:22:09"
   },
   {
     "agency": "Ambulance",
@@ -90,6 +90,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
     "updated": "09 Nov 2024 07:55:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "067873-09112024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "09 Nov 2024 08:25:15",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "09 Nov 2024 08:28:40"
   },
   {
     "title": "Power Outage Western NSW",
@@ -736,9 +754,9 @@
     "latitude": "-33.4010696409999",
     "longitude": "151.469070434",
     "region": "nsw",
-    "time_of_call": "09 Nov 2024 07:33:00",
+    "time_of_call": "09 Nov 2024 08:14:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "THE ENTRANCE RD, FORRESTERS BEACH 2260",
     "council_area": "Central Coast",
@@ -748,7 +766,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "9 Nov 2024 07:33"
+    "updated": "9 Nov 2024 08:14"
   },
   {
     "title": "STUART ST, WARDELL",
@@ -831,5 +849,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Nov 2024 08:09"
+  },
+  {
+    "title": "BILGA RD, INVERGOWRIE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574112",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.51417923",
+    "longitude": "151.512680054",
+    "region": "nsw",
+    "time_of_call": "09 Nov 2024 08:13:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "133 BILGA RD, INVERGOWRIE 2350",
+    "council_area": "Uralla",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Nov 2024 08:13"
   }
 ]
