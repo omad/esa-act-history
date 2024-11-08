@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "08 Nov 2024 18:04:41"
+    "updated": "08 Nov 2024 18:29:55"
   },
   {
     "agency": "Ambulance",
@@ -115,24 +115,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "067752-08112024",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
-    "region": "act",
-    "time_of_call": "08 Nov 2024 16:13:13",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "08 Nov 2024 17:26:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CRACE",
     "id": "067755-08112024",
     "latitude": "-35.202196",
@@ -145,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "08 Nov 2024 18:16:17"
+    "updated": "08 Nov 2024 18:23:19"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +181,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "08 Nov 2024 18:04:08"
+    "updated": "08 Nov 2024 18:20:56"
   },
   {
     "agency": "Ambulance",
@@ -272,6 +254,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
     "updated": "08 Nov 2024 18:15:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FRASER",
+    "id": "067770-08112024",
+    "latitude": "-35.189989",
+    "longitude": "149.043755",
+    "region": "act",
+    "time_of_call": "08 Nov 2024 18:21:46",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FRASER",
+    "updated": "08 Nov 2024 18:27:31"
   },
   {
     "title": "Power Outage Western NSW",
@@ -1072,50 +1072,50 @@
     "updated": "8 Nov 2024 17:49"
   },
   {
-    "title": "MONASH AV, NYAH WEST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574062",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.173652649",
-    "longitude": "143.394317627",
-    "region": "nsw",
-    "time_of_call": "08 Nov 2024 17:51:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "57-59 MONASH AV, NYAH WEST 3595",
-    "council_area": "Murray River",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Nov 2024 17:51"
-  },
-  {
     "title": "CABBAGE TREE RD, WILLIAMTOWN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574063",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.812828064",
-    "longitude": "151.81086731",
+    "latitude": "-32.81314087",
+    "longitude": "151.813354492",
     "region": "nsw",
-    "time_of_call": "08 Nov 2024 18:00:00",
+    "time_of_call": "08 Nov 2024 18:29:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "296 CABBAGE TREE RD, WILLIAMTOWN 2318",
+    "council_area": "Port Stephens",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Nov 2024 18:29"
+  },
+  {
+    "title": "GUN CLUB RD, NARRABRI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574064",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.381248474",
+    "longitude": "149.758605957",
+    "region": "nsw",
+    "time_of_call": "08 Nov 2024 18:19:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "318 CABBAGE TREE RD, WILLIAMTOWN 2318",
-    "council_area": "Port Stephens",
-    "type": "Bush Fire",
+    "location": "BRAEWOOD 152 GUN CLUB RD, NARRABRI 2390",
+    "council_area": "Narrabri",
+    "type": "Grass Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Nov 2024 18:00"
+    "updated": "8 Nov 2024 18:19"
   }
 ]
