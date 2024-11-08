@@ -113,24 +113,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "067780-08112024",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "08 Nov 2024 19:02:30",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "08 Nov 2024 19:57:10"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - RED HILL",
     "id": "067781-08112024",
     "latitude": "-35.333636",
@@ -161,7 +143,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "08 Nov 2024 20:26:33"
+    "updated": "08 Nov 2024 20:41:46"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +215,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "08 Nov 2024 20:30:57"
+    "updated": "08 Nov 2024 20:36:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "067790-08112024",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "08 Nov 2024 20:46:09",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GRIFFITH",
+    "updated": "08 Nov 2024 20:47:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "067791-08112024",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "08 Nov 2024 20:46:13",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "08 Nov 2024 20:47:12"
   },
   {
     "title": "Power Outage Western NSW",
@@ -995,7 +1013,7 @@
     "latitude": "-33.6463394159999",
     "longitude": "150.742370606",
     "region": "nsw",
-    "time_of_call": "08 Nov 2024 20:19:00",
+    "time_of_call": "08 Nov 2024 20:37:00",
     "event_type": "burnt area",
     "status": "Out of control",
     "alert_level": "Not Applicable",
@@ -1007,7 +1025,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Nov 2024 20:19"
+    "updated": "8 Nov 2024 20:37"
   },
   {
     "title": "HOLLY ST, BENDALONG",
@@ -1030,5 +1048,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Nov 2024 20:24"
+  },
+  {
+    "title": "MILLBROOK RD, STROUD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574078",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.3952217099999",
+    "longitude": "151.970596313",
+    "region": "nsw",
+    "time_of_call": "08 Nov 2024 20:38:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "76 MILLBROOK RD, STROUD 2425",
+    "council_area": "Mid-Coast",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Nov 2024 20:38"
   }
 ]
