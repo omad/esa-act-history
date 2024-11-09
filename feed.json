@@ -20,7 +20,7 @@
     "updated": "08 Nov 2024 17:20:34"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - HUGHES",
@@ -29,33 +29,15 @@
     "longitude": "149.087677002",
     "region": "act",
     "time_of_call": "10 Nov 2024 01:37:36",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "YARRA GLEN, ADELAIDE AVENUE, DEAKIN, 2600",
-    "updated": "10 Nov 2024 01:57:45"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLT",
-    "id": "067996-10112024",
-    "latitude": "-35.224201",
-    "longitude": "149.013141",
-    "region": "act",
-    "time_of_call": "10 Nov 2024 00:29:26",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HOLT",
-    "updated": "10 Nov 2024 01:32:44"
+    "updated": "10 Nov 2024 02:24:20"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +121,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "10 Nov 2024 01:36:17",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "10 Nov 2024 01:57:43"
+    "updated": "10 Nov 2024 02:33:33"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "10 Nov 2024 02:16:18"
+    "updated": "10 Nov 2024 02:28:52"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +217,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "10 Nov 2024 02:14:58"
+    "updated": "10 Nov 2024 02:24:13"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +235,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "10 Nov 2024 01:53:21"
+    "updated": "10 Nov 2024 02:25:54"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +271,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "10 Nov 2024 01:57:52"
+    "updated": "10 Nov 2024 02:24:38"
   },
   {
     "agency": "Ambulance",
@@ -307,7 +289,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "10 Nov 2024 02:18:55"
+    "updated": "10 Nov 2024 02:33:33"
   },
   {
     "agency": "Ambulance",
@@ -325,7 +307,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "10 Nov 2024 02:22:22"
+    "updated": "10 Nov 2024 02:23:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TORRENS",
+    "id": "068024-10112024",
+    "latitude": "-35.372705",
+    "longitude": "149.085827",
+    "region": "act",
+    "time_of_call": "10 Nov 2024 02:26:52",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TORRENS",
+    "updated": "10 Nov 2024 02:31:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "068025-10112024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "10 Nov 2024 02:32:47",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "10 Nov 2024 02:33:45"
   },
   {
     "title": "Power Outage Western NSW",
