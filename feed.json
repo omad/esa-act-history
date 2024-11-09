@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "10 Nov 2024 08:58:40"
+    "updated": "10 Nov 2024 09:48:31"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "10 Nov 2024 09:26:43"
+    "updated": "10 Nov 2024 09:43:07"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "10 Nov 2024 09:29:53"
+    "updated": "10 Nov 2024 09:41:32"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,25 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "10 Nov 2024 09:31:38"
+    "updated": "10 Nov 2024 09:34:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "068057-10112024",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "10 Nov 2024 09:37:20",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "10 Nov 2024 09:47:44"
   },
   {
     "title": "Power Outage Western NSW",
@@ -848,5 +866,50 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Nov 2024 08:46"
+  },
+  {
+    "title": "THOMPSON ST, SCOTLAND ISLAND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574225",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6396331779999",
+    "longitude": "151.292999268",
+    "region": "nsw",
+    "time_of_call": "10 Nov 2024 09:16:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "10 THOMPSON ST, SCOTLAND ISLAND 2105",
+    "council_area": "Northern Beaches",
+    "type": "Planned Event",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Nov 2024 09:16"
+  },
+  {
+    "title": "DANDALOO RD, TRANGIE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574226",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.2238998409999",
+    "longitude": "147.82800293",
+    "region": "nsw",
+    "time_of_call": "10 Nov 2024 09:42:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "DANDALOO RD, TRANGIE 2823",
+    "council_area": "Narromine",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Nov 2024 09:42"
   }
 ]
