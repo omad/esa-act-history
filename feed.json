@@ -23,42 +23,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WRIGHT",
-    "id": "068043-10112024",
-    "latitude": "-35.323404",
-    "longitude": "149.036274",
-    "region": "act",
-    "time_of_call": "10 Nov 2024 07:03:24",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WRIGHT",
-    "updated": "10 Nov 2024 08:00:00"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLT",
-    "id": "068044-10112024",
-    "latitude": "-35.224201",
-    "longitude": "149.013141",
-    "region": "act",
-    "time_of_call": "10 Nov 2024 07:07:38",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HOLT",
-    "updated": "10 Nov 2024 08:01:53"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KAMBAH",
     "id": "068047-10112024",
     "latitude": "-35.384074",
@@ -71,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "10 Nov 2024 08:29:36"
+    "updated": "10 Nov 2024 08:45:55"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +47,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "10 Nov 2024 08:01:49",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "10 Nov 2024 08:07:22"
+    "updated": "10 Nov 2024 08:45:23"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +71,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "10 Nov 2024 08:29:46"
+    "updated": "10 Nov 2024 08:34:04"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +89,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "10 Nov 2024 08:29:46"
+    "updated": "10 Nov 2024 08:30:49"
   },
   {
     "title": "Power Outage Western NSW",
@@ -276,7 +240,7 @@
     "latitude": "-30.038149469",
     "longitude": "152.054908348",
     "region": "nsw",
-    "time_of_call": "09 Nov 2024 16:19:00",
+    "time_of_call": "10 Nov 2024 08:36:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -291,7 +255,7 @@
     "fire": "Yes",
     "size": "299 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2024 16:19"
+    "updated": "10 Nov 2024 08:36"
   },
   {
     "title": "HENRY PARKES WAY, CONDOBOLIN",
@@ -745,7 +709,7 @@
     "latitude": "-28.33014679",
     "longitude": "153.519760132",
     "region": "nsw",
-    "time_of_call": "10 Nov 2024 06:09:00",
+    "time_of_call": "10 Nov 2024 08:34:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -757,7 +721,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Nov 2024 06:09"
+    "updated": "10 Nov 2024 08:34"
   },
   {
     "title": "COREE RD, COREE",
@@ -789,19 +753,22 @@
     "latitude": "-33.5080413819999",
     "longitude": "147.320800781",
     "region": "nsw",
-    "time_of_call": "10 Nov 2024 08:10:00",
+    "time_of_call": "10 Nov 2024 08:32:00",
     "event_type": "burnt area",
     "status": "Out of control",
-    "alert_level": "Not Applicable",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "WILGA VALE 1896 BURCHER RD, BURCHER 2671",
     "council_area": "Lachlan",
-    "type": "Burn off",
+    "type": "Bush Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Nov 2024 08:10"
+    "updated": "10 Nov 2024 08:32"
   },
   {
     "title": "TOMAKIN RD",
@@ -811,9 +778,9 @@
     "latitude": "-35.809833526",
     "longitude": "150.176116943",
     "region": "nsw",
-    "time_of_call": "10 Nov 2024 08:11:00",
+    "time_of_call": "10 Nov 2024 08:34:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "RIVER HAVEN TOURIST PARK 476 TOMAKIN RD, TOMAKIN 2537",
     "council_area": "Eurobodalla",
@@ -823,6 +790,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Nov 2024 08:11"
+    "updated": "10 Nov 2024 08:34"
   }
 ]
