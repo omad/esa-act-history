@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "09 Nov 2024 21:32:17"
+    "updated": "09 Nov 2024 21:48:09"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "09 Nov 2024 20:47:53"
+    "updated": "09 Nov 2024 21:47:16"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "09 Nov 2024 21:18:24"
+    "updated": "09 Nov 2024 21:41:19"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "09 Nov 2024 21:02:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "09 Nov 2024 21:19:55"
+    "updated": "09 Nov 2024 21:34:59"
   },
   {
     "agency": "Ambulance",
@@ -180,6 +180,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
     "updated": "09 Nov 2024 21:26:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "067983-09112024",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "09 Nov 2024 21:35:04",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "09 Nov 2024 21:48:38"
   },
   {
     "title": "Power Outage Western NSW",
@@ -377,7 +395,7 @@
     "latitude": "-32.536705018",
     "longitude": "149.587188721",
     "region": "nsw",
-    "time_of_call": "08 Nov 2024 14:34:00",
+    "time_of_call": "09 Nov 2024 21:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -392,7 +410,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Nov 2024 14:34"
+    "updated": "9 Nov 2024 21:38"
   },
   {
     "title": "Main Camp Creek Fire",
@@ -789,26 +807,6 @@
     "updated": "9 Nov 2024 19:20"
   },
   {
-    "title": "MICALONG CL, WEE JASPER",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574154",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.188709259",
-    "longitude": "148.686508178",
-    "region": "nsw",
-    "time_of_call": "09 Nov 2024 16:26:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "MICALONG CL, WEE JASPER 2582",
-    "council_area": "Yass Valley",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2024 16:26"
-  },
-  {
     "title": "PAGES CREEK RD, ELLERSTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574158",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -898,28 +896,6 @@
     "updated": "9 Nov 2024 21:07"
   },
   {
-    "title": "NUNDLE RD, PIALLAMORE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574180",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.150295257",
-    "longitude": "151.036346436",
-    "region": "nsw",
-    "time_of_call": "09 Nov 2024 20:48:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "364 NUNDLE RD, PIALLAMORE 2340",
-    "council_area": "Tamworth",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2024 20:48"
-  },
-  {
     "title": "ELEVENTH AV",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574182",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -940,25 +916,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Nov 2024 20:59"
-  },
-  {
-    "title": "FLOWERS DR, CATHERINE HILL BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574184",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.148288727",
-    "longitude": "151.628387451",
-    "region": "nsw",
-    "time_of_call": "09 Nov 2024 21:28:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "FLOWERS DR, CATHERINE HILL BAY 2281",
-    "council_area": "Lake Macquarie",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2024 21:28"
   }
 ]
