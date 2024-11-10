@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WHITLAM",
-    "updated": "11 Nov 2024 06:58:52"
+    "updated": "11 Nov 2024 07:26:14"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +83,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "11 Nov 2024 07:04:50",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "11 Nov 2024 07:18:55"
+    "updated": "11 Nov 2024 07:30:11"
   },
   {
     "agency": "Ambulance",
@@ -108,6 +108,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
     "updated": "11 Nov 2024 07:17:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RICHARDSON",
+    "id": "068217-11112024",
+    "latitude": "-35.428715",
+    "longitude": "149.111133",
+    "region": "act",
+    "time_of_call": "11 Nov 2024 07:23:26",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RICHARDSON",
+    "updated": "11 Nov 2024 07:26:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "068218-11112024",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "11 Nov 2024 07:26:36",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "11 Nov 2024 07:31:55"
   },
   {
     "title": "Power Outage Western NSW",
@@ -930,5 +966,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Nov 2024 06:46"
+  },
+  {
+    "title": "MONA VALE RD, INGLESIDE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574332",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.68555069",
+    "longitude": "151.251815796",
+    "region": "nsw",
+    "time_of_call": "11 Nov 2024 07:23:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "MONA VALE RD, INGLESIDE 2101",
+    "council_area": "Northern Beaches",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Nov 2024 07:23"
   }
 ]
