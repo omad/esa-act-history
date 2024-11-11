@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "12 Nov 2024 05:39:25"
+    "updated": "12 Nov 2024 06:08:46"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "12 Nov 2024 05:48:23"
+    "updated": "12 Nov 2024 06:02:57"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "12 Nov 2024 05:43:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "12 Nov 2024 05:46:03"
+    "updated": "12 Nov 2024 06:12:22"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "12 Nov 2024 05:48:48"
+    "updated": "12 Nov 2024 05:49:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "068481-12112024",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "12 Nov 2024 05:51:02",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "12 Nov 2024 05:59:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
+    "id": "068482-12112024",
+    "latitude": "-35.425091",
+    "longitude": "149.088064",
+    "region": "act",
+    "time_of_call": "12 Nov 2024 06:04:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "12 Nov 2024 06:13:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
+    "id": "068483-12112024",
+    "latitude": "-35.425091",
+    "longitude": "149.088064",
+    "region": "act",
+    "time_of_call": "12 Nov 2024 06:07:40",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "12 Nov 2024 06:16:14"
   },
   {
     "title": "Power Outage Western NSW",
@@ -551,7 +605,7 @@
     "latitude": "-34.274883271",
     "longitude": "145.995254516",
     "region": "nsw",
-    "time_of_call": "11 Nov 2024 19:58:00",
+    "time_of_call": "12 Nov 2024 06:05:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -566,7 +620,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Nov 2024 19:58"
+    "updated": "12 Nov 2024 06:05"
   },
   {
     "title": "TOMBONG RD, TOMBONG",
@@ -798,31 +852,6 @@
     "updated": "12 Nov 2024 01:08"
   },
   {
-    "title": "DEVLIN RD, CASTLEREAGH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574411",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.659027099",
-    "longitude": "150.681091309",
-    "region": "nsw",
-    "time_of_call": "12 Nov 2024 04:43:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "DEVLIN RD, CASTLEREAGH 2749",
-    "council_area": "Penrith",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Nov 2024 04:43"
-  },
-  {
     "title": "BOWRAVILLE RD, BELLINGEN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574412",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -830,9 +859,9 @@
     "latitude": "-30.458093643",
     "longitude": "152.891510009",
     "region": "nsw",
-    "time_of_call": "12 Nov 2024 04:58:00",
+    "time_of_call": "12 Nov 2024 05:56:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "96 BOWRAVILLE RD, BELLINGEN 2454",
     "council_area": "Bellingen",
@@ -840,6 +869,26 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Nov 2024 04:58"
+    "updated": "12 Nov 2024 05:56"
+  },
+  {
+    "title": "CHAIN O PONDS RD, COLLOMBATTI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574413",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.01686287",
+    "longitude": "152.794418335",
+    "region": "nsw",
+    "time_of_call": "12 Nov 2024 06:07:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "154 CHAIN O PONDS RD, COLLOMBATTI 2440",
+    "council_area": "Kempsey",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Nov 2024 06:07"
   }
 ]
