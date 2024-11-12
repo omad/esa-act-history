@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - O'CONNOR",
-    "id": "068546-12112024",
-    "latitude": "-35.256876",
-    "longitude": "149.111857",
-    "region": "act",
-    "time_of_call": "12 Nov 2024 12:19:51",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "O'CONNOR",
-    "updated": "12 Nov 2024 17:48:35"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONCRIEFF",
     "id": "068668-12112024",
     "latitude": "-35.158865",
@@ -69,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "12 Nov 2024 20:45:55"
+    "updated": "12 Nov 2024 21:28:54"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "12 Nov 2024 21:17:38"
+    "updated": "12 Nov 2024 21:28:44"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +99,13 @@
     "longitude": "149.049485",
     "region": "act",
     "time_of_call": "12 Nov 2024 20:46:58",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "12 Nov 2024 21:24:35"
+    "updated": "12 Nov 2024 21:37:56"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +153,13 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "12 Nov 2024 21:03:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "12 Nov 2024 21:21:57"
+    "updated": "12 Nov 2024 21:33:59"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +171,49 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "12 Nov 2024 21:16:33",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "12 Nov 2024 21:20:36"
+    "updated": "12 Nov 2024 21:36:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BANKS",
+    "id": "068683-12112024",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
+    "region": "act",
+    "time_of_call": "12 Nov 2024 21:35:28",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BANKS",
+    "updated": "12 Nov 2024 21:38:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GOWRIE",
+    "id": "068684-12112024",
+    "latitude": "-35.411365",
+    "longitude": "149.110257",
+    "region": "act",
+    "time_of_call": "12 Nov 2024 21:38:27",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GOWRIE",
+    "updated": "12 Nov 2024 21:38:50"
   },
   {
     "title": "HENRY PARKES WAY, CONDOBOLIN",
@@ -638,23 +656,28 @@
     "updated": "12 Nov 2024 20:06"
   },
   {
-    "title": "OXLEY ISLAND RD, OXLEY ISLAND",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574483",
+    "title": "SAUNDERSON RD, LEETON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574484",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.917575836",
-    "longitude": "152.568740845",
+    "latitude": "-34.460891724",
+    "longitude": "146.340270997",
     "region": "nsw",
-    "time_of_call": "12 Nov 2024 20:39:00",
+    "time_of_call": "12 Nov 2024 21:35:00",
     "event_type": "burnt area",
     "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "COLIBRE 34 OXLEY ISLAND RD, OXLEY ISLAND 2430",
-    "council_area": "Mid-Coast",
-    "type": "Medical",
-    "fire": "No",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "SAUNDERSON RD, LEETON 2705",
+    "council_area": "Leeton",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Nov 2024 20:39"
+    "updated": "12 Nov 2024 21:35"
   }
 ]
