@@ -63,13 +63,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "13 Nov 2024 16:34:22",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "13 Nov 2024 19:55:37"
+    "updated": "13 Nov 2024 20:35:53"
   },
   {
     "agency": "Ambulance",
@@ -105,25 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WHITLAM",
-    "updated": "13 Nov 2024 20:16:49"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "068877-13112024",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "13 Nov 2024 18:11:00",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "13 Nov 2024 20:03:09"
+    "updated": "13 Nov 2024 20:34:31"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +135,13 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "13 Nov 2024 18:49:39",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "13 Nov 2024 20:19:47"
+    "updated": "13 Nov 2024 20:35:38"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +213,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "13 Nov 2024 20:15:16"
+    "updated": "13 Nov 2024 20:32:23"
   },
   {
     "agency": "Ambulance",
@@ -249,7 +231,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "13 Nov 2024 20:03:10"
+    "updated": "13 Nov 2024 20:28:44"
   },
   {
     "agency": "Ambulance",
@@ -303,7 +285,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "13 Nov 2024 20:20:16"
+    "updated": "13 Nov 2024 20:28:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "068903-13112024",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "13 Nov 2024 20:26:57",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHAPMAN",
+    "updated": "13 Nov 2024 20:35:24"
   },
   {
     "title": "HENRY PARKES WAY, CONDOBOLIN",
@@ -662,31 +662,6 @@
     "updated": "13 Nov 2024 19:51"
   },
   {
-    "title": "YOUNG ST, BREWARRINA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574582",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.958799362",
-    "longitude": "146.858673096",
-    "region": "nsw",
-    "time_of_call": "13 Nov 2024 19:53:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "YOUNG ST, BREWARRINA 2839",
-    "council_area": "Brewarrina",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "13 Nov 2024 19:53"
-  },
-  {
     "title": "SCHOLZ RD, MOUNT ADRAH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574584",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -710,28 +685,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Nov 2024 19:52"
-  },
-  {
-    "title": "PICTON RD, CATARACT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574585",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.363491058",
-    "longitude": "150.853057862",
-    "region": "nsw",
-    "time_of_call": "13 Nov 2024 20:02:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "PICTON RD, CATARACT 2560",
-    "council_area": "Wollongong",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Nov 2024 20:02"
   },
   {
     "title": "WINGHAM RD, COMBOYNE",
