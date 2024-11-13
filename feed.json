@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "13 Nov 2024 18:01:46"
+    "updated": "13 Nov 2024 18:24:08"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +177,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "13 Nov 2024 17:56:39"
+    "updated": "13 Nov 2024 18:24:28"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +213,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "13 Nov 2024 17:59:18"
+    "updated": "13 Nov 2024 18:24:17"
   },
   {
     "agency": "Ambulance",
@@ -297,13 +297,13 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "13 Nov 2024 17:34:23",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "13 Nov 2024 18:12:47"
+    "updated": "13 Nov 2024 18:27:37"
   },
   {
     "agency": "Ambulance",
@@ -375,7 +375,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "13 Nov 2024 17:58:19"
+    "updated": "13 Nov 2024 18:23:45"
   },
   {
     "agency": "Ambulance",
@@ -412,42 +412,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
     "updated": "13 Nov 2024 18:05:11"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - O'CONNOR",
-    "id": "068874-13112024",
-    "latitude": "-35.256876",
-    "longitude": "149.111857",
-    "region": "act",
-    "time_of_call": "13 Nov 2024 18:05:12",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "O'CONNOR",
-    "updated": "13 Nov 2024 18:08:55"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "068875-13112024",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
-    "region": "act",
-    "time_of_call": "13 Nov 2024 18:05:57",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KALEEN",
-    "updated": "13 Nov 2024 18:12:19"
   },
   {
     "agency": "Ambulance",
@@ -501,7 +465,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
-    "updated": "13 Nov 2024 18:19:27"
+    "updated": "13 Nov 2024 18:23:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "068881-13112024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "13 Nov 2024 18:21:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "13 Nov 2024 18:22:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "068882-13112024",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "13 Nov 2024 18:21:53",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "13 Nov 2024 18:28:37"
   },
   {
     "title": "HENRY PARKES WAY, CONDOBOLIN",
@@ -756,43 +756,18 @@
     "updated": "13 Nov 2024 16:37"
   },
   {
-    "title": "NEWELL HWY, MOREE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574552",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.237449646",
-    "longitude": "150.001602172",
-    "region": "nsw",
-    "time_of_call": "13 Nov 2024 17:33:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "NEWELL HWY, MOREE 2400",
-    "council_area": "Moree Plains",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Nov 2024 17:33"
-  },
-  {
-    "title": "WINE COUNTRY DR, BRANXTON",
+    "title": "NEW ENGLAND HWY, BRANXTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574557",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.6631011969999",
-    "longitude": "151.37034607",
+    "latitude": "-32.663516999",
+    "longitude": "151.370925904",
     "region": "nsw",
     "time_of_call": "13 Nov 2024 17:34:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "1823 WINE COUNTRY DR, BRANXTON 2335",
+    "location": "NEW ENGLAND HWY, BRANXTON 2335",
     "council_area": "Cessnock",
     "type": "MVA/Transport",
     "type_description": "",
@@ -830,9 +805,9 @@
     "latitude": "-28.6488475799999",
     "longitude": "153.475738526",
     "region": "nsw",
-    "time_of_call": "13 Nov 2024 17:02:00",
+    "time_of_call": "13 Nov 2024 18:24:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "KEYS RD, COORABELL 2479",
     "council_area": "Byron",
@@ -840,7 +815,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Nov 2024 17:02"
+    "updated": "13 Nov 2024 18:24"
   },
   {
     "title": "WEEMALA LANE, FEDERAL",
@@ -892,9 +867,9 @@
     "latitude": "-30.2877998349999",
     "longitude": "149.60798645",
     "region": "nsw",
-    "time_of_call": "13 Nov 2024 17:41:00",
+    "time_of_call": "13 Nov 2024 18:25:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -907,7 +882,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Nov 2024 17:41"
+    "updated": "13 Nov 2024 18:25"
   },
   {
     "title": "ROSES RD, FEDERAL",
@@ -930,26 +905,6 @@
     "updated": "13 Nov 2024 17:43"
   },
   {
-    "title": "PACIFIC (SOUTHBOUND) MTWY, CAMERON PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574572",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.8813362129999",
-    "longitude": "151.608169555",
-    "region": "nsw",
-    "time_of_call": "13 Nov 2024 17:46:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "M1 PACIFIC (SOUTHBOUND) MTWY, CAMERON PARK 2285",
-    "council_area": "Lake Macquarie",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Nov 2024 17:46"
-  },
-  {
     "title": "TATHAM RD, TATHAM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574573",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -968,5 +923,45 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Nov 2024 18:12"
+  },
+  {
+    "title": "BINNA BURRA RD, FEDERAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574574",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.65469551",
+    "longitude": "153.460113526",
+    "region": "nsw",
+    "time_of_call": "13 Nov 2024 18:13:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "878 BINNA BURRA RD, FEDERAL 2480",
+    "council_area": "Byron",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Nov 2024 18:13"
+  },
+  {
+    "title": "FEDERAL RFS STATION LIZRAY RD, FEDERAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574576",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.655382157",
+    "longitude": "153.45123291",
+    "region": "nsw",
+    "time_of_call": "13 Nov 2024 18:26:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "FEDERAL RFS STATION LIZRAY RD, FEDERAL 2480",
+    "council_area": "Byron",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Nov 2024 18:26"
   }
 ]
