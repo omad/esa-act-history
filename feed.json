@@ -20,6 +20,26 @@
     "updated": "14 Nov 2024 21:13:07"
   },
   {
+    "agency": "Fire",
+    "alert_level": "Advice",
+    "event_type": "incident",
+    "title": "GRASS AND BUSH FIRE - FRASER",
+    "id": "016150-14112024",
+    "latitude": "-35.1945953369",
+    "longitude": "149.0450439453",
+    "region": "act",
+    "time_of_call": "14 Nov 2024 22:19:24",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "type": "GRASS AND BUSH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
+    "location": "LIND CLOSE, FRASER, 2615",
+    "updated": "14 Nov 2024 22:27:23"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -83,13 +103,13 @@
     "longitude": "149.163724",
     "region": "act",
     "time_of_call": "14 Nov 2024 20:01:23",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "SYMONSTON",
-    "updated": "14 Nov 2024 20:09:39"
+    "updated": "14 Nov 2024 22:22:53"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "14 Nov 2024 21:59:36"
+    "updated": "14 Nov 2024 22:27:40"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "14 Nov 2024 22:18:17"
+    "updated": "14 Nov 2024 22:28:38"
   },
   {
     "agency": "Ambulance",
@@ -227,13 +247,13 @@
     "longitude": "149.110257",
     "region": "act",
     "time_of_call": "14 Nov 2024 22:13:36",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "14 Nov 2024 22:17:18"
+    "updated": "14 Nov 2024 22:23:37"
   },
   {
     "agency": "Ambulance",
@@ -245,13 +265,49 @@
     "longitude": "149.142366",
     "region": "act",
     "time_of_call": "14 Nov 2024 22:14:16",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "14 Nov 2024 22:22:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "069136-14112024",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "14 Nov 2024 22:22:28",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "14 Nov 2024 22:18:27"
+    "location": "BONNER",
+    "updated": "14 Nov 2024 22:24:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HACKETT",
+    "id": "069137-14112024",
+    "latitude": "-35.249801",
+    "longitude": "149.165368",
+    "region": "act",
+    "time_of_call": "14 Nov 2024 22:24:41",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HACKETT",
+    "updated": "14 Nov 2024 22:28:42"
   },
   {
     "title": "HENRY PARKES WAY, CONDOBOLIN",
@@ -593,30 +649,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Nov 2024 22:00"
-  },
-  {
-    "title": "Scenic Dr, Nowra",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574698",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.870153",
-    "longitude": "150.594247999",
-    "region": "nsw",
-    "time_of_call": "14 Nov 2024 22:15:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "107 Scenic Dr, Nowra, NSW 2541",
-    "council_area": "Shoalhaven",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "14 Nov 2024 22:15"
   }
 ]
