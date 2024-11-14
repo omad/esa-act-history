@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "15 Nov 2024 00:08:10"
+    "updated": "15 Nov 2024 00:43:36"
   },
   {
     "agency": "Ambulance",
@@ -90,24 +90,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
     "updated": "15 Nov 2024 00:02:39"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONCRIEFF",
-    "id": "069138-14112024",
-    "latitude": "-35.158865",
-    "longitude": "149.117806",
-    "region": "act",
-    "time_of_call": "14 Nov 2024 22:39:18",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONCRIEFF",
-    "updated": "14 Nov 2024 23:45:18"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "15 Nov 2024 00:14:26"
+    "updated": "15 Nov 2024 00:48:50"
   },
   {
     "agency": "Ambulance",
@@ -180,6 +162,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
     "updated": "15 Nov 2024 00:23:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUNLOP",
+    "id": "069149-15112024",
+    "latitude": "-35.193951",
+    "longitude": "149.019471",
+    "region": "act",
+    "time_of_call": "15 Nov 2024 00:48:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUNLOP",
+    "updated": "15 Nov 2024 00:48:46"
   },
   {
     "title": "HENRY PARKES WAY, CONDOBOLIN",
@@ -281,7 +281,7 @@
     "latitude": "-33.6042213439999",
     "longitude": "148.522613526",
     "region": "nsw",
-    "time_of_call": "14 Nov 2024 06:31:00",
+    "time_of_call": "15 Nov 2024 00:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -293,7 +293,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Nov 2024 06:31"
+    "updated": "15 Nov 2024 00:42"
   },
   {
     "title": "Tyagong Creek Road HR",
@@ -303,7 +303,7 @@
     "latitude": "-33.9995727539999",
     "longitude": "148.395690918",
     "region": "nsw",
-    "time_of_call": "14 Nov 2024 18:52:00",
+    "time_of_call": "15 Nov 2024 00:34:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -315,7 +315,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Nov 2024 18:52"
+    "updated": "15 Nov 2024 00:34"
   },
   {
     "title": "BLAKE RD, BUNNALOO",
@@ -416,7 +416,7 @@
     "latitude": "-34.108791351",
     "longitude": "145.902221679",
     "region": "nsw",
-    "time_of_call": "14 Nov 2024 15:58:00",
+    "time_of_call": "15 Nov 2024 00:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -428,7 +428,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Nov 2024 15:58"
+    "updated": "15 Nov 2024 00:43"
   },
   {
     "title": "GUNDEA RD, TOORAWEENAH",
@@ -438,7 +438,7 @@
     "latitude": "-31.5230503079999",
     "longitude": "149.026428223",
     "region": "nsw",
-    "time_of_call": "14 Nov 2024 18:13:00",
+    "time_of_call": "15 Nov 2024 00:44:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -453,7 +453,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Nov 2024 18:13"
+    "updated": "15 Nov 2024 00:44"
   },
   {
     "title": "MANNING POINT RD",
@@ -476,25 +476,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Nov 2024 22:59"
-  },
-  {
-    "title": "NEW ENGLAND HWY, BRANXTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574699",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.665019989",
-    "longitude": "151.366256713",
-    "region": "nsw",
-    "time_of_call": "14 Nov 2024 23:38:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "2109 NEW ENGLAND HWY, BRANXTON 2335",
-    "council_area": "Cessnock",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Nov 2024 23:38"
   }
 ]
