@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "16 Nov 2024 07:19:28"
+    "updated": "16 Nov 2024 07:31:44"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "16 Nov 2024 07:19:14"
+    "updated": "16 Nov 2024 07:29:55"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,31 @@
     "longitude": "149.154752",
     "region": "act",
     "time_of_call": "16 Nov 2024 07:22:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "16 Nov 2024 07:23:32"
+    "updated": "16 Nov 2024 07:33:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "069390-16112024",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "16 Nov 2024 07:34:21",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "16 Nov 2024 07:36:49"
   },
   {
     "title": "MILLEWA RD, BULLATALE",
@@ -376,5 +394,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Nov 2024 07:04"
+  },
+  {
+    "title": "BEAURY ST, URBENVILLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574829",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.47164917",
+    "longitude": "152.542877197",
+    "region": "nsw",
+    "time_of_call": "16 Nov 2024 07:31:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "URBENVILLE HOSPITAL 45 BEAURY ST, URBENVILLE 2475",
+    "council_area": "Tenterfield",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Nov 2024 07:31"
   }
 ]
