@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONASH",
-    "id": "069598-17112024",
-    "latitude": "-35.413962",
-    "longitude": "149.091126",
-    "region": "act",
-    "time_of_call": "17 Nov 2024 04:17:31",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "17 Nov 2024 05:09:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HAWKER",
     "id": "069600-17112024",
     "latitude": "-35.246757",
@@ -71,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
-    "updated": "17 Nov 2024 05:18:19"
+    "updated": "17 Nov 2024 05:46:00"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +65,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "17 Nov 2024 05:17:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "17 Nov 2024 05:27:05"
+    "updated": "17 Nov 2024 05:41:00"
   },
   {
     "title": "MILLEWA RD, BULLATALE",
@@ -586,26 +568,6 @@
     "updated": "17 Nov 2024 04:40"
   },
   {
-    "title": "FREEMANS DR, FREEMANS WATERHOLE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574931",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.9842948909999",
-    "longitude": "151.485656738",
-    "region": "nsw",
-    "time_of_call": "17 Nov 2024 04:44:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "FREEMANS DR, FREEMANS WATERHOLE 2323",
-    "council_area": "Lake Macquarie",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Nov 2024 04:44"
-  },
-  {
     "title": "APPIN RD, CATARACT",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574932",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -649,5 +611,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Nov 2024 05:23"
+  },
+  {
+    "title": "STONY POINT RD, LEETON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574934",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.501148224",
+    "longitude": "146.399734497",
+    "region": "nsw",
+    "time_of_call": "17 Nov 2024 05:38:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "STONY POINT RD, LEETON 2705",
+    "council_area": "Leeton",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Nov 2024 05:38"
   }
 ]
