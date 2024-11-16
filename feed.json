@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STROMLO",
-    "updated": "17 Nov 2024 09:39:23"
+    "updated": "17 Nov 2024 10:48:36"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "17 Nov 2024 10:33:13"
+    "updated": "17 Nov 2024 10:35:20"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PARKES",
-    "updated": "17 Nov 2024 10:33:01"
+    "updated": "17 Nov 2024 10:45:23"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "17 Nov 2024 10:28:08"
+    "updated": "17 Nov 2024 10:48:05"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +217,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "17 Nov 2024 10:33:20"
+    "updated": "17 Nov 2024 10:45:23"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +247,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "17 Nov 2024 10:22:54",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "17 Nov 2024 10:33:32"
+    "updated": "17 Nov 2024 10:45:43"
   },
   {
     "agency": "Ambulance",
@@ -265,13 +265,13 @@
     "longitude": "149.101598",
     "region": "act",
     "time_of_call": "17 Nov 2024 10:26:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "17 Nov 2024 10:32:13"
+    "updated": "17 Nov 2024 10:43:51"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +289,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "17 Nov 2024 10:33:31"
+    "updated": "17 Nov 2024 10:41:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "069633-17112024",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "17 Nov 2024 10:41:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "17 Nov 2024 10:41:49"
   },
   {
     "title": "Greenbah Road HR",
@@ -674,9 +692,9 @@
     "latitude": "-35.281860352",
     "longitude": "147.726013183",
     "region": "nsw",
-    "time_of_call": "17 Nov 2024 07:23:00",
+    "time_of_call": "17 Nov 2024 10:33:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "HUME HWY, TARCUTTA 2652",
     "council_area": "Wagga Wagga",
@@ -686,7 +704,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Nov 2024 07:23"
+    "updated": "17 Nov 2024 10:33"
   },
   {
     "title": "NULLAMANNA RD, INVERELL",
@@ -805,6 +823,50 @@
     "updated": "17 Nov 2024 10:16"
   },
   {
+    "title": "MCNEILS RD, INVERELL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574960",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.760351181",
+    "longitude": "151.047286987",
+    "region": "nsw",
+    "time_of_call": "17 Nov 2024 09:37:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "42 MCNEILS RD, INVERELL 2360",
+    "council_area": "Inverell",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Nov 2024 09:37"
+  },
+  {
+    "title": "FONTENAY LANE, MARRAR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574961",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.8936538689999",
+    "longitude": "147.30607605",
+    "region": "nsw",
+    "time_of_call": "17 Nov 2024 09:55:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "FONTENAY LANE, MARRAR 2652",
+    "council_area": "Coolamon",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "1 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Nov 2024 09:55"
+  },
+  {
     "title": "HUME HWY, TUMBLONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574962",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -867,5 +929,87 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Nov 2024 10:10"
+  },
+  {
+    "title": "X Pacific Highway, Hornsby",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574965",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.700260162",
+    "longitude": "151.088851929",
+    "region": "nsw",
+    "time_of_call": "17 Nov 2024 10:26:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "203 X Pacific Highway, Hornsby",
+    "council_area": "Hornsby",
+    "type": "Rescue Road Crash",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Nov 2024 10:26"
+  },
+  {
+    "title": "HORTSMANN CCT, JORDAN SPRINGS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574966",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.729103089",
+    "longitude": "150.722579956",
+    "region": "nsw",
+    "time_of_call": "17 Nov 2024 10:37:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "15 HORTSMANN CCT, JORDAN SPRINGS 2747",
+    "council_area": "Penrith",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Nov 2024 10:37"
+  },
+  {
+    "title": "RICHARD RD, SCOTLAND ISLAND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574968",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.641078949",
+    "longitude": "151.288192749",
+    "region": "nsw",
+    "time_of_call": "17 Nov 2024 10:38:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "62 RICHARD RD, SCOTLAND ISLAND 2105",
+    "council_area": "Northern Beaches",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Nov 2024 10:38"
+  },
+  {
+    "title": "SADDLEBACK LOOKOUT SADDLEBACK MOUNTAIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574969",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.698295593",
+    "longitude": "150.792327881",
+    "region": "nsw",
+    "time_of_call": "17 Nov 2024 10:44:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "SADDLEBACK LOOKOUT SADDLEBACK MOUNTAIN 2533",
+    "council_area": "Kiama",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Nov 2024 10:44"
   }
 ]
