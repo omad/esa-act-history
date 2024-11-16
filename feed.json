@@ -101,13 +101,13 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "16 Nov 2024 22:37:26",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "16 Nov 2024 23:27:30"
+    "updated": "17 Nov 2024 01:44:54"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +251,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "17 Nov 2024 01:26:54"
+    "updated": "17 Nov 2024 01:41:05"
   },
   {
     "agency": "Ambulance",
@@ -263,13 +263,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "17 Nov 2024 01:25:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "17 Nov 2024 01:28:58"
+    "updated": "17 Nov 2024 01:48:11"
   },
   {
     "title": "MILLEWA RD, BULLATALE",
@@ -740,5 +740,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Nov 2024 00:02"
+  },
+  {
+    "title": "BODELLS LANE, BACK CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_574926",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.869594575",
+    "longitude": "147.361984253",
+    "region": "nsw",
+    "time_of_call": "17 Nov 2024 01:36:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "BODELLS LANE, BACK CREEK 2671",
+    "council_area": "Bland",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Nov 2024 01:36"
   }
 ]
