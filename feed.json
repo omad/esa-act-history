@@ -20,26 +20,6 @@
     "updated": "18 Nov 2024 10:04:39"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "STORM OR TREE DAMAGE - CONDER",
-    "id": "016312-17112024",
-    "latitude": "-35.45235112",
-    "longitude": "149.0925370399",
-    "region": "act",
-    "time_of_call": "17 Nov 2024 19:59:55",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "STORM OR TREE DAMAGE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
-    "location": "ROUGHSEY PLACE, CONDER, 2906",
-    "updated": "18 Nov 2024 09:28:37"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -217,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "18 Nov 2024 10:14:09"
+    "updated": "18 Nov 2024 10:25:54"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +215,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "18 Nov 2024 10:22:52"
+    "updated": "18 Nov 2024 10:23:26"
   },
   {
     "agency": "Ambulance",
@@ -265,13 +245,31 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "18 Nov 2024 10:18:23",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "18 Nov 2024 10:22:41"
+    "updated": "18 Nov 2024 10:25:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "069856-18112024",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "18 Nov 2024 10:23:10",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "18 Nov 2024 10:27:14"
   },
   {
     "title": "Greenbah Road HR",
@@ -675,31 +673,6 @@
     "updated": "17 Nov 2024 19:45"
   },
   {
-    "title": "LOWES MOUNT RD, TARANA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_575050",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.5992202749999",
-    "longitude": "149.834213257",
-    "region": "nsw",
-    "time_of_call": "17 Nov 2024 22:15:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "LOWES MOUNT RD, TARANA 2787",
-    "council_area": "Oberon",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "17 Nov 2024 22:15"
-  },
-  {
     "title": "FERNDALE RD, YARRAWA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_575054",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -961,9 +934,9 @@
     "latitude": "-33.482429505",
     "longitude": "151.29675293",
     "region": "nsw",
-    "time_of_call": "18 Nov 2024 08:07:00",
+    "time_of_call": "18 Nov 2024 10:20:00",
     "event_type": "burnt area",
-    "status": "Out of control",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "WOY WOY RD, WOY WOY BAY 2256",
     "council_area": "Central Coast",
@@ -973,7 +946,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Nov 2024 08:07"
+    "updated": "18 Nov 2024 10:20"
   },
   {
     "title": "MITCHELLS RD, SACKVILLE NORTH",
@@ -1085,5 +1058,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Nov 2024 10:17"
+  },
+  {
+    "title": "BLUE LETTERBOX LANE, TULLAMORE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_575140",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.5578994749999",
+    "longitude": "147.710006713",
+    "region": "nsw",
+    "time_of_call": "18 Nov 2024 10:24:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "BLUE LETTERBOX LANE, TULLAMORE 2874",
+    "council_area": "Parkes",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Nov 2024 10:24"
+  },
+  {
+    "title": "MCCARRS CREEK RD, KU-RING-GAI CHASE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_575141",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6636123649999",
+    "longitude": "151.253494262",
+    "region": "nsw",
+    "time_of_call": "18 Nov 2024 10:27:00",
+    "event_type": "burnt area",
+    "status": "Out of control",
+    "alert_level": "Not Applicable",
+    "location": "MCCARRS CREEK RD, KU-RING-GAI CHASE 2101",
+    "council_area": "Northern Beaches",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Nov 2024 10:27"
   }
 ]
