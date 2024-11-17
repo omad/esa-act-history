@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "18 Nov 2024 05:27:20"
+    "updated": "18 Nov 2024 05:37:25"
   },
   {
     "agency": "Ambulance",
@@ -103,13 +103,31 @@
     "longitude": "149.034875",
     "region": "act",
     "time_of_call": "18 Nov 2024 05:25:07",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "18 Nov 2024 05:29:26"
+    "updated": "18 Nov 2024 05:33:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "069804-18112024",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "18 Nov 2024 05:31:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "18 Nov 2024 05:34:17"
   },
   {
     "title": "Greenbah Road HR",
@@ -495,9 +513,9 @@
     "latitude": "-34.084262848",
     "longitude": "149.143844605",
     "region": "nsw",
-    "time_of_call": "17 Nov 2024 18:33:00",
+    "time_of_call": "18 Nov 2024 05:43:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BLACKMAN ST, BIGGA 2583",
     "council_area": "Upper Lachlan",
@@ -507,7 +525,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Nov 2024 18:33"
+    "updated": "18 Nov 2024 05:43"
   },
   {
     "title": "GOORAMMA RD, GALONG",
@@ -834,27 +852,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Nov 2024 04:46"
-  },
-  {
-    "title": "OPHIR RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_575123",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.263881683",
-    "longitude": "149.134887695",
-    "region": "nsw",
-    "time_of_call": "18 Nov 2024 05:17:00",
-    "event_type": "burnt area",
-    "status": "Out of control",
-    "alert_level": "Not Applicable",
-    "location": "J R RICHARDS WASTE MANAGEMENT OPHIR RD, ORANGE 2800",
-    "council_area": "Orange",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Nov 2024 05:17"
   }
 ]
