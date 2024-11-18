@@ -9,15 +9,15 @@
     "longitude": "149.14300499",
     "region": "act",
     "time_of_call": "19 Nov 2024 05:33:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "RUBBISH FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
     "location": "LIMESTONE AVENUE, QUICK STREET, BRADDON, 2612",
-    "updated": "19 Nov 2024 05:49:33"
+    "updated": "19 Nov 2024 06:05:37"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "19 Nov 2024 05:35:35"
+    "updated": "19 Nov 2024 06:10:55"
   },
   {
     "agency": "Ambulance",
@@ -90,6 +90,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
     "updated": "19 Nov 2024 05:34:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "070045-19112024",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "19 Nov 2024 06:15:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "19 Nov 2024 06:17:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "070046-19112024",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "19 Nov 2024 06:16:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "19 Nov 2024 06:17:08"
   },
   {
     "title": "Greenbah Road HR",
@@ -844,5 +880,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Nov 2024 04:38"
+  },
+  {
+    "title": "RIFLE ST, CLARENCE TOWN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_575222",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.587558746",
+    "longitude": "151.777496338",
+    "region": "nsw",
+    "time_of_call": "19 Nov 2024 06:10:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "35 RIFLE ST, CLARENCE TOWN 2321",
+    "council_area": "Dungog",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Nov 2024 06:10"
   }
 ]
