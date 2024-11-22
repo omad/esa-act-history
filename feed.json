@@ -55,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "23 Nov 2024 10:11:42"
+    "updated": "23 Nov 2024 10:36:26"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "23 Nov 2024 10:16:04"
+    "updated": "23 Nov 2024 10:31:43"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "23 Nov 2024 09:59:10"
+    "updated": "23 Nov 2024 10:29:26"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +211,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "23 Nov 2024 10:03:41",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "23 Nov 2024 10:19:45"
+    "updated": "23 Nov 2024 10:27:37"
   },
   {
     "agency": "Ambulance",
@@ -236,6 +236,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
     "updated": "23 Nov 2024 10:20:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "071141-23112024",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "23 Nov 2024 10:35:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "23 Nov 2024 10:36:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "071142-23112024",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "23 Nov 2024 10:36:42",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "23 Nov 2024 10:36:44"
   },
   {
     "title": "BRASSY CREEK RD, BUNGARBY",
@@ -320,7 +356,7 @@
     "latitude": "-35.3488885679999",
     "longitude": "144.635921702",
     "region": "nsw",
-    "time_of_call": "22 Nov 2024 10:55:00",
+    "time_of_call": "23 Nov 2024 10:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -335,7 +371,7 @@
     "fire": "Yes",
     "size": "16 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Nov 2024 10:55"
+    "updated": "23 Nov 2024 10:21"
   },
   {
     "title": "Rd 9 Benerembah",
@@ -514,7 +550,7 @@
     "latitude": "-34.628437042",
     "longitude": "147.249404907",
     "region": "nsw",
-    "time_of_call": "22 Nov 2024 15:11:00",
+    "time_of_call": "23 Nov 2024 10:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -529,7 +565,7 @@
     "fire": "Yes",
     "size": "25 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Nov 2024 15:11"
+    "updated": "23 Nov 2024 10:27"
   },
   {
     "title": "Rocky Crossing",
@@ -1092,50 +1128,6 @@
     "updated": "23 Nov 2024 09:15"
   },
   {
-    "title": "PACIFIC HWY, PEMBROOKE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_576624",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.40158844",
-    "longitude": "152.815734863",
-    "region": "nsw",
-    "time_of_call": "23 Nov 2024 09:09:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "7909 PACIFIC HWY, PEMBROOKE 2446",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Nov 2024 09:09"
-  },
-  {
-    "title": "WALLANBAH RD, NABIAC",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_576627",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.097511292",
-    "longitude": "152.370773315",
-    "region": "nsw",
-    "time_of_call": "23 Nov 2024 09:32:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "3913 WALLANBAH RD, NABIAC 2312",
-    "council_area": "Mid-Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Nov 2024 09:32"
-  },
-  {
     "title": "BOREE RD, FORESTVILLE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_576629",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1143,17 +1135,17 @@
     "latitude": "-33.757427215",
     "longitude": "151.194839478",
     "region": "nsw",
-    "time_of_call": "23 Nov 2024 09:38:00",
+    "time_of_call": "23 Nov 2024 10:29:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BOREE RD, FORESTVILLE 2087",
     "council_area": "Northern Beaches",
     "type": "Assist Other Agency",
     "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 Nov 2024 09:38"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Nov 2024 10:29"
   },
   {
     "title": "AYLMERTON RD, AYLMERTON",
@@ -1208,9 +1200,9 @@
     "latitude": "-33.328235627",
     "longitude": "151.428573608",
     "region": "nsw",
-    "time_of_call": "23 Nov 2024 10:10:00",
+    "time_of_call": "23 Nov 2024 10:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "CHITTAWAY RD, CHITTAWAY BAY 2261",
     "council_area": "Central Coast",
@@ -1220,7 +1212,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 Nov 2024 10:10"
+    "updated": "23 Nov 2024 10:27"
   },
   {
     "title": "FREEMANS DR, COORANBONG",
@@ -1230,9 +1222,9 @@
     "latitude": "-33.0767860409999",
     "longitude": "151.453353882",
     "region": "nsw",
-    "time_of_call": "23 Nov 2024 10:11:00",
+    "time_of_call": "23 Nov 2024 10:29:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "FREEMANS DR, COORANBONG 2265",
     "council_area": "Lake Macquarie",
@@ -1242,7 +1234,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Nov 2024 10:11"
+    "updated": "23 Nov 2024 10:29"
   },
   {
     "title": "PARKES ST, TUNCURRY",
