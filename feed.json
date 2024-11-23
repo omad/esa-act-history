@@ -35,7 +35,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "NAAS ROAD, BOOTH",
-    "updated": "23 Nov 2024 18:20:07"
+    "updated": "23 Nov 2024 18:29:00"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "23 Nov 2024 18:04:34"
+    "updated": "23 Nov 2024 18:25:43"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "23 Nov 2024 18:17:41"
+    "updated": "23 Nov 2024 18:29:24"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "23 Nov 2024 18:12:38"
+    "updated": "23 Nov 2024 18:27:50"
   },
   {
     "agency": "Ambulance",
@@ -227,13 +227,13 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "23 Nov 2024 18:08:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "23 Nov 2024 18:13:17"
+    "updated": "23 Nov 2024 18:22:36"
   },
   {
     "agency": "Ambulance",
@@ -245,13 +245,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "23 Nov 2024 18:17:21",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "23 Nov 2024 18:20:45"
+    "updated": "23 Nov 2024 18:28:19"
   },
   {
     "agency": "Ambulance",
@@ -263,13 +263,49 @@
     "longitude": "149.079717",
     "region": "act",
     "time_of_call": "23 Nov 2024 18:21:19",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ARANDA",
+    "updated": "23 Nov 2024 18:26:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FISHER",
+    "id": "071231-23112024",
+    "latitude": "-35.360481",
+    "longitude": "149.058056",
+    "region": "act",
+    "time_of_call": "23 Nov 2024 18:24:01",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "ARANDA",
-    "updated": "23 Nov 2024 18:21:21"
+    "location": "FISHER",
+    "updated": "23 Nov 2024 18:30:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "071233-23112024",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "23 Nov 2024 18:24:38",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "23 Nov 2024 18:30:16"
   },
   {
     "title": "BRASSY CREEK RD, BUNGARBY",
@@ -1277,8 +1313,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_576690",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.4619007119999",
-    "longitude": "153.038803101",
+    "latitude": "-30.481639862",
+    "longitude": "153.027740479",
     "region": "nsw",
     "time_of_call": "23 Nov 2024 18:19:00",
     "event_type": "burnt area",
