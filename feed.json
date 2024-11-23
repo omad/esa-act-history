@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire - Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - CANBERRA CENTRAL",
-    "id": "016685-23112024",
-    "latitude": "-35.2746429443",
-    "longitude": "149.1064758301",
-    "region": "act",
-    "time_of_call": "23 Nov 2024 20:02:34",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "FRITH TRACK (FRITH ROAD), POWERLINES TRACK, CANBERRA CENTRAL, 0000",
-    "updated": "23 Nov 2024 20:38:57"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -35,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "23 Nov 2024 21:12:42"
+    "updated": "23 Nov 2024 21:30:37"
   },
   {
     "agency": "Ambulance",
@@ -144,6 +124,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
     "updated": "23 Nov 2024 21:20:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "071266-23112024",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "23 Nov 2024 21:29:20",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "23 Nov 2024 21:35:37"
   },
   {
     "title": "BRASSY CREEK RD, BUNGARBY",
@@ -950,7 +948,7 @@
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "CARROWBROOK RD, CARROWBROOK 2330",
+    "location": "2393 CARROWBROOK RD, CARROWBROOK 2330",
     "council_area": "Singleton",
     "type": "Bush Fire",
     "type_description": "",
@@ -1218,10 +1216,13 @@
     "latitude": "-33.726428985",
     "longitude": "151.203323364",
     "region": "nsw",
-    "time_of_call": "23 Nov 2024 21:18:00",
+    "time_of_call": "23 Nov 2024 21:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "RALSTON AV, BELROSE 2085",
     "council_area": "Northern Beaches",
     "type": "Bush Fire",
@@ -1230,6 +1231,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 Nov 2024 21:18"
+    "updated": "23 Nov 2024 21:21"
   }
 ]
