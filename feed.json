@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "25 Nov 2024 07:09:15"
+    "updated": "25 Nov 2024 07:45:02"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "25 Nov 2024 07:24:45"
+    "updated": "25 Nov 2024 07:35:16"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FYSHWICK",
-    "updated": "25 Nov 2024 07:30:29"
+    "updated": "25 Nov 2024 07:46:09"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +189,13 @@
     "longitude": "149.076954",
     "region": "act",
     "time_of_call": "25 Nov 2024 07:14:41",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "25 Nov 2024 07:21:09"
+    "updated": "25 Nov 2024 07:42:47"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +213,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "25 Nov 2024 07:27:08"
+    "updated": "25 Nov 2024 07:42:21"
   },
   {
     "agency": "Ambulance",
@@ -225,13 +225,13 @@
     "longitude": "149.088064",
     "region": "act",
     "time_of_call": "25 Nov 2024 07:24:03",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "25 Nov 2024 07:29:48"
+    "updated": "25 Nov 2024 07:44:07"
   },
   {
     "title": "Breer Hut North",
@@ -363,7 +363,7 @@
     "latitude": "-30.6965675349999",
     "longitude": "148.853027344",
     "region": "nsw",
-    "time_of_call": "24 Nov 2024 15:37:00",
+    "time_of_call": "25 Nov 2024 07:39:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -378,7 +378,7 @@
     "fire": "Yes",
     "size": "11 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "24 Nov 2024 15:37"
+    "updated": "25 Nov 2024 07:39"
   },
   {
     "title": "Godlee Lane HR",
@@ -410,7 +410,7 @@
     "latitude": "-30.6357250209999",
     "longitude": "148.775466919",
     "region": "nsw",
-    "time_of_call": "24 Nov 2024 15:36:00",
+    "time_of_call": "25 Nov 2024 07:36:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -425,7 +425,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "24 Nov 2024 15:36"
+    "updated": "25 Nov 2024 07:36"
   },
   {
     "title": "Scar HR",
@@ -980,9 +980,9 @@
     "latitude": "-29.61961937",
     "longitude": "152.884140014",
     "region": "nsw",
-    "time_of_call": "25 Nov 2024 07:19:00",
+    "time_of_call": "25 Nov 2024 07:41:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "ROGAN BRIDGE RD, THE WHITEMAN 2460",
     "council_area": "Clarence Valley",
@@ -992,7 +992,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Nov 2024 07:19"
+    "updated": "25 Nov 2024 07:41"
   },
   {
     "title": "THE BOGAN WAY, TRUNDLE",
@@ -1002,10 +1002,13 @@
     "latitude": "-32.9017524719999",
     "longitude": "147.690811157",
     "region": "nsw",
-    "time_of_call": "25 Nov 2024 07:23:00",
+    "time_of_call": "25 Nov 2024 07:37:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "7213 THE BOGAN WAY, TRUNDLE 2875",
     "council_area": "Parkes",
     "type": "Grass Fire",
@@ -1014,6 +1017,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Nov 2024 07:23"
+    "updated": "25 Nov 2024 07:37"
   }
 ]
