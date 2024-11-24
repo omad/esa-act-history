@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "25 Nov 2024 08:52:06"
+    "updated": "25 Nov 2024 09:28:48"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.111857",
     "region": "act",
     "time_of_call": "25 Nov 2024 08:41:36",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "25 Nov 2024 09:13:40"
+    "updated": "25 Nov 2024 09:31:28"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "25 Nov 2024 09:14:50"
+    "updated": "25 Nov 2024 09:23:58"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "25 Nov 2024 08:52:42",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "25 Nov 2024 09:15:14"
+    "updated": "25 Nov 2024 09:34:17"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,13 @@
     "longitude": "149.046336",
     "region": "act",
     "time_of_call": "25 Nov 2024 09:01:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "25 Nov 2024 09:16:19"
+    "updated": "25 Nov 2024 09:30:20"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,13 @@
     "longitude": "149.037677",
     "region": "act",
     "time_of_call": "25 Nov 2024 09:02:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "25 Nov 2024 09:17:59"
+    "updated": "25 Nov 2024 09:28:37"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +171,31 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "25 Nov 2024 09:11:28",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "25 Nov 2024 09:19:26"
+    "updated": "25 Nov 2024 09:29:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TORRENS",
+    "id": "071574-25112024",
+    "latitude": "-35.372705",
+    "longitude": "149.085827",
+    "region": "act",
+    "time_of_call": "25 Nov 2024 09:22:52",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TORRENS",
+    "updated": "25 Nov 2024 09:28:05"
   },
   {
     "title": "Breer Hut North",
@@ -453,7 +471,7 @@
     "latitude": "-34.38517046",
     "longitude": "143.895636112",
     "region": "nsw",
-    "time_of_call": "24 Nov 2024 16:17:00",
+    "time_of_call": "25 Nov 2024 09:06:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -466,9 +484,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "3 ha",
+    "size": "4 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "24 Nov 2024 16:17"
+    "updated": "25 Nov 2024 09:06"
   },
   {
     "title": "Toms Farm Creek",
@@ -800,28 +818,6 @@
     "updated": "25 Nov 2024 05:11"
   },
   {
-    "title": "HARRIS ST, TUMUT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_576757",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.322803498",
-    "longitude": "148.214065552",
-    "region": "nsw",
-    "time_of_call": "25 Nov 2024 05:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "29 HARRIS ST, TUMUT 2720",
-    "council_area": "Snowy Valleys",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Nov 2024 05:12"
-  },
-  {
     "title": "WAMBIANA ST, NYNGAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_576772",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -926,9 +922,9 @@
     "latitude": "-31.554857254",
     "longitude": "152.819137574",
     "region": "nsw",
-    "time_of_call": "25 Nov 2024 08:30:00",
+    "time_of_call": "25 Nov 2024 09:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "SPRING CREEK RD, LAKE CATHIE 2445",
     "council_area": "Port Macquarie-Hastings",
@@ -936,7 +932,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Nov 2024 08:30"
+    "updated": "25 Nov 2024 09:25"
   },
   {
     "title": "PICTON RD, CORDEAUX",
@@ -946,9 +942,9 @@
     "latitude": "-34.3436050409999",
     "longitude": "150.796463013",
     "region": "nsw",
-    "time_of_call": "25 Nov 2024 08:53:00",
+    "time_of_call": "25 Nov 2024 09:22:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "PICTON RD, CORDEAUX 2526",
     "council_area": "Wollongong",
@@ -956,7 +952,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Nov 2024 08:53"
+    "updated": "25 Nov 2024 09:22"
   },
   {
     "title": "WIRRUP RD, BRIBBAREE",
@@ -986,9 +982,9 @@
     "latitude": "-35.03616333",
     "longitude": "148.110214234",
     "region": "nsw",
-    "time_of_call": "25 Nov 2024 09:09:00",
+    "time_of_call": "25 Nov 2024 09:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "HUME HWY, GUNDAGAI 2722",
     "council_area": "Cootamundra-Gundagai",
@@ -996,7 +992,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Nov 2024 09:09"
+    "updated": "25 Nov 2024 09:23"
   },
   {
     "title": "NEWELL HWY, ALECTOWN",
@@ -1006,10 +1002,13 @@
     "latitude": "-32.879371643",
     "longitude": "148.228271484",
     "region": "nsw",
-    "time_of_call": "25 Nov 2024 09:12:00",
+    "time_of_call": "25 Nov 2024 09:28:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "NEWELL HWY, ALECTOWN 2870",
     "council_area": "Parkes",
     "type": "Grass Fire",
@@ -1018,6 +1017,50 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Nov 2024 09:12"
+    "updated": "25 Nov 2024 09:28"
+  },
+  {
+    "title": "GARRAWARRA CENTRE PRINCES HWY, WATERFALL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_576876",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.164970398",
+    "longitude": "150.971343994",
+    "region": "nsw",
+    "time_of_call": "25 Nov 2024 09:21:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GARRAWARRA CENTRE PRINCES HWY, WATERFALL 2233",
+    "council_area": "Wollongong",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Nov 2024 09:21"
+  },
+  {
+    "title": "HERBERT PARK RD, THALGARRAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_576877",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.434242249",
+    "longitude": "151.789993287",
+    "region": "nsw",
+    "time_of_call": "25 Nov 2024 09:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "HERBERT PARK RD, THALGARRAH 2350",
+    "council_area": "Armidale",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Nov 2024 09:30"
   }
 ]
