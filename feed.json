@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "LONG GULLY ROAD, ERINDALE DRIVE EXIT, TUGGERANONG, 0000",
-    "updated": "27 Nov 2024 08:17:56"
+    "updated": "27 Nov 2024 08:22:24"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +91,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "27 Nov 2024 08:20:36"
+    "updated": "27 Nov 2024 08:28:04"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FRASER",
-    "updated": "27 Nov 2024 07:54:45"
+    "updated": "27 Nov 2024 08:26:43"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "27 Nov 2024 08:17:59"
+    "updated": "27 Nov 2024 08:31:16"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +139,13 @@
     "longitude": "149.118589",
     "region": "act",
     "time_of_call": "27 Nov 2024 08:20:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "27 Nov 2024 08:21:32"
+    "updated": "27 Nov 2024 08:31:03"
   },
   {
     "title": "Warialda Golf Course HR",
@@ -649,31 +649,6 @@
     "updated": "26 Nov 2024 22:46"
   },
   {
-    "title": "NEWELL HWY, PARKES",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577029",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.8232672905",
-    "longitude": "148.025137742",
-    "region": "nsw",
-    "time_of_call": "26 Nov 2024 22:44:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "NEWELL HWY, PARKES 2870",
-    "council_area": "Parkes",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "5 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Nov 2024 22:44"
-  },
-  {
     "title": "HANCOCKS CREEK RD, WANDANDIAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577030",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -796,26 +771,6 @@
     "updated": "27 Nov 2024 07:35"
   },
   {
-    "title": "SKYLINE PL, BONNY HILLS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577117",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.598884582",
-    "longitude": "152.841415405",
-    "region": "nsw",
-    "time_of_call": "27 Nov 2024 07:53:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "22 SKYLINE PL, BONNY HILLS 2445",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Nov 2024 07:53"
-  },
-  {
     "title": "WALKER ST, HELENSBURGH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577118",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -836,5 +791,49 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "27 Nov 2024 08:19"
+  },
+  {
+    "title": "PARKE ST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577119",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.714126587",
+    "longitude": "150.310256958",
+    "region": "nsw",
+    "time_of_call": "27 Nov 2024 08:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "COLES & BM CULTURAL CTR 30-34 PARKE ST, KATOOMBA 2780",
+    "council_area": "Blue Mountains",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "27 Nov 2024 08:29"
+  },
+  {
+    "title": "NEW ENGLAND HWY, MURRURUNDI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577121",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.756620407",
+    "longitude": "150.818771363",
+    "region": "nsw",
+    "time_of_call": "27 Nov 2024 08:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "NEW ENGLAND HWY, MURRURUNDI 2338",
+    "council_area": "Upper Hunter",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Nov 2024 08:32"
   }
 ]
