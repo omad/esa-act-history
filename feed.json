@@ -9,33 +9,15 @@
     "longitude": "149.1420627699",
     "region": "act",
     "time_of_call": "27 Nov 2024 23:44:22",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "GAS PIPELINE INCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/pipe-fire_0.svg",
     "location": "CHRISTINA STEAD STREET, FRANKLIN, 2913",
-    "updated": "27 Nov 2024 23:49:33"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "072276-27112024",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "27 Nov 2024 23:03:17",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "27 Nov 2024 23:44:40"
+    "updated": "28 Nov 2024 00:27:44"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "27 Nov 2024 23:26:05"
+    "updated": "28 Nov 2024 00:04:21"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +55,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "PERCY BEGG CIRCUIT, KERRIGAN STREET, DUNLOP, 2615",
-    "updated": "27 Nov 2024 23:46:50"
+    "updated": "27 Nov 2024 23:59:44"
   },
   {
     "agency": "Ambulance",
@@ -121,13 +103,67 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "27 Nov 2024 23:38:54",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "27 Nov 2024 23:51:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "072283-27112024",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "27 Nov 2024 23:50:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "27 Nov 2024 23:56:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FADDEN",
+    "id": "072284-27112024",
+    "latitude": "-35.402396",
+    "longitude": "149.118589",
+    "region": "act",
+    "time_of_call": "27 Nov 2024 23:59:07",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FADDEN",
+    "updated": ""
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AMAROO",
+    "id": "072285-28112024",
+    "latitude": "-35.172039",
+    "longitude": "149.129625",
+    "region": "act",
+    "time_of_call": "28 Nov 2024 00:19:35",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "27 Nov 2024 23:48:42"
+    "location": "AMAROO",
+    "updated": "28 Nov 2024 00:28:05"
   },
   {
     "title": "Breer Hut North",
@@ -766,5 +802,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Nov 2024 22:38"
+  },
+  {
+    "title": "SPENSER ST, ILUKA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577209",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.404560089",
+    "longitude": "153.350158691",
+    "region": "nsw",
+    "time_of_call": "28 Nov 2024 00:10:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "UNIT 2/33 SPENSER ST, ILUKA 2466",
+    "council_area": "Clarence Valley",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Nov 2024 00:10"
   }
 ]
