@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "28 Nov 2024 09:52:25"
+    "updated": "28 Nov 2024 10:39:05"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +235,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "28 Nov 2024 10:33:44"
+    "updated": "28 Nov 2024 10:48:29"
   },
   {
     "agency": "Ambulance",
@@ -290,6 +290,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
     "updated": "28 Nov 2024 10:27:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PARKES",
+    "id": "072367-28112024",
+    "latitude": "-35.297058",
+    "longitude": "149.134319",
+    "region": "act",
+    "time_of_call": "28 Nov 2024 10:43:17",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PARKES",
+    "updated": "28 Nov 2024 10:48:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "072368-28112024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "28 Nov 2024 10:45:18",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "28 Nov 2024 10:48:35"
   },
   {
     "title": "Breer Hut North",
@@ -837,28 +873,6 @@
     "updated": "28 Nov 2024 09:53"
   },
   {
-    "title": "PORCUPINE LANE, TINTINHULL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577223",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.071308137",
-    "longitude": "151.009307862",
-    "region": "nsw",
-    "time_of_call": "28 Nov 2024 08:10:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "264 PORCUPINE LANE, TINTINHULL 2352",
-    "council_area": "Tamworth",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Nov 2024 08:10"
-  },
-  {
     "title": "Dumaresq Dam Rd HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577228",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -921,5 +935,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Nov 2024 10:04"
+  },
+  {
+    "title": "QUEENS LANE, ILUKA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577235",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.4106674189999",
+    "longitude": "153.353118896",
+    "region": "nsw",
+    "time_of_call": "28 Nov 2024 10:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "58 QUEENS LANE, ILUKA 2466",
+    "council_area": "Clarence Valley",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Nov 2024 10:37"
   }
 ]
