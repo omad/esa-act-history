@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "072286-28112024",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "28 Nov 2024 00:36:11",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "28 Nov 2024 01:53:04"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GIRALANG",
     "id": "072288-28112024",
     "latitude": "-35.210049",
@@ -63,13 +45,13 @@
     "longitude": "149.064271",
     "region": "act",
     "time_of_call": "28 Nov 2024 00:55:14",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "28 Nov 2024 02:16:18"
+    "updated": "28 Nov 2024 02:27:28"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "28 Nov 2024 01:59:09"
+    "updated": "28 Nov 2024 02:39:19"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +105,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "28 Nov 2024 02:21:35"
+    "updated": "28 Nov 2024 02:48:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "072300-28112024",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "28 Nov 2024 02:26:05",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "28 Nov 2024 02:35:14"
   },
   {
     "title": "Breer Hut North",
@@ -742,25 +742,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Nov 2024 20:31"
-  },
-  {
-    "title": "WARDROP VALLEY RD, WARDROP VALLEY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577212",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.359573364",
-    "longitude": "153.43611145",
-    "region": "nsw",
-    "time_of_call": "28 Nov 2024 02:24:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "479 WARDROP VALLEY RD, WARDROP VALLEY 2484",
-    "council_area": "Tweed",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Nov 2024 02:24"
   }
 ]
