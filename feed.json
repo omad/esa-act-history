@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "29 Nov 2024 07:32:22"
+    "updated": "29 Nov 2024 08:10:35"
   },
   {
     "agency": "Ambulance",
@@ -34,24 +34,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'MALLEY",
     "updated": "29 Nov 2024 07:42:30"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FRASER",
-    "id": "072638-29112024",
-    "latitude": "-35.189989",
-    "longitude": "149.043755",
-    "region": "act",
-    "time_of_call": "29 Nov 2024 06:15:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FRASER",
-    "updated": "29 Nov 2024 07:41:41"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +81,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "29 Nov 2024 07:28:19",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "29 Nov 2024 07:33:48"
+    "updated": "29 Nov 2024 08:15:59"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +105,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "29 Nov 2024 07:42:36"
+    "updated": "29 Nov 2024 07:51:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "072649-29112024",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "29 Nov 2024 07:55:57",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "29 Nov 2024 08:01:29"
   },
   {
     "title": "Breer Hut North",
@@ -467,31 +467,6 @@
     "updated": "29 Nov 2024 00:45"
   },
   {
-    "title": "Collombatti 16/1",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577145",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.93381691",
-    "longitude": "152.718780518",
-    "region": "nsw",
-    "time_of_call": "28 Nov 2024 09:40:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "CPT 16-2 TRL, COLLOMBATTI 2440",
-    "council_area": "Kempsey",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "28 Nov 2024 09:40"
-  },
-  {
     "title": "PRIORY PDE, VALLA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577158",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -787,25 +762,25 @@
     "updated": "29 Nov 2024 02:45"
   },
   {
-    "title": "FONTANA DR, BOX HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577354",
+    "title": "THE PARK DR, SANCTUARY POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577355",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.6389884939999",
-    "longitude": "150.904403687",
+    "latitude": "-35.096019745",
+    "longitude": "150.638183594",
     "region": "nsw",
-    "time_of_call": "29 Nov 2024 07:10:00",
+    "time_of_call": "29 Nov 2024 07:59:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "FONTANA DR, BOX HILL 2765",
-    "council_area": "The Hills",
-    "type": "MVA/Transport",
+    "location": "351 THE PARK DR, SANCTUARY POINT 2540",
+    "council_area": "Shoalhaven",
+    "type": "Fire Alarm",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Nov 2024 07:10"
+    "updated": "29 Nov 2024 07:59"
   }
 ]
