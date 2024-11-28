@@ -1,6 +1,6 @@
 [
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - DICKSON",
@@ -47,13 +47,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "28 Nov 2024 22:20:53",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "29 Nov 2024 03:49:27"
+    "updated": "29 Nov 2024 04:02:07"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,13 @@
     "longitude": "149.031217",
     "region": "act",
     "time_of_call": "28 Nov 2024 23:02:01",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "29 Nov 2024 01:53:36"
+    "updated": "29 Nov 2024 04:20:39"
   },
   {
     "agency": "Ambulance",
@@ -167,24 +167,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "072611-29112024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "29 Nov 2024 02:35:43",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "29 Nov 2024 02:46:33"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - THEODORE",
     "id": "072613-29112024",
     "latitude": "-35.449632",
@@ -215,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "29 Nov 2024 03:41:05"
+    "updated": "29 Nov 2024 04:00:48"
   },
   {
     "agency": "Ambulance",
@@ -227,13 +209,13 @@
     "longitude": "148.98074",
     "region": "act",
     "time_of_call": "29 Nov 2024 03:49:02",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "29 Nov 2024 03:52:25"
+    "updated": "29 Nov 2024 03:57:09"
   },
   {
     "title": "Breer Hut North",
@@ -939,5 +921,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 Nov 2024 03:28"
+  },
+  {
+    "title": "ILLAWARRA HWY, MACQUARIE PASS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577350",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.567619323",
+    "longitude": "150.668670654",
+    "region": "nsw",
+    "time_of_call": "29 Nov 2024 04:14:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ILLAWARRA HWY, MACQUARIE PASS 2577",
+    "council_area": "Shellharbour",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Nov 2024 04:14"
+  },
+  {
+    "title": "BURRAGA AV, TERREY HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577351",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6776962279999",
+    "longitude": "151.224014282",
+    "region": "nsw",
+    "time_of_call": "29 Nov 2024 04:15:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "12 BURRAGA AV, TERREY HILLS 2084",
+    "council_area": "Northern Beaches",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Nov 2024 04:15"
   }
 ]
