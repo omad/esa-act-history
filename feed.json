@@ -117,13 +117,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "29 Nov 2024 00:06:09",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "29 Nov 2024 01:22:29"
+    "updated": ""
   },
   {
     "agency": "Ambulance",
@@ -147,24 +147,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUFFY",
-    "id": "072594-29112024",
-    "latitude": "-35.336273",
-    "longitude": "149.031217",
-    "region": "act",
-    "time_of_call": "29 Nov 2024 00:15:01",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DUFFY",
-    "updated": "29 Nov 2024 00:51:58"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CITY",
     "id": "072595-29112024",
     "latitude": "-35.282068",
@@ -177,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "29 Nov 2024 01:06:40"
+    "updated": "29 Nov 2024 01:25:04"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +195,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "29 Nov 2024 01:16:55"
+    "updated": "29 Nov 2024 01:25:45"
   },
   {
     "agency": "Ambulance",
@@ -250,6 +232,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
     "updated": "29 Nov 2024 01:01:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
+    "id": "072602-29112024",
+    "latitude": "-35.333366",
+    "longitude": "149.146674",
+    "region": "act",
+    "time_of_call": "29 Nov 2024 01:28:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NARRABUNDAH",
+    "updated": "29 Nov 2024 01:38:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "072603-29112024",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "29 Nov 2024 01:39:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "29 Nov 2024 01:39:52"
   },
   {
     "title": "Breer Hut North",
@@ -888,28 +906,25 @@
     "updated": "28 Nov 2024 22:26"
   },
   {
-    "title": "Mudford St, Taree",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577329",
+    "title": "MENANGLE RD, MENANGLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577345",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.891827",
-    "longitude": "152.460537",
+    "latitude": "-34.1328887939999",
+    "longitude": "150.738082885",
     "region": "nsw",
-    "time_of_call": "28 Nov 2024 20:28:00",
+    "time_of_call": "29 Nov 2024 01:36:00",
     "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Mudford St, Taree, NSW 2430",
-    "council_area": "Mid-Coast",
-    "type": "Grass Fire",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "153 MENANGLE RD, MENANGLE 2568",
+    "council_area": "Wollondilly",
+    "type": "Fire Alarm",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "28 Nov 2024 20:28"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Nov 2024 01:36"
   }
 ]
