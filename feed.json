@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "30 Nov 2024 07:00:47"
+    "updated": "30 Nov 2024 07:37:06"
   },
   {
     "agency": "Ambulance",
@@ -34,6 +34,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
     "updated": "30 Nov 2024 06:49:41"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
+    "id": "072882-30112024",
+    "latitude": "-35.425091",
+    "longitude": "149.088064",
+    "region": "act",
+    "time_of_call": "30 Nov 2024 07:35:46",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "30 Nov 2024 07:36:59"
   },
   {
     "title": "Breer Hut North",
@@ -259,5 +277,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Nov 2024 06:01"
+  },
+  {
+    "title": "SANDY CREEK RD, QUORROBOLONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577452",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.9232482909999",
+    "longitude": "151.36958313",
+    "region": "nsw",
+    "time_of_call": "30 Nov 2024 07:20:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "SANDY CREEK RD, QUORROBOLONG 2325",
+    "council_area": "Cessnock",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Nov 2024 07:20"
+  },
+  {
+    "title": "BROBENAH RD, LEETON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577453",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.541175843",
+    "longitude": "146.407836914",
+    "region": "nsw",
+    "time_of_call": "30 Nov 2024 07:28:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ASSUMPTION VILLAGE 84 BROBENAH RD, LEETON 2705",
+    "council_area": "Leeton",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "30 Nov 2024 07:28"
   }
 ]
