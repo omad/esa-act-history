@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CALWELL",
-    "id": "073203-01122024",
-    "latitude": "-35.441132",
-    "longitude": "149.107648",
-    "region": "act",
-    "time_of_call": "01 Dec 2024 17:37:11",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CALWELL",
-    "updated": "01 Dec 2024 18:45:55"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PAGE",
     "id": "073204-01122024",
     "latitude": "-35.238051",
@@ -72,24 +54,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
     "updated": "01 Dec 2024 19:04:03"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - STIRLING",
-    "id": "073207-01122024",
-    "latitude": "-35.351472",
-    "longitude": "149.046603",
-    "region": "act",
-    "time_of_call": "01 Dec 2024 18:03:06",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "STIRLING",
-    "updated": "01 Dec 2024 19:00:07"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +137,13 @@
     "longitude": "149.101598",
     "region": "act",
     "time_of_call": "01 Dec 2024 18:31:31",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "01 Dec 2024 19:09:33"
+    "updated": "01 Dec 2024 19:42:59"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +161,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "01 Dec 2024 19:17:36"
+    "updated": "01 Dec 2024 19:36:28"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "01 Dec 2024 19:26:53"
+    "updated": "01 Dec 2024 19:38:02"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +215,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "01 Dec 2024 19:01:41"
+    "updated": "01 Dec 2024 19:40:57"
   },
   {
     "agency": "Ambulance",
@@ -269,7 +233,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "01 Dec 2024 19:08:00"
+    "updated": "01 Dec 2024 19:47:45"
   },
   {
     "agency": "Ambulance",
@@ -305,7 +269,61 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "01 Dec 2024 19:28:08"
+    "updated": "01 Dec 2024 19:38:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "073227-01122024",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "01 Dec 2024 19:30:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "01 Dec 2024 19:34:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "073228-01122024",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "01 Dec 2024 19:31:20",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PALMERSTON",
+    "updated": "01 Dec 2024 19:40:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "073229-01122024",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "01 Dec 2024 19:33:10",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "01 Dec 2024 19:48:14"
   },
   {
     "title": "North Stallion Swamp",
@@ -434,7 +452,7 @@
     "latitude": "-33.567726136",
     "longitude": "151.076583862",
     "region": "nsw",
-    "time_of_call": "01 Dec 2024 16:51:00",
+    "time_of_call": "01 Dec 2024 17:51:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -444,7 +462,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2024 16:51"
+    "updated": "1 Dec 2024 17:51"
   },
   {
     "title": "VISION VALLEY RD",
@@ -498,9 +516,9 @@
     "latitude": "-37.066501617",
     "longitude": "149.877609253",
     "region": "nsw",
-    "time_of_call": "01 Dec 2024 19:22:00",
+    "time_of_call": "01 Dec 2024 19:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "ST AUDRIES 47 NETHERCOTE RD, EDEN 2551",
     "council_area": "Bega Valley",
@@ -510,6 +528,53 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2024 19:22"
+    "updated": "1 Dec 2024 19:40"
+  },
+  {
+    "title": "ILETT ST, MOLLYMOOK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577631",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.3403816219999",
+    "longitude": "150.464111328",
+    "region": "nsw",
+    "time_of_call": "01 Dec 2024 19:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ARCARE AGED CARE 25 ILETT ST, MOLLYMOOK 2539",
+    "council_area": "Shoalhaven",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "1 Dec 2024 19:36"
+  },
+  {
+    "title": "Golf Av, Mona Vale",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577632",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6787689999999",
+    "longitude": "151.308751",
+    "region": "nsw",
+    "time_of_call": "01 Dec 2024 19:48:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Golf Av, Mona Vale, NSW 2103",
+    "council_area": "Northern Beaches",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "1 Dec 2024 19:48"
   }
 ]
