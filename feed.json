@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DOWNER",
-    "id": "073423-02122024",
-    "latitude": "-35.245131",
-    "longitude": "149.143546",
-    "region": "act",
-    "time_of_call": "02 Dec 2024 20:24:19",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DOWNER",
-    "updated": "02 Dec 2024 21:40:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CAMPBELL",
     "id": "073428-02122024",
     "latitude": "-35.288663",
@@ -107,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "02 Dec 2024 22:06:14"
+    "updated": "02 Dec 2024 22:29:04"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "02 Dec 2024 22:03:53"
+    "updated": "02 Dec 2024 22:28:33"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "02 Dec 2024 21:51:58"
+    "updated": "02 Dec 2024 22:27:21"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "02 Dec 2024 22:08:06"
+    "updated": "02 Dec 2024 22:23:55"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +155,13 @@
     "longitude": "149.100249",
     "region": "act",
     "time_of_call": "02 Dec 2024 21:53:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "02 Dec 2024 22:13:41"
+    "updated": "02 Dec 2024 22:25:20"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,31 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "02 Dec 2024 22:14:54",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "02 Dec 2024 22:19:46"
+    "updated": "02 Dec 2024 22:24:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HIGGINS",
+    "id": "073439-02122024",
+    "latitude": "-35.230526",
+    "longitude": "149.025052",
+    "region": "act",
+    "time_of_call": "02 Dec 2024 22:24:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "02 Dec 2024 22:28:45"
   },
   {
     "title": "Toms Farm Creek",
@@ -360,48 +360,6 @@
     "updated": "2 Dec 2024 21:12"
   },
   {
-    "title": "YUMBOOL CL, FORRESTERS BEACH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577730",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.407005311",
-    "longitude": "151.469802856",
-    "region": "nsw",
-    "time_of_call": "02 Dec 2024 22:04:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "3 YUMBOOL CL, FORRESTERS BEACH 2260",
-    "council_area": "Central Coast",
-    "type": "Truck Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "2 Dec 2024 22:04"
-  },
-  {
-    "title": "GOONENGERRY RD, GOONENGERRY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577731",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.5921287529999",
-    "longitude": "153.440582276",
-    "region": "nsw",
-    "time_of_call": "02 Dec 2024 21:40:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "GOONENGERRY RD, GOONENGERRY 2482",
-    "council_area": "Byron",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Dec 2024 21:40"
-  },
-  {
     "title": "BUSHELLS RIDGE RD, BUSHELLS RIDGE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577732",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -409,9 +367,9 @@
     "latitude": "-33.1899032599999",
     "longitude": "151.486831665",
     "region": "nsw",
-    "time_of_call": "02 Dec 2024 22:17:00",
+    "time_of_call": "02 Dec 2024 22:18:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "555 BUSHELLS RIDGE RD, BUSHELLS RIDGE 2259",
     "council_area": "Central Coast",
@@ -421,6 +379,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Dec 2024 22:17"
+    "updated": "2 Dec 2024 22:18"
+  },
+  {
+    "title": "LAWRENCE HARGRAVE DR, STANWELL TOPS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577733",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.2203063969999",
+    "longitude": "150.984176636",
+    "region": "nsw",
+    "time_of_call": "02 Dec 2024 22:20:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "LAWRENCE HARGRAVE DR, STANWELL TOPS 2508",
+    "council_area": "Wollongong",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Dec 2024 22:20"
   }
 ]
