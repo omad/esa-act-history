@@ -1,6 +1,6 @@
 [
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "STRUCTURE FIRE - PHILLIP",
@@ -9,15 +9,15 @@
     "longitude": "149.0862497",
     "region": "act",
     "time_of_call": "02 Dec 2024 20:26:49",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STRUCTURE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "IVY APARTMENTS, IRVING STREET, SPOERING STREET, PHILLIP, 2606",
-    "updated": "02 Dec 2024 21:27:23"
+    "updated": "02 Dec 2024 21:49:12"
   },
   {
     "agency": "Ambulance",
@@ -35,7 +35,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "02 Dec 2024 21:10:59"
+    "updated": "02 Dec 2024 21:48:33"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "02 Dec 2024 21:27:56"
+    "updated": "02 Dec 2024 21:40:40"
   },
   {
     "agency": "Ambulance",
@@ -71,25 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "02 Dec 2024 21:24:59"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "073426-02122024",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
-    "region": "act",
-    "time_of_call": "02 Dec 2024 20:50:54",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "02 Dec 2024 21:01:14"
+    "updated": "02 Dec 2024 21:45:53"
   },
   {
     "agency": "Ambulance",
@@ -144,6 +126,78 @@
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
     "updated": "02 Dec 2024 21:27:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "073431-02122024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "02 Dec 2024 21:31:34",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "02 Dec 2024 21:43:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AMAROO",
+    "id": "073432-02122024",
+    "latitude": "-35.172039",
+    "longitude": "149.129625",
+    "region": "act",
+    "time_of_call": "02 Dec 2024 21:32:28",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AMAROO",
+    "updated": "02 Dec 2024 21:43:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACQUARIE",
+    "id": "073433-02122024",
+    "latitude": "-35.249901",
+    "longitude": "149.061171",
+    "region": "act",
+    "time_of_call": "02 Dec 2024 21:33:26",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACQUARIE",
+    "updated": "02 Dec 2024 21:41:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "073434-02122024",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "02 Dec 2024 21:43:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "02 Dec 2024 21:48:31"
   },
   {
     "title": "Toms Farm Creek",
@@ -284,26 +338,6 @@
     "updated": "2 Dec 2024 20:25"
   },
   {
-    "title": "CROSS ST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577726",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.8835716249999",
-    "longitude": "150.790237426",
-    "region": "nsw",
-    "time_of_call": "02 Dec 2024 20:29:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "KEMPS CREEK PUBLIC SCHOOL 100 CROSS ST, KEMPS CREEK 2178",
-    "council_area": "Liverpool",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Dec 2024 20:29"
-  },
-  {
     "title": "MENDOORAN RD, DUBBO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577728",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -324,5 +358,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Dec 2024 21:12"
+  },
+  {
+    "title": "Swords Pl, Mount Druitt",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577729",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.771941",
+    "longitude": "150.810445",
+    "region": "nsw",
+    "time_of_call": "02 Dec 2024 21:42:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "9 Swords Pl, Mount Druitt, NSW 2770",
+    "council_area": "Blacktown",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "2 Dec 2024 21:42"
   }
 ]
