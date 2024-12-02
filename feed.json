@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "02 Dec 2024 16:01:55"
+    "updated": "02 Dec 2024 16:47:40"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "02 Dec 2024 16:17:37"
+    "updated": "02 Dec 2024 16:31:56"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,13 @@
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "02 Dec 2024 15:53:38",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "02 Dec 2024 16:07:23"
+    "updated": "02 Dec 2024 16:29:18"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,31 @@
     "longitude": "149.143165",
     "region": "act",
     "time_of_call": "02 Dec 2024 16:19:25",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "02 Dec 2024 16:25:50"
+    "updated": "02 Dec 2024 16:41:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "073387-02122024",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "02 Dec 2024 16:30:51",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "02 Dec 2024 16:48:34"
   },
   {
     "title": "Toms Farm Creek",
@@ -207,31 +225,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Dec 2024 00:05"
-  },
-  {
-    "title": "SELEMS RD, CONDOBOLIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577578",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.198835941",
-    "longitude": "147.178795338",
-    "region": "nsw",
-    "time_of_call": "02 Dec 2024 00:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "STRATFORD 508 SELEMS RD, CONDOBOLIN 2877",
-    "council_area": "Lachlan",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "2 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Dec 2024 00:07"
   },
   {
     "title": "BURKES CREEK RD, THE ROCK",
@@ -428,5 +421,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Dec 2024 16:20"
+  },
+  {
+    "title": "PACIFIC HWY, CLOTHIERS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577702",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.330112458",
+    "longitude": "153.519836426",
+    "region": "nsw",
+    "time_of_call": "02 Dec 2024 16:40:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, CLOTHIERS CREEK 2484",
+    "council_area": "Tweed",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Dec 2024 16:40"
   }
 ]
