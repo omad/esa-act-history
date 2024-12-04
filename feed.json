@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "05 Dec 2024 07:00:19"
+    "updated": "05 Dec 2024 07:33:09"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "05 Dec 2024 07:24:21"
+    "updated": "05 Dec 2024 07:40:27"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "05 Dec 2024 07:24:03"
+    "updated": "05 Dec 2024 07:29:51"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "05 Dec 2024 07:19:21"
+    "updated": "05 Dec 2024 07:35:34"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +119,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "05 Dec 2024 06:37:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "05 Dec 2024 07:14:07"
+    "updated": "05 Dec 2024 07:39:48"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,13 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "05 Dec 2024 07:00:02",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "05 Dec 2024 07:03:50"
+    "updated": "05 Dec 2024 07:45:46"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,85 @@
     "longitude": "149.031217",
     "region": "act",
     "time_of_call": "05 Dec 2024 07:25:39",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUFFY",
+    "updated": "05 Dec 2024 07:41:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "073980-05122024",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "05 Dec 2024 07:33:08",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "DUFFY",
-    "updated": "05 Dec 2024 07:26:43"
+    "location": "CALWELL",
+    "updated": "05 Dec 2024 07:37:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLOREY",
+    "id": "073981-05122024",
+    "latitude": "-35.224909",
+    "longitude": "149.053511",
+    "region": "act",
+    "time_of_call": "05 Dec 2024 07:35:35",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLOREY",
+    "updated": "05 Dec 2024 07:39:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DOWNER",
+    "id": "073982-05122024",
+    "latitude": "-35.245131",
+    "longitude": "149.143546",
+    "region": "act",
+    "time_of_call": "05 Dec 2024 07:35:51",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DOWNER",
+    "updated": "05 Dec 2024 07:38:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "073983-05122024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "05 Dec 2024 07:46:03",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "05 Dec 2024 07:48:24"
   },
   {
     "title": "Toms Farm Creek",
@@ -340,25 +412,43 @@
     "updated": "5 Dec 2024 05:54"
   },
   {
-    "title": "MENANGLE RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577917",
+    "title": "NEWELL HWY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577918",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.132896424",
-    "longitude": "150.738082885",
+    "latitude": "-28.594474793",
+    "longitude": "150.358306885",
     "region": "nsw",
-    "time_of_call": "05 Dec 2024 07:01:00",
+    "time_of_call": "05 Dec 2024 07:27:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "DURHAM GREEN AGED CARE 153 MENANGLE RD, MENANGLE 2568",
-    "council_area": "Wollondilly",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "location": "ELANBE CARAVAN PARK 33570 NEWELL HWY, BOGGABILLA 2409",
+    "council_area": "Moree Plains",
+    "type": "Medical",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Dec 2024 07:01"
+    "updated": "5 Dec 2024 07:27"
+  },
+  {
+    "title": "GLEN MARTIN RD, GLEN MARTIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577919",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.567337036",
+    "longitude": "151.81401062",
+    "region": "nsw",
+    "time_of_call": "05 Dec 2024 07:45:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GELSTON 250 GLEN MARTIN RD, GLEN MARTIN 2321",
+    "council_area": "Dungog",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Dec 2024 07:45"
   }
 ]
