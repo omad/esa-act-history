@@ -20,7 +20,7 @@
     "updated": "06 Dec 2024 07:50:35"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "STRUCTURE FIRE - LYNEHAM",
@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "HAMBLEDON COURT, FERNYHOUGH CRESCENT, LYNEHAM, 2602",
-    "updated": "06 Dec 2024 08:32:56"
+    "updated": "06 Dec 2024 08:40:32"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "06 Dec 2024 08:27:28"
+    "updated": "06 Dec 2024 08:46:59"
   },
   {
     "agency": "Ambulance",
@@ -103,13 +103,13 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "06 Dec 2024 07:12:37",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "06 Dec 2024 08:00:03"
+    "updated": "06 Dec 2024 08:43:25"
   },
   {
     "agency": "Ambulance",
@@ -151,24 +151,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
-    "id": "074223-06122024",
-    "latitude": "-35.184984",
-    "longitude": "149.135062",
-    "region": "act",
-    "time_of_call": "06 Dec 2024 07:15:59",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GUNGAHLIN",
-    "updated": "06 Dec 2024 07:54:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - NICHOLLS",
     "id": "074224-06122024",
     "latitude": "-35.186387",
@@ -193,13 +175,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "06 Dec 2024 07:26:36",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "06 Dec 2024 07:34:40"
+    "updated": "06 Dec 2024 08:47:30"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "06 Dec 2024 08:13:45"
+    "updated": "06 Dec 2024 08:47:19"
   },
   {
     "agency": "Ambulance",
@@ -556,5 +538,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Dec 2024 07:51"
+  },
+  {
+    "title": "BRINGELLY RD, LEPPINGTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578004",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.949150086",
+    "longitude": "150.797485352",
+    "region": "nsw",
+    "time_of_call": "06 Dec 2024 08:19:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BRINGELLY RD, LEPPINGTON 2179",
+    "council_area": "Camden",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Dec 2024 08:19"
+  },
+  {
+    "title": "Barrabooka St, Clontarf",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578006",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.812012",
+    "longitude": "151.261469",
+    "region": "nsw",
+    "time_of_call": "06 Dec 2024 08:38:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Barrabooka St, Clontarf, NSW 2093",
+    "council_area": "Northern Beaches",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "6 Dec 2024 08:38"
   }
 ]
