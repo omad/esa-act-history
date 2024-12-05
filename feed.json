@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "06 Dec 2024 01:23:38"
+    "updated": "06 Dec 2024 01:45:29"
   },
   {
     "agency": "Ambulance",
@@ -52,6 +52,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
     "updated": "06 Dec 2024 01:30:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "074192-06122024",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "06 Dec 2024 01:45:33",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "06 Dec 2024 01:48:53"
   },
   {
     "title": "Toms Farm Creek",
@@ -297,5 +315,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Dec 2024 20:47"
+  },
+  {
+    "title": "MEMORIAL RD, CURLWAA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577987",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.097019196",
+    "longitude": "141.974853516",
+    "region": "nsw",
+    "time_of_call": "06 Dec 2024 01:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "60 MEMORIAL RD, CURLWAA 2648",
+    "council_area": "Wentworth",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Dec 2024 01:39"
+  },
+  {
+    "title": "MACLEAY ST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577988",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.037090302",
+    "longitude": "152.870223999",
+    "region": "nsw",
+    "time_of_call": "06 Dec 2024 01:40:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MACLEAY VALLEY HOUSE N H 80-114 MACLEAY ST, FREDERICKTON 2440",
+    "council_area": "Kempsey",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "6 Dec 2024 01:40"
   }
 ]
