@@ -89,15 +89,15 @@
     "longitude": "149.0505196299",
     "region": "act",
     "time_of_call": "07 Dec 2024 09:59:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "221A NAMATJIRA DRIVE, FISHER, 2611",
-    "updated": "07 Dec 2024 10:10:42"
+    "updated": "07 Dec 2024 10:26:08"
   },
   {
     "agency": "Fire",
@@ -118,24 +118,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "SOLLYA PLACE, RIVETT, 2611",
     "updated": "07 Dec 2024 10:02:45"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - O'MALLEY",
-    "id": "074455-07122024",
-    "latitude": "-35.351388",
-    "longitude": "149.111757",
-    "region": "act",
-    "time_of_call": "07 Dec 2024 08:25:20",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "O'MALLEY",
-    "updated": "07 Dec 2024 09:11:31"
   },
   {
     "agency": "Ambulance",
@@ -237,13 +219,13 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "07 Dec 2024 10:03:15",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "07 Dec 2024 10:16:49"
+    "updated": "07 Dec 2024 10:32:57"
   },
   {
     "agency": "Ambulance",
@@ -261,7 +243,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "07 Dec 2024 10:14:24"
+    "updated": "07 Dec 2024 10:29:40"
   },
   {
     "agency": "Ambulance",
@@ -315,7 +297,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "07 Dec 2024 10:22:51"
+    "updated": "07 Dec 2024 10:27:04"
   },
   {
     "agency": "Ambulance",
@@ -327,13 +309,13 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "07 Dec 2024 10:19:16",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "07 Dec 2024 10:22:43"
+    "updated": "07 Dec 2024 10:24:04"
   },
   {
     "agency": "Ambulance",
@@ -345,13 +327,67 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "07 Dec 2024 10:21:15",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "07 Dec 2024 10:34:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "074477-07122024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "07 Dec 2024 10:23:29",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "07 Dec 2024 10:30:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISAACS",
+    "id": "074478-07122024",
+    "latitude": "-35.36866",
+    "longitude": "149.117192",
+    "region": "act",
+    "time_of_call": "07 Dec 2024 10:23:42",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISAACS",
+    "updated": "07 Dec 2024 10:31:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "074479-07122024",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "07 Dec 2024 10:28:27",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "07 Dec 2024 10:22:36"
+    "location": "PALMERSTON",
+    "updated": "07 Dec 2024 10:31:41"
   },
   {
     "title": "Toms Farm Creek",
@@ -446,7 +482,7 @@
     "latitude": "-33.2865028379999",
     "longitude": "151.549514771",
     "region": "nsw",
-    "time_of_call": "06 Dec 2024 19:15:00",
+    "time_of_call": "07 Dec 2024 10:08:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -458,7 +494,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "6 Dec 2024 19:15"
+    "updated": "7 Dec 2024 10:08"
   },
   {
     "title": "OLYMPIC HWY, CULCAIRN",
