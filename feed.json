@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "06 Dec 2024 18:28:18"
+    "updated": "06 Dec 2024 18:45:45"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "06 Dec 2024 18:25:36"
+    "updated": "06 Dec 2024 18:39:07"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "06 Dec 2024 18:06:25"
+    "updated": "06 Dec 2024 18:39:10"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,49 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "06 Dec 2024 18:25:45",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "06 Dec 2024 18:28:58"
+    "updated": "06 Dec 2024 18:40:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "074365-06122024",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "06 Dec 2024 18:37:57",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "06 Dec 2024 18:38:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "074367-06122024",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "06 Dec 2024 18:39:29",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "06 Dec 2024 18:43:50"
   },
   {
     "title": "Toms Farm Creek",
@@ -614,28 +650,6 @@
     "updated": "6 Dec 2024 17:42"
   },
   {
-    "title": "HUME HWY, BOXERS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578085",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.7424583439999",
-    "longitude": "149.772094727",
-    "region": "nsw",
-    "time_of_call": "06 Dec 2024 18:05:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "HUME HWY, BOXERS CREEK 2580",
-    "council_area": "Goulburn Mulwaree",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Dec 2024 18:05"
-  },
-  {
     "title": "BUCKAROO RD, BUCKAROO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578113",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -720,28 +734,6 @@
     "updated": "6 Dec 2024 18:21"
   },
   {
-    "title": "BARDEN RIDGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578119",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.043182373",
-    "longitude": "151.010543823",
-    "region": "nsw",
-    "time_of_call": "06 Dec 2024 18:08:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "BARDEN RIDGE 2234",
-    "council_area": "Sutherland",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Dec 2024 18:08"
-  },
-  {
     "title": "PEPPIN CR, AIRDS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578120",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -771,9 +763,9 @@
     "latitude": "-32.6440925599999",
     "longitude": "149.650238037",
     "region": "nsw",
-    "time_of_call": "06 Dec 2024 18:24:00",
+    "time_of_call": "06 Dec 2024 18:41:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "470 CASTLEREAGH HWY, BURRUNDULLA 2850",
     "council_area": "Mid-Western",
@@ -781,7 +773,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Dec 2024 18:24"
+    "updated": "6 Dec 2024 18:41"
   },
   {
     "title": "HITCHCOCKS LANE, BERRY",
@@ -824,5 +816,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Dec 2024 18:33"
+  },
+  {
+    "title": "DUCHATEL RD, GRIFFITH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578124",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.276000977",
+    "longitude": "146.017547608",
+    "region": "nsw",
+    "time_of_call": "06 Dec 2024 18:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1295 DUCHATEL RD, GRIFFITH 2680",
+    "council_area": "Griffith",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Dec 2024 18:37"
+  },
+  {
+    "title": "LUSKINTYRE RD, LUSKINTYRE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578125",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.677352905",
+    "longitude": "151.431991577",
+    "region": "nsw",
+    "time_of_call": "06 Dec 2024 18:44:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "306 LUSKINTYRE RD, LUSKINTYRE 2321",
+    "council_area": "Maitland",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Dec 2024 18:44"
   }
 ]
