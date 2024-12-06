@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "SHACKLETON PARK, SHACKLETON CIRCUIT, MAWSON, 2607",
-    "updated": "07 Dec 2024 05:51:49"
+    "updated": "07 Dec 2024 05:51:58"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "07 Dec 2024 05:33:26"
+    "updated": "07 Dec 2024 06:05:01"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "07 Dec 2024 05:48:02"
+    "updated": "07 Dec 2024 06:00:33"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "07 Dec 2024 05:16:52"
+    "updated": "07 Dec 2024 06:06:26"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +119,13 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "07 Dec 2024 05:44:34",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "07 Dec 2024 05:47:36"
+    "updated": "07 Dec 2024 05:56:52"
   },
   {
     "agency": "Ambulance",
@@ -144,6 +144,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
     "updated": "07 Dec 2024 05:51:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACQUARIE",
+    "id": "074443-07122024",
+    "latitude": "-35.249901",
+    "longitude": "149.061171",
+    "region": "act",
+    "time_of_call": "07 Dec 2024 06:04:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACQUARIE",
+    "updated": "07 Dec 2024 06:09:55"
   },
   {
     "title": "Toms Farm Creek",
@@ -218,7 +236,7 @@
     "latitude": "-35.30845642",
     "longitude": "148.065032958",
     "region": "nsw",
-    "time_of_call": "06 Dec 2024 13:41:00",
+    "time_of_call": "07 Dec 2024 05:55:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -228,7 +246,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Dec 2024 13:41"
+    "updated": "7 Dec 2024 05:55"
   },
   {
     "title": "Vietnam Vets HR",
@@ -567,50 +585,67 @@
     "updated": "7 Dec 2024 03:41"
   },
   {
-    "title": "COLLOMBATTI RD, FREDERICKTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578179",
+    "title": "(WESTLINK MTWY) SOUTHBOUND, DEAN PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578181",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.020393371",
-    "longitude": "152.850021363",
+    "latitude": "-33.733932495",
+    "longitude": "150.849227905",
     "region": "nsw",
-    "time_of_call": "07 Dec 2024 05:12:00",
+    "time_of_call": "07 Dec 2024 05:50:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "COLLOMBATTI RD, FREDERICKTON 2440",
-    "council_area": "Kempsey",
-    "type": "Grass Fire",
+    "location": "M7 (WESTLINK MTWY) SOUTHBOUND, DEAN PARK 2761",
+    "council_area": "Blacktown",
+    "type": "MVA/Transport",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Dec 2024 05:12"
-  },
-  {
-    "title": "Cherry Street, Windale",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578180",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.9891979999999",
-    "longitude": "151.685768",
-    "region": "nsw",
-    "time_of_call": "07 Dec 2024 05:24:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "2C Cherry Street, Windale, NSW 2306",
-    "council_area": "Lake Macquarie",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Dec 2024 05:24"
+    "updated": "7 Dec 2024 05:50"
+  },
+  {
+    "title": "SUMMERLAND HWY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578182",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.8433513639999",
+    "longitude": "153.032058716",
+    "region": "nsw",
+    "time_of_call": "07 Dec 2024 06:13:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "NORTHERN CO-OP MEAT COMPANY 10615 SUMMERLAND HWY, CASINO 2470",
+    "council_area": "Richmond Valley",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "7 Dec 2024 06:13"
+  },
+  {
+    "title": "CORDEAUX RD, KEMBLA HEIGHTS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578183",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.434871674",
+    "longitude": "150.807144165",
+    "region": "nsw",
+    "time_of_call": "07 Dec 2024 06:16:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "141 CORDEAUX RD, KEMBLA HEIGHTS 2526",
+    "council_area": "Wollongong",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Dec 2024 06:16"
   }
 ]
