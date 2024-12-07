@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire - Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "STRUCTURE FIRE - BRADDON",
-    "id": "017708-08122024",
-    "latitude": "-35.2666383999",
-    "longitude": "149.1331611299",
-    "region": "act",
-    "time_of_call": "08 Dec 2024 00:00:54",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "STRUCTURE FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
-    "location": "IPIMA STREET, BRADDON, 2612",
-    "updated": "08 Dec 2024 00:25:05"
-  },
-  {
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
@@ -97,24 +77,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "074630-07122024",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
-    "region": "act",
-    "time_of_call": "07 Dec 2024 23:15:58",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KALEEN",
-    "updated": "08 Dec 2024 00:25:14"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MACQUARIE",
     "id": "074632-07122024",
     "latitude": "-35.249901",
@@ -133,19 +95,39 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
+    "title": "STRUCTURE FIRE - BRADDON",
+    "id": "074638-08122024",
+    "latitude": "-35.2666383999",
+    "longitude": "149.1331611299",
+    "region": "act",
+    "time_of_call": "08 Dec 2024 00:00:54",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "STRUCTURE FIRE",
+    "type_description": "",
+    "type_icon": "",
+    "location": "IPIMA STREET, BRADDON, 2612",
+    "updated": "08 Dec 2024 00:25:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KALEEN",
     "id": "074640-08122024",
     "latitude": "-35.227626",
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "08 Dec 2024 00:09:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "08 Dec 2024 01:21:00"
+    "updated": "08 Dec 2024 01:32:22"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "08 Dec 2024 01:00:13"
+    "updated": "08 Dec 2024 01:23:33"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +181,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": "08 Dec 2024 01:02:25"
+    "updated": "08 Dec 2024 01:27:04"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +199,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "08 Dec 2024 01:20:04"
+    "updated": "08 Dec 2024 01:32:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "074650-08122024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "08 Dec 2024 01:26:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "08 Dec 2024 01:29:11"
   },
   {
     "title": "Toms Farm Creek",
@@ -660,5 +660,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Dec 2024 00:19"
+  },
+  {
+    "title": "KAMILAROI HWY, WALGETT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578299",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.020654678",
+    "longitude": "148.109542847",
+    "region": "nsw",
+    "time_of_call": "08 Dec 2024 01:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "KAMILAROI HWY, WALGETT 2832",
+    "council_area": "Walgett",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "8 Dec 2024 01:30"
   }
 ]
