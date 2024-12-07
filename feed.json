@@ -59,24 +59,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PALMERSTON",
-    "id": "074626-07122024",
-    "latitude": "-35.193269",
-    "longitude": "149.1195",
-    "region": "act",
-    "time_of_call": "07 Dec 2024 23:07:32",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PALMERSTON",
-    "updated": "08 Dec 2024 00:32:12"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MACQUARIE",
     "id": "074632-07122024",
     "latitude": "-35.249901",
@@ -127,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "08 Dec 2024 01:32:22"
+    "updated": "08 Dec 2024 01:38:43"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +145,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "08 Dec 2024 00:57:43"
+    "updated": "08 Dec 2024 01:37:43"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +175,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "08 Dec 2024 01:18:25",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "08 Dec 2024 01:32:17"
+    "updated": "08 Dec 2024 01:41:56"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +193,31 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "08 Dec 2024 01:26:50",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "08 Dec 2024 01:48:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "074652-08122024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "08 Dec 2024 01:40:56",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "08 Dec 2024 01:29:11"
+    "location": "KAMBAH",
+    "updated": "08 Dec 2024 01:47:05"
   },
   {
     "title": "Toms Farm Creek",
@@ -682,5 +682,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "8 Dec 2024 01:30"
+  },
+  {
+    "title": "PRINCES HWY, MOGO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578301",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.7461318969999",
+    "longitude": "150.160308837",
+    "region": "nsw",
+    "time_of_call": "08 Dec 2024 01:34:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PRINCES HWY, MOGO 2536",
+    "council_area": "Eurobodalla",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Dec 2024 01:34"
   }
 ]
