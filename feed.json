@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - COOK",
-    "id": "074869-09122024",
-    "latitude": "-35.261055",
-    "longitude": "149.064271",
-    "region": "act",
-    "time_of_call": "09 Dec 2024 04:41:42",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "COOK",
-    "updated": "09 Dec 2024 05:46:11"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - NGUNNAWAL",
     "id": "074870-09122024",
     "latitude": "-35.17365",
@@ -33,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "09 Dec 2024 06:19:39"
+    "updated": "09 Dec 2024 06:47:59"
   },
   {
     "agency": "Ambulance",
@@ -45,13 +27,31 @@
     "longitude": "149.117192",
     "region": "act",
     "time_of_call": "09 Dec 2024 06:09:46",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISAACS",
+    "updated": "09 Dec 2024 06:40:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
+    "id": "074874-09122024",
+    "latitude": "-35.425091",
+    "longitude": "149.088064",
+    "region": "act",
+    "time_of_call": "09 Dec 2024 06:29:06",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "ISAACS",
-    "updated": "09 Dec 2024 06:12:28"
+    "location": "ISABELLA PLAINS",
+    "updated": "09 Dec 2024 06:48:21"
   },
   {
     "title": "Toms Farm Creek",
@@ -466,9 +466,9 @@
     "latitude": "-32.6495285029999",
     "longitude": "151.233520508",
     "region": "nsw",
-    "time_of_call": "09 Dec 2024 06:04:00",
+    "time_of_call": "09 Dec 2024 06:32:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "E C THROSBY OLD NORTH RD, WHITTINGHAM 2330",
     "council_area": "Singleton",
@@ -478,6 +478,26 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Dec 2024 06:04"
+    "updated": "9 Dec 2024 06:32"
+  },
+  {
+    "title": "CERES CL, CLARENCE TOWN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578409",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.5754890439999",
+    "longitude": "151.76789856",
+    "region": "nsw",
+    "time_of_call": "09 Dec 2024 06:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "5 CERES CL, CLARENCE TOWN 2321",
+    "council_area": "Dungog",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Dec 2024 06:29"
   }
 ]
