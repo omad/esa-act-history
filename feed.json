@@ -1,21 +1,23 @@
 [
   {
-    "agency": "Ambulance",
+    "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUNLOP",
-    "id": "075208-10122024",
-    "latitude": "-35.193951",
-    "longitude": "149.019471",
+    "title": "MOTOR VEHICLE ACCIDENT - MOLONGLO VALLEY",
+    "id": "017843-10122024",
+    "latitude": "-35.27609",
+    "longitude": "149.07012",
     "region": "act",
-    "time_of_call": "10 Dec 2024 13:19:08",
-    "status": "On Scene",
+    "time_of_call": "10 Dec 2024 16:39:47",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DUNLOP",
-    "updated": "10 Dec 2024 15:48:46"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "CROSSOVER, WILLIAM HOVELL DRIVE, MOLONGLO VALLEY, 0000",
+    "updated": "10 Dec 2024 16:39:48"
   },
   {
     "agency": "Ambulance",
@@ -52,24 +54,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
     "updated": "10 Dec 2024 15:40:09"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYNEHAM",
-    "id": "075231-10122024",
-    "latitude": "-35.238929",
-    "longitude": "149.124748",
-    "region": "act",
-    "time_of_call": "10 Dec 2024 15:03:09",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LYNEHAM",
-    "updated": "10 Dec 2024 16:05:41"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "10 Dec 2024 16:13:03"
+    "updated": "10 Dec 2024 16:32:53"
   },
   {
     "agency": "Ambulance",
@@ -165,24 +149,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PHILLIP",
-    "id": "075239-10122024",
-    "latitude": "-35.348136",
-    "longitude": "149.090018",
-    "region": "act",
-    "time_of_call": "10 Dec 2024 15:49:31",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PHILLIP",
-    "updated": "10 Dec 2024 15:56:28"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - ISAACS",
     "id": "075240-10122024",
     "latitude": "-35.36866",
@@ -213,25 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "10 Dec 2024 16:12:33"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "075242-10122024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "10 Dec 2024 16:04:50",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "10 Dec 2024 16:21:00"
+    "updated": "10 Dec 2024 16:36:34"
   },
   {
     "agency": "Ambulance",
@@ -249,7 +197,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "10 Dec 2024 16:15:46"
+    "updated": "10 Dec 2024 16:38:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "075245-10122024",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "10 Dec 2024 16:33:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "10 Dec 2024 16:38:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "075246-10122024",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "10 Dec 2024 16:33:52",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "10 Dec 2024 16:39:44"
   },
   {
     "title": "Toms Farm Creek",
@@ -259,7 +243,7 @@
     "latitude": "-36.7932014469999",
     "longitude": "148.808441163",
     "region": "nsw",
-    "time_of_call": "10 Dec 2024 09:00:00",
+    "time_of_call": "10 Dec 2024 16:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -274,7 +258,7 @@
     "fire": "Yes",
     "size": "140 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "10 Dec 2024 09:00"
+    "updated": "10 Dec 2024 16:30"
   },
   {
     "title": "BROWNS RUN",
@@ -284,7 +268,7 @@
     "latitude": "-32.5605895919999",
     "longitude": "150.909287219",
     "region": "nsw",
-    "time_of_call": "10 Dec 2024 09:08:00",
+    "time_of_call": "10 Dec 2024 16:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -299,7 +283,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "10 Dec 2024 09:08"
+    "updated": "10 Dec 2024 16:31"
   },
   {
     "title": "FIDDAMAN RD, EMERALD BEACH",
@@ -474,28 +458,6 @@
     "updated": "10 Dec 2024 14:27"
   },
   {
-    "title": "RIDGELANDS RD, WYBONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578511",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.13917923",
-    "longitude": "150.665252685",
-    "region": "nsw",
-    "time_of_call": "10 Dec 2024 15:21:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "1788 RIDGELANDS RD, WYBONG 2333",
-    "council_area": "Upper Hunter",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Dec 2024 15:21"
-  },
-  {
     "title": "ULAN RD, ULAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578513",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -602,5 +564,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Dec 2024 16:01"
+  },
+  {
+    "title": "KANGOO RD, SOMERSBY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578520",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.420379639",
+    "longitude": "151.300827026",
+    "region": "nsw",
+    "time_of_call": "10 Dec 2024 16:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "KANGOO RD, SOMERSBY 2250",
+    "council_area": "Central Coast",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Dec 2024 16:30"
   }
 ]
