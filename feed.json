@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AINSLIE",
-    "id": "075503-11122024",
-    "latitude": "-35.262117",
-    "longitude": "149.144037",
-    "region": "act",
-    "time_of_call": "11 Dec 2024 16:24:29",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "AINSLIE",
-    "updated": "11 Dec 2024 18:52:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CHISHOLM",
     "id": "075509-11122024",
     "latitude": "-35.422993",
@@ -34,24 +16,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
     "updated": "11 Dec 2024 19:25:20"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WESTON",
-    "id": "075513-11122024",
-    "latitude": "-35.335896",
-    "longitude": "149.058387",
-    "region": "act",
-    "time_of_call": "11 Dec 2024 17:54:32",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WESTON",
-    "updated": "11 Dec 2024 19:12:12"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +69,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "11 Dec 2024 19:31:28"
+    "updated": "11 Dec 2024 19:49:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RICHARDSON",
+    "id": "075522-11122024",
+    "latitude": "-35.428715",
+    "longitude": "149.111133",
+    "region": "act",
+    "time_of_call": "11 Dec 2024 18:55:49",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RICHARDSON",
+    "updated": "11 Dec 2024 19:46:31"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "11 Dec 2024 19:26:07"
+    "updated": "11 Dec 2024 19:37:58"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +153,13 @@
     "longitude": "149.0261993408",
     "region": "act",
     "time_of_call": "11 Dec 2024 19:22:15",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "MOUNT STROMLO FOREST PARK EVENT CENTRE GATE G, DAVE MCINNES ROAD, URIARRA ROAD (NEAREST XST), STROMLO DISTRICT",
-    "updated": "11 Dec 2024 19:26:51"
+    "updated": "11 Dec 2024 19:51:05"
   },
   {
     "agency": "Ambulance",
@@ -207,13 +189,31 @@
     "longitude": "149.064271",
     "region": "act",
     "time_of_call": "11 Dec 2024 19:28:07",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "11 Dec 2024 19:32:44"
+    "updated": "11 Dec 2024 19:41:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "075533-11122024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "11 Dec 2024 19:41:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "11 Dec 2024 19:51:54"
   },
   {
     "title": "Toms Farm Creek",
@@ -474,10 +474,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578626",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.870223488",
-    "longitude": "150.574663149",
+    "latitude": "-34.879539489",
+    "longitude": "150.572402954",
     "region": "nsw",
-    "time_of_call": "11 Dec 2024 18:58:00",
+    "time_of_call": "11 Dec 2024 19:16:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -489,7 +489,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Dec 2024 18:58"
+    "updated": "11 Dec 2024 19:16"
   },
   {
     "title": "GRABBEN GULLEN RD, BIALA",
@@ -517,31 +517,6 @@
     "updated": "11 Dec 2024 19:28"
   },
   {
-    "title": "Great North Rd, Frederickton",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578629",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.0339529999999",
-    "longitude": "152.874770999",
-    "region": "nsw",
-    "time_of_call": "11 Dec 2024 19:17:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Great North Rd, Frederickton, NSW 2440",
-    "council_area": "Kempsey",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 Dec 2024 19:17"
-  },
-  {
     "title": "HARWOOD ST, PARKES",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578630",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -549,9 +524,9 @@
     "latitude": "-33.1210288999999",
     "longitude": "148.17288208",
     "region": "nsw",
-    "time_of_call": "11 Dec 2024 19:21:00",
+    "time_of_call": "11 Dec 2024 19:37:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "12 HARWOOD ST, PARKES 2870",
     "council_area": "Parkes",
@@ -561,6 +536,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 Dec 2024 19:21"
+    "updated": "11 Dec 2024 19:37"
   }
 ]
