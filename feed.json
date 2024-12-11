@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "12 Dec 2024 03:30:25"
+    "updated": "12 Dec 2024 03:45:42"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "12 Dec 2024 03:26:11"
+    "updated": "12 Dec 2024 03:53:12"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,67 @@
     "longitude": "149.088064",
     "region": "act",
     "time_of_call": "12 Dec 2024 03:30:15",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "12 Dec 2024 03:42:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FORREST",
+    "id": "075581-12122024",
+    "latitude": "-35.318088",
+    "longitude": "149.12506",
+    "region": "act",
+    "time_of_call": "12 Dec 2024 03:39:54",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "ISABELLA PLAINS",
-    "updated": "12 Dec 2024 03:30:45"
+    "location": "FORREST",
+    "updated": "12 Dec 2024 03:45:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "075582-12122024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "12 Dec 2024 03:41:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "12 Dec 2024 03:46:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "075583-12122024",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "12 Dec 2024 03:47:10",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "12 Dec 2024 03:51:06"
   },
   {
     "title": "Toms Farm Creek",
@@ -351,25 +405,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Dec 2024 20:03"
-  },
-  {
-    "title": "WHITTON RD, LEETON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578646",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.54523468",
-    "longitude": "146.328598022",
-    "region": "nsw",
-    "time_of_call": "12 Dec 2024 03:17:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WHITTON RD, LEETON 2705",
-    "council_area": "Leeton",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Dec 2024 03:17"
   }
 ]
