@@ -27,13 +27,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "14 Dec 2024 07:53:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "14 Dec 2024 09:13:22"
+    "updated": "14 Dec 2024 09:34:43"
   },
   {
     "agency": "Ambulance",
@@ -45,13 +45,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "14 Dec 2024 08:06:17",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "14 Dec 2024 09:19:49"
+    "updated": "14 Dec 2024 09:33:41"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.042983",
     "region": "act",
     "time_of_call": "14 Dec 2024 08:39:40",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "14 Dec 2024 09:15:22"
+    "updated": "14 Dec 2024 09:32:36"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "14 Dec 2024 09:18:01"
+    "updated": "14 Dec 2024 09:31:38"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,13 @@
     "longitude": "149.105209",
     "region": "act",
     "time_of_call": "14 Dec 2024 08:45:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "14 Dec 2024 09:19:21"
+    "updated": "14 Dec 2024 09:25:00"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "14 Dec 2024 09:12:20"
+    "updated": "14 Dec 2024 09:26:37"
   },
   {
     "agency": "Ambulance",
@@ -178,6 +178,78 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
     "updated": "14 Dec 2024 09:23:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "076147-14122024",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "14 Dec 2024 09:26:58",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "14 Dec 2024 09:30:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "076148-14122024",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "14 Dec 2024 09:29:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "14 Dec 2024 09:34:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "076149-14122024",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "14 Dec 2024 09:31:06",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "14 Dec 2024 09:38:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "076151-14122024",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "14 Dec 2024 09:37:18",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "14 Dec 2024 09:37:38"
   },
   {
     "title": "Toms Farm Creek",
@@ -391,7 +463,7 @@
     "latitude": "-32.613822937",
     "longitude": "151.193862915",
     "region": "nsw",
-    "time_of_call": "14 Dec 2024 06:26:00",
+    "time_of_call": "14 Dec 2024 09:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -403,7 +475,7 @@
     "fire": "Yes",
     "size": "7 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Dec 2024 06:26"
+    "updated": "14 Dec 2024 09:21"
   },
   {
     "title": "COULSONS CREEK RD, MERRIWA",
@@ -678,5 +750,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Dec 2024 05:58"
+  },
+  {
+    "title": "DUNVILLE LOOP RD, DUNVILLE LOOP",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578881",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.916713714",
+    "longitude": "150.158432006",
+    "region": "nsw",
+    "time_of_call": "14 Dec 2024 09:24:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "2030 DUNVILLE LOOP RD, DUNVILLE LOOP 2849",
+    "council_area": "Lithgow",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Dec 2024 09:24"
   }
 ]
