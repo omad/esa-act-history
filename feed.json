@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "HOBART AVENUE, TASMANIA CIRCLE, FORREST, 2603",
-    "updated": "13 Dec 2024 18:02:14"
+    "updated": "13 Dec 2024 18:41:23"
   },
   {
     "agency": "Fire - Ambulance",
@@ -29,15 +29,35 @@
     "longitude": "149.13505",
     "region": "act",
     "time_of_call": "13 Dec 2024 18:24:41",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "BATMAN STREET, COOYONG STREET, BRADDON, 2612",
-    "updated": "13 Dec 2024 18:33:28"
+    "updated": "13 Dec 2024 18:45:34"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "CAR FIRE - KALEEN",
+    "id": "018029-13122024",
+    "latitude": "-35.21734516",
+    "longitude": "149.1130919599",
+    "region": "act",
+    "time_of_call": "13 Dec 2024 18:37:37",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "CAR FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
+    "location": "GLENELG STREET, KALEEN, 2617",
+    "updated": "13 Dec 2024 18:45:21"
   },
   {
     "agency": "Ambulance",
@@ -85,13 +105,13 @@
     "longitude": "149.042983",
     "region": "act",
     "time_of_call": "13 Dec 2024 17:07:35",
-    "status": "On Scene",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "13 Dec 2024 18:23:57"
+    "updated": "13 Dec 2024 18:40:04"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "13 Dec 2024 18:16:44"
+    "updated": "13 Dec 2024 18:45:48"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +219,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "13 Dec 2024 18:24:22"
+    "updated": "13 Dec 2024 18:43:26"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +273,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "13 Dec 2024 18:01:10"
+    "updated": "13 Dec 2024 18:41:46"
   },
   {
     "agency": "Ambulance",
@@ -301,13 +321,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "13 Dec 2024 18:03:06",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "13 Dec 2024 18:23:57"
+    "updated": "13 Dec 2024 18:44:27"
   },
   {
     "agency": "Ambulance",
@@ -325,7 +345,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "13 Dec 2024 18:16:24"
+    "updated": "13 Dec 2024 18:48:41"
   },
   {
     "agency": "Ambulance",
@@ -337,13 +357,67 @@
     "longitude": "149.1195",
     "region": "act",
     "time_of_call": "13 Dec 2024 18:34:32",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PALMERSTON",
+    "updated": "13 Dec 2024 18:46:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "076018-13122024",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "13 Dec 2024 18:39:34",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "13 Dec 2024 18:48:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
+    "id": "076019-13122024",
+    "latitude": "-35.333366",
+    "longitude": "149.146674",
+    "region": "act",
+    "time_of_call": "13 Dec 2024 18:46:53",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "PALMERSTON",
-    "updated": "13 Dec 2024 18:34:34"
+    "location": "NARRABUNDAH",
+    "updated": "13 Dec 2024 18:47:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "076020-13122024",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "13 Dec 2024 18:47:22",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "13 Dec 2024 18:48:48"
   },
   {
     "title": "Toms Farm Creek",
@@ -400,7 +474,7 @@
     "latitude": "-36.3836593619999",
     "longitude": "150.068038941",
     "region": "nsw",
-    "time_of_call": "12 Dec 2024 10:37:00",
+    "time_of_call": "13 Dec 2024 18:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -412,7 +486,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Dec 2024 10:37"
+    "updated": "13 Dec 2024 18:35"
   },
   {
     "title": "Wallalong APZ HR",
@@ -802,48 +876,6 @@
     "updated": "13 Dec 2024 17:00"
   },
   {
-    "title": "MARINE DR, FINGAL BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578826",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.746765137",
-    "longitude": "152.169540405",
-    "region": "nsw",
-    "time_of_call": "13 Dec 2024 17:27:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "MARINE DR, FINGAL BAY 2315",
-    "council_area": "Port Stephens",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Dec 2024 17:27"
-  },
-  {
-    "title": "ADAMS RD, LUDDENHAM",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578828",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.870250702",
-    "longitude": "150.716644287",
-    "region": "nsw",
-    "time_of_call": "13 Dec 2024 18:18:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ADAMS RD, LUDDENHAM 2745",
-    "council_area": "Liverpool",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Dec 2024 18:18"
-  },
-  {
     "title": "Incident Name",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578830",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -867,5 +899,74 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Dec 2024 18:12"
+  },
+  {
+    "title": "RD, BLACK HILL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578832",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.834747315",
+    "longitude": "151.59526062",
+    "region": "nsw",
+    "time_of_call": "13 Dec 2024 18:43:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "LOT 1>BLACKHILL RD, BLACK HILL 2322",
+    "council_area": "Cessnock",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Dec 2024 18:43"
+  },
+  {
+    "title": "BELLS LINE OF ROAD, NORTH RICHMOND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578833",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.571136474",
+    "longitude": "150.709121704",
+    "region": "nsw",
+    "time_of_call": "13 Dec 2024 18:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "194 BELLS LINE OF ROAD, NORTH RICHMOND 2754",
+    "council_area": "Hawkesbury",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Dec 2024 18:36"
+  },
+  {
+    "title": "Victoria St, Werrington",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578835",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.7580809999999",
+    "longitude": "150.760168",
+    "region": "nsw",
+    "time_of_call": "13 Dec 2024 18:43:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "41 Victoria St, Werrington, NSW 2747",
+    "council_area": "Penrith",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "13 Dec 2024 18:43"
   }
 ]
