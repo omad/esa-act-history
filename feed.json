@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "STRUCTURE FIRE - MACQUARIE",
-    "id": "018025-13122024",
-    "latitude": "-35.2491263499",
-    "longitude": "149.0590563099",
-    "region": "act",
-    "time_of_call": "13 Dec 2024 16:56:40",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "STRUCTURE FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
-    "location": "BENNELONG CRESCENT, MACQUARIE, 2614",
-    "updated": "13 Dec 2024 17:25:11"
-  },
-  {
     "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -38,6 +18,26 @@
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "HOBART AVENUE, TASMANIA CIRCLE, FORREST, 2603",
     "updated": "13 Dec 2024 18:02:14"
+  },
+  {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - BRADDON",
+    "id": "018028-13122024",
+    "latitude": "-35.27825399",
+    "longitude": "149.13505",
+    "region": "act",
+    "time_of_call": "13 Dec 2024 18:24:41",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "BATMAN STREET, COOYONG STREET, BRADDON, 2612",
+    "updated": "13 Dec 2024 18:33:28"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "13 Dec 2024 18:22:32"
+    "updated": "13 Dec 2024 18:23:57"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "13 Dec 2024 18:09:21"
+    "updated": "13 Dec 2024 18:26:15"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "13 Dec 2024 17:53:40"
+    "updated": "13 Dec 2024 18:24:22"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +289,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "13 Dec 2024 18:14:50"
+    "updated": "13 Dec 2024 18:27:32"
   },
   {
     "agency": "Ambulance",
@@ -307,7 +307,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "13 Dec 2024 18:18:40"
+    "updated": "13 Dec 2024 18:23:57"
   },
   {
     "agency": "Ambulance",
@@ -326,6 +326,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
     "updated": "13 Dec 2024 18:16:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "076017-13122024",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "13 Dec 2024 18:34:32",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PALMERSTON",
+    "updated": "13 Dec 2024 18:34:34"
   },
   {
     "title": "Toms Farm Creek",
@@ -849,30 +867,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Dec 2024 18:12"
-  },
-  {
-    "title": "Bellevue Dr, North Macksville",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_578831",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.705271",
-    "longitude": "152.926785",
-    "region": "nsw",
-    "time_of_call": "13 Dec 2024 18:21:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "30 Bellevue Dr, North Macksville, NSW 2447",
-    "council_area": "Nambucca",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "13 Dec 2024 18:21"
   }
 ]
