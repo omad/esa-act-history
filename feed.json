@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "15 Dec 2024 21:10:48"
+    "updated": "15 Dec 2024 21:38:06"
   },
   {
     "agency": "Ambulance",
@@ -77,37 +77,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BONNER",
-    "id": "076478-15122024",
-    "latitude": "-35.155183",
-    "longitude": "149.143165",
-    "region": "act",
-    "time_of_call": "15 Dec 2024 20:01:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BONNER",
-    "updated": "15 Dec 2024 21:06:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BELCONNEN",
     "id": "076480-15122024",
     "latitude": "-35.235936",
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "15 Dec 2024 20:24:20",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "15 Dec 2024 21:17:27"
+    "updated": "15 Dec 2024 21:35:03"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "15 Dec 2024 21:17:23"
+    "updated": "15 Dec 2024 21:26:21"
   },
   {
     "agency": "Ambulance",
@@ -198,6 +180,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
     "updated": "15 Dec 2024 21:20:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "076488-15122024",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "15 Dec 2024 21:25:06",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "15 Dec 2024 21:38:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "076489-15122024",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "15 Dec 2024 21:46:18",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "15 Dec 2024 21:48:21"
   },
   {
     "title": "Toms Farm Creek",
@@ -581,5 +599,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Dec 2024 20:29"
+  },
+  {
+    "title": "WINGHAM RD, WINGHAM",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_579087",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.859268189",
+    "longitude": "152.391281127",
+    "region": "nsw",
+    "time_of_call": "15 Dec 2024 21:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "894-900 WINGHAM RD, WINGHAM 2429",
+    "council_area": "Mid-Coast",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Dec 2024 21:32"
   }
 ]
