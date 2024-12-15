@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "15 Dec 2024 22:16:27"
+    "updated": "15 Dec 2024 22:39:25"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "15 Dec 2024 22:25:35"
+    "updated": "15 Dec 2024 22:38:48"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "15 Dec 2024 22:23:52"
+    "updated": "15 Dec 2024 22:39:31"
   },
   {
     "agency": "Ambulance",
@@ -87,25 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "15 Dec 2024 22:16:08"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLT",
-    "id": "076491-15122024",
-    "latitude": "-35.224201",
-    "longitude": "149.013141",
-    "region": "act",
-    "time_of_call": "15 Dec 2024 21:57:10",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HOLT",
-    "updated": "15 Dec 2024 22:23:04"
+    "updated": "15 Dec 2024 22:32:51"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +99,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "15 Dec 2024 22:15:54",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "15 Dec 2024 22:28:01"
+    "updated": "15 Dec 2024 22:38:54"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +117,31 @@
     "longitude": "149.170863",
     "region": "act",
     "time_of_call": "15 Dec 2024 22:22:44",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HUME",
-    "updated": "15 Dec 2024 22:26:19"
+    "updated": "15 Dec 2024 22:47:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "076495-15122024",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "15 Dec 2024 22:29:04",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "15 Dec 2024 22:48:11"
   },
   {
     "title": "Toms Farm Creek",
@@ -547,34 +547,12 @@
     "updated": "15 Dec 2024 21:50"
   },
   {
-    "title": "CHANDOS RD, HORSLEY PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_579090",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.83203888",
-    "longitude": "150.855484009",
-    "region": "nsw",
-    "time_of_call": "15 Dec 2024 22:19:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "CHANDOS RD, HORSLEY PARK 2175",
-    "council_area": "Fairfield",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "15 Dec 2024 22:19"
-  },
-  {
     "title": "OLD PACIFIC HWY, SOMERSBY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_579091",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.425979614",
-    "longitude": "151.273834228",
+    "latitude": "-33.4264984129999",
+    "longitude": "151.269302369",
     "region": "nsw",
     "time_of_call": "15 Dec 2024 22:20:00",
     "event_type": "burnt area",
