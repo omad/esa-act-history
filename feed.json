@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "17 Dec 2024 03:24:09"
+    "updated": "17 Dec 2024 03:44:38"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "17 Dec 2024 03:20:20"
+    "updated": "17 Dec 2024 03:51:23"
   },
   {
     "agency": "Ambulance",
@@ -72,6 +72,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
     "updated": "17 Dec 2024 03:21:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "076765-17122024",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "17 Dec 2024 03:37:45",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "17 Dec 2024 03:40:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "076766-17122024",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "17 Dec 2024 03:43:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "17 Dec 2024 03:44:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'MALLEY",
+    "id": "076767-17122024",
+    "latitude": "-35.351388",
+    "longitude": "149.111757",
+    "region": "act",
+    "time_of_call": "17 Dec 2024 03:49:52",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'MALLEY",
+    "updated": "17 Dec 2024 03:53:07"
   },
   {
     "title": "Toms Farm Creek",
@@ -697,28 +751,6 @@
     "updated": "17 Dec 2024 00:06"
   },
   {
-    "title": "OCONNELLS RD, LOUTH PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_579221",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.75440979",
-    "longitude": "151.550323487",
-    "region": "nsw",
-    "time_of_call": "17 Dec 2024 01:14:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "82 OCONNELLS RD, LOUTH PARK 2320",
-    "council_area": "Maitland",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Dec 2024 01:14"
-  },
-  {
     "title": "GILMORE MILL SNOWY MOUNTAINS HWY, GILMORE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_579224",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -726,9 +758,9 @@
     "latitude": "-35.327400207",
     "longitude": "148.17880249",
     "region": "nsw",
-    "time_of_call": "17 Dec 2024 03:08:00",
+    "time_of_call": "17 Dec 2024 03:47:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GILMORE MILL SNOWY MOUNTAINS HWY, GILMORE 2795",
     "council_area": "Snowy Valleys",
@@ -738,6 +770,26 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Dec 2024 03:08"
+    "updated": "17 Dec 2024 03:47"
+  },
+  {
+    "title": "HUME HWY, HOLBROOK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_579225",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.673618317",
+    "longitude": "147.378311157",
+    "region": "nsw",
+    "time_of_call": "17 Dec 2024 03:44:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "HUME HWY, HOLBROOK 2644",
+    "council_area": "Greater Hume",
+    "type": "Truck Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Dec 2024 03:44"
   }
 ]
