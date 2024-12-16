@@ -40,7 +40,7 @@
     "updated": "17 Dec 2024 09:12:40"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - KAMBAH",
@@ -81,24 +81,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
-    "id": "076786-17122024",
-    "latitude": "-35.184984",
-    "longitude": "149.135062",
-    "region": "act",
-    "time_of_call": "17 Dec 2024 07:49:20",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GUNGAHLIN",
-    "updated": "17 Dec 2024 09:24:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONCRIEFF",
     "id": "076788-17122024",
     "latitude": "-35.158865",
@@ -129,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "17 Dec 2024 09:33:25"
+    "updated": "17 Dec 2024 09:40:38"
   },
   {
     "agency": "Ambulance",
@@ -159,13 +141,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "17 Dec 2024 08:09:47",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "17 Dec 2024 08:12:39"
+    "updated": "17 Dec 2024 09:38:48"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
-    "updated": "17 Dec 2024 09:30:09"
+    "updated": "17 Dec 2024 09:41:03"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +195,13 @@
     "longitude": "149.066294",
     "region": "act",
     "time_of_call": "17 Dec 2024 08:32:18",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "17 Dec 2024 09:33:08"
+    "updated": "17 Dec 2024 09:48:47"
   },
   {
     "agency": "Ambulance",
@@ -285,13 +267,13 @@
     "longitude": "149.118589",
     "region": "act",
     "time_of_call": "17 Dec 2024 09:15:48",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "17 Dec 2024 09:32:10"
+    "updated": "17 Dec 2024 09:43:03"
   },
   {
     "agency": "Ambulance",
@@ -310,6 +292,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
     "updated": "17 Dec 2024 09:36:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "076812-17122024",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "17 Dec 2024 09:43:08",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "17 Dec 2024 09:48:16"
   },
   {
     "title": "Toms Farm Creek",
@@ -454,28 +454,6 @@
     "updated": "16 Dec 2024 21:54"
   },
   {
-    "title": "RUBBISH TIP RD, WALGETT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_579021",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.024213791",
-    "longitude": "148.1043396",
-    "region": "nsw",
-    "time_of_call": "17 Dec 2024 00:49:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "RUBBISH TIP RD, WALGETT 2832",
-    "council_area": "Walgett",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Dec 2024 00:49"
-  },
-  {
     "title": "Ingeegoodbee, Kosciuszko",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_579040",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -548,7 +526,7 @@
     "latitude": "-33.667694092",
     "longitude": "150.65145874",
     "region": "nsw",
-    "time_of_call": "16 Dec 2024 18:10:00",
+    "time_of_call": "17 Dec 2024 09:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -560,7 +538,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "16 Dec 2024 18:10"
+    "updated": "17 Dec 2024 09:41"
   },
   {
     "title": "OVERSHOT RD, EUCHAREENA",
@@ -868,28 +846,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Dec 2024 05:31"
-  },
-  {
-    "title": "OLD WELL RD, THARBOGANG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_579239",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.248786926",
-    "longitude": "145.974975586",
-    "region": "nsw",
-    "time_of_call": "17 Dec 2024 09:01:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "OLD WELL RD, THARBOGANG 2680",
-    "council_area": "Griffith",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Dec 2024 09:01"
   },
   {
     "title": "WEROMBI RD, BROWNLOW HILL",
