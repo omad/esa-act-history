@@ -20,7 +20,7 @@
     "updated": "16 Dec 2024 14:04:40"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "HOUSE FIRE - TORRENS",
@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "BUNGAREE COURT, BATCHELOR STREET, TORRENS, 2607",
-    "updated": "18 Dec 2024 01:39:23"
+    "updated": "18 Dec 2024 01:43:36"
   },
   {
     "agency": "Fire",
@@ -69,13 +69,13 @@
     "longitude": "149.085827",
     "region": "act",
     "time_of_call": "17 Dec 2024 23:34:34",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "18 Dec 2024 00:23:10"
+    "updated": "18 Dec 2024 01:44:06"
   },
   {
     "agency": "Ambulance",
@@ -94,24 +94,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
     "updated": "18 Dec 2024 01:37:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FARRER",
-    "id": "076988-18122024",
-    "latitude": "-35.377331",
-    "longitude": "149.104586",
-    "region": "act",
-    "time_of_call": "18 Dec 2024 00:24:10",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FARRER",
-    "updated": "18 Dec 2024 00:51:52"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "18 Dec 2024 01:33:22"
+    "updated": "18 Dec 2024 01:47:29"
   },
   {
     "title": "Clarkes Road Fire",
@@ -777,28 +759,6 @@
     "updated": "18 Dec 2024 01:25"
   },
   {
-    "title": "JAMES CREEK RD, JAMES CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_579356",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.4401187899999",
-    "longitude": "153.246002197",
-    "region": "nsw",
-    "time_of_call": "18 Dec 2024 00:43:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "91 JAMES CREEK RD, JAMES CREEK 2463",
-    "council_area": "Clarence Valley",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Dec 2024 00:43"
-  },
-  {
     "title": "RANGE RD, BAW BAW",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_579357",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -819,5 +779,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Dec 2024 01:07"
+  },
+  {
+    "title": "Warrena St, Walgett",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_579359",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.0191859999999",
+    "longitude": "148.114621",
+    "region": "nsw",
+    "time_of_call": "18 Dec 2024 01:42:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Warrena St, Walgett, NSW 2832",
+    "council_area": "Walgett",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "18 Dec 2024 01:42"
   }
 ]
