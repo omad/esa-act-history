@@ -63,13 +63,13 @@
     "longitude": "149.161141",
     "region": "act",
     "time_of_call": "21 Dec 2024 00:06:18",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "21 Dec 2024 01:01:51"
+    "updated": "21 Dec 2024 03:04:15"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "21 Dec 2024 00:41:40"
+    "updated": "21 Dec 2024 03:22:58"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,13 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "21 Dec 2024 01:24:24",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "21 Dec 2024 02:42:03"
+    "updated": "21 Dec 2024 03:06:38"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "21 Dec 2024 01:30:30",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "21 Dec 2024 01:36:13"
+    "updated": "21 Dec 2024 03:18:03"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "21 Dec 2024 02:27:26"
+    "updated": "21 Dec 2024 03:25:20"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +171,13 @@
     "longitude": "149.099386",
     "region": "act",
     "time_of_call": "21 Dec 2024 02:21:00",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "21 Dec 2024 02:28:08"
+    "updated": "21 Dec 2024 03:25:02"
   },
   {
     "agency": "Ambulance",
@@ -207,13 +207,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "21 Dec 2024 02:44:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "21 Dec 2024 02:48:49"
+    "updated": "21 Dec 2024 03:12:23"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +231,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "21 Dec 2024 02:48:21"
+    "updated": "21 Dec 2024 02:53:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "077785-21122024",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "21 Dec 2024 03:02:46",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "21 Dec 2024 03:14:42"
   },
   {
     "title": "Clarkes Road Fire",
@@ -990,28 +1008,25 @@
     "updated": "21 Dec 2024 01:52"
   },
   {
-    "title": "The Boulevarde, East Maitland",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_580674",
+    "title": "MADLINE ST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_580675",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.763338",
-    "longitude": "151.58942",
+    "latitude": "-33.081512451",
+    "longitude": "147.152450561",
     "region": "nsw",
-    "time_of_call": "21 Dec 2024 02:35:00",
+    "time_of_call": "21 Dec 2024 03:19:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "The Boulevarde, East Maitland, NSW 2323",
-    "council_area": "Maitland",
-    "type": "Bush Fire",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CONDOBOLIN RETIREMENT VILLAGE MADLINE ST, CONDOBOLIN 2877",
+    "council_area": "Lachlan",
+    "type": "Other",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "21 Dec 2024 02:35"
+    "updated": "21 Dec 2024 03:19"
   }
 ]
