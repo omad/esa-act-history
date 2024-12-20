@@ -1,5 +1,25 @@
 [
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - COREE",
+    "id": "018398-20122024",
+    "latitude": "-35.32535599",
+    "longitude": "148.94380599",
+    "region": "act",
+    "time_of_call": "20 Dec 2024 22:25:39",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "COTTER ROAD, BRINDABELLA ROAD, COREE, 0000",
+    "updated": "20 Dec 2024 22:28:29"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -75,42 +95,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PALMERSTON",
-    "id": "077691-20122024",
-    "latitude": "-35.193269",
-    "longitude": "149.1195",
-    "region": "act",
-    "time_of_call": "20 Dec 2024 19:24:38",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PALMERSTON",
-    "updated": "20 Dec 2024 22:14:48"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "077695-20122024",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "20 Dec 2024 19:34:32",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "20 Dec 2024 20:30:58"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DUNLOP",
     "id": "077696-20122024",
     "latitude": "-35.193951",
@@ -141,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "20 Dec 2024 21:35:19"
+    "updated": "20 Dec 2024 22:20:08"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +143,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "20 Dec 2024 20:11:58"
+    "updated": "20 Dec 2024 22:28:00"
   },
   {
     "agency": "Ambulance",
@@ -196,24 +180,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
     "updated": "20 Dec 2024 20:20:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - RICHARDSON",
-    "id": "077709-20122024",
-    "latitude": "-35.428715",
-    "longitude": "149.111133",
-    "region": "act",
-    "time_of_call": "20 Dec 2024 20:22:13",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "RICHARDSON",
-    "updated": "20 Dec 2024 21:45:52"
   },
   {
     "agency": "Ambulance",
@@ -267,7 +233,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "20 Dec 2024 22:12:51"
+    "updated": "20 Dec 2024 22:18:21"
   },
   {
     "agency": "Ambulance",
@@ -309,24 +275,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - YARRALUMLA",
-    "id": "077723-20122024",
-    "latitude": "-35.302333",
-    "longitude": "149.099934",
-    "region": "act",
-    "time_of_call": "20 Dec 2024 20:59:28",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "YARRALUMLA",
-    "updated": "20 Dec 2024 21:46:50"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WHITLAM",
     "id": "077725-20122024",
     "latitude": "-35.277508",
@@ -351,13 +299,13 @@
     "longitude": "149.064742",
     "region": "act",
     "time_of_call": "20 Dec 2024 21:05:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "20 Dec 2024 22:17:07"
+    "updated": "20 Dec 2024 22:28:34"
   },
   {
     "agency": "Ambulance",
@@ -393,7 +341,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "20 Dec 2024 22:17:52"
+    "updated": "20 Dec 2024 22:27:36"
   },
   {
     "agency": "Ambulance",
@@ -477,13 +425,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "20 Dec 2024 22:03:06",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "20 Dec 2024 22:17:27"
+    "updated": "20 Dec 2024 22:19:57"
   },
   {
     "agency": "Ambulance",
@@ -495,13 +443,31 @@
     "longitude": "149.134893",
     "region": "act",
     "time_of_call": "20 Dec 2024 22:16:32",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "20 Dec 2024 22:17:07"
+    "updated": "20 Dec 2024 22:25:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "077746-20122024",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "20 Dec 2024 22:22:35",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "20 Dec 2024 22:28:33"
   },
   {
     "title": "Clarkes Road Fire",
@@ -1213,31 +1179,6 @@
     "updated": "20 Dec 2024 19:59"
   },
   {
-    "title": "Adrienne St, Raglan",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_580654",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.425849914",
-    "longitude": "149.643493653",
-    "region": "nsw",
-    "time_of_call": "20 Dec 2024 21:46:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Adrienne St, Raglan, NSW 2795",
-    "council_area": "Bathurst",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "20 Dec 2024 21:46"
-  },
-  {
     "title": "WISEMANS FERRY RD, GUNDERMAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_580658",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1256,5 +1197,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Dec 2024 21:52"
+  },
+  {
+    "title": "KANANGRA DR, GWANDALAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_580659",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.142593384",
+    "longitude": "151.57975769",
+    "region": "nsw",
+    "time_of_call": "20 Dec 2024 22:17:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "KANANGRA DR, GWANDALAN 2259",
+    "council_area": "Central Coast",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Dec 2024 22:17"
   }
 ]
