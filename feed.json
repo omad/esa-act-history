@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "22 Dec 2024 01:15:55"
+    "updated": "22 Dec 2024 01:35:48"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.146868",
     "region": "act",
     "time_of_call": "22 Dec 2024 01:18:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "22 Dec 2024 01:22:52"
+    "updated": "22 Dec 2024 01:34:58"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "22 Dec 2024 01:26:21"
+    "updated": "22 Dec 2024 01:33:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "077960-22122024",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "22 Dec 2024 01:31:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "22 Dec 2024 01:44:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "077961-22122024",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "22 Dec 2024 01:32:50",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "22 Dec 2024 01:42:31"
   },
   {
     "title": "Clarkes Road Fire",
@@ -1021,10 +1057,13 @@
     "latitude": "-32.371166229",
     "longitude": "150.898345947",
     "region": "nsw",
-    "time_of_call": "21 Dec 2024 22:42:00",
+    "time_of_call": "22 Dec 2024 01:31:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "952 THOMAS MITCHELL DR, MUSWELLBROOK 2333",
     "council_area": "Muswellbrook",
     "type": "Grass Fire",
@@ -1033,7 +1072,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Dec 2024 22:42"
+    "updated": "22 Dec 2024 01:31"
   },
   {
     "title": "Hardman Cl, Armidale",
@@ -1083,25 +1122,23 @@
     "updated": "22 Dec 2024 00:37"
   },
   {
-    "title": "PACIFIC HWY, SANCROX",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_580808",
+    "title": "KAMILAROI HWY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_580809",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.4377555839999",
-    "longitude": "152.822891236",
+    "latitude": "-30.6557598109999",
+    "longitude": "150.041519165",
     "region": "nsw",
-    "time_of_call": "22 Dec 2024 01:06:00",
+    "time_of_call": "22 Dec 2024 01:47:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, SANCROX 2446",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
+    "location": "GINS LEAP REST AREA KAMILAROI HWY (B51), BOGGABRI 2382",
+    "council_area": "Narrabri",
+    "type": "Car Fire",
+    "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Dec 2024 01:06"
+    "updated": "22 Dec 2024 01:47"
   }
 ]
