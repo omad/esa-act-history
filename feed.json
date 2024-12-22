@@ -59,24 +59,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "078070-22122024",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
-    "region": "act",
-    "time_of_call": "22 Dec 2024 19:27:10",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KALEEN",
-    "updated": "22 Dec 2024 20:46:43"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WESTON",
     "id": "078071-22122024",
     "latitude": "-35.335896",
@@ -101,13 +83,13 @@
     "longitude": "149.049485",
     "region": "act",
     "time_of_call": "22 Dec 2024 19:51:39",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "22 Dec 2024 20:04:51"
+    "updated": "22 Dec 2024 21:30:36"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +155,13 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "22 Dec 2024 20:30:05",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "22 Dec 2024 21:09:33"
+    "updated": "22 Dec 2024 21:28:15"
   },
   {
     "agency": "Ambulance",
@@ -269,7 +251,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "22 Dec 2024 21:20:11"
+    "updated": "22 Dec 2024 21:32:36"
   },
   {
     "agency": "Ambulance",
@@ -287,7 +269,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "22 Dec 2024 21:17:17"
+    "updated": "22 Dec 2024 21:32:32"
   },
   {
     "agency": "Ambulance",
@@ -323,7 +305,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "22 Dec 2024 21:20:21"
+    "updated": "22 Dec 2024 21:22:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "078094-22122024",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "22 Dec 2024 21:25:57",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "22 Dec 2024 21:34:27"
   },
   {
     "title": "Clarkes Road Fire",
@@ -1083,7 +1083,7 @@
     "latitude": "-32.102779389",
     "longitude": "149.338973999",
     "region": "nsw",
-    "time_of_call": "22 Dec 2024 18:54:00",
+    "time_of_call": "22 Dec 2024 21:26:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1098,7 +1098,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Dec 2024 18:54"
+    "updated": "22 Dec 2024 21:26"
   },
   {
     "title": "MACQUARIE VIEW RD",
@@ -1338,9 +1338,9 @@
     "latitude": "-33.629039764",
     "longitude": "151.015655518",
     "region": "nsw",
-    "time_of_call": "22 Dec 2024 20:54:00",
+    "time_of_call": "22 Dec 2024 21:18:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "9 BANGOR RD, MIDDLE DURAL 2158",
     "council_area": "The Hills",
@@ -1350,7 +1350,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Dec 2024 20:54"
+    "updated": "22 Dec 2024 21:18"
   },
   {
     "title": "CLOTHIERS CREEK RD, CLOTHIERS CREEK",
@@ -1413,26 +1413,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Dec 2024 21:03"
-  },
-  {
-    "title": "CLOTHIERS CREEK RD, BOGANGAR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_580901",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.3303604129999",
-    "longitude": "153.564315796",
-    "region": "nsw",
-    "time_of_call": "22 Dec 2024 21:07:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "CLOTHIERS CREEK RD, BOGANGAR 2488",
-    "council_area": "Tweed",
-    "type": "Truck Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Dec 2024 21:07"
   },
   {
     "title": "BELINDA ST",
