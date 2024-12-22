@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "22 Dec 2024 23:45:57"
+    "updated": "23 Dec 2024 00:04:23"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "22 Dec 2024 23:01:18",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "22 Dec 2024 23:51:32"
+    "updated": "23 Dec 2024 00:17:35"
   },
   {
     "agency": "Ambulance",
@@ -161,43 +161,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "BALONNE STREET, KALEEN, 2617",
-    "updated": "22 Dec 2024 23:16:55"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WHITLAM",
-    "id": "078111-22122024",
-    "latitude": "-35.277508",
-    "longitude": "149.033417",
-    "region": "act",
-    "time_of_call": "22 Dec 2024 23:11:19",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WHITLAM",
-    "updated": "22 Dec 2024 23:51:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "078114-22122024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "22 Dec 2024 23:32:11",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "22 Dec 2024 23:46:09"
+    "updated": "23 Dec 2024 00:09:02"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +179,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "22 Dec 2024 23:51:59"
+    "updated": "23 Dec 2024 00:22:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THROSBY",
+    "id": "078119-22122024",
+    "latitude": "-35.187595",
+    "longitude": "149.161141",
+    "region": "act",
+    "time_of_call": "22 Dec 2024 23:59:46",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THROSBY",
+    "updated": "23 Dec 2024 00:22:45"
   },
   {
     "title": "Clarkes Road Fire",
@@ -1208,9 +1190,9 @@
     "latitude": "-35.072845459",
     "longitude": "143.914108276",
     "region": "nsw",
-    "time_of_call": "22 Dec 2024 22:47:00",
+    "time_of_call": "23 Dec 2024 00:10:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "5545 SWAN HILL RD, MOULAMEIN 2733",
     "council_area": "Murray River",
@@ -1220,7 +1202,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Dec 2024 22:47"
+    "updated": "23 Dec 2024 00:10"
   },
   {
     "title": "PRICES RD, DHULURA",
@@ -1230,10 +1212,13 @@
     "latitude": "-35.022968292",
     "longitude": "147.310577392",
     "region": "nsw",
-    "time_of_call": "22 Dec 2024 23:34:00",
+    "time_of_call": "23 Dec 2024 00:10:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "PRICES RD, DHULURA 2650",
     "council_area": "Wagga Wagga",
     "type": "Grass Fire",
@@ -1242,7 +1227,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Dec 2024 23:34"
+    "updated": "23 Dec 2024 00:10"
   },
   {
     "title": "BURLEY GRIFFIN WAY, ARIAH PARK",
@@ -1252,10 +1237,13 @@
     "latitude": "-34.367530823",
     "longitude": "147.242004394",
     "region": "nsw",
-    "time_of_call": "22 Dec 2024 23:40:00",
+    "time_of_call": "23 Dec 2024 00:06:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "BURLEY GRIFFIN WAY, ARIAH PARK 2665",
     "council_area": "Temora",
     "type": "Grass Fire",
@@ -1264,6 +1252,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Dec 2024 23:40"
+    "updated": "23 Dec 2024 00:06"
   }
 ]
