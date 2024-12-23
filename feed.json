@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "24 Dec 2024 07:30:51"
+    "updated": "24 Dec 2024 07:48:00"
   },
   {
     "agency": "Ambulance",
@@ -88,6 +88,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
     "updated": "24 Dec 2024 07:15:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
+    "id": "078343-24122024",
+    "latitude": "-35.425091",
+    "longitude": "149.088064",
+    "region": "act",
+    "time_of_call": "24 Dec 2024 07:38:32",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "24 Dec 2024 07:41:59"
   },
   {
     "title": "Clarkes Road Fire",
@@ -1257,8 +1275,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581171",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.6715011589999",
-    "longitude": "153.176147461",
+    "latitude": "-29.6738758079999",
+    "longitude": "153.19090271",
     "region": "nsw",
     "time_of_call": "24 Dec 2024 05:41:00",
     "event_type": "burnt area",
@@ -1324,10 +1342,13 @@
     "latitude": "-34.078929902",
     "longitude": "141.967147828",
     "region": "nsw",
-    "time_of_call": "24 Dec 2024 06:45:00",
+    "time_of_call": "24 Dec 2024 07:32:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "32 BOX TREE LANE, CURLWAA 2648",
     "council_area": "Wentworth",
     "type": "Grass Fire",
@@ -1336,7 +1357,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Dec 2024 06:45"
+    "updated": "24 Dec 2024 07:32"
   },
   {
     "title": "SCENIC RD, MONTEAGLE",
@@ -1346,9 +1367,9 @@
     "latitude": "-34.186000824",
     "longitude": "148.344177246",
     "region": "nsw",
-    "time_of_call": "24 Dec 2024 07:18:00",
+    "time_of_call": "24 Dec 2024 07:45:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1346 SCENIC RD, MONTEAGLE 2594",
     "council_area": "Hilltops",
@@ -1358,6 +1379,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Dec 2024 07:18"
+    "updated": "24 Dec 2024 07:45"
   }
 ]
