@@ -45,13 +45,13 @@
     "longitude": "149.135062",
     "region": "act",
     "time_of_call": "24 Dec 2024 02:53:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "24 Dec 2024 03:27:02"
+    "updated": "24 Dec 2024 03:47:46"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,49 @@
     "longitude": "149.081053",
     "region": "act",
     "time_of_call": "24 Dec 2024 03:16:21",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONYTHON",
+    "updated": "24 Dec 2024 03:39:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "078325-24122024",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "24 Dec 2024 03:28:39",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "BONYTHON",
-    "updated": "24 Dec 2024 03:21:19"
+    "location": "GARRAN",
+    "updated": "24 Dec 2024 03:36:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FORDE",
+    "id": "078326-24122024",
+    "latitude": "-35.169175",
+    "longitude": "149.145987",
+    "region": "act",
+    "time_of_call": "24 Dec 2024 03:47:47",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FORDE",
+    "updated": "24 Dec 2024 03:47:49"
   },
   {
     "title": "Clarkes Road Fire",
@@ -1240,7 +1276,7 @@
     "latitude": "-34.794296265",
     "longitude": "149.272583008",
     "region": "nsw",
-    "time_of_call": "24 Dec 2024 02:44:00",
+    "time_of_call": "24 Dec 2024 03:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1252,7 +1288,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Dec 2024 02:44"
+    "updated": "24 Dec 2024 03:43"
   },
   {
     "title": "ARTHUR KAINE DR, PAMBULA",
@@ -1326,9 +1362,9 @@
     "latitude": "-32.932403564",
     "longitude": "148.24307251",
     "region": "nsw",
-    "time_of_call": "24 Dec 2024 03:02:00",
+    "time_of_call": "24 Dec 2024 03:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "9 KADINA ST, ALECTOWN 2870",
     "council_area": "Parkes",
@@ -1336,7 +1372,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Dec 2024 03:02"
+    "updated": "24 Dec 2024 03:38"
   },
   {
     "title": "RAILWAY LANE, WONGARBON",
@@ -1346,9 +1382,9 @@
     "latitude": "-32.312644959",
     "longitude": "148.73324585",
     "region": "nsw",
-    "time_of_call": "24 Dec 2024 03:04:00",
+    "time_of_call": "24 Dec 2024 03:35:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "93 RAILWAY LANE, WONGARBON 2831",
     "council_area": "Dubbo Regional",
@@ -1356,7 +1392,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Dec 2024 03:04"
+    "updated": "24 Dec 2024 03:35"
   },
   {
     "title": "Dacey Av, Moore Park",
@@ -1384,23 +1420,43 @@
     "updated": "24 Dec 2024 03:14"
   },
   {
-    "title": "MURU AV, WINMALEE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581160",
+    "title": "WEST DAPTO RD, KEMBLA GRANGE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581162",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.6792640689999",
-    "longitude": "150.598861694",
+    "latitude": "-34.469520568",
+    "longitude": "150.79524231",
     "region": "nsw",
-    "time_of_call": "24 Dec 2024 03:08:00",
+    "time_of_call": "24 Dec 2024 03:21:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "MURU AV, WINMALEE 2777",
-    "council_area": "Blue Mountains",
+    "location": "206 WEST DAPTO RD, KEMBLA GRANGE 2526",
+    "council_area": "Wollongong",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Dec 2024 03:21"
+  },
+  {
+    "title": "GREENDALE RD, GREENDALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581163",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.900169373",
+    "longitude": "150.649124146",
+    "region": "nsw",
+    "time_of_call": "24 Dec 2024 03:46:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "639 GREENDALE RD, GREENDALE 2745",
+    "council_area": "Liverpool",
     "type": "Car Fire",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "24 Dec 2024 03:08"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Dec 2024 03:46"
   }
 ]
