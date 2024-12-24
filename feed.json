@@ -51,25 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "24 Dec 2024 20:18:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DOWNER",
-    "id": "078461-24122024",
-    "latitude": "-35.245131",
-    "longitude": "149.143546",
-    "region": "act",
-    "time_of_call": "24 Dec 2024 18:36:24",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DOWNER",
-    "updated": "24 Dec 2024 19:30:28"
+    "updated": "24 Dec 2024 20:33:43"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +135,13 @@
     "longitude": "149.170863",
     "region": "act",
     "time_of_call": "24 Dec 2024 20:03:23",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUME",
-    "updated": "24 Dec 2024 20:17:33"
+    "updated": "24 Dec 2024 20:28:24"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +153,13 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "24 Dec 2024 20:18:54",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "24 Dec 2024 20:22:53"
+    "updated": "24 Dec 2024 20:24:43"
   },
   {
     "title": "CLOWES RD, CURRABUBULA",
@@ -454,28 +436,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "22 Dec 2024 18:20"
-  },
-  {
-    "title": "BALDRY RD, CUMNOCK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_580879",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.927940368",
-    "longitude": "148.731811524",
-    "region": "nsw",
-    "time_of_call": "23 Dec 2024 21:45:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BALDRY RD, CUMNOCK 2867",
-    "council_area": "Cabonne",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Dec 2024 21:45"
   },
   {
     "title": "HILL END RD, HILL END",
@@ -1099,9 +1059,9 @@
     "latitude": "-28.502193451",
     "longitude": "153.463562012",
     "region": "nsw",
-    "time_of_call": "24 Dec 2024 19:53:00",
+    "time_of_call": "24 Dec 2024 20:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "17 SKYLINE RD, THE POCKET 2483",
     "council_area": "Byron",
@@ -1111,6 +1071,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Dec 2024 19:53"
+    "updated": "24 Dec 2024 20:23"
+  },
+  {
+    "title": "ROCHE ESTATE BROKE RD, POKOLBIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581287",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.772773743",
+    "longitude": "151.303405761",
+    "region": "nsw",
+    "time_of_call": "24 Dec 2024 20:23:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ROCHE ESTATE BROKE RD, POKOLBIN 2320",
+    "council_area": "Cessnock",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Dec 2024 20:23"
   }
 ]
