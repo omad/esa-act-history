@@ -3,26 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "HOUSE FIRE - RIVETT",
-    "id": "078489-24122024",
-    "latitude": "-35.34271849",
-    "longitude": "149.0410967699",
-    "region": "act",
-    "time_of_call": "24 Dec 2024 23:25:13",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "HOUSE FIRE",
-    "type_description": "",
-    "type_icon": "",
-    "location": "HINDMARSH DRIVE, RIVETT, 2611",
-    "updated": "24 Dec 2024 23:47:20"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - LYNEHAM",
     "id": "078494-25122024",
     "latitude": "-35.238929",
@@ -65,13 +45,13 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "25 Dec 2024 02:27:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "25 Dec 2024 02:30:57"
+    "updated": "25 Dec 2024 02:44:53"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +69,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "25 Dec 2024 02:28:12"
+    "updated": "25 Dec 2024 02:46:53"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +81,13 @@
     "longitude": "149.085827",
     "region": "act",
     "time_of_call": "25 Dec 2024 02:29:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "25 Dec 2024 02:32:19"
+    "updated": "25 Dec 2024 02:37:47"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +99,31 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "25 Dec 2024 02:30:50",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "25 Dec 2024 02:31:48"
+    "updated": "25 Dec 2024 02:40:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GIRALANG",
+    "id": "078506-25122024",
+    "latitude": "-35.210049",
+    "longitude": "149.100175",
+    "region": "act",
+    "time_of_call": "25 Dec 2024 02:45:51",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GIRALANG",
+    "updated": "25 Dec 2024 02:48:07"
   },
   {
     "title": "CLOWES RD, CURRABUBULA",
@@ -863,27 +861,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Dec 2024 00:23"
-  },
-  {
-    "title": "RESERVE RD, CRESCENT HEAD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581311",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.187147141",
-    "longitude": "152.977493287",
-    "region": "nsw",
-    "time_of_call": "25 Dec 2024 02:18:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "RESERVE RD, CRESCENT HEAD 2440",
-    "council_area": "Kempsey",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Dec 2024 02:18"
   }
 ]
