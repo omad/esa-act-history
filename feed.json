@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "25 Dec 2024 16:31:19"
+    "updated": "25 Dec 2024 16:39:53"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "25 Dec 2024 15:40:11",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "25 Dec 2024 15:51:51"
+    "updated": "25 Dec 2024 16:47:51"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "25 Dec 2024 16:33:38"
+    "updated": "25 Dec 2024 16:36:23"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "25 Dec 2024 16:34:53"
+    "updated": "25 Dec 2024 16:36:47"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "OAKS ESTATE",
-    "updated": "25 Dec 2024 16:35:45"
+    "updated": "25 Dec 2024 16:48:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "078607-25122024",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "25 Dec 2024 16:38:04",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "25 Dec 2024 16:47:05"
   },
   {
     "title": "CLOWES RD, CURRABUBULA",
@@ -401,7 +419,7 @@
     "latitude": "-33.561000824",
     "longitude": "148.397003174",
     "region": "nsw",
-    "time_of_call": "24 Dec 2024 09:56:00",
+    "time_of_call": "25 Dec 2024 16:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -413,7 +431,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Dec 2024 09:56"
+    "updated": "25 Dec 2024 16:43"
   },
   {
     "title": "SNOWGUMS DR, GOULBURN NSW",
@@ -498,7 +516,7 @@
     "latitude": "-32.4699058539999",
     "longitude": "152.326950073",
     "region": "nsw",
-    "time_of_call": "24 Dec 2024 15:39:00",
+    "time_of_call": "25 Dec 2024 16:09:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -513,7 +531,7 @@
     "fire": "Yes",
     "size": "75 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "24 Dec 2024 15:39"
+    "updated": "25 Dec 2024 16:09"
   },
   {
     "title": "CROSSING RD, TOMS CREEK",
@@ -874,28 +892,6 @@
     "updated": "25 Dec 2024 13:49"
   },
   {
-    "title": "KILLINGWORTH RD, KILLINGWORTH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581351",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.92042923",
-    "longitude": "151.566558837",
-    "region": "nsw",
-    "time_of_call": "25 Dec 2024 16:05:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "KILLINGWORTH RD, KILLINGWORTH 2278",
-    "council_area": "Lake Macquarie",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "2 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Dec 2024 16:05"
-  },
-  {
     "title": "SACKVILLE RD, EBENEZER",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581353",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -965,28 +961,67 @@
     "updated": "25 Dec 2024 16:06"
   },
   {
-    "title": "Jersey Rd, Emerton",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581360",
+    "title": "TURON STATE FOREST WINBURNDALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581361",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.742970999",
-    "longitude": "150.810835",
+    "latitude": "-33.275218964",
+    "longitude": "149.811233521",
     "region": "nsw",
-    "time_of_call": "25 Dec 2024 16:31:00",
+    "time_of_call": "25 Dec 2024 16:38:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Jersey Rd, Emerton, NSW 2770",
-    "council_area": "Blacktown",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "TURON STATE FOREST WINBURNDALE 2795",
+    "council_area": "Bathurst",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Dec 2024 16:38"
+  },
+  {
+    "title": "BULBY CL, WANG WAUK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581362",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.132732392",
+    "longitude": "152.265945434",
+    "region": "nsw",
+    "time_of_call": "25 Dec 2024 16:38:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "11 BULBY CL, WANG WAUK 2423",
+    "council_area": "Mid-Coast",
     "type": "Grass Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Dec 2024 16:31"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Dec 2024 16:38"
+  },
+  {
+    "title": "HULBERT RD, UPPER COLO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581363",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.419269562",
+    "longitude": "150.73286438",
+    "region": "nsw",
+    "time_of_call": "25 Dec 2024 16:40:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "UPPER COLO RESERVE 103 HULBERT RD, UPPER COLO 2756",
+    "council_area": "Hawkesbury",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Dec 2024 16:40"
   }
 ]
