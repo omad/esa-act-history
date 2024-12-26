@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "MILLEN STREET, HUGHES, 2605",
-    "updated": ""
+    "updated": "27 Dec 2024 08:28:29"
   },
   {
     "agency": "Fire",
@@ -38,24 +38,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "MILLEN STREET, HUGHES, 2605",
     "updated": "27 Dec 2024 08:15:07"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "078940-27122024",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "27 Dec 2024 06:43:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "27 Dec 2024 08:19:06"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "27 Dec 2024 08:09:32"
+    "updated": "27 Dec 2024 08:26:27"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +139,13 @@
     "longitude": "149.143165",
     "region": "act",
     "time_of_call": "27 Dec 2024 07:58:28",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "27 Dec 2024 08:02:02"
+    "updated": "27 Dec 2024 08:22:40"
   },
   {
     "agency": "Ambulance",
@@ -200,6 +182,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
     "updated": "27 Dec 2024 08:19:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "078952-27122024",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "27 Dec 2024 08:28:06",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "27 Dec 2024 08:28:38"
   },
   {
     "title": "ROACHS ACCESS RD, BEARBONG",
@@ -1228,8 +1228,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581581",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.437187195",
-    "longitude": "148.705612183",
+    "latitude": "-32.421558461",
+    "longitude": "148.745613098",
     "region": "nsw",
     "time_of_call": "27 Dec 2024 07:44:00",
     "event_type": "burnt area",
@@ -1244,31 +1244,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Dec 2024 07:44"
-  },
-  {
-    "title": "Percival St, Clarendon",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581582",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.5997169999999",
-    "longitude": "150.795365",
-    "region": "nsw",
-    "time_of_call": "27 Dec 2024 08:02:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "116 Percival St, Clarendon, NSW 2756",
-    "council_area": "Hawkesbury",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "27 Dec 2024 08:02"
   },
   {
     "title": "BENNETT RD, LONDONDERRY",
@@ -1300,9 +1275,9 @@
     "latitude": "-33.8423080439999",
     "longitude": "150.678344727",
     "region": "nsw",
-    "time_of_call": "27 Dec 2024 07:51:00",
+    "time_of_call": "27 Dec 2024 08:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "101 LITTLEFIELDS RD, MULGOA 2745",
     "council_area": "Penrith",
@@ -1312,7 +1287,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Dec 2024 07:51"
+    "updated": "27 Dec 2024 08:21"
   },
   {
     "title": "Deep Creek, Kosciuszko",
