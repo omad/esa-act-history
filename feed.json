@@ -33,7 +33,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FRASER",
-    "updated": "27 Dec 2024 06:03:56"
+    "updated": "27 Dec 2024 06:25:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "078938-27122024",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "27 Dec 2024 06:28:29",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PALMERSTON",
+    "updated": "27 Dec 2024 06:28:54"
   },
   {
     "title": "ROACHS ACCESS RD, BEARBONG",
@@ -779,28 +797,6 @@
     "updated": "26 Dec 2024 22:50"
   },
   {
-    "title": "CONQUEST CL, RUTHERFORD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581495",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.7208061219999",
-    "longitude": "151.507064819",
-    "region": "nsw",
-    "time_of_call": "26 Dec 2024 18:55:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "25 CONQUEST CL, RUTHERFORD 2320",
-    "council_area": "Maitland",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Dec 2024 18:55"
-  },
-  {
     "title": "PACIFIC HWY, GULMARRAD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581521",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -970,31 +966,6 @@
     "updated": "27 Dec 2024 04:54"
   },
   {
-    "title": "Alice St, Moree",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581568",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.471261",
-    "longitude": "149.847259",
-    "region": "nsw",
-    "time_of_call": "27 Dec 2024 05:55:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Alice St, Moree, NSW 2400",
-    "council_area": "Moree Plains",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "27 Dec 2024 05:55"
-  },
-  {
     "title": "WYEE RD, WYEE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581569",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1002,9 +973,9 @@
     "latitude": "-33.1868324279999",
     "longitude": "151.491958618",
     "region": "nsw",
-    "time_of_call": "27 Dec 2024 06:02:00",
+    "time_of_call": "27 Dec 2024 06:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "WYEE RD, WYEE 2259",
     "council_area": "Lake Macquarie",
@@ -1014,7 +985,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Dec 2024 06:02"
+    "updated": "27 Dec 2024 06:27"
   },
   {
     "title": "COBAH RD, ARCADIA",
@@ -1059,5 +1030,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Dec 2024 06:04"
+  },
+  {
+    "title": "CHAUVEL RD, TABULAM",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581572",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.911279678",
+    "longitude": "152.534225464",
+    "region": "nsw",
+    "time_of_call": "27 Dec 2024 06:19:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CHAUVEL RD, TABULAM 2469",
+    "council_area": "Tenterfield",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Dec 2024 06:19"
   }
 ]
