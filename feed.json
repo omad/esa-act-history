@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "28 Dec 2024 06:18:08"
+    "updated": "28 Dec 2024 06:37:09"
   },
   {
     "agency": "Ambulance",
@@ -45,13 +45,13 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "28 Dec 2024 05:52:01",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "28 Dec 2024 05:58:23"
+    "updated": "28 Dec 2024 06:48:28"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "28 Dec 2024 06:26:53"
+    "updated": "28 Dec 2024 06:42:13"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,31 @@
     "longitude": "149.126815",
     "region": "act",
     "time_of_call": "28 Dec 2024 06:23:32",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "28 Dec 2024 06:47:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HIGGINS",
+    "id": "079131-28122024",
+    "latitude": "-35.230526",
+    "longitude": "149.025052",
+    "region": "act",
+    "time_of_call": "28 Dec 2024 06:38:18",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "TURNER",
-    "updated": "28 Dec 2024 06:28:37"
+    "location": "HIGGINS",
+    "updated": "28 Dec 2024 06:42:13"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1534,9 +1552,9 @@
     "latitude": "-32.434986115",
     "longitude": "151.139739991",
     "region": "nsw",
-    "time_of_call": "27 Dec 2024 17:38:00",
+    "time_of_call": "28 Dec 2024 06:32:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GLENNIES CREEK RD, FALBROOK 2330",
     "council_area": "Singleton",
@@ -1544,9 +1562,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Dec 2024 17:38"
+    "updated": "28 Dec 2024 06:32"
   },
   {
     "title": "ATTUNGA STATE FOREST INLET RD, ATTUNGA",
@@ -1789,9 +1807,9 @@
     "latitude": "-34.6779937749999",
     "longitude": "145.049102783",
     "region": "nsw",
-    "time_of_call": "28 Dec 2024 05:43:00",
+    "time_of_call": "28 Dec 2024 06:32:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "JERILDERIE RD, HAY SOUTH 2711",
     "council_area": "Hay",
@@ -1801,29 +1819,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 05:43"
-  },
-  {
-    "title": "BOORALIE RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581849",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6789894099999",
-    "longitude": "151.224594116",
-    "region": "nsw",
-    "time_of_call": "28 Dec 2024 06:22:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "TERREY HILLS NURSING HOME 42 BOORALIE RD, TERREY HILLS 2084",
-    "council_area": "Northern Beaches",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 06:22"
+    "updated": "28 Dec 2024 06:32"
   },
   {
     "title": "(PACIFIC MTWY), COWAN",
@@ -1833,9 +1829,9 @@
     "latitude": "-33.605953217",
     "longitude": "151.163772583",
     "region": "nsw",
-    "time_of_call": "28 Dec 2024 06:17:00",
+    "time_of_call": "28 Dec 2024 06:43:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "M1 (PACIFIC MTWY), COWAN 2081",
     "council_area": "Hornsby",
@@ -1845,6 +1841,31 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 06:17"
+    "updated": "28 Dec 2024 06:43"
+  },
+  {
+    "title": "Drummond St, Coonabarabran",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581851",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.2683049999999",
+    "longitude": "149.283533",
+    "region": "nsw",
+    "time_of_call": "28 Dec 2024 06:41:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Drummond St, Coonabarabran, NSW 2357",
+    "council_area": "Warrumbungle",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "28 Dec 2024 06:41"
   }
 ]
