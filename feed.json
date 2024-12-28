@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "ATHERTON STREET, DOWNER, 2602",
-    "updated": "29 Dec 2024 00:32:32"
+    "updated": "29 Dec 2024 00:38:59"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "29 Dec 2024 00:30:57"
+    "updated": "29 Dec 2024 00:45:21"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "29 Dec 2024 00:18:31"
+    "updated": "29 Dec 2024 00:37:24"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +235,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "29 Dec 2024 00:16:32"
+    "updated": "29 Dec 2024 00:40:15"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +253,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'MALLEY",
-    "updated": "29 Dec 2024 00:14:41"
+    "updated": "29 Dec 2024 00:41:58"
   },
   {
     "agency": "Ambulance",
@@ -283,13 +283,13 @@
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "29 Dec 2024 00:21:23",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "29 Dec 2024 00:25:38"
+    "updated": "29 Dec 2024 00:34:31"
   },
   {
     "agency": "Ambulance",
@@ -301,13 +301,13 @@
     "longitude": "149.064742",
     "region": "act",
     "time_of_call": "29 Dec 2024 00:24:14",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "29 Dec 2024 00:29:54"
+    "updated": "29 Dec 2024 00:47:46"
   },
   {
     "agency": "Ambulance",
@@ -343,7 +343,79 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "29 Dec 2024 00:31:46"
+    "updated": "29 Dec 2024 00:47:04"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "079310-29122024",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "29 Dec 2024 00:35:30",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONNER",
+    "updated": "29 Dec 2024 00:48:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "079311-29122024",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "29 Dec 2024 00:37:04",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "29 Dec 2024 00:40:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUME",
+    "id": "079314-29122024",
+    "latitude": "-35.383449",
+    "longitude": "149.170863",
+    "region": "act",
+    "time_of_call": "29 Dec 2024 00:44:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUME",
+    "updated": "29 Dec 2024 00:46:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "079316-29122024",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "29 Dec 2024 00:48:13",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "29 Dec 2024 00:48:51"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1950,9 +2022,9 @@
     "latitude": "-34.44425",
     "longitude": "150.439550001",
     "region": "nsw",
-    "time_of_call": "29 Dec 2024 00:31:00",
+    "time_of_call": "29 Dec 2024 00:36:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1965,7 +2037,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "29 Dec 2024 00:31"
+    "updated": "29 Dec 2024 00:36"
   },
   {
     "title": "STONY CREEK RD, CARABOST",
@@ -1975,10 +2047,13 @@
     "latitude": "-35.62928772",
     "longitude": "147.753082276",
     "region": "nsw",
-    "time_of_call": "29 Dec 2024 00:19:00",
+    "time_of_call": "29 Dec 2024 00:42:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "STONY CREEK RD, CARABOST 2650",
     "council_area": "Greater Hume",
     "type": "Grass Fire",
@@ -1987,6 +2062,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2024 00:19"
+    "updated": "29 Dec 2024 00:42"
   }
 ]
