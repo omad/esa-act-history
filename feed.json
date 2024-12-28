@@ -60,24 +60,6 @@
     "alert_level": "",
     "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PHILLIP",
-    "id": "079323-29122024",
-    "latitude": "-35.348136",
-    "longitude": "149.090018",
-    "region": "act",
-    "time_of_call": "29 Dec 2024 01:51:18",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PHILLIP",
-    "updated": "29 Dec 2024 04:47:07"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PHILLIP",
     "id": "079325-29122024",
     "latitude": "-35.348136",
     "longitude": "149.090018",
@@ -119,13 +101,13 @@
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "29 Dec 2024 03:40:01",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "29 Dec 2024 03:53:10"
+    "updated": "29 Dec 2024 05:27:03"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "29 Dec 2024 04:30:06"
+    "updated": "29 Dec 2024 05:12:35"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "29 Dec 2024 04:25:52"
+    "updated": "29 Dec 2024 05:10:37"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +161,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "29 Dec 2024 04:38:02"
+    "updated": "29 Dec 2024 05:00:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AMAROO",
+    "id": "079337-29122024",
+    "latitude": "-35.172039",
+    "longitude": "149.129625",
+    "region": "act",
+    "time_of_call": "29 Dec 2024 05:16:53",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AMAROO",
+    "updated": "29 Dec 2024 05:23:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "079338-29122024",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "29 Dec 2024 05:25:57",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "29 Dec 2024 05:28:29"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1801,28 +1819,6 @@
     "updated": "29 Dec 2024 04:11"
   },
   {
-    "title": "BANJO PATERSON WAY, ORANGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582009",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.251934051",
-    "longitude": "149.137512206",
-    "region": "nsw",
-    "time_of_call": "29 Dec 2024 04:22:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "BANJO PATERSON WAY, ORANGE 2800",
-    "council_area": "Orange",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2024 04:22"
-  },
-  {
     "title": "SIXTH AV, AUSTRAL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582010",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1830,9 +1826,9 @@
     "latitude": "-33.9447708129999",
     "longitude": "150.805633544",
     "region": "nsw",
-    "time_of_call": "29 Dec 2024 04:21:00",
+    "time_of_call": "29 Dec 2024 04:55:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "260 SIXTH AV, AUSTRAL 2179",
     "council_area": "Liverpool",
@@ -1842,28 +1838,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2024 04:21"
-  },
-  {
-    "title": "BELINDA ST, GERRINGONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582011",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.7479782099999",
-    "longitude": "150.830551147",
-    "region": "nsw",
-    "time_of_call": "29 Dec 2024 04:36:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "BILLOW VIEW 159 BELINDA ST, GERRINGONG 2534",
-    "council_area": "Kiama",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2024 04:36"
+    "updated": "29 Dec 2024 04:55"
   }
 ]
