@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "DJERRKURA STREET, ROY MARIKA STREET, BONNER, 2914",
-    "updated": "28 Dec 2024 16:32:21"
+    "updated": "28 Dec 2024 16:46:26"
   },
   {
     "agency": "Fire",
@@ -133,24 +133,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "079218-28122024",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "28 Dec 2024 15:49:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "28 Dec 2024 16:00:44"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BELCONNEN",
     "id": "079219-28122024",
     "latitude": "-35.235936",
@@ -163,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "28 Dec 2024 16:25:22"
+    "updated": "28 Dec 2024 16:48:02"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +193,13 @@
     "longitude": "148.975963",
     "region": "act",
     "time_of_call": "28 Dec 2024 16:08:19",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "PADDYS RIVER",
-    "updated": "28 Dec 2024 16:31:28"
+    "updated": "28 Dec 2024 16:41:55"
   },
   {
     "agency": "Ambulance",
@@ -229,13 +211,49 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "28 Dec 2024 16:25:35",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "28 Dec 2024 16:39:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "079227-28122024",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "28 Dec 2024 16:40:46",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "28 Dec 2024 16:43:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "079228-28122024",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "28 Dec 2024 16:42:01",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CAMPBELL",
-    "updated": "28 Dec 2024 16:29:51"
+    "location": "STIRLING",
+    "updated": "28 Dec 2024 16:46:46"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -395,7 +413,7 @@
     "latitude": "-32.851154327",
     "longitude": "150.78918457",
     "region": "nsw",
-    "time_of_call": "28 Dec 2024 11:16:00",
+    "time_of_call": "28 Dec 2024 16:00:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -410,7 +428,7 @@
     "fire": "Yes",
     "size": "12 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 11:16"
+    "updated": "28 Dec 2024 16:00"
   },
   {
     "title": "MURRAY ROSE AV",
@@ -465,7 +483,7 @@
     "latitude": "-35.8361630159999",
     "longitude": "148.192902556",
     "region": "nsw",
-    "time_of_call": "28 Dec 2024 11:44:00",
+    "time_of_call": "28 Dec 2024 16:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -480,7 +498,7 @@
     "fire": "Yes",
     "size": "13 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 11:44"
+    "updated": "28 Dec 2024 16:41"
   },
   {
     "title": "MCKINLEY RD, MERRIWAGGA",
@@ -531,8 +549,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581586",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-36.0611877439999",
-    "longitude": "148.296966552",
+    "latitude": "-36.0586965649999",
+    "longitude": "148.314403367",
     "region": "nsw",
     "time_of_call": "28 Dec 2024 14:46:00",
     "event_type": "burnt area",
@@ -759,7 +777,7 @@
     "latitude": "-30.819704056",
     "longitude": "149.446166992",
     "region": "nsw",
-    "time_of_call": "28 Dec 2024 09:19:00",
+    "time_of_call": "28 Dec 2024 16:40:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -774,7 +792,7 @@
     "fire": "Yes",
     "size": "103 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 09:19"
+    "updated": "28 Dec 2024 16:40"
   },
   {
     "title": "YELLOW ROCK RD, BROKE",
@@ -884,7 +902,7 @@
     "latitude": "-32.882072449",
     "longitude": "150.637390137",
     "region": "nsw",
-    "time_of_call": "28 Dec 2024 11:28:00",
+    "time_of_call": "28 Dec 2024 16:20:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -899,7 +917,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 11:28"
+    "updated": "28 Dec 2024 16:20"
   },
   {
     "title": "WOLLOMBI ROAD PAYNES CROSSING",
@@ -1159,9 +1177,9 @@
     "latitude": "-32.6047325129999",
     "longitude": "150.670471191",
     "region": "nsw",
-    "time_of_call": "28 Dec 2024 11:08:00",
+    "time_of_call": "28 Dec 2024 16:23:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1174,7 +1192,7 @@
     "fire": "Yes",
     "size": "4 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 11:08"
+    "updated": "28 Dec 2024 16:23"
   },
   {
     "title": "Nayook Creek",
@@ -1665,10 +1683,13 @@
     "latitude": "-31.797344208",
     "longitude": "150.957183837",
     "region": "nsw",
-    "time_of_call": "28 Dec 2024 13:17:00",
+    "time_of_call": "28 Dec 2024 16:42:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "SANDY CREEK RD, SANDY CREEK 2338",
     "council_area": "Upper Hunter",
     "type": "Bush Fire",
@@ -1677,7 +1698,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 13:17"
+    "updated": "28 Dec 2024 16:42"
   },
   {
     "title": "WARRABAH RD, WARRABAH",
@@ -1712,10 +1733,13 @@
     "latitude": "-32.6303037169999",
     "longitude": "150.588908673",
     "region": "nsw",
-    "time_of_call": "28 Dec 2024 13:35:00",
+    "time_of_call": "28 Dec 2024 16:16:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "MARTINDALE RD, MARTINDALE 2328",
     "council_area": "Muswellbrook",
     "type": "Bush Fire",
@@ -1724,7 +1748,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 13:35"
+    "updated": "28 Dec 2024 16:16"
   },
   {
     "title": "TOMBOYE RD, TOMBOYE",
@@ -1750,28 +1774,6 @@
     "size": "4 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Dec 2024 15:22"
-  },
-  {
-    "title": "LEDDAYS CREEK RD, STOTTS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581905",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.2896003719999",
-    "longitude": "153.491073608",
-    "region": "nsw",
-    "time_of_call": "28 Dec 2024 15:52:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "LEDDAYS CREEK RD, STOTTS CREEK 2487",
-    "council_area": "Tweed",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 15:52"
   },
   {
     "title": "TOURLES RD, LITTLE JACKS CREEK",
@@ -1833,8 +1835,11 @@
     "region": "nsw",
     "time_of_call": "28 Dec 2024 16:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "MIDDLEBROOK RD, MIDDLE BROOK 2337",
     "council_area": "Upper Hunter",
     "type": "Bush Fire",
@@ -1844,28 +1849,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Dec 2024 16:25"
-  },
-  {
-    "title": "HUME HWY, KYEAMBA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581918",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.381259918",
-    "longitude": "147.678222656",
-    "region": "nsw",
-    "time_of_call": "28 Dec 2024 15:29:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "MERRIGAL 6165 HUME HWY, KYEAMBA 2650",
-    "council_area": "Wagga Wagga",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 15:29"
   },
   {
     "title": "WARATAH RD, WARRIMOO",
@@ -1915,6 +1898,31 @@
     "updated": "28 Dec 2024 16:10"
   },
   {
+    "title": "BULGAS RD, ORANGE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581924",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.26991272",
+    "longitude": "149.134094239",
+    "region": "nsw",
+    "time_of_call": "28 Dec 2024 16:41:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "BULGAS RD, ORANGE 2800",
+    "council_area": "Orange",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Dec 2024 16:41"
+  },
+  {
     "title": "Dows Lane, Coonabarabran",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581925",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1922,9 +1930,9 @@
     "latitude": "-31.264512",
     "longitude": "149.28546",
     "region": "nsw",
-    "time_of_call": "28 Dec 2024 16:23:00",
+    "time_of_call": "28 Dec 2024 16:35:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1937,6 +1945,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "28 Dec 2024 16:23"
+    "updated": "28 Dec 2024 16:35"
+  },
+  {
+    "title": "KENTHURST RD, KENTHURST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581926",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6710357659999",
+    "longitude": "151.006973267",
+    "region": "nsw",
+    "time_of_call": "28 Dec 2024 16:33:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "110 KENTHURST RD, KENTHURST 2156",
+    "council_area": "The Hills",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Dec 2024 16:33"
   }
 ]
