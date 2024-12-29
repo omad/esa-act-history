@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WANNIASSA",
-    "id": "079420-29122024",
-    "latitude": "-35.399113",
-    "longitude": "149.091978",
-    "region": "act",
-    "time_of_call": "29 Dec 2024 14:42:16",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WANNIASSA",
-    "updated": "29 Dec 2024 16:05:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CONDER",
     "id": "079422-29122024",
     "latitude": "-35.458351",
@@ -69,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORREST",
-    "updated": "29 Dec 2024 15:44:49"
+    "updated": "29 Dec 2024 16:47:16"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +81,31 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "29 Dec 2024 16:26:45",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "29 Dec 2024 16:47:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "079438-29122024",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "29 Dec 2024 16:35:20",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CALWELL",
-    "updated": "29 Dec 2024 16:32:35"
+    "location": "WARAMANGA",
+    "updated": "29 Dec 2024 16:46:30"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -190,7 +190,7 @@
     "latitude": "-32.851154327",
     "longitude": "150.78918457",
     "region": "nsw",
-    "time_of_call": "29 Dec 2024 10:33:00",
+    "time_of_call": "29 Dec 2024 16:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -205,7 +205,7 @@
     "fire": "Yes",
     "size": "12 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2024 10:33"
+    "updated": "29 Dec 2024 16:10"
   },
   {
     "title": "MURRAY ROSE AV",
@@ -382,7 +382,7 @@
     "latitude": "-32.791567749",
     "longitude": "150.798554421",
     "region": "nsw",
-    "time_of_call": "29 Dec 2024 12:57:00",
+    "time_of_call": "29 Dec 2024 16:07:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -395,9 +395,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "188 ha",
+    "size": "197 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2024 12:57"
+    "updated": "29 Dec 2024 16:07"
   },
   {
     "title": "REEDY CREEK, GARLAND VALLEY",
@@ -407,7 +407,7 @@
     "latitude": "-32.869350434",
     "longitude": "150.760055542",
     "region": "nsw",
-    "time_of_call": "29 Dec 2024 10:41:00",
+    "time_of_call": "29 Dec 2024 16:08:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -420,9 +420,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "5 ha",
+    "size": "7 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2024 10:41"
+    "updated": "29 Dec 2024 16:08"
   },
   {
     "title": "Station Creek, THE PILLIGA",
@@ -707,7 +707,7 @@
     "latitude": "-32.2658691409999",
     "longitude": "150.54170227",
     "region": "nsw",
-    "time_of_call": "29 Dec 2024 10:26:00",
+    "time_of_call": "29 Dec 2024 16:01:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "status_description": "",
@@ -720,9 +720,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "12 ha",
+    "size": "23 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2024 10:26"
+    "updated": "29 Dec 2024 16:01"
   },
   {
     "title": "DOLOMITE ROAD",
@@ -832,7 +832,7 @@
     "latitude": "-28.656097412",
     "longitude": "152.41166687",
     "region": "nsw",
-    "time_of_call": "29 Dec 2024 11:46:00",
+    "time_of_call": "29 Dec 2024 16:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -845,9 +845,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "127 ha",
+    "size": "129 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "29 Dec 2024 11:46"
+    "updated": "29 Dec 2024 16:33"
   },
   {
     "title": "WARKTON RD, COONABARABRAN",
@@ -1125,7 +1125,7 @@
     "latitude": "-29.441190719",
     "longitude": "149.868774414",
     "region": "nsw",
-    "time_of_call": "28 Dec 2024 17:11:00",
+    "time_of_call": "29 Dec 2024 16:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1140,7 +1140,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2024 17:11"
+    "updated": "29 Dec 2024 16:30"
   },
   {
     "title": "BOX FOREST RD, KINGSTOWN",
@@ -1837,7 +1837,7 @@
     "latitude": "-33.425800323",
     "longitude": "150.078445434",
     "region": "nsw",
-    "time_of_call": "29 Dec 2024 16:28:00",
+    "time_of_call": "29 Dec 2024 16:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1849,29 +1849,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2024 16:28"
-  },
-  {
-    "title": "MAIN ST, CLUNES",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582075",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.7249927519999",
-    "longitude": "153.410217285",
-    "region": "nsw",
-    "time_of_call": "29 Dec 2024 15:40:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "MAIN ST, CLUNES 2480",
-    "council_area": "Lismore",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2024 15:40"
+    "updated": "29 Dec 2024 16:31"
   },
   {
     "title": "Athlone Way, Maryland",
@@ -1968,26 +1946,6 @@
     "updated": "29 Dec 2024 16:05"
   },
   {
-    "title": "POINT LOOKOUT RD, EBOR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582082",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.493591309",
-    "longitude": "152.353363037",
-    "region": "nsw",
-    "time_of_call": "29 Dec 2024 15:50:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "UNIT 412 POINT LOOKOUT RD, EBOR 2453",
-    "council_area": "Armidale",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2024 15:50"
-  },
-  {
     "title": "SUNSET STRIP",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582083",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2055,5 +2013,71 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "29 Dec 2024 16:31"
+  },
+  {
+    "title": "EDWARD ST, MOREE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582087",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.469112396",
+    "longitude": "149.835968017",
+    "region": "nsw",
+    "time_of_call": "29 Dec 2024 16:35:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "EDWARD ST, MOREE 2400",
+    "council_area": "Moree Plains",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "29 Dec 2024 16:35"
+  },
+  {
+    "title": "SPRING CREEK RD, YARRAWONGA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582088",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.336959839",
+    "longitude": "149.678939819",
+    "region": "nsw",
+    "time_of_call": "29 Dec 2024 16:38:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1429 SPRING CREEK RD, YARRAWONGA 2850",
+    "council_area": "Mid-Western",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Dec 2024 16:38"
+  },
+  {
+    "title": "THULE RD, NELLIGEN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582089",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.64748764",
+    "longitude": "150.143859863",
+    "region": "nsw",
+    "time_of_call": "29 Dec 2024 16:47:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "THULE RD, NELLIGEN 2536",
+    "council_area": "Eurobodalla",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Dec 2024 16:47"
   }
 ]
