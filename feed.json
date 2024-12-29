@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "30 Dec 2024 07:17:51"
+    "updated": "30 Dec 2024 07:43:17"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LAWSON",
-    "updated": "30 Dec 2024 07:07:38"
+    "updated": "30 Dec 2024 07:46:07"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "30 Dec 2024 07:29:05"
+    "updated": "30 Dec 2024 07:44:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "079544-30122024",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "30 Dec 2024 07:38:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "30 Dec 2024 07:42:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "079545-30122024",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "30 Dec 2024 07:48:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "30 Dec 2024 07:48:58"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -799,7 +835,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "152 ha",
-    "major_fire_update_as_at_29_dec_2024_7:07pm": "<a href='http://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12131' target='_blank'> More information</a>",
+    "major_fire_update_as_at_30_dec_2024_7:31am": "<a href='http://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12131' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Dec 2024 02:49"
   },
@@ -1781,9 +1817,9 @@
     "latitude": "-34.776836395",
     "longitude": "149.955825806",
     "region": "nsw",
-    "time_of_call": "30 Dec 2024 05:15:00",
+    "time_of_call": "30 Dec 2024 07:38:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "584 JERRARA RD, MARULAN 2579",
     "council_area": "Goulburn Mulwaree",
@@ -1793,7 +1829,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Dec 2024 05:15"
+    "updated": "30 Dec 2024 07:38"
   },
   {
     "title": "RICHARD RD, SCOTLAND ISLAND",
@@ -1838,28 +1874,6 @@
     "updated": "30 Dec 2024 06:34"
   },
   {
-    "title": "GROSE VALE RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582162",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.591815949",
-    "longitude": "150.702346802",
-    "region": "nsw",
-    "time_of_call": "30 Dec 2024 06:56:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "ST JOHN OF GOD HOSPITAL 177 GROSE VALE RD, NORTH RICHMOND 2754",
-    "council_area": "Hawkesbury",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Dec 2024 06:56"
-  },
-  {
     "title": "COLINROOBIE RD, LEETON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582163",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1900,5 +1914,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Dec 2024 07:07"
+  },
+  {
+    "title": "POST OFFICE RD, GLENORIE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582165",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6054801939999",
+    "longitude": "151.005996704",
+    "region": "nsw",
+    "time_of_call": "30 Dec 2024 07:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "POST OFFICE RD, GLENORIE 2157",
+    "council_area": "The Hills",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Dec 2024 07:30"
   }
 ]
