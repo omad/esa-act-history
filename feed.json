@@ -51,7 +51,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "29 Dec 2024 23:07:32"
+    "updated": "30 Dec 2024 00:29:10"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "29 Dec 2024 23:21:50",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "30 Dec 2024 00:21:02"
+    "updated": "30 Dec 2024 00:23:02"
   },
   {
     "agency": "Ambulance",
@@ -142,6 +142,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
     "updated": "30 Dec 2024 00:18:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - EVATT",
+    "id": "079514-30122024",
+    "latitude": "-35.212001",
+    "longitude": "149.066294",
+    "region": "act",
+    "time_of_call": "30 Dec 2024 00:26:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "EVATT",
+    "updated": "30 Dec 2024 00:30:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BANKS",
+    "id": "079515-30122024",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
+    "region": "act",
+    "time_of_call": "30 Dec 2024 00:28:48",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BANKS",
+    "updated": "30 Dec 2024 00:31:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOMBS",
+    "id": "079516-30122024",
+    "latitude": "-35.31486",
+    "longitude": "149.041664",
+    "region": "act",
+    "time_of_call": "30 Dec 2024 00:31:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOMBS",
+    "updated": "30 Dec 2024 00:31:51"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1535,7 +1589,7 @@
     "latitude": "-30.0773391729999",
     "longitude": "149.970489502",
     "region": "nsw",
-    "time_of_call": "29 Dec 2024 13:34:00",
+    "time_of_call": "30 Dec 2024 00:26:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1550,7 +1604,7 @@
     "fire": "Yes",
     "size": "111 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2024 13:34"
+    "updated": "30 Dec 2024 00:26"
   },
   {
     "title": "HUE HUE RD, WYEE",
@@ -1916,28 +1970,25 @@
     "updated": "29 Dec 2024 23:22"
   },
   {
-    "title": "Allen St, Homebush",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582147",
+    "title": "WILLI WILLI RD, SHERWOOD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582146",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.862605",
-    "longitude": "151.085876",
+    "latitude": "-31.080917358",
+    "longitude": "152.687026978",
     "region": "nsw",
-    "time_of_call": "30 Dec 2024 00:08:00",
+    "time_of_call": "29 Dec 2024 23:59:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "6 Allen St, Homebush, NSW 2140",
-    "council_area": "Strathfield",
-    "type": "Grass Fire",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WILLI WILLI RD, SHERWOOD 2440",
+    "council_area": "Kempsey",
+    "type": "MVA/Transport",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "30 Dec 2024 00:08"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Dec 2024 23:59"
   }
 ]
