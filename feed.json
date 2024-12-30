@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'MALLEY",
-    "updated": "31 Dec 2024 01:47:51"
+    "updated": "31 Dec 2024 02:27:56"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "31 Dec 2024 02:00:39"
+    "updated": "31 Dec 2024 02:30:04"
   },
   {
     "agency": "Ambulance",
@@ -88,6 +88,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
     "updated": "31 Dec 2024 02:22:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
+    "id": "079742-31122024",
+    "latitude": "-35.333366",
+    "longitude": "149.146674",
+    "region": "act",
+    "time_of_call": "31 Dec 2024 02:25:41",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NARRABUNDAH",
+    "updated": "31 Dec 2024 02:33:26"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1521,60 +1539,18 @@
     "updated": "30 Dec 2024 20:49"
   },
   {
-    "title": "GENERAL SAN MARTIN DR, KU-RING-GAI CHASE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582308",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6672096249999",
-    "longitude": "151.231262206",
-    "region": "nsw",
-    "time_of_call": "31 Dec 2024 01:30:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "GENERAL SAN MARTIN DR, KU-RING-GAI CHASE 2101",
-    "council_area": "Northern Beaches",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 Dec 2024 01:30"
-  },
-  {
-    "title": "PRETTY POINT ILLABUNDA DR, MALUA BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582309",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.8026275629999",
-    "longitude": "150.230316163",
-    "region": "nsw",
-    "time_of_call": "31 Dec 2024 02:19:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "PRETTY POINT ILLABUNDA DR, MALUA BAY 2536",
-    "council_area": "Eurobodalla",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 Dec 2024 02:19"
-  },
-  {
-    "title": "SANCTUARY POINT RD, SANCTUARY POINT",
+    "title": "SANCTUARY POINT RD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582310",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.1073837279999",
-    "longitude": "150.639053344",
+    "latitude": "-35.1144142159999",
+    "longitude": "150.639266968",
     "region": "nsw",
-    "time_of_call": "31 Dec 2024 02:03:00",
+    "time_of_call": "31 Dec 2024 02:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "SANCTUARY POINT RD, SANCTUARY POINT 2540",
+    "location": "SANCTUARY POINT BOAT RAMP SANCTUARY POINT RD, SANCTUARY POINT 2540",
     "council_area": "Shoalhaven",
     "type": "Other",
     "type_description": "",
@@ -1582,7 +1558,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Dec 2024 02:03"
+    "updated": "31 Dec 2024 02:23"
   },
   {
     "title": "RIVERINA HWY, BUNGOWANNAH",
@@ -1614,9 +1590,9 @@
     "latitude": "-32.769155",
     "longitude": "151.587954",
     "region": "nsw",
-    "time_of_call": "31 Dec 2024 02:17:00",
+    "time_of_call": "31 Dec 2024 02:28:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1629,6 +1605,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "31 Dec 2024 02:17"
+    "updated": "31 Dec 2024 02:28"
   }
 ]
