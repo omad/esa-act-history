@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "01 Jan 2025 03:05:22"
+    "updated": "01 Jan 2025 03:29:05"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "01 Jan 2025 03:17:06"
+    "updated": "01 Jan 2025 03:38:38"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "01 Jan 2025 03:26:01"
+    "updated": "01 Jan 2025 03:36:36"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "01 Jan 2025 03:24:34"
+    "updated": "01 Jan 2025 03:48:19"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "01 Jan 2025 03:25:12"
+    "updated": "01 Jan 2025 03:34:52"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,31 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "01 Jan 2025 03:25:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "01 Jan 2025 03:26:35"
+    "updated": "01 Jan 2025 03:45:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "000031-01012025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "01 Jan 2025 03:38:46",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "01 Jan 2025 03:46:57"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1894,28 +1912,6 @@
     "updated": "1 Jan 2025 01:57"
   },
   {
-    "title": "ALMA RD, LEPPINGTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582596",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.9740562439999",
-    "longitude": "150.780853271",
-    "region": "nsw",
-    "time_of_call": "01 Jan 2025 03:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "42 ALMA RD, LEPPINGTON 2179",
-    "council_area": "Camden",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Jan 2025 03:12"
-  },
-  {
     "title": "Redman Pde, Belmore",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582599",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1941,28 +1937,25 @@
     "updated": "1 Jan 2025 02:55"
   },
   {
-    "title": "Donahue Cct, Harrington Park",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582600",
+    "title": "HUME HWY STH BND, BARDIA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582603",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.0152511589999",
-    "longitude": "150.739151001",
+    "latitude": "-33.967769623",
+    "longitude": "150.875411987",
     "region": "nsw",
-    "time_of_call": "01 Jan 2025 03:09:00",
+    "time_of_call": "01 Jan 2025 03:16:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "5 Donahue Cct, Harrington Park, NSW 2567",
-    "council_area": "Camden",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "HUME HWY STH BND, BARDIA 2565",
+    "council_area": "Campbelltown",
     "type": "Bush Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Jan 2025 03:09"
+    "updated": "1 Jan 2025 03:16"
   }
 ]
