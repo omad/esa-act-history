@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "02 Jan 2025 09:34:42"
+    "updated": "02 Jan 2025 09:40:29"
   },
   {
     "agency": "Ambulance",
@@ -34,24 +34,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
     "updated": "02 Jan 2025 09:30:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - O'CONNOR",
-    "id": "000236-02012025",
-    "latitude": "-35.256876",
-    "longitude": "149.111857",
-    "region": "act",
-    "time_of_call": "02 Jan 2025 08:16:45",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "O'CONNOR",
-    "updated": "02 Jan 2025 09:08:04"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "02 Jan 2025 09:19:36"
+    "updated": "02 Jan 2025 09:35:40"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "02 Jan 2025 09:34:51"
+    "updated": "02 Jan 2025 09:39:02"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +135,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "02 Jan 2025 09:32:59",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "02 Jan 2025 09:34:06"
+    "updated": "02 Jan 2025 09:41:25"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +153,31 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "02 Jan 2025 09:33:28",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "02 Jan 2025 09:34:50"
+    "updated": "02 Jan 2025 09:42:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOMBS",
+    "id": "000245-02012025",
+    "latitude": "-35.31486",
+    "longitude": "149.041664",
+    "region": "act",
+    "time_of_call": "02 Jan 2025 09:44:54",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOMBS",
+    "updated": "02 Jan 2025 09:48:53"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -237,7 +237,7 @@
     "latitude": "-32.4699058539999",
     "longitude": "152.326950073",
     "region": "nsw",
-    "time_of_call": "01 Jan 2025 14:20:00",
+    "time_of_call": "02 Jan 2025 09:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -252,7 +252,7 @@
     "fire": "Yes",
     "size": "89 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "1 Jan 2025 14:20"
+    "updated": "2 Jan 2025 09:27"
   },
   {
     "title": "COMMISSION RD, HOWES VALLEY",
@@ -491,7 +491,7 @@
     "latitude": "-36.391357972",
     "longitude": "148.211452083",
     "region": "nsw",
-    "time_of_call": "01 Jan 2025 15:24:00",
+    "time_of_call": "02 Jan 2025 09:18:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -504,9 +504,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "38 ha",
+    "size": "42 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "1 Jan 2025 15:24"
+    "updated": "2 Jan 2025 09:18"
   },
   {
     "title": "YANGO TRK, PAYNES CROSSING",
@@ -713,28 +713,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Jan 2025 23:16"
-  },
-  {
-    "title": "JERILDERIE RD, HAY SOUTH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_581848",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.6779937749999",
-    "longitude": "145.049102783",
-    "region": "nsw",
-    "time_of_call": "01 Jan 2025 23:13:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "JERILDERIE RD, HAY SOUTH 2711",
-    "council_area": "Hay",
-    "type": "Haystack fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_6.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Jan 2025 23:13"
   },
   {
     "title": "Yarrowitch Trail",
@@ -1081,28 +1059,6 @@
     "updated": "1 Jan 2025 22:58"
   },
   {
-    "title": "KILLARNEY GAP RD, BINGARA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582314",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.8691787719999",
-    "longitude": "150.546325684",
-    "region": "nsw",
-    "time_of_call": "01 Jan 2025 22:52:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "KILLARNEY GAP RD, BINGARA 2404",
-    "council_area": "Gwydir",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Jan 2025 22:52"
-  },
-  {
     "title": "SHALLOW BAY RD, SHALLOW BAY NSW",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582326",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1176,28 +1132,6 @@
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "2 Jan 2025 09:28"
-  },
-  {
-    "title": "TOM ROBERTS RD, REDLANDS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582377",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.914885845",
-    "longitude": "146.336080989",
-    "region": "nsw",
-    "time_of_call": "01 Jan 2025 22:43:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "TOM ROBERTS RD, REDLANDS 2646",
-    "council_area": "Federation",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Jan 2025 22:43"
   },
   {
     "title": "CHANT RD, LEETON",
@@ -1698,9 +1632,9 @@
     "latitude": "-31.2449874879999",
     "longitude": "152.824386597",
     "region": "nsw",
-    "time_of_call": "02 Jan 2025 07:20:00",
+    "time_of_call": "02 Jan 2025 09:31:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BALLENGARRA STATE FOREST MINGALETTA RD, KUNDABUNG 2441",
     "council_area": "Port Macquarie-Hastings",
@@ -1708,34 +1642,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Jan 2025 07:20"
-  },
-  {
-    "title": "TRUNKEY RD, CALOOLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582754",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.5866661069999",
-    "longitude": "149.454574585",
-    "region": "nsw",
-    "time_of_call": "02 Jan 2025 09:22:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "5 TRUNKEY RD, CALOOLA 2795",
-    "council_area": "Bathurst",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Jan 2025 09:22"
+    "updated": "2 Jan 2025 09:31"
   },
   {
     "title": "GOLDEN HWY, GUNGAL",
@@ -1758,5 +1667,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Jan 2025 09:22"
+  },
+  {
+    "title": "Ocean St, Merewether",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582759",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.9437629999999",
+    "longitude": "151.762519",
+    "region": "nsw",
+    "time_of_call": "02 Jan 2025 09:46:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "2 Ocean St, Merewether, NSW 2291",
+    "council_area": "Newcastle",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "2 Jan 2025 09:46"
   }
 ]
