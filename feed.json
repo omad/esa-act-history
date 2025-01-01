@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "01 Jan 2025 20:19:40"
+    "updated": "01 Jan 2025 20:28:35"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "01 Jan 2025 20:20:23"
+    "updated": "01 Jan 2025 20:26:17"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +247,67 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "01 Jan 2025 20:18:36",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "01 Jan 2025 20:28:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "000171-01012025",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "01 Jan 2025 20:25:02",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "WESTON",
-    "updated": "01 Jan 2025 20:21:51"
+    "location": "BRUCE",
+    "updated": "01 Jan 2025 20:29:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AMAROO",
+    "id": "000172-01012025",
+    "latitude": "-35.172039",
+    "longitude": "149.129625",
+    "region": "act",
+    "time_of_call": "01 Jan 2025 20:27:28",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AMAROO",
+    "updated": "01 Jan 2025 20:29:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "000173-01012025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "01 Jan 2025 20:27:59",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "01 Jan 2025 20:31:44"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -2033,26 +2087,6 @@
     "updated": "1 Jan 2025 19:36"
   },
   {
-    "title": "MINI HA HA TRL, KATOOMBA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582693",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.685848237",
-    "longitude": "150.326248169",
-    "region": "nsw",
-    "time_of_call": "01 Jan 2025 20:05:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MINI HA HA TRL, KATOOMBA 2780",
-    "council_area": "Blue Mountains",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Jan 2025 20:05"
-  },
-  {
     "title": "TEN MILE LANE, BELLATA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582695",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2172,6 +2206,28 @@
     "updated": "1 Jan 2025 19:38"
   },
   {
+    "title": "THE PARK DR, SANCTUARY POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582704",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.096508026",
+    "longitude": "150.639755249",
+    "region": "nsw",
+    "time_of_call": "01 Jan 2025 20:27:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "THE PARK DR, SANCTUARY POINT 2540",
+    "council_area": "Shoalhaven",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Jan 2025 20:27"
+  },
+  {
     "title": "Abdon Cl, Bennetts Green",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582706",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2195,5 +2251,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "1 Jan 2025 20:14"
+  },
+  {
+    "title": "ORANGE GROVE RD, ORANGE GROVE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582709",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.9149093619999",
+    "longitude": "150.457672119",
+    "region": "nsw",
+    "time_of_call": "01 Jan 2025 20:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ORANGE GROVE RD, ORANGE GROVE 2380",
+    "council_area": "Gunnedah",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Jan 2025 20:29"
   }
 ]
