@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "03 Jan 2025 01:16:37"
+    "updated": "03 Jan 2025 01:47:53"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,49 @@
     "longitude": "149.110257",
     "region": "act",
     "time_of_call": "03 Jan 2025 01:31:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "03 Jan 2025 01:34:43"
+    "updated": "03 Jan 2025 01:40:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLYNN",
+    "id": "000404-03012025",
+    "latitude": "-35.207317",
+    "longitude": "149.042983",
+    "region": "act",
+    "time_of_call": "03 Jan 2025 01:37:20",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLYNN",
+    "updated": "03 Jan 2025 01:43:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "000405-03012025",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "03 Jan 2025 01:45:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONNER",
+    "updated": "03 Jan 2025 01:48:10"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1356,5 +1392,27 @@
     "size": "4 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Jan 2025 22:02"
+  },
+  {
+    "title": "PACIFIC HWY, LAKE INNES",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582855",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.516649247",
+    "longitude": "152.794403076",
+    "region": "nsw",
+    "time_of_call": "03 Jan 2025 01:34:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, LAKE INNES 2446",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Jan 2025 01:34"
   }
 ]
