@@ -33,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "04 Jan 2025 06:01:51"
+    "updated": "04 Jan 2025 07:26:06"
   },
   {
     "agency": "Ambulance",
@@ -69,43 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "04 Jan 2025 07:10:16"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - O'MALLEY",
-    "id": "000626-04012025",
-    "latitude": "-35.351388",
-    "longitude": "149.111757",
-    "region": "act",
-    "time_of_call": "04 Jan 2025 06:35:11",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "O'MALLEY",
-    "updated": "04 Jan 2025 07:02:27"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MITCHELL",
-    "id": "000627-04012025",
-    "latitude": "-35.218025",
-    "longitude": "149.142507",
-    "region": "act",
-    "time_of_call": "04 Jan 2025 06:41:03",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MITCHELL",
-    "updated": "04 Jan 2025 06:56:54"
+    "updated": "04 Jan 2025 07:26:18"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +117,13 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "04 Jan 2025 07:00:32",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "04 Jan 2025 07:04:54"
+    "updated": "04 Jan 2025 07:31:09"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1314,21 +1278,21 @@
     "updated": "4 Jan 2025 07:11"
   },
   {
-    "title": "Short St, Bourke",
+    "title": "SHORT ST, BOURKE NSW",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582982",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
     "latitude": "-30.085385",
     "longitude": "145.94236",
     "region": "nsw",
-    "time_of_call": "04 Jan 2025 07:11:00",
+    "time_of_call": "04 Jan 2025 07:30:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "3 Short St, Bourke, NSW 2840",
+    "location": "3 SHORT ST, BOURKE NSW 2840",
     "council_area": "Bourke",
     "type": "Bush Fire",
     "type_description": "",
@@ -1336,6 +1300,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "4 Jan 2025 07:11"
+    "updated": "4 Jan 2025 07:30"
+  },
+  {
+    "title": "PRINCES HWY, WOLUMLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582983",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.80960083",
+    "longitude": "149.815002442",
+    "region": "nsw",
+    "time_of_call": "04 Jan 2025 07:14:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PRINCES HWY, WOLUMLA 2550",
+    "council_area": "Bega Valley",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Jan 2025 07:14"
   }
 ]
