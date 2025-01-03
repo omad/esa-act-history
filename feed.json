@@ -29,15 +29,15 @@
     "longitude": "149.149327649",
     "region": "act",
     "time_of_call": "03 Jan 2025 18:17:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "RUBBISH FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
     "location": "TRAM STOP 4, NULLARBOR AVENUE, FRANKLIN, 2913",
-    "updated": "03 Jan 2025 18:19:23"
+    "updated": "03 Jan 2025 18:24:08"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +235,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "03 Jan 2025 18:10:57"
+    "updated": "03 Jan 2025 18:25:44"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +253,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "03 Jan 2025 17:50:57"
+    "updated": "03 Jan 2025 18:21:25"
   },
   {
     "agency": "Ambulance",
@@ -301,13 +301,31 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "03 Jan 2025 18:18:48",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "03 Jan 2025 18:19:03"
+    "updated": "03 Jan 2025 18:22:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "000552-03012025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "03 Jan 2025 18:25:05",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "03 Jan 2025 18:28:14"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1420,6 +1438,28 @@
     "updated": "3 Jan 2025 18:18"
   },
   {
+    "title": "GREEN POINT DR, GREEN POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582927",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.2516708379999",
+    "longitude": "152.520111084",
+    "region": "nsw",
+    "time_of_call": "03 Jan 2025 18:17:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "121 GREEN POINT DR, GREEN POINT 2428",
+    "council_area": "Mid-Coast",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Jan 2025 18:17"
+  },
+  {
     "title": "(WESTERN MTWY), ORCHARD HILLS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582928",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1440,5 +1480,30 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "3 Jan 2025 18:01"
+  },
+  {
+    "title": "Rosella Gr, Bidwill",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582929",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.725243",
+    "longitude": "150.819734",
+    "region": "nsw",
+    "time_of_call": "03 Jan 2025 18:25:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "21 Rosella Gr, Bidwill, NSW 2770",
+    "council_area": "Blacktown",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "3 Jan 2025 18:25"
   }
 ]
