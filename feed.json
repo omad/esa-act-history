@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "03 Jan 2025 21:29:57"
+    "updated": "03 Jan 2025 21:47:48"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "03 Jan 2025 21:25:13"
+    "updated": "03 Jan 2025 21:46:17"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "03 Jan 2025 21:27:56"
+    "updated": "03 Jan 2025 21:39:45"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "03 Jan 2025 21:26:57"
+    "updated": "03 Jan 2025 21:39:01"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +171,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "03 Jan 2025 21:21:04",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "03 Jan 2025 21:24:26"
+    "updated": "03 Jan 2025 21:46:10"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +189,31 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "03 Jan 2025 21:22:06",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "03 Jan 2025 21:38:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "000585-03012025",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "03 Jan 2025 21:47:12",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "WANNIASSA",
-    "updated": "03 Jan 2025 21:37:23"
+    "location": "WATSON",
+    "updated": "03 Jan 2025 21:48:43"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1382,7 +1400,7 @@
     "latitude": "-33.7963104249999",
     "longitude": "148.675460815",
     "region": "nsw",
-    "time_of_call": "03 Jan 2025 21:29:00",
+    "time_of_call": "03 Jan 2025 21:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1394,29 +1412,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Jan 2025 21:29"
-  },
-  {
-    "title": "HUME HWY, JUGIONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582945",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.864356995",
-    "longitude": "148.283462524",
-    "region": "nsw",
-    "time_of_call": "03 Jan 2025 20:48:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "HUMY HWY",
-    "council_area": "Cootamundra-Gundagai",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "3 Jan 2025 20:48"
+    "updated": "3 Jan 2025 21:43"
   },
   {
     "title": "DWYER RD, LEPPINGTON",
@@ -1451,9 +1447,9 @@
     "latitude": "-32.899303437",
     "longitude": "151.365966797",
     "region": "nsw",
-    "time_of_call": "03 Jan 2025 21:16:00",
+    "time_of_call": "03 Jan 2025 21:43:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "QUORROBOLONG RD, KITCHENER 2325",
     "council_area": "Cessnock",
@@ -1461,7 +1457,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Jan 2025 21:16"
+    "updated": "3 Jan 2025 21:43"
   },
   {
     "title": "ABECKETTS RD, TAMBAR SPRINGS",
