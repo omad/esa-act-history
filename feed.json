@@ -1,6 +1,6 @@
 [
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - BRUCE",
@@ -35,7 +35,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "04 Jan 2025 07:55:28"
+    "updated": "04 Jan 2025 10:36:01"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "04 Jan 2025 10:23:32"
+    "updated": "04 Jan 2025 10:35:46"
   },
   {
     "agency": "Ambulance",
@@ -113,24 +113,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
-    "id": "000648-04012025",
-    "latitude": "-35.425091",
-    "longitude": "149.088064",
-    "region": "act",
-    "time_of_call": "04 Jan 2025 10:06:26",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "ISABELLA PLAINS",
-    "updated": "04 Jan 2025 10:25:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CITY",
     "id": "000649-04012025",
     "latitude": "-35.282068",
@@ -155,13 +137,49 @@
     "longitude": "149.111133",
     "region": "act",
     "time_of_call": "04 Jan 2025 10:28:16",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RICHARDSON",
+    "updated": "04 Jan 2025 10:37:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - REID",
+    "id": "000653-04012025",
+    "latitude": "-35.281706",
+    "longitude": "149.140719",
+    "region": "act",
+    "time_of_call": "04 Jan 2025 10:33:52",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "RICHARDSON",
-    "updated": "04 Jan 2025 10:29:36"
+    "location": "REID",
+    "updated": "04 Jan 2025 10:47:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "000654-04012025",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "04 Jan 2025 10:41:13",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "04 Jan 2025 10:46:37"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -550,7 +568,7 @@
     "latitude": "-31.0372188549999",
     "longitude": "152.073986383",
     "region": "nsw",
-    "time_of_call": "03 Jan 2025 16:31:00",
+    "time_of_call": "04 Jan 2025 10:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -565,7 +583,7 @@
     "fire": "Yes",
     "size": "1751 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "3 Jan 2025 16:31"
+    "updated": "4 Jan 2025 10:21"
   },
   {
     "title": "OGUNBIL RD, DUNGOWAN",
@@ -676,7 +694,7 @@
     "latitude": "-33.1138305659999",
     "longitude": "150.391159057",
     "region": "nsw",
-    "time_of_call": "03 Jan 2025 19:49:00",
+    "time_of_call": "04 Jan 2025 09:53:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -692,7 +710,7 @@
     "size": "1908 ha",
     "major_fire_update_as_at_4_jan_2025_8:04am": "<a href='http://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12153' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Jan 2025 19:49"
+    "updated": "4 Jan 2025 09:53"
   },
   {
     "title": "PUDDING FIRE, NAMOI RIVER",
@@ -838,31 +856,6 @@
     "size": "6 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "4 Jan 2025 10:24"
-  },
-  {
-    "title": "MCMAHONS REEF RD, HARDEN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582649",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.626125336",
-    "longitude": "148.453918457",
-    "region": "nsw",
-    "time_of_call": "03 Jan 2025 16:34:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "623 MCMAHONS REEF RD, HARDEN 2587",
-    "council_area": "Hilltops",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "40 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Jan 2025 16:34"
   },
   {
     "title": "THOMPSONS CREEK RD, UPPER DARTBROOK",
@@ -1016,10 +1009,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582788",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.354642418",
-    "longitude": "149.677884579",
+    "latitude": "-32.3547149239999",
+    "longitude": "149.677391052",
     "region": "nsw",
-    "time_of_call": "03 Jan 2025 17:18:00",
+    "time_of_call": "04 Jan 2025 10:19:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -1032,9 +1025,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "3 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Jan 2025 17:18"
+    "updated": "4 Jan 2025 10:19"
   },
   {
     "title": "BURROWAY RD, GIN GIN",
@@ -1279,8 +1272,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582988",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-36.9196135839999",
-    "longitude": "148.54888916",
+    "latitude": "-36.944061194",
+    "longitude": "148.616352081",
     "region": "nsw",
     "time_of_call": "04 Jan 2025 09:46:00",
     "event_type": "burnt area",
@@ -1307,7 +1300,7 @@
     "latitude": "-34.0965995789999",
     "longitude": "150.766998291",
     "region": "nsw",
-    "time_of_call": "04 Jan 2025 10:26:00",
+    "time_of_call": "04 Jan 2025 10:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1319,7 +1312,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2025 10:26"
+    "updated": "4 Jan 2025 10:30"
   },
   {
     "title": "OLYMPIC HWY, BENDICK MURRELL",
@@ -1344,23 +1337,25 @@
     "updated": "4 Jan 2025 10:17"
   },
   {
-    "title": "KLINBERG RD, JINDERA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582996",
+    "title": "MIA CT, OCEAN SHORES",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_582997",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.920532226",
-    "longitude": "146.890289307",
+    "latitude": "-28.4901199339999",
+    "longitude": "153.548141479",
     "region": "nsw",
-    "time_of_call": "04 Jan 2025 10:09:00",
+    "time_of_call": "04 Jan 2025 10:33:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "KLINBERG RD, JINDERA 2642",
-    "council_area": "Greater Hume",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
+    "location": "16 MIA CT, OCEAN SHORES 2483",
+    "council_area": "Byron",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2025 10:09"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "4 Jan 2025 10:33"
   }
 ]
