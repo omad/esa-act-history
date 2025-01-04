@@ -1,6 +1,26 @@
 [
   {
     "agency": "Fire",
+    "alert_level": "Advice",
+    "event_type": "incident",
+    "title": "GRASS AND BUSH FIRE - TURNER",
+    "id": "000207-05012025",
+    "latitude": "-35.2754058838",
+    "longitude": "149.1296539307",
+    "region": "act",
+    "time_of_call": "05 Jan 2025 05:57:41",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "type": "GRASS AND BUSH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
+    "location": "NORTHBOURNE AVENUE, BARRY DRIVE, TURNER, 2612",
+    "updated": "05 Jan 2025 06:18:37"
+  },
+  {
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "STORM OR TREE DAMAGE - CHAPMAN",
@@ -36,24 +56,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
     "updated": "05 Jan 2025 05:29:59"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - YARRALUMLA",
-    "id": "000820-05012025",
-    "latitude": "-35.302333",
-    "longitude": "149.099934",
-    "region": "act",
-    "time_of_call": "05 Jan 2025 04:57:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "YARRALUMLA",
-    "updated": "05 Jan 2025 05:42:33"
   },
   {
     "agency": "Ambulance",
@@ -108,6 +110,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
     "updated": "05 Jan 2025 06:13:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "000828-05012025",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "05 Jan 2025 06:26:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "05 Jan 2025 06:28:29"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1366,25 +1386,5 @@
     "size": "23 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "4 Jan 2025 22:42"
-  },
-  {
-    "title": "SWAN BAY RD, BUCKENDOON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583101",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.032308579",
-    "longitude": "153.324935913",
-    "region": "nsw",
-    "time_of_call": "05 Jan 2025 05:26:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "SWAN BAY RD, BUCKENDOON 2472",
-    "council_area": "Lismore",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Jan 2025 05:26"
   }
 ]
