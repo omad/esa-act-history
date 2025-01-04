@@ -3,42 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "000785-04012025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "04 Jan 2025 22:32:03",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "04 Jan 2025 23:24:04"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GIRALANG",
-    "id": "000786-04012025",
-    "latitude": "-35.210049",
-    "longitude": "149.100175",
-    "region": "act",
-    "time_of_call": "04 Jan 2025 22:35:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GIRALANG",
-    "updated": "04 Jan 2025 23:35:41"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BELCONNEN",
     "id": "000788-04012025",
     "latitude": "-35.235936",
@@ -51,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "04 Jan 2025 23:27:28"
+    "updated": "04 Jan 2025 23:57:34"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DENMAN PROSPECT",
-    "updated": "04 Jan 2025 23:31:51"
+    "updated": "04 Jan 2025 23:48:28"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "04 Jan 2025 23:37:00"
+    "updated": "04 Jan 2025 23:49:38"
   },
   {
     "agency": "Ambulance",
@@ -124,6 +88,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
     "updated": "04 Jan 2025 23:40:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "000795-04012025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "04 Jan 2025 23:44:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "04 Jan 2025 23:48:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "000796-04012025",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "04 Jan 2025 23:50:24",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHAPMAN",
+    "updated": "04 Jan 2025 23:54:36"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1413,9 +1413,9 @@
     "latitude": "-33.6331062309999",
     "longitude": "150.778533935",
     "region": "nsw",
-    "time_of_call": "04 Jan 2025 23:29:00",
+    "time_of_call": "04 Jan 2025 23:41:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BLACKTOWN RD, SOUTH WINDSOR 2756",
     "council_area": "Hawkesbury",
@@ -1425,7 +1425,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2025 23:29"
+    "updated": "4 Jan 2025 23:41"
   },
   {
     "title": "SACKVILLE FERRY RD, SACKVILLE NORTH",
@@ -1448,5 +1448,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "4 Jan 2025 23:37"
+  },
+  {
+    "title": "ADA ST, VINCENTIA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583088",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.072078705",
+    "longitude": "150.677978516",
+    "region": "nsw",
+    "time_of_call": "04 Jan 2025 23:58:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "ADA ST, VINCENTIA 2540",
+    "council_area": "Shoalhaven",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Jan 2025 23:58"
   }
 ]
