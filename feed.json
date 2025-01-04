@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "MCINNES STREET, WESTON, 2611",
-    "updated": "04 Jan 2025 18:11:47"
+    "updated": "04 Jan 2025 18:24:04"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "04 Jan 2025 18:17:21"
+    "updated": "04 Jan 2025 18:22:34"
   },
   {
     "agency": "Ambulance",
@@ -113,24 +113,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "000740-04012025",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "04 Jan 2025 17:26:41",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "04 Jan 2025 17:38:33"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BANKS",
     "id": "000741-04012025",
     "latitude": "-35.471552",
@@ -185,26 +167,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "HOUSE FIRE - WESTON",
-    "id": "000744-04012025",
-    "latitude": "-35.3431630299",
-    "longitude": "149.05952608",
-    "region": "act",
-    "time_of_call": "04 Jan 2025 17:50:08",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "HOUSE FIRE",
-    "type_description": "",
-    "type_icon": "",
-    "location": "MCINNES STREET, WESTON, 2611",
-    "updated": "04 Jan 2025 18:16:18"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PAGE",
     "id": "000746-04012025",
     "latitude": "-35.238051",
@@ -235,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "04 Jan 2025 18:19:15"
+    "updated": "04 Jan 2025 18:23:46"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1471,28 +1433,6 @@
     "updated": "4 Jan 2025 16:48"
   },
   {
-    "title": "SOUTH PACIFIC DR, SCOTTS HEAD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583039",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.745313645",
-    "longitude": "152.986160279",
-    "region": "nsw",
-    "time_of_call": "04 Jan 2025 18:11:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "278 SOUTH PACIFIC DR, SCOTTS HEAD 2447",
-    "council_area": "Nambucca",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2025 18:11"
-  },
-  {
     "title": "Kingiman Road, Mount Kingiman",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583045",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1545,9 +1485,9 @@
     "latitude": "-32.593269348",
     "longitude": "151.761749268",
     "region": "nsw",
-    "time_of_call": "04 Jan 2025 17:30:00",
+    "time_of_call": "04 Jan 2025 18:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "47 GRANDVIEW CL, CLARENCE TOWN 2321",
     "council_area": "Dungog",
@@ -1555,7 +1495,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2025 17:30"
+    "updated": "4 Jan 2025 18:21"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -1565,19 +1505,22 @@
     "latitude": "-32.1418724059999",
     "longitude": "148.780258178",
     "region": "nsw",
-    "time_of_call": "04 Jan 2025 17:31:00",
+    "time_of_call": "04 Jan 2025 18:18:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "99R OLD MENDOORAN RD, DUBBO 2830",
     "council_area": "Dubbo Regional",
     "type": "Bush Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2025 17:31"
+    "updated": "4 Jan 2025 18:18"
   },
   {
     "title": "ABINGTON SPORTSGROUND BUNDARRA",
