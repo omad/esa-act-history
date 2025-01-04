@@ -1,26 +1,6 @@
 [
   {
     "agency": "Fire",
-    "alert_level": "Advice",
-    "event_type": "incident",
-    "title": "GRASS AND BUSH FIRE - TURNER",
-    "id": "000207-05012025",
-    "latitude": "-35.2754058838",
-    "longitude": "149.1296539307",
-    "region": "act",
-    "time_of_call": "05 Jan 2025 05:57:41",
-    "status": "Out / Completed",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "GRASS AND BUSH FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
-    "location": "NORTHBOURNE AVENUE, BARRY DRIVE, TURNER, 2612",
-    "updated": "05 Jan 2025 06:32:44"
-  },
-  {
-    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "STORM OR TREE DAMAGE - CHAPMAN",
@@ -73,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "05 Jan 2025 07:19:58"
+    "updated": "05 Jan 2025 07:34:10"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "05 Jan 2025 07:23:17"
+    "updated": "05 Jan 2025 07:33:35"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1350,5 +1330,49 @@
     "size": "23 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "4 Jan 2025 22:42"
+  },
+  {
+    "title": "MARTIN ST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583103",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.821649551",
+    "longitude": "149.710098267",
+    "region": "nsw",
+    "time_of_call": "05 Jan 2025 07:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "COOLAH MULTI PURPOSE HEALTH CTR 111-135 MARTIN ST, COOLAH 2843",
+    "council_area": "Warrumbungle",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 Jan 2025 07:30"
+  },
+  {
+    "title": "PACIFIC HWY, COWAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583104",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.5743865969999",
+    "longitude": "151.191986084",
+    "region": "nsw",
+    "time_of_call": "05 Jan 2025 07:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1296 PACIFIC HWY, COWAN 2081",
+    "council_area": "Hornsby",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Jan 2025 07:32"
   }
 ]
