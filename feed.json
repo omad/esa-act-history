@@ -15,7 +15,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "05 Jan 2025 18:14:36"
+    "updated": "05 Jan 2025 21:44:51"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "05 Jan 2025 21:24:11"
+    "updated": "05 Jan 2025 21:45:04"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "05 Jan 2025 21:17:03"
+    "updated": "05 Jan 2025 21:48:08"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "05 Jan 2025 21:34:24"
+    "updated": "05 Jan 2025 21:41:38"
   },
   {
     "agency": "Ambulance",
@@ -142,6 +142,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
     "updated": "05 Jan 2025 21:26:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "000964-05012025",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "05 Jan 2025 21:43:40",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "05 Jan 2025 21:48:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "000966-05012025",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "05 Jan 2025 21:48:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "05 Jan 2025 21:48:45"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1569,7 +1605,7 @@
     "latitude": "-34.460700989",
     "longitude": "145.613830566",
     "region": "nsw",
-    "time_of_call": "05 Jan 2025 17:39:00",
+    "time_of_call": "05 Jan 2025 21:30:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "status_description": "",
@@ -1582,9 +1618,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "2 ha",
+    "size": "6 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Jan 2025 17:39"
+    "updated": "5 Jan 2025 21:30"
   },
   {
     "title": "BLACKWATER CREEK",
@@ -2010,7 +2046,7 @@
     "updated": "5 Jan 2025 19:41"
   },
   {
-    "title": "BROKE",
+    "title": "VAULT CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583224",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -2057,7 +2093,7 @@
     "updated": "5 Jan 2025 21:02"
   },
   {
-    "title": "PAYNES CROSSING",
+    "title": "CODY CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583226",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -2079,7 +2115,7 @@
     "updated": "5 Jan 2025 19:51"
   },
   {
-    "title": "PAYNES CROSSING",
+    "title": "CUTROAD ARM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583227",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -2126,7 +2162,7 @@
     "updated": "5 Jan 2025 21:22"
   },
   {
-    "title": "2330",
+    "title": "BROKEN BACK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583229",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -2237,50 +2273,6 @@
     "updated": "5 Jan 2025 20:41"
   },
   {
-    "title": "ELLMOOS RD, JERVIS BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583235",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.148136139",
-    "longitude": "150.605026245",
-    "region": "nsw",
-    "time_of_call": "05 Jan 2025 20:24:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "ELLMOOS RD, JERVIS BAY 2540",
-    "council_area": "Shoalhaven",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Jan 2025 20:24"
-  },
-  {
-    "title": "NULLICA MOUTH RD, BOYDTOWN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583239",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-37.092765808",
-    "longitude": "149.869949341",
-    "region": "nsw",
-    "time_of_call": "05 Jan 2025 21:15:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "NULLICA MOUTH RD, BOYDTOWN 2551",
-    "council_area": "Bega Valley",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Jan 2025 21:15"
-  },
-  {
     "title": "MACARTHUR ST, TARALGA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583242",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2288,10 +2280,13 @@
     "latitude": "-34.40436554",
     "longitude": "149.821548462",
     "region": "nsw",
-    "time_of_call": "05 Jan 2025 21:26:00",
+    "time_of_call": "05 Jan 2025 21:45:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "MACARTHUR ST, TARALGA 2580",
     "council_area": "Upper Lachlan",
     "type": "Grass Fire",
@@ -2300,6 +2295,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Jan 2025 21:26"
+    "updated": "5 Jan 2025 21:45"
+  },
+  {
+    "title": "SEVEN HILLS RD, COLLOMBATTI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583243",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.948726654",
+    "longitude": "152.87310791",
+    "region": "nsw",
+    "time_of_call": "05 Jan 2025 21:38:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "483 SEVEN HILLS RD, COLLOMBATTI 2440",
+    "council_area": "Kempsey",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Jan 2025 21:38"
   }
 ]
