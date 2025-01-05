@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - THROSBY",
-    "id": "000951-05012025",
-    "latitude": "-35.187595",
-    "longitude": "149.161141",
-    "region": "act",
-    "time_of_call": "05 Jan 2025 19:42:15",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "THROSBY",
-    "updated": "06 Jan 2025 04:05:52"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CURTIN",
     "id": "000981-05012025",
     "latitude": "-35.326585",
@@ -189,13 +171,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "06 Jan 2025 03:36:38",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "06 Jan 2025 03:41:03"
+    "updated": "06 Jan 2025 04:26:19"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +195,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "06 Jan 2025 04:06:29"
+    "updated": "06 Jan 2025 04:21:50"
   },
   {
     "agency": "Ambulance",
@@ -303,7 +285,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "06 Jan 2025 04:15:41"
+    "updated": "06 Jan 2025 04:21:10"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -2468,28 +2450,6 @@
     "updated": "5 Jan 2025 23:12"
   },
   {
-    "title": "KILLINGWORTH RD, HOLMESVILLE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583258",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.917907715",
-    "longitude": "151.571395874",
-    "region": "nsw",
-    "time_of_call": "06 Jan 2025 01:18:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "43 KILLINGWORTH RD, HOLMESVILLE 2286",
-    "council_area": "Lake Macquarie",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Jan 2025 01:18"
-  },
-  {
     "title": "CASWELL ST, PEAK HILL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583264",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2533,5 +2493,30 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "6 Jan 2025 04:14"
+  },
+  {
+    "title": "Swan St, Windale",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583267",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.991052",
+    "longitude": "151.685136",
+    "region": "nsw",
+    "time_of_call": "06 Jan 2025 04:26:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Swan St, Windale, NSW 2306",
+    "council_area": "Lake Macquarie",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "6 Jan 2025 04:26"
   }
 ]
