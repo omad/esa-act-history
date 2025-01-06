@@ -45,31 +45,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "07 Jan 2025 05:50:37",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "07 Jan 2025 07:16:58"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "001238-07012025",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "07 Jan 2025 06:21:36",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "07 Jan 2025 07:16:25"
+    "updated": "07 Jan 2025 07:26:19"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +81,13 @@
     "longitude": "149.110562",
     "region": "act",
     "time_of_call": "07 Jan 2025 06:58:55",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "07 Jan 2025 07:13:07"
+    "updated": "07 Jan 2025 07:22:24"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "07 Jan 2025 07:21:47"
+    "updated": "07 Jan 2025 07:26:11"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -2162,26 +2144,6 @@
     "updated": "7 Jan 2025 00:26"
   },
   {
-    "title": "QUIA RD, GUNNEDAH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583429",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.957035064",
-    "longitude": "150.160354614",
-    "region": "nsw",
-    "time_of_call": "07 Jan 2025 06:58:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "QUIA RD, GUNNEDAH 2380",
-    "council_area": "Gunnedah",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jan 2025 06:58"
-  },
-  {
     "title": "GREENWELL POINT RD, GREENWELL POINT",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583430",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2267,5 +2229,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "7 Jan 2025 07:13"
+  },
+  {
+    "title": "NEWELL HWY, GOWANG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583438",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.439559936",
+    "longitude": "149.145141602",
+    "region": "nsw",
+    "time_of_call": "07 Jan 2025 07:28:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "6460 NEWELL HWY, GOWANG 2357",
+    "council_area": "Warrumbungle",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Jan 2025 07:28"
   }
 ]
