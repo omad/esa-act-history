@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - EVATT",
-    "id": "001472-08012025",
-    "latitude": "-35.212001",
-    "longitude": "149.066294",
-    "region": "act",
-    "time_of_call": "08 Jan 2025 07:33:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "EVATT",
-    "updated": "08 Jan 2025 08:48:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HUGHES",
     "id": "001475-08012025",
     "latitude": "-35.333105",
@@ -141,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "08 Jan 2025 08:51:02"
+    "updated": "08 Jan 2025 09:32:44"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +213,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FORREST",
-    "updated": "08 Jan 2025 09:20:26"
+    "updated": "08 Jan 2025 09:24:23"
   },
   {
     "agency": "Ambulance",
@@ -243,13 +225,13 @@
     "longitude": "149.13437",
     "region": "act",
     "time_of_call": "08 Jan 2025 09:19:57",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": "08 Jan 2025 09:20:16"
+    "updated": "08 Jan 2025 09:26:29"
   },
   {
     "agency": "Ambulance",
@@ -261,13 +243,13 @@
     "longitude": "149.079717",
     "region": "act",
     "time_of_call": "08 Jan 2025 09:22:06",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "08 Jan 2025 09:22:08"
+    "updated": "08 Jan 2025 09:30:30"
   },
   {
     "agency": "Ambulance",
@@ -279,13 +261,31 @@
     "longitude": "149.072217",
     "region": "act",
     "time_of_call": "08 Jan 2025 09:22:27",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "08 Jan 2025 09:22:53"
+    "updated": "08 Jan 2025 09:26:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CRACE",
+    "id": "001503-08012025",
+    "latitude": "-35.202196",
+    "longitude": "149.110562",
+    "region": "act",
+    "time_of_call": "08 Jan 2025 09:34:16",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CRACE",
+    "updated": "08 Jan 2025 09:34:52"
   },
   {
     "title": "Patons Hut",
@@ -327,7 +327,7 @@
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "COOLAWINE FIRE OFF COOLAWINE TRL, BROKE 2325",
+    "location": "**COOLAWINE FIRE** OFF COOLAWINE TRL, BROKE 2325",
     "council_area": "Singleton",
     "type": "Bush Fire",
     "type_description": "",
@@ -863,7 +863,7 @@
     "latitude": "-32.939152873",
     "longitude": "150.258056846",
     "region": "nsw",
-    "time_of_call": "07 Jan 2025 15:57:00",
+    "time_of_call": "08 Jan 2025 09:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -878,7 +878,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jan 2025 15:57"
+    "updated": "8 Jan 2025 09:33"
   },
   {
     "title": "PEAK 692",
@@ -1549,8 +1549,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583514",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.3878993989999",
-    "longitude": "145.173324585",
+    "latitude": "-30.41543601",
+    "longitude": "145.197632444",
     "region": "nsw",
     "time_of_call": "07 Jan 2025 21:53:00",
     "event_type": "burnt area",
@@ -1637,5 +1637,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Jan 2025 09:02"
+  },
+  {
+    "title": "BELMORE FALLS RD, ROBERTSON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583552",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.617847442",
+    "longitude": "150.580551147",
+    "region": "nsw",
+    "time_of_call": "08 Jan 2025 09:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "392 BELMORE FALLS RD, ROBERTSON 2577",
+    "council_area": "Wingecarribee",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Jan 2025 09:30"
   }
 ]
