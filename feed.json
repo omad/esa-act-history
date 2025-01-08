@@ -39,42 +39,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "001692-08012025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "08 Jan 2025 23:53:59",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "09 Jan 2025 00:56:45"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRUCE",
-    "id": "001694-09012025",
-    "latitude": "-35.242777",
-    "longitude": "149.096998",
-    "region": "act",
-    "time_of_call": "09 Jan 2025 00:26:06",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BRUCE",
-    "updated": "09 Jan 2025 00:26:10"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PALMERSTON",
     "id": "001695-09012025",
     "latitude": "-35.193269",
@@ -105,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "09 Jan 2025 01:09:06"
+    "updated": "09 Jan 2025 01:33:04"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +81,13 @@
     "longitude": "149.037677",
     "region": "act",
     "time_of_call": "09 Jan 2025 00:54:52",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "09 Jan 2025 00:56:51"
+    "updated": "09 Jan 2025 01:32:16"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +99,13 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "09 Jan 2025 00:59:15",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "09 Jan 2025 01:14:23"
+    "updated": "09 Jan 2025 01:28:19"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +117,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "09 Jan 2025 01:03:08",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "09 Jan 2025 01:21:02"
+    "updated": "09 Jan 2025 01:25:26"
   },
   {
     "agency": "Ambulance",
@@ -1159,5 +1123,25 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "8 Jan 2025 23:08"
+  },
+  {
+    "title": "TAREE ST, TUNCURRY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583630",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.1793785099999",
+    "longitude": "152.497787476",
+    "region": "nsw",
+    "time_of_call": "09 Jan 2025 01:23:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "14-16 TAREE ST, TUNCURRY 2428",
+    "council_area": "Mid-Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "9 Jan 2025 01:23"
   }
 ]
