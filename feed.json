@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - RICHARDSON",
-    "id": "001859-09012025",
-    "latitude": "-35.428715",
-    "longitude": "149.111133",
-    "region": "act",
-    "time_of_call": "09 Jan 2025 17:18:01",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "RICHARDSON",
-    "updated": "09 Jan 2025 19:00:30"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - SCULLIN",
     "id": "001865-09012025",
     "latitude": "-35.235868",
@@ -51,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "09 Jan 2025 20:02:33"
+    "updated": "09 Jan 2025 20:29:40"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "09 Jan 2025 20:00:53"
+    "updated": "09 Jan 2025 20:33:26"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +213,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "09 Jan 2025 20:11:14"
+    "updated": "09 Jan 2025 20:28:23"
   },
   {
     "agency": "Ambulance",
@@ -315,13 +297,31 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "09 Jan 2025 20:13:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "09 Jan 2025 20:22:19"
+    "updated": "09 Jan 2025 20:24:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "001892-09012025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "09 Jan 2025 20:30:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "09 Jan 2025 20:32:53"
   },
   {
     "title": "Patons Hut",
@@ -1317,50 +1317,6 @@
     "updated": "9 Jan 2025 18:32"
   },
   {
-    "title": "ELLALONG RD, ELLALONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583712",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.8920631409999",
-    "longitude": "151.310897828",
-    "region": "nsw",
-    "time_of_call": "09 Jan 2025 19:27:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "192 ELLALONG RD, ELLALONG 2325",
-    "council_area": "Cessnock",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Jan 2025 19:27"
-  },
-  {
-    "title": "(WESTLINK MTWY), EASTERN CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583715",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.7982368469999",
-    "longitude": "150.854049682",
-    "region": "nsw",
-    "time_of_call": "09 Jan 2025 20:13:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "M7 (WESTLINK MTWY), EASTERN CREEK 2766",
-    "council_area": "Blacktown",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "9 Jan 2025 20:13"
-  },
-  {
     "title": "JODIE CT, MOORE CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583717",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1368,9 +1324,9 @@
     "latitude": "-30.980539322",
     "longitude": "150.931030273",
     "region": "nsw",
-    "time_of_call": "09 Jan 2025 19:46:00",
+    "time_of_call": "09 Jan 2025 20:30:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "19 JODIE CT, MOORE CREEK 2340",
     "council_area": "Tamworth",
@@ -1380,28 +1336,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Jan 2025 19:46"
-  },
-  {
-    "title": "HARBOUR BVD, SHELL COVE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583718",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.591991424",
-    "longitude": "150.866790772",
-    "region": "nsw",
-    "time_of_call": "09 Jan 2025 20:09:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "142 HARBOUR BVD, SHELL COVE 2529",
-    "council_area": "Shellharbour",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Jan 2025 20:09"
+    "updated": "9 Jan 2025 20:30"
   }
 ]
