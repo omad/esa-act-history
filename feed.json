@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "10 Jan 2025 07:45:56"
+    "updated": "10 Jan 2025 08:05:43"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "10 Jan 2025 07:35:19"
+    "updated": "10 Jan 2025 08:20:46"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.117192",
     "region": "act",
     "time_of_call": "10 Jan 2025 07:22:41",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "10 Jan 2025 07:46:29"
+    "updated": "10 Jan 2025 07:59:37"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "10 Jan 2025 07:46:37"
+    "updated": "10 Jan 2025 08:14:06"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "10 Jan 2025 07:44:19"
+    "updated": "10 Jan 2025 08:14:42"
   },
   {
     "agency": "Ambulance",
@@ -124,6 +124,78 @@
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
     "updated": "10 Jan 2025 07:46:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "001941-10012025",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "10 Jan 2025 07:58:57",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "10 Jan 2025 08:08:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PEARCE",
+    "id": "001942-10012025",
+    "latitude": "-35.361582",
+    "longitude": "149.085118",
+    "region": "act",
+    "time_of_call": "10 Jan 2025 08:01:24",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PEARCE",
+    "updated": "10 Jan 2025 08:09:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "001943-10012025",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "10 Jan 2025 08:03:08",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "10 Jan 2025 08:16:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "001944-10012025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "10 Jan 2025 08:14:37",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "10 Jan 2025 08:20:03"
   },
   {
     "title": "Patons Hut",
@@ -488,8 +560,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583230",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.891700745",
-    "longitude": "150.971694946",
+    "latitude": "-32.897982521",
+    "longitude": "150.980755933",
     "region": "nsw",
     "time_of_call": "09 Jan 2025 16:50:00",
     "event_type": "burnt area",
@@ -774,31 +846,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Jan 2025 21:47"
-  },
-  {
-    "title": "TOORALE RD, LOUTH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583514",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.41543601",
-    "longitude": "145.197632444",
-    "region": "nsw",
-    "time_of_call": "09 Jan 2025 11:59:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "TALOWLA 6875 TOORALE RD, LOUTH 2840",
-    "council_area": "Bourke",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "467 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Jan 2025 11:59"
   },
   {
     "title": "WOODVILLE RD, BINDA",
@@ -1092,28 +1139,6 @@
     "updated": "10 Jan 2025 05:37"
   },
   {
-    "title": "PRINCE ST, PERTHVILLE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583744",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.4918556219999",
-    "longitude": "149.555007935",
-    "region": "nsw",
-    "time_of_call": "10 Jan 2025 07:13:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "52 PRINCE ST, PERTHVILLE 2795",
-    "council_area": "Bathurst",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Jan 2025 07:13"
-  },
-  {
     "title": "BARRIER HWY, LITTLE TOPAR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583745",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1121,9 +1146,9 @@
     "latitude": "-31.772668838",
     "longitude": "142.253845215",
     "region": "nsw",
-    "time_of_call": "10 Jan 2025 06:39:00",
+    "time_of_call": "10 Jan 2025 07:45:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "11839 BARRIER HWY, LITTLE TOPAR 2880",
     "council_area": "Unincorporated",
@@ -1131,7 +1156,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Jan 2025 06:39"
+    "updated": "10 Jan 2025 07:45"
   },
   {
     "title": "PRINCES HWY, BERGALIA",
@@ -1154,5 +1179,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Jan 2025 07:11"
+  },
+  {
+    "title": "GARRAWARRA CENTRE PRINCES HWY, WATERFALL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583748",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.164970398",
+    "longitude": "150.971343994",
+    "region": "nsw",
+    "time_of_call": "10 Jan 2025 07:56:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GARRAWARRA CENTRE PRINCES HWY, WATERFALL 2233",
+    "council_area": "Wollongong",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Jan 2025 07:56"
   }
 ]
