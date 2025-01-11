@@ -20,22 +20,24 @@
     "updated": "12 Jan 2025 07:29:06"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - RICHARDSON",
-    "id": "002371-12012025",
-    "latitude": "-35.428715",
-    "longitude": "149.111133",
+    "title": "STORM OR TREE DAMAGE - WRIGHT",
+    "id": "000698-12012025",
+    "latitude": "-35.3228218499",
+    "longitude": "149.0320426399",
     "region": "act",
-    "time_of_call": "12 Jan 2025 06:49:10",
-    "status": "On Scene",
+    "time_of_call": "12 Jan 2025 08:23:41",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "RICHARDSON",
-    "updated": "12 Jan 2025 07:50:42"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "JAMES MCAULEY CRESCENT, WRIGHT, 2611",
+    "updated": "12 Jan 2025 08:27:37"
   },
   {
     "agency": "Ambulance",
@@ -89,25 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "12 Jan 2025 08:11:52"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
-    "id": "002375-12012025",
-    "latitude": "-35.333366",
-    "longitude": "149.146674",
-    "region": "act",
-    "time_of_call": "12 Jan 2025 07:36:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NARRABUNDAH",
-    "updated": "12 Jan 2025 08:16:31"
+    "updated": "12 Jan 2025 08:24:10"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": "12 Jan 2025 08:01:44"
+    "updated": "12 Jan 2025 08:25:25"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +163,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "12 Jan 2025 08:18:18"
+    "updated": "12 Jan 2025 08:21:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYONS",
+    "id": "002380-12012025",
+    "latitude": "-35.340941",
+    "longitude": "149.072217",
+    "region": "act",
+    "time_of_call": "12 Jan 2025 08:21:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYONS",
+    "updated": "12 Jan 2025 08:25:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - JACKA",
+    "id": "002381-12012025",
+    "latitude": "-35.148509",
+    "longitude": "149.130753",
+    "region": "act",
+    "time_of_call": "12 Jan 2025 08:28:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "JACKA",
+    "updated": "12 Jan 2025 08:28:41"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -708,5 +728,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Jan 2025 21:44"
+  },
+  {
+    "title": "HARRINGTON CR, BAWLEY POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583951",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.5123100279999",
+    "longitude": "150.396636963",
+    "region": "nsw",
+    "time_of_call": "12 Jan 2025 08:23:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "HARRINGTON CR, BAWLEY POINT 2539",
+    "council_area": "Shoalhaven",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Jan 2025 08:23"
   }
 ]
