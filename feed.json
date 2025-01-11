@@ -21,37 +21,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "002228-11012025",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "11 Jan 2025 12:40:08",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "11 Jan 2025 13:44:36"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - FISHER",
     "id": "002229-11012025",
     "latitude": "-35.360481",
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "11 Jan 2025 12:42:49",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "11 Jan 2025 12:48:09"
+    "updated": "11 Jan 2025 14:45:44"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +45,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "11 Jan 2025 12:49:03",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "11 Jan 2025 14:19:50"
+    "updated": "11 Jan 2025 14:31:37"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +63,13 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "11 Jan 2025 13:12:03",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "11 Jan 2025 14:22:21"
+    "updated": "11 Jan 2025 14:36:25"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "11 Jan 2025 13:38:06"
+    "updated": "11 Jan 2025 14:47:26"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "11 Jan 2025 14:15:57"
+    "updated": "11 Jan 2025 14:28:09"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +177,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "11 Jan 2025 14:18:20"
+    "updated": "11 Jan 2025 14:32:51"
   },
   {
     "agency": "Ambulance",
@@ -225,13 +207,31 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "11 Jan 2025 14:16:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "11 Jan 2025 14:26:01"
+    "updated": "11 Jan 2025 14:41:36"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "002257-11012025",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "11 Jan 2025 14:39:35",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "11 Jan 2025 14:43:06"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -880,28 +880,6 @@
     "updated": "11 Jan 2025 11:12"
   },
   {
-    "title": "PACIFIC HWY, TWELVE MILE CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583872",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.65158844",
-    "longitude": "151.889953614",
-    "region": "nsw",
-    "time_of_call": "11 Jan 2025 13:16:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, TWELVE MILE CREEK 2324",
-    "council_area": "Port Stephens",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Jan 2025 13:16"
-  },
-  {
     "title": "WAKEFIELD RD, RYHOPE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583873",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -928,22 +906,25 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583875",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.0851001739999",
-    "longitude": "145.919692994",
+    "latitude": "-30.089391709",
+    "longitude": "145.920913696",
     "region": "nsw",
-    "time_of_call": "11 Jan 2025 13:52:00",
+    "time_of_call": "11 Jan 2025 14:26:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "ALICE EDWARDS VILLAGE INDIGENOUS COMMUNITY PARKDALE RD, BOURKE 2840",
     "council_area": "Bourke",
     "type": "Bush Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "10 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Jan 2025 13:52"
+    "updated": "11 Jan 2025 14:26"
   },
   {
     "title": "HWY, EWINGSDALE",
