@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
     "location": "WIRRAWAY CRESCENT, SCULLIN, 2614",
-    "updated": "13 Jan 2025 08:09:45"
+    "updated": "13 Jan 2025 08:25:32"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "13 Jan 2025 07:58:12"
+    "updated": "13 Jan 2025 08:25:59"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "13 Jan 2025 08:18:43"
+    "updated": "13 Jan 2025 08:25:16"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "13 Jan 2025 08:18:38"
+    "updated": "13 Jan 2025 08:19:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "002539-13012025",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "13 Jan 2025 08:22:01",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "13 Jan 2025 08:22:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "002540-13012025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "13 Jan 2025 08:25:12",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "13 Jan 2025 08:28:29"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -794,13 +830,10 @@
     "latitude": "-36.9867401119999",
     "longitude": "148.949707031",
     "region": "nsw",
-    "time_of_call": "12 Jan 2025 20:49:00",
+    "time_of_call": "13 Jan 2025 08:28:00",
     "event_type": "burnt area",
     "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
+    "alert_level": "Not Applicable",
     "location": "CENTURS ROCKY RANGE ROAD, DELEGATE 2633",
     "council_area": "Snowy Monaro",
     "type": "Bush Fire",
@@ -809,7 +842,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Jan 2025 20:49"
+    "updated": "13 Jan 2025 08:28"
   },
   {
     "title": "BURLEY GRIFFIN WAY, ARDLETHAN",
@@ -926,27 +959,5 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "13 Jan 2025 04:46"
-  },
-  {
-    "title": "RUTH PL, DALMENY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584079",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.167446136",
-    "longitude": "150.109039307",
-    "region": "nsw",
-    "time_of_call": "13 Jan 2025 08:02:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "DALMENY VILLAGE 4 RUTH PL, DALMENY 2546",
-    "council_area": "Eurobodalla",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Jan 2025 08:02"
   }
 ]
