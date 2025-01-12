@@ -51,7 +51,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "13 Jan 2025 10:18:59"
+    "updated": "13 Jan 2025 10:24:45"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "13 Jan 2025 10:13:39"
+    "updated": "13 Jan 2025 10:20:19"
   },
   {
     "agency": "Ambulance",
@@ -160,24 +160,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CHIFLEY",
     "updated": "13 Jan 2025 10:02:31"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AINSLIE",
-    "id": "002554-13012025",
-    "latitude": "-35.262117",
-    "longitude": "149.144037",
-    "region": "act",
-    "time_of_call": "13 Jan 2025 09:49:45",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "AINSLIE",
-    "updated": "13 Jan 2025 09:58:50"
   },
   {
     "agency": "Ambulance",
@@ -207,13 +189,13 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "13 Jan 2025 10:02:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "13 Jan 2025 10:16:18"
+    "updated": "13 Jan 2025 10:24:23"
   },
   {
     "agency": "Ambulance",
@@ -225,13 +207,31 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "13 Jan 2025 10:07:03",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "13 Jan 2025 10:11:21"
+    "updated": "13 Jan 2025 10:21:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "002558-13012025",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "13 Jan 2025 10:22:58",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "13 Jan 2025 10:28:18"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -630,7 +630,7 @@
     "latitude": "-34.968124389",
     "longitude": "148.605789185",
     "region": "nsw",
-    "time_of_call": "12 Jan 2025 20:35:00",
+    "time_of_call": "13 Jan 2025 10:09:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -645,7 +645,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "12 Jan 2025 20:35"
+    "updated": "13 Jan 2025 10:09"
   },
   {
     "title": "MERRIWA ST, BOGGABILLA",
@@ -937,7 +937,7 @@
     "latitude": "-33.3371963499999",
     "longitude": "151.393722535",
     "region": "nsw",
-    "time_of_call": "13 Jan 2025 09:42:00",
+    "time_of_call": "13 Jan 2025 10:17:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -949,7 +949,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Jan 2025 09:42"
+    "updated": "13 Jan 2025 10:17"
   },
   {
     "title": "KINGS HWY, BUCKENBOWRA",
@@ -992,5 +992,69 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Jan 2025 10:01"
+  },
+  {
+    "title": "WOODBURN EVANS HEAD RD, DOONBAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584089",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.085996628",
+    "longitude": "153.378173828",
+    "region": "nsw",
+    "time_of_call": "13 Jan 2025 10:19:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "369 WOODBURN EVANS HEAD RD, DOONBAH 2473",
+    "council_area": "Richmond Valley",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Jan 2025 10:19"
+  },
+  {
+    "title": "BYLONG VALLEY WAY, WIDDEN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584090",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.410305023",
+    "longitude": "150.380447388",
+    "region": "nsw",
+    "time_of_call": "13 Jan 2025 10:22:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BYLONG VALLEY WAY, WIDDEN 2328",
+    "council_area": "Muswellbrook",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Jan 2025 10:22"
+  },
+  {
+    "title": "TARAGO RD, BUNGENDORE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584091",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.228061676",
+    "longitude": "149.450622558",
+    "region": "nsw",
+    "time_of_call": "13 Jan 2025 10:22:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "TARAGO RD, BUNGENDORE 2621",
+    "council_area": "Queanbeyan-Palerang",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Jan 2025 10:22"
   }
 ]
