@@ -9,15 +9,15 @@
     "longitude": "149.1655199699",
     "region": "act",
     "time_of_call": "12 Jan 2025 19:41:09",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "BURRELL STREET, HACKETT, 2602",
-    "updated": "14 Jan 2025 09:09:06"
+    "updated": "14 Jan 2025 09:29:33"
   },
   {
     "agency": "Fire",
@@ -49,15 +49,15 @@
     "longitude": "149.0359940799",
     "region": "act",
     "time_of_call": "14 Jan 2025 00:47:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "MORRELL PLACE, RIVETT, 2611",
-    "updated": "14 Jan 2025 09:18:28"
+    "updated": "14 Jan 2025 09:28:10"
   },
   {
     "agency": "Fire",
@@ -69,15 +69,15 @@
     "longitude": "149.04727507",
     "region": "act",
     "time_of_call": "14 Jan 2025 06:41:00",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
     "status_filter_label": "Active",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "MAPLESTONE PLACE, CHAPMAN, 2611",
-    "updated": "14 Jan 2025 06:41:25"
+    "updated": "14 Jan 2025 09:28:57"
   },
   {
     "agency": "Fire",
@@ -177,24 +177,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "002765-14012025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "14 Jan 2025 08:14:40",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "14 Jan 2025 08:43:43"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONASH",
     "id": "002766-14012025",
     "latitude": "-35.413962",
@@ -225,7 +207,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "14 Jan 2025 09:06:48"
+    "updated": "14 Jan 2025 09:26:58"
   },
   {
     "agency": "Ambulance",
@@ -273,13 +255,13 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "14 Jan 2025 08:55:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "14 Jan 2025 09:13:54"
+    "updated": "14 Jan 2025 09:26:11"
   },
   {
     "agency": "Ambulance",
@@ -327,13 +309,31 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "14 Jan 2025 09:12:16",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "14 Jan 2025 09:24:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RICHARDSON",
+    "id": "002779-14012025",
+    "latitude": "-35.428715",
+    "longitude": "149.111133",
+    "region": "act",
+    "time_of_call": "14 Jan 2025 09:29:22",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CURTIN",
-    "updated": "14 Jan 2025 09:15:00"
+    "location": "RICHARDSON",
+    "updated": "14 Jan 2025 09:30:36"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -453,28 +453,6 @@
     "size": "128 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "13 Jan 2025 15:14"
-  },
-  {
-    "title": "PEAK 692",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583172",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.832260084",
-    "longitude": "150.548881529",
-    "region": "nsw",
-    "time_of_call": "13 Jan 2025 15:20:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PEAK 692 FIRE PUTTY 2330",
-    "council_area": "Singleton",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "14 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Jan 2025 15:20"
   },
   {
     "title": "FORDS RD, BOBADAH",
