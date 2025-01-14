@@ -23,24 +23,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHARNWOOD",
-    "id": "002908-14012025",
-    "latitude": "-35.200338",
-    "longitude": "149.036735",
-    "region": "act",
-    "time_of_call": "14 Jan 2025 17:42:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHARNWOOD",
-    "updated": "14 Jan 2025 19:04:43"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WARAMANGA",
     "id": "002913-14012025",
     "latitude": "-35.353501",
@@ -89,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "14 Jan 2025 20:17:16"
+    "updated": "14 Jan 2025 20:30:26"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "14 Jan 2025 20:09:44"
+    "updated": "14 Jan 2025 20:22:48"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "14 Jan 2025 19:58:02"
+    "updated": "14 Jan 2025 20:28:21"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "14 Jan 2025 20:11:40"
+    "updated": "14 Jan 2025 20:26:24"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "14 Jan 2025 20:13:24",
-    "status": "Units On Route",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "14 Jan 2025 20:18:56"
+    "updated": "14 Jan 2025 20:32:52"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +197,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "14 Jan 2025 20:21:47"
+    "updated": "14 Jan 2025 20:28:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "002931-14012025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "14 Jan 2025 20:25:22",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "14 Jan 2025 20:31:51"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -807,28 +807,6 @@
     "updated": "14 Jan 2025 13:21"
   },
   {
-    "title": "CLARENCE TOWN RD, CLARENCE TOWN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584227",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.5764160159999",
-    "longitude": "151.767654419",
-    "region": "nsw",
-    "time_of_call": "14 Jan 2025 15:47:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "CLARENCE TOWN RD, CLARENCE TOWN 2321",
-    "council_area": "Dungog",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Jan 2025 15:47"
-  },
-  {
     "title": "SHEEHAN RD, EAST CORAKI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584231",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -990,26 +968,6 @@
     "updated": "14 Jan 2025 18:03"
   },
   {
-    "title": "MOUNT MCKENZIE RD, TENTERFIELD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584254",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.1044406889999",
-    "longitude": "151.91847229",
-    "region": "nsw",
-    "time_of_call": "14 Jan 2025 18:47:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "761 MOUNT MCKENZIE RD, TENTERFIELD 2372",
-    "council_area": "Tenterfield",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Jan 2025 18:47"
-  },
-  {
     "title": "COOPERNOOK FOREST WAY, LANSDOWNE FOREST",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584255",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1030,31 +988,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Jan 2025 17:47"
-  },
-  {
-    "title": "COONABARABRAN RD, COONABARABRAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584256",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.497219086",
-    "longitude": "149.284378051",
-    "region": "nsw",
-    "time_of_call": "14 Jan 2025 18:44:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "COONABARABRAN RD, COONABARABRAN 2357",
-    "council_area": "Warrumbungle",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Jan 2025 18:44"
   },
   {
     "title": "YARRAWA RD, YARRAWA",
@@ -1099,6 +1032,28 @@
     "updated": "14 Jan 2025 18:33"
   },
   {
+    "title": "KAMILAROI HWY, WALGETT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584263",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.034547806",
+    "longitude": "147.78553772",
+    "region": "nsw",
+    "time_of_call": "14 Jan 2025 19:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "KAMILAROI HWY, WALGETT 2832",
+    "council_area": "Walgett",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Jan 2025 19:37"
+  },
+  {
     "title": "BUNDANOON RD, BUNDANOON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584264",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1121,6 +1076,50 @@
     "updated": "14 Jan 2025 19:58"
   },
   {
+    "title": "BARTON ST, CROKI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584265",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.876792908",
+    "longitude": "152.593826294",
+    "region": "nsw",
+    "time_of_call": "14 Jan 2025 20:04:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BARTON ST, CROKI 2430",
+    "council_area": "Mid-Coast",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Jan 2025 20:04"
+  },
+  {
+    "title": "ALBERT RD, CONDOBOLIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584266",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.525615692",
+    "longitude": "147.163269043",
+    "region": "nsw",
+    "time_of_call": "14 Jan 2025 20:07:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MINNALONG 3414 ALBERT RD, CONDOBOLIN 2877",
+    "council_area": "Lachlan",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Jan 2025 20:07"
+  },
+  {
     "title": "West Esp, Manly",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584268",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1128,9 +1127,9 @@
     "latitude": "-33.7984729999999",
     "longitude": "151.282819",
     "region": "nsw",
-    "time_of_call": "14 Jan 2025 20:18:00",
+    "time_of_call": "14 Jan 2025 20:23:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1143,6 +1142,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "14 Jan 2025 20:18"
+    "updated": "14 Jan 2025 20:23"
+  },
+  {
+    "title": "BLAXLAND CR, SUNSHINE BAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584269",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.7469291689999",
+    "longitude": "150.207473755",
+    "region": "nsw",
+    "time_of_call": "14 Jan 2025 20:20:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "7 BLAXLAND CR, SUNSHINE BAY 2536",
+    "council_area": "Eurobodalla",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Jan 2025 20:20"
   }
 ]
