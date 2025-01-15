@@ -9,15 +9,15 @@
     "longitude": "148.9994772599",
     "region": "act",
     "time_of_call": "14 Jan 2025 21:03:42",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
     "status_filter_label": "Active",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "WUNDERLY CIRCUIT, MACGREGOR, 2615",
-    "updated": "14 Jan 2025 22:28:17"
+    "updated": "15 Jan 2025 16:31:23"
   },
   {
     "agency": "Fire",
@@ -29,15 +29,15 @@
     "longitude": "149.1078941499",
     "region": "act",
     "time_of_call": "15 Jan 2025 11:25:39",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "LOBAN COURT, NGUNNAWAL, 2913",
-    "updated": "15 Jan 2025 15:50:14"
+    "updated": "15 Jan 2025 16:30:47"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DENMAN PROSPECT",
-    "updated": "15 Jan 2025 16:14:55"
+    "updated": "15 Jan 2025 16:31:59"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "15 Jan 2025 16:16:24"
+    "updated": "15 Jan 2025 16:33:19"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +253,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "15 Jan 2025 16:08:39"
+    "updated": "15 Jan 2025 16:27:47"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +289,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "15 Jan 2025 16:17:51"
+    "updated": "15 Jan 2025 16:29:55"
   },
   {
     "agency": "Ambulance",
@@ -301,13 +301,31 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "15 Jan 2025 16:14:30",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "15 Jan 2025 16:33:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KINGSTON",
+    "id": "003140-15012025",
+    "latitude": "-35.315358",
+    "longitude": "149.146868",
+    "region": "act",
+    "time_of_call": "15 Jan 2025 16:33:16",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "15 Jan 2025 16:16:20"
+    "location": "KINGSTON",
+    "updated": "15 Jan 2025 16:35:52"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -430,8 +448,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583252",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.2883688549999",
-    "longitude": "150.789456368",
+    "latitude": "-33.2840869469999",
+    "longitude": "150.777967884",
     "region": "nsw",
     "time_of_call": "15 Jan 2025 14:57:00",
     "event_type": "burnt area",
@@ -474,8 +492,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583255",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.2327384939999",
-    "longitude": "150.76248169",
+    "latitude": "-33.2840869469999",
+    "longitude": "150.777967884",
     "region": "nsw",
     "time_of_call": "15 Jan 2025 15:22:00",
     "event_type": "burnt area",
@@ -624,7 +642,7 @@
     "latitude": "-34.1878089909999",
     "longitude": "147.473876953",
     "region": "nsw",
-    "time_of_call": "14 Jan 2025 10:54:00",
+    "time_of_call": "15 Jan 2025 16:23:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -639,7 +657,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Jan 2025 10:54"
+    "updated": "15 Jan 2025 16:23"
   },
   {
     "title": "IVANHOE RD, BALRANALD",
@@ -994,9 +1012,9 @@
     "latitude": "-35.7838706969999",
     "longitude": "147.038024902",
     "region": "nsw",
-    "time_of_call": "15 Jan 2025 13:41:00",
+    "time_of_call": "15 Jan 2025 16:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "KANANDAH 686 COACH RD, CULCAIRN 2660",
     "council_area": "Greater Hume",
@@ -1004,7 +1022,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jan 2025 13:41"
+    "updated": "15 Jan 2025 16:25"
   },
   {
     "title": "BARADINE RD, BUGALDIE",
@@ -1052,26 +1070,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Jan 2025 15:09"
-  },
-  {
-    "title": "BYRNES RD, HAREFIELD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584328",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.008609771",
-    "longitude": "147.467300415",
-    "region": "nsw",
-    "time_of_call": "15 Jan 2025 16:08:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BYRNES RD, HAREFIELD 2650",
-    "council_area": "Wagga Wagga",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jan 2025 16:08"
   },
   {
     "title": "ROOTY HILL RD S",
@@ -1128,9 +1126,9 @@
     "latitude": "-35.1156921379999",
     "longitude": "147.542648315",
     "region": "nsw",
-    "time_of_call": "15 Jan 2025 14:39:00",
+    "time_of_call": "15 Jan 2025 16:26:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "4 WAGGA WAGGA ST, OURA 2650",
     "council_area": "Wagga Wagga",
@@ -1138,7 +1136,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jan 2025 14:39"
+    "updated": "15 Jan 2025 16:26"
   },
   {
     "title": "TRAHAIRS RD, BOMEN",
@@ -1188,9 +1186,9 @@
     "latitude": "-35.095230102",
     "longitude": "147.389877319",
     "region": "nsw",
-    "time_of_call": "15 Jan 2025 14:41:00",
+    "time_of_call": "15 Jan 2025 16:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "MILL ST, NORTH WAGGA WAGGA 2650",
     "council_area": "Wagga Wagga",
@@ -1198,7 +1196,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "15 Jan 2025 14:41"
+    "updated": "15 Jan 2025 16:25"
   },
   {
     "title": "WESTBROOK RD, OBERNE CREEK",
@@ -1438,9 +1436,9 @@
     "latitude": "-35.516479492",
     "longitude": "148.140823364",
     "region": "nsw",
-    "time_of_call": "15 Jan 2025 15:17:00",
+    "time_of_call": "15 Jan 2025 16:28:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MAYDAY RD, BATLOW 2730",
     "council_area": "Snowy Valleys",
@@ -1448,7 +1446,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "15 Jan 2025 15:17"
+    "updated": "15 Jan 2025 16:28"
   },
   {
     "title": "MATES GULLY RD, TARCUTTA",
@@ -1489,28 +1487,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Jan 2025 15:25"
-  },
-  {
-    "title": "COWLONG RD, ALPHADALE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584357",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.8092098239999",
-    "longitude": "153.366714478",
-    "region": "nsw",
-    "time_of_call": "15 Jan 2025 15:31:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "MACADAMIA MAGIC 2 COWLONG RD, ALPHADALE 2480",
-    "council_area": "Lismore",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jan 2025 15:31"
   },
   {
     "title": "BINGLEBURRA RD, BINGLEBURRA",
@@ -1565,9 +1541,9 @@
     "latitude": "-35.99274826",
     "longitude": "147.903015137",
     "region": "nsw",
-    "time_of_call": "15 Jan 2025 15:39:00",
+    "time_of_call": "15 Jan 2025 16:30:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "965 RIVER RD, WELAREGANG 2642",
     "council_area": "Snowy Valleys",
@@ -1575,7 +1551,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jan 2025 15:39"
+    "updated": "15 Jan 2025 16:30"
   },
   {
     "title": "TOOMA RD, BRINGENBRONG",
@@ -1585,9 +1561,9 @@
     "latitude": "-36.111579895",
     "longitude": "148.025466919",
     "region": "nsw",
-    "time_of_call": "15 Jan 2025 15:44:00",
+    "time_of_call": "15 Jan 2025 16:20:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "TOOMA RD, BRINGENBRONG 3707",
     "council_area": "Snowy Valleys",
@@ -1595,7 +1571,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jan 2025 15:44"
+    "updated": "15 Jan 2025 16:20"
   },
   {
     "title": "LOWER BAGO RD, LOWER BAGO",
@@ -1645,9 +1621,9 @@
     "latitude": "-33.738739014",
     "longitude": "148.563903809",
     "region": "nsw",
-    "time_of_call": "15 Jan 2025 15:53:00",
+    "time_of_call": "15 Jan 2025 16:24:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "1841 LACHLAN VALLEY WAY, COWRA 2794",
     "council_area": "Cowra",
@@ -1657,7 +1633,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jan 2025 15:53"
+    "updated": "15 Jan 2025 16:24"
   },
   {
     "title": "KINGS HWY, BUNGENDORE",
@@ -1750,21 +1726,21 @@
     "updated": "15 Jan 2025 16:16"
   },
   {
-    "title": "BURNT BRIDGE RD, BURNT BRIDGE",
+    "title": "Burnt Bridge Rd, Burnt Bridge",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584371",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
     "latitude": "-31.1054935449999",
     "longitude": "152.803817749",
     "region": "nsw",
-    "time_of_call": "15 Jan 2025 16:10:00",
+    "time_of_call": "15 Jan 2025 16:27:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "BURNT BRIDGE RD, BURNT BRIDGE 2440",
+    "location": "Burnt Bridge Rd, Burnt Bridge, NSW 2440",
     "council_area": "Kempsey",
     "type": "Grass Fire",
     "type_description": "",
@@ -1772,7 +1748,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "15 Jan 2025 16:10"
+    "updated": "15 Jan 2025 16:27"
   },
   {
     "title": "PARKER RD, LONDONDERRY",
@@ -1782,10 +1758,13 @@
     "latitude": "-33.649635315",
     "longitude": "150.770751953",
     "region": "nsw",
-    "time_of_call": "15 Jan 2025 16:10:00",
+    "time_of_call": "15 Jan 2025 16:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "PARKER RD, LONDONDERRY 2753",
     "council_area": "Penrith",
     "type": "Grass Fire",
@@ -1794,7 +1773,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jan 2025 16:10"
+    "updated": "15 Jan 2025 16:21"
   },
   {
     "title": "REYNOLDS RD, LONDONDERRY",
@@ -1804,9 +1783,9 @@
     "latitude": "-33.6372833249999",
     "longitude": "150.754837036",
     "region": "nsw",
-    "time_of_call": "15 Jan 2025 16:14:00",
+    "time_of_call": "15 Jan 2025 16:22:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "220 REYNOLDS RD, LONDONDERRY 2753",
     "council_area": "Penrith",
@@ -1814,7 +1793,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jan 2025 16:14"
+    "updated": "15 Jan 2025 16:22"
   },
   {
     "title": "GWYDIR HWY, BINIGUY",
@@ -1824,10 +1803,13 @@
     "latitude": "-29.506891251",
     "longitude": "150.102554321",
     "region": "nsw",
-    "time_of_call": "15 Jan 2025 16:15:00",
+    "time_of_call": "15 Jan 2025 16:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "18007 GWYDIR HWY, BINIGUY 2399",
     "council_area": "Moree Plains",
     "type": "Grass Fire",
@@ -1836,7 +1818,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jan 2025 16:15"
+    "updated": "15 Jan 2025 16:23"
   },
   {
     "title": "NICOLE PL, MOORE CREEK",
@@ -1859,5 +1841,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Jan 2025 16:17"
+  },
+  {
+    "title": "MURRAYS FLAT RD, ANGLEDALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584376",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.6362419129999",
+    "longitude": "149.897521972",
+    "region": "nsw",
+    "time_of_call": "15 Jan 2025 16:18:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "300 MURRAYS FLAT RD, ANGLEDALE 2550",
+    "council_area": "Bega Valley",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Jan 2025 16:18"
+  },
+  {
+    "title": "MITCHELLS PASS, GLENBROOK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584377",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.7517814629999",
+    "longitude": "150.643615723",
+    "region": "nsw",
+    "time_of_call": "15 Jan 2025 16:20:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MITCHELLS PASS, GLENBROOK 2773",
+    "council_area": "Blue Mountains",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Jan 2025 16:20"
   }
 ]
