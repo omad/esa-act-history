@@ -649,15 +649,15 @@
     "longitude": "149.02578187",
     "region": "act",
     "time_of_call": "15 Jan 2025 19:14:16",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "DAVIDSON STREET, HIGGINS, 2615",
-    "updated": "16 Jan 2025 08:04:47"
+    "updated": "16 Jan 2025 08:22:50"
   },
   {
     "agency": "Fire",
@@ -1009,15 +1009,15 @@
     "longitude": "149.0370906599",
     "region": "act",
     "time_of_call": "15 Jan 2025 23:46:17",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "AFFLECK PLACE, SCULLIN, 2614",
-    "updated": "16 Jan 2025 08:16:30"
+    "updated": "16 Jan 2025 08:24:50"
   },
   {
     "agency": "Fire",
@@ -1069,15 +1069,15 @@
     "longitude": "149.0810429999",
     "region": "act",
     "time_of_call": "16 Jan 2025 07:17:27",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "IRELAND PLACE, WANNIASSA, 2903",
-    "updated": "16 Jan 2025 08:18:53"
+    "updated": "16 Jan 2025 08:27:46"
   },
   {
     "agency": "Fire",
@@ -1225,10 +1225,30 @@
     "event_type": "incident",
     "title": "STORM OR TREE DAMAGE - CURTIN",
     "id": "001258-16012025",
-    "latitude": "-35.32140999",
-    "longitude": "149.08432797",
+    "latitude": "-35.3214084199",
+    "longitude": "149.0843277699",
     "region": "act",
     "time_of_call": "16 Jan 2025 08:05:09",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "MORGAN PLACE, CURTIN, 2605",
+    "updated": "16 Jan 2025 08:26:52"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STORM OR TREE DAMAGE - DOWNER",
+    "id": "001259-16012025",
+    "latitude": "-35.2438442899",
+    "longitude": "149.1405482399",
+    "region": "act",
+    "time_of_call": "16 Jan 2025 08:10:09",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
@@ -1236,8 +1256,8 @@
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
-    "location": "MORGAN PL, CURTIN",
-    "updated": "16 Jan 2025 08:05:16"
+    "location": "ATHERTON STREET, DOWNER, 2602",
+    "updated": "16 Jan 2025 08:26:56"
   },
   {
     "agency": "Fire",
@@ -1377,13 +1397,13 @@
     "longitude": "148.98074",
     "region": "act",
     "time_of_call": "16 Jan 2025 08:14:02",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "16 Jan 2025 08:17:10"
+    "updated": "16 Jan 2025 08:27:24"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -2449,7 +2469,7 @@
     "latitude": "-33.546195984",
     "longitude": "150.33656311",
     "region": "nsw",
-    "time_of_call": "16 Jan 2025 07:44:00",
+    "time_of_call": "16 Jan 2025 08:22:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "alert_level": "Not Applicable",
@@ -2461,7 +2481,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Jan 2025 07:44"
+    "updated": "16 Jan 2025 08:22"
   },
   {
     "title": "GOOLMA RD, SPICERS CREEK",
@@ -2528,28 +2548,6 @@
     "updated": "16 Jan 2025 07:47"
   },
   {
-    "title": "HAYES RD, MILLFIELD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584648",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.9071769719999",
-    "longitude": "151.249938965",
-    "region": "nsw",
-    "time_of_call": "16 Jan 2025 07:51:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "HAYES RD, MILLFIELD 2325",
-    "council_area": "Cessnock",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Jan 2025 07:51"
-  },
-  {
     "title": "LADY WAKEHURST DR, LILYVALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584649",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2612,7 +2610,7 @@
     "updated": "16 Jan 2025 08:13"
   },
   {
-    "title": "Ekerts Road, Pokolbin",
+    "title": "EKERTS RD, POKOLBIN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584652",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -2623,7 +2621,7 @@
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "281 Ekerts Road, Pokolbin",
+    "location": "EKERTS RD, POKOLBIN 2320",
     "council_area": "Cessnock",
     "type": "MVA/Transport",
     "type_description": "",
@@ -2632,5 +2630,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Jan 2025 08:14"
+  },
+  {
+    "title": "CASINO CORAKI RD, CODRINGTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584653",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.9554901119999",
+    "longitude": "153.265563965",
+    "region": "nsw",
+    "time_of_call": "16 Jan 2025 08:17:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CASINO CORAKI RD, CODRINGTON 2471",
+    "council_area": "Richmond Valley",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Jan 2025 08:17"
   }
 ]
