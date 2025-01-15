@@ -111,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "15 Jan 2025 14:16:09"
+    "updated": "15 Jan 2025 14:24:11"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "15 Jan 2025 14:14:41"
+    "updated": "15 Jan 2025 14:31:49"
   },
   {
     "agency": "Ambulance",
@@ -166,24 +166,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
     "updated": "15 Jan 2025 12:49:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "003089-15012025",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "15 Jan 2025 12:45:56",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "15 Jan 2025 13:36:52"
   },
   {
     "agency": "Ambulance",
@@ -321,13 +303,13 @@
     "longitude": "149.025004",
     "region": "act",
     "time_of_call": "15 Jan 2025 13:46:21",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "DENMAN PROSPECT",
-    "updated": "15 Jan 2025 13:49:55"
+    "updated": "15 Jan 2025 14:29:32"
   },
   {
     "agency": "Ambulance",
@@ -363,7 +345,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "15 Jan 2025 14:09:28"
+    "updated": "15 Jan 2025 14:35:23"
   },
   {
     "agency": "Ambulance",
@@ -381,7 +363,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "15 Jan 2025 14:23:02"
+    "updated": "15 Jan 2025 14:26:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - REID",
+    "id": "003113-15012025",
+    "latitude": "-35.281706",
+    "longitude": "149.140719",
+    "region": "act",
+    "time_of_call": "15 Jan 2025 14:32:09",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "REID",
+    "updated": "15 Jan 2025 14:35:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "003114-15012025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "15 Jan 2025 14:32:16",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "15 Jan 2025 14:35:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "003115-15012025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "15 Jan 2025 14:33:34",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "15 Jan 2025 14:34:44"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -1178,28 +1214,6 @@
     "updated": "15 Jan 2025 13:49"
   },
   {
-    "title": "THE HERMITAGE WAY, GLEDSWOOD HILLS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584326",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.01084137",
-    "longitude": "150.77243042",
-    "region": "nsw",
-    "time_of_call": "15 Jan 2025 14:17:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "THE HERMITAGE WAY, GLEDSWOOD HILLS 2557",
-    "council_area": "Camden",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "15 Jan 2025 14:17"
-  },
-  {
     "title": "SWAN HILL RD, MURRAY DOWNS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584327",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1245,5 +1259,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Jan 2025 14:14"
+  },
+  {
+    "title": "MITCHELL RD, LAKE ALBERT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584335",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.1725807179999",
+    "longitude": "147.404373169",
+    "region": "nsw",
+    "time_of_call": "15 Jan 2025 14:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "281 MITCHELL RD, LAKE ALBERT 2650",
+    "council_area": "Wagga Wagga",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Jan 2025 14:29"
   }
 ]
