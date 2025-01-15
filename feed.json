@@ -1073,7 +1073,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "16 Jan 2025 04:18:45"
+    "updated": "16 Jan 2025 04:24:40"
   },
   {
     "agency": "Ambulance",
@@ -1085,13 +1085,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "16 Jan 2025 03:49:10",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "16 Jan 2025 04:01:23"
+    "updated": "16 Jan 2025 04:25:57"
   },
   {
     "agency": "Ambulance",
@@ -1115,24 +1115,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HARRISON",
-    "id": "003224-16012025",
-    "latitude": "-35.200527",
-    "longitude": "149.154752",
-    "region": "act",
-    "time_of_call": "16 Jan 2025 04:10:56",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HARRISON",
-    "updated": "16 Jan 2025 04:17:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WATSON",
     "id": "003225-16012025",
     "latitude": "-35.234652",
@@ -1145,7 +1127,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "16 Jan 2025 04:18:11"
+    "updated": "16 Jan 2025 04:23:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - REID",
+    "id": "003228-16012025",
+    "latitude": "-35.281706",
+    "longitude": "149.140719",
+    "region": "act",
+    "time_of_call": "16 Jan 2025 04:23:31",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "REID",
+    "updated": "16 Jan 2025 04:30:53"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -2197,28 +2197,6 @@
     "updated": "16 Jan 2025 00:41"
   },
   {
-    "title": "TOMINGLEY WEST RD, TOMINGLEY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584607",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.577838898",
-    "longitude": "148.068359375",
-    "region": "nsw",
-    "time_of_call": "16 Jan 2025 02:04:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "1266 TOMINGLEY WEST RD, TOMINGLEY 2869",
-    "council_area": "Narromine",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Jan 2025 02:04"
-  },
-  {
     "title": "CONGEWAI RD, CONGEWAI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584608",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2246,9 +2224,9 @@
     "latitude": "-28.796787262",
     "longitude": "153.593063355",
     "region": "nsw",
-    "time_of_call": "16 Jan 2025 04:09:00",
+    "time_of_call": "16 Jan 2025 04:20:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "56 BALLINA ST, LENNOX HEAD 2478",
     "council_area": "Ballina",
@@ -2258,7 +2236,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Jan 2025 04:09"
+    "updated": "16 Jan 2025 04:20"
   },
   {
     "title": "THIRLMERE WAY",
@@ -2281,26 +2259,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Jan 2025 04:06"
-  },
-  {
-    "title": "DORA ST, MORISSET",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584626",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.110038757",
-    "longitude": "151.485595704",
-    "region": "nsw",
-    "time_of_call": "16 Jan 2025 04:07:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "111 DORA ST, MORISSET 2264",
-    "council_area": "Lake Macquarie",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Jan 2025 04:07"
   },
   {
     "title": "ASHFORD RD, ASHFORD",
