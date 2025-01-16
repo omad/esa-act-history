@@ -147,15 +147,15 @@
     "longitude": "149.0748443604",
     "region": "act",
     "time_of_call": "17 Jan 2025 06:57:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "",
     "location": "DRAKEFORD DRIVE, TAVERNER STREET, WANNIASSA, 2903",
-    "updated": "17 Jan 2025 07:22:52"
+    "updated": "17 Jan 2025 07:32:32"
   },
   {
     "agency": "Ambulance",
@@ -185,13 +185,31 @@
     "longitude": "149.033417",
     "region": "act",
     "time_of_call": "17 Jan 2025 07:07:52",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WHITLAM",
-    "updated": "17 Jan 2025 07:14:39"
+    "updated": "17 Jan 2025 07:23:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "003474-17012025",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "17 Jan 2025 07:26:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "17 Jan 2025 07:31:53"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -997,26 +1015,6 @@
     "updated": "16 Jan 2025 21:15"
   },
   {
-    "title": "GREY GUM RD, TUNCURRY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584768",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.1653175349999",
-    "longitude": "152.489273071",
-    "region": "nsw",
-    "time_of_call": "16 Jan 2025 18:31:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "GREY GUM RD, TUNCURRY 2428",
-    "council_area": "Mid-Coast",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Jan 2025 18:31"
-  },
-  {
     "title": "GWYDIR HWY, BINIGUY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584772",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1179,28 +1177,6 @@
     "updated": "17 Jan 2025 07:14"
   },
   {
-    "title": "CAMDEN VALLEY WAY, DENHAM COURT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584809",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.9689292909999",
-    "longitude": "150.81465149",
-    "region": "nsw",
-    "time_of_call": "17 Jan 2025 07:11:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "CAMDEN VALLEY WAY, DENHAM COURT 2565",
-    "council_area": "Campbelltown",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "17 Jan 2025 07:11"
-  },
-  {
     "title": "LANGTREE RD, HILLSTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584810",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1208,9 +1184,9 @@
     "latitude": "-33.6724014289999",
     "longitude": "145.541000366",
     "region": "nsw",
-    "time_of_call": "17 Jan 2025 07:17:00",
+    "time_of_call": "17 Jan 2025 07:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "LANGTREE RD, HILLSTON 2675",
     "council_area": "Carrathool",
@@ -1220,6 +1196,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Jan 2025 07:17"
+    "updated": "17 Jan 2025 07:27"
   }
 ]
