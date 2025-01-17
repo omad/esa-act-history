@@ -9,15 +9,15 @@
     "longitude": "149.08371521",
     "region": "act",
     "time_of_call": "18 Jan 2025 07:22:03",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "BANDJALONG CRESCENT, ARANDA, 2614",
-    "updated": "18 Jan 2025 07:22:21"
+    "updated": "18 Jan 2025 07:29:36"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,13 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "18 Jan 2025 07:19:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "18 Jan 2025 07:22:43"
+    "updated": "18 Jan 2025 07:32:30"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "18 Jan 2025 07:21:43"
+    "updated": "18 Jan 2025 07:24:51"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -886,14 +886,14 @@
     "updated": "17 Jan 2025 21:10"
   },
   {
-    "title": "ARIZONA RD, CHARMHAVEN",
+    "title": "Assist SES - Wyong",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584887",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
     "latitude": "-33.2248764039999",
     "longitude": "151.488494873",
     "region": "nsw",
-    "time_of_call": "17 Jan 2025 20:10:00",
+    "time_of_call": "18 Jan 2025 07:23:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "alert_level": "Not Applicable",
@@ -902,8 +902,8 @@
     "type": "Assist Other Agency",
     "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Jan 2025 20:10"
+    "responsible_agency": "State Emergency Service",
+    "updated": "18 Jan 2025 07:23"
   },
   {
     "title": "MCDONAGH RD, WYONG",
@@ -1377,5 +1377,45 @@
     "size": "0 ha",
     "responsible_agency": "State Emergency Service",
     "updated": "18 Jan 2025 06:49"
+  },
+  {
+    "title": "ESK ST, NORTH WAHROONGA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585046",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.701835632",
+    "longitude": "151.138580322",
+    "region": "nsw",
+    "time_of_call": "18 Jan 2025 07:18:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "NSW SES KU-RING-GAI 7 ESK ST, NORTH WAHROONGA 2076",
+    "council_area": "Ku-Ring-Gai",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "State Emergency Service",
+    "updated": "18 Jan 2025 07:18"
+  },
+  {
+    "title": "WICKS RD, MACQUARIE PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585047",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.7886352539999",
+    "longitude": "151.133285522",
+    "region": "nsw",
+    "time_of_call": "18 Jan 2025 07:26:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "WICKS RD, MACQUARIE PARK 2113",
+    "council_area": "Ryde",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Jan 2025 07:26"
   }
 ]
