@@ -39,24 +39,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "003885-19012025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "19 Jan 2025 08:54:47",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "19 Jan 2025 10:09:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - LYONS",
     "id": "003886-19012025",
     "latitude": "-35.340941",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "19 Jan 2025 10:14:21"
+    "updated": "19 Jan 2025 10:33:49"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +105,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "19 Jan 2025 10:19:29"
+    "updated": "19 Jan 2025 10:36:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GOWRIE",
+    "id": "003890-19012025",
+    "latitude": "-35.411365",
+    "longitude": "149.110257",
+    "region": "act",
+    "time_of_call": "19 Jan 2025 10:35:43",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GOWRIE",
+    "updated": "19 Jan 2025 10:42:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HAWKER",
+    "id": "003892-19012025",
+    "latitude": "-35.246757",
+    "longitude": "149.03611",
+    "region": "act",
+    "time_of_call": "19 Jan 2025 10:43:20",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HAWKER",
+    "updated": "19 Jan 2025 10:48:14"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -732,28 +750,6 @@
     "updated": "18 Jan 2025 17:17"
   },
   {
-    "title": "WARRUMBUNGLES WAY, WEETALIBA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585209",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.647232056",
-    "longitude": "149.588409423",
-    "region": "nsw",
-    "time_of_call": "18 Jan 2025 20:52:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "1599 WARRUMBUNGLES WAY, WEETALIBA 2395",
-    "council_area": "Warrumbungle",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Jan 2025 20:52"
-  },
-  {
     "title": "CASTLEREAGH RD, AGNES BANKS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585240",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -954,26 +950,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "19 Jan 2025 09:51"
-  },
-  {
-    "title": "BIRCH DR, HAMLYN TERRACE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585290",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.2607841499999",
-    "longitude": "151.459884643",
-    "region": "nsw",
-    "time_of_call": "19 Jan 2025 09:55:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "27 BIRCH DR, HAMLYN TERRACE 2259",
-    "council_area": "Central Coast",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "19 Jan 2025 09:55"
   },
   {
     "title": "TAYLOR ST, THE ENTRANCE",
@@ -1243,9 +1219,9 @@
     "latitude": "-33.289569855",
     "longitude": "151.472076416",
     "region": "nsw",
-    "time_of_call": "19 Jan 2025 10:08:00",
+    "time_of_call": "19 Jan 2025 10:28:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "452 TUGGERAWONG RD, TUGGERAWONG 2259",
     "council_area": "Central Coast",
@@ -1253,7 +1229,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "19 Jan 2025 10:08"
+    "updated": "19 Jan 2025 10:28"
   },
   {
     "title": "SIERRA AV, BATEAU BAY",
@@ -1263,9 +1239,9 @@
     "latitude": "-33.383075714",
     "longitude": "151.473556518",
     "region": "nsw",
-    "time_of_call": "19 Jan 2025 10:08:00",
+    "time_of_call": "19 Jan 2025 10:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "22 SIERRA AV, BATEAU BAY 2261",
     "council_area": "Central Coast",
@@ -1273,7 +1249,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "19 Jan 2025 10:08"
+    "updated": "19 Jan 2025 10:27"
   },
   {
     "title": "KILKENNY PDE, BERKELEY VALE",
@@ -1434,5 +1410,25 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "19 Jan 2025 10:17"
+  },
+  {
+    "title": "KARANGAL CR, BUFF POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585317",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.2317390439999",
+    "longitude": "151.532577515",
+    "region": "nsw",
+    "time_of_call": "19 Jan 2025 10:26:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "42 KARANGAL CR, BUFF POINT 2262",
+    "council_area": "Central Coast",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "19 Jan 2025 10:26"
   }
 ]
