@@ -161,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "18 Jan 2025 15:21:01"
+    "updated": "18 Jan 2025 15:48:09"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "18 Jan 2025 15:28:35"
+    "updated": "18 Jan 2025 15:48:03"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "18 Jan 2025 15:36:33"
+    "updated": "18 Jan 2025 15:48:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACQUARIE",
+    "id": "003776-18012025",
+    "latitude": "-35.249901",
+    "longitude": "149.061171",
+    "region": "act",
+    "time_of_call": "18 Jan 2025 15:38:58",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACQUARIE",
+    "updated": "18 Jan 2025 15:41:39"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -1609,28 +1627,6 @@
     "updated": "18 Jan 2025 13:56"
   },
   {
-    "title": "CIRCULO DR, COPACABANA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585153",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.488880157",
-    "longitude": "151.429077149",
-    "region": "nsw",
-    "time_of_call": "18 Jan 2025 13:21:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "59 CIRCULO DR, COPACABANA 2251",
-    "council_area": "Central Coast",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Jan 2025 13:21"
-  },
-  {
     "title": "WARKTON RD, TANNABAR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585156",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1638,9 +1634,9 @@
     "latitude": "-31.3698730469999",
     "longitude": "149.177627563",
     "region": "nsw",
-    "time_of_call": "18 Jan 2025 14:08:00",
+    "time_of_call": "18 Jan 2025 15:41:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "KILDAIR 798 WARKTON RD, TANNABAR 2357",
     "council_area": "Warrumbungle",
@@ -1648,9 +1644,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Jan 2025 14:08"
+    "updated": "18 Jan 2025 15:41"
   },
   {
     "title": "Canton Beach Road, Toukley",
@@ -1700,7 +1696,7 @@
     "latitude": "-32.902435302",
     "longitude": "147.818557739",
     "region": "nsw",
-    "time_of_call": "18 Jan 2025 15:20:00",
+    "time_of_call": "18 Jan 2025 15:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1715,7 +1711,7 @@
     "fire": "Yes",
     "size": "20 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Jan 2025 15:20"
+    "updated": "18 Jan 2025 15:33"
   },
   {
     "title": "RESERVOIR RD, OURIMBAH",
@@ -1758,6 +1754,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Jan 2025 14:51"
+  },
+  {
+    "title": "KIMBRIKI RD, MOUNT GEORGE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585170",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.901630402",
+    "longitude": "152.230941772",
+    "region": "nsw",
+    "time_of_call": "18 Jan 2025 15:19:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "KIMBRIKI RD, MOUNT GEORGE 2424",
+    "council_area": "Mid-Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Jan 2025 15:19"
   },
   {
     "title": "BURRENDONG WAY, DRIPSTONE",
