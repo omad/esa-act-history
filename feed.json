@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": "20 Jan 2025 01:26:05"
+    "updated": "20 Jan 2025 01:36:00"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "20 Jan 2025 01:02:46",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "20 Jan 2025 01:13:38"
+    "updated": "20 Jan 2025 01:38:08"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "20 Jan 2025 01:23:23"
+    "updated": "20 Jan 2025 01:42:35"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "20 Jan 2025 01:28:32"
+    "updated": "20 Jan 2025 01:47:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "004018-20012025",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "20 Jan 2025 01:46:57",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "20 Jan 2025 01:48:37"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -602,9 +620,9 @@
     "latitude": "-34.7429809569999",
     "longitude": "149.918045044",
     "region": "nsw",
-    "time_of_call": "20 Jan 2025 01:20:00",
+    "time_of_call": "20 Jan 2025 01:42:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "HUME HWY, MARULAN 2579",
     "council_area": "Goulburn Mulwaree",
@@ -612,6 +630,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Jan 2025 01:20"
+    "updated": "20 Jan 2025 01:42"
   }
 ]
