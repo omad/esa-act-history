@@ -9,15 +9,15 @@
     "longitude": "149.0961151123",
     "region": "act",
     "time_of_call": "20 Jan 2025 08:30:01",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "ANIMAL RESCUE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
     "location": "PRE-SCHOOL, LANGDON AVENUE, WANNIASSA, 2903",
-    "updated": "20 Jan 2025 08:47:33"
+    "updated": "20 Jan 2025 09:26:11"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "20 Jan 2025 09:12:40"
+    "updated": "20 Jan 2025 09:24:20"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +119,13 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "20 Jan 2025 08:22:07",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "20 Jan 2025 09:18:14"
+    "updated": "20 Jan 2025 09:28:16"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "20 Jan 2025 09:19:27"
+    "updated": "20 Jan 2025 09:24:32"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +173,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "20 Jan 2025 09:15:40",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "20 Jan 2025 09:20:48"
+    "updated": "20 Jan 2025 09:27:17"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "20 Jan 2025 09:21:17"
+    "updated": "20 Jan 2025 09:26:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "004070-20012025",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "20 Jan 2025 09:22:40",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "20 Jan 2025 09:30:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "004071-20012025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "20 Jan 2025 09:25:52",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "20 Jan 2025 09:30:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "004072-20012025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "20 Jan 2025 09:29:21",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "20 Jan 2025 09:32:17"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -273,26 +327,6 @@
     "size": "45 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Jan 2025 21:24"
-  },
-  {
-    "title": "ASSIST SES | STORM DAMAGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_584345",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.116920471",
-    "longitude": "147.356277465",
-    "region": "nsw",
-    "time_of_call": "19 Jan 2025 21:22:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "3147 STURT ST, WAGGA WAGGA 2650",
-    "council_area": "Wagga Wagga",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 Jan 2025 21:22"
   },
   {
     "title": "Box Hill Fire",
@@ -545,7 +579,7 @@
     "latitude": "-28.736272812",
     "longitude": "152.621948242",
     "region": "nsw",
-    "time_of_call": "19 Jan 2025 21:00:00",
+    "time_of_call": "20 Jan 2025 09:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -557,7 +591,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Jan 2025 21:00"
+    "updated": "20 Jan 2025 09:21"
   },
   {
     "title": "BURTHONG RD, NYMAGEE",
