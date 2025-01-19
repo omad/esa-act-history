@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "20 Jan 2025 07:04:05"
+    "updated": "20 Jan 2025 07:40:29"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "20 Jan 2025 07:29:27"
+    "updated": "20 Jan 2025 07:46:34"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.135062",
     "region": "act",
     "time_of_call": "20 Jan 2025 06:08:42",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "20 Jan 2025 07:19:59"
+    "updated": "20 Jan 2025 07:47:57"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,13 @@
     "longitude": "149.134893",
     "region": "act",
     "time_of_call": "20 Jan 2025 06:13:26",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "20 Jan 2025 07:04:13"
+    "updated": "20 Jan 2025 07:36:17"
   },
   {
     "agency": "Ambulance",
@@ -160,6 +160,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
     "updated": "20 Jan 2025 07:26:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FORREST",
+    "id": "004051-20012025",
+    "latitude": "-35.318088",
+    "longitude": "149.12506",
+    "region": "act",
+    "time_of_call": "20 Jan 2025 07:37:10",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FORREST",
+    "updated": "20 Jan 2025 07:47:24"
   },
   {
     "title": "HANNELS SPUR, GEEHI",
@@ -664,9 +682,9 @@
     "latitude": "-35.8430671689999",
     "longitude": "146.44102478",
     "region": "nsw",
-    "time_of_call": "20 Jan 2025 07:07:00",
+    "time_of_call": "20 Jan 2025 07:28:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "IZONS RD, LOWESDALE 2646",
     "council_area": "Federation",
@@ -674,6 +692,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Jan 2025 07:07"
+    "updated": "20 Jan 2025 07:28"
+  },
+  {
+    "title": "BARKERS LODGE RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585389",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.159877778",
+    "longitude": "150.551757812",
+    "region": "nsw",
+    "time_of_call": "20 Jan 2025 07:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MOWBRAY PARK 745 BARKERS LODGE RD, MOWBRAY PARK 2571",
+    "council_area": "Wollondilly",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Jan 2025 07:37"
   }
 ]
