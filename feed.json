@@ -9,15 +9,15 @@
     "longitude": "149.2590026855",
     "region": "act",
     "time_of_call": "22 Jan 2025 15:57:45",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "CAR FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
     "location": "TRAIL (KO34), SUTTON ROAD, KOWEN, 0000",
-    "updated": "22 Jan 2025 16:17:12"
+    "updated": "22 Jan 2025 16:39:10"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "22 Jan 2025 16:26:22"
+    "updated": "22 Jan 2025 16:37:05"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "22 Jan 2025 15:39:46",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "22 Jan 2025 16:22:50"
+    "updated": "22 Jan 2025 16:44:02"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "22 Jan 2025 16:22:18"
+    "updated": "22 Jan 2025 16:39:54"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "22 Jan 2025 16:14:47"
+    "updated": "22 Jan 2025 16:42:23"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "22 Jan 2025 16:34:31"
+    "updated": "22 Jan 2025 16:41:33"
   },
   {
     "agency": "Ambulance",
@@ -216,24 +216,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
     "updated": "22 Jan 2025 16:31:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WATSON",
-    "id": "004560-22012025",
-    "latitude": "-35.234652",
-    "longitude": "149.15807",
-    "region": "act",
-    "time_of_call": "22 Jan 2025 16:12:15",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WATSON",
-    "updated": "22 Jan 2025 16:33:22"
   },
   {
     "agency": "Ambulance",
@@ -269,7 +251,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "22 Jan 2025 16:34:03"
+    "updated": "22 Jan 2025 16:37:29"
   },
   {
     "agency": "Ambulance",
@@ -281,13 +263,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "22 Jan 2025 16:26:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "22 Jan 2025 16:33:44"
+    "updated": "22 Jan 2025 16:43:39"
   },
   {
     "agency": "Ambulance",
@@ -306,6 +288,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
     "updated": "22 Jan 2025 16:34:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "004565-22012025",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "22 Jan 2025 16:47:06",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "22 Jan 2025 16:48:51"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -543,7 +543,7 @@
     "latitude": "-34.1878967289999",
     "longitude": "149.536727905",
     "region": "nsw",
-    "time_of_call": "22 Jan 2025 12:52:00",
+    "time_of_call": "22 Jan 2025 16:37:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
@@ -555,7 +555,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Jan 2025 12:52"
+    "updated": "22 Jan 2025 16:37"
   },
   {
     "title": "BOYLE RD, KOONORIGAN",
@@ -719,26 +719,6 @@
     "updated": "22 Jan 2025 16:25"
   },
   {
-    "title": "WOY WOY RD, KARIONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585633",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.453018189",
-    "longitude": "151.292129516",
-    "region": "nsw",
-    "time_of_call": "22 Jan 2025 16:28:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "140 WOY WOY RD, KARIONG 2250",
-    "council_area": "Central Coast",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Jan 2025 16:28"
-  },
-  {
     "title": "KENTHURST RD, KENTHURST",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585635",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -757,5 +737,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Jan 2025 16:29"
+  },
+  {
+    "title": "SANDY CREEK RD, QUORROBOLONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585636",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.925411224",
+    "longitude": "151.41355896",
+    "region": "nsw",
+    "time_of_call": "22 Jan 2025 16:40:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "746 SANDY CREEK RD, QUORROBOLONG 2325",
+    "council_area": "Cessnock",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Jan 2025 16:40"
   }
 ]
