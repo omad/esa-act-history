@@ -33,25 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "23 Jan 2025 03:06:27"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "004671-23012025",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "23 Jan 2025 03:10:16",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "23 Jan 2025 03:12:41"
+    "updated": "23 Jan 2025 03:35:44"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +45,13 @@
     "longitude": "149.036274",
     "region": "act",
     "time_of_call": "23 Jan 2025 03:18:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "23 Jan 2025 03:27:31"
+    "updated": "23 Jan 2025 03:48:52"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +63,13 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "23 Jan 2025 03:24:11",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "23 Jan 2025 03:27:53"
+    "updated": "23 Jan 2025 03:43:32"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "23 Jan 2025 03:27:52"
+    "updated": "23 Jan 2025 03:48:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "004675-23012025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "23 Jan 2025 03:41:47",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "23 Jan 2025 03:45:21"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -492,5 +492,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Jan 2025 03:06"
+  },
+  {
+    "title": "Anne St, Moree",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586667",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.4740189999999",
+    "longitude": "149.833594",
+    "region": "nsw",
+    "time_of_call": "23 Jan 2025 03:46:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "100 Anne St, Moree, NSW 2400",
+    "council_area": "Moree Plains",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "23 Jan 2025 03:46"
   }
 ]
