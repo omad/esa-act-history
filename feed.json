@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "PINE ISLAND, PINE ISLAND ROAD, TUGGERANONG",
-    "updated": "23 Jan 2025 10:20:20"
+    "updated": "23 Jan 2025 10:24:49"
   },
   {
     "agency": "Fire",
@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "23 Jan 2025 10:18:23"
+    "updated": "23 Jan 2025 10:26:01"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "23 Jan 2025 10:20:31"
+    "updated": "23 Jan 2025 10:22:41"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +211,13 @@
     "longitude": "149.161141",
     "region": "act",
     "time_of_call": "23 Jan 2025 10:20:32",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "23 Jan 2025 10:20:51"
+    "updated": "23 Jan 2025 10:24:27"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -567,31 +567,6 @@
     "updated": "23 Jan 2025 08:03"
   },
   {
-    "title": "ASHFORD RD, BUKKULLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586680",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.4872875209999",
-    "longitude": "151.118881225",
-    "region": "nsw",
-    "time_of_call": "23 Jan 2025 09:23:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "3476 ASHFORD RD, BUKKULLA 2360",
-    "council_area": "Inverell",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jan 2025 09:23"
-  },
-  {
     "title": "GRAGIN RD, WARIALDA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586683",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -679,26 +654,6 @@
     "updated": "23 Jan 2025 10:14"
   },
   {
-    "title": "QUEEN ST, CLARENCE TOWN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586696",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.589141845",
-    "longitude": "151.775039673",
-    "region": "nsw",
-    "time_of_call": "23 Jan 2025 09:36:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "74 QUEEN ST, CLARENCE TOWN 2321",
-    "council_area": "Dungog",
-    "type": "Medical",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jan 2025 09:36"
-  },
-  {
     "title": "BIG RIVER WAY, TYNDALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586697",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -748,10 +703,13 @@
     "latitude": "-31.506893158",
     "longitude": "147.213973999",
     "region": "nsw",
-    "time_of_call": "23 Jan 2025 09:50:00",
+    "time_of_call": "23 Jan 2025 10:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "449 CANONBA RD, NYNGAN 2825",
     "council_area": "Bogan",
     "type": "Bush Fire",
@@ -760,7 +718,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jan 2025 09:50"
+    "updated": "23 Jan 2025 10:21"
   },
   {
     "title": "WOOYUNG RD, CRABBES CREEK",
@@ -845,26 +803,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "23 Jan 2025 09:54"
-  },
-  {
-    "title": "KENNEDY DR, TWEED HEADS WEST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586704",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.188909531",
-    "longitude": "153.513427735",
-    "region": "nsw",
-    "time_of_call": "23 Jan 2025 10:00:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "204 KENNEDY DR, TWEED HEADS WEST 2485",
-    "council_area": "Tweed",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 Jan 2025 10:00"
   },
   {
     "title": "VALLEY WAY, STOKERS SIDING",
