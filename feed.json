@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "23 Jan 2025 03:35:44"
+    "updated": "23 Jan 2025 03:53:51"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "23 Jan 2025 03:48:52"
+    "updated": "23 Jan 2025 04:01:08"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "23 Jan 2025 03:48:09"
+    "updated": "23 Jan 2025 04:13:04"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,31 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "23 Jan 2025 03:41:47",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "23 Jan 2025 03:45:21"
+    "updated": "23 Jan 2025 04:18:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "004679-23012025",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "23 Jan 2025 04:18:51",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "23 Jan 2025 04:20:32"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -494,28 +512,47 @@
     "updated": "23 Jan 2025 03:06"
   },
   {
-    "title": "Anne St, Moree",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586667",
+    "title": "BARMAH RD, MOAMA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586666",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.4740189999999",
-    "longitude": "149.833594",
+    "latitude": "-36.0103836059999",
+    "longitude": "144.848236084",
     "region": "nsw",
-    "time_of_call": "23 Jan 2025 03:46:00",
+    "time_of_call": "23 Jan 2025 03:42:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "100 Anne St, Moree, NSW 2400",
-    "council_area": "Moree Plains",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "261 BARMAH RD, MOAMA 2731",
+    "council_area": "Murray River",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Jan 2025 03:42"
+  },
+  {
+    "title": "JENNERS LANE, BECTIVE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586668",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.031923295",
+    "longitude": "150.785430908",
+    "region": "nsw",
+    "time_of_call": "23 Jan 2025 03:56:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "161 JENNERS LANE, BECTIVE 2340",
+    "council_area": "Tamworth",
     "type": "Grass Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 Jan 2025 03:46"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Jan 2025 03:56"
   }
 ]
