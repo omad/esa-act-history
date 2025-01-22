@@ -21,37 +21,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUNLOP",
-    "id": "004637-22012025",
-    "latitude": "-35.193951",
-    "longitude": "149.019471",
-    "region": "act",
-    "time_of_call": "22 Jan 2025 22:34:04",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DUNLOP",
-    "updated": "23 Jan 2025 00:14:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - NGUNNAWAL",
     "id": "004639-22012025",
     "latitude": "-35.17365",
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "22 Jan 2025 22:38:57",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "23 Jan 2025 00:00:51"
+    "updated": "23 Jan 2025 00:46:46"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "23 Jan 2025 00:20:16"
+    "updated": "23 Jan 2025 00:34:03"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +69,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "23 Jan 2025 00:01:35"
+    "updated": "23 Jan 2025 00:29:42"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +81,13 @@
     "longitude": "149.053511",
     "region": "act",
     "time_of_call": "23 Jan 2025 00:10:59",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "23 Jan 2025 00:15:10"
+    "updated": "23 Jan 2025 00:41:14"
   },
   {
     "agency": "Ambulance",
@@ -124,6 +106,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
     "updated": "23 Jan 2025 00:23:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FADDEN",
+    "id": "004656-23012025",
+    "latitude": "-35.402396",
+    "longitude": "149.118589",
+    "region": "act",
+    "time_of_call": "23 Jan 2025 00:44:01",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FADDEN",
+    "updated": "23 Jan 2025 00:47:26"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -314,7 +314,7 @@
     "latitude": "-31.484784073",
     "longitude": "149.53156885",
     "region": "nsw",
-    "time_of_call": "22 Jan 2025 20:02:00",
+    "time_of_call": "23 Jan 2025 00:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -327,9 +327,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "19 ha",
+    "size": "26 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Jan 2025 20:02"
+    "updated": "23 Jan 2025 00:20"
   },
   {
     "title": "MELBERGEN RD, MERRIWAGGA",
@@ -597,5 +597,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Jan 2025 23:48"
+  },
+  {
+    "title": "SANDY CREEK RD, ELLALONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586661",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.9298286439999",
+    "longitude": "151.317810059",
+    "region": "nsw",
+    "time_of_call": "23 Jan 2025 00:26:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1720 SANDY CREEK RD, ELLALONG 2325",
+    "council_area": "Cessnock",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Jan 2025 00:26"
   }
 ]
