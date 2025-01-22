@@ -1,57 +1,23 @@
 [
   {
-    "agency": "Ambulance",
-    "alert_level": "",
+    "agency": "Fire",
+    "alert_level": "Advice",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "004636-22012025",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
+    "title": "GRASS AND BUSH FIRE - MONCRIEFF",
+    "id": "001714-23012025",
+    "latitude": "-35.1666069031",
+    "longitude": "149.1198120117",
     "region": "act",
-    "time_of_call": "22 Jan 2025 22:32:56",
+    "time_of_call": "23 Jan 2025 00:55:43",
     "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "22 Jan 2025 23:28:41"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "004639-22012025",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "22 Jan 2025 22:38:57",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "23 Jan 2025 00:46:46"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "004649-22012025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "22 Jan 2025 23:28:44",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "23 Jan 2025 00:34:03"
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "type": "GRASS AND BUSH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
+    "location": "MALTON VIEW, AMICUS STREET, MONCRIEFF, 2914",
+    "updated": "23 Jan 2025 01:10:40"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "23 Jan 2025 00:41:14"
+    "updated": "23 Jan 2025 01:11:03"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +65,13 @@
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "23 Jan 2025 00:18:20",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "23 Jan 2025 00:23:59"
+    "updated": "23 Jan 2025 01:10:06"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +83,31 @@
     "longitude": "149.118589",
     "region": "act",
     "time_of_call": "23 Jan 2025 00:44:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "23 Jan 2025 00:47:26"
+    "updated": "23 Jan 2025 01:14:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "004658-23012025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "23 Jan 2025 01:10:58",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "23 Jan 2025 01:21:22"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -175,7 +159,7 @@
     "latitude": "-31.3707065579999",
     "longitude": "149.181869507",
     "region": "nsw",
-    "time_of_call": "22 Jan 2025 05:38:00",
+    "time_of_call": "23 Jan 2025 00:48:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -187,7 +171,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Jan 2025 05:38"
+    "updated": "23 Jan 2025 00:48"
   },
   {
     "title": "REES JAMES RD",
@@ -586,9 +570,9 @@
     "latitude": "-32.983081818",
     "longitude": "150.098373413",
     "region": "nsw",
-    "time_of_call": "22 Jan 2025 23:48:00",
+    "time_of_call": "23 Jan 2025 00:57:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "86 PORT MACQUARIE RD, BOGEE 2849",
     "council_area": "Lithgow",
@@ -596,7 +580,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Jan 2025 23:48"
+    "updated": "23 Jan 2025 00:57"
   },
   {
     "title": "SANDY CREEK RD, ELLALONG",
@@ -606,9 +590,9 @@
     "latitude": "-32.9298286439999",
     "longitude": "151.317810059",
     "region": "nsw",
-    "time_of_call": "23 Jan 2025 00:26:00",
+    "time_of_call": "23 Jan 2025 00:55:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1720 SANDY CREEK RD, ELLALONG 2325",
     "council_area": "Cessnock",
@@ -618,6 +602,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jan 2025 00:26"
+    "updated": "23 Jan 2025 00:55"
   }
 ]
