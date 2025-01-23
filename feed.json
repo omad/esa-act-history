@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "PINE ISLAND, PINE ISLAND ROAD, TUGGERANONG",
-    "updated": "23 Jan 2025 13:35:59"
+    "updated": "23 Jan 2025 14:45:24"
   },
   {
     "agency": "Fire",
@@ -79,24 +79,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - COOK",
-    "id": "004747-23012025",
-    "latitude": "-35.261055",
-    "longitude": "149.064271",
-    "region": "act",
-    "time_of_call": "23 Jan 2025 12:23:11",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "COOK",
-    "updated": "23 Jan 2025 13:48:59"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PAGE",
     "id": "004750-23012025",
     "latitude": "-35.238051",
@@ -110,24 +92,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
     "updated": "23 Jan 2025 14:34:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "004759-23012025",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "23 Jan 2025 13:17:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "23 Jan 2025 13:59:45"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "23 Jan 2025 14:14:08"
+    "updated": "23 Jan 2025 14:45:01"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +211,31 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "23 Jan 2025 14:34:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "23 Jan 2025 14:36:49"
+    "updated": "23 Jan 2025 14:45:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SPENCE",
+    "id": "004776-23012025",
+    "latitude": "-35.196073",
+    "longitude": "149.064742",
+    "region": "act",
+    "time_of_call": "23 Jan 2025 14:48:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SPENCE",
+    "updated": "23 Jan 2025 14:48:37"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -758,31 +740,6 @@
     "updated": "23 Jan 2025 14:16"
   },
   {
-    "title": "WARRAL-BITHRAMERE RD, WARRAL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586743",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.1564655299999",
-    "longitude": "150.821105957",
-    "region": "nsw",
-    "time_of_call": "23 Jan 2025 14:25:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "HYLAND 331 WARRAL-BITHRAMERE RD, WARRAL 2340",
-    "council_area": "Tamworth",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "17 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jan 2025 14:25"
-  },
-  {
     "title": "Costa Av, San Remo",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586745",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -890,7 +847,7 @@
     "latitude": "-30.43826294",
     "longitude": "151.651306152",
     "region": "nsw",
-    "time_of_call": "23 Jan 2025 14:29:00",
+    "time_of_call": "23 Jan 2025 14:45:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -902,7 +859,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jan 2025 14:29"
+    "updated": "23 Jan 2025 14:45"
   },
   {
     "title": "SHEPHERDS LANE, GULGONG",
@@ -1034,5 +991,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Jan 2025 14:30"
+  },
+  {
+    "title": "TORRYBURN RD, YARROWYCK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586764",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.4361743929999",
+    "longitude": "151.26097107",
+    "region": "nsw",
+    "time_of_call": "23 Jan 2025 14:43:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MORWENNA 990 TORRYBURN RD, YARROWYCK 2358",
+    "council_area": "Uralla",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Jan 2025 14:43"
   }
 ]
