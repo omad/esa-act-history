@@ -49,15 +49,15 @@
     "longitude": "149.0731874699",
     "region": "act",
     "time_of_call": "23 Jan 2025 20:46:03",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "PLEASANCE PLACE, BELCONNEN, 2617",
-    "updated": "23 Jan 2025 21:56:45"
+    "updated": "23 Jan 2025 22:27:39"
   },
   {
     "agency": "Ambulance",
@@ -105,13 +105,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "23 Jan 2025 20:47:08",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "23 Jan 2025 22:05:20"
+    "updated": "23 Jan 2025 22:24:03"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "23 Jan 2025 22:03:17"
+    "updated": "23 Jan 2025 22:26:02"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "23 Jan 2025 21:55:45"
+    "updated": "23 Jan 2025 22:22:47"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "23 Jan 2025 22:06:50"
+    "updated": "23 Jan 2025 22:19:50"
   },
   {
     "agency": "Ambulance",
@@ -189,19 +189,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "004859-23012025",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
+    "title": "AMBULANCE RESPONSE - THEODORE",
+    "id": "004861-23012025",
+    "latitude": "-35.449632",
+    "longitude": "149.120754",
     "region": "act",
-    "time_of_call": "23 Jan 2025 22:04:35",
+    "time_of_call": "23 Jan 2025 22:22:29",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "23 Jan 2025 22:16:30"
+    "location": "THEODORE",
+    "updated": "23 Jan 2025 22:26:03"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -345,7 +345,7 @@
     "latitude": "-31.4848232269999",
     "longitude": "149.531173706",
     "region": "nsw",
-    "time_of_call": "23 Jan 2025 17:42:00",
+    "time_of_call": "23 Jan 2025 22:15:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -360,7 +360,7 @@
     "fire": "Yes",
     "size": "26 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jan 2025 17:42"
+    "updated": "23 Jan 2025 22:15"
   },
   {
     "title": "MELBERGEN RD, MERRIWAGGA",
@@ -671,31 +671,6 @@
     "updated": "23 Jan 2025 19:49"
   },
   {
-    "title": "Coulson Av, Cessnock",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586759",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.8215519999999",
-    "longitude": "151.370212",
-    "region": "nsw",
-    "time_of_call": "23 Jan 2025 14:50:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "26 Coulson Av, Cessnock, NSW 2325",
-    "council_area": "Cessnock",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 Jan 2025 14:50"
-  },
-  {
     "title": "TORRYBURN RD, YARROWYCK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586764",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -796,26 +771,6 @@
     "updated": "23 Jan 2025 22:09"
   },
   {
-    "title": "WOODVILLE RD, WYEE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586794",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.169139862",
-    "longitude": "151.482803344",
-    "region": "nsw",
-    "time_of_call": "23 Jan 2025 21:19:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "9 WOODVILLE RD, WYEE 2259",
-    "council_area": "Lake Macquarie",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jan 2025 21:19"
-  },
-  {
     "title": "SKINNERS SHOOT RD, SKINNERS SHOOT",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586795",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -834,73 +789,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Jan 2025 21:32"
-  },
-  {
-    "title": "VOGELE PL, RAYMOND TERRACE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586798",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.757751465",
-    "longitude": "151.756530761",
-    "region": "nsw",
-    "time_of_call": "23 Jan 2025 22:14:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "4 VOGELE PL, RAYMOND TERRACE 2324",
-    "council_area": "Port Stephens",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 Jan 2025 22:14"
-  },
-  {
-    "title": "STROUD HILL RD, STROUD HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586799",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.3819122309999",
-    "longitude": "151.783721924",
-    "region": "nsw",
-    "time_of_call": "23 Jan 2025 21:40:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "STROUD HILL RD, STROUD HILL 2420",
-    "council_area": "Dungog",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jan 2025 21:40"
-  },
-  {
-    "title": "LOCKHART THE ROCK RD, THE ROCK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586800",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.2571563719999",
-    "longitude": "147.063293457",
-    "region": "nsw",
-    "time_of_call": "23 Jan 2025 22:03:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "LOCKHART THE ROCK RD, THE ROCK 2655",
-    "council_area": "Lockhart",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jan 2025 22:03"
   },
   {
     "title": "WALLAMORE RD, WESTDALE",
