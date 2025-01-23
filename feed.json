@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "24 Jan 2025 05:44:06"
+    "updated": "24 Jan 2025 06:01:13"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "24 Jan 2025 05:11:58"
+    "updated": "24 Jan 2025 06:10:57"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +101,13 @@
     "longitude": "149.140719",
     "region": "act",
     "time_of_call": "24 Jan 2025 05:08:15",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "24 Jan 2025 05:40:26"
+    "updated": "24 Jan 2025 06:16:17"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -786,23 +786,69 @@
     "updated": "24 Jan 2025 04:53"
   },
   {
-    "title": "PRINCES HWY, MORUYA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586828",
+    "title": "HUME MTWY, WOODLANDS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586830",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.8745880129999",
-    "longitude": "150.107055664",
+    "latitude": "-34.434345245",
+    "longitude": "150.430282592",
     "region": "nsw",
-    "time_of_call": "24 Jan 2025 04:53:00",
+    "time_of_call": "24 Jan 2025 05:51:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "PRINCES HWY, MORUYA 2537",
-    "council_area": "Eurobodalla",
-    "type": "Flood/Storm/Tree Down",
+    "location": "HUME MTWY, WOODLANDS 2575",
+    "council_area": "Wingecarribee",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Jan 2025 04:53"
+    "updated": "24 Jan 2025 05:51"
+  },
+  {
+    "title": "FACHIN AV, COOMA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586831",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.2419929509999",
+    "longitude": "149.118759155",
+    "region": "nsw",
+    "time_of_call": "24 Jan 2025 06:03:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "HUDSON HOUSE 8 FACHIN AV, COOMA 2630",
+    "council_area": "Snowy Monaro",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "24 Jan 2025 06:03"
+  },
+  {
+    "title": "THOMAS MITCHELL DR, MUSWELLBROOK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586832",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.2919769289999",
+    "longitude": "150.869216919",
+    "region": "nsw",
+    "time_of_call": "24 Jan 2025 06:12:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "THOMAS MITCHELL DR, MUSWELLBROOK 2333",
+    "council_area": "Muswellbrook",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "24 Jan 2025 06:12"
   }
 ]
