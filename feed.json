@@ -123,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "25 Jan 2025 05:45:04"
+    "updated": "25 Jan 2025 05:57:41"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +171,31 @@
     "longitude": "149.03611",
     "region": "act",
     "time_of_call": "25 Jan 2025 05:47:10",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HAWKER",
+    "updated": "25 Jan 2025 06:14:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUFFY",
+    "id": "005136-25012025",
+    "latitude": "-35.336273",
+    "longitude": "149.031217",
+    "region": "act",
+    "time_of_call": "25 Jan 2025 06:15:57",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "HAWKER",
-    "updated": "25 Jan 2025 05:47:38"
+    "location": "DUFFY",
+    "updated": "25 Jan 2025 06:16:08"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -284,7 +302,7 @@
     "latitude": "-36.0103836059999",
     "longitude": "144.848236084",
     "region": "nsw",
-    "time_of_call": "24 Jan 2025 13:04:00",
+    "time_of_call": "25 Jan 2025 06:07:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -296,7 +314,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Jan 2025 13:04"
+    "updated": "25 Jan 2025 06:07"
   },
   {
     "title": "GRAGIN RD, WARIALDA",
@@ -401,7 +419,7 @@
     "latitude": "-30.554487228",
     "longitude": "151.167266845",
     "region": "nsw",
-    "time_of_call": "24 Jan 2025 15:41:00",
+    "time_of_call": "25 Jan 2025 06:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -416,7 +434,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Jan 2025 15:41"
+    "updated": "25 Jan 2025 06:13"
   },
   {
     "title": "WEST LYNNE RD, BALDERSLEIGH",
@@ -476,7 +494,7 @@
     "latitude": "-33.613121033",
     "longitude": "151.1350708",
     "region": "nsw",
-    "time_of_call": "24 Jan 2025 15:35:00",
+    "time_of_call": "25 Jan 2025 06:11:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -488,7 +506,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "24 Jan 2025 15:35"
+    "updated": "25 Jan 2025 06:11"
   },
   {
     "title": "AVONDALE LANE, CURLEWIS",
@@ -707,12 +725,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586935",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.63715744",
-    "longitude": "152.038421631",
+    "latitude": "-32.637947083",
+    "longitude": "152.020858764",
     "region": "nsw",
-    "time_of_call": "25 Jan 2025 05:27:00",
+    "time_of_call": "25 Jan 2025 06:13:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GOOREENGI RD, NORTH ARM COVE 2324",
     "council_area": "Mid-Coast",
@@ -722,7 +740,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Jan 2025 05:27"
+    "updated": "25 Jan 2025 06:13"
   },
   {
     "title": "BUKKULLA RD, BUKKULLA",
@@ -745,5 +763,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Jan 2025 05:29"
+  },
+  {
+    "title": "TALL TIMBERS RD, LAKE MUNMORAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586937",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.188240052",
+    "longitude": "151.558242798",
+    "region": "nsw",
+    "time_of_call": "25 Jan 2025 06:09:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "TALL TIMBERS RD, LAKE MUNMORAH 2259",
+    "council_area": "Central Coast",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Jan 2025 06:09"
   }
 ]
