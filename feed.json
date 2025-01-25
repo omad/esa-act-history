@@ -29,13 +29,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "26 Jan 2025 01:01:57",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "26 Jan 2025 06:41:38"
+    "updated": "26 Jan 2025 07:02:56"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "26 Jan 2025 06:47:26"
+    "updated": "26 Jan 2025 06:53:45"
   },
   {
     "agency": "Ambulance",
@@ -65,31 +65,13 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "26 Jan 2025 05:05:51",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WATSON",
-    "updated": "26 Jan 2025 06:39:32"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AINSLIE",
-    "id": "005346-26012025",
-    "latitude": "-35.262117",
-    "longitude": "149.144037",
-    "region": "act",
-    "time_of_call": "26 Jan 2025 05:07:47",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "AINSLIE",
-    "updated": "26 Jan 2025 05:56:02"
+    "location": "WATSON",
+    "updated": "26 Jan 2025 07:15:50"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +89,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "26 Jan 2025 06:45:21"
+    "updated": "26 Jan 2025 07:07:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CRACE",
+    "id": "005355-26012025",
+    "latitude": "-35.202196",
+    "longitude": "149.110562",
+    "region": "act",
+    "time_of_call": "26 Jan 2025 06:51:19",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CRACE",
+    "updated": "26 Jan 2025 07:08:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHIFLEY",
+    "id": "005356-26012025",
+    "latitude": "-35.351526",
+    "longitude": "149.076955",
+    "region": "act",
+    "time_of_call": "26 Jan 2025 07:07:48",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHIFLEY",
+    "updated": "26 Jan 2025 07:17:40"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -322,31 +340,6 @@
     "size": "59 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Jan 2025 22:52"
-  },
-  {
-    "title": "KINGSTOWN RD, KINGSTOWN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_586749",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.55206127",
-    "longitude": "151.177541331",
-    "region": "nsw",
-    "time_of_call": "25 Jan 2025 14:53:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "MERILBA 3589 KINGSTOWN RD, KINGSTOWN 2358",
-    "council_area": "Uralla",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "1 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Jan 2025 14:53"
   },
   {
     "title": "WEST LYNNE RD, BALDERSLEIGH",
@@ -656,38 +649,16 @@
     "updated": "26 Jan 2025 06:04"
   },
   {
-    "title": "HIGHLAND WAY, TALLONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587053",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.723381043",
-    "longitude": "150.093978882",
-    "region": "nsw",
-    "time_of_call": "26 Jan 2025 05:35:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "HIGHLAND WAY, TALLONG 2579",
-    "council_area": "Goulburn Mulwaree",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Jan 2025 05:35"
-  },
-  {
     "title": "FARMBOROUGH RD, FARMBOROUGH HEIGHTS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587058",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.450588226",
-    "longitude": "150.809661865",
+    "latitude": "-34.4527244569999",
+    "longitude": "150.807128907",
     "region": "nsw",
-    "time_of_call": "26 Jan 2025 06:45:00",
+    "time_of_call": "26 Jan 2025 07:13:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "360 FARMBOROUGH RD, FARMBOROUGH HEIGHTS 2526",
     "council_area": "Wollongong",
@@ -697,6 +668,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Jan 2025 06:45"
+    "updated": "26 Jan 2025 07:13"
   }
 ]
