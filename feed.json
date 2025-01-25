@@ -1,21 +1,23 @@
 [
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WATSON",
-    "id": "005318-26012025",
-    "latitude": "-35.234652",
-    "longitude": "149.15807",
+    "title": "HOUSE FIRE - SCULLIN",
+    "id": "001885-26012025",
+    "latitude": "-35.2391881699",
+    "longitude": "149.0395753299",
     "region": "act",
-    "time_of_call": "26 Jan 2025 00:37:32",
-    "status": "Resource Allocation Pending",
+    "time_of_call": "26 Jan 2025 06:14:10",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WATSON",
-    "updated": "26 Jan 2025 04:39:36"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
+    "location": "ROSS SMITH CRESCENT, SCULLIN, 2614",
+    "updated": "26 Jan 2025 06:14:20"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "26 Jan 2025 05:39:06"
+    "updated": "26 Jan 2025 05:54:26"
   },
   {
     "agency": "Ambulance",
@@ -63,31 +65,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "26 Jan 2025 03:48:15",
-    "status": "On Scene",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "26 Jan 2025 05:44:06"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLT",
-    "id": "005342-26012025",
-    "latitude": "-35.224201",
-    "longitude": "149.013141",
-    "region": "act",
-    "time_of_call": "26 Jan 2025 04:27:21",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HOLT",
-    "updated": "26 Jan 2025 05:42:26"
+    "updated": "26 Jan 2025 05:49:40"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +101,13 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "26 Jan 2025 05:07:47",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "26 Jan 2025 05:12:12"
+    "updated": "26 Jan 2025 05:56:02"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +119,33 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "26 Jan 2025 05:43:40",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "26 Jan 2025 05:47:30"
+    "updated": "26 Jan 2025 06:12:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - SCULLIN",
+    "id": "005351-26012025",
+    "latitude": "-35.2391881699",
+    "longitude": "149.0395753299",
+    "region": "act",
+    "time_of_call": "26 Jan 2025 06:14:12",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "",
+    "location": "ROSS SMITH CRESCENT, SCULLIN, 2614",
+    "updated": "26 Jan 2025 06:14:42"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -320,7 +324,7 @@
     "latitude": "-28.33643341",
     "longitude": "153.41947937",
     "region": "nsw",
-    "time_of_call": "25 Jan 2025 04:24:00",
+    "time_of_call": "26 Jan 2025 06:06:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -330,7 +334,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Jan 2025 04:24"
+    "updated": "26 Jan 2025 06:06"
   },
   {
     "title": "ASHFORD RD, BUKKULLA",
@@ -487,7 +491,7 @@
     "latitude": "-29.29655838",
     "longitude": "151.83380127",
     "region": "nsw",
-    "time_of_call": "25 Jan 2025 10:01:00",
+    "time_of_call": "26 Jan 2025 06:02:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -502,7 +506,7 @@
     "fire": "Yes",
     "size": "3 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Jan 2025 10:01"
+    "updated": "26 Jan 2025 06:02"
   },
   {
     "title": "LAKERS RD, BLIGHTY",
@@ -599,28 +603,6 @@
     "updated": "25 Jan 2025 20:56"
   },
   {
-    "title": "JEMISONS POINT TRL, POTATO POINT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587012",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.099681854",
-    "longitude": "150.117797851",
-    "region": "nsw",
-    "time_of_call": "25 Jan 2025 20:34:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "JEMISONS POINT TRL, POTATO POINT 2545",
-    "council_area": "Eurobodalla",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Jan 2025 20:34"
-  },
-  {
     "title": "Lachlan valley Way",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587021",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -653,7 +635,7 @@
     "latitude": "-29.0072593689999",
     "longitude": "151.901382446",
     "region": "nsw",
-    "time_of_call": "25 Jan 2025 23:06:00",
+    "time_of_call": "26 Jan 2025 06:04:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -665,7 +647,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Jan 2025 23:06"
+    "updated": "26 Jan 2025 06:04"
   },
   {
     "title": "RENSHAW MCGIRR WAY",
@@ -690,26 +672,6 @@
     "updated": "26 Jan 2025 05:18"
   },
   {
-    "title": "CRESTWOOD RD, THORNTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587047",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.766204834",
-    "longitude": "151.64338684",
-    "region": "nsw",
-    "time_of_call": "26 Jan 2025 04:39:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "50 CRESTWOOD RD, THORNTON 2322",
-    "council_area": "Maitland",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Jan 2025 04:39"
-  },
-  {
     "title": "WILMOTTS RD, SPRING RIDGE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587049",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -717,7 +679,7 @@
     "latitude": "-31.4418029779999",
     "longitude": "150.221313476",
     "region": "nsw",
-    "time_of_call": "26 Jan 2025 05:31:00",
+    "time_of_call": "26 Jan 2025 06:04:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -729,7 +691,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Jan 2025 05:31"
+    "updated": "26 Jan 2025 06:04"
   },
   {
     "title": "HIGHLAND WAY, TALLONG",
@@ -752,49 +714,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Jan 2025 05:35"
-  },
-  {
-    "title": "THE NORTHERN RD, BRINGELLY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587056",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.926185608",
-    "longitude": "150.720870972",
-    "region": "nsw",
-    "time_of_call": "26 Jan 2025 05:40:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "1431 THE NORTHERN RD, BRINGELLY 2556",
-    "council_area": "Liverpool",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Jan 2025 05:40"
-  },
-  {
-    "title": "HUME HWY, BOXERS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587057",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.7424430849999",
-    "longitude": "149.771682739",
-    "region": "nsw",
-    "time_of_call": "26 Jan 2025 05:39:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "HUME HWY, BOXERS CREEK 2580",
-    "council_area": "Goulburn Mulwaree",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Jan 2025 05:39"
   }
 ]
