@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "27 Jan 2025 02:11:25"
+    "updated": "27 Jan 2025 02:26:31"
   },
   {
     "agency": "Ambulance",
@@ -52,24 +52,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
     "updated": "27 Jan 2025 00:46:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - YARRALUMLA",
-    "id": "005558-27012025",
-    "latitude": "-35.302333",
-    "longitude": "149.099934",
-    "region": "act",
-    "time_of_call": "27 Jan 2025 00:49:18",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "YARRALUMLA",
-    "updated": "27 Jan 2025 01:37:59"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "27 Jan 2025 02:15:45"
+    "updated": "27 Jan 2025 02:28:14"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +153,31 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "27 Jan 2025 02:19:49",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "27 Jan 2025 02:19:50"
+    "updated": "27 Jan 2025 02:28:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "005571-27012025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "27 Jan 2025 02:22:57",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "27 Jan 2025 02:28:40"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -1123,25 +1123,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Jan 2025 02:09"
-  },
-  {
-    "title": "SUTTON RD, SUTTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587187",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.200241089",
-    "longitude": "149.267761231",
-    "region": "nsw",
-    "time_of_call": "27 Jan 2025 01:38:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "1890 SUTTON RD, SUTTON 2620",
-    "council_area": "Queanbeyan-Palerang",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Jan 2025 01:38"
   }
 ]
