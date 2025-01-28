@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "CAR FIRE - EVATT",
-    "id": "002009-29012025",
-    "latitude": "-35.21880999",
-    "longitude": "149.06931299",
-    "region": "act",
-    "time_of_call": "29 Jan 2025 02:27:27",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "CAR FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
-    "location": "CROKE PLACE, WILLIAM WEBB DRIVE, EVATT, 2617",
-    "updated": "29 Jan 2025 03:45:39"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -41,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "006008-29012025",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "29 Jan 2025 01:15:26",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "29 Jan 2025 03:29:56"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - FLOREY",
     "id": "006017-29012025",
     "latitude": "-35.224909",
@@ -72,24 +34,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
     "updated": "29 Jan 2025 04:17:50"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - YARRALUMLA",
-    "id": "006020-29012025",
-    "latitude": "-35.302333",
-    "longitude": "149.099934",
-    "region": "act",
-    "time_of_call": "29 Jan 2025 03:14:36",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "YARRALUMLA",
-    "updated": "29 Jan 2025 04:23:31"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +99,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "29 Jan 2025 03:57:56",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "29 Jan 2025 04:02:31"
+    "updated": "29 Jan 2025 04:37:42"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +117,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "29 Jan 2025 04:22:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "29 Jan 2025 04:26:18"
+    "updated": "29 Jan 2025 04:34:27"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -942,7 +886,7 @@
     "latitude": "-31.88202095",
     "longitude": "149.417861938",
     "region": "nsw",
-    "time_of_call": "29 Jan 2025 02:19:00",
+    "time_of_call": "29 Jan 2025 04:30:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -957,7 +901,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Jan 2025 02:19"
+    "updated": "29 Jan 2025 04:30"
   },
   {
     "title": "BROOKFIELD RD, WUULUMAN",
@@ -989,7 +933,7 @@
     "latitude": "-31.88202095",
     "longitude": "149.417861938",
     "region": "nsw",
-    "time_of_call": "29 Jan 2025 02:32:00",
+    "time_of_call": "29 Jan 2025 04:28:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -1004,31 +948,6 @@
     "fire": "Yes",
     "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Jan 2025 02:32"
-  },
-  {
-    "title": "Atka St, Tregear",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587477",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.7454759999999",
-    "longitude": "150.790329",
-    "region": "nsw",
-    "time_of_call": "29 Jan 2025 04:26:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Atka St, Tregear, NSW 2770",
-    "council_area": "Blacktown",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "29 Jan 2025 04:26"
+    "updated": "29 Jan 2025 04:28"
   }
 ]
