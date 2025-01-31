@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "RUBBISH FIRE - PHILLIP",
-    "id": "002132-01022025",
-    "latitude": "-35.343914032",
-    "longitude": "149.0859680176",
-    "region": "act",
-    "time_of_call": "01 Feb 2025 01:30:00",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "RUBBISH FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
-    "location": "BOWES STREET, PHILLIP, 2606",
-    "updated": "01 Feb 2025 01:48:33"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -53,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "01 Feb 2025 02:10:56"
+    "updated": "01 Feb 2025 02:32:37"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "01 Feb 2025 02:28:25"
+    "updated": "01 Feb 2025 02:39:55"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "01 Feb 2025 02:26:37"
+    "updated": "01 Feb 2025 02:37:10"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +105,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
-    "updated": "01 Feb 2025 02:15:11"
+    "updated": "01 Feb 2025 02:43:42"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +141,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "01 Feb 2025 02:29:19"
+    "updated": "01 Feb 2025 02:31:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MELBA",
+    "id": "006704-01022025",
+    "latitude": "-35.209077",
+    "longitude": "149.057326",
+    "region": "act",
+    "time_of_call": "01 Feb 2025 02:30:40",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MELBA",
+    "updated": "01 Feb 2025 02:37:53"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -639,7 +637,7 @@
     "latitude": "-34.302043915",
     "longitude": "146.025131225",
     "region": "nsw",
-    "time_of_call": "31 Jan 2025 14:35:00",
+    "time_of_call": "01 Feb 2025 02:46:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -651,7 +649,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Jan 2025 14:35"
+    "updated": "1 Feb 2025 02:46"
   },
   {
     "title": "Agricultral Burning - Linburn",
@@ -868,7 +866,7 @@
     "latitude": "-30.954326629",
     "longitude": "150.533279419",
     "region": "nsw",
-    "time_of_call": "01 Feb 2025 02:07:00",
+    "time_of_call": "01 Feb 2025 02:33:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
@@ -878,6 +876,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Feb 2025 02:07"
+    "updated": "1 Feb 2025 02:33"
+  },
+  {
+    "title": "Logan Rd, North Albury",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587844",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.0569139999999",
+    "longitude": "146.92408",
+    "region": "nsw",
+    "time_of_call": "01 Feb 2025 02:45:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "489 Logan Rd, North Albury, NSW 2640",
+    "council_area": "Albury",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "1 Feb 2025 02:45"
   }
 ]
