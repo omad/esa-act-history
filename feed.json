@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "FORBES STREET, TURNER, 2612",
-    "updated": "01 Feb 2025 05:29:12"
+    "updated": "01 Feb 2025 05:47:06"
   },
   {
     "agency": "Ambulance",
@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MELBA",
-    "id": "006704-01022025",
-    "latitude": "-35.209077",
-    "longitude": "149.057326",
-    "region": "act",
-    "time_of_call": "01 Feb 2025 02:30:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MELBA",
-    "updated": "01 Feb 2025 05:11:14"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CRACE",
     "id": "006711-01022025",
     "latitude": "-35.202196",
@@ -71,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "01 Feb 2025 04:28:01"
+    "updated": "01 Feb 2025 05:47:48"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +71,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "01 Feb 2025 05:26:07"
+    "updated": "01 Feb 2025 05:37:29"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +83,13 @@
     "longitude": "149.135062",
     "region": "act",
     "time_of_call": "01 Feb 2025 05:26:34",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "01 Feb 2025 05:29:50"
+    "updated": "01 Feb 2025 05:43:48"
   },
   {
     "title": "SHANDS RD, BERRIGAN",
@@ -208,7 +190,7 @@
     "latitude": "-29.821448083",
     "longitude": "147.53993905",
     "region": "nsw",
-    "time_of_call": "31 Jan 2025 18:47:00",
+    "time_of_call": "01 Feb 2025 02:41:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -221,9 +203,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "3194 ha",
+    "size": "3376 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Jan 2025 18:47"
+    "updated": "1 Feb 2025 02:41"
   },
   {
     "title": "UPPER BINGARA RD, UPPER BINGARA",
@@ -807,26 +789,6 @@
     "updated": "1 Feb 2025 02:18"
   },
   {
-    "title": "MID WESTERN HWY, COWRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587843",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.779533387",
-    "longitude": "148.775527954",
-    "region": "nsw",
-    "time_of_call": "01 Feb 2025 04:36:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "CADARA 9650 MID WESTERN HWY, COWRA 2794",
-    "council_area": "Cowra",
-    "type": "Truck Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Feb 2025 04:36"
-  },
-  {
     "title": "MURRAY ROSE AV, SYDNEY OLYMPIC PARK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587847",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -867,5 +829,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Feb 2025 05:13"
+  },
+  {
+    "title": "Hooka Creek Rd, Berkeley",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587849",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.4839969999999",
+    "longitude": "150.837363",
+    "region": "nsw",
+    "time_of_call": "01 Feb 2025 05:41:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Hooka Creek Rd, Berkeley, NSW 2506",
+    "council_area": "Wollongong",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "1 Feb 2025 05:41"
   }
 ]
