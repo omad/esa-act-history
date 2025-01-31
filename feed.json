@@ -9,15 +9,15 @@
     "longitude": "149.1296691895",
     "region": "act",
     "time_of_call": "01 Feb 2025 05:15:33",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
     "type": "STRUCTURE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "FORBES STREET, TURNER, 2612",
-    "updated": "01 Feb 2025 08:25:39"
+    "updated": "01 Feb 2025 08:36:09"
   },
   {
     "agency": "Ambulance",
@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FRASER",
-    "id": "006729-01022025",
-    "latitude": "-35.189989",
-    "longitude": "149.043755",
-    "region": "act",
-    "time_of_call": "01 Feb 2025 07:11:17",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FRASER",
-    "updated": "01 Feb 2025 08:05:55"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KAMBAH",
     "id": "006730-01022025",
     "latitude": "-35.384074",
@@ -71,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "01 Feb 2025 08:21:52"
+    "updated": "01 Feb 2025 08:37:39"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +71,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "01 Feb 2025 08:26:55"
+    "updated": "01 Feb 2025 08:30:14"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "01 Feb 2025 08:28:41"
+    "updated": "01 Feb 2025 08:41:23"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +137,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "01 Feb 2025 07:57:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "01 Feb 2025 08:22:50"
+    "updated": "01 Feb 2025 08:44:57"
   },
   {
     "agency": "Ambulance",
@@ -200,6 +182,24 @@
     "updated": "01 Feb 2025 08:11:32"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "006742-01022025",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "01 Feb 2025 08:47:41",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "01 Feb 2025 08:48:48"
+  },
+  {
     "title": "SHANDS RD, BERRIGAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_576752",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -220,6 +220,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Jan 2025 02:10"
+  },
+  {
+    "title": "Back Channel Road",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_585408",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.991422653",
+    "longitude": "153.442687988",
+    "region": "nsw",
+    "time_of_call": "01 Feb 2025 08:33:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "556 BACK CHANNEL RD, WARDELL 2477",
+    "council_area": "Ballina",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "23 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Feb 2025 08:33"
   },
   {
     "title": "BARMAH RD, MOAMA",
@@ -813,7 +835,7 @@
     "latitude": "-30.190984726",
     "longitude": "150.548065186",
     "region": "nsw",
-    "time_of_call": "31 Jan 2025 20:18:00",
+    "time_of_call": "01 Feb 2025 08:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -826,9 +848,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Jan 2025 20:18"
+    "updated": "1 Feb 2025 08:19"
   },
   {
     "title": "SPRINGWOOD RD, AGNES BANKS",
