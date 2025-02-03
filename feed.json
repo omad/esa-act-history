@@ -29,15 +29,15 @@
     "longitude": "149.0641763799",
     "region": "act",
     "time_of_call": "04 Feb 2025 05:09:23",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "BADIMARA STREET, FISHER, 2611",
-    "updated": "04 Feb 2025 05:17:10"
+    "updated": "04 Feb 2025 06:02:06"
   },
   {
     "agency": "Ambulance",
@@ -55,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "04 Feb 2025 05:41:39"
+    "updated": "04 Feb 2025 06:13:00"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "04 Feb 2025 05:17:43"
+    "updated": "04 Feb 2025 06:06:46"
   },
   {
     "agency": "Ambulance",
@@ -92,6 +92,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "04 Feb 2025 05:07:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "007386-04022025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "04 Feb 2025 06:06:05",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "04 Feb 2025 06:17:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONYTHON",
+    "id": "007387-04022025",
+    "latitude": "-35.435736",
+    "longitude": "149.081053",
+    "region": "act",
+    "time_of_call": "04 Feb 2025 06:13:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONYTHON",
+    "updated": "04 Feb 2025 06:17:47"
   },
   {
     "title": "Back Channel Road",
@@ -773,7 +809,7 @@
     "latitude": "-34.907215118",
     "longitude": "150.750183105",
     "region": "nsw",
-    "time_of_call": "04 Feb 2025 04:27:00",
+    "time_of_call": "04 Feb 2025 05:54:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -788,6 +824,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Feb 2025 04:27"
+    "updated": "4 Feb 2025 05:54"
+  },
+  {
+    "title": "TOMS CREEK RD, ELLENBOROUGH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588164",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.4441299439999",
+    "longitude": "152.465240479",
+    "region": "nsw",
+    "time_of_call": "04 Feb 2025 05:53:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "TOMS CREEK RD, ELLENBOROUGH 2446",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Feb 2025 05:53"
   }
 ]
