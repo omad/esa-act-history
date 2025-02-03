@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "04 Feb 2025 07:21:17"
+    "updated": "04 Feb 2025 07:39:13"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "04 Feb 2025 07:33:45"
+    "updated": "04 Feb 2025 07:48:13"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +101,49 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "04 Feb 2025 07:32:10",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "04 Feb 2025 07:33:13"
+    "updated": "04 Feb 2025 07:40:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "007396-04022025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "04 Feb 2025 07:34:02",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": "04 Feb 2025 07:38:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLOREY",
+    "id": "007397-04022025",
+    "latitude": "-35.224909",
+    "longitude": "149.053511",
+    "region": "act",
+    "time_of_call": "04 Feb 2025 07:37:45",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLOREY",
+    "updated": "04 Feb 2025 07:47:33"
   },
   {
     "title": "Back Channel Road",
@@ -583,9 +619,9 @@
     "latitude": "-36.9951400749999",
     "longitude": "149.868957519",
     "region": "nsw",
-    "time_of_call": "03 Feb 2025 16:10:00",
+    "time_of_call": "04 Feb 2025 07:38:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BROADWATER RD, EDEN 2551",
     "council_area": "Bega Valley",
@@ -595,7 +631,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "3 Feb 2025 16:10"
+    "updated": "4 Feb 2025 07:38"
   },
   {
     "title": "Douglas St, Armidale",
@@ -677,7 +713,7 @@
     "latitude": "-33.391534464",
     "longitude": "147.24919796",
     "region": "nsw",
-    "time_of_call": "03 Feb 2025 22:18:00",
+    "time_of_call": "04 Feb 2025 07:46:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -692,7 +728,7 @@
     "fire": "Yes",
     "size": "74 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Feb 2025 22:18"
+    "updated": "4 Feb 2025 07:46"
   },
   {
     "title": "DEAD RIVER LOOP TRK, KENLEY",
@@ -810,5 +846,71 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "4 Feb 2025 06:22"
+  },
+  {
+    "title": "THIRLMERE WAY, THIRLMERE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588168",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.188804627",
+    "longitude": "150.588088989",
+    "region": "nsw",
+    "time_of_call": "04 Feb 2025 07:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "615 THIRLMERE WAY, THIRLMERE 2572",
+    "council_area": "Wollondilly",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Feb 2025 07:30"
+  },
+  {
+    "title": "GUYRA RD, TINGHA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588169",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.9426002499999",
+    "longitude": "151.20199585",
+    "region": "nsw",
+    "time_of_call": "04 Feb 2025 07:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GUYRA RD, TINGHA 2369",
+    "council_area": "Inverell",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Feb 2025 07:30"
+  },
+  {
+    "title": "SWAMP RD, JAMBEROO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588170",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.652294159",
+    "longitude": "150.812347412",
+    "region": "nsw",
+    "time_of_call": "04 Feb 2025 07:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "SWAMP RD, JAMBEROO 2533",
+    "council_area": "Kiama",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Feb 2025 07:37"
   }
 ]
