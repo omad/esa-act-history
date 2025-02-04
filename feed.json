@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "05 Feb 2025 01:41:04"
+    "updated": "05 Feb 2025 01:53:16"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "05 Feb 2025 01:37:55"
+    "updated": "05 Feb 2025 01:54:38"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SYMONSTON",
-    "updated": "05 Feb 2025 01:30:39"
+    "updated": "05 Feb 2025 02:13:36"
   },
   {
     "agency": "Ambulance",
@@ -106,6 +106,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
     "updated": "05 Feb 2025 01:43:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "007600-05022025",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "05 Feb 2025 01:53:48",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "05 Feb 2025 02:22:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "007601-05022025",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "05 Feb 2025 02:13:43",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "05 Feb 2025 02:23:30"
   },
   {
     "title": "MURRAY ROSE AV",
@@ -1075,37 +1111,20 @@
     "updated": "5 Feb 2025 01:43"
   },
   {
-    "title": "WYEE RD, MORISSET",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588290",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.131149292",
-    "longitude": "151.476623535",
-    "region": "nsw",
-    "time_of_call": "05 Feb 2025 01:37:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "WYEE RD, MORISSET 2264",
-    "council_area": "Lake Macquarie",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Feb 2025 01:37"
-  },
-  {
     "title": "PIMLICO RD, PIMLICO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588291",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-28.866758347",
-    "longitude": "153.49697876",
+    "latitude": "-28.868236542",
+    "longitude": "153.497573853",
     "region": "nsw",
-    "time_of_call": "05 Feb 2025 01:39:00",
+    "time_of_call": "05 Feb 2025 02:13:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "PIMLICO RD, PIMLICO 2478",
     "council_area": "Ballina",
     "type": "Grass Fire",
@@ -1114,7 +1133,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Feb 2025 01:39"
+    "updated": "5 Feb 2025 02:13"
   },
   {
     "title": "Whitburn Cl, Charlestown",
@@ -1124,9 +1143,9 @@
     "latitude": "-32.97603",
     "longitude": "151.679636",
     "region": "nsw",
-    "time_of_call": "05 Feb 2025 01:42:00",
+    "time_of_call": "05 Feb 2025 02:22:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1139,6 +1158,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Feb 2025 01:42"
+    "updated": "5 Feb 2025 02:22"
+  },
+  {
+    "title": "TARAGO RD, BUNGENDORE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588293",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.2369689939999",
+    "longitude": "149.445449829",
+    "region": "nsw",
+    "time_of_call": "05 Feb 2025 02:14:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "210 TARAGO RD, BUNGENDORE 2621",
+    "council_area": "Queanbeyan-Palerang",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Feb 2025 02:14"
   }
 ]
