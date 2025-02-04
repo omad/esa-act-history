@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "04 Feb 2025 21:22:19"
+    "updated": "04 Feb 2025 21:53:38"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "04 Feb 2025 21:43:28"
+    "updated": "04 Feb 2025 21:55:26"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "04 Feb 2025 21:42:59"
+    "updated": "04 Feb 2025 22:03:24"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "04 Feb 2025 21:41:53"
+    "updated": "04 Feb 2025 21:49:18"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "04 Feb 2025 21:43:34"
+    "updated": "04 Feb 2025 22:04:08"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,61 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "04 Feb 2025 21:48:50"
+    "updated": "04 Feb 2025 22:04:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYONS",
+    "id": "007577-04022025",
+    "latitude": "-35.340941",
+    "longitude": "149.072217",
+    "region": "act",
+    "time_of_call": "04 Feb 2025 21:52:55",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYONS",
+    "updated": "04 Feb 2025 21:59:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUGHES",
+    "id": "007578-04022025",
+    "latitude": "-35.333105",
+    "longitude": "149.094654",
+    "region": "act",
+    "time_of_call": "04 Feb 2025 22:02:33",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUGHES",
+    "updated": "04 Feb 2025 22:14:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "007580-04022025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "04 Feb 2025 22:15:28",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "04 Feb 2025 22:17:38"
   },
   {
     "title": "MURRAY ROSE AV",
@@ -993,28 +1047,6 @@
     "updated": "4 Feb 2025 21:03"
   },
   {
-    "title": "OLD PITT TOWN RD, BOX HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588265",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.639076233",
-    "longitude": "150.90473938",
-    "region": "nsw",
-    "time_of_call": "04 Feb 2025 21:01:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "OLD PITT TOWN RD, BOX HILL 2765",
-    "council_area": "The Hills",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Feb 2025 21:01"
-  },
-  {
     "title": "ALBION ST, OBERON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588267",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1044,9 +1076,9 @@
     "latitude": "-35.296249389",
     "longitude": "145.212890625",
     "region": "nsw",
-    "time_of_call": "04 Feb 2025 21:22:00",
+    "time_of_call": "04 Feb 2025 21:45:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "30 CARRATHOOL RD, CONARGO 2710",
     "council_area": "Edward River",
@@ -1056,6 +1088,72 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Feb 2025 21:22"
+    "updated": "4 Feb 2025 21:45"
+  },
+  {
+    "title": "GHOST HILL RD, BERAMBING",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588270",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.5345382689999",
+    "longitude": "150.452835082",
+    "region": "nsw",
+    "time_of_call": "04 Feb 2025 22:05:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "48 GHOST HILL RD, BERAMBING 2758",
+    "council_area": "Hawkesbury",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Feb 2025 22:05"
+  },
+  {
+    "title": "FLORA AVE, BIRDWOODTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588272",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.095920438",
+    "longitude": "142.045100928",
+    "region": "nsw",
+    "time_of_call": "04 Feb 2025 22:13:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "58-60 MITCHELL AV, DARETON NSW 2717",
+    "council_area": "Wentworth",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Feb 2025 22:13"
+  },
+  {
+    "title": "MAITLAND RD, CESSNOCK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588274",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8281135559999",
+    "longitude": "151.394042969",
+    "region": "nsw",
+    "time_of_call": "04 Feb 2025 22:03:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MAITLAND RD, CESSNOCK 2325",
+    "council_area": "Cessnock",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "4 Feb 2025 22:03"
   }
 ]
