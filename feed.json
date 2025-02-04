@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "007590-05022025",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "05 Feb 2025 00:12:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "05 Feb 2025 01:53:16"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BRADDON",
     "id": "007593-05022025",
     "latitude": "-35.270314",
@@ -69,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SYMONSTON",
-    "updated": "05 Feb 2025 02:13:36"
+    "updated": "05 Feb 2025 02:36:20"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "05 Feb 2025 02:26:04"
+    "updated": "05 Feb 2025 02:43:23"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "05 Feb 2025 02:26:15"
+    "updated": "05 Feb 2025 02:41:08"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +99,49 @@
     "longitude": "149.078026",
     "region": "act",
     "time_of_call": "05 Feb 2025 02:27:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "OXLEY",
+    "updated": "05 Feb 2025 02:43:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "007603-05022025",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "05 Feb 2025 02:39:40",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "OXLEY",
-    "updated": "05 Feb 2025 02:35:43"
+    "location": "CHAPMAN",
+    "updated": "05 Feb 2025 02:43:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "007604-05022025",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "05 Feb 2025 02:45:02",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "05 Feb 2025 02:47:17"
   },
   {
     "title": "MURRAY ROSE AV",
@@ -1078,9 +1096,9 @@
     "latitude": "-34.63633728",
     "longitude": "143.544143676",
     "region": "nsw",
-    "time_of_call": "05 Feb 2025 01:43:00",
+    "time_of_call": "05 Feb 2025 02:35:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "ENDEAVOUR DR, BALRANALD 2715",
     "council_area": "Balranald",
@@ -1088,34 +1106,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "15 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Feb 2025 01:43"
-  },
-  {
-    "title": "PIMLICO RD, PIMLICO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588291",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.868236542",
-    "longitude": "153.497573853",
-    "region": "nsw",
-    "time_of_call": "05 Feb 2025 02:33:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "PIMLICO RD, PIMLICO 2478",
-    "council_area": "Ballina",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Feb 2025 02:33"
+    "updated": "5 Feb 2025 02:35"
   },
   {
     "title": "TARAGO RD, BUNGENDORE",
@@ -1125,9 +1118,9 @@
     "latitude": "-35.2369689939999",
     "longitude": "149.445449829",
     "region": "nsw",
-    "time_of_call": "05 Feb 2025 02:14:00",
+    "time_of_call": "05 Feb 2025 02:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "210 TARAGO RD, BUNGENDORE 2621",
     "council_area": "Queanbeyan-Palerang",
@@ -1137,6 +1130,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Feb 2025 02:14"
+    "updated": "5 Feb 2025 02:38"
   }
 ]
