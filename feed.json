@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "05 Feb 2025 07:32:13"
+    "updated": "05 Feb 2025 07:38:23"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "05 Feb 2025 07:26:16"
+    "updated": "05 Feb 2025 07:45:30"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "05 Feb 2025 07:10:36"
+    "updated": "05 Feb 2025 07:48:52"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,61 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "05 Feb 2025 07:23:23"
+    "updated": "05 Feb 2025 07:42:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "007624-05022025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "05 Feb 2025 07:36:59",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "05 Feb 2025 07:41:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "007625-05022025",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "05 Feb 2025 07:41:18",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONNER",
+    "updated": "05 Feb 2025 07:48:04"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "007626-05022025",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "05 Feb 2025 07:43:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "05 Feb 2025 07:46:27"
   },
   {
     "title": "MURRAY ROSE AV",
@@ -859,7 +913,7 @@
     "latitude": "-34.168315869",
     "longitude": "142.063908577",
     "region": "nsw",
-    "time_of_call": "04 Feb 2025 22:36:00",
+    "time_of_call": "05 Feb 2025 07:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -869,7 +923,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Feb 2025 22:36"
+    "updated": "5 Feb 2025 07:43"
   },
   {
     "title": "The Mulberries",
@@ -948,7 +1002,7 @@
     "latitude": "-35.296249389",
     "longitude": "145.212890625",
     "region": "nsw",
-    "time_of_call": "05 Feb 2025 01:19:00",
+    "time_of_call": "05 Feb 2025 07:45:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -960,7 +1014,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Feb 2025 01:19"
+    "updated": "5 Feb 2025 07:45"
   },
   {
     "title": "FLORA AVE, BIRDWOODTON",
@@ -1010,31 +1064,6 @@
     "updated": "5 Feb 2025 00:37"
   },
   {
-    "title": "Endeavour Dr, Balranald",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588287",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.636423",
-    "longitude": "143.544487",
-    "region": "nsw",
-    "time_of_call": "05 Feb 2025 03:39:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Endeavour Dr, Balranald, NSW 2715",
-    "council_area": "Balranald",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Feb 2025 03:39"
-  },
-  {
     "title": "ENDEAVOUR DR, BALRANALD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588289",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1042,7 +1071,7 @@
     "latitude": "-34.63633728",
     "longitude": "143.544143676",
     "region": "nsw",
-    "time_of_call": "05 Feb 2025 07:05:00",
+    "time_of_call": "05 Feb 2025 07:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1054,7 +1083,7 @@
     "fire": "Yes",
     "size": "15 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Feb 2025 07:05"
+    "updated": "5 Feb 2025 07:35"
   },
   {
     "title": "TARAGO RD, BUNGENDORE",
@@ -1097,47 +1126,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Feb 2025 06:59"
-  },
-  {
-    "title": "PACIFIC MTWY (SOUTHBOUND)",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588310",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.430950165",
-    "longitude": "151.24987793",
-    "region": "nsw",
-    "time_of_call": "05 Feb 2025 07:05:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ET490 M1 PACIFIC MTWY (SOUTHBOUND), MOONEY MOONEY CREEK 2250",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Feb 2025 07:05"
-  },
-  {
-    "title": "CLIVE CT, TABLE TOP",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588311",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.972942353",
-    "longitude": "147.000885009",
-    "region": "nsw",
-    "time_of_call": "05 Feb 2025 06:56:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "6 CLIVE CT, TABLE TOP 2640",
-    "council_area": "Albury",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Feb 2025 06:56"
   }
 ]
