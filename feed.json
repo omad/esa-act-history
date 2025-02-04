@@ -51,7 +51,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "04 Feb 2025 15:17:45"
+    "updated": "04 Feb 2025 16:30:14"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "04 Feb 2025 16:14:08"
+    "updated": "04 Feb 2025 16:27:40"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,13 @@
     "longitude": "149.03611",
     "region": "act",
     "time_of_call": "04 Feb 2025 15:20:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
-    "updated": "04 Feb 2025 16:23:24"
+    "updated": "04 Feb 2025 16:34:56"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "04 Feb 2025 16:21:24"
+    "updated": "04 Feb 2025 16:30:27"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +177,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "04 Feb 2025 16:19:34"
+    "updated": "04 Feb 2025 16:30:10"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +189,13 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "04 Feb 2025 16:15:10",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "04 Feb 2025 16:18:20"
+    "updated": "04 Feb 2025 16:24:25"
   },
   {
     "title": "MURRAY ROSE AV",
@@ -294,8 +294,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_587393",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.052040898",
-    "longitude": "150.6280005",
+    "latitude": "-30.056272507",
+    "longitude": "150.628570557",
     "region": "nsw",
     "time_of_call": "04 Feb 2025 10:57:00",
     "event_type": "burnt area",
@@ -986,9 +986,9 @@
     "latitude": "-34.430389405",
     "longitude": "147.880126953",
     "region": "nsw",
-    "time_of_call": "04 Feb 2025 15:57:00",
+    "time_of_call": "04 Feb 2025 16:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "MILVALE RD, STOCKINBINGAL 2725",
     "council_area": "Cootamundra-Gundagai",
@@ -998,7 +998,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Feb 2025 15:57"
+    "updated": "4 Feb 2025 16:25"
   },
   {
     "title": "SILVER CITY HWY, MOURQUONG",
@@ -1008,10 +1008,13 @@
     "latitude": "-34.134399414",
     "longitude": "142.151763916",
     "region": "nsw",
-    "time_of_call": "04 Feb 2025 16:09:00",
+    "time_of_call": "04 Feb 2025 16:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "SILVER CITY HWY, MOURQUONG 2739",
     "council_area": "Wentworth",
     "type": "Grass Fire",
@@ -1020,7 +1023,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Feb 2025 16:09"
+    "updated": "4 Feb 2025 16:27"
   },
   {
     "title": "KINGSFORD SMITH AV",
