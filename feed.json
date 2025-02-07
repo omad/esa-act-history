@@ -49,13 +49,13 @@
     "longitude": "149.142366",
     "region": "act",
     "time_of_call": "07 Feb 2025 21:26:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "08 Feb 2025 01:11:50"
+    "updated": "08 Feb 2025 01:34:27"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +217,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "08 Feb 2025 01:06:35"
+    "updated": "08 Feb 2025 01:27:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "008354-08022025",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "08 Feb 2025 01:29:58",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "08 Feb 2025 01:30:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "008355-08022025",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "08 Feb 2025 01:32:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "08 Feb 2025 01:33:34"
   },
   {
     "title": "MARSHALL MOUNT RD, MARSHALL MOUNT NSW",
@@ -1210,9 +1246,9 @@
     "latitude": "-29.473487854",
     "longitude": "149.86164856",
     "region": "nsw",
-    "time_of_call": "07 Feb 2025 21:10:00",
+    "time_of_call": "08 Feb 2025 01:20:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1225,7 +1261,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Feb 2025 21:10"
+    "updated": "8 Feb 2025 01:20"
   },
   {
     "title": "WARGEILA RD, LAVERSTOCK",
@@ -1430,5 +1466,25 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "8 Feb 2025 01:18"
+  },
+  {
+    "title": "SHADLOWS LANE, FALBROOK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588660",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.4107704159999",
+    "longitude": "151.139282226",
+    "region": "nsw",
+    "time_of_call": "08 Feb 2025 01:19:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "SHADLOWS LANE, FALBROOK 2330",
+    "council_area": "Singleton",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Feb 2025 01:19"
   }
 ]
