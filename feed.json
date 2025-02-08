@@ -9,15 +9,15 @@
     "longitude": "149.11041037",
     "region": "act",
     "time_of_call": "07 Feb 2025 22:22:36",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "PATTEN STREET, NGUNNAWAL, 2913",
-    "updated": "08 Feb 2025 16:13:33"
+    "updated": "08 Feb 2025 16:22:05"
   },
   {
     "agency": "Fire",
@@ -89,15 +89,15 @@
     "longitude": "149.11316962",
     "region": "act",
     "time_of_call": "08 Feb 2025 09:01:12",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "PEMULWUY STREET, NGUNNAWAL, 2913",
-    "updated": "08 Feb 2025 09:01:47"
+    "updated": "08 Feb 2025 16:26:24"
   },
   {
     "agency": "Fire",
@@ -171,7 +171,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "08 Feb 2025 16:10:29"
+    "updated": "08 Feb 2025 16:27:47"
   },
   {
     "agency": "Ambulance",
@@ -267,24 +267,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - BRUCE",
-    "id": "008462-08022025",
-    "latitude": "-35.251",
-    "longitude": "149.1063",
-    "region": "act",
-    "time_of_call": "08 Feb 2025 16:15:44",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
-    "location": "LEVERRIER CRESCENT, MASTERMAN STREET, BRUCE, 2617",
-    "updated": "08 Feb 2025 16:20:33"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - FLOREY",
     "id": "008463-08022025",
     "latitude": "-35.224909",
@@ -297,7 +279,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "08 Feb 2025 16:20:45"
+    "updated": "08 Feb 2025 16:24:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THEODORE",
+    "id": "008464-08022025",
+    "latitude": "-35.449632",
+    "longitude": "149.120754",
+    "region": "act",
+    "time_of_call": "08 Feb 2025 16:27:16",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THEODORE",
+    "updated": "08 Feb 2025 16:31:38"
   },
   {
     "title": "MARSHALL MOUNT RD, MARSHALL MOUNT NSW",
@@ -509,7 +509,7 @@
     "latitude": "-34.56891632",
     "longitude": "142.43208313",
     "region": "nsw",
-    "time_of_call": "08 Feb 2025 11:12:00",
+    "time_of_call": "08 Feb 2025 16:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -521,7 +521,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "8 Feb 2025 11:12"
+    "updated": "8 Feb 2025 16:20"
   },
   {
     "title": "ENDEAVOUR DR, BALRANALD",
@@ -1287,10 +1287,13 @@
     "latitude": "-28.59623146",
     "longitude": "152.91204834",
     "region": "nsw",
-    "time_of_call": "08 Feb 2025 15:30:00",
+    "time_of_call": "08 Feb 2025 16:18:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "786 OLD COB-O-CORN RD, EDEN CREEK 2474",
     "council_area": "Kyogle",
     "type": "Grass Fire",
@@ -1299,7 +1302,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Feb 2025 15:30"
+    "updated": "8 Feb 2025 16:18"
   },
   {
     "title": "NOBBYS RD, BARMEDMAN",
@@ -1331,14 +1334,17 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588746",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.5655174259999",
-    "longitude": "149.818145752",
+    "latitude": "-34.5631828309999",
+    "longitude": "149.852493287",
     "region": "nsw",
-    "time_of_call": "08 Feb 2025 15:49:00",
+    "time_of_call": "08 Feb 2025 16:26:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "CHAPMANS LANE, CHATSBURY 2580",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "JASNAR 372 CHAPMANS LANE, CHATSBURY 2580",
     "council_area": "Upper Lachlan",
     "type": "Grass Fire",
     "type_description": "",
@@ -1346,7 +1352,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Feb 2025 15:49"
+    "updated": "8 Feb 2025 16:26"
   },
   {
     "title": "JAMES CREEK RD, JAMES CREEK",
@@ -1356,9 +1362,9 @@
     "latitude": "-29.4483051299999",
     "longitude": "153.254470825",
     "region": "nsw",
-    "time_of_call": "08 Feb 2025 16:09:00",
+    "time_of_call": "08 Feb 2025 16:30:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "223 JAMES CREEK RD, JAMES CREEK 2463",
     "council_area": "Clarence Valley",
@@ -1368,7 +1374,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Feb 2025 16:09"
+    "updated": "8 Feb 2025 16:30"
   },
   {
     "title": "DEER VALE RD, DEER VALE",
@@ -1378,9 +1384,9 @@
     "latitude": "-30.3565216059999",
     "longitude": "152.538391113",
     "region": "nsw",
-    "time_of_call": "08 Feb 2025 15:55:00",
+    "time_of_call": "08 Feb 2025 16:29:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1901 DEER VALE RD, DEER VALE 2453",
     "council_area": "Bellingen",
@@ -1390,7 +1396,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Feb 2025 15:55"
+    "updated": "8 Feb 2025 16:29"
   },
   {
     "title": "MOUNT DARRAGH RD, WYNDHAM",
