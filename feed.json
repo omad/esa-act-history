@@ -15,7 +15,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "09 Feb 2025 04:21:56"
+    "updated": "09 Feb 2025 04:53:57"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "09 Feb 2025 04:44:28"
+    "updated": "09 Feb 2025 05:20:20"
   },
   {
     "agency": "Ambulance",
@@ -57,42 +57,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HAWKER",
-    "id": "008612-09022025",
-    "latitude": "-35.246757",
-    "longitude": "149.03611",
-    "region": "act",
-    "time_of_call": "09 Feb 2025 03:34:38",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HAWKER",
-    "updated": "09 Feb 2025 04:21:59"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BONNER",
-    "id": "008613-09022025",
-    "latitude": "-35.155183",
-    "longitude": "149.143165",
-    "region": "act",
-    "time_of_call": "09 Feb 2025 03:42:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BONNER",
-    "updated": "09 Feb 2025 04:48:36"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CURTIN",
     "id": "008616-09022025",
     "latitude": "-35.326585",
@@ -105,7 +69,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "09 Feb 2025 04:31:29"
+    "updated": "09 Feb 2025 05:07:06"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "09 Feb 2025 04:36:15"
+    "updated": "09 Feb 2025 04:56:23"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +99,67 @@
     "longitude": "149.037677",
     "region": "act",
     "time_of_call": "09 Feb 2025 04:40:45",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SCULLIN",
+    "updated": "09 Feb 2025 05:27:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GOWRIE",
+    "id": "008625-09022025",
+    "latitude": "-35.411365",
+    "longitude": "149.110257",
+    "region": "act",
+    "time_of_call": "09 Feb 2025 05:04:59",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "SCULLIN",
-    "updated": "09 Feb 2025 04:45:26"
+    "location": "GOWRIE",
+    "updated": "09 Feb 2025 05:17:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "008626-09022025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "09 Feb 2025 05:06:19",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "09 Feb 2025 05:25:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BANKS",
+    "id": "008627-09022025",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
+    "region": "act",
+    "time_of_call": "09 Feb 2025 05:18:34",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BANKS",
+    "updated": "09 Feb 2025 05:25:43"
   },
   {
     "title": "MARSHALL MOUNT RD, MARSHALL MOUNT NSW",
@@ -1050,5 +1068,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Feb 2025 20:49"
+  },
+  {
+    "title": "THE BRANCH LANE, THE BRANCH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588811",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.5906944279999",
+    "longitude": "152.011764527",
+    "region": "nsw",
+    "time_of_call": "09 Feb 2025 04:53:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1270 THE BRANCH LANE, THE BRANCH 2425",
+    "council_area": "Mid-Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Feb 2025 04:53"
   }
 ]
