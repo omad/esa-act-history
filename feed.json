@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAWSON",
-    "id": "008511-08022025",
-    "latitude": "-35.361049",
-    "longitude": "149.099386",
-    "region": "act",
-    "time_of_call": "08 Feb 2025 19:24:40",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MAWSON",
-    "updated": "08 Feb 2025 22:20:12"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DICKSON",
     "id": "008516-08022025",
     "latitude": "-35.250784",
@@ -71,7 +53,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "09 Feb 2025 01:18:23"
+    "updated": "09 Feb 2025 01:40:21"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "09 Feb 2025 01:15:47"
+    "updated": "09 Feb 2025 01:33:24"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "09 Feb 2025 01:19:36"
+    "updated": "09 Feb 2025 01:42:07"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "09 Feb 2025 01:22:01"
+    "updated": "09 Feb 2025 01:36:33"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +179,25 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "09 Feb 2025 01:29:46"
+    "updated": "09 Feb 2025 01:41:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "008575-09022025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "09 Feb 2025 01:41:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "09 Feb 2025 01:42:05"
   },
   {
     "title": "MARSHALL MOUNT RD, MARSHALL MOUNT NSW",
@@ -1108,28 +1108,6 @@
     "updated": "8 Feb 2025 20:49"
   },
   {
-    "title": "MERITON ST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588803",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.0974884029999",
-    "longitude": "150.600158691",
-    "region": "nsw",
-    "time_of_call": "09 Feb 2025 01:23:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ST GEORGES BASIN NURSING HOME MERITON ST, ST GEORGES BASIN 2540",
-    "council_area": "Shoalhaven",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Feb 2025 01:23"
-  },
-  {
     "title": "COOKE DR, GOOGONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588804",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1137,9 +1115,9 @@
     "latitude": "-35.474700927",
     "longitude": "149.193847656",
     "region": "nsw",
-    "time_of_call": "09 Feb 2025 01:15:00",
+    "time_of_call": "09 Feb 2025 01:43:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "81 COOKE DR, GOOGONG 2620",
     "council_area": "Queanbeyan-Palerang",
@@ -1147,21 +1125,21 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Feb 2025 01:15"
+    "updated": "9 Feb 2025 01:43"
   },
   {
-    "title": "BAKANA GAP RD, WERRIS CREEK",
+    "title": "GAP RD, WERRIS CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588805",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.3663253789999",
-    "longitude": "150.544158935",
+    "latitude": "-31.3631267549999",
+    "longitude": "150.557632446",
     "region": "nsw",
     "time_of_call": "09 Feb 2025 01:22:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "BAKANA GAP RD, WERRIS CREEK 2341",
+    "location": "GAP RD, WERRIS CREEK 2341",
     "council_area": "Liverpool Plains",
     "type": "MVA/Transport",
     "type_description": "",
