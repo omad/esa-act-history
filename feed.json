@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "09 Feb 2025 10:17:41"
+    "updated": "09 Feb 2025 10:30:03"
   },
   {
     "agency": "Ambulance",
@@ -175,13 +175,31 @@
     "longitude": "149.110257",
     "region": "act",
     "time_of_call": "09 Feb 2025 10:13:54",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GOWRIE",
+    "updated": "09 Feb 2025 10:23:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PEARCE",
+    "id": "008679-09022025",
+    "latitude": "-35.361582",
+    "longitude": "149.085118",
+    "region": "act",
+    "time_of_call": "09 Feb 2025 10:30:29",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "GOWRIE",
-    "updated": "09 Feb 2025 10:17:07"
+    "location": "PEARCE",
+    "updated": "09 Feb 2025 10:30:46"
   },
   {
     "title": " SALMONS TRAIL, COPETON",
@@ -626,7 +644,7 @@
     "latitude": "-34.94512558",
     "longitude": "146.261383057",
     "region": "nsw",
-    "time_of_call": "08 Feb 2025 17:55:00",
+    "time_of_call": "09 Feb 2025 10:09:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -641,7 +659,7 @@
     "fire": "Yes",
     "size": "2582 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Feb 2025 17:55"
+    "updated": "9 Feb 2025 10:09"
   },
   {
     "title": "MOUNT LINDESAY RD, BOONOO BOONOO",
@@ -907,31 +925,6 @@
     "updated": "8 Feb 2025 18:27"
   },
   {
-    "title": "LIMBRI RD, LIMBRI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588768",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.0690517429999",
-    "longitude": "151.216247558",
-    "region": "nsw",
-    "time_of_call": "09 Feb 2025 09:42:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "995 LIMBRI RD, LIMBRI 2352",
-    "council_area": "Tamworth",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Feb 2025 09:42"
-  },
-  {
     "title": "MOUNT ERIN RD, MERRIWA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588771",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1024,26 +1017,6 @@
     "updated": "9 Feb 2025 07:43"
   },
   {
-    "title": "VALLEY ST, GOSFORTH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588817",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.6582298279999",
-    "longitude": "151.490081787",
-    "region": "nsw",
-    "time_of_call": "09 Feb 2025 09:40:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "VALLEY ST, GOSFORTH 2320",
-    "council_area": "Maitland",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Feb 2025 09:40"
-  },
-  {
     "title": "FREWIN RD, BORENORE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588819",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1086,5 +1059,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Feb 2025 09:56"
+  },
+  {
+    "title": "COBRAM RD, BERRIGAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588821",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.6928443909999",
+    "longitude": "145.80480957",
+    "region": "nsw",
+    "time_of_call": "09 Feb 2025 10:21:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "COBRAM RD, BERRIGAN 2712",
+    "council_area": "Berrigan",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Feb 2025 10:21"
   }
 ]
