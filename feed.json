@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "11 Feb 2025 02:06:08"
+    "updated": "11 Feb 2025 02:32:56"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "11 Feb 2025 02:20:58"
+    "updated": "11 Feb 2025 02:25:33"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,31 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "11 Feb 2025 02:10:55",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "11 Feb 2025 02:17:46"
+    "updated": "11 Feb 2025 02:31:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "009043-11022025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "11 Feb 2025 02:33:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "11 Feb 2025 02:36:44"
   },
   {
     "title": "NARRAN LAKE RD, CUMBORAH",
@@ -709,5 +727,25 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "11 Feb 2025 02:17"
+  },
+  {
+    "title": "CLYDE RD, NORTH BATEMANS BAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589066",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.690322876",
+    "longitude": "150.193069458",
+    "region": "nsw",
+    "time_of_call": "11 Feb 2025 02:25:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "11 CLYDE RD, NORTH BATEMANS BAY 2536",
+    "council_area": "Eurobodalla",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Feb 2025 02:25"
   }
 ]
