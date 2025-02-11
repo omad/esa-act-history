@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - ARANDA",
-    "id": "002944-12022025",
-    "latitude": "-35.2558364868",
-    "longitude": "149.088180542",
-    "region": "act",
-    "time_of_call": "12 Feb 2025 09:04:49",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "HAYDON DRIVE EXIT, BELCONNEN WAY, BRUCE, 2617",
-    "updated": "12 Feb 2025 09:31:55"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -35,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "12 Feb 2025 10:14:53"
+    "updated": "12 Feb 2025 10:27:23"
   },
   {
     "agency": "Ambulance",
@@ -131,24 +111,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - OXLEY",
-    "id": "009308-12022025",
-    "latitude": "-35.410682",
-    "longitude": "149.078026",
-    "region": "act",
-    "time_of_call": "12 Feb 2025 09:33:11",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "OXLEY",
-    "updated": "12 Feb 2025 09:41:11"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PAGE",
     "id": "009309-12022025",
     "latitude": "-35.238051",
@@ -161,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "12 Feb 2025 10:19:04"
+    "updated": "12 Feb 2025 10:30:00"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +177,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "12 Feb 2025 10:19:21"
+    "updated": "12 Feb 2025 10:25:42"
   },
   {
     "agency": "Ambulance",
@@ -245,13 +207,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "12 Feb 2025 10:10:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "12 Feb 2025 10:13:51"
+    "updated": "12 Feb 2025 10:24:27"
   },
   {
     "agency": "Ambulance",
@@ -299,13 +261,67 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "12 Feb 2025 10:19:59",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "12 Feb 2025 10:31:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "009324-12022025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "12 Feb 2025 10:26:05",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "12 Feb 2025 10:22:10"
+    "location": "CITY",
+    "updated": "12 Feb 2025 10:28:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "009325-12022025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "12 Feb 2025 10:29:40",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "12 Feb 2025 10:29:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "009326-12022025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "12 Feb 2025 10:31:12",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "12 Feb 2025 10:32:44"
   },
   {
     "title": "NARRAN LAKE RD, CUMBORAH",
@@ -416,6 +432,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Feb 2025 02:14"
+  },
+  {
+    "title": "Holt Ave APZ Pile Burning",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588576",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.700876888",
+    "longitude": "151.126642227",
+    "region": "nsw",
+    "time_of_call": "12 Feb 2025 10:29:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "36 HOLT AV, NORTH WAHROONGA NSW 2076",
+    "council_area": "Ku-Ring-Gai",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Feb 2025 10:29"
   },
   {
     "title": "YAMMA RD, MORUNDAH",
@@ -818,28 +856,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Feb 2025 08:35"
-  },
-  {
-    "title": "WILGA RD, WHITTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589162",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.481269836",
-    "longitude": "146.154708862",
-    "region": "nsw",
-    "time_of_call": "12 Feb 2025 09:26:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WILGA RD, WHITTON 2705",
-    "council_area": "Leeton",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Feb 2025 09:26"
   },
   {
     "title": "OLD NARRANDERA RD, EUBERTA",
