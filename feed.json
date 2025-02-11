@@ -9,13 +9,13 @@
     "longitude": "149.081053",
     "region": "act",
     "time_of_call": "12 Feb 2025 02:13:37",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "12 Feb 2025 02:36:09"
+    "updated": "12 Feb 2025 03:11:27"
   },
   {
     "agency": "Ambulance",
@@ -52,6 +52,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
     "updated": "12 Feb 2025 02:43:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "009266-12022025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "12 Feb 2025 02:55:35",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "12 Feb 2025 03:16:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RED HILL",
+    "id": "009267-12022025",
+    "latitude": "-35.333636",
+    "longitude": "149.120031",
+    "region": "act",
+    "time_of_call": "12 Feb 2025 03:18:22",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RED HILL",
+    "updated": "12 Feb 2025 03:30:50"
   },
   {
     "title": "NARRAN LAKE RD, CUMBORAH",
@@ -497,25 +533,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Feb 2025 23:32"
-  },
-  {
-    "title": "MACPHERSON ST, WOODENBONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589139",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.3906879429999",
-    "longitude": "152.612243653",
-    "region": "nsw",
-    "time_of_call": "11 Feb 2025 23:10:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MACPHERSON ST, WOODENBONG 2476",
-    "council_area": "Kyogle",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Feb 2025 23:10"
   }
 ]
