@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - RED HILL",
-    "id": "009267-12022025",
-    "latitude": "-35.333636",
-    "longitude": "149.120031",
-    "region": "act",
-    "time_of_call": "12 Feb 2025 03:18:22",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "RED HILL",
-    "updated": "12 Feb 2025 04:30:44"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CHISHOLM",
     "id": "009268-12022025",
     "latitude": "-35.422993",
@@ -33,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "12 Feb 2025 04:29:12"
+    "updated": "12 Feb 2025 04:48:46"
   },
   {
     "agency": "Ambulance",
@@ -51,25 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "12 Feb 2025 04:39:59"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "009270-12022025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "12 Feb 2025 03:50:41",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "12 Feb 2025 04:27:56"
+    "updated": "12 Feb 2025 05:18:54"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +69,25 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "12 Feb 2025 04:41:22"
+    "updated": "12 Feb 2025 05:00:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "009275-12022025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "12 Feb 2025 05:05:01",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "12 Feb 2025 05:24:18"
   },
   {
     "title": "NARRAN LAKE RD, CUMBORAH",
@@ -560,10 +542,13 @@
     "latitude": "-31.469499588",
     "longitude": "148.919998169",
     "region": "nsw",
-    "time_of_call": "12 Feb 2025 04:43:00",
+    "time_of_call": "12 Feb 2025 05:18:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "NEWELL HWY, TOORAWEENAH 2831",
     "council_area": "Gilgandra",
     "type": "Grass Fire",
@@ -572,6 +557,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Feb 2025 04:43"
+    "updated": "12 Feb 2025 05:18"
+  },
+  {
+    "title": "INNES LANE, MOTO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589150",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.821681976",
+    "longitude": "152.543334961",
+    "region": "nsw",
+    "time_of_call": "12 Feb 2025 04:59:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "224 INNES LANE, MOTO 2426",
+    "council_area": "Mid-Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Feb 2025 04:59"
   }
 ]
