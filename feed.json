@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "RUBBISH FIRE - JACKA",
-    "id": "002988-13022025",
-    "latitude": "-35.1520690918",
-    "longitude": "149.1275634766",
-    "region": "act",
-    "time_of_call": "13 Feb 2025 01:07:40",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "RUBBISH FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
-    "location": "WAKE CRESCENT, JACKA, 2914",
-    "updated": "13 Feb 2025 01:33:04"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -125,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "13 Feb 2025 02:13:30"
+    "updated": "13 Feb 2025 02:29:09"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +135,13 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "13 Feb 2025 01:31:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "13 Feb 2025 02:23:20"
+    "updated": "13 Feb 2025 02:34:26"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "13 Feb 2025 02:22:04"
+    "updated": "13 Feb 2025 02:32:59"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +177,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "13 Feb 2025 02:09:46"
+    "updated": "13 Feb 2025 02:36:01"
   },
   {
     "agency": "Ambulance",
@@ -216,6 +196,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
     "updated": "13 Feb 2025 02:24:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LAWSON",
+    "id": "009518-13022025",
+    "latitude": "-35.225525",
+    "longitude": "149.088854",
+    "region": "act",
+    "time_of_call": "13 Feb 2025 02:30:00",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LAWSON",
+    "updated": "13 Feb 2025 02:36:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "009519-13022025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "13 Feb 2025 02:35:12",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "13 Feb 2025 02:36:42"
   },
   {
     "title": "Assist Victoria",
@@ -750,5 +766,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Feb 2025 01:38"
+  },
+  {
+    "title": "THREE CHAIN RD, SOUTH LISMORE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589224",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.814535141",
+    "longitude": "153.250137329",
+    "region": "nsw",
+    "time_of_call": "13 Feb 2025 02:25:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "135 THREE CHAIN RD, SOUTH LISMORE 2480",
+    "council_area": "Lismore",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Feb 2025 02:25"
+  },
+  {
+    "title": "CULLEN ST, NIMBIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589225",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.596534729",
+    "longitude": "153.223175048",
+    "region": "nsw",
+    "time_of_call": "13 Feb 2025 02:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "43A CULLEN ST, NIMBIN 2480",
+    "council_area": "Lismore",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Feb 2025 02:30"
   }
 ]
