@@ -3,26 +3,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - O'CONNOR",
-    "id": "002968-12022025",
-    "latitude": "-35.2599182129",
-    "longitude": "149.1266326904",
-    "region": "act",
-    "time_of_call": "12 Feb 2025 16:42:11",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "ST JOSEPHS RECTORY, MACARTHUR AVENUE, OCONNOR, 2602",
-    "updated": "12 Feb 2025 17:28:04"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "ANIMAL RESCUE - AMAROO",
     "id": "002972-12022025",
     "latitude": "-35.17845535",
@@ -38,6 +18,26 @@
     "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
     "location": "MIRRABEI DRIVE, AMAROO, 2914",
     "updated": "12 Feb 2025 18:18:58"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - GUNGAHLIN",
+    "id": "002975-12022025",
+    "latitude": "-35.19320799",
+    "longitude": "149.12782",
+    "region": "act",
+    "time_of_call": "12 Feb 2025 18:24:15",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "GUNGAHLIN DRIVE, KOSCIUSZKO AVENUE, GUNGAHLIN, 2912",
+    "updated": "12 Feb 2025 18:25:46"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
-    "updated": "12 Feb 2025 18:08:01"
+    "updated": "12 Feb 2025 18:28:44"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "12 Feb 2025 18:05:24"
+    "updated": "12 Feb 2025 18:21:07"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +235,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "12 Feb 2025 18:12:46"
+    "updated": "12 Feb 2025 18:20:25"
   },
   {
     "agency": "Ambulance",
@@ -265,13 +265,33 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "12 Feb 2025 18:14:18",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "12 Feb 2025 18:16:58"
+    "updated": "12 Feb 2025 18:26:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - GUNGAHLIN",
+    "id": "009424-12022025",
+    "latitude": "-35.19320799",
+    "longitude": "149.12782",
+    "region": "act",
+    "time_of_call": "12 Feb 2025 18:24:16",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "",
+    "location": "GUNGAHLIN DRIVE, KOSCIUSZKO AVENUE, GUNGAHLIN, 2912",
+    "updated": "12 Feb 2025 18:25:14"
   },
   {
     "title": "Assist Victoria",
