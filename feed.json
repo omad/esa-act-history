@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "14 Feb 2025 04:14:20"
+    "updated": "14 Feb 2025 04:30:38"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,13 @@
     "longitude": "149.110562",
     "region": "act",
     "time_of_call": "14 Feb 2025 01:04:28",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "14 Feb 2025 01:57:18"
+    "updated": "14 Feb 2025 04:48:40"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "14 Feb 2025 04:28:08"
+    "updated": "14 Feb 2025 04:36:56"
   },
   {
     "agency": "Ambulance",
@@ -113,24 +113,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - THROSBY",
-    "id": "009753-14022025",
-    "latitude": "-35.187595",
-    "longitude": "149.161141",
-    "region": "act",
-    "time_of_call": "14 Feb 2025 03:39:58",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "THROSBY",
-    "updated": "14 Feb 2025 04:04:22"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - FRANKLIN",
     "id": "009754-14022025",
     "latitude": "-35.199225",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "14 Feb 2025 04:28:25"
+    "updated": "14 Feb 2025 04:37:35"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "14 Feb 2025 04:29:15"
+    "updated": "14 Feb 2025 04:36:43"
   },
   {
     "title": "Assist Victoria",
@@ -674,5 +656,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Feb 2025 21:18"
+  },
+  {
+    "title": "WINE COUNTRY DR, NULKABA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589333",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.6673927309999",
+    "longitude": "151.355575561",
+    "region": "nsw",
+    "time_of_call": "14 Feb 2025 04:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WINE COUNTRY DR, NULKABA 2325",
+    "council_area": "Cessnock",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Feb 2025 04:39"
   }
 ]
