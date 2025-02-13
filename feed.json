@@ -23,24 +23,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GARRAN",
-    "id": "009719-13022025",
-    "latitude": "-35.340821",
-    "longitude": "149.105209",
-    "region": "act",
-    "time_of_call": "13 Feb 2025 22:55:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GARRAN",
-    "updated": "13 Feb 2025 23:26:49"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - O'CONNOR",
     "id": "009720-13022025",
     "latitude": "-35.256876",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
-    "updated": "14 Feb 2025 00:25:23"
+    "updated": "14 Feb 2025 00:46:23"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "14 Feb 2025 00:22:01"
+    "updated": "14 Feb 2025 00:47:20"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +179,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "14 Feb 2025 00:15:48"
+    "updated": "14 Feb 2025 00:46:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MCKELLAR",
+    "id": "009734-14022025",
+    "latitude": "-35.216327",
+    "longitude": "149.076954",
+    "region": "act",
+    "time_of_call": "14 Feb 2025 00:47:09",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MCKELLAR",
+    "updated": "14 Feb 2025 00:48:30"
   },
   {
     "title": "Assist Victoria",
@@ -712,28 +712,6 @@
     "updated": "13 Feb 2025 21:18"
   },
   {
-    "title": "(PACIFIC MTWY), KANGY ANGY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589321",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.3209648129999",
-    "longitude": "151.392974854",
-    "region": "nsw",
-    "time_of_call": "13 Feb 2025 23:50:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "M1 (PACIFIC MTWY), KANGY ANGY 2258",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Feb 2025 23:50"
-  },
-  {
     "title": "EUROLEY RD, YANCO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589322",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -741,9 +719,9 @@
     "latitude": "-34.633895874",
     "longitude": "146.382553101",
     "region": "nsw",
-    "time_of_call": "14 Feb 2025 00:23:00",
+    "time_of_call": "14 Feb 2025 00:42:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "259 EUROLEY RD, YANCO 2703",
     "council_area": "Leeton",
@@ -753,6 +731,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Feb 2025 00:23"
+    "updated": "14 Feb 2025 00:42"
+  },
+  {
+    "title": "OXFORD FALLS RD, OXFORD FALLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589323",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.729286193",
+    "longitude": "151.231887817",
+    "region": "nsw",
+    "time_of_call": "14 Feb 2025 00:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "995 OXFORD FALLS RD, OXFORD FALLS 2100",
+    "council_area": "Northern Beaches",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Feb 2025 00:32"
   }
 ]
