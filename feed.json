@@ -101,13 +101,13 @@
     "longitude": "149.076954",
     "region": "act",
     "time_of_call": "14 Feb 2025 00:47:09",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "14 Feb 2025 02:12:28"
+    "updated": "14 Feb 2025 02:27:38"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,13 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "14 Feb 2025 01:52:54",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "14 Feb 2025 02:19:38"
+    "updated": "14 Feb 2025 02:32:32"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +173,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "14 Feb 2025 01:54:03",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "14 Feb 2025 01:57:27"
+    "updated": "14 Feb 2025 02:31:33"
   },
   {
     "title": "Assist Victoria",
@@ -701,7 +701,7 @@
     "latitude": "-35.673976899",
     "longitude": "147.388214112",
     "region": "nsw",
-    "time_of_call": "14 Feb 2025 02:02:00",
+    "time_of_call": "14 Feb 2025 02:32:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
@@ -713,7 +713,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Feb 2025 02:02"
+    "updated": "14 Feb 2025 02:32"
   },
   {
     "title": "OWEN ST, HUSKISSON",
@@ -756,5 +756,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Feb 2025 02:10"
+  },
+  {
+    "title": "NEWELL HWY, BECKOM",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589329",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.3430290229999",
+    "longitude": "147.082550048",
+    "region": "nsw",
+    "time_of_call": "14 Feb 2025 02:21:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "NEWELL HWY, BECKOM 2665",
+    "council_area": "Coolamon",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Feb 2025 02:21"
   }
 ]
