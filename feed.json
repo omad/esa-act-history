@@ -29,15 +29,15 @@
     "longitude": "149.08778717",
     "region": "act",
     "time_of_call": "14 Feb 2025 17:37:14",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "MCCLELLAND AVENUE, NICHOLLS, 2913",
-    "updated": "14 Feb 2025 19:32:37"
+    "updated": "14 Feb 2025 20:27:06"
   },
   {
     "agency": "Fire",
@@ -121,24 +121,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CONDER",
-    "id": "009934-14022025",
-    "latitude": "-35.458351",
-    "longitude": "149.106348",
-    "region": "act",
-    "time_of_call": "14 Feb 2025 17:59:32",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CONDER",
-    "updated": "14 Feb 2025 19:30:06"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CHAPMAN",
     "id": "009936-14022025",
     "latitude": "-35.356631",
@@ -187,7 +169,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHIFLEY",
-    "updated": "14 Feb 2025 20:23:25"
+    "updated": "14 Feb 2025 20:30:04"
   },
   {
     "agency": "Ambulance",
@@ -205,7 +187,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "14 Feb 2025 20:16:32"
+    "updated": "14 Feb 2025 20:31:17"
   },
   {
     "agency": "Ambulance",
@@ -265,24 +247,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRADDON",
-    "id": "009956-14022025",
-    "latitude": "-35.270314",
-    "longitude": "149.135874",
-    "region": "act",
-    "time_of_call": "14 Feb 2025 19:37:14",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BRADDON",
-    "updated": "14 Feb 2025 20:07:43"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - FLOREY",
     "id": "009958-14022025",
     "latitude": "-35.224909",
@@ -313,7 +277,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "14 Feb 2025 20:23:17"
+    "updated": "14 Feb 2025 20:29:37"
   },
   {
     "agency": "Ambulance",
@@ -331,7 +295,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "14 Feb 2025 20:23:28"
+    "updated": "14 Feb 2025 20:34:26"
   },
   {
     "agency": "Ambulance",
@@ -343,13 +307,31 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "14 Feb 2025 20:21:52",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "14 Feb 2025 20:22:53"
+    "updated": "14 Feb 2025 20:32:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "009967-14022025",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "14 Feb 2025 20:28:59",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PALMERSTON",
+    "updated": "14 Feb 2025 20:34:16"
   },
   {
     "title": "Assist Victoria",
@@ -614,28 +596,6 @@
     "updated": "14 Feb 2025 18:41"
   },
   {
-    "title": "BAMARANG RD, MUNDAMIA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589392",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.8915367129999",
-    "longitude": "150.546630859",
-    "region": "nsw",
-    "time_of_call": "14 Feb 2025 19:50:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "38 BAMARANG RD, MUNDAMIA 2540",
-    "council_area": "Shoalhaven",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Feb 2025 19:50"
-  },
-  {
     "title": "DYKES AV, JERVIS BAY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589393",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -643,9 +603,9 @@
     "latitude": "-35.1308593749999",
     "longitude": "150.70451355",
     "region": "nsw",
-    "time_of_call": "14 Feb 2025 19:58:00",
+    "time_of_call": "14 Feb 2025 20:30:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "DYKES AV, JERVIS BAY 2540",
     "council_area": "Shoalhaven",
@@ -655,7 +615,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Feb 2025 19:58"
+    "updated": "14 Feb 2025 20:30"
   },
   {
     "title": "Amaroo Dr, Moree",
@@ -705,48 +665,6 @@
     "updated": "14 Feb 2025 20:16"
   },
   {
-    "title": "GRAMAN RD, ASHFORD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589396",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.353855133",
-    "longitude": "151.037429809",
-    "region": "nsw",
-    "time_of_call": "14 Feb 2025 20:04:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "1975 GRAMAN RD, ASHFORD 2361",
-    "council_area": "Inverell",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Feb 2025 20:04"
-  },
-  {
-    "title": "NARRAWA AV, ERINA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589397",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.432636261",
-    "longitude": "151.391036987",
-    "region": "nsw",
-    "time_of_call": "14 Feb 2025 20:06:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "NARRAWA AV, ERINA 2250",
-    "council_area": "Central Coast",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "14 Feb 2025 20:06"
-  },
-  {
     "title": "JAMBEROO MOUNTAIN RD, KNIGHTS HILL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589398",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -767,6 +685,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Feb 2025 20:07"
+  },
+  {
+    "title": "AMAROO DR, MOREE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589399",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.484493255",
+    "longitude": "149.840438843",
+    "region": "nsw",
+    "time_of_call": "14 Feb 2025 20:10:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "AMAROO DR, MOREE 2400",
+    "council_area": "Moree Plains",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "14 Feb 2025 20:10"
   },
   {
     "title": "MILLER ST, BONSHAW",
@@ -811,5 +751,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Feb 2025 20:18"
+  },
+  {
+    "title": "CURRARONG RD, WOLLUMBOOLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589402",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.9762916559999",
+    "longitude": "150.742095947",
+    "region": "nsw",
+    "time_of_call": "14 Feb 2025 20:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CURRARONG RD, WOLLUMBOOLA 2540",
+    "council_area": "Shoalhaven",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Feb 2025 20:29"
   }
 ]
