@@ -79,24 +79,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
-    "id": "009980-14022025",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
-    "region": "act",
-    "time_of_call": "14 Feb 2025 21:51:38",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CANBERRA AIRPORT",
-    "updated": "14 Feb 2025 21:51:57"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PALMERSTON",
     "id": "009981-14022025",
     "latitude": "-35.193269",
@@ -219,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "15 Feb 2025 01:50:30"
+    "updated": "15 Feb 2025 02:26:02"
   },
   {
     "agency": "Ambulance",
@@ -231,13 +213,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "15 Feb 2025 01:42:25",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "15 Feb 2025 02:19:57"
+    "updated": "15 Feb 2025 02:25:40"
   },
   {
     "agency": "Ambulance",
@@ -273,7 +255,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "15 Feb 2025 02:22:40"
+    "updated": "15 Feb 2025 02:23:42"
   },
   {
     "title": "Assist Victoria",
@@ -545,9 +527,9 @@
     "latitude": "-33.5536842349999",
     "longitude": "150.663085938",
     "region": "nsw",
-    "time_of_call": "15 Feb 2025 02:08:00",
+    "time_of_call": "15 Feb 2025 02:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "129 OLD BELLS OF ROAD LINE, KURRAJONG 2758",
     "council_area": "Hawkesbury",
@@ -557,7 +539,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Feb 2025 02:08"
+    "updated": "15 Feb 2025 02:23"
   },
   {
     "title": "STOCK ROUTE RD, BILLINUDGEL",
@@ -578,5 +560,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Feb 2025 02:18"
+  },
+  {
+    "title": "HUME HWY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589419",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.614143371",
+    "longitude": "150.218688965",
+    "region": "nsw",
+    "time_of_call": "15 Feb 2025 02:28:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BRIDGEWATER LODGE 13230 HUME HWY, SUTTON FOREST 2577",
+    "council_area": "Wingecarribee",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Feb 2025 02:28"
   }
 ]
