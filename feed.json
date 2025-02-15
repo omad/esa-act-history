@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "15 Feb 2025 16:05:44"
+    "updated": "15 Feb 2025 16:33:48"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,13 @@
     "longitude": "149.100249",
     "region": "act",
     "time_of_call": "15 Feb 2025 16:02:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "15 Feb 2025 16:11:12"
+    "updated": "15 Feb 2025 16:23:54"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +173,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "15 Feb 2025 16:04:51",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "15 Feb 2025 16:16:33"
+    "updated": "15 Feb 2025 16:22:43"
   },
   {
     "agency": "Ambulance",
@@ -191,31 +191,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "15 Feb 2025 16:06:43",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "15 Feb 2025 16:15:21"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
-    "id": "010143-15022025",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
-    "region": "act",
-    "time_of_call": "15 Feb 2025 16:14:16",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CANBERRA AIRPORT",
-    "updated": "15 Feb 2025 16:17:42"
+    "updated": "15 Feb 2025 16:32:47"
   },
   {
     "agency": "Ambulance",
@@ -245,13 +227,31 @@
     "longitude": "149.111857",
     "region": "act",
     "time_of_call": "15 Feb 2025 16:21:21",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "15 Feb 2025 16:21:43"
+    "updated": "15 Feb 2025 16:28:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "010147-15022025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "15 Feb 2025 16:32:56",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "15 Feb 2025 16:33:23"
   },
   {
     "title": "Assist Victoria",
@@ -265,7 +265,7 @@
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "ASSIST VICTORIA  MURRAY ROSE AV",
+    "location": "ASSIST VICTORIA - 4 MURRAY ROSE AV",
     "council_area": "City of Parramatta",
     "type": "Assist Other Agency",
     "fire": "No",
@@ -495,5 +495,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Feb 2025 16:01"
+  },
+  {
+    "title": "PACIFIC HWY, HERONS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589468",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.565099717",
+    "longitude": "152.734893799",
+    "region": "nsw",
+    "time_of_call": "15 Feb 2025 16:22:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, HERONS CREEK 2443",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Feb 2025 16:22"
   }
 ]
