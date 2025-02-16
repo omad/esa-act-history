@@ -9,15 +9,15 @@
     "longitude": "149.0724029541",
     "region": "act",
     "time_of_call": "16 Feb 2025 23:39:12",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "RUBBISH FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
     "location": "EASTERN VALLEY WAY, EMU BANK, BELCONNEN, 2617",
-    "updated": "16 Feb 2025 23:42:28"
+    "updated": "16 Feb 2025 23:57:45"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "16 Feb 2025 21:55:37"
+    "updated": "16 Feb 2025 23:54:50"
   },
   {
     "agency": "Ambulance",
@@ -107,25 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "16 Feb 2025 23:36:10"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PARKES",
-    "id": "010448-16022025",
-    "latitude": "-35.297058",
-    "longitude": "149.134319",
-    "region": "act",
-    "time_of_call": "16 Feb 2025 21:50:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PARKES",
-    "updated": "16 Feb 2025 23:23:51"
+    "updated": "16 Feb 2025 23:47:31"
   },
   {
     "agency": "Ambulance",
@@ -281,13 +263,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "16 Feb 2025 23:10:37",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "16 Feb 2025 23:13:59"
+    "updated": "16 Feb 2025 23:54:28"
   },
   {
     "agency": "Ambulance",
@@ -341,7 +323,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "16 Feb 2025 23:34:15"
+    "updated": "16 Feb 2025 23:51:32"
   },
   {
     "agency": "Ambulance",
@@ -353,13 +335,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "16 Feb 2025 23:36:17",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "16 Feb 2025 23:42:16"
+    "updated": "16 Feb 2025 23:53:49"
   },
   {
     "title": "Assist Queensland",
@@ -739,28 +721,6 @@
     "updated": "16 Feb 2025 21:40"
   },
   {
-    "title": "PARK RD, GOULBURN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589599",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.7621154789999",
-    "longitude": "149.728637695",
-    "region": "nsw",
-    "time_of_call": "16 Feb 2025 22:15:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "103 PARK RD, GOULBURN 2580",
-    "council_area": "Goulburn Mulwaree",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Feb 2025 22:15"
-  },
-  {
     "title": "NEWELL HWY, TOORAWEENAH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589600",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -801,5 +761,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Feb 2025 23:02"
+  },
+  {
+    "title": "FOREST RD, SPRING CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589603",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.332729339",
+    "longitude": "149.081283569",
+    "region": "nsw",
+    "time_of_call": "16 Feb 2025 23:41:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1319 FOREST RD, SPRING CREEK 2800",
+    "council_area": "Orange",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Feb 2025 23:41"
+  },
+  {
+    "title": "LEMON TREE PASSAGE RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589604",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.7787551879999",
+    "longitude": "151.929962158",
+    "region": "nsw",
+    "time_of_call": "16 Feb 2025 23:42:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "OLD WHARF PARK 224 LEMON TREE PASSAGE RD, SALT ASH 2318",
+    "council_area": "Port Stephens",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Feb 2025 23:42"
   }
 ]
