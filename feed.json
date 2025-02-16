@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "16 Feb 2025 22:06:59"
+    "updated": "16 Feb 2025 22:20:05"
   },
   {
     "agency": "Ambulance",
@@ -195,25 +195,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "16 Feb 2025 22:02:55"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "010445-16022025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "16 Feb 2025 21:40:52",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "16 Feb 2025 21:49:10"
+    "updated": "16 Feb 2025 22:28:10"
   },
   {
     "agency": "Ambulance",
@@ -261,13 +243,31 @@
     "longitude": "149.143165",
     "region": "act",
     "time_of_call": "16 Feb 2025 22:08:21",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONNER",
+    "updated": "16 Feb 2025 22:18:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONYTHON",
+    "id": "010451-16022025",
+    "latitude": "-35.435736",
+    "longitude": "149.081053",
+    "region": "act",
+    "time_of_call": "16 Feb 2025 22:23:59",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "BONNER",
-    "updated": "16 Feb 2025 22:10:42"
+    "location": "BONYTHON",
+    "updated": "16 Feb 2025 22:27:58"
   },
   {
     "title": "Assist Queensland",
@@ -519,7 +519,7 @@
     "latitude": "-35.8155555719999",
     "longitude": "146.153915405",
     "region": "nsw",
-    "time_of_call": "16 Feb 2025 20:37:00",
+    "time_of_call": "16 Feb 2025 22:24:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -531,7 +531,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2025 20:37"
+    "updated": "16 Feb 2025 22:24"
   },
   {
     "title": "FOXLOW PL, AIRDS",
@@ -698,9 +698,9 @@
     "latitude": "-34.7621154789999",
     "longitude": "149.728637695",
     "region": "nsw",
-    "time_of_call": "16 Feb 2025 21:58:00",
+    "time_of_call": "16 Feb 2025 22:15:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "103 PARK RD, GOULBURN 2580",
     "council_area": "Goulburn Mulwaree",
@@ -710,7 +710,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Feb 2025 21:58"
+    "updated": "16 Feb 2025 22:15"
   },
   {
     "title": "NEWELL HWY, TOORAWEENAH",
@@ -731,27 +731,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Feb 2025 22:08"
-  },
-  {
-    "title": "GREVILLEA PL, MUNDONGO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589601",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.296089173",
-    "longitude": "148.284515381",
-    "region": "nsw",
-    "time_of_call": "16 Feb 2025 22:14:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "13 GREVILLEA PL, MUNDONGO 2720",
-    "council_area": "Snowy Valleys",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2025 22:14"
   }
 ]
