@@ -161,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAJURA",
-    "updated": "16 Feb 2025 16:30:01"
+    "updated": "16 Feb 2025 16:45:58"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "16 Feb 2025 16:24:19"
+    "updated": "16 Feb 2025 16:34:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "010388-16022025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "16 Feb 2025 16:43:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "16 Feb 2025 16:44:55"
   },
   {
     "title": "Assist Queensland",
@@ -254,7 +272,7 @@
     "latitude": "-35.437927246",
     "longitude": "147.39024353",
     "region": "nsw",
-    "time_of_call": "15 Feb 2025 03:52:00",
+    "time_of_call": "16 Feb 2025 16:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -266,7 +284,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Feb 2025 03:52"
+    "updated": "16 Feb 2025 16:43"
   },
   {
     "title": "DIGGERS RD, FAIRHOLME",
@@ -358,31 +376,6 @@
     "updated": "15 Feb 2025 16:01"
   },
   {
-    "title": "RIDGELANDS RD, BUNNAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589471",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.0767211909999",
-    "longitude": "150.610488892",
-    "region": "nsw",
-    "time_of_call": "15 Feb 2025 18:09:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "2838 RIDGELANDS RD, BUNNAN 2337",
-    "council_area": "Upper Hunter",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "15 Feb 2025 18:09"
-  },
-  {
     "title": "GOLDEN HWY, ELONG ELONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589478",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -412,7 +405,7 @@
     "latitude": "-29.355321884",
     "longitude": "151.0574646",
     "region": "nsw",
-    "time_of_call": "15 Feb 2025 21:23:00",
+    "time_of_call": "16 Feb 2025 16:37:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -424,7 +417,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Feb 2025 21:23"
+    "updated": "16 Feb 2025 16:37"
   },
   {
     "title": "TOORAWEENAH RD, YARRAGRIN",
@@ -456,9 +449,9 @@
     "latitude": "-34.3079710009999",
     "longitude": "145.504503251",
     "region": "nsw",
-    "time_of_call": "16 Feb 2025 15:58:00",
+    "time_of_call": "16 Feb 2025 16:28:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -469,9 +462,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "120 ha",
+    "size": "80 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2025 15:58"
+    "updated": "16 Feb 2025 16:28"
   },
   {
     "title": "RENNIE RD, RENNIE",
@@ -499,53 +492,6 @@
     "updated": "16 Feb 2025 15:45"
   },
   {
-    "title": "MOUNT OUSLEY RD (NORTHBOUND)",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589560",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.335353851",
-    "longitude": "150.879989625",
-    "region": "nsw",
-    "time_of_call": "16 Feb 2025 16:23:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ET842 M1 MOUNT OUSLEY RD (NORTHBOUND), CATARACT 2560",
-    "council_area": "Wollongong",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2025 16:23"
-  },
-  {
-    "title": "Foxlow Pl, Airds",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589561",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.083268",
-    "longitude": "150.836997",
-    "region": "nsw",
-    "time_of_call": "16 Feb 2025 16:05:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Foxlow Pl, Airds, NSW 2560",
-    "council_area": "Campbelltown",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Feb 2025 16:05"
-  },
-  {
     "title": "THE LAKES WAY, MAYERS FLAT",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589562",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -553,9 +499,9 @@
     "latitude": "-32.396690368",
     "longitude": "152.311157226",
     "region": "nsw",
-    "time_of_call": "16 Feb 2025 16:24:00",
+    "time_of_call": "16 Feb 2025 16:26:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "THE LAKES WAY, MAYERS FLAT 2423",
     "council_area": "Mid-Coast",
@@ -565,7 +511,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2025 16:24"
+    "updated": "16 Feb 2025 16:26"
   },
   {
     "title": "DUNS CREEK RD, DUNS CREEK",
@@ -575,9 +521,9 @@
     "latitude": "-32.622333526",
     "longitude": "151.638336181",
     "region": "nsw",
-    "time_of_call": "16 Feb 2025 16:02:00",
+    "time_of_call": "16 Feb 2025 16:42:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "WURRUMBO 353 DUNS CREEK RD, DUNS CREEK 2321",
     "council_area": "Port Stephens",
@@ -587,7 +533,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2025 16:02"
+    "updated": "16 Feb 2025 16:42"
   },
   {
     "title": "FOXLOW PL, AIRDS",
@@ -597,9 +543,9 @@
     "latitude": "-34.08392334",
     "longitude": "150.8381958",
     "region": "nsw",
-    "time_of_call": "16 Feb 2025 16:20:00",
+    "time_of_call": "16 Feb 2025 16:43:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "FOXLOW PL, AIRDS 2560",
     "council_area": "Campbelltown",
@@ -609,31 +555,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Feb 2025 16:20"
+    "updated": "16 Feb 2025 16:43"
   },
   {
-    "title": "Pacific Hwy, Mcleods Shoot",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589566",
+    "title": "Donnelly St, Armidale",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589567",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-28.652927",
-    "longitude": "153.548073",
+    "latitude": "-30.5054069999999",
+    "longitude": "151.658975001",
     "region": "nsw",
-    "time_of_call": "16 Feb 2025 16:11:00",
+    "time_of_call": "16 Feb 2025 16:41:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "Pacific Hwy, Mcleods Shoot, NSW 2479",
-    "council_area": "Byron",
+    "location": "Donnelly St, Armidale, NSW 2350",
+    "council_area": "Armidale",
     "type": "Grass Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Feb 2025 16:11"
+    "updated": "16 Feb 2025 16:41"
   }
 ]
