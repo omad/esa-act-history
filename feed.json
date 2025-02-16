@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "RUBBISH FIRE - BELCONNEN",
-    "id": "003221-16022025",
-    "latitude": "-35.2396087646",
-    "longitude": "149.0724029541",
-    "region": "act",
-    "time_of_call": "16 Feb 2025 23:39:12",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "RUBBISH FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
-    "location": "EASTERN VALLEY WAY, EMU BANK, BELCONNEN, 2617",
-    "updated": "16 Feb 2025 23:57:45"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -149,24 +129,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PHILLIP",
-    "id": "010462-16022025",
-    "latitude": "-35.348136",
-    "longitude": "149.090018",
-    "region": "act",
-    "time_of_call": "16 Feb 2025 23:11:32",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PHILLIP",
-    "updated": "17 Feb 2025 00:48:21"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WESTON",
     "id": "010471-17022025",
     "latitude": "-35.335896",
@@ -179,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "17 Feb 2025 00:42:43"
+    "updated": "17 Feb 2025 01:19:27"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +159,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "17 Feb 2025 00:47:15"
+    "updated": "17 Feb 2025 01:05:53"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +213,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "17 Feb 2025 00:48:29"
+    "updated": "17 Feb 2025 01:07:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - OAKS ESTATE",
+    "id": "010480-17022025",
+    "latitude": "-35.341944",
+    "longitude": "149.228065",
+    "region": "act",
+    "time_of_call": "17 Feb 2025 01:08:12",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "OAKS ESTATE",
+    "updated": "17 Feb 2025 01:15:36"
   },
   {
     "title": "Assist Queensland",
@@ -648,45 +628,28 @@
     "updated": "17 Feb 2025 00:00"
   },
   {
-    "title": "MILLS RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589606",
+    "title": "Inch St, Lithgow",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589609",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.6976852409999",
-    "longitude": "150.9899292",
+    "latitude": "-33.476626",
+    "longitude": "150.167452",
     "region": "nsw",
-    "time_of_call": "17 Feb 2025 00:01:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "CARINYA HOUSE NURSING HOME 1A MILLS RD, GLENHAVEN 2156",
-    "council_area": "The Hills",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Feb 2025 00:01"
-  },
-  {
-    "title": "GREENFIELD RD, LENNOX HEAD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589607",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.7977371219999",
-    "longitude": "153.588058471",
-    "region": "nsw",
-    "time_of_call": "17 Feb 2025 00:35:00",
+    "time_of_call": "17 Feb 2025 01:13:00",
     "event_type": "burnt area",
     "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "GREENFIELD RD, LENNOX HEAD 2478",
-    "council_area": "Ballina",
-    "type": "Car Fire",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Inch St, Lithgow, NSW 2790",
+    "council_area": "Lithgow",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Feb 2025 00:35"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "17 Feb 2025 01:13"
   }
 ]
