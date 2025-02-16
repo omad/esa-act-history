@@ -107,7 +107,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "16 Feb 2025 23:19:39"
+    "updated": "17 Feb 2025 00:33:37"
   },
   {
     "agency": "Ambulance",
@@ -149,24 +149,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "010461-16022025",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "16 Feb 2025 23:10:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "16 Feb 2025 23:54:28"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PHILLIP",
     "id": "010462-16022025",
     "latitude": "-35.348136",
@@ -179,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "17 Feb 2025 00:26:54"
+    "updated": "17 Feb 2025 00:48:21"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "17 Feb 2025 00:01:35",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "17 Feb 2025 00:08:30"
+    "updated": "17 Feb 2025 00:42:43"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +191,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "17 Feb 2025 00:19:25",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "17 Feb 2025 00:30:58"
+    "updated": "17 Feb 2025 00:47:15"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +215,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "17 Feb 2025 00:32:41"
+    "updated": "17 Feb 2025 00:36:36"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "010476-17022025",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "17 Feb 2025 00:36:20",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TAYLOR",
+    "updated": "17 Feb 2025 00:42:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THROSBY",
+    "id": "010477-17022025",
+    "latitude": "-35.187595",
+    "longitude": "149.161141",
+    "region": "act",
+    "time_of_call": "17 Feb 2025 00:40:21",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THROSBY",
+    "updated": "17 Feb 2025 00:48:29"
   },
   {
     "title": "Assist Queensland",
@@ -588,31 +606,6 @@
     "updated": "16 Feb 2025 21:06"
   },
   {
-    "title": "Padman Dr, Albury",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589597",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.0820659999999",
-    "longitude": "146.90225",
-    "region": "nsw",
-    "time_of_call": "16 Feb 2025 21:40:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "823 Padman Dr, Albury, NSW 2640",
-    "council_area": "Albury",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Feb 2025 21:40"
-  },
-  {
     "title": "NEWELL HWY, TOORAWEENAH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589600",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -620,9 +613,9 @@
     "latitude": "-31.4662799829999",
     "longitude": "148.978088379",
     "region": "nsw",
-    "time_of_call": "16 Feb 2025 22:32:00",
+    "time_of_call": "17 Feb 2025 00:30:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "NEWELL HWY, TOORAWEENAH 2831",
     "council_area": "Gilgandra",
@@ -630,27 +623,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2025 22:32"
-  },
-  {
-    "title": "FOREST RD, SPRING CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589603",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.325843811",
-    "longitude": "149.08569336",
-    "region": "nsw",
-    "time_of_call": "17 Feb 2025 00:03:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "1319 FOREST RD, SPRING CREEK 2800",
-    "council_area": "Orange",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Feb 2025 00:03"
+    "updated": "17 Feb 2025 00:30"
   },
   {
     "title": "BRONZEWING PL, MURRAYS BEACH",
@@ -695,5 +668,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Feb 2025 00:01"
+  },
+  {
+    "title": "GREENFIELD RD, LENNOX HEAD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589607",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.7977371219999",
+    "longitude": "153.588058471",
+    "region": "nsw",
+    "time_of_call": "17 Feb 2025 00:35:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "GREENFIELD RD, LENNOX HEAD 2478",
+    "council_area": "Ballina",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Feb 2025 00:35"
   }
 ]
