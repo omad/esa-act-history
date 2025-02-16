@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "17 Feb 2025 10:07:01"
+    "updated": "17 Feb 2025 10:20:17"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "17 Feb 2025 10:04:38"
+    "updated": "17 Feb 2025 10:23:50"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +209,13 @@
     "longitude": "149.150123",
     "region": "act",
     "time_of_call": "17 Feb 2025 09:56:21",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "RUSSELL",
-    "updated": "17 Feb 2025 09:58:19"
+    "updated": "17 Feb 2025 10:28:52"
   },
   {
     "agency": "Ambulance",
@@ -227,13 +227,49 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "17 Feb 2025 10:09:14",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "17 Feb 2025 10:12:05"
+    "updated": "17 Feb 2025 10:22:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HAWKER",
+    "id": "010541-17022025",
+    "latitude": "-35.246757",
+    "longitude": "149.03611",
+    "region": "act",
+    "time_of_call": "17 Feb 2025 10:21:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HAWKER",
+    "updated": "17 Feb 2025 10:25:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FADDEN",
+    "id": "010542-17022025",
+    "latitude": "-35.402396",
+    "longitude": "149.118589",
+    "region": "act",
+    "time_of_call": "17 Feb 2025 10:23:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FADDEN",
+    "updated": "17 Feb 2025 10:27:44"
   },
   {
     "title": "Assist Queensland",
@@ -366,28 +402,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Feb 2025 04:01"
-  },
-  {
-    "title": "GOLDEN HWY, ELONG ELONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589478",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.088859559",
-    "longitude": "149.159667969",
-    "region": "nsw",
-    "time_of_call": "16 Feb 2025 14:01:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "KARULA 2950 GOLDEN HWY, ELONG ELONG 2831",
-    "council_area": "Warrumbungle",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2025 14:01"
   },
   {
     "title": "ASHFORD RD, ASHFORD NSW",
