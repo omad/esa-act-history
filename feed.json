@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire - Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - KALEEN",
-    "id": "003318-19022025",
-    "latitude": "-35.219633",
-    "longitude": "149.119",
-    "region": "act",
-    "time_of_call": "19 Feb 2025 08:45:56",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "BARTON HIGHWAY, BELLENDEN STREET, KALEEN, 2617",
-    "updated": "19 Feb 2025 09:46:01"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -35,7 +15,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "19 Feb 2025 09:46:16"
+    "updated": "19 Feb 2025 10:44:54"
   },
   {
     "agency": "Ambulance",
@@ -54,6 +34,26 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
     "updated": "19 Feb 2025 09:47:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - KALEEN",
+    "id": "011002-19022025",
+    "latitude": "-35.219633",
+    "longitude": "149.119",
+    "region": "act",
+    "time_of_call": "19 Feb 2025 08:45:55",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "",
+    "location": "BARTON HIGHWAY, BELLENDEN STREET, KALEEN, 2617",
+    "updated": "19 Feb 2025 10:02:20"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "19 Feb 2025 10:26:34"
+    "updated": "19 Feb 2025 10:33:10"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "19 Feb 2025 10:18:20"
+    "updated": "19 Feb 2025 10:46:18"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAJURA",
-    "updated": "19 Feb 2025 10:07:22"
+    "updated": "19 Feb 2025 10:32:03"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,49 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "19 Feb 2025 10:26:39",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "19 Feb 2025 10:35:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "011020-19022025",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "19 Feb 2025 10:39:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "19 Feb 2025 10:43:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ACTON",
+    "id": "011021-19022025",
+    "latitude": "-35.289989",
+    "longitude": "149.115669",
+    "region": "act",
+    "time_of_call": "19 Feb 2025 10:44:05",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "19 Feb 2025 10:27:36"
+    "location": "ACTON",
+    "updated": "19 Feb 2025 10:46:56"
   },
   {
     "title": "Assist Queensland",
@@ -454,7 +490,7 @@
     "latitude": "-33.7944488529999",
     "longitude": "150.730346679",
     "region": "nsw",
-    "time_of_call": "18 Feb 2025 12:16:00",
+    "time_of_call": "19 Feb 2025 10:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -466,7 +502,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Feb 2025 12:16"
+    "updated": "19 Feb 2025 10:30"
   },
   {
     "title": "Stace West HR",
@@ -724,8 +760,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589838",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.115474701",
-    "longitude": "150.085983276",
+    "latitude": "-35.115379334",
+    "longitude": "150.086547851",
     "region": "nsw",
     "time_of_call": "19 Feb 2025 09:48:00",
     "event_type": "burnt area",
@@ -762,5 +798,47 @@
     "size": "10 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "19 Feb 2025 10:03"
+  },
+  {
+    "title": "MOUNT DEE RD, MOUNT DEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589840",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.738838196",
+    "longitude": "151.539550781",
+    "region": "nsw",
+    "time_of_call": "19 Feb 2025 10:31:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MOUNT DEE RD, MOUNT DEE 2320",
+    "council_area": "Maitland",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Feb 2025 10:31"
+  },
+  {
+    "title": "MULGOA RD, WALLACIA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589841",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.865161895",
+    "longitude": "150.640411377",
+    "region": "nsw",
+    "time_of_call": "19 Feb 2025 10:40:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MULGOA RD, WALLACIA 2745",
+    "council_area": "Penrith",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Feb 2025 10:40"
   }
 ]
