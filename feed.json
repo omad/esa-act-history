@@ -21,42 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "010842-18022025",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "18 Feb 2025 14:39:27",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "18 Feb 2025 17:25:06"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - EVATT",
-    "id": "010845-18022025",
-    "latitude": "-35.212001",
-    "longitude": "149.066294",
-    "region": "act",
-    "time_of_call": "18 Feb 2025 14:45:27",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "EVATT",
-    "updated": "18 Feb 2025 16:22:21"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GORDON",
     "id": "010855-18022025",
     "latitude": "-35.459685",
@@ -106,24 +70,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "18 Feb 2025 17:30:01"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CALWELL",
-    "id": "010859-18022025",
-    "latitude": "-35.441132",
-    "longitude": "149.107648",
-    "region": "act",
-    "time_of_call": "18 Feb 2025 16:04:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CALWELL",
-    "updated": "18 Feb 2025 16:53:53"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +159,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FYSHWICK",
-    "updated": "18 Feb 2025 17:20:24"
+    "updated": "18 Feb 2025 17:42:03"
   },
   {
     "agency": "Ambulance",
@@ -249,7 +195,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
-    "updated": "18 Feb 2025 17:22:41"
+    "updated": "18 Feb 2025 17:48:32"
   },
   {
     "agency": "Ambulance",
@@ -285,7 +231,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "18 Feb 2025 17:26:17"
+    "updated": "18 Feb 2025 17:48:46"
   },
   {
     "agency": "Ambulance",
@@ -297,13 +243,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "18 Feb 2025 17:25:37",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "18 Feb 2025 17:30:07"
+    "updated": "18 Feb 2025 17:36:41"
   },
   {
     "agency": "Ambulance",
@@ -340,6 +286,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
     "updated": "18 Feb 2025 17:31:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "010877-18022025",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "18 Feb 2025 17:41:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "18 Feb 2025 17:47:00"
   },
   {
     "title": "Assist Queensland",
@@ -767,9 +731,9 @@
     "latitude": "-30.411073684",
     "longitude": "151.438339234",
     "region": "nsw",
-    "time_of_call": "18 Feb 2025 14:28:00",
+    "time_of_call": "18 Feb 2025 14:58:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -780,9 +744,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "60 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Feb 2025 14:28"
+    "updated": "18 Feb 2025 14:58"
   },
   {
     "title": "MONUMENT RD",
@@ -928,9 +892,9 @@
     "latitude": "-32.730085",
     "longitude": "151.532933",
     "region": "nsw",
-    "time_of_call": "18 Feb 2025 17:12:00",
+    "time_of_call": "18 Feb 2025 17:35:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -943,7 +907,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "18 Feb 2025 17:12"
+    "updated": "18 Feb 2025 17:35"
   },
   {
     "title": "(PACIFIC MTWY), KANGY ANGY",
@@ -966,5 +930,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Feb 2025 17:24"
+  },
+  {
+    "title": "PACIFIC MTWY (SOUTHBOUND)",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589783",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.242465973",
+    "longitude": "151.410202026",
+    "region": "nsw",
+    "time_of_call": "18 Feb 2025 17:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ET536 M1 PACIFIC MTWY (SOUTHBOUND), WARNERVALE 2259",
+    "council_area": "Central Coast",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Feb 2025 17:32"
+  },
+  {
+    "title": "Everglades Cr, Woy Woy",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589784",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.498927",
+    "longitude": "151.314601999",
+    "region": "nsw",
+    "time_of_call": "18 Feb 2025 17:43:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Everglades Cr, Woy Woy, NSW 2256",
+    "council_area": "Central Coast",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "18 Feb 2025 17:43"
   }
 ]
