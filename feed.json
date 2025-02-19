@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "010969-19022025",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
-    "region": "act",
-    "time_of_call": "19 Feb 2025 03:38:39",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "19 Feb 2025 10:44:54"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CURTIN",
     "id": "011078-19022025",
     "latitude": "-35.326585",
@@ -51,7 +33,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "19 Feb 2025 20:31:19"
+    "updated": "19 Feb 2025 20:37:08"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +213,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "19 Feb 2025 19:59:03"
+    "updated": "19 Feb 2025 20:38:40"
   },
   {
     "agency": "Ambulance",
@@ -267,7 +249,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "19 Feb 2025 20:33:25"
+    "updated": "19 Feb 2025 20:44:44"
   },
   {
     "agency": "Ambulance",
@@ -315,13 +297,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "19 Feb 2025 20:20:50",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "19 Feb 2025 20:25:18"
+    "updated": "19 Feb 2025 20:43:40"
   },
   {
     "agency": "Ambulance",
@@ -340,6 +322,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
     "updated": "19 Feb 2025 20:27:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHIFLEY",
+    "id": "011145-19022025",
+    "latitude": "-35.351526",
+    "longitude": "149.076955",
+    "region": "act",
+    "time_of_call": "19 Feb 2025 20:37:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHIFLEY",
+    "updated": "19 Feb 2025 20:43:54"
   },
   {
     "title": "Assist Queensland",
@@ -915,25 +915,45 @@
     "updated": "19 Feb 2025 18:56"
   },
   {
-    "title": "SKYLINE PL, BONNY HILLS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589896",
+    "title": "PRINCES HWY, TIMBILLICA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_589898",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.599319458",
-    "longitude": "152.842956543",
+    "latitude": "-37.3040847779999",
+    "longitude": "149.768051147",
     "region": "nsw",
-    "time_of_call": "19 Feb 2025 19:54:00",
+    "time_of_call": "19 Feb 2025 20:18:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "SKYLINE PL, BONNY HILLS 2445",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "Grass Fire",
+    "location": "PRINCES HWY, TIMBILLICA 2551",
+    "council_area": "Bega Valley",
+    "type": "MVA/Transport",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Feb 2025 19:54"
+    "updated": "19 Feb 2025 20:18"
+  },
+  {
+    "title": "MENINDEE AERODROME RD, MENINDEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_590886",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.3633804319999",
+    "longitude": "142.409103394",
+    "region": "nsw",
+    "time_of_call": "19 Feb 2025 20:43:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "MENINDEE AERODROME RD, MENINDEE 2879",
+    "council_area": "Central Darling",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Feb 2025 20:43"
   }
 ]
