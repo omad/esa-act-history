@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "20 Feb 2025 17:19:10"
+    "updated": "20 Feb 2025 17:42:51"
   },
   {
     "agency": "Ambulance",
@@ -75,24 +75,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - REID",
-    "id": "011329-20022025",
-    "latitude": "-35.281706",
-    "longitude": "149.140719",
-    "region": "act",
-    "time_of_call": "20 Feb 2025 16:32:24",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "REID",
-    "updated": "20 Feb 2025 16:53:49"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - LYNEHAM",
     "id": "011331-20022025",
     "latitude": "-35.238929",
@@ -123,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "20 Feb 2025 17:06:58"
+    "updated": "20 Feb 2025 17:38:05"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +213,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "20 Feb 2025 17:24:45"
+    "updated": "20 Feb 2025 17:47:54"
   },
   {
     "agency": "Ambulance",
@@ -249,7 +231,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "20 Feb 2025 17:20:40"
+    "updated": "20 Feb 2025 17:44:40"
   },
   {
     "agency": "Ambulance",
@@ -303,7 +285,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "20 Feb 2025 17:31:42"
+    "updated": "20 Feb 2025 17:33:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "011344-20022025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "20 Feb 2025 17:44:09",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "20 Feb 2025 17:47:01"
   },
   {
     "title": "Assist Queensland",
@@ -759,5 +759,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Feb 2025 16:51"
+  },
+  {
+    "title": "AVONDALE RD, HUNTLEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_590972",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.508205414",
+    "longitude": "150.728454589",
+    "region": "nsw",
+    "time_of_call": "20 Feb 2025 17:41:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "576-578 AVONDALE RD, HUNTLEY 2530",
+    "council_area": "Wollongong",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Feb 2025 17:41"
+  },
+  {
+    "title": "RANGARI RD, BOGGABRI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_590973",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.6759872439999",
+    "longitude": "150.119033814",
+    "region": "nsw",
+    "time_of_call": "20 Feb 2025 17:43:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "RANGARI RD, BOGGABRI 2382",
+    "council_area": "Narrabri",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Feb 2025 17:43"
   }
 ]
