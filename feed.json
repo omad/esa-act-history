@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "20 Feb 2025 16:28:52"
+    "updated": "20 Feb 2025 16:43:52"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "20 Feb 2025 16:26:15"
+    "updated": "20 Feb 2025 16:40:03"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,49 @@
     "longitude": "149.140719",
     "region": "act",
     "time_of_call": "20 Feb 2025 16:32:24",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "REID",
+    "updated": "20 Feb 2025 16:37:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "011331-20022025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "20 Feb 2025 16:42:49",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "20 Feb 2025 16:47:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "011332-20022025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "20 Feb 2025 16:47:54",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "REID",
-    "updated": "20 Feb 2025 16:34:48"
+    "location": "LYNEHAM",
+    "updated": "20 Feb 2025 16:48:37"
   },
   {
     "title": "Assist Queensland",
@@ -561,38 +597,16 @@
     "updated": "20 Feb 2025 09:51"
   },
   {
-    "title": "BELLS OF ROAD LINE, BELL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_590954",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.5141601559999",
-    "longitude": "150.290054321",
-    "region": "nsw",
-    "time_of_call": "20 Feb 2025 15:12:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "BELLS OF ROAD LINE, BELL 2786",
-    "council_area": "Blue Mountains",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Feb 2025 15:12"
-  },
-  {
     "title": "KYOGLE RD, CAWONGLA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_590966",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-28.5949592589999",
-    "longitude": "153.077255249",
+    "latitude": "-28.59584999",
+    "longitude": "153.087692261",
     "region": "nsw",
-    "time_of_call": "20 Feb 2025 16:06:00",
+    "time_of_call": "20 Feb 2025 16:35:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "KYOGLE RD, CAWONGLA 2474",
     "council_area": "Kyogle",
@@ -602,28 +616,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Feb 2025 16:06"
-  },
-  {
-    "title": "FRATERS SPEEDWAY, GROGAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_590967",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.25352478",
-    "longitude": "147.695724487",
-    "region": "nsw",
-    "time_of_call": "20 Feb 2025 16:24:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "121 FRATERS SPEEDWAY, GROGAN 2666",
-    "council_area": "Temora",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Feb 2025 16:24"
+    "updated": "20 Feb 2025 16:35"
   }
 ]
