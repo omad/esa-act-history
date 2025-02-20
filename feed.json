@@ -27,13 +27,31 @@
     "longitude": "149.100249",
     "region": "act",
     "time_of_call": "21 Feb 2025 07:13:03",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BANKS",
+    "updated": "21 Feb 2025 07:34:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHARNWOOD",
+    "id": "011439-21022025",
+    "latitude": "-35.200338",
+    "longitude": "149.036735",
+    "region": "act",
+    "time_of_call": "21 Feb 2025 07:30:15",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "BANKS",
-    "updated": "21 Feb 2025 07:19:11"
+    "location": "CHARNWOOD",
+    "updated": "21 Feb 2025 07:35:57"
   },
   {
     "title": "Assist Queensland",
@@ -403,27 +421,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Feb 2025 06:58"
-  },
-  {
-    "title": "(PACIFIC MTWY), BAR POINT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591000",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.502780914",
-    "longitude": "151.189804077",
-    "region": "nsw",
-    "time_of_call": "21 Feb 2025 07:08:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "M1 (PACIFIC MTWY), BAR POINT 2083",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "21 Feb 2025 07:08"
   }
 ]
