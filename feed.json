@@ -20,44 +20,6 @@
     "updated": "21 Feb 2025 11:04:15"
   },
   {
-    "agency": "Fire - Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - GARRAN",
-    "id": "003446-22022025",
-    "latitude": "-35.3454933167",
-    "longitude": "149.1116790771",
-    "region": "act",
-    "time_of_call": "22 Feb 2025 01:54:51",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "HINDMARSH DRIVE, YAMBA DRIVE, GARRAN, 2605",
-    "updated": "22 Feb 2025 02:25:08"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "011573-21022025",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "21 Feb 2025 20:09:48",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "22 Feb 2025 01:06:31"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -97,19 +59,21 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CALWELL",
-    "id": "011627-22022025",
-    "latitude": "-35.441132",
-    "longitude": "149.107648",
+    "title": "MOTOR VEHICLE ACCIDENT - GARRAN",
+    "id": "011630-22022025",
+    "latitude": "-35.3454933167",
+    "longitude": "149.1116790771",
     "region": "act",
-    "time_of_call": "22 Feb 2025 01:31:12",
-    "status": "On Scene",
+    "time_of_call": "22 Feb 2025 01:54:51",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CALWELL",
-    "updated": "22 Feb 2025 01:42:29"
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "",
+    "location": "HINDMARSH DRIVE, YAMBA DRIVE, GARRAN, 2605",
+    "updated": "22 Feb 2025 02:55:24"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +91,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "22 Feb 2025 02:48:33"
+    "updated": "22 Feb 2025 03:26:45"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "22 Feb 2025 02:32:36"
+    "updated": "22 Feb 2025 02:55:07"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "22 Feb 2025 02:48:41"
+    "updated": "22 Feb 2025 03:21:03"
   },
   {
     "agency": "Ambulance",
@@ -182,6 +146,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
     "updated": "22 Feb 2025 02:44:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ACTON",
+    "id": "011642-22022025",
+    "latitude": "-35.289989",
+    "longitude": "149.115669",
+    "region": "act",
+    "time_of_call": "22 Feb 2025 03:18:41",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ACTON",
+    "updated": "22 Feb 2025 03:24:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BANKS",
+    "id": "011643-22022025",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
+    "region": "act",
+    "time_of_call": "22 Feb 2025 03:23:16",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BANKS",
+    "updated": "22 Feb 2025 03:26:46"
   },
   {
     "title": "Assist Queensland",
@@ -689,5 +689,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Feb 2025 01:35"
+  },
+  {
+    "title": "CHELMSFORD RD, CHARMHAVEN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591097",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.237594605",
+    "longitude": "151.492172242",
+    "region": "nsw",
+    "time_of_call": "22 Feb 2025 03:07:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "CHELMSFORD RD, CHARMHAVEN 2263",
+    "council_area": "Central Coast",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Feb 2025 03:07"
   }
 ]
