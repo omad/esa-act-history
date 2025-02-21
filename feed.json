@@ -47,13 +47,13 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "22 Feb 2025 02:06:06",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "22 Feb 2025 03:26:45"
+    "updated": "22 Feb 2025 04:01:57"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "22 Feb 2025 03:21:03"
+    "updated": "22 Feb 2025 03:52:32"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
-    "updated": "22 Feb 2025 03:48:18"
+    "updated": "22 Feb 2025 03:55:30"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "22 Feb 2025 03:39:04"
+    "updated": "22 Feb 2025 04:03:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "011646-22022025",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "22 Feb 2025 04:05:33",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GRIFFITH",
+    "updated": "22 Feb 2025 04:12:41"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "011647-22022025",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "22 Feb 2025 04:19:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "22 Feb 2025 04:19:38"
   },
   {
     "title": "Assist Queensland",
@@ -617,38 +653,16 @@
     "updated": "22 Feb 2025 01:35"
   },
   {
-    "title": "CHELMSFORD RD, CHARMHAVEN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591097",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.237594605",
-    "longitude": "151.492172242",
-    "region": "nsw",
-    "time_of_call": "22 Feb 2025 03:44:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "CHELMSFORD RD, CHARMHAVEN 2263",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Feb 2025 03:44"
-  },
-  {
     "title": "ELIZABETH BAY DR, BUDGEWOI PENINSULA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591098",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.230407715",
-    "longitude": "151.57321167",
+    "latitude": "-33.2123527529999",
+    "longitude": "151.585479736",
     "region": "nsw",
-    "time_of_call": "22 Feb 2025 03:40:00",
+    "time_of_call": "22 Feb 2025 03:57:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "ELIZABETH BAY DR, BUDGEWOI PENINSULA 2262",
     "council_area": "Central Coast",
@@ -658,6 +672,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Feb 2025 03:40"
+    "updated": "22 Feb 2025 03:57"
+  },
+  {
+    "title": "WALMSLEY RD, BEXHILL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591099",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.751981735",
+    "longitude": "153.382507324",
+    "region": "nsw",
+    "time_of_call": "22 Feb 2025 04:01:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "47A WALMSLEY RD, BEXHILL 2480",
+    "council_area": "Lismore",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Feb 2025 04:01"
   }
 ]
