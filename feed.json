@@ -59,24 +59,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LATHAM",
-    "id": "011616-22022025",
-    "latitude": "-35.217781",
-    "longitude": "149.034875",
-    "region": "act",
-    "time_of_call": "22 Feb 2025 00:20:52",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LATHAM",
-    "updated": "22 Feb 2025 01:07:45"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BELCONNEN",
     "id": "011617-22022025",
     "latitude": "-35.235936",
@@ -89,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "22 Feb 2025 01:18:50"
+    "updated": "22 Feb 2025 01:34:30"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "22 Feb 2025 00:57:51"
+    "updated": "22 Feb 2025 01:28:21"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "22 Feb 2025 01:08:58"
+    "updated": "22 Feb 2025 01:22:18"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +155,31 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "22 Feb 2025 01:08:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "22 Feb 2025 01:15:56"
+    "updated": "22 Feb 2025 01:25:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "011627-22022025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "22 Feb 2025 01:31:12",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "22 Feb 2025 01:33:23"
   },
   {
     "title": "Assist Queensland",
@@ -652,9 +652,9 @@
     "latitude": "-32.6887435909999",
     "longitude": "151.365280152",
     "region": "nsw",
-    "time_of_call": "22 Feb 2025 01:04:00",
+    "time_of_call": "22 Feb 2025 01:24:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "234 TUCKERS LANE, NORTH ROTHBURY 2335",
     "council_area": "Cessnock",
@@ -664,7 +664,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Feb 2025 01:04"
+    "updated": "22 Feb 2025 01:24"
   },
   {
     "title": "SKYLINE RD, MONALTRIE",
@@ -696,9 +696,9 @@
     "latitude": "-32.849498749",
     "longitude": "151.320648194",
     "region": "nsw",
-    "time_of_call": "22 Feb 2025 01:11:00",
+    "time_of_call": "22 Feb 2025 01:29:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "11 WILDFLOWER CCT, BELLBIRD 2325",
     "council_area": "Cessnock",
@@ -708,6 +708,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Feb 2025 01:11"
+    "updated": "22 Feb 2025 01:29"
   }
 ]
