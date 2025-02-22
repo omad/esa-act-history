@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "GECKO WAY, HORSE PARK DRIVE, THROSBY, 2914",
-    "updated": "23 Feb 2025 09:19:33"
+    "updated": "23 Feb 2025 09:30:40"
   },
   {
     "agency": "Fire",
@@ -67,13 +67,13 @@
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "23 Feb 2025 08:03:34",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "23 Feb 2025 09:12:26"
+    "updated": "23 Feb 2025 09:23:28"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +139,13 @@
     "longitude": "149.046603",
     "region": "act",
     "time_of_call": "23 Feb 2025 08:32:30",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "23 Feb 2025 09:13:21"
+    "updated": "23 Feb 2025 09:24:18"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "23 Feb 2025 09:17:17"
+    "updated": "23 Feb 2025 09:28:02"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +193,13 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "23 Feb 2025 09:10:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "23 Feb 2025 09:17:05"
+    "updated": "23 Feb 2025 09:22:10"
   },
   {
     "agency": "Ambulance",
@@ -218,6 +218,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
     "updated": "23 Feb 2025 09:19:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "011931-23022025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "23 Feb 2025 09:21:57",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "23 Feb 2025 09:31:36"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "011932-23022025",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "23 Feb 2025 09:23:24",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "23 Feb 2025 09:28:19"
   },
   {
     "title": "Assist Queensland",
@@ -513,9 +549,9 @@
     "latitude": "-29.2354164129999",
     "longitude": "151.51385498",
     "region": "nsw",
-    "time_of_call": "23 Feb 2025 06:24:00",
+    "time_of_call": "23 Feb 2025 09:17:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -528,7 +564,7 @@
     "fire": "Yes",
     "size": "12 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "23 Feb 2025 06:24"
+    "updated": "23 Feb 2025 09:17"
   },
   {
     "title": "WOOYUNG RD, CRABBES CREEK",
@@ -715,28 +751,6 @@
     "updated": "23 Feb 2025 04:54"
   },
   {
-    "title": "LISMORE RD, NASHUA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591217",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.715982437",
-    "longitude": "153.477035522",
-    "region": "nsw",
-    "time_of_call": "23 Feb 2025 08:05:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "LISMORE RD, NASHUA 2479",
-    "council_area": "Byron",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Feb 2025 08:05"
-  },
-  {
     "title": "GREENWELL POINT RD, GREENWELL POINT",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591220",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -755,31 +769,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Feb 2025 08:37"
-  },
-  {
-    "title": "NEWELL HWY, MOREE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591221",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.4207153319999",
-    "longitude": "149.903656006",
-    "region": "nsw",
-    "time_of_call": "23 Feb 2025 09:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "23011 NEWELL HWY, MOREE 2400",
-    "council_area": "Moree Plains",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Feb 2025 09:07"
   },
   {
     "title": "MARTIN LUTHER PL, ALLAMBIE HEIGHTS",
