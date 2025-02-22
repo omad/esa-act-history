@@ -35,25 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "22 Feb 2025 14:37:33"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHISHOLM",
-    "id": "011736-22022025",
-    "latitude": "-35.422993",
-    "longitude": "149.12793",
-    "region": "act",
-    "time_of_call": "22 Feb 2025 12:39:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHISHOLM",
-    "updated": "22 Feb 2025 13:47:45"
+    "updated": "22 Feb 2025 14:46:20"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +71,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "22 Feb 2025 13:21:49"
+    "updated": "22 Feb 2025 14:44:49"
   },
   {
     "agency": "Ambulance",
@@ -131,24 +113,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WARAMANGA",
-    "id": "011752-22022025",
-    "latitude": "-35.353501",
-    "longitude": "149.06067",
-    "region": "act",
-    "time_of_call": "22 Feb 2025 14:02:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WARAMANGA",
-    "updated": "22 Feb 2025 14:20:32"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - LAWSON",
     "id": "011754-22022025",
     "latitude": "-35.225525",
@@ -179,25 +143,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "22 Feb 2025 14:12:48"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CURTIN",
-    "id": "011759-22022025",
-    "latitude": "-35.326585",
-    "longitude": "149.076856",
-    "region": "act",
-    "time_of_call": "22 Feb 2025 14:20:48",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CURTIN",
-    "updated": "22 Feb 2025 14:36:30"
+    "updated": "22 Feb 2025 14:43:33"
   },
   {
     "agency": "Ambulance",
@@ -227,13 +173,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "22 Feb 2025 14:27:10",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "22 Feb 2025 14:33:37"
+    "updated": "22 Feb 2025 14:44:02"
   },
   {
     "agency": "Ambulance",
@@ -245,13 +191,13 @@
     "longitude": "149.088064",
     "region": "act",
     "time_of_call": "22 Feb 2025 14:33:31",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "22 Feb 2025 14:37:39"
+    "updated": "22 Feb 2025 14:41:27"
   },
   {
     "title": "Assist Queensland",
@@ -794,10 +740,13 @@
     "latitude": "-35.4340057379999",
     "longitude": "143.865005493",
     "region": "nsw",
-    "time_of_call": "22 Feb 2025 14:14:00",
+    "time_of_call": "22 Feb 2025 14:39:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "1383 COBRAMUNGA RD, COBRAMUNGA 2732",
     "council_area": "Murray River",
     "type": "Grass Fire",
@@ -806,7 +755,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Feb 2025 14:14"
+    "updated": "22 Feb 2025 14:39"
   },
   {
     "title": "NEW ENGLAND HWY",
@@ -829,5 +778,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Feb 2025 14:35"
+  },
+  {
+    "title": "Memorial Av, Ingleburn",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591140",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.9939859999999",
+    "longitude": "150.863796",
+    "region": "nsw",
+    "time_of_call": "22 Feb 2025 14:39:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Memorial Av, Ingleburn, NSW 2565",
+    "council_area": "Campbelltown",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "22 Feb 2025 14:39"
   }
 ]
