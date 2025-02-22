@@ -115,24 +115,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRUCE",
-    "id": "011822-22022025",
-    "latitude": "-35.242777",
-    "longitude": "149.096998",
-    "region": "act",
-    "time_of_call": "22 Feb 2025 20:36:14",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BRUCE",
-    "updated": "22 Feb 2025 20:57:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DUFFY",
     "id": "011823-22022025",
     "latitude": "-35.336273",
@@ -145,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "22 Feb 2025 21:33:30"
+    "updated": "22 Feb 2025 21:46:07"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "22 Feb 2025 21:33:14"
+    "updated": "22 Feb 2025 21:42:31"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "22 Feb 2025 21:30:48"
+    "updated": "22 Feb 2025 21:39:49"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "22 Feb 2025 21:19:58"
+    "updated": "22 Feb 2025 21:42:58"
   },
   {
     "agency": "Ambulance",
@@ -229,13 +211,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "22 Feb 2025 21:29:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "22 Feb 2025 21:37:28"
+    "updated": "22 Feb 2025 21:39:46"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +229,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "22 Feb 2025 21:29:57",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "22 Feb 2025 21:31:32"
+    "updated": "22 Feb 2025 21:47:35"
   },
   {
     "title": "Assist Queensland",
@@ -775,9 +757,9 @@
     "latitude": "-30.642528534",
     "longitude": "151.47203064",
     "region": "nsw",
-    "time_of_call": "22 Feb 2025 20:55:00",
+    "time_of_call": "22 Feb 2025 21:36:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "176 KINGSTOWN RD, URALLA 2358",
     "council_area": "Uralla",
@@ -787,7 +769,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Feb 2025 20:55"
+    "updated": "22 Feb 2025 21:36"
   },
   {
     "title": "WEIR RD, BOURKE",
@@ -819,9 +801,9 @@
     "latitude": "-32.8260078439999",
     "longitude": "151.378219605",
     "region": "nsw",
-    "time_of_call": "22 Feb 2025 21:15:00",
+    "time_of_call": "22 Feb 2025 21:42:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "QUARRY ST, CESSNOCK 2325",
     "council_area": "Cessnock",
@@ -829,7 +811,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Feb 2025 21:15"
+    "updated": "22 Feb 2025 21:42"
   },
   {
     "title": "BIG ROCKY TRL, ONE MILE",
@@ -876,6 +858,28 @@
     "updated": "22 Feb 2025 21:19"
   },
   {
+    "title": "NEW ENGLAND HWY, WHITTINGHAM",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591184",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.586002349",
+    "longitude": "151.192932129",
+    "region": "nsw",
+    "time_of_call": "22 Feb 2025 21:40:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "4294 NEW ENGLAND HWY, WHITTINGHAM 2330",
+    "council_area": "Singleton",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Feb 2025 21:40"
+  },
+  {
     "title": "Macquarie St, Dubbo",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591185",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -883,9 +887,9 @@
     "latitude": "-32.265933",
     "longitude": "148.603247",
     "region": "nsw",
-    "time_of_call": "22 Feb 2025 21:37:00",
+    "time_of_call": "22 Feb 2025 21:44:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -898,6 +902,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Feb 2025 21:37"
+    "updated": "22 Feb 2025 21:44"
   }
 ]
