@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "011839-22022025",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
-    "region": "act",
-    "time_of_call": "22 Feb 2025 22:36:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "22 Feb 2025 23:30:44"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DENMAN PROSPECT",
     "id": "011841-22022025",
     "latitude": "-35.303694",
@@ -145,7 +127,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "23 Feb 2025 00:14:54"
+    "updated": "23 Feb 2025 00:30:32"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "23 Feb 2025 00:15:25"
+    "updated": "23 Feb 2025 00:27:55"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +217,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "23 Feb 2025 00:03:56"
+    "updated": "23 Feb 2025 00:23:08"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +235,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
-    "updated": "23 Feb 2025 00:21:18"
+    "updated": "23 Feb 2025 00:29:31"
   },
   {
     "agency": "Ambulance",
@@ -307,7 +289,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "23 Feb 2025 00:22:54"
+    "updated": "23 Feb 2025 00:26:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RIVETT",
+    "id": "011863-23022025",
+    "latitude": "-35.346479",
+    "longitude": "149.039315",
+    "region": "act",
+    "time_of_call": "23 Feb 2025 00:24:34",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RIVETT",
+    "updated": "23 Feb 2025 00:28:09"
   },
   {
     "title": "Assist Queensland",
@@ -792,9 +792,9 @@
     "latitude": "-33.174617767",
     "longitude": "151.467056274",
     "region": "nsw",
-    "time_of_call": "22 Feb 2025 23:49:00",
+    "time_of_call": "23 Feb 2025 00:26:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "ET558 M1 PACIFIC MTWY (SOUTHBOUND), WYEE 2259",
     "council_area": "Lake Macquarie",
@@ -802,15 +802,15 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Feb 2025 23:49"
+    "updated": "23 Feb 2025 00:26"
   },
   {
     "title": "CAMP RD, GRETA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591197",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.70469284",
-    "longitude": "151.384567261",
+    "latitude": "-32.710365295",
+    "longitude": "151.383087158",
     "region": "nsw",
     "time_of_call": "22 Feb 2025 23:51:00",
     "event_type": "burnt area",
@@ -845,5 +845,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Feb 2025 00:04"
+  },
+  {
+    "title": "HINDMARSH RD, NUNDERI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591202",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.32759285",
+    "longitude": "153.462722778",
+    "region": "nsw",
+    "time_of_call": "23 Feb 2025 00:23:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "47 HINDMARSH RD, NUNDERI 2484",
+    "council_area": "Tweed",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Feb 2025 00:23"
   }
 ]
