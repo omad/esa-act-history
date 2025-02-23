@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "MATINA STREET, NARRABUNDAH, 2604",
-    "updated": "24 Feb 2025 01:43:12"
+    "updated": "24 Feb 2025 02:03:37"
   },
   {
     "agency": "Fire",
@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "HINDMARSH DRIVE, MONARO HIGHWAY ON RAMP, NARRABUNDAH, 2604",
-    "updated": "24 Feb 2025 01:45:04"
+    "updated": "24 Feb 2025 02:03:23"
   },
   {
     "agency": "Ambulance",
@@ -69,13 +69,13 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "23 Feb 2025 23:50:08",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "23 Feb 2025 23:54:47"
+    "updated": "24 Feb 2025 02:15:22"
   },
   {
     "agency": "Ambulance",
@@ -87,13 +87,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "24 Feb 2025 00:24:00",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "24 Feb 2025 00:31:33"
+    "updated": "24 Feb 2025 02:20:33"
   },
   {
     "agency": "Ambulance",
@@ -123,31 +123,49 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "24 Feb 2025 01:03:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "24 Feb 2025 01:46:30"
+    "updated": "24 Feb 2025 02:08:28"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRADDON",
-    "id": "012073-24022025",
-    "latitude": "-35.270314",
-    "longitude": "149.135874",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "012074-24022025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
     "region": "act",
-    "time_of_call": "24 Feb 2025 01:38:09",
-    "status": "Resource Allocation Pending",
+    "time_of_call": "24 Feb 2025 02:01:04",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "BRADDON",
-    "updated": "24 Feb 2025 01:40:59"
+    "location": "WANNIASSA",
+    "updated": "24 Feb 2025 02:14:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WHITLAM",
+    "id": "012075-24022025",
+    "latitude": "-35.277508",
+    "longitude": "149.033417",
+    "region": "act",
+    "time_of_call": "24 Feb 2025 02:10:43",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WHITLAM",
+    "updated": "24 Feb 2025 02:18:25"
   },
   {
     "title": "Assist Queensland",
@@ -716,5 +734,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "24 Feb 2025 01:31"
+  },
+  {
+    "title": "FEDERAL HWY, WOLLOGORANG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591301",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.843921661",
+    "longitude": "149.559829712",
+    "region": "nsw",
+    "time_of_call": "24 Feb 2025 01:54:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "FEDERAL HWY, WOLLOGORANG 2581",
+    "council_area": "Goulburn Mulwaree",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Feb 2025 01:54"
   }
 ]
