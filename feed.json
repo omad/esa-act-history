@@ -35,7 +35,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "24 Feb 2025 05:31:42"
+    "updated": "24 Feb 2025 05:52:21"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,31 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "24 Feb 2025 05:42:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "24 Feb 2025 05:46:38"
+    "updated": "24 Feb 2025 05:57:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONYTHON",
+    "id": "012090-24022025",
+    "latitude": "-35.435736",
+    "longitude": "149.081053",
+    "region": "act",
+    "time_of_call": "24 Feb 2025 05:50:03",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONYTHON",
+    "updated": "24 Feb 2025 06:11:22"
   },
   {
     "title": "Assist Queensland",
@@ -617,31 +635,6 @@
     "updated": "23 Feb 2025 22:36"
   },
   {
-    "title": "MARROWBONE RD, POKOLBIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591303",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.817802429",
-    "longitude": "151.291275025",
-    "region": "nsw",
-    "time_of_call": "24 Feb 2025 05:20:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "MARROWBONE RD, POKOLBIN 2320",
-    "council_area": "Cessnock",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Feb 2025 05:20"
-  },
-  {
     "title": "BARCOONGERE WAY, CORINDI BEACH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591305",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -649,9 +642,9 @@
     "latitude": "-29.984840393",
     "longitude": "153.166030884",
     "region": "nsw",
-    "time_of_call": "24 Feb 2025 05:42:00",
+    "time_of_call": "24 Feb 2025 06:01:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BARCOONGERE WAY, CORINDI BEACH 2456",
     "council_area": "Coffs Harbour",
@@ -659,6 +652,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Feb 2025 05:42"
+    "updated": "24 Feb 2025 06:01"
+  },
+  {
+    "title": "PRINCES HWY, DALMENY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591306",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.157913208",
+    "longitude": "150.095779419",
+    "region": "nsw",
+    "time_of_call": "24 Feb 2025 06:04:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "BORAL HR 6016-6018 PRINCES HWY, DALMENY 2546",
+    "council_area": "Eurobodalla",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Feb 2025 06:04"
   }
 ]
