@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "MATINA STREET, NARRABUNDAH, 2604",
-    "updated": "24 Feb 2025 01:31:19"
+    "updated": "24 Feb 2025 01:43:12"
   },
   {
     "agency": "Fire",
@@ -45,8 +45,8 @@
     "event_type": "incident",
     "title": "GRASS AND BUSH FIRE - NARRABUNDAH",
     "id": "003533-24022025",
-    "latitude": "-35.3409690857",
-    "longitude": "149.1570739746",
+    "latitude": "-35.3412704468",
+    "longitude": "149.1588897705",
     "region": "act",
     "time_of_call": "24 Feb 2025 01:23:57",
     "status": "On Scene",
@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "HINDMARSH DRIVE, MONARO HIGHWAY ON RAMP, NARRABUNDAH, 2604",
-    "updated": "24 Feb 2025 01:25:22"
+    "updated": "24 Feb 2025 01:45:04"
   },
   {
     "agency": "Ambulance",
@@ -81,24 +81,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HIGGINS",
-    "id": "012063-23022025",
-    "latitude": "-35.230526",
-    "longitude": "149.025052",
-    "region": "act",
-    "time_of_call": "23 Feb 2025 23:53:49",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HIGGINS",
-    "updated": "24 Feb 2025 01:14:31"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BELCONNEN",
     "id": "012066-24022025",
     "latitude": "-35.235936",
@@ -112,24 +94,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
     "updated": "24 Feb 2025 00:31:33"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CONDER",
-    "id": "012067-24022025",
-    "latitude": "-35.458351",
-    "longitude": "149.106348",
-    "region": "act",
-    "time_of_call": "24 Feb 2025 00:32:19",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CONDER",
-    "updated": "24 Feb 2025 01:16:14"
   },
   {
     "agency": "Ambulance",
@@ -159,13 +123,31 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "24 Feb 2025 01:03:13",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "24 Feb 2025 01:46:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "012073-24022025",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "24 Feb 2025 01:38:09",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "24 Feb 2025 01:10:29"
+    "location": "BRADDON",
+    "updated": "24 Feb 2025 01:40:59"
   },
   {
     "title": "Assist Queensland",
@@ -718,9 +700,9 @@
     "latitude": "-35.172108",
     "longitude": "147.378754",
     "region": "nsw",
-    "time_of_call": "24 Feb 2025 01:18:00",
+    "time_of_call": "24 Feb 2025 01:31:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -733,6 +715,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "24 Feb 2025 01:18"
+    "updated": "24 Feb 2025 01:31"
   }
 ]
