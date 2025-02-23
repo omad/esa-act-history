@@ -83,13 +83,13 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "24 Feb 2025 07:39:20",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "24 Feb 2025 07:49:10"
+    "updated": "24 Feb 2025 08:27:40"
   },
   {
     "agency": "Ambulance",
@@ -126,26 +126,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
     "updated": "24 Feb 2025 08:06:51"
-  },
-  {
-    "title": "Assist Queensland",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_588330",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.8446731569999",
-    "longitude": "151.074401856",
-    "region": "nsw",
-    "time_of_call": "23 Feb 2025 16:56:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ASSIST QUEENSLAND - 4 MURRAY ROSE AV, SYDNEY OLYMPIC PARK 2127",
-    "council_area": "City of Parramatta",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Feb 2025 16:56"
   },
   {
     "title": "Assist Tasmania",
@@ -755,5 +735,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Feb 2025 08:11"
+  },
+  {
+    "title": "AUDLEY ST, NARRANDERA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591312",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.747989655",
+    "longitude": "146.549652099",
+    "region": "nsw",
+    "time_of_call": "24 Feb 2025 08:20:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "TELOCA HOUSE 120 AUDLEY ST, NARRANDERA 2700",
+    "council_area": "Narrandera",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "24 Feb 2025 08:20"
   }
 ]
