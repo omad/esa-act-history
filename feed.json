@@ -35,43 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "25 Feb 2025 10:15:05"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "012354-25022025",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
-    "region": "act",
-    "time_of_call": "25 Feb 2025 09:01:05",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "25 Feb 2025 09:57:16"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WATSON",
-    "id": "012358-25022025",
-    "latitude": "-35.234652",
-    "longitude": "149.15807",
-    "region": "act",
-    "time_of_call": "25 Feb 2025 09:09:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WATSON",
-    "updated": "25 Feb 2025 10:10:25"
+    "updated": "25 Feb 2025 10:31:05"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "25 Feb 2025 10:14:03"
+    "updated": "25 Feb 2025 10:46:58"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +125,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "SYMONSTON",
-    "updated": "25 Feb 2025 10:20:04"
+    "updated": "25 Feb 2025 10:30:33"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MITCHELL",
-    "updated": "25 Feb 2025 10:24:51"
+    "updated": "25 Feb 2025 10:36:46"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +161,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "25 Feb 2025 10:29:24"
+    "updated": "25 Feb 2025 10:37:23"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +173,49 @@
     "longitude": "149.094654",
     "region": "act",
     "time_of_call": "25 Feb 2025 10:28:33",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": ""
+    "updated": "25 Feb 2025 10:33:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MAWSON",
+    "id": "012372-25022025",
+    "latitude": "-35.361049",
+    "longitude": "149.099386",
+    "region": "act",
+    "time_of_call": "25 Feb 2025 10:33:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MAWSON",
+    "updated": "25 Feb 2025 10:35:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FORREST",
+    "id": "012373-25022025",
+    "latitude": "-35.318088",
+    "longitude": "149.12506",
+    "region": "act",
+    "time_of_call": "25 Feb 2025 10:34:04",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FORREST",
+    "updated": "25 Feb 2025 10:40:31"
   },
   {
     "title": "Assist Tasmania",
@@ -698,31 +698,6 @@
     "updated": "24 Feb 2025 19:09"
   },
   {
-    "title": "Way Way Creek rd",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591349",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.7908611299999",
-    "longitude": "152.93031311",
-    "region": "nsw",
-    "time_of_call": "24 Feb 2025 15:53:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "5km west of Grassy Head",
-    "council_area": "Nambucca",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "24 Feb 2025 15:53"
-  },
-  {
     "title": "VALE RD, ORTON PARK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591399",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -785,5 +760,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Feb 2025 08:26"
+  },
+  {
+    "title": "MCALPINE WAY, BOAMBEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591415",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.331293106",
+    "longitude": "153.072738648",
+    "region": "nsw",
+    "time_of_call": "25 Feb 2025 10:36:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "42 MCALPINE WAY, BOAMBEE 2450",
+    "council_area": "Coffs Harbour",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Feb 2025 10:36"
+  },
+  {
+    "title": "DURHAM RD, SCHOFIELDS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591417",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.707988739",
+    "longitude": "150.858795166",
+    "region": "nsw",
+    "time_of_call": "25 Feb 2025 10:43:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "19 DURHAM RD, SCHOFIELDS 2762",
+    "council_area": "Blacktown",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Feb 2025 10:43"
   }
 ]
