@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "CORIN FOREST SKI RESORT, CORIN ROAD, PADDYS RIVER",
-    "updated": "24 Feb 2025 16:20:49"
+    "updated": "24 Feb 2025 16:35:45"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "24 Feb 2025 16:10:59"
+    "updated": "24 Feb 2025 16:26:33"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +201,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "24 Feb 2025 15:03:38"
+    "updated": "24 Feb 2025 16:33:27"
   },
   {
     "agency": "Ambulance",
@@ -255,7 +255,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "24 Feb 2025 16:20:58"
+    "updated": "24 Feb 2025 16:34:52"
   },
   {
     "agency": "Ambulance",
@@ -274,24 +274,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
     "updated": "24 Feb 2025 16:01:13"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "012218-24022025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "24 Feb 2025 15:44:48",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "24 Feb 2025 16:17:32"
   },
   {
     "agency": "Ambulance",
@@ -375,13 +357,13 @@
     "longitude": "149.10918",
     "region": "act",
     "time_of_call": "24 Feb 2025 16:13:38",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "FIRE STATION #- ACTON, CLUNIES ROSS STREET, PARKES WAY, ACTON, 2601",
-    "updated": "24 Feb 2025 16:15:46"
+    "updated": "24 Feb 2025 16:32:05"
   },
   {
     "agency": "Ambulance",
@@ -393,13 +375,13 @@
     "longitude": "149.036735",
     "region": "act",
     "time_of_call": "24 Feb 2025 16:21:40",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "24 Feb 2025 16:23:53"
+    "updated": "24 Feb 2025 16:34:26"
   },
   {
     "title": "Assist Tasmania",
@@ -449,7 +431,7 @@
     "latitude": "-30.604549408",
     "longitude": "149.844955445",
     "region": "nsw",
-    "time_of_call": "23 Feb 2025 10:15:00",
+    "time_of_call": "24 Feb 2025 16:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -464,7 +446,7 @@
     "fire": "Yes",
     "size": "18 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "23 Feb 2025 10:15"
+    "updated": "24 Feb 2025 16:31"
   },
   {
     "title": "Darby Trail Cultural HR (3)",
@@ -487,6 +469,28 @@
     "size": "10 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "23 Feb 2025 14:54"
+  },
+  {
+    "title": "Dural Park",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_590958",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.681316376",
+    "longitude": "151.04411316",
+    "region": "nsw",
+    "time_of_call": "24 Feb 2025 16:20:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "DURAL OVAL HR HUNT AV, DURAL 2158",
+    "council_area": "Hornsby",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "1 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Feb 2025 16:20"
   },
   {
     "title": "Austar 1",
@@ -578,31 +582,6 @@
     "size": "12 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "23 Feb 2025 16:25"
-  },
-  {
-    "title": "ANGLE RD, DUBBO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591204",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.3011398319999",
-    "longitude": "148.622436524",
-    "region": "nsw",
-    "time_of_call": "23 Feb 2025 17:54:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "ANGLE RD, DUBBO 2830",
-    "council_area": "Dubbo Regional",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "5 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Feb 2025 17:54"
   },
   {
     "title": "Heughs Road Compartment 84",
@@ -697,28 +676,6 @@
     "size": "40 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Feb 2025 19:18"
-  },
-  {
-    "title": "DURI-DUNGOWAN RD, LOOMBERAH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591256",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.208698273",
-    "longitude": "151.076416016",
-    "region": "nsw",
-    "time_of_call": "23 Feb 2025 19:16:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "2639 DURI-DUNGOWAN RD, LOOMBERAH 2340",
-    "council_area": "Tamworth",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Feb 2025 19:16"
   },
   {
     "title": "AUDREY LEA RD, BOOLIGAL",
@@ -1004,26 +961,6 @@
     "updated": "24 Feb 2025 16:09"
   },
   {
-    "title": "NEWELL HWY, THE PILLIGA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591348",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.751789093",
-    "longitude": "149.509841919",
-    "region": "nsw",
-    "time_of_call": "24 Feb 2025 15:41:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "NEWELL HWY, THE PILLIGA 2388",
-    "council_area": "Narrabri",
-    "type": "Truck Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Feb 2025 15:41"
-  },
-  {
     "title": "Way Way Creek rd",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591349",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1157,40 +1094,18 @@
     "updated": "24 Feb 2025 15:51"
   },
   {
-    "title": "NARROMINE RD, DUBBO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591359",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.2015075689999",
-    "longitude": "148.433670044",
-    "region": "nsw",
-    "time_of_call": "24 Feb 2025 15:52:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "NARROMINE RD, DUBBO 2830",
-    "council_area": "Dubbo Regional",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Feb 2025 15:52"
-  },
-  {
     "title": "JOHN RENSHAW DR, BLACK HILL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591360",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.822307587",
-    "longitude": "151.603500366",
+    "latitude": "-32.815696717",
+    "longitude": "151.609649659",
     "region": "nsw",
     "time_of_call": "24 Feb 2025 16:21:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "JOHN RENSHAW DR, BLACK HILL 2322",
+    "location": "1132 JOHN RENSHAW DR, BLACK HILL 2322",
     "council_area": "Cessnock",
     "type": "Grass Fire",
     "type_description": "",
