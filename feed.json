@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "LITTLE PLACE, SCULLIN, 2614",
-    "updated": "26 Feb 2025 03:46:51"
+    "updated": "26 Feb 2025 04:14:55"
   },
   {
     "agency": "Ambulance",
@@ -36,24 +36,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
     "updated": "25 Feb 2025 22:13:44"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BONNER",
-    "id": "012520-25022025",
-    "latitude": "-35.155183",
-    "longitude": "149.143165",
-    "region": "act",
-    "time_of_call": "25 Feb 2025 22:37:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BONNER",
-    "updated": "26 Feb 2025 03:27:34"
   },
   {
     "agency": "Ambulance",
@@ -95,39 +77,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "HOUSE FIRE - SCULLIN",
-    "id": "012541-26022025",
-    "latitude": "-35.23886916",
-    "longitude": "149.03228204",
-    "region": "act",
-    "time_of_call": "26 Feb 2025 02:53:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "HOUSE FIRE",
-    "type_description": "",
-    "type_icon": "",
-    "location": "LITTLE PLACE, SCULLIN, 2614",
-    "updated": "26 Feb 2025 03:26:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BONNER",
     "id": "012543-26022025",
     "latitude": "-35.155183",
     "longitude": "149.143165",
     "region": "act",
     "time_of_call": "26 Feb 2025 03:31:45",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "26 Feb 2025 03:44:52"
+    "updated": "26 Feb 2025 04:11:03"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +107,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "26 Feb 2025 03:50:28"
+    "updated": "26 Feb 2025 04:06:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THEODORE",
+    "id": "012545-26022025",
+    "latitude": "-35.449632",
+    "longitude": "149.120754",
+    "region": "act",
+    "time_of_call": "26 Feb 2025 04:14:54",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THEODORE",
+    "updated": "26 Feb 2025 04:17:54"
   },
   {
     "title": "Assist Tasmania",
@@ -651,27 +631,5 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "26 Feb 2025 01:52"
-  },
-  {
-    "title": "(PACIFIC MTWY), OURIMBAH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591509",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.360290527",
-    "longitude": "151.33618164",
-    "region": "nsw",
-    "time_of_call": "26 Feb 2025 03:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "M1 (PACIFIC MTWY), OURIMBAH 2258",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Feb 2025 03:12"
   }
 ]
