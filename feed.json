@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "HOUSE FIRE - SCULLIN",
-    "id": "003635-26022025",
-    "latitude": "-35.23886916",
-    "longitude": "149.03228204",
-    "region": "act",
-    "time_of_call": "26 Feb 2025 02:53:08",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "HOUSE FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
-    "location": "LITTLE PLACE, SCULLIN, 2614",
-    "updated": "26 Feb 2025 04:45:04"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -36,42 +16,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "26 Feb 2025 05:21:13"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BONNER",
-    "id": "012543-26022025",
-    "latitude": "-35.155183",
-    "longitude": "149.143165",
-    "region": "act",
-    "time_of_call": "26 Feb 2025 03:31:45",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BONNER",
-    "updated": "26 Feb 2025 04:37:18"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYONS",
-    "id": "012544-26022025",
-    "latitude": "-35.340941",
-    "longitude": "149.072217",
-    "region": "act",
-    "time_of_call": "26 Feb 2025 03:37:48",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LYONS",
-    "updated": "26 Feb 2025 04:49:58"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +63,13 @@
     "longitude": "149.115669",
     "region": "act",
     "time_of_call": "26 Feb 2025 05:00:37",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
-    "updated": "26 Feb 2025 05:19:27"
+    "updated": "26 Feb 2025 05:47:45"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +87,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "26 Feb 2025 05:22:10"
+    "updated": "26 Feb 2025 05:46:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOMBS",
+    "id": "012552-26022025",
+    "latitude": "-35.31486",
+    "longitude": "149.041664",
+    "region": "act",
+    "time_of_call": "26 Feb 2025 05:43:47",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOMBS",
+    "updated": "26 Feb 2025 05:47:44"
   },
   {
     "title": "Assist Tasmania",
@@ -627,27 +589,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Feb 2025 19:13"
-  },
-  {
-    "title": "PACIFIC HWY, REPTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591513",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.4013500209999",
-    "longitude": "153.031036377",
-    "region": "nsw",
-    "time_of_call": "26 Feb 2025 05:18:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, REPTON 2454",
-    "council_area": "Coffs Harbour",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Feb 2025 05:18"
   }
 ]
