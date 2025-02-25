@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "26 Feb 2025 02:11:29"
+    "updated": "26 Feb 2025 02:43:21"
   },
   {
     "agency": "Ambulance",
@@ -93,24 +93,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BANKS",
-    "id": "012534-26022025",
-    "latitude": "-35.471552",
-    "longitude": "149.100249",
-    "region": "act",
-    "time_of_call": "26 Feb 2025 00:04:00",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BANKS",
-    "updated": "26 Feb 2025 01:53:20"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - THROSBY",
     "id": "012537-26022025",
     "latitude": "-35.187595",
@@ -123,7 +105,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "26 Feb 2025 02:04:19"
+    "updated": "26 Feb 2025 02:44:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "012539-26022025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "26 Feb 2025 02:41:16",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "26 Feb 2025 02:44:42"
   },
   {
     "title": "Assist Tasmania",
@@ -663,9 +663,9 @@
     "latitude": "-33.2703979999999",
     "longitude": "149.072755",
     "region": "nsw",
-    "time_of_call": "26 Feb 2025 02:20:00",
+    "time_of_call": "26 Feb 2025 02:30:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -678,6 +678,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "26 Feb 2025 02:20"
+    "updated": "26 Feb 2025 02:30"
   }
 ]
