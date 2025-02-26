@@ -9,15 +9,15 @@
     "longitude": "149.0364458399",
     "region": "act",
     "time_of_call": "27 Feb 2025 06:10:16",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "CAR FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
     "location": "WHITELEGGE CLOSE, FLOREY, 2615",
-    "updated": "27 Feb 2025 07:36:41"
+    "updated": "27 Feb 2025 07:37:07"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "27 Feb 2025 07:34:30"
+    "updated": "27 Feb 2025 07:48:24"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +119,31 @@
     "longitude": "149.076955",
     "region": "act",
     "time_of_call": "27 Feb 2025 07:34:05",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHIFLEY",
+    "updated": "27 Feb 2025 07:40:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WRIGHT",
+    "id": "012866-27022025",
+    "latitude": "-35.323404",
+    "longitude": "149.036274",
+    "region": "act",
+    "time_of_call": "27 Feb 2025 07:39:53",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CHIFLEY",
-    "updated": "27 Feb 2025 07:36:47"
+    "location": "WRIGHT",
+    "updated": "27 Feb 2025 07:44:51"
   },
   {
     "title": "Assist Tasmania",
@@ -826,27 +844,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Feb 2025 03:24"
-  },
-  {
-    "title": "TAFE NSW GOULBURN VERNER ST, GOULBURN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591635",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.7489356999999",
-    "longitude": "149.703796386",
-    "region": "nsw",
-    "time_of_call": "27 Feb 2025 07:04:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "TAFE NSW GOULBURN VERNER ST, GOULBURN 2580",
-    "council_area": "Goulburn Mulwaree",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "27 Feb 2025 07:04"
   }
 ]
