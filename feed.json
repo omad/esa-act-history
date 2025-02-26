@@ -9,15 +9,15 @@
     "longitude": "149.122966",
     "region": "act",
     "time_of_call": "27 Feb 2025 08:38:13",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "ANIMAL RESCUE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
     "location": "PALMERSTON NEIGHBOURHOOD OVAL, KOSCIUSZKO AVENUE, PALMERSTON, 2913",
-    "updated": "27 Feb 2025 08:44:36"
+    "updated": "27 Feb 2025 09:06:37"
   },
   {
     "agency": "Ambulance",
@@ -35,7 +35,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "27 Feb 2025 08:06:47"
+    "updated": "27 Feb 2025 09:22:24"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "27 Feb 2025 06:56:23"
+    "updated": "27 Feb 2025 08:57:42"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "27 Feb 2025 08:46:17"
+    "updated": "27 Feb 2025 09:05:32"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "27 Feb 2025 08:45:48"
+    "updated": "27 Feb 2025 08:58:36"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "27 Feb 2025 08:32:35"
+    "updated": "27 Feb 2025 09:18:27"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,103 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "27 Feb 2025 08:44:22",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "27 Feb 2025 09:12:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "012872-27022025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "27 Feb 2025 08:48:59",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "27 Feb 2025 08:51:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "012874-27022025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "27 Feb 2025 08:50:28",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "HIGGINS",
-    "updated": "27 Feb 2025 08:47:48"
+    "location": "KAMBAH",
+    "updated": "27 Feb 2025 09:16:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ACTON",
+    "id": "012879-27022025",
+    "latitude": "-35.289989",
+    "longitude": "149.115669",
+    "region": "act",
+    "time_of_call": "27 Feb 2025 09:11:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ACTON",
+    "updated": "27 Feb 2025 09:16:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "012880-27022025",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "27 Feb 2025 09:18:09",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHAPMAN",
+    "updated": "27 Feb 2025 09:22:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "012881-27022025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "27 Feb 2025 09:19:47",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "27 Feb 2025 09:21:52"
   },
   {
     "title": "Assist Tasmania",
@@ -489,7 +579,7 @@
     "latitude": "-35.257152558",
     "longitude": "149.492340088",
     "region": "nsw",
-    "time_of_call": "26 Feb 2025 17:49:00",
+    "time_of_call": "27 Feb 2025 09:06:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -504,29 +594,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Feb 2025 17:49"
-  },
-  {
-    "title": "SAXA RD, GOLLAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591544",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.194988251",
-    "longitude": "149.02204895",
-    "region": "nsw",
-    "time_of_call": "26 Feb 2025 14:17:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WHETONA 4522 SAXA RD, GOLLAN 2820",
-    "council_area": "Dubbo Regional",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "10 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Feb 2025 14:17"
+    "updated": "27 Feb 2025 09:06"
   },
   {
     "title": "GREY DOVE LANE, TICHBORNE",
@@ -790,10 +858,13 @@
     "latitude": "-33.966167449",
     "longitude": "149.551177978",
     "region": "nsw",
-    "time_of_call": "27 Feb 2025 05:25:00",
+    "time_of_call": "27 Feb 2025 09:08:00",
     "event_type": "burnt area",
     "status": "Under control",
-    "alert_level": "Not Applicable",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "194 JEREMY RD, JEREMY 2795",
     "council_area": "Oberon",
     "type": "Bush Fire",
@@ -802,7 +873,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Feb 2025 05:25"
+    "updated": "27 Feb 2025 09:08"
   },
   {
     "title": "FIFIELD RD, CONDOBOLIN",
@@ -849,47 +920,25 @@
     "updated": "27 Feb 2025 03:24"
   },
   {
-    "title": "ROCKY PLAIN RD, COOTRALANTRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591641",
+    "title": "ROSEMONT RD, BOXERS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591643",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-36.2971954339999",
-    "longitude": "148.892242431",
+    "latitude": "-34.786102295",
+    "longitude": "149.797317505",
     "region": "nsw",
-    "time_of_call": "27 Feb 2025 08:37:00",
+    "time_of_call": "27 Feb 2025 09:10:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "PRAHRAN 22 ROCKY PLAIN RD, COOTRALANTRA 2628",
-    "council_area": "Snowy Monaro",
-    "type": "Grass Fire",
+    "location": "583 ROSEMONT RD, BOXERS CREEK 2580",
+    "council_area": "Goulburn Mulwaree",
+    "type": "Structure Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Feb 2025 08:37"
-  },
-  {
-    "title": "WAKEHURST PWY, CROMER",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591642",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.717739105",
-    "longitude": "151.254135132",
-    "region": "nsw",
-    "time_of_call": "27 Feb 2025 08:41:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "WAKEHURST PWY, CROMER 2099",
-    "council_area": "Northern Beaches",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Feb 2025 08:41"
+    "updated": "27 Feb 2025 09:10"
   }
 ]
