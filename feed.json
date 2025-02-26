@@ -59,24 +59,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - COOK",
-    "id": "012835-27022025",
-    "latitude": "-35.261055",
-    "longitude": "149.064271",
-    "region": "act",
-    "time_of_call": "27 Feb 2025 02:32:33",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "COOK",
-    "updated": "27 Feb 2025 03:18:22"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KINGSTON",
     "id": "012837-27022025",
     "latitude": "-35.315358",
@@ -89,7 +71,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "27 Feb 2025 03:01:13"
+    "updated": "27 Feb 2025 03:50:30"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "27 Feb 2025 03:21:57"
+    "updated": "27 Feb 2025 03:38:00"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +101,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "27 Feb 2025 03:03:01",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "27 Feb 2025 03:18:04"
+    "updated": "27 Feb 2025 03:42:14"
   },
   {
     "agency": "Ambulance",
@@ -802,18 +784,18 @@
     "updated": "27 Feb 2025 00:41"
   },
   {
-    "title": "JEREMY RD, BURRAGA",
+    "title": "JEREMY RD, JEREMY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591617",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.953216552",
-    "longitude": "149.546920777",
+    "latitude": "-33.966167449",
+    "longitude": "149.551177978",
     "region": "nsw",
-    "time_of_call": "27 Feb 2025 00:47:00",
+    "time_of_call": "27 Feb 2025 03:36:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
-    "location": "JEREMY RD, BURRAGA 2795",
+    "location": "194 JEREMY RD, JEREMY 2795",
     "council_area": "Oberon",
     "type": "Bush Fire",
     "type_description": "",
@@ -821,7 +803,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Feb 2025 00:47"
+    "updated": "27 Feb 2025 03:36"
   },
   {
     "title": "FIFIELD RD, CONDOBOLIN",
@@ -888,5 +870,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Feb 2025 03:15"
+  },
+  {
+    "title": "SWAN HILL RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591626",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.3227157589999",
+    "longitude": "143.632507324",
+    "region": "nsw",
+    "time_of_call": "27 Feb 2025 03:38:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MURRAY DOWNS PROCESSING 580 SWAN HILL RD, MURRAY DOWNS 2734",
+    "council_area": "Murray River",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Feb 2025 03:38"
   }
 ]
