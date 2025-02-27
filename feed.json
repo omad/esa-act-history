@@ -29,15 +29,15 @@
     "longitude": "149.113923",
     "region": "act",
     "time_of_call": "27 Feb 2025 22:04:56",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "ELLENBOROUGH STREET, DAINTREE CRESCENT, KALEEN, 2617",
-    "updated": "27 Feb 2025 22:19:48"
+    "updated": "27 Feb 2025 22:30:57"
   },
   {
     "agency": "Ambulance",
@@ -74,24 +74,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
     "updated": "27 Feb 2025 20:14:23"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WATSON",
-    "id": "013053-27022025",
-    "latitude": "-35.234652",
-    "longitude": "149.15807",
-    "region": "act",
-    "time_of_call": "27 Feb 2025 20:28:55",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WATSON",
-    "updated": "27 Feb 2025 21:55:40"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +175,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "27 Feb 2025 21:43:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "27 Feb 2025 22:12:57"
+    "updated": "27 Feb 2025 22:41:59"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +217,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "27 Feb 2025 22:14:24"
+    "updated": "27 Feb 2025 22:38:37"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +235,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "27 Feb 2025 22:16:42"
+    "updated": "27 Feb 2025 22:43:33"
   },
   {
     "agency": "Ambulance",
@@ -265,13 +247,13 @@
     "longitude": "149.100175",
     "region": "act",
     "time_of_call": "27 Feb 2025 22:25:27",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "27 Feb 2025 22:27:56"
+    "updated": "27 Feb 2025 22:40:30"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +271,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "27 Feb 2025 22:28:16"
+    "updated": "27 Feb 2025 22:40:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "013077-27022025",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "27 Feb 2025 22:40:23",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "27 Feb 2025 22:46:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "013079-27022025",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "27 Feb 2025 22:48:05",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "27 Feb 2025 22:48:26"
   },
   {
     "title": "Assist Tasmania",
@@ -544,7 +562,7 @@
     "latitude": "-33.2059745789999",
     "longitude": "148.131317138",
     "region": "nsw",
-    "time_of_call": "26 Feb 2025 14:14:00",
+    "time_of_call": "27 Feb 2025 22:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -556,7 +574,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Feb 2025 14:14"
+    "updated": "27 Feb 2025 22:27"
   },
   {
     "title": "SANDSTONE CAVES",
@@ -635,7 +653,7 @@
     "latitude": "-34.046291351",
     "longitude": "151.006561279",
     "region": "nsw",
-    "time_of_call": "26 Feb 2025 17:38:00",
+    "time_of_call": "27 Feb 2025 22:28:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -647,7 +665,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Feb 2025 17:38"
+    "updated": "27 Feb 2025 22:28"
   },
   {
     "title": "Butchers Road",
@@ -679,7 +697,7 @@
     "latitude": "-31.393199921",
     "longitude": "150.419265747",
     "region": "nsw",
-    "time_of_call": "26 Feb 2025 21:43:00",
+    "time_of_call": "27 Feb 2025 22:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -691,29 +709,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Feb 2025 21:43"
-  },
-  {
-    "title": "KIDMAN WAY, DARLINGTON POINT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591600",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.586215973",
-    "longitude": "146.003433228",
-    "region": "nsw",
-    "time_of_call": "27 Feb 2025 22:24:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WARANGESDA 8192 KIDMAN WAY, DARLINGTON POINT 2706",
-    "council_area": "Murrumbidgee",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Feb 2025 22:24"
+    "updated": "27 Feb 2025 22:31"
   },
   {
     "title": "CARINDA RD, THE MARRA",
@@ -1119,27 +1115,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Feb 2025 20:37"
-  },
-  {
-    "title": "BALRANALD RD, IVANHOE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591728",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.051597595",
-    "longitude": "144.144363403",
-    "region": "nsw",
-    "time_of_call": "27 Feb 2025 21:46:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "20413 BALRANALD RD, IVANHOE 2878",
-    "council_area": "Central Darling",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Feb 2025 21:46"
   }
 ]
