@@ -99,13 +99,13 @@
     "longitude": "149.108737",
     "region": "act",
     "time_of_call": "02 Mar 2025 07:56:14",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TUGGERANONG",
-    "updated": "02 Mar 2025 08:01:01"
+    "updated": "02 Mar 2025 08:45:00"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,13 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "02 Mar 2025 08:00:48",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "02 Mar 2025 08:08:08"
+    "updated": "02 Mar 2025 08:38:26"
   },
   {
     "agency": "Ambulance",
@@ -160,6 +160,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
     "updated": "02 Mar 2025 08:25:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FISHER",
+    "id": "013714-02032025",
+    "latitude": "-35.360481",
+    "longitude": "149.058056",
+    "region": "act",
+    "time_of_call": "02 Mar 2025 08:47:14",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FISHER",
+    "updated": "02 Mar 2025 08:48:27"
   },
   {
     "title": "Bundanoon Road East HR",
@@ -1200,28 +1218,6 @@
     "updated": "1 Mar 2025 23:45"
   },
   {
-    "title": "OCONNELL ST, MURRURUNDI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592007",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.770011902",
-    "longitude": "150.835769653",
-    "region": "nsw",
-    "time_of_call": "02 Mar 2025 07:27:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "OCONNELL ST, MURRURUNDI 2338",
-    "council_area": "Upper Hunter",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "2 Mar 2025 07:27"
-  },
-  {
     "title": "KINGS HWY, MONGA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592009",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1229,9 +1225,9 @@
     "latitude": "-35.545696259",
     "longitude": "149.980957031",
     "region": "nsw",
-    "time_of_call": "02 Mar 2025 08:17:00",
+    "time_of_call": "02 Mar 2025 08:31:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "KINGS HWY, MONGA 2622",
     "council_area": "Eurobodalla",
@@ -1241,7 +1237,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Mar 2025 08:17"
+    "updated": "2 Mar 2025 08:31"
   },
   {
     "title": "CLERKE PL, KURNELL",
@@ -1264,5 +1260,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Mar 2025 08:12"
+  },
+  {
+    "title": "Murray St, Hay",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592012",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.498528",
+    "longitude": "144.835926",
+    "region": "nsw",
+    "time_of_call": "02 Mar 2025 08:45:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "477 Murray St, Hay, NSW 2711",
+    "council_area": "Hay",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "2 Mar 2025 08:45"
   }
 ]
