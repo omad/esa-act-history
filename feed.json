@@ -33,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "01 Mar 2025 21:29:06"
+    "updated": "01 Mar 2025 22:45:49"
   },
   {
     "agency": "Ambulance",
@@ -57,37 +57,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAWSON",
-    "id": "013602-01032025",
-    "latitude": "-35.361049",
-    "longitude": "149.099386",
-    "region": "act",
-    "time_of_call": "01 Mar 2025 21:27:59",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MAWSON",
-    "updated": "01 Mar 2025 22:00:58"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BANKS",
     "id": "013603-01032025",
     "latitude": "-35.471552",
     "longitude": "149.100249",
     "region": "act",
     "time_of_call": "01 Mar 2025 21:33:21",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "01 Mar 2025 22:24:43"
+    "updated": "01 Mar 2025 22:29:49"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +105,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "01 Mar 2025 22:26:25"
+    "updated": "01 Mar 2025 22:30:57"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "01 Mar 2025 21:49:13"
+    "updated": "01 Mar 2025 22:31:19"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "01 Mar 2025 22:18:21"
+    "updated": "01 Mar 2025 22:41:39"
   },
   {
     "agency": "Ambulance",
@@ -243,13 +225,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "01 Mar 2025 22:02:42",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "01 Mar 2025 22:11:25"
+    "updated": "01 Mar 2025 22:33:40"
   },
   {
     "agency": "Ambulance",
@@ -267,7 +249,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "01 Mar 2025 22:18:13"
+    "updated": "01 Mar 2025 22:44:13"
   },
   {
     "agency": "Ambulance",
@@ -286,6 +268,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
     "updated": "01 Mar 2025 22:25:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUFFY",
+    "id": "013617-01032025",
+    "latitude": "-35.336273",
+    "longitude": "149.031217",
+    "region": "act",
+    "time_of_call": "01 Mar 2025 22:31:44",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUFFY",
+    "updated": "01 Mar 2025 22:46:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THARWA",
+    "id": "013619-01032025",
+    "latitude": "-35.511899",
+    "longitude": "149.063617",
+    "region": "act",
+    "time_of_call": "01 Mar 2025 22:44:40",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THARWA",
+    "updated": "01 Mar 2025 22:48:21"
   },
   {
     "title": "Bundanoon Road East HR",
@@ -1147,31 +1165,6 @@
     "updated": "1 Mar 2025 10:45"
   },
   {
-    "title": "LUMLEY RD, TARAGO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591907",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.0804252629999",
-    "longitude": "149.697540284",
-    "region": "nsw",
-    "time_of_call": "01 Mar 2025 12:05:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "LUMLEY RD, TARAGO 2580",
-    "council_area": "Goulburn Mulwaree",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Mar 2025 12:05"
-  },
-  {
     "title": "Gymbee HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591925",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1333,7 +1326,7 @@
     "latitude": "-33.737212144",
     "longitude": "150.577704906",
     "region": "nsw",
-    "time_of_call": "01 Mar 2025 20:57:00",
+    "time_of_call": "01 Mar 2025 22:23:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1345,7 +1338,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Mar 2025 20:57"
+    "updated": "1 Mar 2025 22:23"
   },
   {
     "title": "FOXS RD, NAMBUCCA HEADS",
@@ -1392,26 +1385,24 @@
     "updated": "1 Mar 2025 22:24"
   },
   {
-    "title": "SHINGLE SPLINTER RESERVE QUEEN ST, BALCOLYN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591983",
+    "title": "HIGH ROCK RD, RYE PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591984",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.090454102",
-    "longitude": "151.549011231",
+    "latitude": "-34.563480377",
+    "longitude": "148.957962036",
     "region": "nsw",
-    "time_of_call": "01 Mar 2025 22:13:00",
+    "time_of_call": "01 Mar 2025 22:41:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "SHINGLE SPLINTER RESERVE QUEEN ST, BALCOLYN 2264",
-    "council_area": "Lake Macquarie",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
+    "location": "492 HIGH ROCK RD, RYE PARK 2586",
+    "council_area": "Hilltops",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Mar 2025 22:13"
+    "updated": "1 Mar 2025 22:41"
   },
   {
     "title": "RED HILL RD, TELEGRAPH POINT",
