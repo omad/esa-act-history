@@ -39,24 +39,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HARRISON",
-    "id": "013865-02032025",
-    "latitude": "-35.200527",
-    "longitude": "149.154752",
-    "region": "act",
-    "time_of_call": "02 Mar 2025 21:53:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HARRISON",
-    "updated": "02 Mar 2025 23:11:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CONDER",
     "id": "013866-02032025",
     "latitude": "-35.458351",
@@ -69,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "02 Mar 2025 23:37:09"
+    "updated": "02 Mar 2025 23:56:57"
   },
   {
     "agency": "Ambulance",
@@ -93,37 +75,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FISHER",
-    "id": "013870-02032025",
-    "latitude": "-35.360481",
-    "longitude": "149.058056",
-    "region": "act",
-    "time_of_call": "02 Mar 2025 22:42:17",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FISHER",
-    "updated": "02 Mar 2025 23:33:18"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BANKS",
     "id": "013872-02032025",
     "latitude": "-35.471552",
     "longitude": "149.100249",
     "region": "act",
     "time_of_call": "02 Mar 2025 23:01:43",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "02 Mar 2025 23:06:50"
+    "updated": "02 Mar 2025 23:56:18"
   },
   {
     "title": "Bundanoon Road East HR",
@@ -393,7 +357,7 @@
     "latitude": "-30.9532115229999",
     "longitude": "149.464408273",
     "region": "nsw",
-    "time_of_call": "02 Mar 2025 15:43:00",
+    "time_of_call": "02 Mar 2025 22:29:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -406,9 +370,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "5367 ha",
+    "size": "5280 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Mar 2025 15:43"
+    "updated": "2 Mar 2025 22:29"
   },
   {
     "title": "SUNNYSIDE FIRE, WARRUMBUNGLES WAY",
@@ -418,7 +382,7 @@
     "latitude": "-31.4429187769999",
     "longitude": "149.33140564",
     "region": "nsw",
-    "time_of_call": "02 Mar 2025 19:29:00",
+    "time_of_call": "02 Mar 2025 23:00:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -433,7 +397,7 @@
     "fire": "Yes",
     "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Mar 2025 19:29"
+    "updated": "2 Mar 2025 23:00"
   },
   {
     "title": "Little O'Donnell HR",
@@ -650,7 +614,7 @@
     "latitude": "-31.120544434",
     "longitude": "149.629989625",
     "region": "nsw",
-    "time_of_call": "02 Mar 2025 16:07:00",
+    "time_of_call": "02 Mar 2025 23:00:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -665,7 +629,7 @@
     "fire": "Yes",
     "size": "51 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Mar 2025 16:07"
+    "updated": "2 Mar 2025 23:00"
   },
   {
     "title": "Ridge HR",
@@ -1243,10 +1207,13 @@
     "latitude": "-30.3725795739999",
     "longitude": "151.558044434",
     "region": "nsw",
-    "time_of_call": "02 Mar 2025 23:35:00",
+    "time_of_call": "02 Mar 2025 23:37:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "BOOROLONG RD, DUMARESQ 2350",
     "council_area": "Armidale",
     "type": "Grass Fire",
@@ -1255,7 +1222,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Mar 2025 23:35"
+    "updated": "2 Mar 2025 23:37"
   },
   {
     "title": "Christmas Bells Rd, Coffs Harbour",
@@ -1281,5 +1248,49 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "2 Mar 2025 23:30"
+  },
+  {
+    "title": "CHRISTMAS BELLS RD, COFFS HARBOUR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592090",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.311130524",
+    "longitude": "153.12034607",
+    "region": "nsw",
+    "time_of_call": "02 Mar 2025 23:55:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "CHRISTMAS BELLS RD, COFFS HARBOUR 2450",
+    "council_area": "Coffs Harbour",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "2 Mar 2025 23:55"
+  },
+  {
+    "title": "COOPERS LANE S, MAIN ARM",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592091",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.5357112889999",
+    "longitude": "153.439315796",
+    "region": "nsw",
+    "time_of_call": "02 Mar 2025 23:49:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "10 COOPERS LANE S, MAIN ARM 2482",
+    "council_area": "Byron",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Mar 2025 23:49"
   }
 ]
