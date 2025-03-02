@@ -35,25 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "02 Mar 2025 21:12:53"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WESTON",
-    "id": "013845-02032025",
-    "latitude": "-35.335896",
-    "longitude": "149.058387",
-    "region": "act",
-    "time_of_call": "02 Mar 2025 18:59:16",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WESTON",
-    "updated": "02 Mar 2025 21:30:54"
+    "updated": "02 Mar 2025 21:55:49"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "02 Mar 2025 21:33:26"
+    "updated": "02 Mar 2025 21:55:33"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "02 Mar 2025 21:38:35"
+    "updated": "02 Mar 2025 22:01:41"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "02 Mar 2025 21:29:10"
+    "updated": "02 Mar 2025 22:03:48"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +119,13 @@
     "longitude": "149.142366",
     "region": "act",
     "time_of_call": "02 Mar 2025 21:01:17",
-    "status": "Resource Allocation Pending",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "02 Mar 2025 21:48:34"
+    "updated": "02 Mar 2025 22:04:19"
   },
   {
     "agency": "Ambulance",
@@ -162,6 +144,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
     "updated": "02 Mar 2025 21:39:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "013865-02032025",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "02 Mar 2025 21:53:55",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HARRISON",
+    "updated": "02 Mar 2025 22:17:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "013866-02032025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "02 Mar 2025 21:55:16",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "02 Mar 2025 21:59:41"
   },
   {
     "title": "Bundanoon Road East HR",
@@ -1234,10 +1252,13 @@
     "latitude": "-30.87223053",
     "longitude": "150.821945191",
     "region": "nsw",
-    "time_of_call": "02 Mar 2025 21:32:00",
+    "time_of_call": "02 Mar 2025 21:45:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "SULCOR RD, ATTUNGA 2345",
     "council_area": "Tamworth",
     "type": "Bush Fire",
@@ -1246,7 +1267,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Mar 2025 21:32"
+    "updated": "2 Mar 2025 21:45"
   },
   {
     "title": "WINE COUNTRY DR, POKOLBIN",
@@ -1256,9 +1277,9 @@
     "latitude": "-32.725589752",
     "longitude": "151.325942994",
     "region": "nsw",
-    "time_of_call": "02 Mar 2025 21:40:00",
+    "time_of_call": "02 Mar 2025 22:01:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "WINE COUNTRY DR, POKOLBIN 2320",
     "council_area": "Cessnock",
@@ -1268,6 +1289,48 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Mar 2025 21:40"
+    "updated": "2 Mar 2025 22:01"
+  },
+  {
+    "title": "GULLIES RD, MOONBAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592084",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.51228714",
+    "longitude": "148.592529296",
+    "region": "nsw",
+    "time_of_call": "02 Mar 2025 21:53:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "362 GULLIES RD, MOONBAH 2627",
+    "council_area": "Snowy Monaro",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Mar 2025 21:53"
+  },
+  {
+    "title": "PACIFIC HWY, WOODBURN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592085",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.081720353",
+    "longitude": "153.338638306",
+    "region": "nsw",
+    "time_of_call": "02 Mar 2025 22:15:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, WOODBURN 2472",
+    "council_area": "Richmond Valley",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Mar 2025 22:15"
   }
 ]
