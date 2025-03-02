@@ -99,13 +99,13 @@
     "longitude": "149.154752",
     "region": "act",
     "time_of_call": "03 Mar 2025 04:07:31",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "03 Mar 2025 04:15:27"
+    "updated": "03 Mar 2025 04:24:28"
   },
   {
     "title": "Bundanoon Road East HR",
@@ -1337,8 +1337,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592100",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.926418305",
-    "longitude": "151.391433716",
+    "latitude": "-32.9256629939999",
+    "longitude": "151.386291504",
     "region": "nsw",
     "time_of_call": "03 Mar 2025 04:13:00",
     "event_type": "burnt area",
@@ -1351,5 +1351,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Mar 2025 04:13"
+  },
+  {
+    "title": "TRAFALGAR LINE, WOOLGOOLGA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592101",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.11305046",
+    "longitude": "153.206893921",
+    "region": "nsw",
+    "time_of_call": "03 Mar 2025 04:22:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "TRAFALGAR LINE, WOOLGOOLGA 2456",
+    "council_area": "Coffs Harbour",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Mar 2025 04:22"
   }
 ]
