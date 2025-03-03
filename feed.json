@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "04 Mar 2025 03:03:00"
+    "updated": "04 Mar 2025 03:46:33"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WHITLAM",
-    "updated": "04 Mar 2025 03:21:53"
+    "updated": "04 Mar 2025 03:44:24"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "04 Mar 2025 03:20:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "04 Mar 2025 03:28:04"
+    "updated": "04 Mar 2025 03:48:44"
   },
   {
     "title": "Bundanoon Road East HR",
@@ -951,23 +951,70 @@
     "updated": "3 Mar 2025 23:59"
   },
   {
-    "title": "PRINCES HWY, MADDENS PLAINS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592203",
+    "title": "BARELLAN RD, BARELLAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592204",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.2455787659999",
-    "longitude": "150.941741943",
+    "latitude": "-34.317310334",
+    "longitude": "146.568634033",
     "region": "nsw",
-    "time_of_call": "04 Mar 2025 02:23:00",
+    "time_of_call": "04 Mar 2025 03:33:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BARELLAN RD, BARELLAN 2665",
+    "council_area": "Narrandera",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Mar 2025 03:33"
+  },
+  {
+    "title": "Hooka Creek Rd, Berkeley",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592205",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.482316",
+    "longitude": "150.833049",
+    "region": "nsw",
+    "time_of_call": "04 Mar 2025 03:44:00",
     "event_type": "burnt area",
     "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "84B PRINCES HWY, MADDENS PLAINS 2508",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Hooka Creek Rd, Berkeley, NSW 2506",
     "council_area": "Wollongong",
-    "type": "Flood/Storm/Tree Down",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "4 Mar 2025 03:44"
+  },
+  {
+    "title": "MOUNT ANNAN DR, MOUNT ANNAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592206",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.0673561089999",
+    "longitude": "150.768081665",
+    "region": "nsw",
+    "time_of_call": "04 Mar 2025 03:35:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MOUNT ANNAN DR, MOUNT ANNAN 2567",
+    "council_area": "Camden",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Mar 2025 02:23"
+    "updated": "4 Mar 2025 03:35"
   }
 ]
