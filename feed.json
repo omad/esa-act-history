@@ -81,13 +81,13 @@
     "longitude": "149.135062",
     "region": "act",
     "time_of_call": "04 Mar 2025 14:36:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "04 Mar 2025 16:17:33"
+    "updated": "04 Mar 2025 16:42:39"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "04 Mar 2025 16:26:07"
+    "updated": "04 Mar 2025 16:37:05"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +171,13 @@
     "longitude": "149.046336",
     "region": "act",
     "time_of_call": "04 Mar 2025 15:28:55",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "04 Mar 2025 16:13:34"
+    "updated": "04 Mar 2025 16:45:23"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +213,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "04 Mar 2025 16:26:19"
+    "updated": "04 Mar 2025 16:47:35"
   },
   {
     "agency": "Ambulance",
@@ -225,13 +225,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "04 Mar 2025 15:40:40",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "04 Mar 2025 15:44:01"
+    "updated": "04 Mar 2025 16:48:28"
   },
   {
     "agency": "Ambulance",
@@ -261,13 +261,13 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "04 Mar 2025 15:49:51",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "04 Mar 2025 16:34:53"
+    "updated": "04 Mar 2025 16:48:49"
   },
   {
     "agency": "Ambulance",
@@ -285,7 +285,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "04 Mar 2025 16:31:17"
+    "updated": "04 Mar 2025 16:46:56"
   },
   {
     "agency": "Ambulance",
@@ -340,6 +340,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
     "updated": "04 Mar 2025 16:28:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "014269-04032025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "04 Mar 2025 16:38:48",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "04 Mar 2025 16:47:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RED HILL",
+    "id": "014270-04032025",
+    "latitude": "-35.333636",
+    "longitude": "149.120031",
+    "region": "act",
+    "time_of_call": "04 Mar 2025 16:47:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RED HILL",
+    "updated": "04 Mar 2025 16:48:51"
   },
   {
     "title": "Assist Tasmania",
@@ -1004,28 +1040,6 @@
     "updated": "4 Mar 2025 15:58"
   },
   {
-    "title": "CLARENCE WAY, SANDILANDS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592215",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.901241302",
-    "longitude": "152.654342651",
-    "region": "nsw",
-    "time_of_call": "04 Mar 2025 08:47:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "CLARENCE WAY, SANDILANDS 2469",
-    "council_area": "Kyogle",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Mar 2025 08:47"
-  },
-  {
     "title": "HIGH CR, TURA BEACH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592218",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1312,9 +1326,9 @@
     "latitude": "-33.972583771",
     "longitude": "150.758972168",
     "region": "nsw",
-    "time_of_call": "04 Mar 2025 16:12:00",
+    "time_of_call": "04 Mar 2025 16:41:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "416 CATHERINE FIELDS RD, CATHERINE FIELD 2557",
     "council_area": "Camden",
@@ -1324,6 +1338,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Mar 2025 16:12"
+    "updated": "4 Mar 2025 16:41"
+  },
+  {
+    "title": "NOORONG RD, MELLOOL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592264",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.3511657719999",
+    "longitude": "143.788269043",
+    "region": "nsw",
+    "time_of_call": "04 Mar 2025 16:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "NOORONG RD, MELLOOL 2734",
+    "council_area": "Murray River",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Mar 2025 16:36"
   }
 ]
