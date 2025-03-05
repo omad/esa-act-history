@@ -79,24 +79,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
-    "id": "014626-06032025",
-    "latitude": "-35.425091",
-    "longitude": "149.088064",
-    "region": "act",
-    "time_of_call": "06 Mar 2025 08:59:08",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "ISABELLA PLAINS",
-    "updated": "06 Mar 2025 10:32:39"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MAWSON",
     "id": "014633-06032025",
     "latitude": "-35.361049",
@@ -163,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "06 Mar 2025 10:25:57"
+    "updated": "06 Mar 2025 10:38:28"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +175,13 @@
     "longitude": "149.111133",
     "region": "act",
     "time_of_call": "06 Mar 2025 10:14:38",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "06 Mar 2025 10:30:01"
+    "updated": "06 Mar 2025 10:36:40"
   },
   {
     "agency": "Ambulance",
@@ -229,13 +211,13 @@
     "longitude": "149.111857",
     "region": "act",
     "time_of_call": "06 Mar 2025 10:22:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "06 Mar 2025 10:30:49"
+    "updated": "06 Mar 2025 10:35:59"
   },
   {
     "agency": "Ambulance",
@@ -254,6 +236,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "06 Mar 2025 10:29:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "014648-06032025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "06 Mar 2025 10:35:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "06 Mar 2025 10:41:53"
   },
   {
     "title": "Bundanoon Road East HR",
@@ -841,7 +841,7 @@
     "latitude": "-28.33643341",
     "longitude": "153.41947937",
     "region": "nsw",
-    "time_of_call": "05 Mar 2025 14:14:00",
+    "time_of_call": "06 Mar 2025 10:36:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -851,7 +851,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Mar 2025 14:14"
+    "updated": "6 Mar 2025 10:36"
   },
   {
     "title": "Red Hill Road - Hazard Reduction",
@@ -990,7 +990,7 @@
     "latitude": "-34.256568909",
     "longitude": "146.394165039",
     "region": "nsw",
-    "time_of_call": "05 Mar 2025 18:47:00",
+    "time_of_call": "06 Mar 2025 10:36:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1002,7 +1002,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Mar 2025 18:47"
+    "updated": "6 Mar 2025 10:36"
   },
   {
     "title": "BONDI GULF NATURE RESERVE BONDI FOREST",
@@ -1034,22 +1034,19 @@
     "latitude": "-34.828746795",
     "longitude": "145.808258057",
     "region": "nsw",
-    "time_of_call": "05 Mar 2025 20:58:00",
+    "time_of_call": "06 Mar 2025 10:31:00",
     "event_type": "burnt area",
     "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
+    "alert_level": "Not Applicable",
     "location": "12 STEELE RD, COLEAMBALLY 2707",
     "council_area": "Murrumbidgee",
-    "type": "Grass Fire",
+    "type": "Bush Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Mar 2025 20:58"
+    "updated": "6 Mar 2025 10:31"
   },
   {
     "title": "WALLAH WALLAH LANE, JEMALONG",
@@ -1240,46 +1237,6 @@
     "updated": "6 Mar 2025 07:59"
   },
   {
-    "title": "BIG RIVER WAY, ULMARRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592490",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.5855998989999",
-    "longitude": "153.048721313",
-    "region": "nsw",
-    "time_of_call": "06 Mar 2025 09:23:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "3007 BIG RIVER WAY, ULMARRA 2462",
-    "council_area": "Clarence Valley",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Mar 2025 09:23"
-  },
-  {
-    "title": "BANGALOW RD, BYRON BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592493",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.65886116",
-    "longitude": "153.616043091",
-    "region": "nsw",
-    "time_of_call": "06 Mar 2025 09:56:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "91 BANGALOW RD, BYRON BAY 2481",
-    "council_area": "Byron",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Mar 2025 09:56"
-  },
-  {
     "title": "DOBELL PL, KENTHURST",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592494",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1305,26 +1262,6 @@
     "updated": "6 Mar 2025 10:24"
   },
   {
-    "title": "WATERFALL WAY, FERNBROOK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592495",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.3799572",
-    "longitude": "152.571914673",
-    "region": "nsw",
-    "time_of_call": "06 Mar 2025 09:45:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "WATERFALL WAY, FERNBROOK 2453",
-    "council_area": "Bellingen",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Mar 2025 09:45"
-  },
-  {
     "title": "MYOCUM RD, MYOCUM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592498",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1332,9 +1269,9 @@
     "latitude": "-28.6066608429999",
     "longitude": "153.508850098",
     "region": "nsw",
-    "time_of_call": "06 Mar 2025 10:13:00",
+    "time_of_call": "06 Mar 2025 10:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "688 MYOCUM RD, MYOCUM 2481",
     "council_area": "Byron",
@@ -1342,6 +1279,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Mar 2025 10:13"
+    "updated": "6 Mar 2025 10:38"
   }
 ]
