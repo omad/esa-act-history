@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "LAMBRIGG SCENIC LOOKOUT, TIDBINBILLA ROAD, PADDYS RIVER",
-    "updated": "06 Mar 2025 06:28:00"
+    "updated": "06 Mar 2025 06:39:47"
   },
   {
     "agency": "Ambulance",
@@ -55,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "06 Mar 2025 06:05:49"
+    "updated": "06 Mar 2025 06:34:50"
   },
   {
     "agency": "Ambulance",
@@ -67,13 +67,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "06 Mar 2025 05:02:59",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "06 Mar 2025 05:09:24"
+    "updated": "06 Mar 2025 06:43:01"
   },
   {
     "agency": "Ambulance",
@@ -91,25 +91,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "06 Mar 2025 06:20:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CURTIN",
-    "id": "014602-06032025",
-    "latitude": "-35.326585",
-    "longitude": "149.076856",
-    "region": "act",
-    "time_of_call": "06 Mar 2025 05:54:27",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CURTIN",
-    "updated": "06 Mar 2025 05:57:12"
+    "updated": "06 Mar 2025 06:31:13"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "06 Mar 2025 06:27:01"
+    "updated": "06 Mar 2025 06:48:50"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +139,31 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "06 Mar 2025 06:23:09",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "06 Mar 2025 06:26:39"
+    "updated": "06 Mar 2025 06:45:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "014607-06032025",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "06 Mar 2025 06:35:47",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "06 Mar 2025 06:45:45"
   },
   {
     "title": "Bundanoon Road East HR",
@@ -1160,9 +1160,9 @@
     "latitude": "-35.496673584",
     "longitude": "146.756347656",
     "region": "nsw",
-    "time_of_call": "06 Mar 2025 06:04:00",
+    "time_of_call": "06 Mar 2025 06:44:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "ARRANMORE 499 FORCKS LANE, PLEASANT HILLS 2658",
     "council_area": "Lockhart",
@@ -1172,7 +1172,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Mar 2025 06:04"
+    "updated": "6 Mar 2025 06:44"
   },
   {
     "title": "RANGARI RD, RANGARI",
@@ -1182,9 +1182,9 @@
     "latitude": "-30.6730270379999",
     "longitude": "150.394439698",
     "region": "nsw",
-    "time_of_call": "06 Mar 2025 06:11:00",
+    "time_of_call": "06 Mar 2025 06:44:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "SUNSHINE COTTAGE 3596 RANGARI RD, RANGARI 2380",
     "council_area": "Gunnedah",
@@ -1194,6 +1194,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Mar 2025 06:11"
+    "updated": "6 Mar 2025 06:44"
+  },
+  {
+    "title": "ALDERLEY LANE, BOORAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592482",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.44411087",
+    "longitude": "151.968963623",
+    "region": "nsw",
+    "time_of_call": "06 Mar 2025 06:42:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ALDERLEY LANE, BOORAL 2425",
+    "council_area": "Mid-Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Mar 2025 06:42"
   }
 ]
