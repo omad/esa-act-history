@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "06 Mar 2025 02:29:49"
+    "updated": "06 Mar 2025 03:58:45"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,13 @@
     "longitude": "149.094654",
     "region": "act",
     "time_of_call": "06 Mar 2025 00:11:23",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "06 Mar 2025 03:52:18"
+    "updated": "06 Mar 2025 04:07:37"
   },
   {
     "agency": "Ambulance",
@@ -108,24 +108,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
     "updated": "06 Mar 2025 01:22:44"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHARNWOOD",
-    "id": "014583-06032025",
-    "latitude": "-35.200338",
-    "longitude": "149.036735",
-    "region": "act",
-    "time_of_call": "06 Mar 2025 01:10:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHARNWOOD",
-    "updated": "06 Mar 2025 03:42:33"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,31 @@
     "longitude": "149.146674",
     "region": "act",
     "time_of_call": "06 Mar 2025 03:52:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "06 Mar 2025 03:54:54"
+    "updated": "06 Mar 2025 04:09:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "014595-06032025",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "06 Mar 2025 04:20:37",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "06 Mar 2025 04:21:05"
   },
   {
     "title": "Bundanoon Road East HR",
@@ -1185,5 +1185,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Mar 2025 03:29"
+  },
+  {
+    "title": "LOGANS CROSSING RD, KENDALL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592474",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.626714706",
+    "longitude": "152.699310302",
+    "region": "nsw",
+    "time_of_call": "06 Mar 2025 04:15:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1 LOGANS CROSSING RD, KENDALL 2439",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Mar 2025 04:15"
   }
 ]
