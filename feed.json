@@ -20,6 +20,26 @@
     "updated": "06 Mar 2025 19:48:41"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "CAR FIRE - STROMLO",
+    "id": "004082-06032025",
+    "latitude": "-35.3197669983",
+    "longitude": "148.9582519531",
+    "region": "act",
+    "time_of_call": "06 Mar 2025 20:29:23",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "CAR FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
+    "location": "(ROSSO), CASUARINA SANDS ROAD, STROMLO, 0000",
+    "updated": "06 Mar 2025 20:37:20"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -53,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "06 Mar 2025 20:02:33"
+    "updated": "06 Mar 2025 20:36:38"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "06 Mar 2025 20:18:50"
+    "updated": "06 Mar 2025 20:35:32"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +217,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "06 Mar 2025 19:51:55"
+    "updated": "06 Mar 2025 20:35:19"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +235,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "06 Mar 2025 20:03:09"
+    "updated": "06 Mar 2025 20:30:55"
   },
   {
     "agency": "Ambulance",
@@ -245,13 +265,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "06 Mar 2025 20:04:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "06 Mar 2025 20:24:05"
+    "updated": "06 Mar 2025 20:33:45"
   },
   {
     "agency": "Ambulance",
@@ -263,13 +283,13 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "06 Mar 2025 20:06:54",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "06 Mar 2025 20:18:07"
+    "updated": "06 Mar 2025 20:25:29"
   },
   {
     "agency": "Ambulance",
@@ -341,7 +361,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "06 Mar 2025 20:24:17"
+    "updated": "06 Mar 2025 20:36:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUGHES",
+    "id": "014774-06032025",
+    "latitude": "-35.333105",
+    "longitude": "149.094654",
+    "region": "act",
+    "time_of_call": "06 Mar 2025 20:30:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUGHES",
+    "updated": "06 Mar 2025 20:34:11"
   },
   {
     "title": "Bundanoon Road East HR",
@@ -478,28 +516,6 @@
     "size": "25 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Mar 2025 16:06"
-  },
-  {
-    "title": "Best HR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_591684",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.640029907",
-    "longitude": "151.00843811",
-    "region": "nsw",
-    "time_of_call": "05 Mar 2025 15:30:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "BEST RD, MIDDLE DURAL 2158",
-    "council_area": "The Hills",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "61 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Mar 2025 15:30"
   },
   {
     "title": "WYUNA FIRE, OXLEY HWY",
@@ -1121,12 +1137,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592519",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.605219",
-    "longitude": "150.814725",
+    "latitude": "-33.603578581",
+    "longitude": "150.814550129",
     "region": "nsw",
-    "time_of_call": "06 Mar 2025 13:10:00",
+    "time_of_call": "06 Mar 2025 20:24:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1139,7 +1155,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Mar 2025 13:10"
+    "updated": "6 Mar 2025 20:24"
   },
   {
     "title": "TROUBALGIE RD, FORBES",
@@ -1409,28 +1425,6 @@
     "updated": "6 Mar 2025 18:34"
   },
   {
-    "title": "SANCTUARY POINT RD, SANCTUARY POINT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592567",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.1068916319999",
-    "longitude": "150.639068603",
-    "region": "nsw",
-    "time_of_call": "06 Mar 2025 18:43:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "SANCTUARY POINT RD, SANCTUARY POINT 2540",
-    "council_area": "Shoalhaven",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Mar 2025 18:43"
-  },
-  {
     "title": "MITCHELL HWY, TRANGIE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592568",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1500,28 +1494,6 @@
     "updated": "6 Mar 2025 20:20"
   },
   {
-    "title": "OLD MISSION RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592577",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.9825630189999",
-    "longitude": "146.964935302",
-    "region": "nsw",
-    "time_of_call": "06 Mar 2025 19:11:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "BARWON FOUR INDIGENOUS COMMUNITY OLD MISSION RD, BREWARRINA 2839",
-    "council_area": "Brewarrina",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Mar 2025 19:11"
-  },
-  {
     "title": "OLD MAITLAND RD, CESSNOCK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592579",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1589,5 +1561,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Mar 2025 20:06"
+  },
+  {
+    "title": "SMITHS CREEK RD, SMITHS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592583",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.417240143",
+    "longitude": "153.360000611",
+    "region": "nsw",
+    "time_of_call": "06 Mar 2025 20:31:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "SMITHS CREEK RD, SMITHS CREEK 2484",
+    "council_area": "Tweed",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Mar 2025 20:31"
   }
 ]
