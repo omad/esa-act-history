@@ -63,13 +63,13 @@
     "longitude": "149.094654",
     "region": "act",
     "time_of_call": "08 Mar 2025 00:51:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "08 Mar 2025 02:22:29"
+    "updated": "08 Mar 2025 02:40:42"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUME",
-    "updated": "08 Mar 2025 02:25:25"
+    "updated": "08 Mar 2025 02:44:13"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,13 @@
     "longitude": "149.164242248",
     "region": "act",
     "time_of_call": "08 Mar 2025 01:33:08",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "SOUTHSIDE VILLAGE, CANBERRA AVENUE, SYMONSTON, 2609",
-    "updated": "08 Mar 2025 01:58:06"
+    "updated": "08 Mar 2025 02:47:29"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "08 Mar 2025 02:32:41"
+    "updated": "08 Mar 2025 02:48:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "015017-08032025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "08 Mar 2025 02:37:26",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": "08 Mar 2025 02:41:27"
   },
   {
     "title": "Assist Tasmania",
@@ -1415,9 +1433,9 @@
     "latitude": "-35.63709259",
     "longitude": "145.756576538",
     "region": "nsw",
-    "time_of_call": "08 Mar 2025 01:11:00",
+    "time_of_call": "08 Mar 2025 02:38:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "244 REYNOLDSONS RD, BERRIGAN 2712",
     "council_area": "Berrigan",
@@ -1427,28 +1445,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Mar 2025 01:11"
-  },
-  {
-    "title": "MOONEE BEACH RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592830",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.20627594",
-    "longitude": "153.149871826",
-    "region": "nsw",
-    "time_of_call": "08 Mar 2025 02:05:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "MOONEE BEACH SHOPPING CENTRE 2B MOONEE BEACH RD, MOONEE BEACH 2450",
-    "council_area": "Coffs Harbour",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Mar 2025 02:05"
+    "updated": "8 Mar 2025 02:38"
   }
 ]
