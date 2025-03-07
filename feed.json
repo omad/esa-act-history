@@ -33,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "07 Mar 2025 23:53:24"
+    "updated": "08 Mar 2025 01:24:09"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "08 Mar 2025 00:51:32"
+    "updated": "08 Mar 2025 01:35:33"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,31 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "08 Mar 2025 01:10:04",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "08 Mar 2025 01:35:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - ACTON",
+    "id": "015010-08032025",
+    "latitude": "-35.28728",
+    "longitude": "149.11701199",
+    "region": "act",
+    "time_of_call": "08 Mar 2025 01:33:08",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WATSON",
-    "updated": "08 Mar 2025 01:12:45"
+    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
+    "location": "BACHELORS LANE, LENNOX CROSSING, ACTON, 2601",
+    "updated": "08 Mar 2025 01:36:45"
   },
   {
     "title": "Assist Tasmania",
@@ -1372,28 +1390,6 @@
     "updated": "8 Mar 2025 00:05"
   },
   {
-    "title": "MARKET ST, MERIMBULA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592822",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.888706207",
-    "longitude": "149.910888672",
-    "region": "nsw",
-    "time_of_call": "08 Mar 2025 01:11:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "TWYFORD HALL 16 MARKET ST, MERIMBULA 2548",
-    "council_area": "Bega Valley",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Mar 2025 01:11"
-  },
-  {
     "title": "REYNOLDSONS RD, BERRIGAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592823",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1416,26 +1412,6 @@
     "updated": "8 Mar 2025 01:11"
   },
   {
-    "title": "(PACIFIC HWY), VALLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592825",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.627817154",
-    "longitude": "152.972991943",
-    "region": "nsw",
-    "time_of_call": "08 Mar 2025 01:17:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "A1 (PACIFIC HWY), VALLA 2448",
-    "council_area": "Nambucca",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Mar 2025 01:17"
-  },
-  {
     "title": "NEW ENGLAND HWY, THORNTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592826",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1454,5 +1430,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Mar 2025 01:01"
+  },
+  {
+    "title": "Francis St, Cessnock",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592828",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8449699999999",
+    "longitude": "151.341763001",
+    "region": "nsw",
+    "time_of_call": "08 Mar 2025 01:24:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Francis St, Cessnock, NSW 2325",
+    "council_area": "Cessnock",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "8 Mar 2025 01:24"
   }
 ]
