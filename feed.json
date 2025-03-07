@@ -107,25 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "08 Mar 2025 10:04:00"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HACKETT",
-    "id": "015057-08032025",
-    "latitude": "-35.249801",
-    "longitude": "149.165368",
-    "region": "act",
-    "time_of_call": "08 Mar 2025 09:06:41",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HACKETT",
-    "updated": "08 Mar 2025 09:50:13"
+    "updated": "08 Mar 2025 10:17:19"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +137,13 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "08 Mar 2025 09:45:28",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "08 Mar 2025 09:50:59"
+    "updated": "08 Mar 2025 10:19:17"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,31 @@
     "longitude": "149.100249",
     "region": "act",
     "time_of_call": "08 Mar 2025 10:09:05",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BANKS",
+    "updated": "08 Mar 2025 10:22:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "015073-08032025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "08 Mar 2025 10:24:51",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "BANKS",
-    "updated": "08 Mar 2025 10:11:43"
+    "location": "FARRER",
+    "updated": "08 Mar 2025 10:27:17"
   },
   {
     "title": "Assist Tasmania",
@@ -545,6 +545,28 @@
     "updated": "7 Mar 2025 19:39"
   },
   {
+    "title": "Western Side of Crace Lane Brindabella",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592396",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.413349152",
+    "longitude": "148.731536865",
+    "region": "nsw",
+    "time_of_call": "08 Mar 2025 10:11:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "CRACE LANE, BRINDABELLA 2611",
+    "council_area": "Snowy Valleys",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "153 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Mar 2025 10:11"
+  },
+  {
     "title": "BONDI GULF NATURE RESERVE BONDI FOREST",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592422",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -861,7 +883,7 @@
     "latitude": "-33.0407600409999",
     "longitude": "147.669647217",
     "region": "nsw",
-    "time_of_call": "08 Mar 2025 05:04:00",
+    "time_of_call": "08 Mar 2025 10:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -873,7 +895,7 @@
     "fire": "Yes",
     "size": "92 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "8 Mar 2025 05:04"
+    "updated": "8 Mar 2025 10:19"
   },
   {
     "title": "BACK TRUNDLE RD, TRUNDLE",
@@ -1364,26 +1386,6 @@
     "updated": "8 Mar 2025 09:37"
   },
   {
-    "title": "QUEEN ST, BARMEDMAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592853",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.142635345",
-    "longitude": "147.385955811",
-    "region": "nsw",
-    "time_of_call": "08 Mar 2025 09:50:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "UNIT 3/ 78-80 QUEEN ST, BARMEDMAN 2668",
-    "council_area": "Bland",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Mar 2025 09:50"
-  },
-  {
     "title": "EAST BANK RD, NANA GLEN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592854",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1391,9 +1393,9 @@
     "latitude": "-30.153676987",
     "longitude": "153.019195557",
     "region": "nsw",
-    "time_of_call": "08 Mar 2025 09:54:00",
+    "time_of_call": "08 Mar 2025 10:22:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1020 EAST BANK RD, NANA GLEN 2450",
     "council_area": "Coffs Harbour",
@@ -1401,7 +1403,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Mar 2025 09:54"
+    "updated": "8 Mar 2025 10:22"
   },
   {
     "title": "(PACIFIC MTWY), BAR POINT",
@@ -1411,9 +1413,9 @@
     "latitude": "-33.4803009039999",
     "longitude": "151.184204102",
     "region": "nsw",
-    "time_of_call": "08 Mar 2025 10:03:00",
+    "time_of_call": "08 Mar 2025 10:06:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "M1 (PACIFIC MTWY), BAR POINT 2083",
     "council_area": "Central Coast",
@@ -1423,7 +1425,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Mar 2025 10:03"
+    "updated": "8 Mar 2025 10:06"
   },
   {
     "title": "CARRIGAN RD, BOGGABILLA",
@@ -1444,5 +1446,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Mar 2025 10:08"
+  },
+  {
+    "title": "THE SNOWY RIVER WAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592857",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.5274314879999",
+    "longitude": "148.997528076",
+    "region": "nsw",
+    "time_of_call": "08 Mar 2025 10:14:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MAFFRA STATION **REIGNITION** 3745 THE SNOWY RIVER WAY, MAFFRA 2630",
+    "council_area": "Snowy Monaro",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Mar 2025 10:14"
   }
 ]
