@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "08 Mar 2025 14:14:42"
+    "updated": "08 Mar 2025 14:30:00"
   },
   {
     "agency": "Ambulance",
@@ -52,24 +52,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
     "updated": "08 Mar 2025 14:16:09"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "015104-08032025",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
-    "region": "act",
-    "time_of_call": "08 Mar 2025 12:19:11",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "08 Mar 2025 14:18:28"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +171,13 @@
     "longitude": "149.115669",
     "region": "act",
     "time_of_call": "08 Mar 2025 13:46:22",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
-    "updated": "08 Mar 2025 14:21:55"
+    "updated": "08 Mar 2025 14:23:34"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +195,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "08 Mar 2025 14:21:03"
+    "updated": "08 Mar 2025 14:24:09"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +213,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "08 Mar 2025 14:20:24"
+    "updated": "08 Mar 2025 14:22:19"
   },
   {
     "agency": "Ambulance",
@@ -285,7 +267,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "08 Mar 2025 14:18:23"
+    "updated": "08 Mar 2025 14:23:55"
   },
   {
     "title": "Assist Tasmania",
@@ -1296,9 +1278,9 @@
     "latitude": "-36.292110443",
     "longitude": "148.970214844",
     "region": "nsw",
-    "time_of_call": "08 Mar 2025 13:49:00",
+    "time_of_call": "08 Mar 2025 14:23:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1309,9 +1291,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Mar 2025 13:49"
+    "updated": "8 Mar 2025 14:23"
   },
   {
     "title": "Titanic Dr, Nyngan",
@@ -1379,5 +1361,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Mar 2025 14:16"
+  },
+  {
+    "title": "QUANDIALLA-CARAGABAL RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592888",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.8918457039999",
+    "longitude": "147.763122558",
+    "region": "nsw",
+    "time_of_call": "08 Mar 2025 14:23:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "YARRAN VALE 599 QUANDIALLA-CARAGABAL RD, CARAGABAL 2810",
+    "council_area": "Weddin",
+    "type": "Planned Event",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Mar 2025 14:23"
   }
 ]
