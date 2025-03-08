@@ -9,15 +9,15 @@
     "longitude": "149.0941162109",
     "region": "act",
     "time_of_call": "08 Mar 2025 16:03:24",
-    "status": "On Scene",
+    "status": "Out / Completed",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
+    "status_filter_label": "Out / Completed",
     "type": "GRASS AND BUSH FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "DENISON STREET, THESIGER COURT, DEAKIN, 2600",
-    "updated": "08 Mar 2025 16:13:35"
+    "updated": "08 Mar 2025 16:24:29"
   },
   {
     "agency": "Ambulance",
@@ -36,24 +36,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
     "updated": "08 Mar 2025 16:16:28"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - THEODORE",
-    "id": "015123-08032025",
-    "latitude": "-35.449632",
-    "longitude": "149.120754",
-    "region": "act",
-    "time_of_call": "08 Mar 2025 13:52:54",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "THEODORE",
-    "updated": "08 Mar 2025 15:13:56"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "08 Mar 2025 16:15:23"
+    "updated": "08 Mar 2025 16:27:53"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +155,31 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "08 Mar 2025 16:07:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "08 Mar 2025 16:09:44"
+    "updated": "08 Mar 2025 16:20:36"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "015147-08032025",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "08 Mar 2025 16:28:03",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "08 Mar 2025 16:28:49"
   },
   {
     "title": "Assist Tasmania",
@@ -1052,26 +1052,6 @@
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Mar 2025 11:03"
-  },
-  {
-    "title": "DEVONSHIRE RD, KEMPS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592866",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.912822724",
-    "longitude": "150.787185668",
-    "region": "nsw",
-    "time_of_call": "08 Mar 2025 12:35:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "245 DEVONSHIRE RD, KEMPS CREEK 2178",
-    "council_area": "Liverpool",
-    "type": "Planned Event",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Mar 2025 12:35"
   },
   {
     "title": "MAIN CENTRAL RD, CANOBOLAS",
