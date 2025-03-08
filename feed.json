@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "09 Mar 2025 02:20:59"
+    "updated": "09 Mar 2025 02:44:57"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "09 Mar 2025 02:21:06"
+    "updated": "09 Mar 2025 02:41:22"
   },
   {
     "agency": "Ambulance",
@@ -178,6 +178,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
     "updated": "09 Mar 2025 02:08:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "015242-09032025",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "09 Mar 2025 02:30:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "09 Mar 2025 02:38:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "015244-09032025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "09 Mar 2025 02:43:54",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "09 Mar 2025 02:46:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "015245-09032025",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "09 Mar 2025 02:46:10",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HARRISON",
+    "updated": "09 Mar 2025 02:48:51"
   },
   {
     "title": "Assist Tasmania",
@@ -1060,26 +1114,6 @@
     "updated": "8 Mar 2025 21:48"
   },
   {
-    "title": "OXLEY HWY, YARROWITCH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592934",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.34068489",
-    "longitude": "152.020965577",
-    "region": "nsw",
-    "time_of_call": "08 Mar 2025 22:31:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "OXLEY HWY, YARROWITCH 2354",
-    "council_area": "Walcha",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Mar 2025 22:31"
-  },
-  {
     "title": "EAST BRUSHWOOD RD, CURRAWARNA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592941",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1181,9 +1215,9 @@
     "latitude": "-31.435861587",
     "longitude": "152.676361084",
     "region": "nsw",
-    "time_of_call": "09 Mar 2025 02:05:00",
+    "time_of_call": "09 Mar 2025 02:29:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BEECHWOOD RD, BEECHWOOD 2446",
     "council_area": "Port Macquarie-Hastings",
@@ -1193,6 +1227,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Mar 2025 02:05"
+    "updated": "9 Mar 2025 02:29"
+  },
+  {
+    "title": "MAMRE RD, KEMPS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592949",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.8454437259999",
+    "longitude": "150.78642273",
+    "region": "nsw",
+    "time_of_call": "09 Mar 2025 02:41:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "864-882 MAMRE RD, KEMPS CREEK 2178",
+    "council_area": "Penrith",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Mar 2025 02:41"
   }
 ]
