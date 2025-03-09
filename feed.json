@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "COULTER DRIVE, SHUMACK STREET, WEETANGERA, 2614",
-    "updated": "09 Mar 2025 16:26:41"
+    "updated": "09 Mar 2025 16:36:31"
   },
   {
     "agency": "Ambulance",
@@ -47,13 +47,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "09 Mar 2025 15:17:06",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "09 Mar 2025 16:18:56"
+    "updated": "09 Mar 2025 16:42:16"
   },
   {
     "agency": "Ambulance",
@@ -95,37 +95,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TURNER",
-    "id": "015338-09032025",
-    "latitude": "-35.269392",
-    "longitude": "149.126815",
-    "region": "act",
-    "time_of_call": "09 Mar 2025 16:01:36",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TURNER",
-    "updated": "09 Mar 2025 16:23:01"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PAGE",
     "id": "015339-09032025",
     "latitude": "-35.238051",
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "09 Mar 2025 16:19:06",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "09 Mar 2025 16:25:27"
+    "updated": "09 Mar 2025 16:39:01"
   },
   {
     "title": "Assist Tasmania",
@@ -1008,9 +990,9 @@
     "latitude": "-30.845678329",
     "longitude": "143.087707519",
     "region": "nsw",
-    "time_of_call": "09 Mar 2025 16:07:00",
+    "time_of_call": "09 Mar 2025 16:33:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "DUGOUT NO. 63 THE BLOCKS LOT>KAYRUNNERA RD, WHITE CLIFFS 2836",
     "council_area": "Central Darling",
@@ -1018,7 +1000,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Mar 2025 16:07"
+    "updated": "9 Mar 2025 16:33"
   },
   {
     "title": "Moree Bypass, Moree",
@@ -1028,9 +1010,9 @@
     "latitude": "-29.471258001",
     "longitude": "149.847714",
     "region": "nsw",
-    "time_of_call": "09 Mar 2025 16:21:00",
+    "time_of_call": "09 Mar 2025 16:39:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1043,6 +1025,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "9 Mar 2025 16:21"
+    "updated": "9 Mar 2025 16:39"
   }
 ]
