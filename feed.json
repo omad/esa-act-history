@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "09 Mar 2025 14:27:30"
+    "updated": "09 Mar 2025 14:51:42"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,13 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "09 Mar 2025 13:54:42",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "09 Mar 2025 14:47:47"
+    "updated": "09 Mar 2025 14:51:30"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "09 Mar 2025 14:47:48"
+    "updated": "09 Mar 2025 15:11:15"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,13 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "09 Mar 2025 14:40:48",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "09 Mar 2025 14:42:42"
+    "updated": "09 Mar 2025 15:17:30"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +171,49 @@
     "longitude": "149.034875",
     "region": "act",
     "time_of_call": "09 Mar 2025 14:43:10",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LATHAM",
+    "updated": "09 Mar 2025 15:21:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - YARRALUMLA",
+    "id": "015327-09032025",
+    "latitude": "-35.302333",
+    "longitude": "149.099934",
+    "region": "act",
+    "time_of_call": "09 Mar 2025 14:54:25",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "YARRALUMLA",
+    "updated": "09 Mar 2025 15:07:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "015328-09032025",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "09 Mar 2025 15:17:06",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "LATHAM",
-    "updated": "09 Mar 2025 14:48:07"
+    "location": "CAMPBELL",
+    "updated": "09 Mar 2025 15:21:54"
   },
   {
     "title": "Assist Tasmania",
@@ -400,7 +436,7 @@
     "latitude": "-31.8995666509999",
     "longitude": "152.458740234",
     "region": "nsw",
-    "time_of_call": "09 Mar 2025 09:46:00",
+    "time_of_call": "09 Mar 2025 14:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -410,7 +446,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "State Emergency Service",
-    "updated": "9 Mar 2025 09:46"
+    "updated": "9 Mar 2025 14:43"
   },
   {
     "title": "ASSIST SES - PORT MACQUARIE-HASTINGS",
@@ -420,7 +456,7 @@
     "latitude": "-31.4633388519999",
     "longitude": "152.733947754",
     "region": "nsw",
-    "time_of_call": "09 Mar 2025 09:30:00",
+    "time_of_call": "09 Mar 2025 14:47:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -430,7 +466,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "State Emergency Service",
-    "updated": "9 Mar 2025 09:30"
+    "updated": "9 Mar 2025 14:47"
   },
   {
     "title": "ASSIST SES - CYCLONE ALFRED",
@@ -949,26 +985,6 @@
     "updated": "9 Mar 2025 12:02"
   },
   {
-    "title": "EVERINGHAMS RD, PUMPENBIL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592984",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.375736236",
-    "longitude": "153.138916016",
-    "region": "nsw",
-    "time_of_call": "09 Mar 2025 13:37:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "171 EVERINGHAMS RD, PUMPENBIL 2484",
-    "council_area": "Tweed",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Mar 2025 13:37"
-  },
-  {
     "title": "OLD PACIFIC HWY, BURRINGBAR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592986",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1011,48 +1027,6 @@
     "updated": "9 Mar 2025 13:56"
   },
   {
-    "title": "PUTTY RD, PUTTY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592994",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.0080121039999",
-    "longitude": "150.676346541",
-    "region": "nsw",
-    "time_of_call": "09 Mar 2025 12:50:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "8424 PUTTY RD, PUTTY 2330",
-    "council_area": "Singleton",
-    "type": "Medical",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Mar 2025 12:50"
-  },
-  {
-    "title": "BOUNDARY ST, BISHOPS BRIDGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_592998",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.747268676",
-    "longitude": "151.462966919",
-    "region": "nsw",
-    "time_of_call": "09 Mar 2025 14:04:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "BOUNDARY ST, BISHOPS BRIDGE 2326",
-    "council_area": "Cessnock",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Mar 2025 14:04"
-  },
-  {
     "title": "OLD NORTHERN RD, WISEMANS FERRY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593004",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1060,9 +1034,9 @@
     "latitude": "-33.390220642",
     "longitude": "150.9846344",
     "region": "nsw",
-    "time_of_call": "09 Mar 2025 14:25:00",
+    "time_of_call": "09 Mar 2025 14:55:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "5426-5514 OLD NORTHERN RD, WISEMANS FERRY 2775",
     "council_area": "The Hills",
@@ -1072,7 +1046,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Mar 2025 14:25"
+    "updated": "9 Mar 2025 14:55"
   },
   {
     "title": "PLAIN STATION RD, TABULAM",
@@ -1093,5 +1067,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Mar 2025 14:43"
+  },
+  {
+    "title": "AUMUNA RD, TERREY HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593008",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.692722321",
+    "longitude": "151.219406127",
+    "region": "nsw",
+    "time_of_call": "09 Mar 2025 15:07:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "AUMUNA RD, TERREY HILLS 2084",
+    "council_area": "Northern Beaches",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Mar 2025 15:07"
   }
 ]
