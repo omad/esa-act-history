@@ -99,31 +99,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "09 Mar 2025 20:06:53",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CALWELL",
-    "updated": "09 Mar 2025 20:10:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GOWRIE",
-    "id": "015400-09032025",
-    "latitude": "-35.411365",
-    "longitude": "149.110257",
-    "region": "act",
-    "time_of_call": "09 Mar 2025 20:07:38",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "GOWRIE",
-    "updated": "09 Mar 2025 21:04:13"
+    "location": "CALWELL",
+    "updated": "09 Mar 2025 21:47:16"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "09 Mar 2025 20:32:25"
+    "updated": "09 Mar 2025 21:42:03"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +171,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "09 Mar 2025 20:50:33",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "09 Mar 2025 21:34:39"
+    "updated": "09 Mar 2025 21:44:07"
   },
   {
     "agency": "Ambulance",
@@ -285,7 +267,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "09 Mar 2025 21:25:15"
+    "updated": "09 Mar 2025 21:37:21"
   },
   {
     "agency": "Ambulance",
@@ -309,19 +291,55 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WANNIASSA",
-    "id": "015419-09032025",
-    "latitude": "-35.399113",
-    "longitude": "149.091978",
+    "title": "AMBULANCE RESPONSE - HUGHES",
+    "id": "015420-09032025",
+    "latitude": "-35.333105",
+    "longitude": "149.094654",
     "region": "act",
-    "time_of_call": "09 Mar 2025 21:30:26",
+    "time_of_call": "09 Mar 2025 21:40:30",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "WANNIASSA",
-    "updated": "09 Mar 2025 21:34:29"
+    "location": "HUGHES",
+    "updated": "09 Mar 2025 21:46:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "015421-09032025",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "09 Mar 2025 21:41:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "09 Mar 2025 21:44:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THEODORE",
+    "id": "015423-09032025",
+    "latitude": "-35.449632",
+    "longitude": "149.120754",
+    "region": "act",
+    "time_of_call": "09 Mar 2025 21:45:34",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THEODORE",
+    "updated": "09 Mar 2025 21:48:49"
   },
   {
     "title": "Assist Tasmania",
@@ -1195,5 +1213,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Mar 2025 21:10"
+  },
+  {
+    "title": "DUNGULA WAY, MOAMA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593034",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.1244087219999",
+    "longitude": "144.779876709",
+    "region": "nsw",
+    "time_of_call": "09 Mar 2025 21:25:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "DUNGULA WAY, MOAMA 2731",
+    "council_area": "Murray River",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Mar 2025 21:25"
   }
 ]
