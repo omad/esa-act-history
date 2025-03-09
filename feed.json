@@ -231,7 +231,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "09 Mar 2025 19:45:14"
+    "updated": "09 Mar 2025 20:28:05"
   },
   {
     "agency": "Ambulance",
@@ -285,7 +285,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "09 Mar 2025 20:09:02"
+    "updated": "09 Mar 2025 20:26:36"
   },
   {
     "agency": "Ambulance",
@@ -327,24 +327,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WANNIASSA",
-    "id": "015393-09032025",
-    "latitude": "-35.399113",
-    "longitude": "149.091978",
-    "region": "act",
-    "time_of_call": "09 Mar 2025 19:46:14",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WANNIASSA",
-    "updated": "09 Mar 2025 20:17:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - TURNER",
     "id": "015395-09032025",
     "latitude": "-35.269392",
@@ -357,7 +339,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "09 Mar 2025 20:12:13"
+    "updated": "09 Mar 2025 20:26:00"
   },
   {
     "agency": "Ambulance",
@@ -375,7 +357,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "09 Mar 2025 20:05:40"
+    "updated": "09 Mar 2025 20:22:22"
   },
   {
     "agency": "Ambulance",
@@ -393,7 +375,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "09 Mar 2025 20:10:10"
+    "updated": "09 Mar 2025 20:19:05"
   },
   {
     "agency": "Ambulance",
@@ -430,6 +412,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
     "updated": "09 Mar 2025 20:14:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "015402-09032025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "09 Mar 2025 20:26:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "09 Mar 2025 20:28:47"
   },
   {
     "title": "Assist Tasmania",
@@ -1325,5 +1325,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Mar 2025 19:14"
+  },
+  {
+    "title": "Redfern St, Cowra",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593029",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.833117999",
+    "longitude": "148.68541",
+    "region": "nsw",
+    "time_of_call": "09 Mar 2025 20:24:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Redfern St, Cowra, NSW 2794",
+    "council_area": "Cowra",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "9 Mar 2025 20:24"
   }
 ]
