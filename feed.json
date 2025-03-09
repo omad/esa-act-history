@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "09 Mar 2025 17:10:11"
+    "updated": "09 Mar 2025 17:32:18"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "09 Mar 2025 17:16:33"
+    "updated": "09 Mar 2025 17:37:27"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,31 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "09 Mar 2025 17:20:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "09 Mar 2025 17:23:53"
+    "updated": "09 Mar 2025 17:35:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHARNWOOD",
+    "id": "015354-09032025",
+    "latitude": "-35.200338",
+    "longitude": "149.036735",
+    "region": "act",
+    "time_of_call": "09 Mar 2025 17:30:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHARNWOOD",
+    "updated": "09 Mar 2025 17:33:31"
   },
   {
     "title": "Assist Tasmania",
@@ -782,7 +800,7 @@
     "latitude": "-33.3819656379999",
     "longitude": "148.995162964",
     "region": "nsw",
-    "time_of_call": "09 Mar 2025 11:22:00",
+    "time_of_call": "09 Mar 2025 17:37:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -797,7 +815,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Mar 2025 11:22"
+    "updated": "9 Mar 2025 17:37"
   },
   {
     "title": "KOSCIUSKO RD",
@@ -876,7 +894,7 @@
     "latitude": "-34.895229339",
     "longitude": "147.087234497",
     "region": "nsw",
-    "time_of_call": "09 Mar 2025 04:56:00",
+    "time_of_call": "09 Mar 2025 17:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -886,9 +904,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "20 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Mar 2025 04:56"
+    "updated": "9 Mar 2025 17:41"
   },
   {
     "title": "BLOOMFIELD RD, ORANGE",
@@ -1035,5 +1053,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Mar 2025 17:09"
+  },
+  {
+    "title": "GARLAND RD, GARLAND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593015",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.724700927",
+    "longitude": "149.014480591",
+    "region": "nsw",
+    "time_of_call": "09 Mar 2025 17:32:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "GARLAND RD, GARLAND 2797",
+    "council_area": "Blayney",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Mar 2025 17:32"
+  },
+  {
+    "title": "FIREFLY ST, NIRIMBA FIELDS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593016",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.7142906179999",
+    "longitude": "150.8694458",
+    "region": "nsw",
+    "time_of_call": "09 Mar 2025 17:40:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "2192 FIREFLY ST, NIRIMBA FIELDS 2763",
+    "council_area": "Blacktown",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Mar 2025 17:40"
   }
 ]
