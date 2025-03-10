@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "JOHN RUSSELL CIRCUIT, CONDER, 2906",
-    "updated": "11 Mar 2025 09:05:09"
+    "updated": "11 Mar 2025 09:35:08"
   },
   {
     "agency": "Fire - Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "11 Mar 2025 09:22:51"
+    "updated": "11 Mar 2025 09:25:22"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "11 Mar 2025 09:09:24"
+    "updated": "11 Mar 2025 09:30:22"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +139,13 @@
     "longitude": "149.099386",
     "region": "act",
     "time_of_call": "11 Mar 2025 09:11:45",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "11 Mar 2025 09:21:18"
+    "updated": "11 Mar 2025 09:35:45"
   },
   {
     "agency": "Ambulance",
@@ -175,13 +175,31 @@
     "longitude": "149.088064",
     "region": "act",
     "time_of_call": "11 Mar 2025 09:18:39",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "11 Mar 2025 09:25:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "015713-11032025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "11 Mar 2025 09:26:31",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "ISABELLA PLAINS",
-    "updated": "11 Mar 2025 09:21:57"
+    "location": "GORDON",
+    "updated": "11 Mar 2025 09:35:24"
   },
   {
     "title": "Assist Tasmania",
@@ -729,28 +747,6 @@
     "updated": "10 Mar 2025 16:46"
   },
   {
-    "title": "COOPERS LANE, BOOROWA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593095",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.399700165",
-    "longitude": "148.689254761",
-    "region": "nsw",
-    "time_of_call": "10 Mar 2025 15:27:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "225 COOPERS LANE, BOOROWA 2586",
-    "council_area": "Hilltops",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Mar 2025 15:27"
-  },
-  {
     "title": "BUNGLEGUMBIE RD, DUBBO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593102",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -816,28 +812,6 @@
     "updated": "10 Mar 2025 18:43"
   },
   {
-    "title": "CARGO RD, CARGO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593134",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.412525177",
-    "longitude": "148.835800171",
-    "region": "nsw",
-    "time_of_call": "11 Mar 2025 07:26:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ROWANLEA 3230 CARGO RD, CARGO 2800",
-    "council_area": "Cabonne",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Mar 2025 07:26"
-  },
-  {
     "title": "TALLOWOOD AV, BOGANGAR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593142",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -858,5 +832,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Mar 2025 08:53"
+  },
+  {
+    "title": "WINE COUNTRY DR, LOVEDALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593145",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.781486511",
+    "longitude": "151.348754882",
+    "region": "nsw",
+    "time_of_call": "11 Mar 2025 09:25:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "430 WINE COUNTRY DR, LOVEDALE 2325",
+    "council_area": "Cessnock",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Mar 2025 09:25"
+  },
+  {
+    "title": "CENTRAL RD, COORANBONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593146",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.077953339",
+    "longitude": "151.4528656",
+    "region": "nsw",
+    "time_of_call": "11 Mar 2025 09:31:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "10 CENTRAL RD, COORANBONG 2265",
+    "council_area": "Lake Macquarie",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Mar 2025 09:31"
   }
 ]
