@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONCRIEFF",
-    "id": "015561-10032025",
-    "latitude": "-35.158865",
-    "longitude": "149.117806",
-    "region": "act",
-    "time_of_call": "10 Mar 2025 14:39:21",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONCRIEFF",
-    "updated": "10 Mar 2025 15:50:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HALL",
     "id": "015568-10032025",
     "latitude": "-35.170499",
@@ -73,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HALL",
-    "updated": "10 Mar 2025 16:04:11"
+    "updated": "10 Mar 2025 16:28:00"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "10 Mar 2025 16:09:35"
+    "updated": "10 Mar 2025 16:24:02"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "10 Mar 2025 16:12:23"
+    "updated": "10 Mar 2025 16:19:08"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +121,13 @@
     "longitude": "149.066659",
     "region": "act",
     "time_of_call": "10 Mar 2025 16:02:14",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HALL",
-    "updated": "10 Mar 2025 16:07:38"
+    "updated": "10 Mar 2025 16:23:01"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +175,49 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "10 Mar 2025 16:15:41",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "10 Mar 2025 16:21:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LAWSON",
+    "id": "015577-10032025",
+    "latitude": "-35.225525",
+    "longitude": "149.088854",
+    "region": "act",
+    "time_of_call": "10 Mar 2025 16:26:43",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "WARAMANGA",
-    "updated": "10 Mar 2025 16:17:26"
+    "location": "LAWSON",
+    "updated": "10 Mar 2025 16:28:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "015578-10032025",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "10 Mar 2025 16:27:38",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "10 Mar 2025 16:28:45"
   },
   {
     "title": "Assist Tasmania",
@@ -853,28 +871,6 @@
     "updated": "10 Mar 2025 15:22"
   },
   {
-    "title": "JOHNS RD, WADALBA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593097",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.275562286",
-    "longitude": "151.471786499",
-    "region": "nsw",
-    "time_of_call": "10 Mar 2025 15:55:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "120 JOHNS RD, WADALBA 2259",
-    "council_area": "Central Coast",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Mar 2025 15:55"
-  },
-  {
     "title": "CLARENCE TOWN RD, GLEN OAK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593099",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -942,9 +938,9 @@
     "latitude": "-32.1941299439999",
     "longitude": "148.564422608",
     "region": "nsw",
-    "time_of_call": "10 Mar 2025 16:01:00",
+    "time_of_call": "10 Mar 2025 16:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BUNGLEGUMBIE RD, DUBBO 2830",
     "council_area": "Dubbo Regional",
@@ -952,7 +948,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Mar 2025 16:01"
+    "updated": "10 Mar 2025 16:23"
   },
   {
     "title": "PRINCES HWY, BURRILL LAKE",
@@ -975,5 +971,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Mar 2025 16:03"
+  },
+  {
+    "title": "STURT HWY, MAUDE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593105",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.653400421",
+    "longitude": "144.206970215",
+    "region": "nsw",
+    "time_of_call": "10 Mar 2025 16:21:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "STURT HWY, MAUDE 2711",
+    "council_area": "Hay",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Mar 2025 16:21"
   }
 ]
