@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "JOHN RUSSELL CIRCUIT, CONDER, 2906",
-    "updated": "10 Mar 2025 15:23:43"
+    "updated": "10 Mar 2025 15:46:11"
   },
   {
     "agency": "Fire",
@@ -29,33 +29,15 @@
     "longitude": "149.0626678467",
     "region": "act",
     "time_of_call": "10 Mar 2025 13:16:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "ANIMAL RESCUE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
     "location": "LAKE TUGGERANONG SPILLWAY, ATHLLON DRIVE, GREENWAY, 2900",
-    "updated": "10 Mar 2025 14:58:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAWSON",
-    "id": "015557-10032025",
-    "latitude": "-35.361049",
-    "longitude": "149.099386",
-    "region": "act",
-    "time_of_call": "10 Mar 2025 14:20:53",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MAWSON",
-    "updated": "10 Mar 2025 14:55:14"
+    "updated": "10 Mar 2025 15:46:13"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +55,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "10 Mar 2025 15:23:17"
+    "updated": "10 Mar 2025 15:34:48"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "10 Mar 2025 15:29:22"
+    "updated": "10 Mar 2025 15:42:46"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "10 Mar 2025 15:17:52"
+    "updated": "10 Mar 2025 15:45:16"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +139,49 @@
     "longitude": "149.066659",
     "region": "act",
     "time_of_call": "10 Mar 2025 15:30:32",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HALL",
-    "updated": "10 Mar 2025 15:33:43"
+    "updated": "10 Mar 2025 15:46:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "015569-10032025",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "10 Mar 2025 15:38:42",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "10 Mar 2025 15:41:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "015570-10032025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "10 Mar 2025 15:46:59",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "10 Mar 2025 15:48:46"
   },
   {
     "title": "Assist Tasmania",
@@ -424,7 +442,7 @@
     "latitude": "-37.082435608",
     "longitude": "149.261108398",
     "region": "nsw",
-    "time_of_call": "10 Mar 2025 08:21:00",
+    "time_of_call": "10 Mar 2025 15:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -434,9 +452,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "175 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "10 Mar 2025 08:21"
+    "updated": "10 Mar 2025 15:20"
   },
   {
     "title": "Thatchers Hole",
@@ -468,7 +486,7 @@
     "latitude": "-34.17688297",
     "longitude": "147.172365789",
     "region": "nsw",
-    "time_of_call": "10 Mar 2025 10:01:00",
+    "time_of_call": "10 Mar 2025 15:34:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -483,7 +501,7 @@
     "fire": "Yes",
     "size": "900 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Mar 2025 10:01"
+    "updated": "10 Mar 2025 15:34"
   },
   {
     "title": "Assist SES - Coffs Coast",
@@ -684,28 +702,6 @@
     "updated": "10 Mar 2025 05:44"
   },
   {
-    "title": "STH BND PRINCES HWY, YATTE YATTAH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593074",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.2478141779999",
-    "longitude": "150.423751831",
-    "region": "nsw",
-    "time_of_call": "10 Mar 2025 12:24:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "STH BND PRINCES HWY, YATTE YATTAH 2539",
-    "council_area": "Shoalhaven",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Mar 2025 12:24"
-  },
-  {
     "title": "LACHLAN VALLEY WAY, KANGIARA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593080",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -858,6 +854,28 @@
     "updated": "10 Mar 2025 14:54"
   },
   {
+    "title": "TUNTABLE FALLS RD, NIMBIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593094",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.5829200749999",
+    "longitude": "153.261520386",
+    "region": "nsw",
+    "time_of_call": "10 Mar 2025 14:46:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "TUNTABLE FALLS RD, NIMBIN 2480",
+    "council_area": "Lismore",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Mar 2025 14:46"
+  },
+  {
     "title": "COOPERS LANE, BOOROWA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593095",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -900,18 +918,18 @@
     "updated": "10 Mar 2025 15:22"
   },
   {
-    "title": "JOHNS RD, WYONGAH",
+    "title": "JOHNS RD, WADALBA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593097",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.2742195129999",
-    "longitude": "151.478164673",
+    "latitude": "-33.275562286",
+    "longitude": "151.471786499",
     "region": "nsw",
     "time_of_call": "10 Mar 2025 15:27:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "JOHNS RD, WYONGAH 2259",
+    "location": "120 JOHNS RD, WADALBA 2259",
     "council_area": "Central Coast",
     "type": "Structure Fire",
     "type_description": "",
@@ -920,5 +938,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Mar 2025 15:27"
+  },
+  {
+    "title": "BALLINA RD, ALSTONVILLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593098",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.851373672",
+    "longitude": "153.449661254",
+    "region": "nsw",
+    "time_of_call": "10 Mar 2025 15:35:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BALLINA RD, ALSTONVILLE 2477",
+    "council_area": "Ballina",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "10 Mar 2025 15:35"
+  },
+  {
+    "title": "CLARENCE TOWN RD, GLEN OAK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593099",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.625709534",
+    "longitude": "151.722717285",
+    "region": "nsw",
+    "time_of_call": "10 Mar 2025 15:41:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1842A CLARENCE TOWN RD, GLEN OAK 2320",
+    "council_area": "Port Stephens",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Mar 2025 15:41"
   }
 ]
