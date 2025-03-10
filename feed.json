@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "JOHN RUSSELL CIRCUIT, CONDER, 2906",
-    "updated": "11 Mar 2025 09:35:08"
+    "updated": "11 Mar 2025 10:31:03"
   },
   {
     "agency": "Fire - Ambulance",
@@ -175,13 +175,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "11 Mar 2025 10:11:32",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "11 Mar 2025 10:16:42"
+    "updated": "11 Mar 2025 10:27:05"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "RUSSELL",
-    "updated": "11 Mar 2025 10:21:48"
+    "updated": "11 Mar 2025 10:22:25"
   },
   {
     "title": "Assist Tasmania",
@@ -819,9 +819,9 @@
     "latitude": "-32.781486511",
     "longitude": "151.348754882",
     "region": "nsw",
-    "time_of_call": "11 Mar 2025 09:25:00",
+    "time_of_call": "11 Mar 2025 10:17:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "430 WINE COUNTRY DR, LOVEDALE 2325",
     "council_area": "Cessnock",
@@ -831,7 +831,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Mar 2025 09:25"
+    "updated": "11 Mar 2025 10:17"
   },
   {
     "title": "BRUCE CR, WALLARAH",
@@ -860,8 +860,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593148",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.618490219",
-    "longitude": "152.988082885",
+    "latitude": "-29.616844177",
+    "longitude": "153.018112183",
     "region": "nsw",
     "time_of_call": "11 Mar 2025 09:50:00",
     "event_type": "burnt area",
@@ -874,5 +874,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Mar 2025 09:50"
+  },
+  {
+    "title": "SOUTH TACOMA RD, TACOMA SOUTH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593149",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.295379639",
+    "longitude": "151.459426879",
+    "region": "nsw",
+    "time_of_call": "11 Mar 2025 10:22:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "18 SOUTH TACOMA RD, TACOMA SOUTH 2259",
+    "council_area": "Central Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Mar 2025 10:22"
   }
 ]
