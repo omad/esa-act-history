@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "CAR FIRE - KINGSTON",
-    "id": "004375-12032025",
-    "latitude": "-35.3142127991",
-    "longitude": "149.1508178711",
-    "region": "act",
-    "time_of_call": "12 Mar 2025 03:43:14",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "CAR FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
-    "location": "EYRE STREET, THE CAUSEWAY, KINGSTON, 2604",
-    "updated": "12 Mar 2025 04:53:14"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -53,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHIFLEY",
-    "updated": "12 Mar 2025 05:49:30"
+    "updated": "12 Mar 2025 05:55:11"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +51,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "12 Mar 2025 05:42:04"
+    "updated": "12 Mar 2025 05:59:55"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +63,49 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "12 Mar 2025 05:47:30",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "12 Mar 2025 06:03:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MELBA",
+    "id": "015908-12032025",
+    "latitude": "-35.209077",
+    "longitude": "149.057326",
+    "region": "act",
+    "time_of_call": "12 Mar 2025 06:06:41",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MELBA",
+    "updated": "12 Mar 2025 06:11:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NICHOLLS",
+    "id": "015909-12032025",
+    "latitude": "-35.186387",
+    "longitude": "149.094445",
+    "region": "act",
+    "time_of_call": "12 Mar 2025 06:12:26",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "12 Mar 2025 05:49:36"
+    "location": "NICHOLLS",
+    "updated": "12 Mar 2025 06:17:53"
   },
   {
     "title": "Assist Tasmania",
@@ -610,25 +626,43 @@
     "updated": "11 Mar 2025 17:30"
   },
   {
-    "title": "REGENT ST, MOAMA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593212",
+    "title": "MCKELL AV, WATERFALL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593213",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-36.104728699",
-    "longitude": "144.761367798",
+    "latitude": "-34.1352272029999",
+    "longitude": "150.994598389",
     "region": "nsw",
-    "time_of_call": "12 Mar 2025 05:40:00",
+    "time_of_call": "12 Mar 2025 06:00:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "MURRAYVALE AGED CARE 63 REGENT ST, MOAMA 2731",
-    "council_area": "Murray River",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "location": "MCKELL AV, WATERFALL 2233",
+    "council_area": "Sutherland",
+    "type": "Flood/Storm/Tree Down",
     "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "12 Mar 2025 05:40"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Mar 2025 06:00"
+  },
+  {
+    "title": "CADIA RD, CADIA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593214",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4543418879999",
+    "longitude": "149.009475708",
+    "region": "nsw",
+    "time_of_call": "12 Mar 2025 06:03:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CADIA MINE 1426 CADIA RD, CADIA 2800",
+    "council_area": "Cabonne",
+    "type": "Truck Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Mar 2025 06:03"
   }
 ]
