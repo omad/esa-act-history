@@ -9,13 +9,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "13 Mar 2025 16:23:05",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "13 Mar 2025 22:14:12"
+    "updated": "13 Mar 2025 22:39:53"
   },
   {
     "agency": "Ambulance",
@@ -33,43 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "13 Mar 2025 22:07:43"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DOWNER",
-    "id": "016335-13032025",
-    "latitude": "-35.245131",
-    "longitude": "149.143546",
-    "region": "act",
-    "time_of_call": "13 Mar 2025 19:33:31",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DOWNER",
-    "updated": "13 Mar 2025 21:58:33"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - SCULLIN",
-    "id": "016347-13032025",
-    "latitude": "-35.235868",
-    "longitude": "149.037677",
-    "region": "act",
-    "time_of_call": "13 Mar 2025 20:30:32",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "SCULLIN",
-    "updated": "13 Mar 2025 22:20:37"
+    "updated": "13 Mar 2025 22:45:18"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "13 Mar 2025 22:28:45"
+    "updated": "13 Mar 2025 22:47:57"
   },
   {
     "agency": "Ambulance",
@@ -160,6 +124,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "13 Mar 2025 22:18:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - EVATT",
+    "id": "016362-13032025",
+    "latitude": "-35.212001",
+    "longitude": "149.066294",
+    "region": "act",
+    "time_of_call": "13 Mar 2025 22:41:00",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "EVATT",
+    "updated": "13 Mar 2025 22:47:15"
   },
   {
     "title": "Assist Tasmania",
@@ -770,9 +752,9 @@
     "latitude": "-34.5923461909999",
     "longitude": "145.810073853",
     "region": "nsw",
-    "time_of_call": "13 Mar 2025 21:27:00",
+    "time_of_call": "13 Mar 2025 22:31:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -785,7 +767,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Mar 2025 21:27"
+    "updated": "13 Mar 2025 22:31"
   },
   {
     "title": "BACK JUGIONG RD, BEGGAN BEGGAN",
@@ -850,5 +832,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Mar 2025 22:19"
+  },
+  {
+    "title": "PACIFIC HWY, BELLIMBOPINNI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593381",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.0293293",
+    "longitude": "152.882629394",
+    "region": "nsw",
+    "time_of_call": "13 Mar 2025 22:35:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, BELLIMBOPINNI 2440",
+    "council_area": "Kempsey",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Mar 2025 22:35"
   }
 ]
