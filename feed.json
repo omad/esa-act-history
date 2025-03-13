@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "14 Mar 2025 06:15:05"
+    "updated": "14 Mar 2025 06:32:36"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.100175",
     "region": "act",
     "time_of_call": "14 Mar 2025 05:51:48",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "14 Mar 2025 05:56:07"
+    "updated": "14 Mar 2025 06:48:54"
   },
   {
     "title": "Assist Tasmania",
@@ -761,23 +761,50 @@
     "updated": "14 Mar 2025 06:00"
   },
   {
-    "title": "SOAPY FLAT RD, HIGH RANGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593390",
+    "title": "WYEE RD, WYEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593392",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.420146942",
-    "longitude": "150.356872558",
+    "latitude": "-33.169822692",
+    "longitude": "151.47668457",
     "region": "nsw",
-    "time_of_call": "14 Mar 2025 05:39:00",
+    "time_of_call": "14 Mar 2025 06:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
-    "location": "SOAPY FLAT RD, HIGH RANGE 2575",
-    "council_area": "Wingecarribee",
-    "type": "Flood/Storm/Tree Down",
+    "location": "WYEE RD, WYEE 2259",
+    "council_area": "Lake Macquarie",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Mar 2025 05:39"
+    "updated": "14 Mar 2025 06:40"
+  },
+  {
+    "title": "COPLAND ST, EAST WAGGA WAGGA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593393",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.1264762879999",
+    "longitude": "147.384338379",
+    "region": "nsw",
+    "time_of_call": "14 Mar 2025 06:36:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "52 COPLAND ST, EAST WAGGA WAGGA 2650",
+    "council_area": "Wagga Wagga",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "14 Mar 2025 06:36"
   }
 ]
