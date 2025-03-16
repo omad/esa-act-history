@@ -149,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "16 Mar 2025 20:18:48"
+    "updated": "16 Mar 2025 20:26:33"
   },
   {
     "agency": "Ambulance",
@@ -168,24 +168,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
     "updated": "16 Mar 2025 20:16:52"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "017043-16032025",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
-    "region": "act",
-    "time_of_call": "16 Mar 2025 19:01:24",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "16 Mar 2025 19:39:42"
   },
   {
     "agency": "Ambulance",
@@ -239,7 +221,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "16 Mar 2025 19:57:51"
+    "updated": "16 Mar 2025 20:23:06"
   },
   {
     "agency": "Ambulance",
@@ -305,13 +287,13 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "16 Mar 2025 20:16:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "16 Mar 2025 20:20:21"
+    "updated": "16 Mar 2025 20:27:04"
   },
   {
     "title": "Assist Tasmania",
@@ -993,28 +975,6 @@
     "updated": "16 Mar 2025 19:24"
   },
   {
-    "title": "COILA BEACH TUROSS BVD, TUROSS HEAD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593753",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.0501632689999",
-    "longitude": "150.139709473",
-    "region": "nsw",
-    "time_of_call": "16 Mar 2025 19:59:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "COILA BEACH TUROSS BVD, TUROSS HEAD 2537",
-    "council_area": "Eurobodalla",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2025 19:59"
-  },
-  {
     "title": "PRETTY PINE RD, BARRATTA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593755",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1022,10 +982,13 @@
     "latitude": "-35.1778106679999",
     "longitude": "144.354370118",
     "region": "nsw",
-    "time_of_call": "16 Mar 2025 19:34:00",
+    "time_of_call": "16 Mar 2025 20:22:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "PRETTY PINE RD, BARRATTA 2710",
     "council_area": "Edward River",
     "type": "Grass Fire",
@@ -1034,7 +997,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2025 19:34"
+    "updated": "16 Mar 2025 20:22"
   },
   {
     "title": "WAKOOLA ST, WAKOOL",
@@ -1044,9 +1007,9 @@
     "latitude": "-35.4682998659999",
     "longitude": "144.391815186",
     "region": "nsw",
-    "time_of_call": "16 Mar 2025 19:37:00",
+    "time_of_call": "16 Mar 2025 20:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "WAKOOLA ST, WAKOOL 2710",
     "council_area": "Murray River",
@@ -1056,7 +1019,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2025 19:37"
+    "updated": "16 Mar 2025 20:21"
   },
   {
     "title": "NEWELL HWY, BOGGABILLA",
@@ -1103,28 +1066,6 @@
     "updated": "16 Mar 2025 19:42"
   },
   {
-    "title": "P J HALL MEMORIAL PARK MAIN ST, WALLERAWANG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593759",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.4136352539999",
-    "longitude": "150.071670532",
-    "region": "nsw",
-    "time_of_call": "16 Mar 2025 19:43:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "P J HALL MEMORIAL PARK MAIN ST, WALLERAWANG 2845",
-    "council_area": "Lithgow",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2025 19:43"
-  },
-  {
     "title": "MURRAWAL RD, WYONGAH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593760",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1154,9 +1095,9 @@
     "latitude": "-32.805576324",
     "longitude": "151.837387085",
     "region": "nsw",
-    "time_of_call": "16 Mar 2025 20:03:00",
+    "time_of_call": "16 Mar 2025 20:22:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BAE SYSTEMS AUSTRALIA WILLIAMTOWN DR, WILLIAMTOWN 2318",
     "council_area": "Port Stephens",
@@ -1166,7 +1107,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2025 20:03"
+    "updated": "16 Mar 2025 20:22"
   },
   {
     "title": "LEMON TREE PASSAGE RD, SALT ASH",
@@ -1176,9 +1117,9 @@
     "latitude": "-32.786933899",
     "longitude": "151.912780761",
     "region": "nsw",
-    "time_of_call": "16 Mar 2025 20:15:00",
+    "time_of_call": "16 Mar 2025 20:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "33 LEMON TREE PASSAGE RD, SALT ASH 2318",
     "council_area": "Port Stephens",
@@ -1186,6 +1127,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2025 20:15"
+    "updated": "16 Mar 2025 20:23"
   }
 ]
