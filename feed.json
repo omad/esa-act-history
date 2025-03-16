@@ -123,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "16 Mar 2025 23:54:00"
+    "updated": "17 Mar 2025 00:18:32"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "16 Mar 2025 23:42:31"
+    "updated": "17 Mar 2025 00:24:46"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +195,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "16 Mar 2025 23:59:43"
+    "updated": "17 Mar 2025 00:20:45"
   },
   {
     "agency": "Ambulance",
@@ -243,13 +243,13 @@
     "longitude": "149.1195",
     "region": "act",
     "time_of_call": "16 Mar 2025 23:52:28",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "16 Mar 2025 23:56:39"
+    "updated": "17 Mar 2025 00:24:32"
   },
   {
     "agency": "Ambulance",
@@ -267,7 +267,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "17 Mar 2025 00:01:41"
+    "updated": "17 Mar 2025 00:03:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "017090-17032025",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "17 Mar 2025 00:20:52",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "17 Mar 2025 00:23:41"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "017091-17032025",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "17 Mar 2025 00:22:54",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PALMERSTON",
+    "updated": "17 Mar 2025 00:25:18"
   },
   {
     "title": "Assist Tasmania",
@@ -860,6 +896,26 @@
     "updated": "16 Mar 2025 20:10"
   },
   {
+    "title": "COLO HEIGHTS RD, UPPER COLO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593736",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4071464539999",
+    "longitude": "150.730880738",
+    "region": "nsw",
+    "time_of_call": "16 Mar 2025 19:17:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "COLO HEIGHTS RD, UPPER COLO 2756",
+    "council_area": "Hawkesbury",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Mar 2025 19:17"
+  },
+  {
     "title": "CARRIGAN RD, MUNGINDI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593742",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1005,9 +1061,9 @@
     "latitude": "-31.09554",
     "longitude": "152.825909999",
     "region": "nsw",
-    "time_of_call": "16 Mar 2025 23:49:00",
+    "time_of_call": "17 Mar 2025 00:07:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1020,6 +1076,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Mar 2025 23:49"
+    "updated": "17 Mar 2025 00:07"
   }
 ]
