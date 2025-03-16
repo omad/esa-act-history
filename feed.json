@@ -53,7 +53,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "16 Mar 2025 13:54:29"
+    "updated": "16 Mar 2025 14:49:00"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "16 Mar 2025 14:06:01"
+    "updated": "16 Mar 2025 14:46:58"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "16 Mar 2025 14:24:04"
+    "updated": "16 Mar 2025 14:36:44"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,13 @@
     "longitude": "149.110257",
     "region": "act",
     "time_of_call": "16 Mar 2025 13:02:15",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "16 Mar 2025 13:08:20"
+    "updated": "16 Mar 2025 14:49:06"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "16 Mar 2025 14:17:24"
+    "updated": "16 Mar 2025 14:51:12"
   },
   {
     "agency": "Ambulance",
@@ -215,25 +215,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "16 Mar 2025 14:34:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GRIFFITH",
-    "id": "016985-16032025",
-    "latitude": "-35.325773",
-    "longitude": "149.133842",
-    "region": "act",
-    "time_of_call": "16 Mar 2025 13:28:02",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GRIFFITH",
-    "updated": "16 Mar 2025 14:13:11"
+    "updated": "16 Mar 2025 14:41:03"
   },
   {
     "agency": "Ambulance",
@@ -281,13 +263,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "16 Mar 2025 13:58:07",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "16 Mar 2025 14:32:50"
+    "updated": "16 Mar 2025 14:41:38"
   },
   {
     "agency": "Ambulance",
@@ -319,13 +301,31 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "16 Mar 2025 14:26:21",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "16 Mar 2025 14:44:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "016999-16032025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "16 Mar 2025 14:49:31",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "BRUCE",
-    "updated": "16 Mar 2025 14:31:24"
+    "location": "BELCONNEN",
+    "updated": "16 Mar 2025 14:50:07"
   },
   {
     "title": "Assist Tasmania",
@@ -840,28 +840,6 @@
     "updated": "16 Mar 2025 13:15"
   },
   {
-    "title": "GOLDEN HWY, DENMAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593692",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.40877533",
-    "longitude": "150.742034912",
-    "region": "nsw",
-    "time_of_call": "16 Mar 2025 13:21:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "GOLDEN HWY, DENMAN 2328",
-    "council_area": "Muswellbrook",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2025 13:21"
-  },
-  {
     "title": "FITZGERALD RD, BURCHER",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593694",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -882,26 +860,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Mar 2025 14:03"
-  },
-  {
-    "title": "NARROMINE RD, WHYLANDRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593696",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.200462342",
-    "longitude": "148.490966797",
-    "region": "nsw",
-    "time_of_call": "16 Mar 2025 14:27:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "NARROMINE RD, WHYLANDRA 2830",
-    "council_area": "Dubbo Regional",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2025 14:27"
   },
   {
     "title": "RICHARDSON RD, RAYMOND TERRACE",
@@ -936,7 +894,7 @@
     "latitude": "-33.7295188909999",
     "longitude": "150.442321777",
     "region": "nsw",
-    "time_of_call": "16 Mar 2025 14:26:00",
+    "time_of_call": "16 Mar 2025 14:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -946,29 +904,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Mar 2025 14:26"
-  },
-  {
-    "title": "RIVER RD, SUSSEX INLET",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593699",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.154960632",
-    "longitude": "150.601577758",
-    "region": "nsw",
-    "time_of_call": "16 Mar 2025 14:27:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "208 RIVER RD, SUSSEX INLET 2540",
-    "council_area": "Shoalhaven",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2025 14:27"
+    "updated": "16 Mar 2025 14:30"
   },
   {
     "title": "DOUGLAS PARK DR, WILTON",
@@ -978,9 +914,9 @@
     "latitude": "-34.2371101379999",
     "longitude": "150.729171753",
     "region": "nsw",
-    "time_of_call": "16 Mar 2025 14:23:00",
+    "time_of_call": "16 Mar 2025 14:43:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "DOUGLAS PARK DR, WILTON 2571",
     "council_area": "Wollondilly",
@@ -990,6 +926,93 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2025 14:23"
+    "updated": "16 Mar 2025 14:43"
+  },
+  {
+    "title": "BOUDDI COASTAL WALK, BOUDDI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593701",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.5225868219999",
+    "longitude": "151.389709473",
+    "region": "nsw",
+    "time_of_call": "16 Mar 2025 14:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BOUDDI COASTAL WALK, BOUDDI 2251",
+    "council_area": "Central Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Mar 2025 14:30"
+  },
+  {
+    "title": "WINDSOR RD, RIVERSTONE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593703",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.656726837",
+    "longitude": "150.873916626",
+    "region": "nsw",
+    "time_of_call": "16 Mar 2025 14:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WINDSOR RD, RIVERSTONE 2765",
+    "council_area": "Blacktown",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Mar 2025 14:37"
+  },
+  {
+    "title": "KITTY LANE, COBBITTY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593704",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.007160187",
+    "longitude": "150.714660645",
+    "region": "nsw",
+    "time_of_call": "16 Mar 2025 14:42:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "KITTY LANE, COBBITTY 2570",
+    "council_area": "Camden",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "16 Mar 2025 14:42"
+  },
+  {
+    "title": "Oran Park Dr, Harrington Park",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593706",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.019156",
+    "longitude": "150.753552001",
+    "region": "nsw",
+    "time_of_call": "16 Mar 2025 14:47:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Oran Park Dr, Harrington Park, NSW 2567",
+    "council_area": "Camden",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "16 Mar 2025 14:47"
   }
 ]
