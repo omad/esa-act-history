@@ -45,13 +45,13 @@
     "longitude": "149.053511",
     "region": "act",
     "time_of_call": "17 Mar 2025 23:09:18",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "18 Mar 2025 01:42:06"
+    "updated": "18 Mar 2025 01:58:04"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "18 Mar 2025 01:48:10"
+    "updated": "18 Mar 2025 02:24:01"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "18 Mar 2025 01:40:39"
+    "updated": "18 Mar 2025 02:14:48"
   },
   {
     "agency": "Ambulance",
@@ -142,6 +142,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
     "updated": "18 Mar 2025 01:45:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "017324-18032025",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "18 Mar 2025 01:52:07",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "18 Mar 2025 02:01:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GOWRIE",
+    "id": "017325-18032025",
+    "latitude": "-35.411365",
+    "longitude": "149.110257",
+    "region": "act",
+    "time_of_call": "18 Mar 2025 02:02:10",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GOWRIE",
+    "updated": "18 Mar 2025 02:10:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "017326-18032025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "18 Mar 2025 02:08:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "18 Mar 2025 02:16:35"
   },
   {
     "title": "Assist Tasmania",
@@ -756,26 +810,6 @@
     "updated": "17 Mar 2025 20:46"
   },
   {
-    "title": "HUE HUE RD, JILLIBY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593926",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.2254028319999",
-    "longitude": "151.417022705",
-    "region": "nsw",
-    "time_of_call": "17 Mar 2025 23:28:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "HUE HUE RD, JILLIBY 2259",
-    "council_area": "Central Coast",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Mar 2025 23:28"
-  },
-  {
     "title": "NEWELL HWY, BOGGABILLA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593931",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -783,9 +817,9 @@
     "latitude": "-28.854602814",
     "longitude": "150.211517334",
     "region": "nsw",
-    "time_of_call": "18 Mar 2025 01:13:00",
+    "time_of_call": "18 Mar 2025 01:58:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "30231 NEWELL HWY, BOGGABILLA 2409",
     "council_area": "Moree Plains",
@@ -795,6 +829,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Mar 2025 01:13"
+    "updated": "18 Mar 2025 01:58"
   }
 ]
