@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "017314-17032025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "17 Mar 2025 23:59:41",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "18 Mar 2025 03:29:07"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CURTIN",
     "id": "017318-18032025",
     "latitude": "-35.326585",
@@ -52,24 +34,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
     "updated": "18 Mar 2025 01:19:58"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "017323-18032025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "18 Mar 2025 01:41:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "18 Mar 2025 03:42:35"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "18 Mar 2025 03:36:46"
+    "updated": "18 Mar 2025 04:17:24"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +117,13 @@
     "longitude": "149.126815",
     "region": "act",
     "time_of_call": "18 Mar 2025 03:41:30",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "18 Mar 2025 03:45:10"
+    "updated": "18 Mar 2025 04:18:55"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +135,13 @@
     "longitude": "149.057326",
     "region": "act",
     "time_of_call": "18 Mar 2025 03:48:23",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "18 Mar 2025 03:50:45"
+    "updated": "18 Mar 2025 04:03:32"
   },
   {
     "title": "Assist Tasmania",
@@ -812,5 +776,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Mar 2025 01:58"
+  },
+  {
+    "title": "Bertram St, Coonamble",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593932",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.959641",
+    "longitude": "148.38801",
+    "region": "nsw",
+    "time_of_call": "18 Mar 2025 04:04:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Bertram St, Coonamble, NSW 2829",
+    "council_area": "Coonamble",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "18 Mar 2025 04:04"
   }
 ]
