@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/pipe-fire_0.svg",
     "location": "COPLAND COLLEGE, VERBRUGGHEN STREET, MELBA, 2615",
-    "updated": "20 Mar 2025 10:11:31"
+    "updated": "20 Mar 2025 10:48:38"
   },
   {
     "agency": "Fire",
@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "INFRASTRUCTURE HOUSE, ALINGA STREET, CITY, 2601",
-    "updated": "20 Mar 2025 10:32:25"
+    "updated": "20 Mar 2025 10:44:36"
   },
   {
     "agency": "Ambulance",
@@ -75,25 +75,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "20 Mar 2025 07:47:54"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "017833-20032025",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
-    "region": "act",
-    "time_of_call": "20 Mar 2025 08:13:13",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "20 Mar 2025 09:56:53"
+    "updated": "20 Mar 2025 10:44:33"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "20 Mar 2025 10:32:24"
+    "updated": "20 Mar 2025 10:43:15"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "20 Mar 2025 10:34:36"
+    "updated": "20 Mar 2025 10:46:43"
   },
   {
     "agency": "Ambulance",
@@ -258,6 +240,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
     "updated": "20 Mar 2025 10:32:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "017852-20032025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "20 Mar 2025 10:47:03",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "20 Mar 2025 10:48:25"
   },
   {
     "title": "Joadja Hill HR",
@@ -570,7 +570,7 @@
     "latitude": "-34.0507926939999",
     "longitude": "149.717712403",
     "region": "nsw",
-    "time_of_call": "19 Mar 2025 17:35:00",
+    "time_of_call": "20 Mar 2025 10:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -582,7 +582,7 @@
     "fire": "Yes",
     "size": "563 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "19 Mar 2025 17:35"
+    "updated": "20 Mar 2025 10:33"
   },
   {
     "title": "STROUD ST, BULAHDELAH",
@@ -721,28 +721,6 @@
     "size": "10770 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "19 Mar 2025 16:02"
-  },
-  {
-    "title": "Beulah HR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593832",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.1394271849999",
-    "longitude": "150.780914307",
-    "region": "nsw",
-    "time_of_call": "19 Mar 2025 18:03:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "BEULAH 767 APPIN RD, GILEAD 2560",
-    "council_area": "Campbelltown",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "4 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 Mar 2025 18:03"
   },
   {
     "title": "Euroka HR",
@@ -963,6 +941,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Mar 2025 16:21"
+  },
+  {
+    "title": "North Head Aeolian HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_594019",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.8133308439999",
+    "longitude": "151.295857429",
+    "region": "nsw",
+    "time_of_call": "20 Mar 2025 10:01:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "33 NORTH HEAD SCENIC DR MANLY NSW 2095",
+    "council_area": "Northern Beaches",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "1 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "20 Mar 2025 10:01"
   },
   {
     "title": "ORANGE PROMISE RD, WALLA WALLA",
@@ -1489,26 +1489,6 @@
     "updated": "20 Mar 2025 10:02"
   },
   {
-    "title": "OCEAN DR, LAKE CATHIE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595194",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.551904678",
-    "longitude": "152.854751587",
-    "region": "nsw",
-    "time_of_call": "20 Mar 2025 10:22:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "OCEAN DR, LAKE CATHIE 2445",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "HAZMAT",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Mar 2025 10:22"
-  },
-  {
     "title": "KENT RD, ORCHARD HILLS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595195",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1516,9 +1496,9 @@
     "latitude": "-33.7899856569999",
     "longitude": "150.750274659",
     "region": "nsw",
-    "time_of_call": "20 Mar 2025 10:21:00",
+    "time_of_call": "20 Mar 2025 10:35:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "110 KENT RD, ORCHARD HILLS 2748",
     "council_area": "Penrith",
@@ -1526,7 +1506,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Mar 2025 10:21"
+    "updated": "20 Mar 2025 10:35"
   },
   {
     "title": "UPPER WHITLOW RD, WHITLOW",
