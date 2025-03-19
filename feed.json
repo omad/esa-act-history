@@ -35,43 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "20 Mar 2025 08:11:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "017828-20032025",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "20 Mar 2025 07:42:42",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "20 Mar 2025 08:22:51"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHIFLEY",
-    "id": "017829-20032025",
-    "latitude": "-35.351526",
-    "longitude": "149.076955",
-    "region": "act",
-    "time_of_call": "20 Mar 2025 07:45:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHIFLEY",
-    "updated": "20 Mar 2025 07:53:52"
+    "updated": "20 Mar 2025 08:48:18"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +83,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "20 Mar 2025 08:14:12",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "20 Mar 2025 08:19:25"
+    "updated": "20 Mar 2025 08:37:27"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +119,13 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "20 Mar 2025 08:23:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "20 Mar 2025 08:28:23"
+    "updated": "20 Mar 2025 08:38:23"
   },
   {
     "title": "Joadja Hill HR",
@@ -408,7 +372,7 @@
     "latitude": "-33.749557495",
     "longitude": "151.082885742",
     "region": "nsw",
-    "time_of_call": "19 Mar 2025 21:30:00",
+    "time_of_call": "20 Mar 2025 08:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -420,7 +384,7 @@
     "fire": "Yes",
     "size": "15 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "19 Mar 2025 21:30"
+    "updated": "20 Mar 2025 08:42"
   },
   {
     "title": "Sams Creek HR",
@@ -430,7 +394,7 @@
     "latitude": "-33.634773255",
     "longitude": "151.136856079",
     "region": "nsw",
-    "time_of_call": "19 Mar 2025 18:43:00",
+    "time_of_call": "20 Mar 2025 08:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -442,7 +406,7 @@
     "fire": "Yes",
     "size": "104 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "19 Mar 2025 18:43"
+    "updated": "20 Mar 2025 08:31"
   },
   {
     "title": "Claytons HR",
@@ -1344,16 +1308,41 @@
     "updated": "20 Mar 2025 08:12"
   },
   {
+    "title": "YAVEN CREEK RD, YAVEN CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595182",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.435329437",
+    "longitude": "147.9115448",
+    "region": "nsw",
+    "time_of_call": "20 Mar 2025 08:41:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "THE WILLOWS 2085 YAVEN CREEK RD, YAVEN CREEK 2729",
+    "council_area": "Snowy Valleys",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Mar 2025 08:41"
+  },
+  {
     "title": "BOATFALLS DR, CLARENCE TOWN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595183",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.595775604",
-    "longitude": "151.823455811",
+    "latitude": "-32.598213196",
+    "longitude": "151.821945191",
     "region": "nsw",
-    "time_of_call": "20 Mar 2025 08:27:00",
+    "time_of_call": "20 Mar 2025 08:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "62 BOATFALLS DR, CLARENCE TOWN 2321",
     "council_area": "Dungog",
@@ -1361,6 +1350,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Mar 2025 08:27"
+    "updated": "20 Mar 2025 08:40"
+  },
+  {
+    "title": "WYONG RD, TUGGERAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595184",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.304889679",
+    "longitude": "151.402236938",
+    "region": "nsw",
+    "time_of_call": "20 Mar 2025 08:42:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WYONG RD, TUGGERAH 2259",
+    "council_area": "Central Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Mar 2025 08:42"
   }
 ]
