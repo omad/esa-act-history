@@ -74,6 +74,24 @@
     "updated": "20 Mar 2025 02:23:18"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "017808-20032025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "20 Mar 2025 02:26:34",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "20 Mar 2025 02:32:06"
+  },
+  {
     "title": "Joadja Hill HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_566533",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1240,28 +1258,6 @@
     "updated": "19 Mar 2025 21:57"
   },
   {
-    "title": "FOURTH AV, AUSTRAL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595150",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.917919159",
-    "longitude": "150.808670044",
-    "region": "nsw",
-    "time_of_call": "19 Mar 2025 22:25:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "FOURTH AV, AUSTRAL 2179",
-    "council_area": "Liverpool",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 Mar 2025 22:25"
-  },
-  {
     "title": "(JOHN RENSHAW DR), BUTTAI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595162",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1269,9 +1265,9 @@
     "latitude": "-32.819431305",
     "longitude": "151.560409546",
     "region": "nsw",
-    "time_of_call": "20 Mar 2025 02:10:00",
+    "time_of_call": "20 Mar 2025 02:39:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "B68 (JOHN RENSHAW DR), BUTTAI 2323",
     "council_area": "Cessnock",
@@ -1279,7 +1275,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Mar 2025 02:10"
+    "updated": "20 Mar 2025 02:39"
   },
   {
     "title": "REMEMBRANCE DVWY, TAHMOOR",
@@ -1289,9 +1285,9 @@
     "latitude": "-34.220783233",
     "longitude": "150.593643189",
     "region": "nsw",
-    "time_of_call": "20 Mar 2025 02:20:00",
+    "time_of_call": "20 Mar 2025 02:43:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "97 REMEMBRANCE DVWY, TAHMOOR 2573",
     "council_area": "Wollondilly",
@@ -1301,6 +1297,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Mar 2025 02:20"
+    "updated": "20 Mar 2025 02:43"
+  },
+  {
+    "title": "WHITTON DARLINGTON POINT RD, WHITTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595164",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.590675354",
+    "longitude": "146.134582519",
+    "region": "nsw",
+    "time_of_call": "20 Mar 2025 02:43:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WHITTON DARLINGTON POINT RD, WHITTON 2705",
+    "council_area": "Leeton",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Mar 2025 02:43"
   }
 ]
