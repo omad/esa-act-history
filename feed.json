@@ -29,15 +29,15 @@
     "longitude": "149.1268503",
     "region": "act",
     "time_of_call": "19 Mar 2025 19:42:20",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "YULE VILLAS, YULE STREET, AMAROO, 2914",
-    "updated": "19 Mar 2025 21:23:49"
+    "updated": "19 Mar 2025 22:20:30"
   },
   {
     "agency": "Fire",
@@ -49,7 +49,7 @@
     "longitude": "149.1327819824",
     "region": "act",
     "time_of_call": "19 Mar 2025 22:16:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "OLD TUGGERANONG ROAD, MONARO HIGHWAY, CHISHOLM, 2905",
-    "updated": "19 Mar 2025 22:19:12"
+    "updated": "19 Mar 2025 22:28:38"
   },
   {
     "agency": "Ambulance",
@@ -183,25 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "19 Mar 2025 22:19:48"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GILMORE",
-    "id": "017782-19032025",
-    "latitude": "-35.417683",
-    "longitude": "149.134893",
-    "region": "act",
-    "time_of_call": "19 Mar 2025 21:35:53",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GILMORE",
-    "updated": "19 Mar 2025 21:46:34"
+    "updated": "19 Mar 2025 22:28:44"
   },
   {
     "agency": "Ambulance",
@@ -1409,9 +1391,9 @@
     "latitude": "-34.324401856",
     "longitude": "146.122695923",
     "region": "nsw",
-    "time_of_call": "19 Mar 2025 21:30:00",
+    "time_of_call": "19 Mar 2025 22:18:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1424,7 +1406,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Mar 2025 21:30"
+    "updated": "19 Mar 2025 22:18"
   },
   {
     "title": "TAWARRI ST, MOREE",
@@ -1513,5 +1495,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Mar 2025 22:01"
+  },
+  {
+    "title": "FOURTH AV, AUSTRAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595150",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.917919159",
+    "longitude": "150.808670044",
+    "region": "nsw",
+    "time_of_call": "19 Mar 2025 22:25:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "FOURTH AV, AUSTRAL 2179",
+    "council_area": "Liverpool",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Mar 2025 22:25"
+  },
+  {
+    "title": "CRAWFORD ST, BULAHDELAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595151",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.405227661",
+    "longitude": "152.209976197",
+    "region": "nsw",
+    "time_of_call": "19 Mar 2025 22:21:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ANGLICAN CARE 27-31 CRAWFORD ST, BULAHDELAH 2423",
+    "council_area": "Mid-Coast",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Mar 2025 22:21"
   }
 ]
