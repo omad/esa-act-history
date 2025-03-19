@@ -55,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "20 Mar 2025 07:17:19"
+    "updated": "20 Mar 2025 07:28:43"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "20 Mar 2025 07:14:51"
+    "updated": "20 Mar 2025 07:29:59"
   },
   {
     "agency": "Ambulance",
@@ -85,31 +85,13 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "20 Mar 2025 07:15:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "20 Mar 2025 07:24:05"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FARRER",
-    "id": "017826-20032025",
-    "latitude": "-35.377331",
-    "longitude": "149.104586",
-    "region": "act",
-    "time_of_call": "20 Mar 2025 07:22:44",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FARRER",
-    "updated": "20 Mar 2025 07:24:00"
+    "updated": "20 Mar 2025 07:34:52"
   },
   {
     "title": "Joadja Hill HR",
@@ -1210,9 +1192,9 @@
     "latitude": "-31.6622371679999",
     "longitude": "152.725433349",
     "region": "nsw",
-    "time_of_call": "20 Mar 2025 06:22:00",
+    "time_of_call": "20 Mar 2025 07:32:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "11 MAIN ST, ROSSGLEN 2439",
     "council_area": "Port Macquarie-Hastings",
@@ -1220,7 +1202,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Mar 2025 06:22"
+    "updated": "20 Mar 2025 07:32"
   },
   {
     "title": "OLD EUSTON RD, MALLEE",
@@ -1274,9 +1256,9 @@
     "latitude": "-31.034093857",
     "longitude": "150.771713257",
     "region": "nsw",
-    "time_of_call": "20 Mar 2025 06:58:00",
+    "time_of_call": "20 Mar 2025 07:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MAGGIES GLEN 174 JENNERS LANE, WINTON 2344",
     "council_area": "Tamworth",
@@ -1284,21 +1266,21 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Mar 2025 06:58"
+    "updated": "20 Mar 2025 07:38"
   },
   {
-    "title": "MINMI RD, CAMERON PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595177",
+    "title": "FREEMANS DR, FREEMANS WATERHOLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595179",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.902721406",
-    "longitude": "151.622207642",
+    "latitude": "-32.991733551",
+    "longitude": "151.489425659",
     "region": "nsw",
-    "time_of_call": "20 Mar 2025 07:00:00",
+    "time_of_call": "20 Mar 2025 07:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "MINMI RD, CAMERON PARK 2285",
+    "location": "FREEMANS DR, FREEMANS WATERHOLE 2323",
     "council_area": "Lake Macquarie",
     "type": "MVA/Transport",
     "type_description": "",
@@ -1306,6 +1288,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Mar 2025 07:00"
+    "updated": "20 Mar 2025 07:40"
+  },
+  {
+    "title": "TOMINGLEY WEST RD, TOMINGLEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595180",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.57597351",
+    "longitude": "148.153289795",
+    "region": "nsw",
+    "time_of_call": "20 Mar 2025 07:28:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "TOMINGLEY WEST RD, TOMINGLEY 2869",
+    "council_area": "Narromine",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Mar 2025 07:28"
   }
 ]
