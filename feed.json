@@ -47,13 +47,13 @@
     "longitude": "149.129625",
     "region": "act",
     "time_of_call": "19 Mar 2025 11:59:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "19 Mar 2025 16:22:41"
+    "updated": "19 Mar 2025 16:32:30"
   },
   {
     "agency": "Ambulance",
@@ -77,24 +77,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "017718-19032025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "19 Mar 2025 14:37:30",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "19 Mar 2025 15:40:31"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BONYTHON",
     "id": "017719-19032025",
     "latitude": "-35.435736",
@@ -108,24 +90,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
     "updated": "19 Mar 2025 15:46:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - OXLEY",
-    "id": "017720-19032025",
-    "latitude": "-35.410682",
-    "longitude": "149.078026",
-    "region": "act",
-    "time_of_call": "19 Mar 2025 14:47:45",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "OXLEY",
-    "updated": "19 Mar 2025 15:57:00"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "19 Mar 2025 15:59:07"
+    "updated": "19 Mar 2025 16:35:26"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "19 Mar 2025 16:06:22"
+    "updated": "19 Mar 2025 16:33:14"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "19 Mar 2025 16:20:16"
+    "updated": "19 Mar 2025 16:25:57"
   },
   {
     "agency": "Ambulance",
@@ -252,6 +216,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
     "updated": "19 Mar 2025 16:15:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RIVETT",
+    "id": "017743-19032025",
+    "latitude": "-35.346479",
+    "longitude": "149.039315",
+    "region": "act",
+    "time_of_call": "19 Mar 2025 16:25:37",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RIVETT",
+    "updated": "19 Mar 2025 16:32:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "017744-19032025",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "19 Mar 2025 16:33:07",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HARRISON",
+    "updated": "19 Mar 2025 16:34:46"
   },
   {
     "title": "Joadja Hill HR",
@@ -724,7 +724,7 @@
     "latitude": "-34.166858673",
     "longitude": "150.813186645",
     "region": "nsw",
-    "time_of_call": "19 Mar 2025 09:46:00",
+    "time_of_call": "19 Mar 2025 16:29:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -736,7 +736,7 @@
     "fire": "Yes",
     "size": "45 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "19 Mar 2025 09:46"
+    "updated": "19 Mar 2025 16:29"
   },
   {
     "title": "Tura HR",
@@ -869,26 +869,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "19 Mar 2025 13:37"
-  },
-  {
-    "title": "NEWELL HWY, NARRANDERA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593979",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.714027405",
-    "longitude": "146.640228271",
-    "region": "nsw",
-    "time_of_call": "18 Mar 2025 18:17:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ROCKVALE 869 NEWELL HWY, NARRANDERA 2700",
-    "council_area": "Narrandera",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Mar 2025 18:17"
   },
   {
     "title": "CUNNINGHAM RD, BROCKLESBY",
@@ -1271,26 +1251,6 @@
     "updated": "19 Mar 2025 15:26"
   },
   {
-    "title": "FLORIBUNDA RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_594107",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.896526336",
-    "longitude": "150.792022705",
-    "region": "nsw",
-    "time_of_call": "19 Mar 2025 16:11:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "KEMPS CREEK CHILDRENS COTTAGE 35 FLORIBUNDA RD, KEMPS CREEK 2178",
-    "council_area": "Liverpool",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 Mar 2025 16:11"
-  },
-  {
     "title": "WC-APZ-61 MORRISON AVE WOMBARRA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_594108",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1320,7 +1280,7 @@
     "latitude": "-34.931419373",
     "longitude": "149.127456665",
     "region": "nsw",
-    "time_of_call": "19 Mar 2025 16:04:00",
+    "time_of_call": "19 Mar 2025 16:29:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
@@ -1332,7 +1292,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Mar 2025 16:04"
+    "updated": "19 Mar 2025 16:29"
   },
   {
     "title": "KIDMAN WAY, HILLSTON",
@@ -1375,5 +1335,55 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Mar 2025 16:20"
+  },
+  {
+    "title": "Mitchell Av, West Kempsey",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_594114",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.058352",
+    "longitude": "152.832011",
+    "region": "nsw",
+    "time_of_call": "19 Mar 2025 16:23:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "19 Mitchell Av, West Kempsey, NSW 2440",
+    "council_area": "Kempsey",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "19 Mar 2025 16:23"
+  },
+  {
+    "title": "Mitchell Av, West Kempsey",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_594116",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.058749",
+    "longitude": "152.831652999",
+    "region": "nsw",
+    "time_of_call": "19 Mar 2025 16:29:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Mitchell Av, West Kempsey, NSW 2440",
+    "council_area": "Kempsey",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "19 Mar 2025 16:29"
   }
 ]
