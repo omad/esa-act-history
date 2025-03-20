@@ -39,24 +39,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CURTIN",
-    "id": "018086-21032025",
-    "latitude": "-35.326585",
-    "longitude": "149.076856",
-    "region": "act",
-    "time_of_call": "21 Mar 2025 09:14:57",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CURTIN",
-    "updated": "21 Mar 2025 10:02:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONCRIEFF",
     "id": "018087-21032025",
     "latitude": "-35.158865",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "21 Mar 2025 10:12:37"
+    "updated": ""
   },
   {
     "agency": "Ambulance",
@@ -249,7 +231,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "21 Mar 2025 10:20:27"
+    "updated": "21 Mar 2025 10:32:11"
   },
   {
     "agency": "Ambulance",
@@ -267,7 +249,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "21 Mar 2025 10:19:18"
+    "updated": "21 Mar 2025 10:27:22"
   },
   {
     "agency": "Ambulance",
@@ -315,13 +297,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "21 Mar 2025 10:20:16",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "21 Mar 2025 10:23:25"
+    "updated": "21 Mar 2025 10:31:51"
   },
   {
     "agency": "Ambulance",
@@ -339,7 +321,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "21 Mar 2025 10:22:05"
+    "updated": "21 Mar 2025 10:24:58"
   },
   {
     "agency": "Ambulance",
@@ -357,7 +339,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "21 Mar 2025 10:23:25"
+    "updated": "21 Mar 2025 10:26:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HAWKER",
+    "id": "018107-21032025",
+    "latitude": "-35.246757",
+    "longitude": "149.03611",
+    "region": "act",
+    "time_of_call": "21 Mar 2025 10:29:06",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HAWKER",
+    "updated": "21 Mar 2025 10:32:23"
   },
   {
     "title": "Joadja Hill HR",
@@ -1647,6 +1647,50 @@
     "updated": "21 Mar 2025 09:46"
   },
   {
+    "title": "OLD HUME HWY, YERRINBOOL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595316",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.332126617",
+    "longitude": "150.560134888",
+    "region": "nsw",
+    "time_of_call": "21 Mar 2025 10:07:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "OLD HUME HWY, YERRINBOOL 2575",
+    "council_area": "Wingecarribee",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Mar 2025 10:07"
+  },
+  {
+    "title": "LINK RD, KIANDRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595317",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.8866386409999",
+    "longitude": "148.458465577",
+    "region": "nsw",
+    "time_of_call": "21 Mar 2025 10:13:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "LINK RD, KIANDRA 2629",
+    "council_area": "Snowy Monaro",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Mar 2025 10:13"
+  },
+  {
     "title": "Darling St, Brewarrina",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595318",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1654,9 +1698,9 @@
     "latitude": "-29.9586609999999",
     "longitude": "146.855311",
     "region": "nsw",
-    "time_of_call": "21 Mar 2025 10:16:00",
+    "time_of_call": "21 Mar 2025 10:28:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1669,6 +1713,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "21 Mar 2025 10:16"
+    "updated": "21 Mar 2025 10:28"
+  },
+  {
+    "title": "GEORGE BOOTH DR, BUCHANAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595319",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8306808469999",
+    "longitude": "151.527694702",
+    "region": "nsw",
+    "time_of_call": "21 Mar 2025 10:22:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GEORGE BOOTH DR, BUCHANAN 2323",
+    "council_area": "Cessnock",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Mar 2025 10:22"
   }
 ]
