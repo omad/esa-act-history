@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FRANKLIN",
-    "id": "018016-20032025",
-    "latitude": "-35.199225",
-    "longitude": "149.144681",
-    "region": "act",
-    "time_of_call": "20 Mar 2025 23:10:13",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FRANKLIN",
-    "updated": "21 Mar 2025 03:28:24"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - RED HILL",
     "id": "018050-21032025",
     "latitude": "-35.333636",
@@ -33,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "21 Mar 2025 03:49:51"
+    "updated": "21 Mar 2025 04:00:09"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "21 Mar 2025 03:41:26"
+    "updated": "21 Mar 2025 03:58:10"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +45,31 @@
     "longitude": "149.053511",
     "region": "act",
     "time_of_call": "21 Mar 2025 03:43:45",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLOREY",
+    "updated": "21 Mar 2025 04:02:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "018057-21032025",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "21 Mar 2025 04:11:15",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "21 Mar 2025 03:46:17"
+    "location": "KALEEN",
+    "updated": "21 Mar 2025 04:16:35"
   },
   {
     "title": "Joadja Hill HR",
@@ -1365,31 +1365,6 @@
     "updated": "21 Mar 2025 03:44"
   },
   {
-    "title": "Wellington Rd, Chester Hill",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595291",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.88395",
-    "longitude": "150.998772",
-    "region": "nsw",
-    "time_of_call": "21 Mar 2025 03:37:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "70 Wellington Rd, Chester Hill, NSW 2162",
-    "council_area": "Canterbury-Bankstown",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "21 Mar 2025 03:37"
-  },
-  {
     "title": "BUCCA RD, MOONEE BEACH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595292",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1397,9 +1372,9 @@
     "latitude": "-30.1877441409999",
     "longitude": "153.147354126",
     "region": "nsw",
-    "time_of_call": "21 Mar 2025 03:46:00",
+    "time_of_call": "21 Mar 2025 04:07:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BUCCA RD, MOONEE BEACH 2450",
     "council_area": "Coffs Harbour",
@@ -1407,6 +1382,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Mar 2025 03:46"
+    "updated": "21 Mar 2025 04:07"
   }
 ]
