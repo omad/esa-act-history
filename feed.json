@@ -45,13 +45,13 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "21 Mar 2025 23:17:13",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "22 Mar 2025 04:33:34"
+    "updated": "22 Mar 2025 04:45:52"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "22 Mar 2025 04:17:06"
+    "updated": "22 Mar 2025 04:43:48"
   },
   {
     "agency": "Ambulance",
@@ -106,6 +106,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
     "updated": "22 Mar 2025 04:35:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "018340-22032025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "22 Mar 2025 04:36:42",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "22 Mar 2025 04:41:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MOLONGLO VALLEY",
+    "id": "018341-22032025",
+    "latitude": "-35.284905",
+    "longitude": "149.053069",
+    "region": "act",
+    "time_of_call": "22 Mar 2025 04:43:55",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MOLONGLO VALLEY",
+    "updated": "22 Mar 2025 04:47:23"
   },
   {
     "title": "Joadja Hill HR",
@@ -875,5 +911,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "22 Mar 2025 03:17"
+  },
+  {
+    "title": "EUSDALE RD, YETHOLME",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595382",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.456821442",
+    "longitude": "149.8596344",
+    "region": "nsw",
+    "time_of_call": "22 Mar 2025 04:45:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "396 EUSDALE RD, YETHOLME 2795",
+    "council_area": "Bathurst",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Mar 2025 04:45"
   }
 ]
