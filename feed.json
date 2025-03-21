@@ -117,13 +117,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "22 Mar 2025 09:17:44",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "22 Mar 2025 10:17:07"
+    "updated": "22 Mar 2025 10:28:17"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "22 Mar 2025 10:04:57"
+    "updated": "22 Mar 2025 10:28:42"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "22 Mar 2025 09:51:41"
+    "updated": "22 Mar 2025 10:25:35"
   },
   {
     "agency": "Ambulance",
@@ -249,7 +249,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "22 Mar 2025 10:21:51"
+    "updated": "22 Mar 2025 10:27:41"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "018382-22032025",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "22 Mar 2025 10:27:14",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "22 Mar 2025 10:29:42"
   },
   {
     "title": "Joadja Hill HR",
@@ -1063,26 +1081,6 @@
     "updated": "22 Mar 2025 08:22"
   },
   {
-    "title": "ALBERT KENCH PL, BUXTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595396",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.246063233",
-    "longitude": "150.544326783",
-    "region": "nsw",
-    "time_of_call": "22 Mar 2025 09:24:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "15 ALBERT KENCH PL, BUXTON 2571",
-    "council_area": "Wollondilly",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Mar 2025 09:24"
-  },
-  {
     "title": "GILMORE TRL, CLARENCE TOWN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595397",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1090,9 +1088,9 @@
     "latitude": "-32.6183700559999",
     "longitude": "151.792037964",
     "region": "nsw",
-    "time_of_call": "22 Mar 2025 09:05:00",
+    "time_of_call": "22 Mar 2025 10:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "GILMORE TRL, CLARENCE TOWN 2321",
     "council_area": "Dungog",
@@ -1102,29 +1100,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Mar 2025 09:05"
-  },
-  {
-    "title": "REDBANK PL, PICTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595398",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.193199157",
-    "longitude": "150.598892212",
-    "region": "nsw",
-    "time_of_call": "22 Mar 2025 09:47:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "9 REDBANK PL, PICTON 2571",
-    "council_area": "Wollondilly",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Mar 2025 09:47"
+    "updated": "22 Mar 2025 10:21"
   },
   {
     "title": "GEORGE BOOTH DR, SEAHAMPTON",
@@ -1134,9 +1110,9 @@
     "latitude": "-32.8920021059999",
     "longitude": "151.585662842",
     "region": "nsw",
-    "time_of_call": "22 Mar 2025 09:51:00",
+    "time_of_call": "22 Mar 2025 10:16:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1 GEORGE BOOTH DR, SEAHAMPTON 2286",
     "council_area": "Lake Macquarie",
@@ -1144,7 +1120,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Mar 2025 09:51"
+    "updated": "22 Mar 2025 10:16"
   },
   {
     "title": "(PACIFIC MTWY), SOMERSBY",
@@ -1154,9 +1130,9 @@
     "latitude": "-33.3807144159999",
     "longitude": "151.300430298",
     "region": "nsw",
-    "time_of_call": "22 Mar 2025 10:04:00",
+    "time_of_call": "22 Mar 2025 10:20:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "M1 (PACIFIC MTWY), SOMERSBY 2250",
     "council_area": "Central Coast",
@@ -1164,7 +1140,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Mar 2025 10:04"
+    "updated": "22 Mar 2025 10:20"
   },
   {
     "title": "MCKELL AV, WATERFALL",
