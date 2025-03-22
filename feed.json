@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "23 Mar 2025 05:44:40"
+    "updated": "23 Mar 2025 05:58:26"
   },
   {
     "agency": "Ambulance",
@@ -147,24 +147,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONASH",
-    "id": "018561-23032025",
-    "latitude": "-35.413962",
-    "longitude": "149.091126",
-    "region": "act",
-    "time_of_call": "23 Mar 2025 04:40:39",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "23 Mar 2025 05:31:35"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BONYTHON",
     "id": "018562-23032025",
     "latitude": "-35.435736",
@@ -177,25 +159,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "23 Mar 2025 05:48:04"
+    "updated": "23 Mar 2025 06:12:08"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
-    "id": "018563-23032025",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
+    "title": "AMBULANCE RESPONSE - BONYTHON",
+    "id": "018564-23032025",
+    "latitude": "-35.435736",
+    "longitude": "149.081053",
     "region": "act",
-    "time_of_call": "23 Mar 2025 05:09:03",
+    "time_of_call": "23 Mar 2025 05:55:37",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CANBERRA AIRPORT",
-    "updated": "23 Mar 2025 05:12:39"
+    "location": "BONYTHON",
+    "updated": "23 Mar 2025 05:59:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "018565-23032025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "23 Mar 2025 06:16:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "23 Mar 2025 06:17:27"
   },
   {
     "title": "Joadja Hill HR",
@@ -1051,27 +1051,5 @@
     "size": "0 ha",
     "responsible_agency": "NSW Police",
     "updated": "22 Mar 2025 23:10"
-  },
-  {
-    "title": "LOWES MOUNT RD, OBERON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595483",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.696369171",
-    "longitude": "149.851226806",
-    "region": "nsw",
-    "time_of_call": "23 Mar 2025 04:34:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "63 LOWES MOUNT RD, OBERON 2787",
-    "council_area": "Oberon",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Mar 2025 04:34"
   }
 ]
