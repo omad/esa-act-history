@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "23 Mar 2025 03:25:31"
+    "updated": "23 Mar 2025 03:37:40"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.097085",
     "region": "act",
     "time_of_call": "23 Mar 2025 02:45:08",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "23 Mar 2025 03:23:38"
+    "updated": "23 Mar 2025 03:38:28"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "23 Mar 2025 03:26:41"
+    "updated": "23 Mar 2025 03:27:47"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,31 @@
     "longitude": "149.142366",
     "region": "act",
     "time_of_call": "23 Mar 2025 03:25:27",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "23 Mar 2025 03:25:44"
+    "updated": "23 Mar 2025 03:47:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "018555-23032025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "23 Mar 2025 03:38:34",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "23 Mar 2025 03:44:46"
   },
   {
     "title": "Joadja Hill HR",
@@ -1024,9 +1042,9 @@
     "latitude": "-33.862476349",
     "longitude": "150.722473144",
     "region": "nsw",
-    "time_of_call": "23 Mar 2025 03:20:00",
+    "time_of_call": "23 Mar 2025 03:33:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "777 LUDDENHAM RD, LUDDENHAM 2745",
     "council_area": "Penrith",
@@ -1034,6 +1052,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Mar 2025 03:20"
+    "updated": "23 Mar 2025 03:33"
+  },
+  {
+    "title": "GORGE RD, HEIFER STATION",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595482",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.4075088499999",
+    "longitude": "152.58380127",
+    "region": "nsw",
+    "time_of_call": "23 Mar 2025 03:32:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "2568 GORGE RD, HEIFER STATION 2460",
+    "council_area": "Clarence Valley",
+    "type": "Search/Rescue",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Mar 2025 03:32"
   }
 ]
