@@ -15,7 +15,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "24 Mar 2025 04:08:48"
+    "updated": "24 Mar 2025 05:34:55"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "24 Mar 2025 05:13:19"
+    "updated": "24 Mar 2025 05:47:37"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,31 @@
     "longitude": "149.144681",
     "region": "act",
     "time_of_call": "24 Mar 2025 05:13:28",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "24 Mar 2025 05:19:53"
+    "updated": "24 Mar 2025 05:36:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
+    "id": "018795-24032025",
+    "latitude": "-35.425091",
+    "longitude": "149.088064",
+    "region": "act",
+    "time_of_call": "24 Mar 2025 05:46:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "24 Mar 2025 05:48:37"
   },
   {
     "title": "Joadja Hill HR",
@@ -698,30 +716,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Mar 2025 04:18"
-  },
-  {
-    "title": "Charlton Rd, Brewarrina",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595561",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.966282",
-    "longitude": "146.849831",
-    "region": "nsw",
-    "time_of_call": "24 Mar 2025 05:27:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Charlton Rd, Brewarrina, NSW 2839",
-    "council_area": "Brewarrina",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "24 Mar 2025 05:27"
   }
 ]
