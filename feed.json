@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "23 Mar 2025 22:16:45"
+    "updated": "23 Mar 2025 22:25:45"
   },
   {
     "agency": "Ambulance",
@@ -225,13 +225,13 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "23 Mar 2025 22:06:41",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "23 Mar 2025 22:13:15"
+    "updated": "23 Mar 2025 22:20:49"
   },
   {
     "agency": "Ambulance",
@@ -249,7 +249,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "23 Mar 2025 22:12:48"
+    "updated": "23 Mar 2025 22:23:18"
   },
   {
     "agency": "Ambulance",
@@ -268,6 +268,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
     "updated": "23 Mar 2025 22:16:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LATHAM",
+    "id": "018739-23032025",
+    "latitude": "-35.217781",
+    "longitude": "149.034875",
+    "region": "act",
+    "time_of_call": "23 Mar 2025 22:19:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LATHAM",
+    "updated": "23 Mar 2025 22:23:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "018741-23032025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "23 Mar 2025 22:25:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "23 Mar 2025 22:26:16"
   },
   {
     "title": "Joadja Hill HR",
@@ -947,28 +983,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Mar 2025 21:58"
-  },
-  {
-    "title": "ENDEAVOUR ST, OBERON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595549",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.694469452",
-    "longitude": "149.862045288",
-    "region": "nsw",
-    "time_of_call": "23 Mar 2025 21:58:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WOODCHEM BORG PANELS 31 ENDEAVOUR ST, OBERON 2787",
-    "council_area": "Oberon",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
     "updated": "23 Mar 2025 21:58"
   }
 ]
