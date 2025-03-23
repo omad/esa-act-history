@@ -1,5 +1,25 @@
 [
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STRUCTURE FIRE - WESTON",
+    "id": "004955-23032025",
+    "latitude": "-35.34306",
+    "longitude": "149.05893",
+    "region": "act",
+    "time_of_call": "23 Mar 2025 19:46:37",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "STRUCTURE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
+    "location": "MCINNES STREET, WESTON, 2611",
+    "updated": "23 Mar 2025 19:48:55"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -27,13 +47,13 @@
     "longitude": "149.161141",
     "region": "act",
     "time_of_call": "23 Mar 2025 12:10:11",
-    "status": "Finished",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "23 Mar 2025 19:17:59"
+    "updated": "23 Mar 2025 19:41:26"
   },
   {
     "agency": "Ambulance",
@@ -52,24 +72,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
     "updated": "23 Mar 2025 19:15:02"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONASH",
-    "id": "018666-23032025",
-    "latitude": "-35.413962",
-    "longitude": "149.091126",
-    "region": "act",
-    "time_of_call": "23 Mar 2025 16:44:22",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "23 Mar 2025 19:10:40"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +125,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "23 Mar 2025 17:36:58"
+    "updated": "23 Mar 2025 19:35:33"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA CENTRAL",
-    "updated": "23 Mar 2025 19:24:48"
+    "updated": "23 Mar 2025 19:29:43"
   },
   {
     "agency": "Ambulance",
@@ -165,37 +167,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - STRATHNAIRN",
-    "id": "018692-23032025",
-    "latitude": "-35.237286",
-    "longitude": "148.98074",
-    "region": "act",
-    "time_of_call": "23 Mar 2025 18:11:43",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "STRATHNAIRN",
-    "updated": "23 Mar 2025 18:59:01"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONASH",
     "id": "018694-23032025",
     "latitude": "-35.413962",
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "23 Mar 2025 18:37:32",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "23 Mar 2025 19:27:13"
+    "updated": "23 Mar 2025 19:30:43"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +215,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "23 Mar 2025 19:18:42"
+    "updated": "23 Mar 2025 19:30:44"
   },
   {
     "agency": "Ambulance",
@@ -243,13 +227,13 @@
     "longitude": "149.1195",
     "region": "act",
     "time_of_call": "23 Mar 2025 19:11:17",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "23 Mar 2025 19:17:45"
+    "updated": "23 Mar 2025 19:41:00"
   },
   {
     "agency": "Ambulance",
@@ -279,13 +263,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "23 Mar 2025 19:20:10",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "23 Mar 2025 19:25:55"
+    "updated": "23 Mar 2025 19:42:18"
   },
   {
     "agency": "Ambulance",
@@ -297,13 +281,33 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "23 Mar 2025 19:22:58",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "23 Mar 2025 19:48:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STRUCTURE FIRE - WESTON",
+    "id": "018709-23032025",
+    "latitude": "-35.34306",
+    "longitude": "149.05893",
+    "region": "act",
+    "time_of_call": "23 Mar 2025 19:46:37",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "23 Mar 2025 19:25:13"
+    "type": "STRUCTURE FIRE",
+    "type_description": "",
+    "type_icon": "",
+    "location": "MCINNES STREET, WESTON, 2611",
+    "updated": "23 Mar 2025 19:46:38"
   },
   {
     "title": "Joadja Hill HR",
@@ -922,28 +926,6 @@
     "updated": "23 Mar 2025 19:12"
   },
   {
-    "title": "ISLAND POINT RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595534",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.089851379",
-    "longitude": "150.598571777",
-    "region": "nsw",
-    "time_of_call": "23 Mar 2025 19:09:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ST GEORGES BASIN SHOPPING CENTRE 136 ISLAND POINT RD, ST GEORGES BASIN 2540",
-    "council_area": "Shoalhaven",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Mar 2025 19:09"
-  },
-  {
     "title": "CALLISTEMON AV, HILL TOP",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595537",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -951,18 +933,40 @@
     "latitude": "-34.344947815",
     "longitude": "150.479156494",
     "region": "nsw",
-    "time_of_call": "23 Mar 2025 19:15:00",
+    "time_of_call": "23 Mar 2025 19:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "5 CALLISTEMON AV, HILL TOP 2575",
     "council_area": "Wingecarribee",
-    "type": "Other",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Mar 2025 19:15"
+    "updated": "23 Mar 2025 19:38"
+  },
+  {
+    "title": "DEL MONTE PL, COPACABANA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595538",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4899902339999",
+    "longitude": "151.433364868",
+    "region": "nsw",
+    "time_of_call": "23 Mar 2025 19:41:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "194 DEL MONTE PL, COPACABANA 2251",
+    "council_area": "Central Coast",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Mar 2025 19:41"
   }
 ]
