@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "25 Mar 2025 04:37:32"
+    "updated": "25 Mar 2025 04:49:13"
   },
   {
     "agency": "Ambulance",
@@ -59,24 +59,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "019047-25032025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "25 Mar 2025 02:55:54",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "25 Mar 2025 03:59:05"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WANNIASSA",
     "id": "019052-25032025",
     "latitude": "-35.399113",
@@ -89,7 +71,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "25 Mar 2025 04:48:48"
+    "updated": "25 Mar 2025 05:04:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "019054-25032025",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "25 Mar 2025 04:53:54",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "25 Mar 2025 04:54:09"
   },
   {
     "title": "Joadja Hill HR",
@@ -563,9 +563,9 @@
     "latitude": "-33.411125184",
     "longitude": "151.218124389",
     "region": "nsw",
-    "time_of_call": "25 Mar 2025 04:32:00",
+    "time_of_call": "25 Mar 2025 05:00:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "151 PEATS RIDGE RD, CALGA 2250",
     "council_area": "Central Coast",
@@ -573,21 +573,21 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Mar 2025 04:32"
+    "updated": "25 Mar 2025 05:00"
   },
   {
-    "title": "BERRIGAN RD, BERRIGAN",
+    "title": "GREEN HILLS RD, BERRIGAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595640",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.7423400879999",
-    "longitude": "145.795288086",
+    "latitude": "-35.679012299",
+    "longitude": "145.81729126",
     "region": "nsw",
-    "time_of_call": "25 Mar 2025 04:44:00",
+    "time_of_call": "25 Mar 2025 05:05:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
-    "location": "BERRIGAN RD, BERRIGAN 2712",
+    "location": "GREEN HILLS RD, BERRIGAN 2712",
     "council_area": "Berrigan",
     "type": "Other",
     "type_description": "",
@@ -595,6 +595,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Mar 2025 04:44"
+    "updated": "25 Mar 2025 05:05"
   }
 ]
