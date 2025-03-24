@@ -29,15 +29,15 @@
     "longitude": "149.0839691162",
     "region": "act",
     "time_of_call": "25 Mar 2025 09:00:12",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STRUCTURE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "FEDERATION SQUARE 2, OHANLON PLACE, NICHOLLS, 2913",
-    "updated": "25 Mar 2025 09:17:03"
+    "updated": "25 Mar 2025 09:30:24"
   },
   {
     "agency": "Ambulance",
@@ -67,13 +67,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "25 Mar 2025 08:30:50",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "25 Mar 2025 09:12:27"
+    "updated": "25 Mar 2025 09:38:32"
   },
   {
     "agency": "Ambulance",
@@ -85,13 +85,13 @@
     "longitude": "149.129625",
     "region": "act",
     "time_of_call": "25 Mar 2025 08:43:34",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "25 Mar 2025 09:12:24"
+    "updated": "25 Mar 2025 09:27:42"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "25 Mar 2025 09:23:24"
+    "updated": "25 Mar 2025 09:30:34"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "25 Mar 2025 09:23:39"
+    "updated": "25 Mar 2025 09:38:10"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +165,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "FEDERATION SQUARE 2, OHANLON PLACE, NICHOLLS, 2913",
-    "updated": "25 Mar 2025 09:03:29"
+    "updated": "25 Mar 2025 09:32:25"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "25 Mar 2025 09:15:55"
+    "updated": "25 Mar 2025 09:31:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "019084-25032025",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "25 Mar 2025 09:32:21",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "25 Mar 2025 09:38:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "019085-25032025",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "25 Mar 2025 09:34:41",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "25 Mar 2025 09:37:36"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "019086-25032025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "25 Mar 2025 09:34:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "25 Mar 2025 09:35:40"
   },
   {
     "title": "Joadja Hill HR",
@@ -257,7 +311,7 @@
     "latitude": "-37.101345062",
     "longitude": "149.00138855",
     "region": "nsw",
-    "time_of_call": "24 Mar 2025 15:52:00",
+    "time_of_call": "25 Mar 2025 09:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -272,7 +326,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "24 Mar 2025 15:52"
+    "updated": "25 Mar 2025 09:31"
   },
   {
     "title": "ASSIST SES - CYCLONE ALFRED",
@@ -500,7 +554,7 @@
     "latitude": "-37.1085560449999",
     "longitude": "149.652938819",
     "region": "nsw",
-    "time_of_call": "24 Mar 2025 15:47:00",
+    "time_of_call": "25 Mar 2025 09:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -512,7 +566,7 @@
     "fire": "Yes",
     "size": "313 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "24 Mar 2025 15:47"
+    "updated": "25 Mar 2025 09:27"
   },
   {
     "title": "PRINCES HWY, NAROOMA",
@@ -535,50 +589,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Mar 2025 20:15"
-  },
-  {
-    "title": "ESCOTT RD, WERRIS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595614",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.3739051819999",
-    "longitude": "150.619430542",
-    "region": "nsw",
-    "time_of_call": "25 Mar 2025 06:52:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "274 ESCOTT RD, WERRIS CREEK 2341",
-    "council_area": "Liverpool Plains",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Mar 2025 06:52"
-  },
-  {
-    "title": "GRAWIN OPAL FIELDS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595621",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.658443451",
-    "longitude": "147.64717102",
-    "region": "nsw",
-    "time_of_call": "24 Mar 2025 19:20:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "GRAWIN OPAL FIELDS 2832",
-    "council_area": "Walgett",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Mar 2025 19:20"
   },
   {
     "title": "GREEN HILLS RD, BERRIGAN",
@@ -630,9 +640,9 @@
     "latitude": "-33.869155884",
     "longitude": "150.861358642",
     "region": "nsw",
-    "time_of_call": "25 Mar 2025 08:47:00",
+    "time_of_call": "25 Mar 2025 09:28:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "FAIRFIELD CITY FARM 31 DARLING ST, ABBOTSBURY 2176",
     "council_area": "Fairfield",
@@ -642,29 +652,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Mar 2025 08:47"
-  },
-  {
-    "title": "THE APPIAN WAY, MOUNT VERNON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595648",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.858646393",
-    "longitude": "150.8125",
-    "region": "nsw",
-    "time_of_call": "25 Mar 2025 08:45:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "139 THE APPIAN WAY, MOUNT VERNON 2178",
-    "council_area": "Penrith",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Mar 2025 08:45"
+    "updated": "25 Mar 2025 09:28"
   },
   {
     "title": "RENMARK RD, WENTWORTH",
@@ -674,7 +662,7 @@
     "latitude": "-34.089885711",
     "longitude": "141.910049439",
     "region": "nsw",
-    "time_of_call": "25 Mar 2025 09:03:00",
+    "time_of_call": "25 Mar 2025 09:23:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
@@ -686,7 +674,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Mar 2025 09:03"
+    "updated": "25 Mar 2025 09:23"
   },
   {
     "title": "FAIRWAY DR, SANCTUARY POINT",
@@ -696,9 +684,9 @@
     "latitude": "-35.096817017",
     "longitude": "150.629318237",
     "region": "nsw",
-    "time_of_call": "25 Mar 2025 09:12:00",
+    "time_of_call": "25 Mar 2025 09:24:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "7 FAIRWAY DR, SANCTUARY POINT 2540",
     "council_area": "Shoalhaven",
@@ -706,28 +694,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Mar 2025 09:12"
-  },
-  {
-    "title": "OLD WENTWORTH RD, WENTWORTH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595651",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.1019744869999",
-    "longitude": "141.929840088",
-    "region": "nsw",
-    "time_of_call": "25 Mar 2025 09:18:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "OLD WENTWORTH RD, WENTWORTH 2648",
-    "council_area": "Wentworth",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Mar 2025 09:18"
+    "updated": "25 Mar 2025 09:24"
   }
 ]
