@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CAMPBELL",
-    "id": "019056-25032025",
-    "latitude": "-35.288663",
-    "longitude": "149.155928",
-    "region": "act",
-    "time_of_call": "25 Mar 2025 06:02:28",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CAMPBELL",
-    "updated": "25 Mar 2025 07:01:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MAWSON",
     "id": "019058-25032025",
     "latitude": "-35.361049",
@@ -89,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "25 Mar 2025 07:07:26"
+    "updated": "25 Mar 2025 07:40:45"
   },
   {
     "agency": "Ambulance",
@@ -108,6 +90,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
     "updated": "25 Mar 2025 07:13:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "019064-25032025",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "25 Mar 2025 07:43:11",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONNER",
+    "updated": "25 Mar 2025 07:45:56"
   },
   {
     "title": "Joadja Hill HR",
@@ -547,5 +547,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Mar 2025 06:53"
+  },
+  {
+    "title": "(WESTERN MTWY), EASTERN CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595643",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.7994461059999",
+    "longitude": "150.859100341",
+    "region": "nsw",
+    "time_of_call": "25 Mar 2025 07:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "M4 (WESTERN MTWY), EASTERN CREEK 2766",
+    "council_area": "Blacktown",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "25 Mar 2025 07:39"
   }
 ]
