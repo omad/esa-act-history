@@ -113,24 +113,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AMAROO",
-    "id": "019267-26032025",
-    "latitude": "-35.172039",
-    "longitude": "149.129625",
-    "region": "act",
-    "time_of_call": "26 Mar 2025 05:44:42",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "AMAROO",
-    "updated": "26 Mar 2025 06:01:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GREENWAY",
     "id": "019268-26032025",
     "latitude": "-35.411775",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "26 Mar 2025 06:11:19"
+    "updated": "26 Mar 2025 06:21:02"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +161,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "26 Mar 2025 06:05:27"
+    "updated": "26 Mar 2025 06:27:33"
   },
   {
     "title": "Joadja Hill HR",
@@ -582,28 +564,6 @@
     "updated": "25 Mar 2025 11:31"
   },
   {
-    "title": "FOX ST, WALGETT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595673",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.031269073",
-    "longitude": "148.11579895",
-    "region": "nsw",
-    "time_of_call": "25 Mar 2025 13:29:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WALGETT HOSPITAL 141 FOX ST, WALGETT 2832",
-    "council_area": "Walgett",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Mar 2025 13:29"
-  },
-  {
     "title": "YANTERILLA RD, TUBBUL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595676",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -734,5 +694,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "26 Mar 2025 05:43"
+  },
+  {
+    "title": "WILCANNIA-WANAARING RD, WILCANNIA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595736",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.522478104",
+    "longitude": "143.395095825",
+    "region": "nsw",
+    "time_of_call": "26 Mar 2025 06:23:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WILCANNIA-WANAARING RD, WILCANNIA 2836",
+    "council_area": "Central Darling",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Mar 2025 06:23"
   }
 ]
