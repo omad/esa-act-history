@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HACKETT",
-    "id": "019553-27032025",
-    "latitude": "-35.249801",
-    "longitude": "149.165368",
-    "region": "act",
-    "time_of_call": "27 Mar 2025 08:12:12",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HACKETT",
-    "updated": "27 Mar 2025 09:19:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MACGREGOR",
     "id": "019560-27032025",
     "latitude": "-35.210615",
@@ -73,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "27 Mar 2025 10:15:31"
+    "updated": "27 Mar 2025 10:30:11"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +73,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "27 Mar 2025 10:18:41"
+    "updated": "27 Mar 2025 10:25:01"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "27 Mar 2025 10:16:07"
+    "updated": "27 Mar 2025 10:26:40"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +163,25 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "27 Mar 2025 10:22:13"
+    "updated": "27 Mar 2025 10:28:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "019578-27032025",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "27 Mar 2025 10:29:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "27 Mar 2025 10:33:21"
   },
   {
     "title": "Joadja Hill HR",
@@ -525,7 +525,7 @@
     "latitude": "-32.9018936159999",
     "longitude": "149.940124512",
     "region": "nsw",
-    "time_of_call": "26 Mar 2025 15:44:00",
+    "time_of_call": "27 Mar 2025 10:29:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -537,7 +537,7 @@
     "fire": "Yes",
     "size": "97 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "26 Mar 2025 15:44"
+    "updated": "27 Mar 2025 10:29"
   },
   {
     "title": "YANTERILLA RD, TUBBUL",
@@ -812,9 +812,9 @@
     "latitude": "-33.0858345029999",
     "longitude": "151.636947631",
     "region": "nsw",
-    "time_of_call": "27 Mar 2025 09:58:00",
+    "time_of_call": "27 Mar 2025 10:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "22 BELMONT ST, SWANSEA 2281",
     "council_area": "Lake Macquarie",
@@ -822,7 +822,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "27 Mar 2025 09:58"
+    "updated": "27 Mar 2025 10:23"
   },
   {
     "title": "BUNNAN RD, OWENS GAP",
@@ -845,5 +845,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Mar 2025 10:19"
+  },
+  {
+    "title": "RACECOURSE RD, TYGALGAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595849",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.3092861169999",
+    "longitude": "153.410720825",
+    "region": "nsw",
+    "time_of_call": "27 Mar 2025 10:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "RACECOURSE RD, TYGALGAH 2484",
+    "council_area": "Tweed",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Mar 2025 10:32"
   }
 ]
