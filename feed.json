@@ -23,24 +23,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "019543-27032025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "27 Mar 2025 07:18:10",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "27 Mar 2025 08:26:43"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
     "id": "019544-27032025",
     "latitude": "-35.425091",
@@ -65,13 +47,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "27 Mar 2025 07:35:38",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": ""
+    "updated": "27 Mar 2025 08:43:08"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "27 Mar 2025 08:15:21"
+    "updated": "27 Mar 2025 08:47:03"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +159,7 @@
     "latitude": "-37.101345062",
     "longitude": "149.00138855",
     "region": "nsw",
-    "time_of_call": "25 Mar 2025 14:19:00",
+    "time_of_call": "27 Mar 2025 08:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -192,7 +174,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "25 Mar 2025 14:19"
+    "updated": "27 Mar 2025 08:42"
   },
   {
     "title": "Thatchers Hole",
@@ -359,7 +341,7 @@
     "latitude": "-37.1085560449999",
     "longitude": "149.652938819",
     "region": "nsw",
-    "time_of_call": "26 Mar 2025 09:56:00",
+    "time_of_call": "27 Mar 2025 08:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -371,7 +353,7 @@
     "fire": "Yes",
     "size": "313 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "26 Mar 2025 09:56"
+    "updated": "27 Mar 2025 08:43"
   },
   {
     "title": "Pompeii Pillar Creek HR",
@@ -727,5 +709,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Mar 2025 08:10"
+  },
+  {
+    "title": "BETHUNGRA RD, NANGUS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_595842",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.0178756719999",
+    "longitude": "147.88822937",
+    "region": "nsw",
+    "time_of_call": "27 Mar 2025 08:43:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "3082 BETHUNGRA RD, NANGUS 2722",
+    "council_area": "Cootamundra-Gundagai",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Mar 2025 08:43"
   }
 ]
