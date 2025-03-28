@@ -29,13 +29,13 @@
     "longitude": "149.100249",
     "region": "act",
     "time_of_call": "29 Mar 2025 02:08:28",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "29 Mar 2025 02:11:41"
+    "updated": "29 Mar 2025 04:45:21"
   },
   {
     "agency": "Ambulance",
@@ -47,13 +47,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "29 Mar 2025 02:30:57",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "29 Mar 2025 04:29:57"
+    "updated": "29 Mar 2025 04:48:09"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "29 Mar 2025 04:14:07"
+    "updated": "29 Mar 2025 04:38:46"
   },
   {
     "agency": "Ambulance",
@@ -131,28 +131,10 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KINGSTON",
-    "id": "020042-29032025",
-    "latitude": "-35.315358",
-    "longitude": "149.146868",
-    "region": "act",
-    "time_of_call": "29 Mar 2025 04:15:38",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KINGSTON",
-    "updated": "29 Mar 2025 04:23:16"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
     "id": "020044-29032025",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
     "region": "act",
     "time_of_call": "29 Mar 2025 04:32:41",
     "status": "Resource Allocation Pending",
@@ -160,8 +142,26 @@
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CANBERRA AIRPORT",
-    "updated": "29 Mar 2025 04:32:46"
+    "location": "GUNGAHLIN",
+    "updated": "29 Mar 2025 04:35:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BARTON",
+    "id": "020045-29032025",
+    "latitude": "-35.309306",
+    "longitude": "149.13437",
+    "region": "act",
+    "time_of_call": "29 Mar 2025 04:35:35",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BARTON",
+    "updated": "29 Mar 2025 04:45:21"
   },
   {
     "title": "Joadja Hill HR",
@@ -624,26 +624,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 Mar 2025 02:28"
-  },
-  {
-    "title": "LACHLAN VALLEY WAY, GOOLOOGONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596034",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6716041569999",
-    "longitude": "148.524215698",
-    "region": "nsw",
-    "time_of_call": "29 Mar 2025 04:15:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "LACHLAN VALLEY WAY, GOOLOOGONG 2805",
-    "council_area": "Cowra",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Mar 2025 04:15"
   },
   {
     "title": "SUMMERLAND HWY",
