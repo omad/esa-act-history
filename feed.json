@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "30 Mar 2025 07:22:10"
+    "updated": "30 Mar 2025 07:37:30"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "30 Mar 2025 07:33:42"
+    "updated": "30 Mar 2025 07:37:43"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +139,49 @@
     "longitude": "149.146868",
     "region": "act",
     "time_of_call": "30 Mar 2025 07:32:04",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KINGSTON",
+    "updated": "30 Mar 2025 07:38:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "020296-30032025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "30 Mar 2025 07:37:53",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "30 Mar 2025 07:41:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "020297-30032025",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "30 Mar 2025 07:38:36",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "KINGSTON",
-    "updated": "30 Mar 2025 07:34:06"
+    "location": "DICKSON",
+    "updated": "30 Mar 2025 07:40:51"
   },
   {
     "title": "Joadja Hill HR",
@@ -603,28 +639,6 @@
     "updated": "30 Mar 2025 05:01"
   },
   {
-    "title": "ARALUEN RD, ARALUEN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596180",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.5956001279999",
-    "longitude": "149.797195434",
-    "region": "nsw",
-    "time_of_call": "30 Mar 2025 07:29:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ARALUEN RD, ARALUEN 2622",
-    "council_area": "Queanbeyan-Palerang",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Mar 2025 07:29"
-  },
-  {
     "title": "JAMBEROO MOUNTAIN RD, BUDDEROO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596181",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -705,5 +719,25 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "30 Mar 2025 07:24"
+  },
+  {
+    "title": "NAVAL PDE, EROWAL BAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596185",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.103149414",
+    "longitude": "150.654464721",
+    "region": "nsw",
+    "time_of_call": "30 Mar 2025 07:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "145 NAVAL PDE, EROWAL BAY 2540",
+    "council_area": "Shoalhaven",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Mar 2025 07:36"
   }
 ]
