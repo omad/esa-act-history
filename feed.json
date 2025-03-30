@@ -63,24 +63,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - ISAACS",
-    "id": "020450-31032025",
-    "latitude": "-35.36866",
-    "longitude": "149.117192",
-    "region": "act",
-    "time_of_call": "31 Mar 2025 05:49:33",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "ISAACS",
-    "updated": "31 Mar 2025 07:14:06"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HUGHES",
     "id": "020451-31032025",
     "latitude": "-35.333105",
@@ -111,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "31 Mar 2025 07:34:49"
+    "updated": "31 Mar 2025 07:41:18"
   },
   {
     "agency": "Ambulance",
@@ -639,26 +621,6 @@
     "updated": "30 Mar 2025 23:48"
   },
   {
-    "title": "MOSS VALE RD, BARRENGARRY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596276",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.683563233",
-    "longitude": "150.524627685",
-    "region": "nsw",
-    "time_of_call": "31 Mar 2025 07:32:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MOSS VALE RD, BARRENGARRY 2577",
-    "council_area": "Shoalhaven",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 Mar 2025 07:32"
-  },
-  {
     "title": "WYBONG RD, HOLLYDEEN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596278",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -666,9 +628,9 @@
     "latitude": "-32.321678162",
     "longitude": "150.606155395",
     "region": "nsw",
-    "time_of_call": "31 Mar 2025 07:18:00",
+    "time_of_call": "31 Mar 2025 07:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "3320 WYBONG RD, HOLLYDEEN 2328",
     "council_area": "Muswellbrook",
@@ -676,7 +638,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Mar 2025 07:18"
+    "updated": "31 Mar 2025 07:38"
   },
   {
     "title": "CATHERINE FIELDS RD, CATHERINE FIELD",
@@ -699,5 +661,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "31 Mar 2025 07:30"
+  },
+  {
+    "title": "MCGRATHS RD, BURRAWANG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596280",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.587493896",
+    "longitude": "150.529464721",
+    "region": "nsw",
+    "time_of_call": "31 Mar 2025 07:41:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "HERONSLY 11 MCGRATHS RD, BURRAWANG 2577",
+    "council_area": "Wingecarribee",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "31 Mar 2025 07:41"
   }
 ]
