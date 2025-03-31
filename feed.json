@@ -49,15 +49,15 @@
     "longitude": "149.141638",
     "region": "act",
     "time_of_call": "01 Apr 2025 09:38:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "CURRONG STREET SOUTH, EUREE STREET, REID, 2612",
-    "updated": "01 Apr 2025 09:47:37"
+    "updated": "01 Apr 2025 10:06:04"
   },
   {
     "agency": "Ambulance",
@@ -93,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "01 Apr 2025 09:34:01"
+    "updated": "01 Apr 2025 10:11:23"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "01 Apr 2025 09:44:18"
+    "updated": "01 Apr 2025 09:55:23"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "01 Apr 2025 09:45:43"
+    "updated": "01 Apr 2025 10:02:09"
   },
   {
     "agency": "Ambulance",
@@ -171,24 +171,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - RED HILL",
-    "id": "020738-01042025",
-    "latitude": "-35.333636",
-    "longitude": "149.120031",
-    "region": "act",
-    "time_of_call": "01 Apr 2025 08:43:38",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "RED HILL",
-    "updated": "01 Apr 2025 09:13:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - NGUNNAWAL",
     "id": "020739-01042025",
     "latitude": "-35.17365",
@@ -201,7 +183,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "01 Apr 2025 08:48:40"
+    "updated": "01 Apr 2025 10:00:57"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +203,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "MAJURA PARKWAY, PRIVATE ACCESS ROAD BRIDGE, MAJURA, 0000",
-    "updated": "01 Apr 2025 09:43:15"
+    "updated": "01 Apr 2025 09:59:03"
   },
   {
     "agency": "Ambulance",
@@ -239,7 +221,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "01 Apr 2025 09:42:27"
+    "updated": "01 Apr 2025 10:03:55"
   },
   {
     "agency": "Ambulance",
@@ -258,6 +240,96 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
     "updated": "01 Apr 2025 09:45:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "020748-01042025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "01 Apr 2025 09:52:00",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "01 Apr 2025 10:17:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "020749-01042025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "01 Apr 2025 09:52:21",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "01 Apr 2025 10:02:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HIGGINS",
+    "id": "020750-01042025",
+    "latitude": "-35.230526",
+    "longitude": "149.025052",
+    "region": "act",
+    "time_of_call": "01 Apr 2025 10:00:50",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "01 Apr 2025 10:15:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "020751-01042025",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "01 Apr 2025 10:08:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "01 Apr 2025 10:12:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACQUARIE",
+    "id": "020753-01042025",
+    "latitude": "-35.249901",
+    "longitude": "149.061171",
+    "region": "act",
+    "time_of_call": "01 Apr 2025 10:22:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACQUARIE",
+    "updated": "01 Apr 2025 10:22:53"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -653,28 +725,6 @@
     "updated": "31 Mar 2025 16:16"
   },
   {
-    "title": "OREGANS RD, GORMANS HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596322",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.4917259219999",
-    "longitude": "149.580596924",
-    "region": "nsw",
-    "time_of_call": "31 Mar 2025 18:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "297 OREGANS RD, GORMANS HILL 2795",
-    "council_area": "Bathurst",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 Mar 2025 18:07"
-  },
-  {
     "title": "GWYDIR HWY, MOREE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596352",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -739,5 +789,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Apr 2025 09:00"
+  },
+  {
+    "title": "CORAKI RD, CORAKI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596377",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.978048325",
+    "longitude": "153.2913208",
+    "region": "nsw",
+    "time_of_call": "01 Apr 2025 09:50:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CORAKI RD, CORAKI 2471",
+    "council_area": "Lismore",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Apr 2025 09:50"
+  },
+  {
+    "title": "SOPHIA JANE DR, NELSONS PLAINS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596378",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.705692292",
+    "longitude": "151.716278076",
+    "region": "nsw",
+    "time_of_call": "01 Apr 2025 10:17:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "14 SOPHIA JANE DR, NELSONS PLAINS 2324",
+    "council_area": "Port Stephens",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Apr 2025 10:17"
   }
 ]
