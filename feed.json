@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "03 Apr 2025 05:13:29"
+    "updated": "03 Apr 2025 05:36:02"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "03 Apr 2025 05:08:50"
+    "updated": "03 Apr 2025 05:45:04"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +101,31 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "03 Apr 2025 05:29:57",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "03 Apr 2025 05:32:46"
+    "updated": "03 Apr 2025 05:49:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "021135-03042025",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "03 Apr 2025 05:44:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "03 Apr 2025 05:47:14"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -402,7 +420,7 @@
     "latitude": "-34.7472496029999",
     "longitude": "148.307861328",
     "region": "nsw",
-    "time_of_call": "02 Apr 2025 00:58:00",
+    "time_of_call": "03 Apr 2025 05:37:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -417,7 +435,7 @@
     "fire": "Yes",
     "size": "60 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Apr 2025 00:58"
+    "updated": "3 Apr 2025 05:37"
   },
   {
     "title": "GREENING LANE, LIDSTER",
@@ -595,5 +613,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Apr 2025 20:15"
+  },
+  {
+    "title": "JOHN RENSHAW DR, BUCHANAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596539",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.829933167",
+    "longitude": "151.531341552",
+    "region": "nsw",
+    "time_of_call": "03 Apr 2025 05:33:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "JOHN RENSHAW DR, BUCHANAN 2323",
+    "council_area": "Cessnock",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Apr 2025 05:33"
   }
 ]
