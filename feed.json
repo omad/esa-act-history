@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "03 Apr 2025 07:36:48"
+    "updated": "03 Apr 2025 08:06:01"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "03 Apr 2025 07:26:36"
+    "updated": "03 Apr 2025 08:01:53"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "03 Apr 2025 07:27:00"
+    "updated": "03 Apr 2025 08:15:33"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +101,13 @@
     "longitude": "149.110257",
     "region": "act",
     "time_of_call": "03 Apr 2025 07:25:17",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "03 Apr 2025 07:37:51"
+    "updated": "03 Apr 2025 07:47:35"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "03 Apr 2025 07:33:11"
+    "updated": "03 Apr 2025 08:16:02"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,31 @@
     "longitude": "149.100175",
     "region": "act",
     "time_of_call": "03 Apr 2025 07:42:50",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GIRALANG",
+    "updated": "03 Apr 2025 07:53:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "021149-03042025",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "03 Apr 2025 08:13:19",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "GIRALANG",
-    "updated": "03 Apr 2025 07:44:41"
+    "location": "WESTON",
+    "updated": "03 Apr 2025 08:19:32"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -567,28 +585,6 @@
     "updated": "2 Apr 2025 16:22"
   },
   {
-    "title": "FILLIPONIS RD, LOWESDALE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596485",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.83241272",
-    "longitude": "146.378051758",
-    "region": "nsw",
-    "time_of_call": "02 Apr 2025 15:27:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "100 FILLIPONIS RD, LOWESDALE 2646",
-    "council_area": "Federation",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Apr 2025 15:27"
-  },
-  {
     "title": "BANGAROO QUARRY RD, CANOWINDRA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596487",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -677,14 +673,14 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596551",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.1091194159999",
-    "longitude": "147.313125611",
+    "latitude": "-35.10590744",
+    "longitude": "147.309844971",
     "region": "nsw",
     "time_of_call": "03 Apr 2025 07:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "ROACH RD, MOORONG 2650",
+    "location": "160 ROACH RD, MOORONG 2650",
     "council_area": "Wagga Wagga",
     "type": "Other",
     "type_description": "",
@@ -693,5 +689,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Apr 2025 07:33"
+  },
+  {
+    "title": "Ridges Plantation- Powerline Easement",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596552",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-37.052762526",
+    "longitude": "149.670095444",
+    "region": "nsw",
+    "time_of_call": "03 Apr 2025 07:57:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "Ridges Plantation Burragate Rd Towamba",
+    "council_area": "Bega Valley",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "2 ha",
+    "responsible_agency": "Forestry Corporation of NSW",
+    "updated": "3 Apr 2025 07:57"
   }
 ]
