@@ -40,26 +40,6 @@
     "updated": "03 Apr 2025 12:18:58"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "RUBBISH FIRE - CITY",
-    "id": "005529-03042025",
-    "latitude": "-35.278049469",
-    "longitude": "149.1292419434",
-    "region": "act",
-    "time_of_call": "03 Apr 2025 15:30:56",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "RUBBISH FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
-    "location": "ALINGA STREET, NORTHBOURNE AVENUE, CITY, 2601",
-    "updated": "03 Apr 2025 15:42:56"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -117,24 +97,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GOWRIE",
-    "id": "021224-03042025",
-    "latitude": "-35.411365",
-    "longitude": "149.110257",
-    "region": "act",
-    "time_of_call": "03 Apr 2025 15:30:35",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GOWRIE",
-    "updated": "03 Apr 2025 15:43:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CAMPBELL",
     "id": "021227-03042025",
     "latitude": "-35.288663",
@@ -177,13 +139,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "03 Apr 2025 15:47:00",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "03 Apr 2025 15:51:15"
+    "updated": "03 Apr 2025 16:47:50"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "03 Apr 2025 16:22:07"
+    "updated": "03 Apr 2025 16:40:42"
   },
   {
     "agency": "Ambulance",
@@ -267,13 +229,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "03 Apr 2025 16:27:14",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "03 Apr 2025 16:33:05"
+    "updated": "03 Apr 2025 16:40:39"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +253,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "03 Apr 2025 16:37:16"
+    "updated": "03 Apr 2025 16:40:46"
   },
   {
     "agency": "Ambulance",
@@ -310,6 +272,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
     "updated": "03 Apr 2025 16:36:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "021239-03042025",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "03 Apr 2025 16:40:12",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "03 Apr 2025 16:48:34"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -935,7 +915,7 @@
     "latitude": "-35.8043136599999",
     "longitude": "145.574676513",
     "region": "nsw",
-    "time_of_call": "03 Apr 2025 16:29:00",
+    "time_of_call": "03 Apr 2025 16:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -947,6 +927,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Apr 2025 16:29"
+    "updated": "3 Apr 2025 16:38"
+  },
+  {
+    "title": "LINDENDALE RD, WOLLONGBAR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596589",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.834749222",
+    "longitude": "153.396026611",
+    "region": "nsw",
+    "time_of_call": "03 Apr 2025 16:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "LINDENDALE RD, WOLLONGBAR 2477",
+    "council_area": "Ballina",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Apr 2025 16:39"
   }
 ]
