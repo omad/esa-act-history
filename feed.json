@@ -95,7 +95,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "05 Apr 2025 08:15:21"
+    "updated": "05 Apr 2025 08:34:38"
   },
   {
     "agency": "Ambulance",
@@ -113,7 +113,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "05 Apr 2025 08:20:24"
+    "updated": "05 Apr 2025 08:46:46"
   },
   {
     "agency": "Ambulance",
@@ -149,7 +149,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "05 Apr 2025 08:30:14"
+    "updated": "05 Apr 2025 08:36:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "021606-05042025",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "05 Apr 2025 08:42:05",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "05 Apr 2025 08:47:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WHITLAM",
+    "id": "021607-05042025",
+    "latitude": "-35.277508",
+    "longitude": "149.033417",
+    "region": "act",
+    "time_of_call": "05 Apr 2025 08:44:17",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WHITLAM",
+    "updated": "05 Apr 2025 08:47:49"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -730,7 +766,7 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596737",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.334121704",
+    "latitude": "-34.3338394159999",
     "longitude": "150.494873047",
     "region": "nsw",
     "time_of_call": "05 Apr 2025 08:26:00",
@@ -744,5 +780,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Apr 2025 08:26"
+  },
+  {
+    "title": "THE OAKS TRL, BLUE MOUNTAINS NATIONAL PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596738",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.799102783",
+    "longitude": "150.597244262",
+    "region": "nsw",
+    "time_of_call": "05 Apr 2025 08:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "THE OAKS TRL, BLUE MOUNTAINS NATIONAL PARK 2790",
+    "council_area": "Blue Mountains",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Apr 2025 08:30"
   }
 ]
