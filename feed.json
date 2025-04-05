@@ -99,24 +99,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DENMAN PROSPECT",
-    "id": "021677-05042025",
-    "latitude": "-35.303694",
-    "longitude": "149.025004",
-    "region": "act",
-    "time_of_call": "05 Apr 2025 15:12:29",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DENMAN PROSPECT",
-    "updated": "05 Apr 2025 16:06:46"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - FISHER",
     "id": "021678-05042025",
     "latitude": "-35.360481",
@@ -147,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "05 Apr 2025 16:13:21"
+    "updated": "05 Apr 2025 16:35:13"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "05 Apr 2025 16:18:43"
+    "updated": "05 Apr 2025 16:34:42"
   },
   {
     "agency": "Ambulance",
@@ -249,13 +231,13 @@
     "longitude": "149.174707",
     "region": "act",
     "time_of_call": "05 Apr 2025 15:52:52",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FYSHWICK",
-    "updated": "05 Apr 2025 16:13:36"
+    "updated": "05 Apr 2025 16:32:05"
   },
   {
     "agency": "Ambulance",
@@ -292,6 +274,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
     "updated": "05 Apr 2025 16:23:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "021689-05042025",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "05 Apr 2025 16:29:43",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HARRISON",
+    "updated": "05 Apr 2025 16:32:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHARNWOOD",
+    "id": "021693-05042025",
+    "latitude": "-35.200338",
+    "longitude": "149.036735",
+    "region": "act",
+    "time_of_call": "05 Apr 2025 16:35:03",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHARNWOOD",
+    "updated": "05 Apr 2025 16:36:05"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1071,9 +1089,9 @@
     "latitude": "-34.499801636",
     "longitude": "150.707000732",
     "region": "nsw",
-    "time_of_call": "05 Apr 2025 15:56:00",
+    "time_of_call": "05 Apr 2025 16:25:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "FIRETRAIL NO 15A, AVON 2574",
     "council_area": "Wollongong",
@@ -1083,7 +1101,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Apr 2025 15:56"
+    "updated": "5 Apr 2025 16:25"
   },
   {
     "title": "BLAZLEY RD, WOODSTOCK",
@@ -1115,10 +1133,13 @@
     "latitude": "-34.7942886349999",
     "longitude": "147.793807983",
     "region": "nsw",
-    "time_of_call": "05 Apr 2025 15:57:00",
+    "time_of_call": "05 Apr 2025 16:22:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "A41 (OLYMPIC HWY), BETHUNGRA 2590",
     "council_area": "Junee",
     "type": "Grass Fire",
@@ -1127,6 +1148,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Apr 2025 15:57"
+    "updated": "5 Apr 2025 16:22"
+  },
+  {
+    "title": "Weblands St, Aberglasslyn",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596787",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.700723",
+    "longitude": "151.52723",
+    "region": "nsw",
+    "time_of_call": "05 Apr 2025 16:24:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Weblands St, Aberglasslyn, NSW 2320",
+    "council_area": "Maitland",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 Apr 2025 16:24"
   }
 ]
