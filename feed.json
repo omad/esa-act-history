@@ -147,7 +147,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "05 Apr 2025 23:22:23"
+    "updated": "06 Apr 2025 01:44:06"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +291,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "06 Apr 2025 01:29:58"
+    "updated": "06 Apr 2025 01:45:25"
   },
   {
     "agency": "Ambulance",
@@ -321,13 +321,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "05 Apr 2025 23:35:14",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "06 Apr 2025 01:25:51"
+    "updated": "06 Apr 2025 01:47:33"
   },
   {
     "agency": "Ambulance",
@@ -381,7 +381,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "06 Apr 2025 01:12:16"
+    "updated": "06 Apr 2025 01:44:33"
   },
   {
     "agency": "Ambulance",
@@ -399,7 +399,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FRASER",
-    "updated": "06 Apr 2025 01:14:54"
+    "updated": "06 Apr 2025 01:38:24"
   },
   {
     "agency": "Ambulance",
@@ -435,7 +435,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "06 Apr 2025 01:28:22"
+    "updated": "06 Apr 2025 01:47:14"
   },
   {
     "agency": "Ambulance",
@@ -453,7 +453,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "06 Apr 2025 01:33:51"
+    "updated": "06 Apr 2025 01:38:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "021824-06042025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "06 Apr 2025 01:35:02",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "06 Apr 2025 01:35:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "021827-06042025",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "06 Apr 2025 01:44:53",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "06 Apr 2025 01:46:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WEETANGERA",
+    "id": "021828-06042025",
+    "latitude": "-35.249342",
+    "longitude": "149.049485",
+    "region": "act",
+    "time_of_call": "06 Apr 2025 01:45:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WEETANGERA",
+    "updated": "06 Apr 2025 01:47:53"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1188,31 +1242,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "6 Apr 2025 01:02"
-  },
-  {
-    "title": "Bell St, Muswellbrook",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596830",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.27089",
-    "longitude": "150.894483001",
-    "region": "nsw",
-    "time_of_call": "06 Apr 2025 01:00:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Bell St, Muswellbrook, NSW 2333",
-    "council_area": "Muswellbrook",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Apr 2025 01:00"
   },
   {
     "title": "BOURBAH ST",
