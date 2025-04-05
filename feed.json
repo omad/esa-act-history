@@ -291,7 +291,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "06 Apr 2025 01:45:25"
+    "updated": "06 Apr 2025 01:58:25"
   },
   {
     "agency": "Ambulance",
@@ -327,7 +327,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "06 Apr 2025 01:47:33"
+    "updated": "06 Apr 2025 01:52:50"
   },
   {
     "agency": "Ambulance",
@@ -435,7 +435,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "06 Apr 2025 01:47:14"
+    "updated": "06 Apr 2025 01:55:48"
   },
   {
     "agency": "Ambulance",
@@ -471,7 +471,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "06 Apr 2025 01:35:56"
+    "updated": "06 Apr 2025 01:58:34"
   },
   {
     "agency": "Ambulance",
@@ -507,7 +507,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "06 Apr 2025 01:47:53"
+    "updated": "06 Apr 2025 01:52:27"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1224,48 +1224,6 @@
     "updated": "6 Apr 2025 01:05"
   },
   {
-    "title": "LILLY PILLY AV, TEA GARDENS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596828",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.655151367",
-    "longitude": "152.145233155",
-    "region": "nsw",
-    "time_of_call": "06 Apr 2025 01:02:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "LILLY PILLY AV, TEA GARDENS 2324",
-    "council_area": "Mid-Coast",
-    "type": "Search/Rescue",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Apr 2025 01:02"
-  },
-  {
-    "title": "BOURBAH ST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596831",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.32969284",
-    "longitude": "148.469528198",
-    "region": "nsw",
-    "time_of_call": "06 Apr 2025 01:16:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "GULARGAMBONE MULTI PURP CTR 47 BOURBAH ST, GULARGAMBONE 2828",
-    "council_area": "Coonamble",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Apr 2025 01:16"
-  },
-  {
     "title": "MITCHELL HWY, BAKERS SWAMP",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596832",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1273,18 +1231,60 @@
     "latitude": "-32.735309601",
     "longitude": "148.937255859",
     "region": "nsw",
-    "time_of_call": "06 Apr 2025 01:23:00",
+    "time_of_call": "06 Apr 2025 02:05:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "7844 MITCHELL HWY, BAKERS SWAMP 2820",
     "council_area": "Dubbo Regional",
-    "type": "Grass Fire",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Apr 2025 01:23"
+    "updated": "6 Apr 2025 02:05"
+  },
+  {
+    "title": "RIVERS RD, CANOWINDRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596834",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.594860077",
+    "longitude": "148.658599854",
+    "region": "nsw",
+    "time_of_call": "06 Apr 2025 02:09:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "RIVERS RD, CANOWINDRA 2804",
+    "council_area": "Cowra",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Apr 2025 02:09"
+  },
+  {
+    "title": "OCEAN AV, STUARTS POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596835",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.8215084079999",
+    "longitude": "152.994506836",
+    "region": "nsw",
+    "time_of_call": "06 Apr 2025 02:13:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1B OCEAN AV, STUARTS POINT 2441",
+    "council_area": "Kempsey",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Apr 2025 02:13"
   }
 ]
