@@ -101,24 +101,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TAYLOR",
-    "id": "021904-06042025",
-    "latitude": "-35.147416",
-    "longitude": "149.105924",
-    "region": "act",
-    "time_of_call": "06 Apr 2025 12:59:21",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TAYLOR",
-    "updated": "06 Apr 2025 17:04:53"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HUGHES",
     "id": "021923-06042025",
     "latitude": "-35.333105",
@@ -185,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "06 Apr 2025 17:08:40"
+    "updated": "06 Apr 2025 17:23:28"
   },
   {
     "agency": "Ambulance",
@@ -204,24 +186,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FRASER",
     "updated": "06 Apr 2025 17:02:36"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PALMERSTON",
-    "id": "021943-06042025",
-    "latitude": "-35.193269",
-    "longitude": "149.1195",
-    "region": "act",
-    "time_of_call": "06 Apr 2025 15:21:01",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PALMERSTON",
-    "updated": "06 Apr 2025 16:37:38"
   },
   {
     "agency": "Ambulance",
@@ -257,7 +221,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "06 Apr 2025 16:44:03"
+    "updated": "06 Apr 2025 17:25:55"
   },
   {
     "agency": "Ambulance",
@@ -269,13 +233,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "06 Apr 2025 15:42:48",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "06 Apr 2025 17:16:32"
+    "updated": "06 Apr 2025 17:28:42"
   },
   {
     "agency": "Ambulance",
@@ -293,7 +257,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "06 Apr 2025 17:20:37"
+    "updated": "06 Apr 2025 17:25:16"
   },
   {
     "agency": "Ambulance",
@@ -365,7 +329,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "06 Apr 2025 17:09:04"
+    "updated": "06 Apr 2025 17:21:33"
   },
   {
     "agency": "Ambulance",
@@ -455,7 +419,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "06 Apr 2025 17:02:55"
+    "updated": "06 Apr 2025 17:26:47"
   },
   {
     "agency": "Ambulance",
@@ -467,13 +431,13 @@
     "longitude": "149.154752",
     "region": "act",
     "time_of_call": "06 Apr 2025 16:54:40",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "06 Apr 2025 17:00:57"
+    "updated": "06 Apr 2025 17:27:19"
   },
   {
     "agency": "Ambulance",
@@ -509,7 +473,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'MALLEY",
-    "updated": "06 Apr 2025 17:19:24"
+    "updated": "06 Apr 2025 17:21:36"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1254,10 +1218,13 @@
     "latitude": "-35.492767334",
     "longitude": "144.941253662",
     "region": "nsw",
-    "time_of_call": "06 Apr 2025 16:52:00",
+    "time_of_call": "06 Apr 2025 17:22:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "DAHWILLY RD, DENILIQUIN 2710",
     "council_area": "Edward River",
     "type": "Grass Fire",
@@ -1266,28 +1233,70 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Apr 2025 16:52"
+    "updated": "6 Apr 2025 17:22"
   },
   {
     "title": "OLD MAITLAND RD, LOVEDALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596924",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.81131363",
-    "longitude": "151.394348144",
+    "latitude": "-32.818138123",
+    "longitude": "151.376998901",
     "region": "nsw",
-    "time_of_call": "06 Apr 2025 17:02:00",
+    "time_of_call": "06 Apr 2025 17:23:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
     "location": "OLD MAITLAND RD, LOVEDALE 2325",
     "council_area": "Cessnock",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Apr 2025 17:23"
+  },
+  {
+    "title": "HUME HWY, PHEASANTS NEST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596925",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.27355957",
+    "longitude": "150.64376831",
+    "region": "nsw",
+    "time_of_call": "06 Apr 2025 17:17:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "HUME HWY, PHEASANTS NEST 2574",
+    "council_area": "Wollondilly",
     "type": "Other",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Apr 2025 17:02"
+    "updated": "6 Apr 2025 17:17"
+  },
+  {
+    "title": "BULLI APPIN RD, APPIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596926",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.2167320259999",
+    "longitude": "150.80380249",
+    "region": "nsw",
+    "time_of_call": "06 Apr 2025 17:19:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BULLI APPIN RD, APPIN 2560",
+    "council_area": "Wollondilly",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Apr 2025 17:19"
   }
 ]
