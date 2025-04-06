@@ -125,13 +125,13 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "06 Apr 2025 23:08:17",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "07 Apr 2025 02:23:45"
+    "updated": "07 Apr 2025 02:43:03"
   },
   {
     "agency": "Ambulance",
@@ -149,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "07 Apr 2025 02:25:19"
+    "updated": "07 Apr 2025 02:41:59"
   },
   {
     "agency": "Ambulance",
@@ -185,7 +185,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "07 Apr 2025 00:15:47"
+    "updated": "07 Apr 2025 02:46:22"
   },
   {
     "agency": "Ambulance",
@@ -257,7 +257,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "07 Apr 2025 02:27:35"
+    "updated": "07 Apr 2025 02:34:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "022055-07042025",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "07 Apr 2025 02:28:12",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "07 Apr 2025 02:43:59"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -872,9 +890,9 @@
     "latitude": "-33.5331001279999",
     "longitude": "150.843948364",
     "region": "nsw",
-    "time_of_call": "07 Apr 2025 01:11:00",
+    "time_of_call": "07 Apr 2025 02:29:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "136 CARRS RD, WILBERFORCE 2756",
     "council_area": "Hawkesbury",
@@ -884,6 +902,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Apr 2025 01:11"
+    "updated": "7 Apr 2025 02:29"
+  },
+  {
+    "title": "RICHMOND RD, BERKSHIRE PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596963",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.64371109",
+    "longitude": "150.788284302",
+    "region": "nsw",
+    "time_of_call": "07 Apr 2025 02:26:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "RICHMOND RD, BERKSHIRE PARK 2765",
+    "council_area": "Hawkesbury",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Apr 2025 02:26"
   }
 ]
