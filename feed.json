@@ -119,24 +119,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GILMORE",
-    "id": "022016-06042025",
-    "latitude": "-35.417683",
-    "longitude": "149.134893",
-    "region": "act",
-    "time_of_call": "06 Apr 2025 21:31:22",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GILMORE",
-    "updated": "07 Apr 2025 00:34:10"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CITY",
     "id": "022023-06042025",
     "latitude": "-35.282068",
@@ -161,13 +143,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "06 Apr 2025 23:03:43",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "07 Apr 2025 00:25:26"
+    "updated": "07 Apr 2025 00:47:27"
   },
   {
     "agency": "Ambulance",
@@ -239,7 +221,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "06 Apr 2025 23:55:14"
+    "updated": "07 Apr 2025 00:48:54"
   },
   {
     "agency": "Ambulance",
@@ -257,7 +239,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "07 Apr 2025 00:28:40"
+    "updated": "07 Apr 2025 00:39:26"
   },
   {
     "agency": "Ambulance",
@@ -957,5 +939,49 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "7 Apr 2025 00:24"
+  },
+  {
+    "title": "ARGENTS RD, WILBERFORCE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596960",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.5410003659999",
+    "longitude": "150.850997924",
+    "region": "nsw",
+    "time_of_call": "07 Apr 2025 00:33:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ARGENTS RD, WILBERFORCE 2756",
+    "council_area": "Hawkesbury",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Apr 2025 00:33"
+  },
+  {
+    "title": "PEATS RIDGE RD, CALGA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596961",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.3854827879999",
+    "longitude": "151.222473144",
+    "region": "nsw",
+    "time_of_call": "07 Apr 2025 00:33:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1882 PEATS RIDGE RD, CALGA 2250",
+    "council_area": "Central Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Apr 2025 00:33"
   }
 ]
