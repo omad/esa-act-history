@@ -149,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "07 Apr 2025 03:04:54"
+    "updated": "07 Apr 2025 03:25:47"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +221,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "07 Apr 2025 03:17:10"
+    "updated": "07 Apr 2025 03:27:28"
   },
   {
     "agency": "Ambulance",
@@ -233,13 +233,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "07 Apr 2025 03:05:45",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "07 Apr 2025 03:11:25"
+    "updated": "07 Apr 2025 03:27:41"
   },
   {
     "agency": "Ambulance",
@@ -251,13 +251,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "07 Apr 2025 03:07:47",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "07 Apr 2025 03:11:23"
+    "updated": "07 Apr 2025 03:29:07"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -907,5 +907,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "7 Apr 2025 02:46"
+  },
+  {
+    "title": "Ntaba Rd, Jewells",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_596964",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.012530999",
+    "longitude": "151.684823",
+    "region": "nsw",
+    "time_of_call": "07 Apr 2025 03:30:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "73 Ntaba Rd, Jewells, NSW 2280",
+    "council_area": "Lake Macquarie",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "7 Apr 2025 03:30"
   }
 ]
