@@ -171,7 +171,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "08 Apr 2025 23:48:26"
+    "updated": "08 Apr 2025 23:56:49"
   },
   {
     "agency": "Ambulance",
@@ -189,7 +189,7 @@
     "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "CITY WATCH HOUSE, LONDON CIRCUIT, KNOWLES PLACE, CITY, 2601",
-    "updated": "08 Apr 2025 23:41:23"
+    "updated": "09 Apr 2025 00:22:59"
   },
   {
     "agency": "Ambulance",
@@ -207,7 +207,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MOLONGLO VALLEY",
-    "updated": "08 Apr 2025 23:24:16"
+    "updated": "09 Apr 2025 00:07:49"
   },
   {
     "agency": "Ambulance",
@@ -225,7 +225,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACARTHUR",
-    "updated": "08 Apr 2025 23:39:25"
+    "updated": "08 Apr 2025 23:52:22"
   },
   {
     "agency": "Ambulance",
@@ -243,7 +243,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "08 Apr 2025 23:33:32"
+    "updated": "09 Apr 2025 00:20:01"
   },
   {
     "agency": "Ambulance",
@@ -261,7 +261,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "08 Apr 2025 23:28:59"
+    "updated": "09 Apr 2025 00:23:29"
   },
   {
     "agency": "Ambulance",
@@ -279,7 +279,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "08 Apr 2025 23:42:38"
+    "updated": "09 Apr 2025 00:10:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AMAROO",
+    "id": "022471-08042025",
+    "latitude": "-35.172039",
+    "longitude": "149.129625",
+    "region": "act",
+    "time_of_call": "08 Apr 2025 23:55:34",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AMAROO",
+    "updated": "09 Apr 2025 00:12:51"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1102,5 +1120,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Apr 2025 23:16"
+  },
+  {
+    "title": "PACIFIC HWY, MOONEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597162",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.16645813",
+    "longitude": "151.609039307",
+    "region": "nsw",
+    "time_of_call": "09 Apr 2025 00:05:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, MOONEE 2259",
+    "council_area": "Lake Macquarie",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Apr 2025 00:05"
+  },
+  {
+    "title": "Captain Cook Dr, North Albury",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597163",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.058009",
+    "longitude": "146.919833",
+    "region": "nsw",
+    "time_of_call": "09 Apr 2025 00:19:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "957 Captain Cook Dr, North Albury, NSW 2640",
+    "council_area": "Albury",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "9 Apr 2025 00:19"
   }
 ]
