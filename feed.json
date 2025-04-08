@@ -189,7 +189,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "08 Apr 2025 16:26:24"
+    "updated": "08 Apr 2025 16:43:00"
   },
   {
     "agency": "Ambulance",
@@ -261,7 +261,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "08 Apr 2025 16:14:29"
+    "updated": "08 Apr 2025 16:37:32"
   },
   {
     "agency": "Ambulance",
@@ -273,13 +273,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "08 Apr 2025 16:02:14",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "08 Apr 2025 16:22:36"
+    "updated": "08 Apr 2025 16:47:43"
   },
   {
     "agency": "Ambulance",
@@ -309,13 +309,31 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "08 Apr 2025 16:33:50",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "08 Apr 2025 16:46:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "022420-08042025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "08 Apr 2025 16:50:36",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "08 Apr 2025 16:34:52"
+    "location": "LYNEHAM",
+    "updated": "08 Apr 2025 16:52:38"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1202,31 +1220,6 @@
     "updated": "8 Apr 2025 16:26"
   },
   {
-    "title": "Charles St, Abermain",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597133",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.8140989999999",
-    "longitude": "151.431969",
-    "region": "nsw",
-    "time_of_call": "08 Apr 2025 16:18:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "30 Charles St, Abermain, NSW 2326",
-    "council_area": "Cessnock",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Apr 2025 16:18"
-  },
-  {
     "title": "BOGAN RD, PEAK HILL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597134",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1249,28 +1242,6 @@
     "updated": "8 Apr 2025 16:25"
   },
   {
-    "title": "THE LAKES WAY, BOOTI BOOTI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597135",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.310501099",
-    "longitude": "152.516998291",
-    "region": "nsw",
-    "time_of_call": "08 Apr 2025 16:27:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "THE LAKES WAY, BOOTI BOOTI 2428",
-    "council_area": "Mid-Coast",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Apr 2025 16:27"
-  },
-  {
     "title": "BINGIE RD, BINGIE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597136",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1291,5 +1262,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Apr 2025 16:32"
+  },
+  {
+    "title": "Wommin Bay Rd, Chinderah",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597138",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.2381409999999",
+    "longitude": "153.561647999",
+    "region": "nsw",
+    "time_of_call": "08 Apr 2025 16:44:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "25 Wommin Bay Rd, Chinderah, NSW 2487",
+    "council_area": "Tweed",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "8 Apr 2025 16:44"
   }
 ]
