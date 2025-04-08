@@ -157,7 +157,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "GUNGAHLIN DRIVE, KOSCIUSZKO AVENUE, PALMERSTON, 2913",
-    "updated": "08 Apr 2025 17:32:56"
+    "updated": "08 Apr 2025 17:37:23"
   },
   {
     "agency": "Ambulance",
@@ -229,7 +229,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "08 Apr 2025 17:23:39"
+    "updated": "08 Apr 2025 17:35:45"
   },
   {
     "agency": "Ambulance",
@@ -295,13 +295,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "08 Apr 2025 16:50:36",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "08 Apr 2025 17:33:55"
+    "updated": "08 Apr 2025 17:41:41"
   },
   {
     "agency": "Ambulance",
@@ -337,7 +337,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "08 Apr 2025 17:04:38"
+    "updated": "08 Apr 2025 17:46:40"
   },
   {
     "agency": "Ambulance",
@@ -375,7 +375,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "08 Apr 2025 17:13:57"
+    "updated": "08 Apr 2025 17:39:28"
   },
   {
     "agency": "Ambulance",
@@ -387,31 +387,13 @@
     "longitude": "149.053069",
     "region": "act",
     "time_of_call": "08 Apr 2025 17:27:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MOLONGLO VALLEY",
-    "updated": "08 Apr 2025 17:33:03"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
-    "id": "022429-08042025",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
-    "region": "act",
-    "time_of_call": "08 Apr 2025 17:31:12",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CANBERRA AIRPORT",
-    "updated": "08 Apr 2025 17:34:37"
+    "updated": "08 Apr 2025 17:39:06"
   },
   {
     "agency": "Ambulance",
@@ -429,7 +411,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "08 Apr 2025 17:34:31"
+    "updated": "08 Apr 2025 17:38:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "022431-08042025",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "08 Apr 2025 17:37:58",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "08 Apr 2025 17:46:43"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1317,74 +1317,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Apr 2025 17:10"
-  },
-  {
-    "title": "LUSKINTYRE RD, LUSKINTYRE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597137",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.649238587",
-    "longitude": "151.426940918",
-    "region": "nsw",
-    "time_of_call": "08 Apr 2025 17:05:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "KILLARNEY 753 LUSKINTYRE RD, LUSKINTYRE 2321",
-    "council_area": "Maitland",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Apr 2025 17:05"
-  },
-  {
-    "title": "REDMAYNE RD, HORSLEY PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597140",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.8348045349999",
-    "longitude": "150.853195191",
-    "region": "nsw",
-    "time_of_call": "08 Apr 2025 17:25:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "21 REDMAYNE RD, HORSLEY PARK 2175",
-    "council_area": "Fairfield",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Apr 2025 17:25"
-  },
-  {
-    "title": "Endeavour Lane, Moree",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597142",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.466424",
-    "longitude": "149.838982",
-    "region": "nsw",
-    "time_of_call": "08 Apr 2025 17:28:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Endeavour Lane, Moree, NSW 2400",
-    "council_area": "Moree Plains",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Apr 2025 17:28"
   }
 ]
