@@ -117,7 +117,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "(THE PINNACLE NATURE TRAIL TPI005), MACRORYNCHA TRAIL, BELCONNEN, 0000",
-    "updated": "08 Apr 2025 15:19:30"
+    "updated": "08 Apr 2025 15:36:18"
   },
   {
     "agency": "Fire",
@@ -197,24 +197,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AINSLIE",
-    "id": "022385-08042025",
-    "latitude": "-35.262117",
-    "longitude": "149.144037",
-    "region": "act",
-    "time_of_call": "08 Apr 2025 13:25:30",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "AINSLIE",
-    "updated": "08 Apr 2025 14:41:47"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
     "id": "022386-08042025",
     "latitude": "-35.302295",
@@ -227,7 +209,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "08 Apr 2025 13:55:34"
+    "updated": "08 Apr 2025 15:26:11"
   },
   {
     "agency": "Ambulance",
@@ -299,7 +281,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SYMONSTON",
-    "updated": "08 Apr 2025 15:16:26"
+    "updated": "08 Apr 2025 15:31:36"
   },
   {
     "agency": "Ambulance",
@@ -335,7 +317,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "08 Apr 2025 15:20:10"
+    "updated": "08 Apr 2025 15:36:21"
   },
   {
     "agency": "Ambulance",
@@ -347,13 +329,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "08 Apr 2025 15:00:50",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "08 Apr 2025 15:07:29"
+    "updated": "08 Apr 2025 15:28:40"
   },
   {
     "agency": "Ambulance",
@@ -365,13 +347,31 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "08 Apr 2025 15:14:54",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "08 Apr 2025 15:18:21"
+    "updated": "08 Apr 2025 15:35:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "022409-08042025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "08 Apr 2025 15:36:32",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": "08 Apr 2025 15:38:50"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -894,7 +894,7 @@
     "latitude": "-32.8576716109999",
     "longitude": "150.515785218",
     "region": "nsw",
-    "time_of_call": "08 Apr 2025 10:55:00",
+    "time_of_call": "08 Apr 2025 15:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -906,7 +906,7 @@
     "fire": "Yes",
     "size": "4418 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "8 Apr 2025 10:55"
+    "updated": "8 Apr 2025 15:33"
   },
   {
     "title": "BARRAGANYATTI HUT RD, BARRAGANYATTI",
@@ -1216,28 +1216,6 @@
     "updated": "8 Apr 2025 14:13"
   },
   {
-    "title": "MEDOWIE RD, MEDOWIE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597124",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.746860504",
-    "longitude": "151.864273071",
-    "region": "nsw",
-    "time_of_call": "08 Apr 2025 15:10:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "711 MEDOWIE RD, MEDOWIE 2318",
-    "council_area": "Port Stephens",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Apr 2025 15:10"
-  },
-  {
     "title": "GRAHAMSTOWN RD, CAMPVALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597125",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1245,9 +1223,9 @@
     "latitude": "-32.766647339",
     "longitude": "151.813980102",
     "region": "nsw",
-    "time_of_call": "08 Apr 2025 14:55:00",
+    "time_of_call": "08 Apr 2025 15:30:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GRAHAMSTOWN RD, CAMPVALE 2318",
     "council_area": "Port Stephens",
@@ -1257,6 +1235,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Apr 2025 14:55"
+    "updated": "8 Apr 2025 15:30"
   }
 ]
