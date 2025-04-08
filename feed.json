@@ -153,7 +153,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "08 Apr 2025 21:05:55"
+    "updated": "08 Apr 2025 21:44:46"
   },
   {
     "agency": "Ambulance",
@@ -219,13 +219,13 @@
     "longitude": "149.134893",
     "region": "act",
     "time_of_call": "08 Apr 2025 21:10:06",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "08 Apr 2025 21:16:31"
+    "updated": "08 Apr 2025 21:33:42"
   },
   {
     "agency": "Ambulance",
@@ -237,13 +237,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "08 Apr 2025 21:14:14",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "08 Apr 2025 21:20:36"
+    "updated": "08 Apr 2025 21:42:21"
   },
   {
     "agency": "Ambulance",
@@ -255,13 +255,13 @@
     "longitude": "149.088064",
     "region": "act",
     "time_of_call": "08 Apr 2025 21:17:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "08 Apr 2025 21:23:12"
+    "updated": "08 Apr 2025 21:32:57"
   },
   {
     "agency": "Ambulance",
@@ -273,13 +273,31 @@
     "longitude": "149.12506",
     "region": "act",
     "time_of_call": "08 Apr 2025 21:22:51",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FORREST",
+    "updated": "08 Apr 2025 21:36:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "022453-08042025",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "08 Apr 2025 21:32:27",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "FORREST",
-    "updated": "08 Apr 2025 21:26:30"
+    "location": "BRUCE",
+    "updated": "08 Apr 2025 21:37:06"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1082,47 +1100,28 @@
     "updated": "8 Apr 2025 19:51"
   },
   {
-    "title": "PALM AV, LEETON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597156",
+    "title": "Second Av, Blacktown",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597158",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.544929505",
-    "longitude": "146.40864563",
+    "latitude": "-33.765974",
+    "longitude": "150.90781",
     "region": "nsw",
-    "time_of_call": "08 Apr 2025 21:03:00",
+    "time_of_call": "08 Apr 2025 21:44:00",
     "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PALM AV, LEETON 2705",
-    "council_area": "Leeton",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Apr 2025 21:03"
-  },
-  {
-    "title": "RIFLE RANGE RD, GRIFFITH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597157",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.249351502",
-    "longitude": "146.081558228",
-    "region": "nsw",
-    "time_of_call": "08 Apr 2025 20:47:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "RIFLE RANGE RD, GRIFFITH 2680",
-    "council_area": "Griffith",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Second Av, Blacktown, NSW 2148",
+    "council_area": "Blacktown",
     "type": "Grass Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Apr 2025 20:47"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "8 Apr 2025 21:44"
   }
 ]
