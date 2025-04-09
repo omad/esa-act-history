@@ -131,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "10 Apr 2025 03:27:58"
+    "updated": "10 Apr 2025 03:44:21"
   },
   {
     "agency": "Ambulance",
@@ -173,37 +173,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WANNIASSA",
-    "id": "022728-10042025",
-    "latitude": "-35.399113",
-    "longitude": "149.091978",
-    "region": "act",
-    "time_of_call": "10 Apr 2025 02:49:49",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WANNIASSA",
-    "updated": "10 Apr 2025 03:13:45"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BARTON",
     "id": "022729-10042025",
     "latitude": "-35.309306",
     "longitude": "149.13437",
     "region": "act",
     "time_of_call": "10 Apr 2025 03:21:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": "10 Apr 2025 03:28:07"
+    "updated": "10 Apr 2025 03:41:09"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1044,5 +1026,27 @@
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Apr 2025 10:00"
+  },
+  {
+    "title": "GREGORY ST, SOUTH WEST ROCKS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597260",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.8934345239999",
+    "longitude": "153.039398194",
+    "region": "nsw",
+    "time_of_call": "10 Apr 2025 03:45:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GREGORY ST, SOUTH WEST ROCKS 2431",
+    "council_area": "Kempsey",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "10 Apr 2025 03:45"
   }
 ]
