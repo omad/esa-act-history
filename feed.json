@@ -151,7 +151,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "09 Apr 2025 17:27:47"
+    "updated": "09 Apr 2025 17:42:33"
   },
   {
     "agency": "Ambulance",
@@ -169,7 +169,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "09 Apr 2025 16:37:11"
+    "updated": "09 Apr 2025 17:39:03"
   },
   {
     "agency": "Ambulance",
@@ -235,13 +235,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "09 Apr 2025 16:27:19",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "09 Apr 2025 17:31:01"
+    "updated": "09 Apr 2025 17:36:55"
   },
   {
     "agency": "Ambulance",
@@ -277,7 +277,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "09 Apr 2025 17:08:45"
+    "updated": "09 Apr 2025 17:41:09"
   },
   {
     "agency": "Ambulance",
@@ -313,7 +313,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "09 Apr 2025 17:26:02"
+    "updated": "09 Apr 2025 17:45:23"
   },
   {
     "agency": "Ambulance",
@@ -439,7 +439,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "09 Apr 2025 17:35:44"
+    "updated": "09 Apr 2025 17:41:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUME",
+    "id": "022652-09042025",
+    "latitude": "-35.383449",
+    "longitude": "149.170863",
+    "region": "act",
+    "time_of_call": "09 Apr 2025 17:44:30",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUME",
+    "updated": "09 Apr 2025 17:48:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "022653-09042025",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "09 Apr 2025 17:47:19",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "09 Apr 2025 17:48:29"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1416,28 +1452,43 @@
     "updated": "9 Apr 2025 17:20"
   },
   {
-    "title": "Whylandra St, Dubbo",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597239",
+    "title": "QUEEN ST, JERRYS PLAINS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597240",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.2432949999999",
-    "longitude": "148.598172",
+    "latitude": "-32.492252349",
+    "longitude": "150.902328491",
     "region": "nsw",
-    "time_of_call": "09 Apr 2025 17:31:00",
+    "time_of_call": "09 Apr 2025 17:35:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Whylandra St, Dubbo, NSW 2830",
-    "council_area": "Dubbo Regional",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "QUEEN ST, JERRYS PLAINS 2330",
+    "council_area": "Singleton",
+    "type": "Assist Other Agency",
+    "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "9 Apr 2025 17:31"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Apr 2025 17:35"
+  },
+  {
+    "title": "STURT HWY, EUSTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597241",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.5463066099999",
+    "longitude": "142.780593873",
+    "region": "nsw",
+    "time_of_call": "09 Apr 2025 17:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "51531 STURT HWY, EUSTON 2737",
+    "council_area": "Balranald",
+    "type": "Rescue Road Crash",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Apr 2025 17:39"
   }
 ]
