@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "HARDY RANGE FIRETRAIL, PIPELINE ROAD, COTTER RIVER, 0000",
-    "updated": "10 Apr 2025 08:39:07"
+    "updated": "10 Apr 2025 09:30:44"
   },
   {
     "agency": "Fire",
@@ -69,15 +69,15 @@
     "longitude": "149.0770263672",
     "region": "act",
     "time_of_call": "10 Apr 2025 09:01:43",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "TUGGERANONG PARKWAY ON RAMP, TUGGERANONG PARKWAY, MOLONGLO VALLEY, 0000",
-    "updated": "10 Apr 2025 09:20:23"
+    "updated": "10 Apr 2025 09:29:49"
   },
   {
     "agency": "Ambulance",
@@ -107,13 +107,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "10 Apr 2025 08:43:02",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "10 Apr 2025 09:21:03"
+    "updated": "10 Apr 2025 09:28:18"
   },
   {
     "agency": "Ambulance",
@@ -615,6 +615,28 @@
     "updated": "9 Apr 2025 15:07"
   },
   {
+    "title": "Upper Wentworth Creek HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597084",
+    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6947212219999",
+    "longitude": "150.351547242",
+    "region": "nsw",
+    "time_of_call": "10 Apr 2025 09:23:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "2-12 DARWIN AV, WENTWORTH FALLS 2782",
+    "council_area": "Blue Mountains",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "172 ha",
+    "responsible_agency": "NSW National Parks and Wildlife Service",
+    "updated": "10 Apr 2025 09:23"
+  },
+  {
     "title": "\"NUTWOOD\" LONG POINT RD, MULLION CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597086",
     "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -679,31 +701,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Apr 2025 20:25"
-  },
-  {
-    "title": "BOGAN RD, PEAK HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597134",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.755508423",
-    "longitude": "148.044540405",
-    "region": "nsw",
-    "time_of_call": "09 Apr 2025 20:26:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "BOGAN RD, PEAK HILL 2869",
-    "council_area": "Parkes",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Apr 2025 20:26"
   },
   {
     "title": "Linden Ridge",
@@ -1056,25 +1053,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Apr 2025 08:55"
-  },
-  {
-    "title": "BANJO ST, ALBION PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597276",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.5815277099999",
-    "longitude": "150.765472412",
-    "region": "nsw",
-    "time_of_call": "10 Apr 2025 09:01:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "8 BANJO ST, ALBION PARK 2527",
-    "council_area": "Shellharbour",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Apr 2025 09:01"
   }
 ]
