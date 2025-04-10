@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "DRYANDRA STREET, SCRIVENER STREET, OCONNOR, 2602",
-    "updated": "10 Apr 2025 15:13:00"
+    "updated": "10 Apr 2025 15:36:00"
   },
   {
     "agency": "Fire",
@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "HARDY RANGE FIRETRAIL, PIPELINE ROAD, COTTER RIVER, 0000",
-    "updated": "10 Apr 2025 14:41:24"
+    "updated": "10 Apr 2025 15:38:04"
   },
   {
     "agency": "Fire",
@@ -89,15 +89,15 @@
     "longitude": "149.12501467",
     "region": "act",
     "time_of_call": "10 Apr 2025 15:21:41",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "ANIMAL RESCUE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
     "location": "ACRAMAN PLACE, AMAROO, 2914",
-    "updated": "10 Apr 2025 15:22:44"
+    "updated": "10 Apr 2025 15:27:38"
   },
   {
     "agency": "Ambulance",
@@ -134,24 +134,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
     "updated": "10 Apr 2025 14:44:59"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "022822-10042025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "10 Apr 2025 13:49:42",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "10 Apr 2025 14:36:53"
   },
   {
     "agency": "Ambulance",
@@ -241,7 +223,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "10 Apr 2025 15:14:45"
+    "updated": "10 Apr 2025 15:31:08"
   },
   {
     "agency": "Ambulance",
@@ -295,7 +277,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "10 Apr 2025 15:07:45"
+    "updated": "10 Apr 2025 15:33:12"
   },
   {
     "agency": "Ambulance",
@@ -361,13 +343,49 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "10 Apr 2025 15:20:31",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "10 Apr 2025 15:38:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "022847-10042025",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "10 Apr 2025 15:30:55",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "10 Apr 2025 15:24:53"
+    "location": "DICKSON",
+    "updated": "10 Apr 2025 15:37:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DOWNER",
+    "id": "022849-10042025",
+    "latitude": "-35.245131",
+    "longitude": "149.143546",
+    "region": "act",
+    "time_of_call": "10 Apr 2025 15:38:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DOWNER",
+    "updated": "10 Apr 2025 15:38:57"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1349,10 +1367,13 @@
     "latitude": "-36.307277679",
     "longitude": "148.945480347",
     "region": "nsw",
-    "time_of_call": "10 Apr 2025 15:03:00",
+    "time_of_call": "10 Apr 2025 15:29:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "COOMA AIRPORT COOLRINGDON 2630",
     "council_area": "Snowy Monaro",
     "type": "Grass Fire",
@@ -1361,27 +1382,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Apr 2025 15:03"
-  },
-  {
-    "title": "PRINCES HWY, EDEN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597309",
-    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-37.016571045",
-    "longitude": "149.911132812",
-    "region": "nsw",
-    "time_of_call": "10 Apr 2025 15:04:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "4781 PRINCES HWY, EDEN 2551",
-    "council_area": "Bega Valley",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Apr 2025 15:04"
+    "updated": "10 Apr 2025 15:29"
   },
   {
     "title": "ROWLANDS CREEK RD, UKI",
@@ -1413,9 +1414,9 @@
     "latitude": "-35.14239502",
     "longitude": "147.174743653",
     "region": "nsw",
-    "time_of_call": "10 Apr 2025 15:08:00",
+    "time_of_call": "10 Apr 2025 15:35:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "HILLTOP 429 TWELVE MILE RD, YARRAGUNDRY 2650",
     "council_area": "Wagga Wagga",
@@ -1425,6 +1426,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Apr 2025 15:08"
+    "updated": "10 Apr 2025 15:35"
   }
 ]
