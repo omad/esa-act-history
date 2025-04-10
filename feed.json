@@ -175,24 +175,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "022947-11042025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "11 Apr 2025 08:27:44",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "11 Apr 2025 09:22:25"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GORDON",
     "id": "022951-11042025",
     "latitude": "-35.459685",
@@ -223,7 +205,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "11 Apr 2025 09:28:21"
+    "updated": "11 Apr 2025 09:43:41"
   },
   {
     "agency": "Ambulance",
@@ -253,13 +235,13 @@
     "longitude": "149.146868",
     "region": "act",
     "time_of_call": "11 Apr 2025 08:58:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "11 Apr 2025 09:22:24"
+    "updated": "11 Apr 2025 09:38:03"
   },
   {
     "agency": "Ambulance",
@@ -295,7 +277,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "11 Apr 2025 09:19:54"
+    "updated": "11 Apr 2025 09:40:05"
   },
   {
     "agency": "Ambulance",
@@ -349,7 +331,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "11 Apr 2025 09:35:35"
+    "updated": "11 Apr 2025 09:38:23"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -778,7 +760,7 @@
     "latitude": "-33.4454803469999",
     "longitude": "151.008758544",
     "region": "nsw",
-    "time_of_call": "11 Apr 2025 09:00:00",
+    "time_of_call": "11 Apr 2025 09:26:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -790,7 +772,7 @@
     "fire": "Yes",
     "size": "201 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "11 Apr 2025 09:00"
+    "updated": "11 Apr 2025 09:26"
   },
   {
     "title": "Wilderness East IMZ",
@@ -844,7 +826,7 @@
     "latitude": "-33.074417115",
     "longitude": "149.19430542",
     "region": "nsw",
-    "time_of_call": "10 Apr 2025 10:13:00",
+    "time_of_call": "11 Apr 2025 09:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -856,7 +838,7 @@
     "fire": "Yes",
     "size": "42 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Apr 2025 10:13"
+    "updated": "11 Apr 2025 09:43"
   },
   {
     "title": "STURT HWY, COLLINGULLIE",
@@ -1082,6 +1064,28 @@
     "updated": "10 Apr 2025 13:37"
   },
   {
+    "title": "Albury South HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597278",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8113289839999",
+    "longitude": "151.420366546",
+    "region": "nsw",
+    "time_of_call": "11 Apr 2025 09:29:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "ALBURY ST, ABERMAIN NSW 2326",
+    "council_area": "Cessnock",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "54 ha",
+    "responsible_agency": "NSW National Parks and Wildlife Service",
+    "updated": "11 Apr 2025 09:29"
+  },
+  {
     "title": "KOSCIUSZKO RD, COOLRINGDON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597329",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1133,7 +1137,7 @@
     "latitude": "-33.5914483459999",
     "longitude": "150.248497724",
     "region": "nsw",
-    "time_of_call": "11 Apr 2025 02:04:00",
+    "time_of_call": "11 Apr 2025 09:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1143,9 +1147,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2025 02:04"
+    "updated": "11 Apr 2025 09:42"
   },
   {
     "title": "FOREST DR, ABERMAIN",
@@ -1177,9 +1181,9 @@
     "latitude": "-32.264690399",
     "longitude": "150.737365723",
     "region": "nsw",
-    "time_of_call": "11 Apr 2025 09:01:00",
+    "time_of_call": "11 Apr 2025 09:33:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MANGOOLA RD, CASTLE ROCK 2333",
     "council_area": "Muswellbrook",
@@ -1187,6 +1191,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2025 09:01"
+    "updated": "11 Apr 2025 09:33"
   }
 ]
