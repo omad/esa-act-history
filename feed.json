@@ -101,24 +101,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "022921-11042025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "11 Apr 2025 02:47:24",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "11 Apr 2025 03:22:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GOWRIE",
     "id": "022922-11042025",
     "latitude": "-35.411365",
@@ -132,24 +114,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
     "updated": "11 Apr 2025 04:36:03"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GILMORE",
-    "id": "022924-11042025",
-    "latitude": "-35.417683",
-    "longitude": "149.134893",
-    "region": "act",
-    "time_of_call": "11 Apr 2025 03:20:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GILMORE",
-    "updated": "11 Apr 2025 04:05:56"
   },
   {
     "agency": "Ambulance",
@@ -179,13 +143,13 @@
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "11 Apr 2025 04:15:14",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "11 Apr 2025 04:48:05"
+    "updated": "11 Apr 2025 05:08:36"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "11 Apr 2025 04:41:19"
+    "updated": "11 Apr 2025 05:04:33"
   },
   {
     "agency": "Ambulance",
@@ -215,13 +179,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "11 Apr 2025 04:47:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "11 Apr 2025 04:50:30"
+    "updated": "11 Apr 2025 05:02:30"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -866,28 +830,6 @@
     "updated": "11 Apr 2025 02:50"
   },
   {
-    "title": "LACHLAN VALLEY WAY, KANGIARA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597235",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.6381034849999",
-    "longitude": "148.804534912",
-    "region": "nsw",
-    "time_of_call": "11 Apr 2025 02:51:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "1792 LACHLAN VALLEY WAY, KANGIARA 2582",
-    "council_area": "Yass Valley",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2025 02:51"
-  },
-  {
     "title": "Wilcannia",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597243",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1018,5 +960,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Apr 2025 01:21"
+  },
+  {
+    "title": "Orana Pde, Unanderra",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597365",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.465111",
+    "longitude": "150.833011",
+    "region": "nsw",
+    "time_of_call": "11 Apr 2025 05:07:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Rear/1 Orana Pde, Unanderra, NSW 2526",
+    "council_area": "Wollongong",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "11 Apr 2025 05:07"
   }
 ]
