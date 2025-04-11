@@ -100,40 +100,24 @@
     "updated": "11 Apr 2025 17:27:46"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "023092-11042025",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
+    "title": "HAZARD REDUCTION BURN - STROMLO",
+    "id": "006004-12042025",
+    "latitude": "-35.3405999998",
+    "longitude": "148.9880000001",
     "region": "act",
-    "time_of_call": "11 Apr 2025 22:05:03",
+    "time_of_call": "12 Apr 2025 06:15:58",
     "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "11 Apr 2025 22:38:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WATSON",
-    "id": "023099-11042025",
-    "latitude": "-35.234652",
-    "longitude": "149.15807",
-    "region": "act",
-    "time_of_call": "11 Apr 2025 22:50:53",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WATSON",
-    "updated": "12 Apr 2025 01:53:20"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "HAZARD REDUCTION BURN",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
+    "location": "FAIRVALE, COTTER ROAD, STROMLO",
+    "updated": "12 Apr 2025 06:16:06"
   },
   {
     "agency": "Ambulance",
@@ -145,13 +129,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "12 Apr 2025 00:19:06",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "12 Apr 2025 05:35:43"
+    "updated": "12 Apr 2025 06:19:29"
   },
   {
     "agency": "Ambulance",
@@ -170,24 +154,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
     "updated": "12 Apr 2025 04:03:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "023144-12042025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "12 Apr 2025 05:03:21",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "12 Apr 2025 05:44:21"
   },
   {
     "agency": "Ambulance",
@@ -224,6 +190,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "PIALLIGO",
     "updated": "12 Apr 2025 05:22:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLYNN",
+    "id": "023147-12042025",
+    "latitude": "-35.207317",
+    "longitude": "149.042983",
+    "region": "act",
+    "time_of_call": "12 Apr 2025 05:56:20",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLYNN",
+    "updated": "12 Apr 2025 06:00:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACQUARIE",
+    "id": "023148-12042025",
+    "latitude": "-35.249901",
+    "longitude": "149.061171",
+    "region": "act",
+    "time_of_call": "12 Apr 2025 05:56:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACQUARIE",
+    "updated": "12 Apr 2025 06:06:32"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -544,7 +546,7 @@
     "latitude": "-29.702632904",
     "longitude": "144.150268555",
     "region": "nsw",
-    "time_of_call": "11 Apr 2025 11:12:00",
+    "time_of_call": "12 Apr 2025 06:14:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -554,7 +556,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2025 11:12"
+    "updated": "12 Apr 2025 06:14"
   },
   {
     "title": "Belbowrie HR",
@@ -674,7 +676,7 @@
     "latitude": "-35.0795249939999",
     "longitude": "147.130523682",
     "region": "nsw",
-    "time_of_call": "11 Apr 2025 02:43:00",
+    "time_of_call": "12 Apr 2025 06:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -686,7 +688,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2025 02:43"
+    "updated": "12 Apr 2025 06:13"
   },
   {
     "title": "BOGAN RD, PEAK HILL",
@@ -831,7 +833,7 @@
     "latitude": "-32.232170127",
     "longitude": "148.553652764",
     "region": "nsw",
-    "time_of_call": "11 Apr 2025 02:50:00",
+    "time_of_call": "12 Apr 2025 06:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -843,7 +845,7 @@
     "fire": "Yes",
     "size": "8 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2025 02:50"
+    "updated": "12 Apr 2025 06:13"
   },
   {
     "title": "Scott HR",
@@ -1007,7 +1009,7 @@
     "latitude": "-32.805980682",
     "longitude": "151.420898437",
     "region": "nsw",
-    "time_of_call": "11 Apr 2025 07:49:00",
+    "time_of_call": "12 Apr 2025 06:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1019,7 +1021,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Apr 2025 07:49"
+    "updated": "12 Apr 2025 06:13"
   },
   {
     "title": "Numbugga HR",
@@ -1486,28 +1488,6 @@
     "updated": "12 Apr 2025 05:15"
   },
   {
-    "title": "HAWKESBURY RD, HAWKESBURY HEIGHTS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597515",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6711769099999",
-    "longitude": "150.635696411",
-    "region": "nsw",
-    "time_of_call": "12 Apr 2025 05:20:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "HAWKESBURY RD, HAWKESBURY HEIGHTS 2777",
-    "council_area": "Blue Mountains",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "12 Apr 2025 05:20"
-  },
-  {
     "title": "HUME HWY, LITTLE BILLABONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597516",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1515,9 +1495,9 @@
     "latitude": "-35.586612701",
     "longitude": "147.527069092",
     "region": "nsw",
-    "time_of_call": "12 Apr 2025 05:28:00",
+    "time_of_call": "12 Apr 2025 06:19:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "HUME HWY, LITTLE BILLABONG 2644",
     "council_area": "Greater Hume",
@@ -1527,6 +1507,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Apr 2025 05:28"
+    "updated": "12 Apr 2025 06:19"
   }
 ]
