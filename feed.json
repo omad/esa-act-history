@@ -187,7 +187,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "12 Apr 2025 04:34:06"
+    "updated": "12 Apr 2025 04:54:32"
   },
   {
     "agency": "Ambulance",
@@ -217,13 +217,67 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "12 Apr 2025 04:33:30",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "12 Apr 2025 05:03:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "023144-12042025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "12 Apr 2025 05:03:21",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "12 Apr 2025 05:16:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "023145-12042025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "12 Apr 2025 05:04:07",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CALWELL",
-    "updated": "12 Apr 2025 04:36:26"
+    "location": "LYNEHAM",
+    "updated": "12 Apr 2025 05:06:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PIALLIGO",
+    "id": "023146-12042025",
+    "latitude": "-35.313721",
+    "longitude": "149.183878",
+    "region": "act",
+    "time_of_call": "12 Apr 2025 05:08:21",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PIALLIGO",
+    "updated": "12 Apr 2025 05:18:58"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1464,28 +1518,6 @@
     "updated": "12 Apr 2025 03:18"
   },
   {
-    "title": "BROKEN HEAD RD, NEWRYBAR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597511",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.715967178",
-    "longitude": "153.541488648",
-    "region": "nsw",
-    "time_of_call": "12 Apr 2025 04:13:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "RUGGS FARM 82 BROKEN HEAD RD, NEWRYBAR 2479",
-    "council_area": "Ballina",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Apr 2025 04:13"
-  },
-  {
     "title": "REFLECTION DR, LOUTH PARK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597512",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1493,9 +1525,9 @@
     "latitude": "-32.7715339659999",
     "longitude": "151.561096191",
     "region": "nsw",
-    "time_of_call": "12 Apr 2025 04:45:00",
+    "time_of_call": "12 Apr 2025 04:59:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "71 REFLECTION DR, LOUTH PARK 2320",
     "council_area": "Maitland",
@@ -1503,6 +1535,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Apr 2025 04:45"
+    "updated": "12 Apr 2025 04:59"
   }
 ]
