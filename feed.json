@@ -93,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "13 Apr 2025 00:32:26"
+    "updated": "13 Apr 2025 01:07:45"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "13 Apr 2025 00:24:10"
+    "updated": "13 Apr 2025 00:52:04"
   },
   {
     "agency": "Ambulance",
@@ -159,13 +159,13 @@
     "longitude": "149.117192",
     "region": "act",
     "time_of_call": "12 Apr 2025 23:48:41",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "13 Apr 2025 00:41:02"
+    "updated": "13 Apr 2025 00:50:57"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "13 Apr 2025 00:30:36"
+    "updated": "13 Apr 2025 01:14:05"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +219,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "13 Apr 2025 00:48:49"
+    "updated": "13 Apr 2025 01:10:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HIGGINS",
+    "id": "023382-13042025",
+    "latitude": "-35.230526",
+    "longitude": "149.025052",
+    "region": "act",
+    "time_of_call": "13 Apr 2025 01:13:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "13 Apr 2025 01:17:03"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1602,28 +1620,87 @@
     "updated": "12 Apr 2025 23:31"
   },
   {
-    "title": "Ropes Crossing Bvd, St Marys",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597643",
+    "title": "HIGH ST, BLACK HEAD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597645",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.7435879999999",
-    "longitude": "150.778264",
+    "latitude": "-32.0710716249999",
+    "longitude": "152.535873413",
     "region": "nsw",
-    "time_of_call": "13 Apr 2025 00:42:00",
+    "time_of_call": "13 Apr 2025 01:00:00",
     "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Ropes Crossing Bvd, St Marys, NSW 2760",
-    "council_area": "Penrith",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "UNIT 132 90 HIGH ST, BLACK HEAD 2430",
+    "council_area": "Mid-Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "13 Apr 2025 00:42"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Apr 2025 01:00"
+  },
+  {
+    "title": "ESCARPMENT DR, CALDERWOOD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597646",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.5712623599999",
+    "longitude": "150.746429443",
+    "region": "nsw",
+    "time_of_call": "13 Apr 2025 01:11:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ESCARPMENT DR, CALDERWOOD 2527",
+    "council_area": "Shellharbour",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Apr 2025 01:11"
+  },
+  {
+    "title": "GWYDIR HWY, MATHESON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597647",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.718278885",
+    "longitude": "151.60774231",
+    "region": "nsw",
+    "time_of_call": "13 Apr 2025 01:16:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WATTLE VALE 1296 GWYDIR HWY, MATHESON 2370",
+    "council_area": "Glen Innes Severn",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Apr 2025 01:16"
+  },
+  {
+    "title": "GALSTON RD, GALSTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597648",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6554794319999",
+    "longitude": "151.062698364",
+    "region": "nsw",
+    "time_of_call": "13 Apr 2025 01:17:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GALSTON RD, GALSTON 2159",
+    "council_area": "Hornsby",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Apr 2025 01:17"
   }
 ]
