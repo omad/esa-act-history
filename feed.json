@@ -111,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "13 Apr 2025 02:24:41"
+    "updated": "13 Apr 2025 02:46:54"
   },
   {
     "agency": "Ambulance",
@@ -123,13 +123,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "13 Apr 2025 01:38:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "13 Apr 2025 02:20:24"
+    "updated": "13 Apr 2025 02:46:39"
   },
   {
     "agency": "Ambulance",
@@ -141,13 +141,13 @@
     "longitude": "149.146674",
     "region": "act",
     "time_of_call": "13 Apr 2025 01:39:31",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "13 Apr 2025 01:49:50"
+    "updated": "13 Apr 2025 02:49:25"
   },
   {
     "agency": "Ambulance",
@@ -195,13 +195,31 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "13 Apr 2025 02:27:53",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "13 Apr 2025 02:34:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "023391-13042025",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "13 Apr 2025 02:37:47",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "13 Apr 2025 02:27:53"
+    "location": "GARRAN",
+    "updated": "13 Apr 2025 02:41:50"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1584,28 +1602,6 @@
     "updated": "12 Apr 2025 23:31"
   },
   {
-    "title": "GWYDIR HWY, MATHESON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597647",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.718278885",
-    "longitude": "151.60774231",
-    "region": "nsw",
-    "time_of_call": "13 Apr 2025 02:06:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WATTLE VALE 1296 GWYDIR HWY, MATHESON 2370",
-    "council_area": "Glen Innes Severn",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Apr 2025 02:06"
-  },
-  {
     "title": "GALSTON RD, GALSTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597648",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1613,9 +1609,9 @@
     "latitude": "-33.6554794319999",
     "longitude": "151.062698364",
     "region": "nsw",
-    "time_of_call": "13 Apr 2025 01:17:00",
+    "time_of_call": "13 Apr 2025 02:31:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GALSTON RD, GALSTON 2159",
     "council_area": "Hornsby",
@@ -1625,7 +1621,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Apr 2025 01:17"
+    "updated": "13 Apr 2025 02:31"
   },
   {
     "title": "RIVERSIDE DR, YARRAMUNDI",
