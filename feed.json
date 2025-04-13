@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "HARDY RANGE FIRETRAIL, PIPELINE ROAD, COTTER RIVER, 0000",
-    "updated": "13 Apr 2025 14:55:38"
+    "updated": "13 Apr 2025 15:16:34"
   },
   {
     "agency": "Fire",
@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "OLD MILL ROAD, OLD MILL BREAK (DORMANT), COTTER RIVER",
-    "updated": "13 Apr 2025 14:57:25"
+    "updated": "13 Apr 2025 15:25:46"
   },
   {
     "agency": "Fire",
@@ -97,7 +97,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "HARRINGTON CIRCUIT, KAMBAH, 2902",
-    "updated": "13 Apr 2025 14:59:58"
+    "updated": "13 Apr 2025 15:21:44"
   },
   {
     "agency": "Fire",
@@ -117,7 +117,47 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
     "location": "HARRISON SCHOOL, WIMMERA STREET, HARRISON, 2914",
-    "updated": "13 Apr 2025 14:59:40"
+    "updated": "13 Apr 2025 15:19:26"
+  },
+  {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - HAWKER",
+    "id": "006073-13042025",
+    "latitude": "-35.24066",
+    "longitude": "149.0333",
+    "region": "act",
+    "time_of_call": "13 Apr 2025 15:05:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "BELCONNEN WAY, MURRANJI STREET, HAWKER, 2614",
+    "updated": "13 Apr 2025 15:13:05"
+  },
+  {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - KALEEN",
+    "id": "006074-13042025",
+    "latitude": "-35.22952",
+    "longitude": "149.09647",
+    "region": "act",
+    "time_of_call": "13 Apr 2025 15:16:32",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "BALDWIN DRIVE EXIT, MARIBYRNONG AVENUE, KALEEN, 2617",
+    "updated": "13 Apr 2025 15:25:45"
   },
   {
     "agency": "Ambulance",
@@ -147,49 +187,13 @@
     "longitude": "149.130753",
     "region": "act",
     "time_of_call": "13 Apr 2025 12:42:24",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "JACKA",
-    "updated": "13 Apr 2025 14:56:23"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FRASER",
-    "id": "023492-13042025",
-    "latitude": "-35.189989",
-    "longitude": "149.043755",
-    "region": "act",
-    "time_of_call": "13 Apr 2025 12:55:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FRASER",
-    "updated": "13 Apr 2025 14:26:13"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "023494-13042025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "13 Apr 2025 13:02:56",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "13 Apr 2025 14:48:18"
+    "updated": "13 Apr 2025 15:26:09"
   },
   {
     "agency": "Ambulance",
@@ -213,60 +217,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - O'CONNOR",
-    "id": "023502-13042025",
-    "latitude": "-35.256876",
-    "longitude": "149.111857",
-    "region": "act",
-    "time_of_call": "13 Apr 2025 13:27:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "O'CONNOR",
-    "updated": "13 Apr 2025 14:49:24"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRADDON",
-    "id": "023503-13042025",
-    "latitude": "-35.270314",
-    "longitude": "149.135874",
-    "region": "act",
-    "time_of_call": "13 Apr 2025 13:29:38",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BRADDON",
-    "updated": "13 Apr 2025 13:32:19"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "023504-13042025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "13 Apr 2025 13:32:06",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "13 Apr 2025 14:06:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - FARRER",
     "id": "023505-13042025",
     "latitude": "-35.377331",
@@ -279,7 +229,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "13 Apr 2025 14:57:22"
+    "updated": "13 Apr 2025 15:05:38"
   },
   {
     "agency": "Ambulance",
@@ -297,7 +247,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "13 Apr 2025 14:31:50"
+    "updated": "13 Apr 2025 15:22:30"
   },
   {
     "agency": "Ambulance",
@@ -315,25 +265,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "13 Apr 2025 14:38:36"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "023511-13042025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "13 Apr 2025 14:09:23",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "13 Apr 2025 14:25:34"
+    "updated": "13 Apr 2025 15:23:12"
   },
   {
     "agency": "Ambulance",
@@ -363,15 +295,15 @@
     "longitude": "149.05833934",
     "region": "act",
     "time_of_call": "13 Apr 2025 14:24:54",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "",
     "location": "HARRINGTON CIRCUIT, KAMBAH, 2902",
-    "updated": "13 Apr 2025 14:57:07"
+    "updated": "13 Apr 2025 15:28:56"
   },
   {
     "agency": "Ambulance",
@@ -383,31 +315,13 @@
     "longitude": "149.066659",
     "region": "act",
     "time_of_call": "13 Apr 2025 14:49:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HALL",
-    "updated": "13 Apr 2025 14:53:50"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRUCE",
-    "id": "023522-13042025",
-    "latitude": "-35.242777",
-    "longitude": "149.096998",
-    "region": "act",
-    "time_of_call": "13 Apr 2025 14:55:41",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BRUCE",
-    "updated": "13 Apr 2025 14:57:34"
+    "updated": "13 Apr 2025 15:19:07"
   },
   {
     "agency": "Ambulance",
@@ -425,7 +339,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "13 Apr 2025 14:59:54"
+    "updated": "13 Apr 2025 15:10:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TUGGERANONG",
+    "id": "023526-13042025",
+    "latitude": "-35.501489",
+    "longitude": "149.108737",
+    "region": "act",
+    "time_of_call": "13 Apr 2025 15:10:47",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TUGGERANONG",
+    "updated": "13 Apr 2025 15:24:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - EVATT",
+    "id": "023530-13042025",
+    "latitude": "-35.212001",
+    "longitude": "149.066294",
+    "region": "act",
+    "time_of_call": "13 Apr 2025 15:28:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "EVATT",
+    "updated": "13 Apr 2025 15:28:36"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -680,7 +630,7 @@
     "latitude": "-34.370574952",
     "longitude": "150.558013916",
     "region": "nsw",
-    "time_of_call": "13 Apr 2025 10:01:00",
+    "time_of_call": "13 Apr 2025 14:53:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -692,7 +642,7 @@
     "fire": "Yes",
     "size": "874 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Apr 2025 10:01"
+    "updated": "13 Apr 2025 14:53"
   },
   {
     "title": "Goodradigbee Aqueduct",
@@ -810,7 +760,7 @@
     "latitude": "-33.4454803469999",
     "longitude": "151.008758544",
     "region": "nsw",
-    "time_of_call": "13 Apr 2025 09:42:00",
+    "time_of_call": "13 Apr 2025 15:02:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -822,7 +772,7 @@
     "fire": "Yes",
     "size": "201 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Apr 2025 09:42"
+    "updated": "13 Apr 2025 15:02"
   },
   {
     "title": "Upper Wentworth Creek HR",
@@ -1033,7 +983,7 @@
     "latitude": "-33.1215224429999",
     "longitude": "150.096244812",
     "region": "nsw",
-    "time_of_call": "13 Apr 2025 09:30:00",
+    "time_of_call": "13 Apr 2025 14:37:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1045,7 +995,7 @@
     "fire": "Yes",
     "size": "2567 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Apr 2025 09:30"
+    "updated": "13 Apr 2025 14:37"
   },
   {
     "title": "Mt Olive HR",
@@ -1413,7 +1363,7 @@
     "latitude": "-33.085500994",
     "longitude": "150.073113442",
     "region": "nsw",
-    "time_of_call": "13 Apr 2025 09:11:00",
+    "time_of_call": "13 Apr 2025 14:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1425,7 +1375,7 @@
     "fire": "Yes",
     "size": "7 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Apr 2025 09:11"
+    "updated": "13 Apr 2025 14:31"
   },
   {
     "title": "SCENIC HILL WEST",
@@ -1683,7 +1633,7 @@
     "latitude": "-32.7770767219999",
     "longitude": "149.70678711",
     "region": "nsw",
-    "time_of_call": "13 Apr 2025 12:27:00",
+    "time_of_call": "13 Apr 2025 15:16:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1695,7 +1645,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Apr 2025 12:27"
+    "updated": "13 Apr 2025 15:16"
   },
   {
     "title": "BOUTCHERS DR, YASS RIVER",
@@ -1771,7 +1721,7 @@
     "latitude": "-33.1003646849999",
     "longitude": "146.463027954",
     "region": "nsw",
-    "time_of_call": "13 Apr 2025 14:44:00",
+    "time_of_call": "13 Apr 2025 15:04:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1783,7 +1733,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Apr 2025 14:44"
+    "updated": "13 Apr 2025 15:04"
   },
   {
     "title": "OLYMPIC HWY, YOUNG",
@@ -1815,10 +1765,13 @@
     "latitude": "-35.29289627",
     "longitude": "147.446990967",
     "region": "nsw",
-    "time_of_call": "13 Apr 2025 14:44:00",
+    "time_of_call": "13 Apr 2025 15:07:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "WOODRIDGE 445 BIG SPRINGS RD, BIG SPRINGS 2650",
     "council_area": "Wagga Wagga",
     "type": "Grass Fire",
@@ -1827,7 +1780,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Apr 2025 14:44"
+    "updated": "13 Apr 2025 15:07"
   },
   {
     "title": "FERNDALE RD, WOODSTOCK",
@@ -1856,13 +1809,16 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597702",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.4262046819999",
-    "longitude": "147.587265014",
+    "latitude": "-34.4010200499999",
+    "longitude": "147.639160156",
     "region": "nsw",
-    "time_of_call": "13 Apr 2025 14:52:00",
+    "time_of_call": "13 Apr 2025 15:10:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "MILVALE RD, TEMORA 2666",
     "council_area": "Temora",
     "type": "Grass Fire",
@@ -1871,6 +1827,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Apr 2025 14:52"
+    "updated": "13 Apr 2025 15:10"
   }
 ]
