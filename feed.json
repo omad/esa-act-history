@@ -69,15 +69,15 @@
     "longitude": "149.05833934",
     "region": "act",
     "time_of_call": "14 Apr 2025 04:12:15",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "HARRINGTON CIRCUIT, KAMBAH, 2902",
-    "updated": "14 Apr 2025 05:27:57"
+    "updated": "14 Apr 2025 05:33:31"
   },
   {
     "agency": "Ambulance",
@@ -95,7 +95,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "14 Apr 2025 05:03:46"
+    "updated": ""
   },
   {
     "agency": "Ambulance",
@@ -131,25 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "14 Apr 2025 04:59:36"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WANNIASSA",
-    "id": "023623-14042025",
-    "latitude": "-35.399113",
-    "longitude": "149.091978",
-    "region": "act",
-    "time_of_call": "14 Apr 2025 04:47:19",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WANNIASSA",
-    "updated": "14 Apr 2025 04:50:31"
+    "updated": "14 Apr 2025 05:46:26"
   },
   {
     "agency": "Ambulance",
@@ -167,25 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "14 Apr 2025 05:13:09"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "023626-14042025",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "14 Apr 2025 04:59:44",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "14 Apr 2025 05:16:33"
+    "updated": "14 Apr 2025 05:39:05"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1242,9 +1206,9 @@
     "latitude": "-28.5328655239999",
     "longitude": "153.53930664",
     "region": "nsw",
-    "time_of_call": "14 Apr 2025 04:43:00",
+    "time_of_call": "14 Apr 2025 05:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "PACIFIC MTWY, BRUNSWICK HEADS 2483",
     "council_area": "Byron",
@@ -1254,7 +1218,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "14 Apr 2025 04:43"
+    "updated": "14 Apr 2025 05:40"
   },
   {
     "title": "PEAK HILL-TULLAMORE RD, PEAK HILL",
@@ -1264,9 +1228,9 @@
     "latitude": "-32.723999023",
     "longitude": "148.148635864",
     "region": "nsw",
-    "time_of_call": "14 Apr 2025 05:05:00",
+    "time_of_call": "14 Apr 2025 05:34:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "PEAK HILL-TULLAMORE RD, PEAK HILL 2869",
     "council_area": "Parkes",
@@ -1276,7 +1240,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Apr 2025 05:05"
+    "updated": "14 Apr 2025 05:34"
   },
   {
     "title": "OLD NORTH RD, WHITTINGHAM",
@@ -1286,9 +1250,9 @@
     "latitude": "-32.6509284979999",
     "longitude": "151.233840943",
     "region": "nsw",
-    "time_of_call": "14 Apr 2025 05:07:00",
+    "time_of_call": "14 Apr 2025 05:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "OLD NORTH RD, WHITTINGHAM 2330",
     "council_area": "Singleton",
@@ -1298,6 +1262,50 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Apr 2025 05:07"
+    "updated": "14 Apr 2025 05:38"
+  },
+  {
+    "title": "WHITTON DARLINGTON POINT RD, WHITTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597761",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.5574874879999",
+    "longitude": "146.16960144",
+    "region": "nsw",
+    "time_of_call": "14 Apr 2025 05:31:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WHITTON DARLINGTON POINT RD, WHITTON 2705",
+    "council_area": "Leeton",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Apr 2025 05:31"
+  },
+  {
+    "title": "(WESTLINK MTWY), ABBOTSBURY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597762",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.876983642",
+    "longitude": "150.843444825",
+    "region": "nsw",
+    "time_of_call": "14 Apr 2025 05:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "M7 (WESTLINK MTWY), ABBOTSBURY 2176",
+    "council_area": "Fairfield",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Apr 2025 05:39"
   }
 ]
