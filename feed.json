@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "023849-14042025",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
-    "region": "act",
-    "time_of_call": "14 Apr 2025 23:50:03",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "15 Apr 2025 00:58:50"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - SYMONSTON",
     "id": "023851-15042025",
     "latitude": "-35.34936",
@@ -73,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SYMONSTON",
-    "updated": "15 Apr 2025 01:23:07"
+    "updated": "15 Apr 2025 01:36:40"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "15 Apr 2025 01:09:12"
+    "updated": "15 Apr 2025 01:32:03"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "15 Apr 2025 01:25:02"
+    "updated": "15 Apr 2025 01:42:33"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +109,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "15 Apr 2025 01:26:38"
+    "updated": "15 Apr 2025 01:27:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "023859-15042025",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "15 Apr 2025 01:39:42",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "15 Apr 2025 01:41:51"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1352,8 +1352,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597879",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.567211151",
-    "longitude": "151.192230225",
+    "latitude": "-33.570266724",
+    "longitude": "151.193069458",
     "region": "nsw",
     "time_of_call": "15 Apr 2025 01:17:00",
     "event_type": "burnt area",
@@ -1368,5 +1368,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Apr 2025 01:17"
+  },
+  {
+    "title": "ROCKLEY RD, ROCKLEY MOUNT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_597880",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.5382652289999",
+    "longitude": "149.546798706",
+    "region": "nsw",
+    "time_of_call": "15 Apr 2025 01:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "582 ROCKLEY RD, ROCKLEY MOUNT 2795",
+    "council_area": "Bathurst",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Apr 2025 01:30"
   }
 ]
