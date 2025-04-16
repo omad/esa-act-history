@@ -63,24 +63,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "024361-17042025",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "17 Apr 2025 06:49:11",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "17 Apr 2025 08:57:12"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PHILLIP",
     "id": "024367-17042025",
     "latitude": "-35.348136",
@@ -105,13 +87,13 @@
     "longitude": "149.110257",
     "region": "act",
     "time_of_call": "17 Apr 2025 08:06:54",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "17 Apr 2025 08:10:18"
+    "updated": "17 Apr 2025 09:32:25"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "17 Apr 2025 09:14:11"
+    "updated": "17 Apr 2025 09:26:40"
   },
   {
     "agency": "Ambulance",
@@ -195,13 +177,13 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "17 Apr 2025 08:57:08",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "17 Apr 2025 09:00:16"
+    "updated": "17 Apr 2025 09:33:37"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +201,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "17 Apr 2025 09:17:55"
+    "updated": "17 Apr 2025 09:24:00"
   },
   {
     "agency": "Ambulance",
@@ -238,6 +220,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
     "updated": "17 Apr 2025 09:21:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SCULLIN",
+    "id": "024383-17042025",
+    "latitude": "-35.235868",
+    "longitude": "149.037677",
+    "region": "act",
+    "time_of_call": "17 Apr 2025 09:29:10",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SCULLIN",
+    "updated": "17 Apr 2025 09:32:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "024384-17042025",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "17 Apr 2025 09:32:15",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "17 Apr 2025 09:32:18"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1458,5 +1476,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Apr 2025 09:13"
+  },
+  {
+    "title": "RAILWAY CR, LISAROW",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599115",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.3812446589999",
+    "longitude": "151.36050415",
+    "region": "nsw",
+    "time_of_call": "17 Apr 2025 09:28:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "SARA LEE BAKERY 88 RAILWAY CR, LISAROW 2250",
+    "council_area": "Central Coast",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "17 Apr 2025 09:28"
   }
 ]
