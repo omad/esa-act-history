@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "OLD MILL ROAD, OLD MILL BREAK (DORMANT), COTTER RIVER",
-    "updated": "18 Apr 2025 15:38:06"
+    "updated": "18 Apr 2025 15:46:46"
   },
   {
     "agency": "Fire",
@@ -207,31 +207,13 @@
     "longitude": "149.146868",
     "region": "act",
     "time_of_call": "18 Apr 2025 13:35:02",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "18 Apr 2025 15:36:20"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FYSHWICK",
-    "id": "024667-18042025",
-    "latitude": "-35.325888",
-    "longitude": "149.174707",
-    "region": "act",
-    "time_of_call": "18 Apr 2025 13:50:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FYSHWICK",
-    "updated": "18 Apr 2025 14:56:46"
+    "updated": "18 Apr 2025 15:43:08"
   },
   {
     "agency": "Ambulance",
@@ -303,7 +285,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "18 Apr 2025 15:32:49"
+    "updated": "18 Apr 2025 15:47:43"
   },
   {
     "agency": "Ambulance",
@@ -411,7 +393,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA CENTRAL",
-    "updated": "18 Apr 2025 15:17:29"
+    "updated": "18 Apr 2025 15:40:07"
   },
   {
     "agency": "Ambulance",
@@ -429,7 +411,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "18 Apr 2025 15:36:54"
+    "updated": "18 Apr 2025 15:47:32"
   },
   {
     "agency": "Ambulance",
@@ -448,6 +430,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
     "updated": "18 Apr 2025 15:16:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TORRENS",
+    "id": "024689-18042025",
+    "latitude": "-35.372705",
+    "longitude": "149.085827",
+    "region": "act",
+    "time_of_call": "18 Apr 2025 15:44:03",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TORRENS",
+    "updated": "18 Apr 2025 15:47:52"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -719,7 +719,7 @@
     "latitude": "-33.1215224429999",
     "longitude": "150.096244812",
     "region": "nsw",
-    "time_of_call": "18 Apr 2025 09:36:00",
+    "time_of_call": "18 Apr 2025 15:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -731,7 +731,7 @@
     "fire": "Yes",
     "size": "2567 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "18 Apr 2025 09:36"
+    "updated": "18 Apr 2025 15:41"
   },
   {
     "title": "CHARLIE SECTOR HR KENNY ST, MOUNT VICTORIA",
@@ -1795,10 +1795,13 @@
     "latitude": "-33.4279136659999",
     "longitude": "150.084365845",
     "region": "nsw",
-    "time_of_call": "18 Apr 2025 15:15:00",
+    "time_of_call": "18 Apr 2025 15:41:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "GREAT WESTERN HWY, WALLERAWANG 2845",
     "council_area": "Lithgow",
     "type": "Grass Fire",
@@ -1807,28 +1810,92 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Apr 2025 15:15"
+    "updated": "18 Apr 2025 15:41"
   },
   {
-    "title": "FREDERICK ST, BENDEMEER",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599290",
+    "title": "LOGAN RD, NORTH ALBURY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599291",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.883747101",
-    "longitude": "151.152374268",
+    "latitude": "-36.055736542",
+    "longitude": "146.916351318",
     "region": "nsw",
-    "time_of_call": "18 Apr 2025 15:33:00",
+    "time_of_call": "18 Apr 2025 15:35:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "FREDERICK ST, BENDEMEER 2355",
-    "council_area": "Tamworth",
-    "type": "Burn off",
+    "location": "LOGAN RD, NORTH ALBURY 2640",
+    "council_area": "Albury",
+    "type": "Search/Rescue",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "18 Apr 2025 15:35"
+  },
+  {
+    "title": "RIVER DOWNS, RAWDON ISLAND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599292",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.4354801169999",
+    "longitude": "152.778884888",
+    "region": "nsw",
+    "time_of_call": "18 Apr 2025 15:40:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "16 RIVER DOWNS, RAWDON ISLAND 2446",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Other",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Apr 2025 15:33"
+    "updated": "18 Apr 2025 15:40"
+  },
+  {
+    "title": "CASTLEREAGH HWY, GULGONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599293",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.4002456659999",
+    "longitude": "149.528015137",
+    "region": "nsw",
+    "time_of_call": "18 Apr 2025 15:44:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "2417 CASTLEREAGH HWY, GULGONG 2852",
+    "council_area": "Mid-Western",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Apr 2025 15:44"
+  },
+  {
+    "title": "GURNER AV, AUSTRAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599294",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.91199112",
+    "longitude": "150.798843384",
+    "region": "nsw",
+    "time_of_call": "18 Apr 2025 15:45:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "200 GURNER AV, AUSTRAL 2179",
+    "council_area": "Liverpool",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Apr 2025 15:45"
   }
 ]
