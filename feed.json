@@ -115,7 +115,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "20 Apr 2025 08:07:53"
+    "updated": "20 Apr 2025 08:45:50"
   },
   {
     "agency": "Ambulance",
@@ -169,7 +169,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "20 Apr 2025 08:22:46"
+    "updated": "20 Apr 2025 08:37:28"
   },
   {
     "agency": "Ambulance",
@@ -235,13 +235,13 @@
     "longitude": "149.053511",
     "region": "act",
     "time_of_call": "20 Apr 2025 07:49:20",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "20 Apr 2025 08:36:48"
+    "updated": "20 Apr 2025 08:44:36"
   },
   {
     "agency": "Ambulance",
@@ -331,7 +331,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "20 Apr 2025 08:34:08"
+    "updated": "20 Apr 2025 08:45:50"
   },
   {
     "agency": "Ambulance",
@@ -343,13 +343,13 @@
     "longitude": "149.099386",
     "region": "act",
     "time_of_call": "20 Apr 2025 08:35:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "20 Apr 2025 08:36:45"
+    "updated": "20 Apr 2025 08:46:07"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1136,7 +1136,7 @@
     "latitude": "-34.1226882939999",
     "longitude": "148.557876587",
     "region": "nsw",
-    "time_of_call": "20 Apr 2025 05:56:00",
+    "time_of_call": "20 Apr 2025 08:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1151,7 +1151,7 @@
     "fire": "Yes",
     "size": "22 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Apr 2025 05:56"
+    "updated": "20 Apr 2025 08:38"
   },
   {
     "title": "RATHO RD, YOUNG",
@@ -1327,5 +1327,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Apr 2025 08:30"
+  },
+  {
+    "title": "Burton St, Warren",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599533",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.699393001",
+    "longitude": "147.83734",
+    "region": "nsw",
+    "time_of_call": "20 Apr 2025 08:41:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Burton St, Warren, NSW 2824",
+    "council_area": "Warren",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "20 Apr 2025 08:41"
   }
 ]
