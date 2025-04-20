@@ -199,13 +199,13 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "20 Apr 2025 23:03:44",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "20 Apr 2025 23:43:52"
+    "updated": "21 Apr 2025 00:36:36"
   },
   {
     "agency": "Ambulance",
@@ -223,7 +223,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "21 Apr 2025 00:18:56"
+    "updated": "21 Apr 2025 00:28:29"
   },
   {
     "agency": "Ambulance",
@@ -241,7 +241,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "21 Apr 2025 00:19:28"
+    "updated": "21 Apr 2025 00:31:17"
   },
   {
     "agency": "Ambulance",
@@ -277,7 +277,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "21 Apr 2025 00:19:56"
+    "updated": "21 Apr 2025 00:24:11"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1450,26 +1450,6 @@
     "updated": "20 Apr 2025 23:09"
   },
   {
-    "title": "HERMITAGE RD, POKOLBIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599650",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.67912674",
-    "longitude": "151.26097107",
-    "region": "nsw",
-    "time_of_call": "20 Apr 2025 23:53:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "HERMITAGE RD, POKOLBIN 2320",
-    "council_area": "Singleton",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Apr 2025 23:53"
-  },
-  {
     "title": "KORORA BASIN RD, KORORA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599652",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1499,9 +1479,9 @@
     "latitude": "-33.970874786",
     "longitude": "150.797088623",
     "region": "nsw",
-    "time_of_call": "21 Apr 2025 00:17:00",
+    "time_of_call": "21 Apr 2025 00:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "93 RIDGE SQ, LEPPINGTON 2179",
     "council_area": "Camden",
@@ -1511,6 +1491,50 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Apr 2025 00:17"
+    "updated": "21 Apr 2025 00:25"
+  },
+  {
+    "title": "PRINCES HWY, BROADWATER",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599654",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.9826927189999",
+    "longitude": "149.892044067",
+    "region": "nsw",
+    "time_of_call": "21 Apr 2025 00:32:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "PRINCES HWY, BROADWATER 2549",
+    "council_area": "Bega Valley",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Apr 2025 00:32"
+  },
+  {
+    "title": "MCKELL AV, WATERFALL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599655",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.1352272029999",
+    "longitude": "150.994598389",
+    "region": "nsw",
+    "time_of_call": "21 Apr 2025 00:19:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "MCKELL AV, WATERFALL 2233",
+    "council_area": "Sutherland",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Apr 2025 00:19"
   }
 ]
