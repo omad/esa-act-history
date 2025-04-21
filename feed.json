@@ -101,24 +101,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUNLOP",
-    "id": "025334-21042025",
-    "latitude": "-35.193951",
-    "longitude": "149.019471",
-    "region": "act",
-    "time_of_call": "21 Apr 2025 22:41:15",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DUNLOP",
-    "updated": "21 Apr 2025 23:28:52"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - NGUNNAWAL",
     "id": "025335-21042025",
     "latitude": "-35.17365",
@@ -161,13 +143,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "21 Apr 2025 23:56:56",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "22 Apr 2025 00:01:03"
+    "updated": "22 Apr 2025 00:38:52"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +185,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "22 Apr 2025 00:14:09"
+    "updated": "22 Apr 2025 00:36:56"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -1303,5 +1285,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Apr 2025 00:18"
+  },
+  {
+    "title": "GLEN MARTIN RD, CLARENCE TOWN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599760",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.578460693",
+    "longitude": "151.809326172",
+    "region": "nsw",
+    "time_of_call": "22 Apr 2025 00:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "59 GLEN MARTIN RD, CLARENCE TOWN 2321",
+    "council_area": "Dungog",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Apr 2025 00:29"
   }
 ]
