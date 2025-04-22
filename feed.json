@@ -60,6 +60,26 @@
     "updated": "22 Apr 2025 17:30:19"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STORM OR TREE DAMAGE - MACQUARIE",
+    "id": "006538-23042025",
+    "latitude": "-35.2476151099",
+    "longitude": "149.0649407999",
+    "region": "act",
+    "time_of_call": "23 Apr 2025 07:22:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "CATCHPOLE STREET, MACQUARIE, 2614",
+    "updated": "23 Apr 2025 07:22:57"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -87,13 +107,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "23 Apr 2025 04:05:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "23 Apr 2025 06:43:47"
+    "updated": "23 Apr 2025 07:00:40"
   },
   {
     "agency": "Ambulance",
@@ -105,13 +125,13 @@
     "longitude": "149.085118",
     "region": "act",
     "time_of_call": "23 Apr 2025 05:34:50",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "23 Apr 2025 06:47:35"
+    "updated": "23 Apr 2025 07:14:14"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "23 Apr 2025 06:40:14"
+    "updated": "23 Apr 2025 07:01:12"
   },
   {
     "agency": "Ambulance",
@@ -141,13 +161,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "23 Apr 2025 06:34:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "23 Apr 2025 06:40:47"
+    "updated": "23 Apr 2025 06:58:14"
   },
   {
     "agency": "Ambulance",
@@ -159,13 +179,31 @@
     "longitude": "149.11002367",
     "region": "act",
     "time_of_call": "23 Apr 2025 06:47:48",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
+    "location": "STONEHAVEN CRESCENT, DEAKIN, 2600",
+    "updated": "23 Apr 2025 07:02:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "025606-23042025",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "23 Apr 2025 07:16:42",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
-    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
-    "location": "STONEHAVEN CRESCENT, DEAKIN, 2600",
-    "updated": "23 Apr 2025 06:48:23"
+    "type": "AMBULANCE RESPONSE",
+    "location": "PALMERSTON",
+    "updated": "23 Apr 2025 07:18:13"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -913,28 +951,6 @@
     "updated": "23 Apr 2025 01:08"
   },
   {
-    "title": "MITCHELL HWY, GUYONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599857",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.3907012939999",
-    "longitude": "149.223007202",
-    "region": "nsw",
-    "time_of_call": "23 Apr 2025 06:04:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "MITCHELL HWY, GUYONG 2798",
-    "council_area": "Orange",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Apr 2025 06:04"
-  },
-  {
     "title": "PINE RD, GOL GOL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599858",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -955,25 +971,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Apr 2025 06:05"
-  },
-  {
-    "title": "DURHAM ST, CLARENCE TOWN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599859",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.583934784",
-    "longitude": "151.781494141",
-    "region": "nsw",
-    "time_of_call": "23 Apr 2025 06:32:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "75 DURHAM ST, CLARENCE TOWN 2321",
-    "council_area": "Dungog",
-    "type": "Medical",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Apr 2025 06:32"
   }
 ]
