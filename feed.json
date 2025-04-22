@@ -149,7 +149,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "23 Apr 2025 08:17:44"
+    "updated": "23 Apr 2025 08:38:14"
   },
   {
     "agency": "Ambulance",
@@ -179,31 +179,13 @@
     "longitude": "149.049485",
     "region": "act",
     "time_of_call": "23 Apr 2025 07:30:53",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WEETANGERA",
-    "updated": "23 Apr 2025 08:21:02"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BONNER",
-    "id": "025609-23042025",
-    "latitude": "-35.155183",
-    "longitude": "149.143165",
-    "region": "act",
-    "time_of_call": "23 Apr 2025 07:34:37",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "BONNER",
-    "updated": "23 Apr 2025 08:09:10"
+    "location": "WEETANGERA",
+    "updated": "23 Apr 2025 08:39:20"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "23 Apr 2025 08:05:56"
+    "updated": "23 Apr 2025 08:26:46"
   },
   {
     "agency": "Ambulance",
@@ -275,7 +257,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "23 Apr 2025 08:24:44"
+    "updated": "23 Apr 2025 08:27:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "025615-23042025",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "23 Apr 2025 08:28:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "23 Apr 2025 08:31:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLOREY",
+    "id": "025618-23042025",
+    "latitude": "-35.224909",
+    "longitude": "149.053511",
+    "region": "act",
+    "time_of_call": "23 Apr 2025 08:37:58",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLOREY",
+    "updated": "23 Apr 2025 08:39:45"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -298,28 +316,6 @@
     "size": "122 ha",
     "responsible_agency": "Forestry Corporation of NSW",
     "updated": "23 Apr 2025 07:57"
-  },
-  {
-    "title": "Lagoon Creek HR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_593964",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.368257859",
-    "longitude": "149.834913514",
-    "region": "nsw",
-    "time_of_call": "22 Apr 2025 10:02:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "Lagoon Creek Trail - Winburndale Nature Reserve",
-    "council_area": "Bathurst",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "474 ha",
-    "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "22 Apr 2025 10:02"
   },
   {
     "title": "Nundle SF",
@@ -976,6 +972,28 @@
     "updated": "22 Apr 2025 15:40"
   },
   {
+    "title": "1229 BOCOBLE RD BOCOBLE NSW 2850",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599780",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8175201409999",
+    "longitude": "149.725784302",
+    "region": "nsw",
+    "time_of_call": "23 Apr 2025 08:32:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "1229 BOCOBLE RD, BOCOBLE NSW 2850",
+    "council_area": "Mid-Western",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "3 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Apr 2025 08:32"
+  },
+  {
     "title": "PERRICOOTA RD, MOAMA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599801",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1087,28 +1105,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Apr 2025 07:58"
-  },
-  {
-    "title": "HUME HWY, AYLMERTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599864",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.4172973629999",
-    "longitude": "150.492675781",
-    "region": "nsw",
-    "time_of_call": "23 Apr 2025 08:17:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "HUME HWY, AYLMERTON 2575",
-    "council_area": "Wingecarribee",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Apr 2025 08:17"
   },
   {
     "title": "TOWAMBA ST, BURRAGATE",
