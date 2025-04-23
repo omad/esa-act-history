@@ -55,7 +55,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
-    "updated": "24 Apr 2025 07:58:00"
+    "updated": "24 Apr 2025 08:36:52"
   },
   {
     "agency": "Ambulance",
@@ -67,13 +67,13 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "24 Apr 2025 07:10:50",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "24 Apr 2025 08:16:22"
+    "updated": "24 Apr 2025 08:26:01"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "24 Apr 2025 08:23:14"
+    "updated": "24 Apr 2025 08:37:08"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "24 Apr 2025 08:03:42"
+    "updated": "24 Apr 2025 08:38:08"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,97 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "24 Apr 2025 08:11:32"
+    "updated": "24 Apr 2025 08:48:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "025834-24042025",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "24 Apr 2025 08:28:29",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "24 Apr 2025 08:38:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOMBS",
+    "id": "025835-24042025",
+    "latitude": "-35.31486",
+    "longitude": "149.041664",
+    "region": "act",
+    "time_of_call": "24 Apr 2025 08:31:15",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOMBS",
+    "updated": "24 Apr 2025 08:35:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "025836-24042025",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "24 Apr 2025 08:32:45",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "24 Apr 2025 08:36:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHIFLEY",
+    "id": "025837-24042025",
+    "latitude": "-35.351526",
+    "longitude": "149.076955",
+    "region": "act",
+    "time_of_call": "24 Apr 2025 08:33:24",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHIFLEY",
+    "updated": "24 Apr 2025 08:38:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - REID",
+    "id": "025840-24042025",
+    "latitude": "-35.281706",
+    "longitude": "149.140719",
+    "region": "act",
+    "time_of_call": "24 Apr 2025 08:46:29",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "REID",
+    "updated": "24 Apr 2025 08:48:36"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -684,28 +774,6 @@
     "updated": "23 Apr 2025 18:21"
   },
   {
-    "title": "ABERCROMBIE RD, TUENA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599909",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.960811615",
-    "longitude": "149.318786621",
-    "region": "nsw",
-    "time_of_call": "23 Apr 2025 20:28:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "6630 ABERCROMBIE RD, TUENA 2583",
-    "council_area": "Upper Lachlan",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Apr 2025 20:28"
-  },
-  {
     "title": "NYNGAN ST, HERMIDALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599934",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -748,5 +816,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Apr 2025 03:28"
+  },
+  {
+    "title": "BOCOBRA RD, BOCOBRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_599950",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.07559967",
+    "longitude": "148.550903321",
+    "region": "nsw",
+    "time_of_call": "24 Apr 2025 08:28:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "MOUNTAIN HOME 1511 BOCOBRA RD, BOCOBRA 2865",
+    "council_area": "Cabonne",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Apr 2025 08:28"
   }
 ]
