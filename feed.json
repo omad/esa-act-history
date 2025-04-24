@@ -81,42 +81,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PEARCE",
-    "id": "026062-25042025",
-    "latitude": "-35.361582",
-    "longitude": "149.085118",
-    "region": "act",
-    "time_of_call": "25 Apr 2025 07:10:41",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PEARCE",
-    "updated": "25 Apr 2025 08:06:45"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "026065-25042025",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "25 Apr 2025 07:19:48",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "25 Apr 2025 08:11:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
     "id": "026066-25042025",
     "latitude": "-35.302295",
@@ -141,13 +105,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "25 Apr 2025 07:37:57",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "25 Apr 2025 08:23:03"
+    "updated": "25 Apr 2025 08:39:27"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "25 Apr 2025 08:18:59"
+    "updated": "25 Apr 2025 08:45:46"
   },
   {
     "agency": "Ambulance",
@@ -750,5 +714,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Apr 2025 08:14"
+  },
+  {
+    "title": "PRINCESS ST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600034",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.32542038",
+    "longitude": "146.267349243",
+    "region": "nsw",
+    "time_of_call": "25 Apr 2025 08:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "URANA MULTI PURPOSE SERVICES 127-129 PRINCESS ST, URANA 2645",
+    "council_area": "Federation",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Apr 2025 08:32"
   }
 ]
