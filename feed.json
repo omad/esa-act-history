@@ -75,7 +75,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "24 Apr 2025 23:48:14"
+    "updated": "25 Apr 2025 00:06:54"
   },
   {
     "agency": "Ambulance",
@@ -93,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "24 Apr 2025 23:44:27"
+    "updated": "24 Apr 2025 23:57:40"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "24 Apr 2025 23:22:07"
+    "updated": "25 Apr 2025 00:17:18"
   },
   {
     "agency": "Ambulance",
@@ -159,13 +159,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "24 Apr 2025 23:11:56",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "24 Apr 2025 23:15:46"
+    "updated": "25 Apr 2025 00:21:46"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
-    "updated": "24 Apr 2025 23:31:17"
+    "updated": "24 Apr 2025 23:56:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ACTON",
+    "id": "026018-24042025",
+    "latitude": "-35.289989",
+    "longitude": "149.115669",
+    "region": "act",
+    "time_of_call": "24 Apr 2025 23:51:23",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ACTON",
+    "updated": "25 Apr 2025 00:24:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - EVATT",
+    "id": "026019-24042025",
+    "latitude": "-35.212001",
+    "longitude": "149.066294",
+    "region": "act",
+    "time_of_call": "24 Apr 2025 23:57:21",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "EVATT",
+    "updated": "25 Apr 2025 00:17:56"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -719,28 +755,6 @@
     "updated": "24 Apr 2025 22:01"
   },
   {
-    "title": "CLUB LAKE WYANGAN LAKES RD, LAKE WYANGAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600019",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.206264496",
-    "longitude": "146.021697998",
-    "region": "nsw",
-    "time_of_call": "24 Apr 2025 23:21:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "CLUB LAKE WYANGAN LAKES RD, LAKE WYANGAN 2680",
-    "council_area": "Griffith",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Apr 2025 23:21"
-  },
-  {
     "title": "TULLIBIGEAL RD, TULLIBIGEAL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600020",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -748,9 +762,9 @@
     "latitude": "-33.4167709349999",
     "longitude": "146.729064941",
     "region": "nsw",
-    "time_of_call": "24 Apr 2025 23:47:00",
+    "time_of_call": "25 Apr 2025 00:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "513 TULLIBIGEAL RD, TULLIBIGEAL 2669",
     "council_area": "Lachlan",
@@ -760,6 +774,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Apr 2025 23:47"
+    "updated": "25 Apr 2025 00:21"
   }
 ]
