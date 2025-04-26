@@ -149,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "26 Apr 2025 21:03:16"
+    "updated": "26 Apr 2025 21:25:38"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +221,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "26 Apr 2025 21:14:56"
+    "updated": "26 Apr 2025 21:19:21"
   },
   {
     "agency": "Ambulance",
@@ -233,13 +233,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "26 Apr 2025 20:36:39",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "26 Apr 2025 21:17:23"
+    "updated": "26 Apr 2025 21:24:10"
   },
   {
     "agency": "Ambulance",
@@ -257,7 +257,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "26 Apr 2025 21:15:07"
+    "updated": "26 Apr 2025 21:22:32"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -805,5 +805,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Apr 2025 21:08"
+  },
+  {
+    "title": "RANGE RD, WHITTINGHAM",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600191",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.600395202",
+    "longitude": "151.186798096",
+    "region": "nsw",
+    "time_of_call": "26 Apr 2025 21:17:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "74E RANGE RD, WHITTINGHAM 2330",
+    "council_area": "Singleton",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Apr 2025 21:17"
+  },
+  {
+    "title": "NEWTONS RD, DUMARESQ ISLAND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600192",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.907979965",
+    "longitude": "152.512023926",
+    "region": "nsw",
+    "time_of_call": "26 Apr 2025 21:22:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "NEWTONS RD, DUMARESQ ISLAND 2430",
+    "council_area": "Mid-Coast",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Apr 2025 21:22"
   }
 ]
