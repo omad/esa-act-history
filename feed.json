@@ -83,24 +83,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PHILLIP",
-    "id": "026502-27042025",
-    "latitude": "-35.348136",
-    "longitude": "149.090018",
-    "region": "act",
-    "time_of_call": "27 Apr 2025 05:53:02",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PHILLIP",
-    "updated": "27 Apr 2025 07:46:16"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HUGHES",
     "id": "026507-27042025",
     "latitude": "-35.333105",
@@ -131,7 +113,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "27 Apr 2025 08:32:04"
+    "updated": "27 Apr 2025 08:39:37"
   },
   {
     "agency": "Ambulance",
@@ -149,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "27 Apr 2025 08:35:52"
+    "updated": "27 Apr 2025 08:39:47"
   },
   {
     "agency": "Ambulance",
@@ -197,13 +179,31 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "27 Apr 2025 08:30:13",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "27 Apr 2025 08:33:49"
+    "updated": "27 Apr 2025 08:38:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "026515-27042025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "27 Apr 2025 08:42:26",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "27 Apr 2025 08:47:52"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -621,26 +621,6 @@
     "updated": "27 Apr 2025 06:13"
   },
   {
-    "title": "OLD NARRANDERA RD, MATONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600212",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.848239898",
-    "longitude": "146.861282349",
-    "region": "nsw",
-    "time_of_call": "27 Apr 2025 07:45:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "OLD NARRANDERA RD, MATONG 2652",
-    "council_area": "Wagga Wagga",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Apr 2025 07:45"
-  },
-  {
     "title": "PRIORY PDE, VALLA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600213",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -701,5 +681,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Apr 2025 08:34"
+  },
+  {
+    "title": "CAMPSITE ARUMPO RD, MOURQUONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600216",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.1374092099999",
+    "longitude": "142.187728882",
+    "region": "nsw",
+    "time_of_call": "27 Apr 2025 08:40:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CAMPSITE ARUMPO RD, MOURQUONG 2739",
+    "council_area": "Wentworth",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Apr 2025 08:40"
   }
 ]
