@@ -107,13 +107,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "26 Apr 2025 12:05:38",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "26 Apr 2025 13:29:56"
+    "updated": "26 Apr 2025 13:51:38"
   },
   {
     "agency": "Ambulance",
@@ -161,13 +161,13 @@
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "26 Apr 2025 12:51:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "26 Apr 2025 13:29:32"
+    "updated": "26 Apr 2025 13:40:16"
   },
   {
     "agency": "Ambulance",
@@ -185,7 +185,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "26 Apr 2025 13:19:03"
+    "updated": "26 Apr 2025 13:39:36"
   },
   {
     "agency": "Ambulance",
@@ -197,13 +197,13 @@
     "longitude": "149.081053",
     "region": "act",
     "time_of_call": "26 Apr 2025 13:30:35",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "26 Apr 2025 13:36:04"
+    "updated": "26 Apr 2025 13:51:10"
   },
   {
     "agency": "Ambulance",
@@ -215,13 +215,31 @@
     "longitude": "149.146868",
     "region": "act",
     "time_of_call": "26 Apr 2025 13:36:32",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KINGSTON",
+    "updated": "26 Apr 2025 13:48:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THROSBY",
+    "id": "026394-26042025",
+    "latitude": "-35.187595",
+    "longitude": "149.161141",
+    "region": "act",
+    "time_of_call": "26 Apr 2025 13:45:40",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "KINGSTON",
-    "updated": "26 Apr 2025 13:36:48"
+    "location": "THROSBY",
+    "updated": "26 Apr 2025 13:48:50"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -763,9 +781,9 @@
     "latitude": "-33.6116256719999",
     "longitude": "151.017623901",
     "region": "nsw",
-    "time_of_call": "26 Apr 2025 13:22:00",
+    "time_of_call": "26 Apr 2025 13:42:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "894 OLD NORTHERN RD, GLENORIE 2157",
     "council_area": "The Hills",
@@ -775,28 +793,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Apr 2025 13:22"
-  },
-  {
-    "title": "JACKWOOD RD, VALLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600150",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.5732421879999",
-    "longitude": "153.003372192",
-    "region": "nsw",
-    "time_of_call": "26 Apr 2025 13:27:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "27 JACKWOOD RD, VALLA 2448",
-    "council_area": "Nambucca",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Apr 2025 13:27"
+    "updated": "26 Apr 2025 13:42"
   }
 ]
