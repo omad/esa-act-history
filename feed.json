@@ -147,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "27 Apr 2025 17:08:33"
+    "updated": "27 Apr 2025 17:24:44"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +201,25 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "27 Apr 2025 17:20:48"
+    "updated": "27 Apr 2025 17:27:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "026587-27042025",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "27 Apr 2025 17:21:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "27 Apr 2025 17:22:18"
   },
   {
     "title": "Prescribed Burn Pine Rocks South 25AC ",
@@ -529,5 +547,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Apr 2025 16:45"
+  },
+  {
+    "title": "KAMILAROI HWY, TURRAWAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600267",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.486408233",
+    "longitude": "149.899719239",
+    "region": "nsw",
+    "time_of_call": "27 Apr 2025 17:04:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "KAMILAROI HWY, TURRAWAN 2390",
+    "council_area": "Narrabri",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Apr 2025 17:04"
+  },
+  {
+    "title": "PACIFIC MTWY (NORTHBOUND)",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600268",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8812065129999",
+    "longitude": "151.607620239",
+    "region": "nsw",
+    "time_of_call": "27 Apr 2025 17:27:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "ET617 M1 PACIFIC MTWY (NORTHBOUND), CAMERON PARK 2285",
+    "council_area": "Lake Macquarie",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Apr 2025 17:27"
   }
 ]
