@@ -135,24 +135,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - SCULLIN",
-    "id": "026854-28042025",
-    "latitude": "-35.235868",
-    "longitude": "149.037677",
-    "region": "act",
-    "time_of_call": "28 Apr 2025 20:20:04",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "SCULLIN",
-    "updated": "28 Apr 2025 21:23:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - LATHAM",
     "id": "026855-28042025",
     "latitude": "-35.217781",
@@ -177,13 +159,13 @@
     "longitude": "149.025004",
     "region": "act",
     "time_of_call": "28 Apr 2025 20:28:13",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "DENMAN PROSPECT",
-    "updated": "28 Apr 2025 21:17:44"
+    "updated": "28 Apr 2025 21:40:11"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +195,13 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "28 Apr 2025 20:41:49",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "28 Apr 2025 21:25:33"
+    "updated": "28 Apr 2025 21:48:01"
   },
   {
     "agency": "Ambulance",
@@ -231,13 +213,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "28 Apr 2025 20:52:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "28 Apr 2025 21:24:27"
+    "updated": "28 Apr 2025 21:31:48"
   },
   {
     "agency": "Ambulance",
@@ -255,7 +237,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "28 Apr 2025 21:07:27"
+    "updated": "28 Apr 2025 21:30:52"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +273,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "28 Apr 2025 21:26:56"
+    "updated": "28 Apr 2025 21:41:34"
   },
   {
     "agency": "Ambulance",
@@ -327,7 +309,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "28 Apr 2025 21:17:23"
+    "updated": "28 Apr 2025 21:45:15"
   },
   {
     "title": "Nundle SF",
@@ -529,48 +511,6 @@
     "updated": "28 Apr 2025 19:32"
   },
   {
-    "title": "KANANGRA DR, CRANGAN BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600341",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.1591682439999",
-    "longitude": "151.600158691",
-    "region": "nsw",
-    "time_of_call": "28 Apr 2025 20:59:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "KANANGRA DR, CRANGAN BAY 2259",
-    "council_area": "Lake Macquarie",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Apr 2025 20:59"
-  },
-  {
-    "title": "GLENHAVEN RD, GLENHAVEN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600342",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.694267273",
-    "longitude": "150.974731445",
-    "region": "nsw",
-    "time_of_call": "28 Apr 2025 21:03:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "GLENHAVEN RD, GLENHAVEN 2156",
-    "council_area": "The Hills",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Apr 2025 21:03"
-  },
-  {
     "title": "MOUNT SUGARLOAF RD, WEST WALLSEND",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600343",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -591,6 +531,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Apr 2025 21:02"
+  },
+  {
+    "title": "STOTT RD, WHITTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600344",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.54113388",
+    "longitude": "146.17199707",
+    "region": "nsw",
+    "time_of_call": "28 Apr 2025 21:15:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "STOTT RD, WHITTON 2705",
+    "council_area": "Leeton",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Apr 2025 21:15"
   },
   {
     "title": "DUFF RD, CECIL PARK",
