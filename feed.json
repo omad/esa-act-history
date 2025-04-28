@@ -75,7 +75,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "29 Apr 2025 07:29:10"
+    "updated": "29 Apr 2025 07:37:33"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "MELBA SHOPS, MELBA COURT, MELBA, 2615",
-    "updated": "29 Apr 2025 07:26:34"
+    "updated": "29 Apr 2025 07:35:22"
   },
   {
     "agency": "Ambulance",
@@ -166,6 +166,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
     "updated": "29 Apr 2025 07:31:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ARANDA",
+    "id": "026906-29042025",
+    "latitude": "-35.258882",
+    "longitude": "149.079717",
+    "region": "act",
+    "time_of_call": "29 Apr 2025 07:33:24",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ARANDA",
+    "updated": "29 Apr 2025 07:42:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "026907-29042025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "29 Apr 2025 07:39:14",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "29 Apr 2025 07:43:17"
   },
   {
     "title": "Nundle SF",
@@ -365,5 +401,49 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "29 Apr 2025 06:40"
+  },
+  {
+    "title": "DAVIS CT, NAMBUCCA HEADS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600362",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.6378726959999",
+    "longitude": "152.981002808",
+    "region": "nsw",
+    "time_of_call": "29 Apr 2025 07:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "8 DAVIS CT, NAMBUCCA HEADS 2448",
+    "council_area": "Nambucca",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "29 Apr 2025 07:36"
+  },
+  {
+    "title": "OLD PACIFIC HWY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600363",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.4708423609999",
+    "longitude": "153.005187988",
+    "region": "nsw",
+    "time_of_call": "29 Apr 2025 07:46:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "RFBI RALEIGH URUNGA MASONIC VILL 191 OLD PACIFIC HWY, RALEIGH 2454",
+    "council_area": "Bellingen",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Apr 2025 07:46"
   }
 ]
