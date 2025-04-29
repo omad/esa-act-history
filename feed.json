@@ -35,7 +35,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "30 Apr 2025 07:33:21"
+    "updated": "30 Apr 2025 07:35:45"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
-    "updated": "30 Apr 2025 07:20:47"
+    "updated": "30 Apr 2025 07:40:50"
   },
   {
     "agency": "Ambulance",
@@ -108,6 +108,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
     "updated": "30 Apr 2025 07:06:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "027132-30042025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "30 Apr 2025 07:38:51",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "30 Apr 2025 07:44:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "027133-30042025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "30 Apr 2025 07:43:42",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "30 Apr 2025 07:44:34"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -354,5 +390,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Apr 2025 07:01"
+  },
+  {
+    "title": "CLERGATE RD, ORANGE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600454",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.234573364",
+    "longitude": "149.105926513",
+    "region": "nsw",
+    "time_of_call": "30 Apr 2025 07:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "390 CLERGATE RD, ORANGE 2800",
+    "council_area": "Orange",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "30 Apr 2025 07:36"
+  },
+  {
+    "title": "MAIN ST, CLUNES",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600455",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.7321243279999",
+    "longitude": "153.405471802",
+    "region": "nsw",
+    "time_of_call": "30 Apr 2025 07:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "21 MAIN ST, CLUNES 2480",
+    "council_area": "Lismore",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Apr 2025 07:39"
   }
 ]
