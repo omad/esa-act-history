@@ -29,13 +29,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "01 May 2025 02:12:30",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "01 May 2025 03:16:39"
+    "updated": "01 May 2025 06:48:06"
   },
   {
     "agency": "Ambulance",
@@ -59,24 +59,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "027356-01052025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "01 May 2025 05:38:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "01 May 2025 05:51:06"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MAWSON",
     "id": "027357-01052025",
     "latitude": "-35.361049",
@@ -89,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "01 May 2025 06:26:35"
+    "updated": "01 May 2025 06:46:34"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +89,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "01 May 2025 06:12:07"
+    "updated": "01 May 2025 06:47:13"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +101,31 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "01 May 2025 06:12:47",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "01 May 2025 06:17:47"
+    "updated": "01 May 2025 06:46:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "027362-01052025",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "01 May 2025 06:27:48",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "01 May 2025 06:39:50"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -388,30 +388,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Apr 2025 18:39"
-  },
-  {
-    "title": "WEST ST, GEROGERY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600523",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.83253479",
-    "longitude": "146.992218017",
-    "region": "nsw",
-    "time_of_call": "01 May 2025 06:10:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "WEST ST, GEROGERY 2642",
-    "council_area": "Greater Hume",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 May 2025 06:10"
   }
 ]
