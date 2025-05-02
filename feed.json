@@ -131,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "02 May 2025 14:17:49"
+    "updated": "02 May 2025 16:45:04"
   },
   {
     "agency": "Ambulance",
@@ -185,7 +185,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "02 May 2025 16:28:09"
+    "updated": "02 May 2025 16:38:47"
   },
   {
     "agency": "Ambulance",
@@ -257,7 +257,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "02 May 2025 16:17:13"
+    "updated": "02 May 2025 16:39:35"
   },
   {
     "agency": "Ambulance",
@@ -275,7 +275,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "02 May 2025 16:14:59"
+    "updated": "02 May 2025 16:43:43"
   },
   {
     "agency": "Ambulance",
@@ -293,7 +293,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUME",
-    "updated": "02 May 2025 16:17:55"
+    "updated": "02 May 2025 16:35:58"
   },
   {
     "agency": "Ambulance",
@@ -311,7 +311,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "02 May 2025 16:13:22"
+    "updated": ""
   },
   {
     "agency": "Ambulance",
@@ -329,7 +329,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "02 May 2025 16:20:25"
+    "updated": "02 May 2025 16:52:38"
   },
   {
     "agency": "Ambulance",
@@ -347,7 +347,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "02 May 2025 16:02:02"
+    "updated": "02 May 2025 16:48:29"
   },
   {
     "agency": "Ambulance",
@@ -365,7 +365,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "02 May 2025 16:20:39"
+    "updated": "02 May 2025 16:49:47"
   },
   {
     "agency": "Ambulance",
@@ -395,13 +395,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "02 May 2025 16:26:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "02 May 2025 16:32:17"
+    "updated": "02 May 2025 16:44:39"
   },
   {
     "agency": "Ambulance",
@@ -420,6 +420,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
     "updated": "02 May 2025 16:30:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "027728-02052025",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "02 May 2025 16:43:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "02 May 2025 16:51:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "027729-02052025",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "02 May 2025 16:47:16",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "02 May 2025 16:51:42"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -665,28 +701,6 @@
     "updated": "2 May 2025 15:24"
   },
   {
-    "title": "BERTHONG RD, COOTAMUNDRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600629",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.591854096",
-    "longitude": "148.013671875",
-    "region": "nsw",
-    "time_of_call": "02 May 2025 13:55:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "315 BERTHONG RD, COOTAMUNDRA 2590",
-    "council_area": "Cootamundra-Gundagai",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 May 2025 13:55"
-  },
-  {
     "title": "CARLISLE-TRUNDLE RD, TRUNDLE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600632",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -738,9 +752,9 @@
     "latitude": "-33.611305237",
     "longitude": "148.074401856",
     "region": "nsw",
-    "time_of_call": "02 May 2025 14:57:00",
+    "time_of_call": "02 May 2025 16:47:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "HENRY LAWSON WAY, OOMA 2871",
     "council_area": "Forbes",
@@ -750,29 +764,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 May 2025 14:57"
-  },
-  {
-    "title": "PINNACLES PL, BROKEN HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600642",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.987195969",
-    "longitude": "141.425231933",
-    "region": "nsw",
-    "time_of_call": "02 May 2025 16:05:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "10-12 PINNACLES PL, BROKEN HILL 2880",
-    "council_area": "Broken Hill",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "2 May 2025 16:05"
+    "updated": "2 May 2025 16:47"
   },
   {
     "title": "GLENIFFER RD, GLENIFFER",
@@ -795,5 +787,71 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 May 2025 16:26"
+  },
+  {
+    "title": "PRINCES HWY, TOMERONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600644",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.07125473",
+    "longitude": "150.570541382",
+    "region": "nsw",
+    "time_of_call": "02 May 2025 16:48:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "PRINCES HWY, TOMERONG 2540",
+    "council_area": "Shoalhaven",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 May 2025 16:48"
+  },
+  {
+    "title": "SIR BERTRAM STEVENS DR, ROYAL NATIONAL PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600645",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.073646545",
+    "longitude": "151.0574646",
+    "region": "nsw",
+    "time_of_call": "02 May 2025 16:35:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "SIR BERTRAM STEVENS DR, ROYAL NATIONAL PARK 2508",
+    "council_area": "Sutherland",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 May 2025 16:35"
+  },
+  {
+    "title": "KENNEDYS RD, BAROOGA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600647",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.8910980219999",
+    "longitude": "145.731506347",
+    "region": "nsw",
+    "time_of_call": "02 May 2025 16:45:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "KENNEDYS RD, BAROOGA 3644",
+    "council_area": "Berrigan",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 May 2025 16:45"
   }
 ]
