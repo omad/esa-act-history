@@ -105,13 +105,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "03 May 2025 08:31:37",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "03 May 2025 08:35:03"
+    "updated": "03 May 2025 09:46:06"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "03 May 2025 09:24:56"
+    "updated": "03 May 2025 09:42:34"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "03 May 2025 09:12:19"
+    "updated": "03 May 2025 09:42:49"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "03 May 2025 09:31:17"
+    "updated": "03 May 2025 09:41:26"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +213,13 @@
     "longitude": "149.07225618",
     "region": "act",
     "time_of_call": "03 May 2025 09:18:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "WYBALENA GROVE, WYBALENA GROVE, COOK, 2614",
-    "updated": "03 May 2025 09:23:58"
+    "updated": "03 May 2025 09:42:21"
   },
   {
     "agency": "Ambulance",
@@ -579,28 +579,6 @@
     "updated": "2 May 2025 22:17"
   },
   {
-    "title": "PACIFIC HWY, PIMLICO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600695",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.889253616",
-    "longitude": "153.482330322",
-    "region": "nsw",
-    "time_of_call": "03 May 2025 09:14:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, PIMLICO 2478",
-    "council_area": "Ballina",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 May 2025 09:14"
-  },
-  {
     "title": "BRONZEWING ST, TAHMOOR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600696",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -608,19 +586,39 @@
     "latitude": "-34.225433349",
     "longitude": "150.577453614",
     "region": "nsw",
-    "time_of_call": "03 May 2025 09:09:00",
+    "time_of_call": "03 May 2025 09:47:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BRONZEWING ST, TAHMOOR 2573",
     "council_area": "Wollondilly",
-    "type": "Other",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 May 2025 09:09"
+    "updated": "3 May 2025 09:47"
+  },
+  {
+    "title": "KINGS HWY, CURROWAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600697",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.5871849059999",
+    "longitude": "150.056549073",
+    "region": "nsw",
+    "time_of_call": "03 May 2025 09:46:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "KINGS HWY, CURROWAN 2536",
+    "council_area": "Eurobodalla",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 May 2025 09:46"
   },
   {
     "title": "WOY WOY RD, KARIONG",
@@ -643,25 +641,45 @@
     "updated": "3 May 2025 09:03"
   },
   {
-    "title": "NEWMANS RD, WOOLGOOLGA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600701",
+    "title": "IRRAWANG RD, GLOUCESTER",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600699",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.103221893",
-    "longitude": "153.17123413",
+    "latitude": "-31.989740372",
+    "longitude": "151.948425293",
     "region": "nsw",
-    "time_of_call": "03 May 2025 09:14:00",
+    "time_of_call": "03 May 2025 09:03:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "240 NEWMANS RD, WOOLGOOLGA 2456",
-    "council_area": "Coffs Harbour",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "location": "4 IRRAWANG RD, GLOUCESTER 2422",
+    "council_area": "Mid-Coast",
+    "type": "Assist Other Agency",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 May 2025 09:14"
+    "updated": "3 May 2025 09:03"
+  },
+  {
+    "title": "ROBERTS RD, GRATTAI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600700",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.7126464839999",
+    "longitude": "149.532196045",
+    "region": "nsw",
+    "time_of_call": "03 May 2025 09:09:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "214B ROBERTS RD, GRATTAI 2850",
+    "council_area": "Mid-Western",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 May 2025 09:09"
   }
 ]
