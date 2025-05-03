@@ -60,6 +60,26 @@
     "updated": "03 May 2025 18:27:59"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STRUCTURE FIRE - HUGHES",
+    "id": "007034-04052025",
+    "latitude": "-35.331466",
+    "longitude": "149.0928629",
+    "region": "act",
+    "time_of_call": "04 May 2025 02:45:56",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "STRUCTURE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
+    "location": "GROOM STREET, HUGHES, 2605",
+    "updated": "04 May 2025 02:49:25"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -125,13 +145,13 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "03 May 2025 23:04:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "04 May 2025 02:14:38"
+    "updated": "04 May 2025 02:29:43"
   },
   {
     "agency": "Ambulance",
@@ -167,7 +187,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "04 May 2025 01:17:03"
+    "updated": "04 May 2025 02:43:26"
   },
   {
     "agency": "Ambulance",
@@ -281,42 +301,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WHITLAM",
-    "id": "028032-04052025",
-    "latitude": "-35.277508",
-    "longitude": "149.033417",
-    "region": "act",
-    "time_of_call": "04 May 2025 01:03:33",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WHITLAM",
-    "updated": "04 May 2025 02:04:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DEAKIN",
-    "id": "028033-04052025",
-    "latitude": "-35.319944",
-    "longitude": "149.101598",
-    "region": "act",
-    "time_of_call": "04 May 2025 01:10:27",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DEAKIN",
-    "updated": "04 May 2025 01:53:58"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - TURNER",
     "id": "028036-04052025",
     "latitude": "-35.269392",
@@ -347,25 +331,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "04 May 2025 02:19:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "028039-04052025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "04 May 2025 01:23:41",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "04 May 2025 02:04:37"
+    "updated": "04 May 2025 02:38:05"
   },
   {
     "agency": "Ambulance",
@@ -402,6 +368,44 @@
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
     "updated": "04 May 2025 02:13:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STRUCTURE FIRE - HUGHES",
+    "id": "028047-04052025",
+    "latitude": "-35.331466",
+    "longitude": "149.0928629",
+    "region": "act",
+    "time_of_call": "04 May 2025 02:45:57",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "STRUCTURE FIRE",
+    "type_description": "",
+    "type_icon": "",
+    "location": "GROOM STREET, HUGHES, 2605",
+    "updated": "04 May 2025 02:48:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "028048-04052025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "04 May 2025 02:49:17",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "04 May 2025 02:50:00"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -677,9 +681,9 @@
     "latitude": "-33.8294067379999",
     "longitude": "148.709869385",
     "region": "nsw",
-    "time_of_call": "04 May 2025 02:12:00",
+    "time_of_call": "04 May 2025 02:31:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "MID WESTERN HWY, COWRA 2794",
     "council_area": "Cowra",
@@ -689,6 +693,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 May 2025 02:12"
+    "updated": "4 May 2025 02:31"
   }
 ]
