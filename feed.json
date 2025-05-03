@@ -75,7 +75,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "04 May 2025 07:05:43"
+    "updated": "04 May 2025 07:30:16"
   },
   {
     "agency": "Ambulance",
@@ -123,13 +123,13 @@
     "longitude": "149.100249",
     "region": "act",
     "time_of_call": "04 May 2025 07:09:31",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "04 May 2025 07:12:53"
+    "updated": "04 May 2025 07:22:01"
   },
   {
     "agency": "Ambulance",
@@ -141,13 +141,13 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "04 May 2025 07:10:55",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "04 May 2025 07:20:08"
+    "updated": "04 May 2025 07:27:20"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +165,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "04 May 2025 07:19:40"
+    "updated": "04 May 2025 07:31:05"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "04 May 2025 07:21:29"
+    "updated": "04 May 2025 07:26:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "028070-04052025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "04 May 2025 07:29:57",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "04 May 2025 07:31:46"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -403,5 +421,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 May 2025 22:51"
+  },
+  {
+    "title": "WILCANNIA HOSPITAL ROSS ST, WILCANNIA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600792",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.5576534269999",
+    "longitude": "143.385437012",
+    "region": "nsw",
+    "time_of_call": "04 May 2025 07:26:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WILCANNIA HOSPITAL ROSS ST, WILCANNIA 2836",
+    "council_area": "Central Darling",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 May 2025 07:26"
   }
 ]
