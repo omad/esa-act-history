@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "BILLA SPRINGS, TIDBINBILLA ROAD, THARWA, 2620",
-    "updated": "04 May 2025 09:29:54"
+    "updated": "04 May 2025 09:46:07"
   },
   {
     "agency": "Fire",
@@ -77,7 +77,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "NETTLEFOLD STREET, BELCONNEN, 2617",
-    "updated": "04 May 2025 09:17:48"
+    "updated": "04 May 2025 09:41:36"
   },
   {
     "agency": "Ambulance",
@@ -167,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "OXLEY",
-    "updated": "04 May 2025 09:29:07"
+    "updated": "04 May 2025 09:46:04"
   },
   {
     "agency": "Ambulance",
@@ -185,7 +185,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "04 May 2025 09:24:02"
+    "updated": "04 May 2025 09:43:44"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "04 May 2025 09:29:34"
+    "updated": "04 May 2025 09:43:23"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +221,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "04 May 2025 09:21:59"
+    "updated": "04 May 2025 09:36:59"
   },
   {
     "agency": "Ambulance",
@@ -251,13 +251,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "04 May 2025 09:24:37",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "04 May 2025 09:28:23"
+    "updated": "04 May 2025 09:35:21"
   },
   {
     "agency": "Ambulance",
@@ -275,7 +275,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "04 May 2025 09:32:03"
+    "updated": "04 May 2025 09:37:29"
   },
   {
     "agency": "Ambulance",
@@ -293,7 +293,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "04 May 2025 09:32:40"
+    "updated": "04 May 2025 09:38:24"
   },
   {
     "agency": "Ambulance",
@@ -305,13 +305,31 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "04 May 2025 09:32:51",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "04 May 2025 09:32:53"
+    "updated": "04 May 2025 09:36:12"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "028091-04052025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "04 May 2025 09:41:04",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "04 May 2025 09:47:19"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -604,18 +622,40 @@
     "latitude": "-33.6677246089999",
     "longitude": "151.000732422",
     "region": "nsw",
-    "time_of_call": "04 May 2025 09:26:00",
+    "time_of_call": "04 May 2025 09:35:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "2 JONES RD, KENTHURST 2156",
     "council_area": "The Hills",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 May 2025 09:35"
+  },
+  {
+    "title": "DARVILL RD, ORCHARD HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600799",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.79529953",
+    "longitude": "150.732437133",
+    "region": "nsw",
+    "time_of_call": "04 May 2025 09:46:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "DARVILL RD, ORCHARD HILLS 2748",
+    "council_area": "Penrith",
     "type": "Other",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 May 2025 09:26"
+    "updated": "4 May 2025 09:46"
   }
 ]
