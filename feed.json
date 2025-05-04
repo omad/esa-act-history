@@ -85,13 +85,31 @@
     "longitude": "149.079717",
     "region": "act",
     "time_of_call": "05 May 2025 02:24:02",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "05 May 2025 02:28:17"
+    "updated": "05 May 2025 02:48:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLYNN",
+    "id": "028243-05052025",
+    "latitude": "-35.207317",
+    "longitude": "149.042983",
+    "region": "act",
+    "time_of_call": "05 May 2025 02:46:24",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLYNN",
+    "updated": "05 May 2025 02:49:27"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -446,10 +464,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600853",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.3748301109999",
-    "longitude": "148.015234709",
+    "latitude": "-33.374828339",
+    "longitude": "148.015228271",
     "region": "nsw",
-    "time_of_call": "05 May 2025 01:57:00",
+    "time_of_call": "05 May 2025 02:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -461,7 +479,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 May 2025 01:57"
+    "updated": "5 May 2025 02:41"
   },
   {
     "title": "AWABA RD, DORA CREEK",
@@ -484,27 +502,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 May 2025 01:20"
-  },
-  {
-    "title": "PACIFIC HWY, POSSUM BRUSH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600858",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.065666199",
-    "longitude": "152.440093994",
-    "region": "nsw",
-    "time_of_call": "05 May 2025 01:59:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, POSSUM BRUSH 2430",
-    "council_area": "Mid-Coast",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 May 2025 01:59"
   }
 ]
