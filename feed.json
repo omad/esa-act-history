@@ -63,26 +63,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "HOUSE FIRE - MACGREGOR",
-    "id": "007050-04052025",
-    "latitude": "-35.2135393599",
-    "longitude": "149.0191754299",
-    "region": "act",
-    "time_of_call": "04 May 2025 15:59:58",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "HOUSE FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
-    "location": "HAYWARD PLACE, MACGREGOR, 2615",
-    "updated": "04 May 2025 16:31:37"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "STRUCTURE FIRE - OAKS ESTATE",
     "id": "007051-04052025",
     "latitude": "-35.34050542",
@@ -116,24 +96,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
     "updated": "04 May 2025 09:58:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HUGHES",
-    "id": "028128-04052025",
-    "latitude": "-35.333105",
-    "longitude": "149.094654",
-    "region": "act",
-    "time_of_call": "04 May 2025 13:15:03",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HUGHES",
-    "updated": "04 May 2025 16:59:49"
   },
   {
     "agency": "Ambulance",
@@ -193,37 +155,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BONYTHON",
-    "id": "028146-04052025",
-    "latitude": "-35.435736",
-    "longitude": "149.081053",
-    "region": "act",
-    "time_of_call": "04 May 2025 14:26:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BONYTHON",
-    "updated": "04 May 2025 16:55:13"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HOLT",
     "id": "028160-04052025",
     "latitude": "-35.224201",
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "04 May 2025 15:28:58",
-    "status": "Resource Allocation Pending",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "04 May 2025 17:17:40"
+    "updated": "04 May 2025 17:42:04"
   },
   {
     "agency": "Ambulance",
@@ -260,24 +204,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
     "updated": "04 May 2025 16:50:20"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HAWKER",
-    "id": "028166-04052025",
-    "latitude": "-35.246757",
-    "longitude": "149.03611",
-    "region": "act",
-    "time_of_call": "04 May 2025 15:58:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HAWKER",
-    "updated": "04 May 2025 17:06:33"
   },
   {
     "agency": "Ambulance",
@@ -333,7 +259,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "04 May 2025 17:20:51"
+    "updated": "04 May 2025 17:41:55"
   },
   {
     "agency": "Ambulance",
@@ -387,7 +313,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": ""
+    "updated": "04 May 2025 17:45:40"
   },
   {
     "agency": "Ambulance",
@@ -405,7 +331,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "04 May 2025 17:29:39"
+    "updated": "04 May 2025 17:48:50"
   },
   {
     "agency": "Ambulance",
@@ -435,13 +361,31 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "04 May 2025 17:27:07",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "04 May 2025 17:47:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "028191-04052025",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "04 May 2025 17:46:45",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "04 May 2025 17:29:11"
+    "location": "MONASH",
+    "updated": "04 May 2025 17:48:37"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -574,31 +518,6 @@
     "updated": "3 May 2025 23:19"
   },
   {
-    "title": "BLATCHES LANE, BOURNEWOOD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600619",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.7739753719999",
-    "longitude": "148.728836059",
-    "region": "nsw",
-    "time_of_call": "03 May 2025 23:15:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "392 BLATCHES LANE, BOURNEWOOD 2868",
-    "council_area": "Dubbo Regional",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 May 2025 23:15"
-  },
-  {
     "title": "TARCUTTA BY PASS HUME HWY HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600640",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -694,9 +613,9 @@
     "latitude": "-31.909223556",
     "longitude": "151.066253662",
     "region": "nsw",
-    "time_of_call": "04 May 2025 13:15:00",
+    "time_of_call": "04 May 2025 17:29:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1125 WAVERLEY RD, WAVERLY 2337",
     "council_area": "Upper Hunter",
@@ -706,7 +625,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 May 2025 13:15"
+    "updated": "4 May 2025 17:29"
   },
   {
     "title": "OAKES RD, GRIFFITH",
@@ -758,9 +677,9 @@
     "latitude": "-28.339269638",
     "longitude": "153.568786621",
     "region": "nsw",
-    "time_of_call": "04 May 2025 15:14:00",
+    "time_of_call": "04 May 2025 17:47:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "38 TI TREE AV, BOGANGAR 2488",
     "council_area": "Tweed",
@@ -770,7 +689,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 May 2025 15:14"
+    "updated": "4 May 2025 17:47"
   },
   {
     "title": "WOY WOY RD, WOY WOY BAY",
@@ -793,28 +712,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "4 May 2025 17:10"
-  },
-  {
-    "title": "BOX RIDGE TURONDALE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600833",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.09664917",
-    "longitude": "149.561569214",
-    "region": "nsw",
-    "time_of_call": "04 May 2025 17:08:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "476 BOX RIDGE TURONDALE 2795",
-    "council_area": "Bathurst",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 May 2025 17:08"
   },
   {
     "title": "HACKNEY AV, BOX HILL",
