@@ -155,24 +155,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - EVATT",
-    "id": "028445-06052025",
-    "latitude": "-35.212001",
-    "longitude": "149.066294",
-    "region": "act",
-    "time_of_call": "06 May 2025 04:34:39",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "EVATT",
-    "updated": "06 May 2025 05:15:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - REID",
     "id": "028446-06052025",
     "latitude": "-35.281706",
@@ -185,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "06 May 2025 05:26:04"
+    "updated": "06 May 2025 05:37:58"
   },
   {
     "agency": "Ambulance",
@@ -197,13 +179,31 @@
     "longitude": "149.036831",
     "region": "act",
     "time_of_call": "06 May 2025 05:26:46",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHAPMAN",
+    "updated": "06 May 2025 05:40:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "028448-06052025",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "06 May 2025 05:37:14",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CHAPMAN",
-    "updated": "06 May 2025 05:28:26"
+    "location": "PALMERSTON",
+    "updated": "06 May 2025 05:43:09"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -490,26 +490,6 @@
     "updated": "5 May 2025 19:27"
   },
   {
-    "title": "NEWELL HWY, GRONG GRONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600940",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.7275238029999",
-    "longitude": "146.782714844",
-    "region": "nsw",
-    "time_of_call": "06 May 2025 04:58:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "NEWELL HWY, GRONG GRONG 2652",
-    "council_area": "Narrandera",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 May 2025 04:58"
-  },
-  {
     "title": "SHOALHAVEN ST",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600941",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -530,5 +510,25 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "6 May 2025 05:23"
+  },
+  {
+    "title": "FINDLAY AV, CHAIN VALLEY BAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600942",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.1655769349999",
+    "longitude": "151.577682495",
+    "region": "nsw",
+    "time_of_call": "06 May 2025 05:45:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "FINDLAY AV, CHAIN VALLEY BAY 2259",
+    "council_area": "Central Coast",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 May 2025 05:45"
   }
 ]
