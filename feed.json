@@ -77,7 +77,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "BIRDWOOD STREET, HUGHES, 2605",
-    "updated": "05 May 2025 19:12:05"
+    "updated": "05 May 2025 19:33:03"
   },
   {
     "agency": "Fire - Ambulance",
@@ -100,7 +100,7 @@
     "updated": "05 May 2025 19:26:54"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - CANBERRA CENTRAL",
@@ -159,24 +159,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DEAKIN",
-    "id": "028388-05052025",
-    "latitude": "-35.319944",
-    "longitude": "149.101598",
-    "region": "act",
-    "time_of_call": "05 May 2025 17:47:21",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DEAKIN",
-    "updated": "05 May 2025 18:58:12"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BRADDON",
     "id": "028394-05052025",
     "latitude": "-35.270314",
@@ -225,7 +207,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "05 May 2025 19:21:10"
+    "updated": "05 May 2025 19:33:31"
   },
   {
     "agency": "Ambulance",
@@ -237,13 +219,13 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "05 May 2025 19:00:12",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "05 May 2025 19:16:02"
+    "updated": "05 May 2025 19:37:49"
   },
   {
     "agency": "Ambulance",
@@ -273,13 +255,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "05 May 2025 19:05:39",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "05 May 2025 19:11:55"
+    "updated": "05 May 2025 19:48:34"
   },
   {
     "agency": "Ambulance",
@@ -297,7 +279,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "05 May 2025 19:27:51"
+    "updated": "05 May 2025 19:34:40"
   },
   {
     "agency": "Ambulance",
@@ -315,7 +297,79 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "05 May 2025 19:27:30"
+    "updated": "05 May 2025 19:31:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SCULLIN",
+    "id": "028407-05052025",
+    "latitude": "-35.235868",
+    "longitude": "149.037677",
+    "region": "act",
+    "time_of_call": "05 May 2025 19:31:34",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SCULLIN",
+    "updated": "05 May 2025 19:33:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "028408-05052025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "05 May 2025 19:34:21",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "05 May 2025 19:42:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "028409-05052025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "05 May 2025 19:41:08",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "05 May 2025 19:44:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "028410-05052025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "05 May 2025 19:43:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "05 May 2025 19:46:07"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -609,7 +663,7 @@
     "latitude": "-36.103534698",
     "longitude": "144.772247315",
     "region": "nsw",
-    "time_of_call": "05 May 2025 17:17:00",
+    "time_of_call": "05 May 2025 19:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -621,7 +675,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 May 2025 17:17"
+    "updated": "5 May 2025 19:42"
   },
   {
     "title": "TUMBURRA ST, INGLESIDE",
@@ -651,9 +705,9 @@
     "latitude": "-33.984279632",
     "longitude": "150.992797851",
     "region": "nsw",
-    "time_of_call": "05 May 2025 19:12:00",
+    "time_of_call": "05 May 2025 19:35:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "ST GEORGE CR, MENAI 2234",
     "council_area": "Sutherland",
@@ -663,29 +717,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 May 2025 19:12"
-  },
-  {
-    "title": "ELIZABETH DR, VINCENTIA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600925",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.069454193",
-    "longitude": "150.675292969",
-    "region": "nsw",
-    "time_of_call": "05 May 2025 19:13:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "ELIZABETH DR, VINCENTIA 2540",
-    "council_area": "Shoalhaven",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 May 2025 19:13"
+    "updated": "5 May 2025 19:35"
   },
   {
     "title": "BOORAWA ST, YOUNG",
@@ -695,9 +727,9 @@
     "latitude": "-34.3110733029999",
     "longitude": "148.289611817",
     "region": "nsw",
-    "time_of_call": "05 May 2025 19:18:00",
+    "time_of_call": "05 May 2025 19:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BIG W YOUNG 137 BOORAWA ST, YOUNG 2594",
     "council_area": "Hilltops",
@@ -707,6 +739,50 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 May 2025 19:18"
+    "updated": "5 May 2025 19:27"
+  },
+  {
+    "title": "WATTLE ST, WEETHALLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600927",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.881210327",
+    "longitude": "146.622924805",
+    "region": "nsw",
+    "time_of_call": "05 May 2025 19:27:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "49 WATTLE ST, WEETHALLE 2669",
+    "council_area": "Bland",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 May 2025 19:27"
+  },
+  {
+    "title": "CARRABUNGLA RD, ROSLYN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600928",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.4773445129999",
+    "longitude": "149.635910034",
+    "region": "nsw",
+    "time_of_call": "05 May 2025 19:41:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PATMOS PARK 378 CARRABUNGLA RD, ROSLYN 2580",
+    "council_area": "Upper Lachlan",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 May 2025 19:41"
   }
 ]
