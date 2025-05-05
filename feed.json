@@ -77,27 +77,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "BIRDWOOD STREET, HUGHES, 2605",
-    "updated": "05 May 2025 15:46:40"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - BARTON",
-    "id": "007098-05052025",
-    "latitude": "-35.3097381592",
-    "longitude": "149.139755249",
-    "region": "act",
-    "time_of_call": "05 May 2025 15:16:47",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "BRISBANE AVENUE, WENTWORTH AVENUE, BARTON, 2600",
-    "updated": "05 May 2025 15:50:15"
+    "updated": "05 May 2025 16:49:19"
   },
   {
     "agency": "Fire - Ambulance",
@@ -263,7 +243,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "05 May 2025 16:27:50"
+    "updated": "05 May 2025 16:44:28"
   },
   {
     "agency": "Ambulance",
@@ -281,7 +261,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "05 May 2025 16:33:02"
+    "updated": "05 May 2025 16:46:44"
   },
   {
     "agency": "Ambulance",
@@ -347,13 +327,49 @@
     "longitude": "149.101598",
     "region": "act",
     "time_of_call": "05 May 2025 16:27:18",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "05 May 2025 16:49:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "028380-05052025",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "05 May 2025 16:50:59",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "05 May 2025 16:51:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "028381-05052025",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "05 May 2025 16:52:42",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "DEAKIN",
-    "updated": "05 May 2025 16:30:01"
+    "location": "TAYLOR",
+    "updated": "05 May 2025 16:52:45"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -493,7 +509,7 @@
     "latitude": "-35.776460856",
     "longitude": "147.793493271",
     "region": "nsw",
-    "time_of_call": "05 May 2025 11:45:00",
+    "time_of_call": "05 May 2025 16:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -505,7 +521,7 @@
     "fire": "Yes",
     "size": "300 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "5 May 2025 11:45"
+    "updated": "5 May 2025 16:35"
   },
   {
     "title": "TARCUTTA BY PASS HUME HWY HR",
@@ -687,28 +703,6 @@
     "updated": "5 May 2025 16:33"
   },
   {
-    "title": "BUNGOWANNAH RD, JINDERA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600900",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.9839897159999",
-    "longitude": "146.838821411",
-    "region": "nsw",
-    "time_of_call": "05 May 2025 15:43:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WILLOW GROVE 541 BUNGOWANNAH RD, JINDERA 2642",
-    "council_area": "Greater Hume",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 May 2025 15:43"
-  },
-  {
     "title": "CHIFLEY RD, CLARENCE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600901",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -716,9 +710,9 @@
     "latitude": "-33.485679627",
     "longitude": "150.189849854",
     "region": "nsw",
-    "time_of_call": "05 May 2025 16:13:00",
+    "time_of_call": "05 May 2025 16:40:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "CHIFLEY RD, CLARENCE 2790",
     "council_area": "Lithgow",
@@ -726,15 +720,15 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 May 2025 16:13"
+    "updated": "5 May 2025 16:40"
   },
   {
     "title": "THUNDERBOLTS WAY, SALISBURY PLAINS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600903",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.788217545",
-    "longitude": "151.540695191",
+    "latitude": "-30.714721679",
+    "longitude": "151.509597778",
     "region": "nsw",
     "time_of_call": "05 May 2025 16:14:00",
     "event_type": "burnt area",
@@ -758,7 +752,7 @@
     "latitude": "-31.0100898749999",
     "longitude": "149.365005493",
     "region": "nsw",
-    "time_of_call": "05 May 2025 16:18:00",
+    "time_of_call": "05 May 2025 16:45:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
@@ -770,7 +764,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 May 2025 16:18"
+    "updated": "5 May 2025 16:45"
   },
   {
     "title": "ROCKY WATERHOLE RD, PEELWOOD",
@@ -795,25 +789,25 @@
     "updated": "5 May 2025 16:27"
   },
   {
-    "title": "SPARKS RD, JILLIBY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600906",
+    "title": "FLOYD PL, HELENSBURGH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600907",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.2254028319999",
-    "longitude": "151.417022705",
+    "latitude": "-34.2010307309999",
+    "longitude": "150.982513428",
     "region": "nsw",
-    "time_of_call": "05 May 2025 16:27:00",
+    "time_of_call": "05 May 2025 16:40:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "SPARKS RD, JILLIBY 2259",
-    "council_area": "Central Coast",
-    "type": "Other",
+    "location": "FLOYD PL, HELENSBURGH 2508",
+    "council_area": "Wollongong",
+    "type": "Grass Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 May 2025 16:27"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 May 2025 16:40"
   }
 ]
