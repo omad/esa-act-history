@@ -77,7 +77,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "ZWAR PLACE, FLOREY, 2615",
-    "updated": "06 May 2025 02:25:33"
+    "updated": "06 May 2025 02:33:13"
   },
   {
     "agency": "Ambulance",
@@ -137,37 +137,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LATHAM",
-    "id": "028436-06052025",
-    "latitude": "-35.217781",
-    "longitude": "149.034875",
-    "region": "act",
-    "time_of_call": "06 May 2025 01:34:12",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LATHAM",
-    "updated": "06 May 2025 02:18:10"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - ACTON",
     "id": "028437-06052025",
     "latitude": "-35.289989",
     "longitude": "149.115669",
     "region": "act",
     "time_of_call": "06 May 2025 01:57:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
-    "updated": "06 May 2025 02:32:40"
+    "updated": "06 May 2025 02:47:32"
   },
   {
     "agency": "Ambulance",
@@ -185,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "06 May 2025 02:30:19"
+    "updated": "06 May 2025 02:37:04"
   },
   {
     "agency": "Ambulance",
@@ -197,13 +179,31 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "06 May 2025 02:18:31",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "06 May 2025 02:22:27"
+    "updated": "06 May 2025 02:35:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUGHES",
+    "id": "028440-06052025",
+    "latitude": "-35.333105",
+    "longitude": "149.094654",
+    "region": "act",
+    "time_of_call": "06 May 2025 02:42:13",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUGHES",
+    "updated": "06 May 2025 02:51:15"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -512,23 +512,23 @@
     "updated": "5 May 2025 21:24"
   },
   {
-    "title": "WOLLOMBI RD, BISHOPS BRIDGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600934",
+    "title": "BELUGA DR, CAMERON PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_600939",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.745639801",
-    "longitude": "151.470504761",
+    "latitude": "-32.906528473",
+    "longitude": "151.62059021",
     "region": "nsw",
-    "time_of_call": "06 May 2025 02:24:00",
+    "time_of_call": "06 May 2025 02:46:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "616 WOLLOMBI RD, BISHOPS BRIDGE 2326",
-    "council_area": "Maitland",
+    "location": "BELUGA DR, CAMERON PARK 2285",
+    "council_area": "Lake Macquarie",
     "type": "Car Fire",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 May 2025 02:24"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "6 May 2025 02:46"
   }
 ]
