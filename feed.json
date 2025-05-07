@@ -95,7 +95,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "08 May 2025 03:14:50"
+    "updated": "08 May 2025 03:44:29"
   },
   {
     "agency": "Ambulance",
@@ -197,13 +197,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "08 May 2025 03:14:32",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "08 May 2025 03:18:06"
+    "updated": "08 May 2025 03:47:42"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +221,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": "08 May 2025 03:32:33"
+    "updated": "08 May 2025 03:46:02"
   },
   {
     "agency": "Ambulance",
@@ -898,7 +898,7 @@
     "latitude": "-30.6623897549999",
     "longitude": "152.95640564",
     "region": "nsw",
-    "time_of_call": "08 May 2025 03:35:00",
+    "time_of_call": "08 May 2025 03:43:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
@@ -908,26 +908,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 May 2025 03:35"
+    "updated": "8 May 2025 03:43"
   },
   {
-    "title": "PACIFIC HWY, NORTH MACKSVILLE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601110",
+    "title": "Whitton St, Narrandera",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601111",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.701189041",
-    "longitude": "152.941528321",
+    "latitude": "-34.741418",
+    "longitude": "146.557326",
     "region": "nsw",
-    "time_of_call": "08 May 2025 03:26:00",
+    "time_of_call": "08 May 2025 03:46:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, NORTH MACKSVILLE 2447",
-    "council_area": "Nambucca",
-    "type": "Car Fire",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "60 Whitton St, Narrandera, NSW 2700",
+    "council_area": "Narrandera",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 May 2025 03:26"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "8 May 2025 03:46"
   }
 ]
