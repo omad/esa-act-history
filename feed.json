@@ -95,7 +95,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "08 May 2025 03:44:29"
+    "updated": "08 May 2025 04:03:09"
   },
   {
     "agency": "Ambulance",
@@ -149,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "08 May 2025 03:37:34"
+    "updated": "08 May 2025 04:24:21"
   },
   {
     "agency": "Ambulance",
@@ -167,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "08 May 2025 03:19:17"
+    "updated": "08 May 2025 04:18:35"
   },
   {
     "agency": "Ambulance",
@@ -197,13 +197,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "08 May 2025 03:14:32",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "08 May 2025 03:47:42"
+    "updated": "08 May 2025 04:24:14"
   },
   {
     "agency": "Ambulance",
@@ -240,6 +240,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
     "updated": "08 May 2025 03:37:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WEETANGERA",
+    "id": "028974-08052025",
+    "latitude": "-35.249342",
+    "longitude": "149.049485",
+    "region": "act",
+    "time_of_call": "08 May 2025 04:13:24",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WEETANGERA",
+    "updated": "08 May 2025 04:24:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "028975-08052025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "08 May 2025 04:27:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "08 May 2025 04:32:56"
   },
   {
     "title": "Falnash HRB",
@@ -869,6 +905,31 @@
     "updated": "8 May 2025 01:00"
   },
   {
+    "title": "WHITTON DARLINGTON POINT RD, WHITTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601107",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.597686767",
+    "longitude": "146.160186767",
+    "region": "nsw",
+    "time_of_call": "08 May 2025 03:49:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "WHITTON DARLINGTON POINT RD, WHITTON 2705",
+    "council_area": "Leeton",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 May 2025 03:49"
+  },
+  {
     "title": "SHANE PARK RD, SHANES PARK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601108",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -911,21 +972,21 @@
     "updated": "8 May 2025 03:43"
   },
   {
-    "title": "Whitton St, Narrandera",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601111",
+    "title": "Ferrier St, Narrandera",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601112",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.741418",
-    "longitude": "146.557326",
+    "latitude": "-34.74",
+    "longitude": "146.561",
     "region": "nsw",
-    "time_of_call": "08 May 2025 03:46:00",
+    "time_of_call": "08 May 2025 04:31:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "60 Whitton St, Narrandera, NSW 2700",
+    "location": "Ferrier St, Narrandera, NSW 2700",
     "council_area": "Narrandera",
     "type": "Grass Fire",
     "type_description": "",
@@ -933,6 +994,48 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 May 2025 03:46"
+    "updated": "8 May 2025 04:31"
+  },
+  {
+    "title": "MARROWBONE RD, POKOLBIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601114",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8220710749999",
+    "longitude": "151.2918396",
+    "region": "nsw",
+    "time_of_call": "08 May 2025 04:21:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "MARROWBONE RD, POKOLBIN 2320",
+    "council_area": "Cessnock",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 May 2025 04:21"
+  },
+  {
+    "title": "BROKE RD, POKOLBIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601116",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.754009246",
+    "longitude": "151.252853394",
+    "region": "nsw",
+    "time_of_call": "08 May 2025 04:31:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BROKE RD, POKOLBIN 2320",
+    "council_area": "Cessnock",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 May 2025 04:31"
   }
 ]
