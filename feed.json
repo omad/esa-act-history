@@ -109,15 +109,15 @@
     "longitude": "149.13212",
     "region": "act",
     "time_of_call": "08 May 2025 09:23:54",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "NATIONAL CIRCUIT, SYDNEY AVENUE, BARTON, 2600",
-    "updated": "08 May 2025 09:28:11"
+    "updated": "08 May 2025 09:37:23"
   },
   {
     "agency": "Ambulance",
@@ -153,7 +153,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "08 May 2025 09:26:43"
+    "updated": "08 May 2025 09:41:36"
   },
   {
     "agency": "Ambulance",
@@ -195,24 +195,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AINSLIE",
-    "id": "028995-08052025",
-    "latitude": "-35.262117",
-    "longitude": "149.144037",
-    "region": "act",
-    "time_of_call": "08 May 2025 07:56:19",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "AINSLIE",
-    "updated": "08 May 2025 09:32:03"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - STIRLING",
     "id": "028997-08052025",
     "latitude": "-35.351472",
@@ -226,24 +208,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
     "updated": "08 May 2025 09:33:13"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
-    "id": "029000-08052025",
-    "latitude": "-35.425091",
-    "longitude": "149.088064",
-    "region": "act",
-    "time_of_call": "08 May 2025 08:11:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "ISABELLA PLAINS",
-    "updated": "08 May 2025 09:13:54"
   },
   {
     "agency": "Ambulance",
@@ -273,13 +237,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "08 May 2025 08:48:06",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "08 May 2025 09:25:28"
+    "updated": "08 May 2025 09:45:13"
   },
   {
     "agency": "Ambulance",
@@ -399,13 +363,67 @@
     "longitude": "149.12506",
     "region": "act",
     "time_of_call": "08 May 2025 09:25:24",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FORREST",
+    "updated": "08 May 2025 09:44:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "029024-08052025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "08 May 2025 09:40:21",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "08 May 2025 09:47:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "029026-08052025",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "08 May 2025 09:42:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "08 May 2025 09:47:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "029027-08052025",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "08 May 2025 09:43:56",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "FORREST",
-    "updated": "08 May 2025 09:33:27"
+    "location": "PAGE",
+    "updated": "08 May 2025 09:48:53"
   },
   {
     "title": "Falnash HRB",
@@ -611,7 +629,7 @@
     "latitude": "-34.11754109",
     "longitude": "142.611090909",
     "region": "nsw",
-    "time_of_call": "07 May 2025 18:23:00",
+    "time_of_call": "08 May 2025 09:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -623,7 +641,7 @@
     "fire": "Yes",
     "size": "80 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "7 May 2025 18:23"
+    "updated": "8 May 2025 09:38"
   },
   {
     "title": "Homestead Trail (West) HR",
@@ -633,7 +651,7 @@
     "latitude": "-34.1845418309999",
     "longitude": "142.654848969",
     "region": "nsw",
-    "time_of_call": "07 May 2025 18:25:00",
+    "time_of_call": "08 May 2025 09:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -645,7 +663,7 @@
     "fire": "Yes",
     "size": "98 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "7 May 2025 18:25"
+    "updated": "8 May 2025 09:43"
   },
   {
     "title": "Stringybark HR",
@@ -1039,7 +1057,7 @@
     "latitude": "-33.53863144",
     "longitude": "151.198883057",
     "region": "nsw",
-    "time_of_call": "08 May 2025 08:05:00",
+    "time_of_call": "08 May 2025 09:45:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
@@ -1051,7 +1069,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 May 2025 08:05"
+    "updated": "8 May 2025 09:45"
   },
   {
     "title": "NICHOLAS GR, ROSEDALE",
@@ -1061,9 +1079,9 @@
     "latitude": "-35.8219451909999",
     "longitude": "150.219039918",
     "region": "nsw",
-    "time_of_call": "08 May 2025 09:23:00",
+    "time_of_call": "08 May 2025 09:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "6 NICHOLAS GR, ROSEDALE 2536",
     "council_area": "Eurobodalla",
@@ -1071,24 +1089,24 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 May 2025 09:23"
+    "updated": "8 May 2025 09:40"
   },
   {
-    "title": "GLENELGIN RD, WINMALEE",
+    "title": "Glenelgin Rd, Winmalee",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601125",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
     "latitude": "-33.685195923",
     "longitude": "150.606414795",
     "region": "nsw",
-    "time_of_call": "08 May 2025 09:32:00",
+    "time_of_call": "08 May 2025 09:44:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "30 GLENELGIN RD, WINMALEE 2777",
+    "location": "30 Glenelgin Rd, Winmalee, NSW 2777",
     "council_area": "Blue Mountains",
     "type": "Bush Fire",
     "type_description": "",
@@ -1096,6 +1114,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 May 2025 09:32"
+    "updated": "8 May 2025 09:44"
   }
 ]
