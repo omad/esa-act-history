@@ -181,7 +181,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "11 May 2025 07:20:05"
+    "updated": "11 May 2025 08:25:00"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +193,13 @@
     "longitude": "149.076954",
     "region": "act",
     "time_of_call": "11 May 2025 07:21:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "11 May 2025 08:22:49"
+    "updated": "11 May 2025 08:34:53"
   },
   {
     "agency": "Ambulance",
@@ -271,7 +271,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "11 May 2025 07:55:08"
+    "updated": "11 May 2025 08:28:48"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +289,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "11 May 2025 08:22:48"
+    "updated": "11 May 2025 08:23:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "029848-11052025",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "11 May 2025 08:23:21",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHAPMAN",
+    "updated": "11 May 2025 08:25:59"
   },
   {
     "title": "Falnash HRB",
@@ -409,7 +427,7 @@
     "latitude": "-29.702632904",
     "longitude": "144.150268555",
     "region": "nsw",
-    "time_of_call": "09 May 2025 18:06:00",
+    "time_of_call": "11 May 2025 08:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -419,7 +437,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 May 2025 18:06"
+    "updated": "11 May 2025 08:32"
   },
   {
     "title": "INVERELL LOOKOUT",
@@ -819,28 +837,6 @@
     "updated": "10 May 2025 17:30"
   },
   {
-    "title": "SANDY LANE, THIRLMERE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601347",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.187709809",
-    "longitude": "150.556106567",
-    "region": "nsw",
-    "time_of_call": "10 May 2025 16:51:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "SANDY LANE, THIRLMERE 2572",
-    "council_area": "Wollondilly",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 May 2025 16:51"
-  },
-  {
     "title": "FARLEIGH RESERVE RD, COWRA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601349",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -932,31 +928,6 @@
     "updated": "11 May 2025 00:40"
   },
   {
-    "title": "Byrnes Rd, North Wagga Wagga",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601407",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.1000559999999",
-    "longitude": "147.402699",
-    "region": "nsw",
-    "time_of_call": "11 May 2025 05:51:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Byrnes Rd, North Wagga Wagga, NSW 2650",
-    "council_area": "Wagga Wagga",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 May 2025 05:51"
-  },
-  {
     "title": "FARM RD, COWRA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601411",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -999,5 +970,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 May 2025 08:15"
+  },
+  {
+    "title": "THE AVENUE, HEATHCOTE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601413",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.0812606809999",
+    "longitude": "151.013534546",
+    "region": "nsw",
+    "time_of_call": "11 May 2025 08:22:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "JOHN PAUL VILLAGE 15 THE AVENUE, HEATHCOTE 2233",
+    "council_area": "Sutherland",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "11 May 2025 08:22"
+  },
+  {
+    "title": "GEORGE ST, MOAMA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601414",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.0270729059999",
+    "longitude": "144.960952758",
+    "region": "nsw",
+    "time_of_call": "11 May 2025 08:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "4 GEORGE ST, MOAMA 2731",
+    "council_area": "Murray River",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 May 2025 08:29"
   }
 ]
