@@ -55,7 +55,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "11 May 2025 06:40:33"
+    "updated": "11 May 2025 07:41:02"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "11 May 2025 07:18:36"
+    "updated": "11 May 2025 07:36:57"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "11 May 2025 07:09:33"
+    "updated": "11 May 2025 07:40:22"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "11 May 2025 06:50:33"
+    "updated": "11 May 2025 07:38:46"
   },
   {
     "agency": "Ambulance",
@@ -175,13 +175,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "11 May 2025 06:52:31",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "11 May 2025 07:20:34"
+    "updated": "11 May 2025 07:39:42"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "11 May 2025 07:26:17"
+    "updated": "11 May 2025 07:41:34"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +235,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "11 May 2025 07:27:32"
+    "updated": "11 May 2025 07:33:41"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +247,67 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "11 May 2025 07:24:20",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "11 May 2025 07:40:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "029837-11052025",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "11 May 2025 07:34:24",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "11 May 2025 07:38:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "029840-11052025",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "11 May 2025 07:44:53",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "11 May 2025 07:29:16"
+    "location": "DICKSON",
+    "updated": "11 May 2025 07:47:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "029841-11052025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "11 May 2025 07:45:05",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "11 May 2025 07:46:34"
   },
   {
     "title": "Falnash HRB",
@@ -896,28 +950,6 @@
     "updated": "11 May 2025 00:40"
   },
   {
-    "title": "MID WESTERN HWY, COWRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601405",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.786487579",
-    "longitude": "148.771011352",
-    "region": "nsw",
-    "time_of_call": "11 May 2025 06:30:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MID WESTERN HWY, COWRA 2794",
-    "council_area": "Cowra",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 May 2025 06:30"
-  },
-  {
     "title": "Byrnes Rd, North Wagga Wagga",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601407",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -943,25 +975,25 @@
     "updated": "11 May 2025 05:51"
   },
   {
-    "title": "MONA VALE RD, ST IVES",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601408",
+    "title": "FARM RD, COWRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601411",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.7074279779999",
-    "longitude": "151.182403564",
+    "latitude": "-33.804176331",
+    "longitude": "148.71673584",
     "region": "nsw",
-    "time_of_call": "11 May 2025 06:35:00",
+    "time_of_call": "11 May 2025 07:33:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "MONA VALE RD, ST IVES 2075",
-    "council_area": "Ku-Ring-Gai",
+    "location": "300 FARM RD, COWRA 2794",
+    "council_area": "Cowra",
     "type": "MVA/Transport",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 May 2025 06:35"
+    "updated": "11 May 2025 07:33"
   }
 ]
