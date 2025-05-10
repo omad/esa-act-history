@@ -49,15 +49,15 @@
     "longitude": "149.08787399",
     "region": "act",
     "time_of_call": "11 May 2025 04:30:05",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "DRAKEFORD DRIVE, HURTLE AVENUE, BONYTHON, 2905",
-    "updated": "11 May 2025 04:38:53"
+    "updated": "11 May 2025 04:52:42"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "11 May 2025 04:41:36"
+    "updated": "11 May 2025 05:14:41"
   },
   {
     "agency": "Ambulance",
@@ -130,24 +130,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
     "updated": "11 May 2025 04:11:31"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CONDER",
-    "id": "029795-11052025",
-    "latitude": "-35.458351",
-    "longitude": "149.106348",
-    "region": "act",
-    "time_of_call": "11 May 2025 01:51:13",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CONDER",
-    "updated": "11 May 2025 03:54:04"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "11 May 2025 04:47:21"
+    "updated": "11 May 2025 04:59:01"
   },
   {
     "agency": "Ambulance",
@@ -239,7 +221,43 @@
     "type_description": "",
     "type_icon": "",
     "location": "DRAKEFORD DRIVE, HURTLE AVENUE, BONYTHON, 2905",
-    "updated": "11 May 2025 04:38:01"
+    "updated": "11 May 2025 04:52:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MELBA",
+    "id": "029807-11052025",
+    "latitude": "-35.209077",
+    "longitude": "149.057326",
+    "region": "act",
+    "time_of_call": "11 May 2025 04:51:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MELBA",
+    "updated": "11 May 2025 04:56:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "029808-11052025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "11 May 2025 05:11:09",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "11 May 2025 05:17:11"
   },
   {
     "title": "Falnash HRB",
@@ -882,25 +900,25 @@
     "updated": "11 May 2025 00:40"
   },
   {
-    "title": "FEDERAL HWY, WOLLOGORANG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601403",
+    "title": "MID WESTERN HWY, COWRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601405",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.8722343439999",
-    "longitude": "149.54447937",
+    "latitude": "-33.786487579",
+    "longitude": "148.771011352",
     "region": "nsw",
-    "time_of_call": "11 May 2025 04:31:00",
+    "time_of_call": "11 May 2025 05:09:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "FEDERAL HWY, WOLLOGORANG 2581",
-    "council_area": "Goulburn Mulwaree",
+    "location": "MID WESTERN HWY, COWRA 2794",
+    "council_area": "Cowra",
     "type": "MVA/Transport",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 May 2025 04:31"
+    "updated": "11 May 2025 05:09"
   }
 ]
