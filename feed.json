@@ -79,24 +79,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "029761-10052025",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "10 May 2025 21:55:06",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "11 May 2025 00:13:32"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - THROSBY",
     "id": "029763-10052025",
     "latitude": "-35.187595",
@@ -109,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "11 May 2025 00:34:18"
+    "updated": "11 May 2025 00:48:01"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +109,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "10 May 2025 23:45:27"
+    "updated": "11 May 2025 00:43:16"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "11 May 2025 00:34:36"
+    "updated": "11 May 2025 00:45:29"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +271,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "11 May 2025 00:21:00"
+    "updated": "11 May 2025 00:36:17"
   },
   {
     "agency": "Ambulance",
@@ -1007,28 +989,6 @@
     "updated": "10 May 2025 23:29"
   },
   {
-    "title": "(PACIFIC MTWY), MOONEY MOONEY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601396",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.5118484499999",
-    "longitude": "151.191116333",
-    "region": "nsw",
-    "time_of_call": "11 May 2025 00:04:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "M1 (PACIFIC MTWY), MOONEY MOONEY 2083",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 May 2025 00:04"
-  },
-  {
     "title": "YANGA WAY, YANGA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601398",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1036,10 +996,13 @@
     "latitude": "-34.767635345",
     "longitude": "143.535995484",
     "region": "nsw",
-    "time_of_call": "11 May 2025 00:11:00",
+    "time_of_call": "11 May 2025 00:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "YANGA WAY, YANGA 2711",
     "council_area": "Murray River",
     "type": "Bush Fire",
@@ -1048,7 +1011,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 May 2025 00:11"
+    "updated": "11 May 2025 00:40"
   },
   {
     "title": "PATTERSON ST, FORBES",
@@ -1071,5 +1034,25 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "11 May 2025 00:23"
+  },
+  {
+    "title": "BURRENDONG WAY, MULLION CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601400",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.169914246",
+    "longitude": "149.107727051",
+    "region": "nsw",
+    "time_of_call": "11 May 2025 00:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BURRENDONG WAY, MULLION CREEK 2800",
+    "council_area": "Cabonne",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 May 2025 00:32"
   }
 ]
