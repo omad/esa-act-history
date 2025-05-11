@@ -79,24 +79,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HARRISON",
-    "id": "030086-12052025",
-    "latitude": "-35.200527",
-    "longitude": "149.154752",
-    "region": "act",
-    "time_of_call": "12 May 2025 06:58:31",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HARRISON",
-    "updated": "12 May 2025 07:41:49"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WRIGHT",
     "id": "030089-12052025",
     "latitude": "-35.323404",
@@ -127,25 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "12 May 2025 08:20:46"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GARRAN",
-    "id": "030096-12052025",
-    "latitude": "-35.340821",
-    "longitude": "149.105209",
-    "region": "act",
-    "time_of_call": "12 May 2025 07:45:39",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GARRAN",
-    "updated": "12 May 2025 07:55:39"
+    "updated": "12 May 2025 08:33:03"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "12 May 2025 08:06:52"
+    "updated": "12 May 2025 08:23:57"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +157,13 @@
     "longitude": "149.20515",
     "region": "act",
     "time_of_call": "12 May 2025 08:11:59",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "12 May 2025 08:17:21"
+    "updated": "12 May 2025 08:36:01"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +175,49 @@
     "longitude": "149.076954",
     "region": "act",
     "time_of_call": "12 May 2025 08:13:32",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MCKELLAR",
+    "updated": "12 May 2025 08:30:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "030104-12052025",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "12 May 2025 08:31:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "12 May 2025 08:36:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "030105-12052025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "12 May 2025 08:33:45",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "MCKELLAR",
-    "updated": "12 May 2025 08:21:25"
+    "location": "FARRER",
+    "updated": "12 May 2025 08:37:46"
   },
   {
     "title": "Falnash HRB",
@@ -735,9 +735,9 @@
     "latitude": "-34.459334",
     "longitude": "150.837434999",
     "region": "nsw",
-    "time_of_call": "12 May 2025 08:13:00",
+    "time_of_call": "12 May 2025 08:25:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -750,6 +750,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "12 May 2025 08:13"
+    "updated": "12 May 2025 08:25"
   }
 ]
