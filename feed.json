@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "TUGGERANONG PARKWAY, COTTER ROAD, CURTIN, 2605",
-    "updated": "11 May 2025 19:23:34"
+    "updated": "11 May 2025 19:28:47"
   },
   {
     "agency": "Fire",
@@ -69,15 +69,15 @@
     "longitude": "149.1086549199",
     "region": "act",
     "time_of_call": "11 May 2025 19:19:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "BEARDSMORE PLACE, GOWRIE, 2904",
-    "updated": "11 May 2025 19:23:16"
+    "updated": "11 May 2025 19:33:31"
   },
   {
     "agency": "Ambulance",
@@ -131,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "11 May 2025 19:02:37"
+    "updated": "11 May 2025 19:30:30"
   },
   {
     "agency": "Ambulance",
@@ -155,24 +155,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WESTON",
-    "id": "029983-11052025",
-    "latitude": "-35.335896",
-    "longitude": "149.058387",
-    "region": "act",
-    "time_of_call": "11 May 2025 18:03:38",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WESTON",
-    "updated": "11 May 2025 19:03:16"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KAMBAH",
     "id": "029985-11052025",
     "latitude": "-35.384074",
@@ -185,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "11 May 2025 19:15:59"
+    "updated": "11 May 2025 19:29:22"
   },
   {
     "agency": "Ambulance",
@@ -313,7 +295,25 @@
     "type_description": "",
     "type_icon": "",
     "location": "BEARDSMORE PLACE, GOWRIE, 2904",
-    "updated": "11 May 2025 19:20:01"
+    "updated": "11 May 2025 19:29:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "030004-11052025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "11 May 2025 19:33:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": "11 May 2025 19:36:48"
   },
   {
     "title": "Falnash HRB",
@@ -824,26 +824,48 @@
     "updated": "11 May 2025 18:31"
   },
   {
-    "title": "BOLONG RD, BOLONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601460",
+    "title": "CLARENCE WAY, BONALBO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601462",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.8451728819999",
-    "longitude": "150.654037476",
+    "latitude": "-28.764644623",
+    "longitude": "152.654251099",
     "region": "nsw",
-    "time_of_call": "11 May 2025 18:41:00",
+    "time_of_call": "11 May 2025 19:29:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "585 BOLONG RD, BOLONG 2540",
-    "council_area": "Shoalhaven",
-    "type": "Structure Fire",
+    "location": "CLARENCE WAY, BONALBO 2469",
+    "council_area": "Kyogle",
+    "type": "MVA/Transport",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 May 2025 19:29"
+  },
+  {
+    "title": "CUDDYONG RD, LIMERICK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601463",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.22700119",
+    "longitude": "149.488082885",
+    "region": "nsw",
+    "time_of_call": "11 May 2025 19:17:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "172 CUDDYONG RD, LIMERICK 2583",
+    "council_area": "Upper Lachlan",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 May 2025 18:41"
+    "updated": "11 May 2025 19:17"
   },
   {
     "title": "Flinders St, Wagga Wagga",
@@ -853,9 +875,9 @@
     "latitude": "-35.11958",
     "longitude": "147.369858",
     "region": "nsw",
-    "time_of_call": "11 May 2025 19:17:00",
+    "time_of_call": "11 May 2025 19:25:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -868,6 +890,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 May 2025 19:17"
+    "updated": "11 May 2025 19:25"
   }
 ]
