@@ -40,6 +40,26 @@
     "updated": "10 May 2025 17:39:33"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "CAR FIRE - PHILLIP",
+    "id": "007473-12052025",
+    "latitude": "-35.341747",
+    "longitude": "149.0837652",
+    "region": "act",
+    "time_of_call": "12 May 2025 08:43:23",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "CAR FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
+    "location": "FURZER STREET, WORGAN STREET, PHILLIP, 2606",
+    "updated": "12 May 2025 08:48:03"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -49,13 +69,13 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "12 May 2025 05:06:24",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "12 May 2025 07:59:12"
+    "updated": "12 May 2025 08:47:39"
   },
   {
     "agency": "Ambulance",
@@ -115,24 +135,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - O'CONNOR",
-    "id": "030097-12052025",
-    "latitude": "-35.256876",
-    "longitude": "149.111857",
-    "region": "act",
-    "time_of_call": "12 May 2025 07:47:15",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "O'CONNOR",
-    "updated": "12 May 2025 08:23:57"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GREENWAY",
     "id": "030099-12052025",
     "latitude": "-35.411775",
@@ -157,13 +159,13 @@
     "longitude": "149.20515",
     "region": "act",
     "time_of_call": "12 May 2025 08:11:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "12 May 2025 08:36:01"
+    "updated": "12 May 2025 08:45:57"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "12 May 2025 08:30:14"
+    "updated": "12 May 2025 08:47:46"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +213,67 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "12 May 2025 08:33:45",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": ""
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "030108-12052025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "12 May 2025 08:40:56",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "FARRER",
-    "updated": "12 May 2025 08:37:46"
+    "location": "GUNGAHLIN",
+    "updated": "12 May 2025 08:46:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACARTHUR",
+    "id": "030110-12052025",
+    "latitude": "-35.407599",
+    "longitude": "149.129639",
+    "region": "act",
+    "time_of_call": "12 May 2025 08:45:30",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACARTHUR",
+    "updated": "12 May 2025 08:48:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "030111-12052025",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "12 May 2025 08:48:34",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONNER",
+    "updated": "12 May 2025 08:48:36"
   },
   {
     "title": "Falnash HRB",
@@ -227,7 +283,7 @@
     "latitude": "-33.402424498",
     "longitude": "150.003614427",
     "region": "nsw",
-    "time_of_call": "11 May 2025 13:37:00",
+    "time_of_call": "12 May 2025 08:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -239,7 +295,7 @@
     "fire": "Yes",
     "size": "105 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "11 May 2025 13:37"
+    "updated": "12 May 2025 08:43"
   },
   {
     "title": "Prescribed Burn Boggy Creek 25AC",
@@ -249,7 +305,7 @@
     "latitude": "-33.728004115",
     "longitude": "150.032901762",
     "region": "nsw",
-    "time_of_call": "11 May 2025 13:38:00",
+    "time_of_call": "12 May 2025 08:44:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -261,7 +317,7 @@
     "fire": "Yes",
     "size": "128 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "11 May 2025 13:38"
+    "updated": "12 May 2025 08:44"
   },
   {
     "title": "Prescribed Burn Willow Springs East 25 AC ",
@@ -271,7 +327,7 @@
     "latitude": "-33.8291430089999",
     "longitude": "149.798583984",
     "region": "nsw",
-    "time_of_call": "11 May 2025 13:39:00",
+    "time_of_call": "12 May 2025 08:45:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -283,7 +339,7 @@
     "fire": "Yes",
     "size": "120 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "11 May 2025 13:39"
+    "updated": "12 May 2025 08:45"
   },
   {
     "title": "Prescribed Burn Prison Farm 25AC ",
@@ -293,7 +349,7 @@
     "latitude": "-34.014071993",
     "longitude": "149.810428619",
     "region": "nsw",
-    "time_of_call": "11 May 2025 13:40:00",
+    "time_of_call": "12 May 2025 08:46:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -305,7 +361,7 @@
     "fire": "Yes",
     "size": "163 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "11 May 2025 13:40"
+    "updated": "12 May 2025 08:46"
   },
   {
     "title": "Nundle SF",
@@ -423,7 +479,7 @@
     "latitude": "-35.2249028759999",
     "longitude": "148.397140503",
     "region": "nsw",
-    "time_of_call": "09 May 2025 17:31:00",
+    "time_of_call": "12 May 2025 08:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -435,7 +491,7 @@
     "fire": "Yes",
     "size": "90 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "9 May 2025 17:31"
+    "updated": "12 May 2025 08:42"
   },
   {
     "title": "Waitara HR",
@@ -704,28 +760,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 May 2025 18:31"
-  },
-  {
-    "title": "MOSS VALE RD, BARRENGARRY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601485",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.681480407",
-    "longitude": "150.506225586",
-    "region": "nsw",
-    "time_of_call": "12 May 2025 08:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MOSS VALE RD, BARRENGARRY 2577",
-    "council_area": "Shoalhaven",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 May 2025 08:12"
   },
   {
     "title": "Waples Rd, Unanderra",
