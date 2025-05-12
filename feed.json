@@ -20,6 +20,26 @@
     "updated": "12 May 2025 16:24:38"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - MACGREGOR",
+    "id": "007511-13052025",
+    "latitude": "-35.2133587",
+    "longitude": "149.0105436499",
+    "region": "act",
+    "time_of_call": "13 May 2025 05:30:32",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "HIRSCHFELD CRESCENT, MACGREGOR, 2615",
+    "updated": "13 May 2025 05:38:03"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -53,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "13 May 2025 05:16:04"
+    "updated": "13 May 2025 05:45:53"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "13 May 2025 05:21:40"
+    "updated": "13 May 2025 05:41:16"
   },
   {
     "agency": "Ambulance",
@@ -121,13 +141,67 @@
     "longitude": "149.037677",
     "region": "act",
     "time_of_call": "13 May 2025 05:19:14",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SCULLIN",
+    "updated": "13 May 2025 05:31:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "030311-13052025",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "13 May 2025 05:32:24",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "SCULLIN",
-    "updated": "13 May 2025 05:24:18"
+    "location": "CAMPBELL",
+    "updated": "13 May 2025 05:38:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LATHAM",
+    "id": "030312-13052025",
+    "latitude": "-35.217781",
+    "longitude": "149.034875",
+    "region": "act",
+    "time_of_call": "13 May 2025 05:42:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LATHAM",
+    "updated": "13 May 2025 05:47:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "030313-13052025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "13 May 2025 05:47:58",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "13 May 2025 05:48:38"
   },
   {
     "title": "Falnash HRB",
@@ -615,28 +689,6 @@
     "updated": "12 May 2025 16:50"
   },
   {
-    "title": "BROWNS LANE, BUMBALDRY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601517",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.9514274599999",
-    "longitude": "148.403808594",
-    "region": "nsw",
-    "time_of_call": "12 May 2025 14:47:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "GAMBARA 151 BROWNS LANE, BUMBALDRY 2794",
-    "council_area": "Weddin",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 May 2025 14:47"
-  },
-  {
     "title": "MURRUMBIDGEE RIVER RD, CARRATHOOL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601533",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -660,5 +712,27 @@
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 May 2025 21:52"
+  },
+  {
+    "title": "SEVENTH AV, LLANDILO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601568",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.707374573",
+    "longitude": "150.74508667",
+    "region": "nsw",
+    "time_of_call": "13 May 2025 05:45:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "SEVENTH AV, LLANDILO 2747",
+    "council_area": "Penrith",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 May 2025 05:45"
   }
 ]
