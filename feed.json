@@ -91,7 +91,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "14 May 2025 04:52:55"
+    "updated": "14 May 2025 07:34:09"
   },
   {
     "agency": "Ambulance",
@@ -109,25 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "14 May 2025 06:56:53"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - THROSBY",
-    "id": "030577-14052025",
-    "latitude": "-35.187595",
-    "longitude": "149.161141",
-    "region": "act",
-    "time_of_call": "14 May 2025 06:02:36",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "THROSBY",
-    "updated": "14 May 2025 06:53:21"
+    "updated": "14 May 2025 07:30:51"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'MALLEY",
-    "updated": "14 May 2025 07:07:28"
+    "updated": "14 May 2025 07:34:43"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "14 May 2025 07:11:30"
+    "updated": "14 May 2025 07:24:24"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "14 May 2025 06:57:22"
+    "updated": "14 May 2025 07:27:27"
   },
   {
     "agency": "Ambulance",
@@ -229,13 +211,13 @@
     "longitude": "149.143165",
     "region": "act",
     "time_of_call": "14 May 2025 07:16:07",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "14 May 2025 07:20:30"
+    "updated": "14 May 2025 07:32:22"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +229,31 @@
     "longitude": "149.036831",
     "region": "act",
     "time_of_call": "14 May 2025 07:19:10",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "14 May 2025 07:21:42"
+    "updated": "14 May 2025 07:35:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LATHAM",
+    "id": "030591-14052025",
+    "latitude": "-35.217781",
+    "longitude": "149.034875",
+    "region": "act",
+    "time_of_call": "14 May 2025 07:35:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LATHAM",
+    "updated": "14 May 2025 07:35:27"
   },
   {
     "title": "Falnash HRB",
@@ -812,22 +812,20 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601647",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.3451271059999",
-    "longitude": "150.626312256",
+    "latitude": "-31.3479385369999",
+    "longitude": "150.622283935",
     "region": "nsw",
-    "time_of_call": "14 May 2025 06:38:00",
+    "time_of_call": "14 May 2025 07:30:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "GAP RD, WERRIS CREEK 2341",
     "council_area": "Liverpool Plains",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "type": "Car Fire",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 May 2025 06:38"
+    "updated": "14 May 2025 07:30"
   },
   {
     "title": "(PACIFIC MTWY), CAMERON PARK",
@@ -870,5 +868,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 May 2025 07:14"
+  },
+  {
+    "title": "Mercury St, Broken Hill",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601650",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.9633929999999",
+    "longitude": "141.446383",
+    "region": "nsw",
+    "time_of_call": "14 May 2025 07:24:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "231 Mercury St, Broken Hill, NSW 2880",
+    "council_area": "Broken Hill",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "14 May 2025 07:24"
   }
 ]
