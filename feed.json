@@ -89,15 +89,15 @@
     "longitude": "149.1662260299",
     "region": "act",
     "time_of_call": "15 May 2025 09:18:33",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "CAR FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
     "location": "TELEVISION STUDIO, ANTILL STREET, WATSON, 2602",
-    "updated": "15 May 2025 09:20:31"
+    "updated": "15 May 2025 09:26:41"
   },
   {
     "agency": "Ambulance",
@@ -223,7 +223,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "15 May 2025 09:14:39"
+    "updated": "15 May 2025 09:32:17"
   },
   {
     "agency": "Ambulance",
@@ -295,7 +295,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "15 May 2025 09:18:29"
+    "updated": "15 May 2025 09:34:05"
   },
   {
     "agency": "Ambulance",
@@ -313,7 +313,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "15 May 2025 09:23:46"
+    "updated": "15 May 2025 09:24:23"
   },
   {
     "agency": "Ambulance",
@@ -325,13 +325,49 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "15 May 2025 09:22:29",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "15 May 2025 09:30:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "030894-15052025",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "15 May 2025 09:27:05",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "PHILLIP",
-    "updated": "15 May 2025 09:23:08"
+    "location": "BRUCE",
+    "updated": "15 May 2025 09:29:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "030896-15052025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "15 May 2025 09:31:51",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "15 May 2025 09:35:18"
   },
   {
     "title": "Spring Gully HR ",
@@ -398,6 +434,28 @@
     "size": "154 ha",
     "responsible_agency": "Forestry Corporation of NSW",
     "updated": "14 May 2025 09:45"
+  },
+  {
+    "title": "Prescribed Burn Ridge Road 25AC",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_583582",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.398171954",
+    "longitude": "149.852904081",
+    "region": "nsw",
+    "time_of_call": "15 May 2025 09:15:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "sUNNY cORNER rOAD",
+    "council_area": "Bathurst",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "63 ha",
+    "responsible_agency": "Forestry Corporation of NSW",
+    "updated": "15 May 2025 09:15"
   },
   {
     "title": "Prescribed Burn Willow Springs West 25 AC ",
@@ -839,28 +897,6 @@
     "updated": "15 May 2025 08:27"
   },
   {
-    "title": "FLORA PDE, TUNCURRY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601726",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.166923523",
-    "longitude": "152.496871949",
-    "region": "nsw",
-    "time_of_call": "15 May 2025 09:06:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "GLAICA HOUSE HOSTEL 22 FLORA PDE, TUNCURRY 2428",
-    "council_area": "Mid-Coast",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "15 May 2025 09:06"
-  },
-  {
     "title": "OLYMPIC HWY, HENTY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601727",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -925,5 +961,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 May 2025 09:20"
+  },
+  {
+    "title": "WYEE RD, WYEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601730",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.17546463",
+    "longitude": "151.485321045",
+    "region": "nsw",
+    "time_of_call": "15 May 2025 09:25:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "131-135 WYEE RD, WYEE 2259",
+    "council_area": "Lake Macquarie",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 May 2025 09:25"
   }
 ]
