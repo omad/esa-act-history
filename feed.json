@@ -55,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "16 May 2025 01:08:24"
+    "updated": "16 May 2025 01:43:43"
   },
   {
     "agency": "Ambulance",
@@ -67,13 +67,13 @@
     "longitude": "149.13437",
     "region": "act",
     "time_of_call": "15 May 2025 23:41:39",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": "16 May 2025 01:09:28"
+    "updated": "16 May 2025 01:43:27"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "16 May 2025 01:24:11"
+    "updated": "16 May 2025 01:47:01"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +157,49 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "16 May 2025 01:16:14",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "16 May 2025 01:28:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "031104-16052025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "16 May 2025 01:33:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "16 May 2025 01:38:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "031105-16052025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "16 May 2025 01:42:20",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "16 May 2025 01:19:25"
+    "location": "CITY",
+    "updated": "16 May 2025 01:48:04"
   },
   {
     "title": "Spring Gully HR ",
@@ -740,9 +776,9 @@
     "latitude": "-34.739656",
     "longitude": "146.557427",
     "region": "nsw",
-    "time_of_call": "16 May 2025 01:23:00",
+    "time_of_call": "16 May 2025 01:47:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -755,6 +791,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 May 2025 01:23"
+    "updated": "16 May 2025 01:47"
   }
 ]
