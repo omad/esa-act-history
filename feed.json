@@ -61,24 +61,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "031083-15052025",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "15 May 2025 22:04:56",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "15 May 2025 23:34:14"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
     "id": "031084-15052025",
     "latitude": "-35.302295",
@@ -121,13 +103,13 @@
     "longitude": "149.13437",
     "region": "act",
     "time_of_call": "15 May 2025 23:41:39",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": "16 May 2025 00:20:58"
+    "updated": "16 May 2025 00:49:23"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "16 May 2025 00:10:11"
+    "updated": "16 May 2025 00:39:42"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +163,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PARKES",
-    "updated": "16 May 2025 00:25:15"
+    "updated": "16 May 2025 00:46:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "031099-16052025",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "16 May 2025 00:44:20",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STIRLING",
+    "updated": "16 May 2025 00:49:24"
   },
   {
     "title": "Spring Gully HR ",
@@ -749,5 +749,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 May 2025 00:23"
+  },
+  {
+    "title": "SUMMERLAND HWY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601805",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.8433513639999",
+    "longitude": "153.032058716",
+    "region": "nsw",
+    "time_of_call": "16 May 2025 00:47:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "NORTHERN CO-OP MEAT COMPANY 10615 SUMMERLAND HWY, CASINO 2470",
+    "council_area": "Richmond Valley",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "16 May 2025 00:47"
   }
 ]
