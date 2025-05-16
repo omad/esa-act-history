@@ -161,7 +161,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "16 May 2025 21:20:44"
+    "updated": "16 May 2025 21:23:47"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +209,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "16 May 2025 21:03:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "16 May 2025 21:18:13"
+    "updated": "16 May 2025 21:23:47"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +251,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "16 May 2025 21:19:21"
+    "updated": "16 May 2025 21:21:19"
   },
   {
     "agency": "Ambulance",
@@ -263,13 +263,31 @@
     "longitude": "149.085118",
     "region": "act",
     "time_of_call": "16 May 2025 21:20:57",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PEARCE",
+    "updated": "16 May 2025 21:28:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "031321-16052025",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "16 May 2025 21:21:24",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "PEARCE",
-    "updated": "16 May 2025 21:20:57"
+    "location": "DICKSON",
+    "updated": "16 May 2025 21:25:41"
   },
   {
     "title": "Spring Gully HR ",
@@ -930,5 +948,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 May 2025 21:06"
+  },
+  {
+    "title": "Epacris Av, Forestville",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_601872",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.758224",
+    "longitude": "151.214432001",
+    "region": "nsw",
+    "time_of_call": "16 May 2025 21:23:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "31 Epacris Av, Forestville, NSW 2087",
+    "council_area": "Northern Beaches",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "16 May 2025 21:23"
   }
 ]
