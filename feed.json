@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
     "location": "JOHNS PLACE, HUME, 2620",
-    "updated": "19 May 2025 04:30:52"
+    "updated": "19 May 2025 04:39:54"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "19 May 2025 04:16:35"
+    "updated": "19 May 2025 04:44:44"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +157,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "19 May 2025 03:06:17",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "19 May 2025 04:26:38"
+    "updated": "19 May 2025 04:49:58"
   },
   {
     "title": "Spring Gully HR ",
@@ -813,28 +813,6 @@
     "updated": "19 May 2025 00:06"
   },
   {
-    "title": "RUBBISH DEPOT MUDGE ST, HAMILTON VALLEY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602075",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.0295028689999",
-    "longitude": "146.894836426",
-    "region": "nsw",
-    "time_of_call": "19 May 2025 02:43:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "RUBBISH DEPOT MUDGE ST, HAMILTON VALLEY 2641",
-    "council_area": "Albury",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 May 2025 02:43"
-  },
-  {
     "title": "ARIZONA RD, CHARMHAVEN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602076",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -898,5 +876,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 May 2025 02:55"
+  },
+  {
+    "title": "ENVIRONA DR, TRALEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602087",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.4027404789999",
+    "longitude": "149.164474487",
+    "region": "nsw",
+    "time_of_call": "19 May 2025 04:33:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ENVIRONA DR, TRALEE 2620",
+    "council_area": "Queanbeyan-Palerang",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 May 2025 04:33"
+  },
+  {
+    "title": "BRUXNER HWY, LOFTVILLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602088",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.8402271269999",
+    "longitude": "153.262680054",
+    "region": "nsw",
+    "time_of_call": "19 May 2025 04:44:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "205 BRUXNER HWY, LOFTVILLE 2480",
+    "council_area": "Lismore",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 May 2025 04:44"
   }
 ]
