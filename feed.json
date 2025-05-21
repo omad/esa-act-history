@@ -135,13 +135,31 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "22 May 2025 07:16:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "22 May 2025 07:23:20"
+    "updated": "22 May 2025 07:32:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "032593-22052025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "22 May 2025 07:35:12",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "22 May 2025 07:35:41"
   },
   {
     "title": "Prescribed Burn Marys 25 AC ",
@@ -963,9 +981,9 @@
     "latitude": "-30.742553711",
     "longitude": "152.918426513",
     "region": "nsw",
-    "time_of_call": "22 May 2025 07:01:00",
+    "time_of_call": "22 May 2025 07:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "A1 (PACIFIC HWY), WAY WAY 2447",
     "council_area": "Nambucca",
@@ -973,7 +991,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 May 2025 07:01"
+    "updated": "22 May 2025 07:23"
   },
   {
     "title": "THE LAKES WAY, BOOLAMBAYTE",
@@ -983,9 +1001,9 @@
     "latitude": "-32.3992309569999",
     "longitude": "152.291473389",
     "region": "nsw",
-    "time_of_call": "22 May 2025 07:07:00",
+    "time_of_call": "22 May 2025 07:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "THE LAKES WAY, BOOLAMBAYTE 2423",
     "council_area": "Mid-Coast",
@@ -995,7 +1013,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 May 2025 07:07"
+    "updated": "22 May 2025 07:25"
   },
   {
     "title": "PRINCES HWY, TIMBILLICA",
@@ -1018,5 +1036,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 May 2025 07:11"
+  },
+  {
+    "title": "NEW ENGLAND HWY, KENTUCKY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602480",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.793668747",
+    "longitude": "151.316085815",
+    "region": "nsw",
+    "time_of_call": "22 May 2025 07:19:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "NEW ENGLAND HWY, KENTUCKY 2354",
+    "council_area": "Tamworth",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 May 2025 07:19"
   }
 ]
