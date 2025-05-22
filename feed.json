@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "23 May 2025 04:51:19"
+    "updated": "23 May 2025 05:01:28"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "23 May 2025 04:39:57"
+    "updated": "23 May 2025 05:05:40"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +101,49 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "23 May 2025 04:43:40",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "23 May 2025 05:11:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "032825-23052025",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "23 May 2025 04:59:22",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "23 May 2025 04:50:39"
+    "location": "TAYLOR",
+    "updated": "23 May 2025 05:02:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THARWA",
+    "id": "032827-23052025",
+    "latitude": "-35.511899",
+    "longitude": "149.063617",
+    "region": "act",
+    "time_of_call": "23 May 2025 05:15:22",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THARWA",
+    "updated": "23 May 2025 05:20:19"
   },
   {
     "title": "Prescribed Burn Olive Glen 25 AC ",
@@ -768,9 +804,9 @@
     "latitude": "-33.3960189819999",
     "longitude": "151.299621582",
     "region": "nsw",
-    "time_of_call": "23 May 2025 04:08:00",
+    "time_of_call": "23 May 2025 05:09:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "60 REEVES ST, SOMERSBY 2250",
     "council_area": "Central Coast",
@@ -778,7 +814,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 04:08"
+    "updated": "23 May 2025 05:09"
   },
   {
     "title": "WISEMANS FERRY RD, SOMERSBY",
@@ -788,9 +824,9 @@
     "latitude": "-33.3892478939999",
     "longitude": "151.289718628",
     "region": "nsw",
-    "time_of_call": "23 May 2025 04:27:00",
+    "time_of_call": "23 May 2025 05:08:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "WISEMANS FERRY RD, SOMERSBY 2250",
     "council_area": "Central Coast",
@@ -798,51 +834,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 04:27"
-  },
-  {
-    "title": "(PACIFIC MTWY), SOMERSBY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602628",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.426868439",
-    "longitude": "151.277984619",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 04:39:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "M1 (PACIFIC MTWY), SOMERSBY 2250",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 04:39"
-  },
-  {
-    "title": "BRINGELLY RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602629",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.9499015809999",
-    "longitude": "150.792068482",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 04:40:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "STORAGE KING LEPPINGTON 431 BRINGELLY RD, LEPPINGTON 2179",
-    "council_area": "Camden",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 04:40"
+    "updated": "23 May 2025 05:08"
   },
   {
     "title": "COACHWOOD RD, MATCHAM",
@@ -852,9 +844,9 @@
     "latitude": "-33.4140357969999",
     "longitude": "151.415695191",
     "region": "nsw",
-    "time_of_call": "23 May 2025 04:43:00",
+    "time_of_call": "23 May 2025 05:11:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "147 COACHWOOD RD, MATCHAM 2250",
     "council_area": "Central Coast",
@@ -862,7 +854,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 04:43"
+    "updated": "23 May 2025 05:11"
   },
   {
     "title": "MATCHAM RD, MATCHAM",
