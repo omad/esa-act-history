@@ -209,15 +209,15 @@
     "longitude": "149.12942013",
     "region": "act",
     "time_of_call": "23 May 2025 13:08:30",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "ELECTRICAL THREAT OR POWER LINES DOWN",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/electrical-threat_0.svg",
     "location": "KATHERINE AVENUE, AMAROO, 2914",
-    "updated": "23 May 2025 13:52:28"
+    "updated": "23 May 2025 14:16:30"
   },
   {
     "agency": "Fire",
@@ -351,7 +351,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "23 May 2025 12:39:24"
+    "updated": "23 May 2025 14:25:50"
   },
   {
     "agency": "Ambulance",
@@ -381,13 +381,13 @@
     "longitude": "149.111757",
     "region": "act",
     "time_of_call": "23 May 2025 11:36:24",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'MALLEY",
-    "updated": "23 May 2025 13:56:34"
+    "updated": "23 May 2025 14:24:34"
   },
   {
     "agency": "Ambulance",
@@ -441,7 +441,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "23 May 2025 13:52:32"
+    "updated": "23 May 2025 14:30:23"
   },
   {
     "agency": "Ambulance",
@@ -453,13 +453,13 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "23 May 2025 12:20:22",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "23 May 2025 12:22:31"
+    "updated": "23 May 2025 14:26:45"
   },
   {
     "agency": "Ambulance",
@@ -478,24 +478,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
     "updated": "23 May 2025 12:57:28"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CALWELL",
-    "id": "032921-23052025",
-    "latitude": "-35.441132",
-    "longitude": "149.107648",
-    "region": "act",
-    "time_of_call": "23 May 2025 12:46:57",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CALWELL",
-    "updated": "23 May 2025 12:56:15"
   },
   {
     "agency": "Ambulance",
@@ -561,13 +543,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "23 May 2025 13:18:06",
-    "status": "On Scene",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "23 May 2025 13:42:39"
+    "updated": "23 May 2025 14:14:11"
   },
   {
     "agency": "Ambulance",
@@ -585,7 +567,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "23 May 2025 13:43:11"
+    "updated": "23 May 2025 14:12:57"
   },
   {
     "agency": "Ambulance",
@@ -621,7 +603,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "23 May 2025 13:43:44"
+    "updated": "23 May 2025 14:16:36"
   },
   {
     "agency": "Ambulance",
@@ -657,7 +639,115 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "23 May 2025 13:57:57"
+    "updated": "23 May 2025 14:17:12"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "032942-23052025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "23 May 2025 14:05:43",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "23 May 2025 14:16:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "032944-23052025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "23 May 2025 14:15:21",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "23 May 2025 14:22:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "032945-23052025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "23 May 2025 14:21:30",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "23 May 2025 14:29:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "032946-23052025",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "23 May 2025 14:22:33",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "23 May 2025 14:28:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "032948-23052025",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "23 May 2025 14:27:31",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "23 May 2025 14:29:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "032949-23052025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "23 May 2025 14:27:42",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": "23 May 2025 14:30:46"
   },
   {
     "title": "Prescribed Burn Olive Glen 25 AC ",
@@ -1150,7 +1240,7 @@
     "latitude": "-30.312057495",
     "longitude": "153.120773315",
     "region": "nsw",
-    "time_of_call": "22 May 2025 21:50:00",
+    "time_of_call": "23 May 2025 14:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1160,7 +1250,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 May 2025 21:50"
+    "updated": "23 May 2025 14:10"
   },
   {
     "title": "LAYTONS RANGE RD, NYMBOIDA",
@@ -1267,26 +1357,6 @@
     "updated": "23 May 2025 09:49"
   },
   {
-    "title": "MANNING RIVER DR, TAREE SOUTH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602662",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.931297302",
-    "longitude": "152.46598816",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 11:28:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "MANNING RIVER DR, TAREE SOUTH 2430",
-    "council_area": "Mid-Coast",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 May 2025 11:28"
-  },
-  {
     "title": "MINYON FALLS LOOP RD, WHIAN WHIAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602663",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1294,7 +1364,7 @@
     "latitude": "-28.611728668",
     "longitude": "153.38937378",
     "region": "nsw",
-    "time_of_call": "23 May 2025 08:50:00",
+    "time_of_call": "23 May 2025 14:23:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1304,7 +1374,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 08:50"
+    "updated": "23 May 2025 14:23"
   },
   {
     "title": "RORYS RD, ROCKY RIVER",
@@ -1345,46 +1415,6 @@
     "size": "0 ha",
     "responsible_agency": "State Emergency Service",
     "updated": "23 May 2025 10:12"
-  },
-  {
-    "title": "CRYSTAL WATER ESTATE SOUTH ST, TUNCURRY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602702",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.1740570059999",
-    "longitude": "152.490524292",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 11:52:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "CRYSTAL WATER ESTATE SOUTH ST, TUNCURRY 2428",
-    "council_area": "Mid-Coast",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 May 2025 11:52"
-  },
-  {
-    "title": "KNODINGBUL RD, MOUNT SEAVIEW",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602704",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.4091148379999",
-    "longitude": "152.146850586",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 12:59:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "KNODINGBUL RD, MOUNT SEAVIEW 2446",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 12:59"
   },
   {
     "title": "GREY GUM RD, TUNCURRY",
@@ -1489,26 +1519,6 @@
     "updated": "23 May 2025 13:11"
   },
   {
-    "title": "CROOKED LANE, NORTH RICHMOND",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602719",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.561473846",
-    "longitude": "150.719360352",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 13:40:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "CROOKED LANE, NORTH RICHMOND 2754",
-    "council_area": "Hawkesbury",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 13:40"
-  },
-  {
     "title": "KINGS HWY, MONGA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602720",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1527,28 +1537,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 May 2025 13:10"
-  },
-  {
-    "title": "EASTERN DORRIGO WAY, ULONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602721",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.2249813079999",
-    "longitude": "152.929016113",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 13:34:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "EASTERN DORRIGO WAY, ULONG 2450",
-    "council_area": "Coffs Harbour",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 13:34"
   },
   {
     "title": "WALDER CR, AVOCA BEACH",
@@ -1573,26 +1561,6 @@
     "updated": "23 May 2025 13:32"
   },
   {
-    "title": "FREEMANS DR, COORANBONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602723",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.077331543",
-    "longitude": "151.453216552",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 13:06:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "582-588 FREEMANS DR, COORANBONG 2265",
-    "council_area": "Lake Macquarie",
-    "type": "HAZMAT",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 13:06"
-  },
-  {
     "title": "VALLETTA DR, GABLES",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602724",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1613,26 +1581,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 May 2025 13:51"
-  },
-  {
-    "title": "VICTORIA ST, TAREE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602725",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.9083042149999",
-    "longitude": "152.470504761",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 13:37:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "4 VICTORIA ST, TAREE 2430",
-    "council_area": "Mid-Coast",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 May 2025 13:37"
   },
   {
     "title": "DUCKMALOI RD, DUCKMALOI",
@@ -1686,9 +1634,9 @@
     "latitude": "-33.151977539",
     "longitude": "151.541595459",
     "region": "nsw",
-    "time_of_call": "23 May 2025 13:44:00",
+    "time_of_call": "23 May 2025 14:05:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "49 DUNVEGAN ST, MANNERING PARK 2259",
     "council_area": "Central Coast",
@@ -1698,7 +1646,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 13:44"
+    "updated": "23 May 2025 14:05"
   },
   {
     "title": "WINTER ST, TINONEE",
@@ -1708,9 +1656,9 @@
     "latitude": "-31.935886383",
     "longitude": "152.413497924",
     "region": "nsw",
-    "time_of_call": "23 May 2025 13:46:00",
+    "time_of_call": "23 May 2025 14:12:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "20 WINTER ST, TINONEE 2430",
     "council_area": "Mid-Coast",
@@ -1718,26 +1666,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 13:46"
-  },
-  {
-    "title": "BELBORA CREEK RD, BELBORA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602731",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.956026078",
-    "longitude": "152.140579223",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 13:46:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "624 BELBORA CREEK RD, BELBORA 2422",
-    "council_area": "Mid-Coast",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 13:46"
+    "updated": "23 May 2025 14:12"
   }
 ]
