@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WATSON",
-    "id": "033075-24052025",
-    "latitude": "-35.234652",
-    "longitude": "149.15807",
-    "region": "act",
-    "time_of_call": "24 May 2025 03:50:31",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WATSON",
-    "updated": "24 May 2025 03:58:02"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DUNLOP",
     "id": "033080-24052025",
     "latitude": "-35.193951",
@@ -63,13 +45,31 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "24 May 2025 05:39:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "24 May 2025 05:43:08"
+    "updated": "24 May 2025 06:12:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "033084-24052025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "24 May 2025 05:58:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "24 May 2025 06:04:08"
   },
   {
     "title": "Prescribed Burn Olive Glen 25 AC ",
@@ -145,7 +145,7 @@
     "latitude": "-29.702632904",
     "longitude": "144.150268555",
     "region": "nsw",
-    "time_of_call": "23 May 2025 00:31:00",
+    "time_of_call": "24 May 2025 06:05:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -155,7 +155,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "State Emergency Service",
-    "updated": "23 May 2025 00:31"
+    "updated": "24 May 2025 06:05"
   },
   {
     "title": "Gulpa Creek Rd Fire",
@@ -269,26 +269,6 @@
     "updated": "23 May 2025 05:56"
   },
   {
-    "title": "Assist SES Central Coast",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602076",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.2349929809999",
-    "longitude": "151.492401123",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 00:43:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ARIZONA RD, CHARMHAVEN 2263",
-    "council_area": "Central Coast",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 00:43"
-  },
-  {
     "title": "WATERWORKS RD, RUTHERFORD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602114",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -296,7 +276,7 @@
     "latitude": "-32.7157287599999",
     "longitude": "151.540908814",
     "region": "nsw",
-    "time_of_call": "22 May 2025 10:49:00",
+    "time_of_call": "24 May 2025 06:04:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -306,7 +286,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "State Emergency Service",
-    "updated": "22 May 2025 10:49"
+    "updated": "24 May 2025 06:04"
   },
   {
     "title": "CLARENCE TOWN RD, DUNGOG",
@@ -316,7 +296,7 @@
     "latitude": "-32.4125213629999",
     "longitude": "151.7497406",
     "region": "nsw",
-    "time_of_call": "21 May 2025 09:51:00",
+    "time_of_call": "24 May 2025 06:02:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -326,7 +306,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "State Emergency Service",
-    "updated": "21 May 2025 09:51"
+    "updated": "24 May 2025 06:02"
   },
   {
     "title": "MULDOON ST, TAREE",
@@ -336,7 +316,7 @@
     "latitude": "-31.900777816",
     "longitude": "152.460281372",
     "region": "nsw",
-    "time_of_call": "21 May 2025 02:23:00",
+    "time_of_call": "24 May 2025 06:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -346,7 +326,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "State Emergency Service",
-    "updated": "21 May 2025 02:23"
+    "updated": "24 May 2025 06:20"
   },
   {
     "title": "CAMERON ST, WAUCHOPE",
@@ -416,7 +396,7 @@
     "latitude": "-33.284942627",
     "longitude": "151.426971436",
     "region": "nsw",
-    "time_of_call": "21 May 2025 11:05:00",
+    "time_of_call": "24 May 2025 06:02:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -426,7 +406,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "State Emergency Service",
-    "updated": "21 May 2025 11:05"
+    "updated": "24 May 2025 06:02"
   },
   {
     "title": "FOURTH ST, BOOLAROO",
@@ -436,7 +416,7 @@
     "latitude": "-32.9515571599999",
     "longitude": "151.617019653",
     "region": "nsw",
-    "time_of_call": "21 May 2025 11:04:00",
+    "time_of_call": "24 May 2025 06:03:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -446,7 +426,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "State Emergency Service",
-    "updated": "21 May 2025 11:04"
+    "updated": "24 May 2025 06:03"
   },
   {
     "title": "RIVER ST, WEST KEMPSEY",
@@ -456,7 +436,7 @@
     "latitude": "-31.062509537",
     "longitude": "152.81401062",
     "region": "nsw",
-    "time_of_call": "22 May 2025 01:58:00",
+    "time_of_call": "24 May 2025 06:03:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -466,7 +446,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "State Emergency Service",
-    "updated": "22 May 2025 01:58"
+    "updated": "24 May 2025 06:03"
   },
   {
     "title": "KELLY CL, MACKSVILLE",
@@ -496,7 +476,7 @@
     "latitude": "-31.708246231",
     "longitude": "152.060913086",
     "region": "nsw",
-    "time_of_call": "24 May 2025 00:05:00",
+    "time_of_call": "24 May 2025 06:15:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -508,7 +488,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 May 2025 00:05"
+    "updated": "24 May 2025 06:15"
   },
   {
     "title": "Assist SES - Coffs Harbour",
@@ -593,90 +573,6 @@
     "updated": "23 May 2025 19:15"
   },
   {
-    "title": "COMBINED ST, WINGHAM",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602715",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.8666973109999",
-    "longitude": "152.370880127",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 12:29:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "45 COMBINED ST, WINGHAM 2429",
-    "council_area": "Mid-Coast",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 May 2025 12:29"
-  },
-  {
-    "title": "DUNVEGAN ST, MANNERING PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602729",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.151977539",
-    "longitude": "151.541595459",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 15:36:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "49 DUNVEGAN ST, MANNERING PARK 2259",
-    "council_area": "Central Coast",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 15:36"
-  },
-  {
-    "title": "WYNTER ST, TAREE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602743",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.912149429",
-    "longitude": "152.454711914",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 17:38:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WYNTER ST, TAREE 2430",
-    "council_area": "Mid-Coast",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 May 2025 17:38"
-  },
-  {
-    "title": "KAMILAROI HWY, BAAN BAA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602745",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.584001541",
-    "longitude": "149.945663453",
-    "region": "nsw",
-    "time_of_call": "23 May 2025 19:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "KAMILAROI HWY, BAAN BAA 2390",
-    "council_area": "Narrabri",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 19:12"
-  },
-  {
     "title": "BARNARD ST, GLADSTONE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602752",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -684,7 +580,7 @@
     "latitude": "-31.0231266019999",
     "longitude": "152.948150634",
     "region": "nsw",
-    "time_of_call": "23 May 2025 19:07:00",
+    "time_of_call": "24 May 2025 06:12:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -694,7 +590,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 May 2025 19:07"
+    "updated": "24 May 2025 06:12"
   },
   {
     "title": "PUMP STATION RD, GRAVESEND",
@@ -704,7 +600,7 @@
     "latitude": "-29.585018158",
     "longitude": "150.344970704",
     "region": "nsw",
-    "time_of_call": "24 May 2025 01:17:00",
+    "time_of_call": "24 May 2025 06:16:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -716,7 +612,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 May 2025 01:17"
+    "updated": "24 May 2025 06:16"
   },
   {
     "title": "GRAFTON RD, METZ",
@@ -726,7 +622,7 @@
     "latitude": "-30.515798568",
     "longitude": "151.845275879",
     "region": "nsw",
-    "time_of_call": "24 May 2025 05:02:00",
+    "time_of_call": "24 May 2025 06:17:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -738,19 +634,19 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 May 2025 05:02"
+    "updated": "24 May 2025 06:17"
   },
   {
     "title": "PACIFIC HWY, WOODBURN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602788",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.098667145",
-    "longitude": "153.340240479",
+    "latitude": "-29.112283706",
+    "longitude": "153.338058471",
     "region": "nsw",
-    "time_of_call": "24 May 2025 05:31:00",
+    "time_of_call": "24 May 2025 05:58:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "PACIFIC HWY, WOODBURN 2472",
     "council_area": "Richmond Valley",
@@ -760,6 +656,48 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 May 2025 05:31"
+    "updated": "24 May 2025 05:58"
+  },
+  {
+    "title": "GRETA ST, GERRINGONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602790",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.7480430599999",
+    "longitude": "150.824249268",
+    "region": "nsw",
+    "time_of_call": "24 May 2025 06:07:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "UNITING GERRINGONG 33 GRETA ST, GERRINGONG 2534",
+    "council_area": "Kiama",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 May 2025 06:07"
+  },
+  {
+    "title": "OLD HUME HWY, WOODLANDS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602791",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.44228363",
+    "longitude": "150.391235352",
+    "region": "nsw",
+    "time_of_call": "24 May 2025 06:18:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "2584 OLD HUME HWY, WOODLANDS 2575",
+    "council_area": "Wingecarribee",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 May 2025 06:18"
   }
 ]
