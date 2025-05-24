@@ -65,8 +65,8 @@
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - LYONS",
     "id": "008136-25052025",
-    "latitude": "-35.345652",
-    "longitude": "149.07882499",
+    "latitude": "-35.3452911377",
+    "longitude": "149.0798034668",
     "region": "act",
     "time_of_call": "25 May 2025 01:27:34",
     "status": "On Scene",
@@ -77,7 +77,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "BURNIE STREET, BEEDHAM PLACE, LYONS, 2606",
-    "updated": "25 May 2025 01:35:38"
+    "updated": "25 May 2025 01:45:57"
   },
   {
     "agency": "Ambulance",
@@ -167,25 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "25 May 2025 01:15:36"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "033275-25052025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "25 May 2025 00:20:50",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "25 May 2025 01:28:29"
+    "updated": "25 May 2025 01:41:44"
   },
   {
     "agency": "Ambulance",
@@ -239,7 +221,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "25 May 2025 01:26:36"
+    "updated": "25 May 2025 01:47:23"
   },
   {
     "agency": "Ambulance",
@@ -341,13 +323,49 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "25 May 2025 01:31:01",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "25 May 2025 01:34:00"
+    "updated": "25 May 2025 01:38:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WEETANGERA",
+    "id": "033292-25052025",
+    "latitude": "-35.249342",
+    "longitude": "149.049485",
+    "region": "act",
+    "time_of_call": "25 May 2025 01:39:03",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WEETANGERA",
+    "updated": "25 May 2025 01:42:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "033293-25052025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "25 May 2025 01:41:31",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "25 May 2025 01:45:20"
   },
   {
     "title": "Prescribed Burn Olive Glen 25 AC ",
@@ -1055,9 +1073,9 @@
     "latitude": "-28.58710289",
     "longitude": "152.941574096",
     "region": "nsw",
-    "time_of_call": "25 May 2025 01:11:00",
+    "time_of_call": "25 May 2025 01:39:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "552 AFTERLEE RD, EDEN CREEK 2474",
     "council_area": "Kyogle",
@@ -1065,7 +1083,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 May 2025 01:11"
+    "updated": "25 May 2025 01:39"
   },
   {
     "title": "OLD NORTHERN RD, GLENORIE",
@@ -1088,5 +1106,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 May 2025 01:17"
+  },
+  {
+    "title": "PEAK HILL RD, YARRABAR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602912",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.314548492",
+    "longitude": "148.532974243",
+    "region": "nsw",
+    "time_of_call": "25 May 2025 01:21:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BINJANG 65L PEAK HILL RD, YARRABAR 2830",
+    "council_area": "Dubbo Regional",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 May 2025 01:21"
+  },
+  {
+    "title": "RIDDELL ST, WARIALDA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602914",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.537279129",
+    "longitude": "150.566314698",
+    "region": "nsw",
+    "time_of_call": "25 May 2025 01:42:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "RIDDELL ST, WARIALDA 2402",
+    "council_area": "Gwydir",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "25 May 2025 01:42"
   }
 ]
