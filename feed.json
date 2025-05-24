@@ -111,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "24 May 2025 19:19:46"
+    "updated": "24 May 2025 19:46:40"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +147,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "24 May 2025 19:31:23"
+    "updated": "24 May 2025 19:36:47"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "24 May 2025 19:30:31"
+    "updated": "24 May 2025 19:45:57"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +213,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "24 May 2025 19:34:51",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "24 May 2025 19:35:47"
+    "updated": "24 May 2025 19:45:58"
   },
   {
     "agency": "Ambulance",
@@ -231,13 +231,31 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "24 May 2025 19:35:01",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "24 May 2025 19:47:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "033235-24052025",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "24 May 2025 19:37:22",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CONDER",
-    "updated": "24 May 2025 19:35:37"
+    "location": "NGUNNAWAL",
+    "updated": "24 May 2025 19:44:38"
   },
   {
     "title": "Prescribed Burn Olive Glen 25 AC ",
@@ -869,28 +887,6 @@
     "updated": "24 May 2025 18:47"
   },
   {
-    "title": "PACIFIC (NORTHBOUND) MTWY, SOMERSBY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602886",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.3665809629999",
-    "longitude": "151.314926147",
-    "region": "nsw",
-    "time_of_call": "24 May 2025 19:30:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "M1 PACIFIC (NORTHBOUND) MTWY, SOMERSBY 2250",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 May 2025 19:30"
-  },
-  {
     "title": "YORK ST, FORBES",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602888",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -911,5 +907,71 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "24 May 2025 19:03"
+  },
+  {
+    "title": "RANGE RD, BANNISTER",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602889",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.624633789",
+    "longitude": "149.517913819",
+    "region": "nsw",
+    "time_of_call": "24 May 2025 19:10:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "2369 RANGE RD, BANNISTER 2580",
+    "council_area": "Upper Lachlan",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 May 2025 19:10"
+  },
+  {
+    "title": "SYDNEY RD, GOULBURN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602890",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.746822358",
+    "longitude": "149.752944946",
+    "region": "nsw",
+    "time_of_call": "24 May 2025 19:10:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "SYDNEY RD, GOULBURN 2580",
+    "council_area": "Goulburn Mulwaree",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 May 2025 19:10"
+  },
+  {
+    "title": "LADYSMITH RD, WEST WALLSEND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602891",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.903427124",
+    "longitude": "151.574768067",
+    "region": "nsw",
+    "time_of_call": "24 May 2025 19:26:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "LADYSMITH RD, WEST WALLSEND 2286",
+    "council_area": "Lake Macquarie",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "24 May 2025 19:26"
   }
 ]
