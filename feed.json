@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "24 May 2025 15:20:14"
+    "updated": "24 May 2025 15:36:35"
   },
   {
     "agency": "Ambulance",
@@ -227,13 +227,13 @@
     "longitude": "149.031217",
     "region": "act",
     "time_of_call": "24 May 2025 14:32:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "24 May 2025 15:13:50"
+    "updated": "24 May 2025 15:37:13"
   },
   {
     "agency": "Ambulance",
@@ -263,13 +263,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "24 May 2025 14:45:13",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "24 May 2025 15:19:37"
+    "updated": "24 May 2025 15:31:31"
   },
   {
     "agency": "Ambulance",
@@ -287,7 +287,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "24 May 2025 15:11:18"
+    "updated": "24 May 2025 15:28:24"
   },
   {
     "agency": "Ambulance",
@@ -335,13 +335,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "24 May 2025 15:19:42",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "24 May 2025 15:24:55"
+    "updated": "24 May 2025 15:31:53"
   },
   {
     "title": "Prescribed Burn Olive Glen 25 AC ",
@@ -770,7 +770,7 @@
     "latitude": "-30.312057495",
     "longitude": "153.120773315",
     "region": "nsw",
-    "time_of_call": "24 May 2025 12:45:00",
+    "time_of_call": "24 May 2025 15:24:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -780,7 +780,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 May 2025 12:45"
+    "updated": "24 May 2025 15:24"
   },
   {
     "title": "FCNSW Booths Plantation",
@@ -1413,28 +1413,6 @@
     "updated": "24 May 2025 14:08"
   },
   {
-    "title": "DARBYS FALLS RD, COWRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602849",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.87958908",
-    "longitude": "148.769927978",
-    "region": "nsw",
-    "time_of_call": "24 May 2025 14:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "907B DARBYS FALLS RD, COWRA 2794",
-    "council_area": "Cowra",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 May 2025 14:07"
-  },
-  {
     "title": "GLEN EWAN RD, SANCROX",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602851",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1617,5 +1595,87 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 May 2025 14:59"
+  },
+  {
+    "title": "PACIFIC HWY, HALFWAY CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602861",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.9070701599999",
+    "longitude": "153.065567017",
+    "region": "nsw",
+    "time_of_call": "24 May 2025 15:33:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "5415 PACIFIC HWY, HALFWAY CREEK 2460",
+    "council_area": "Clarence Valley",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 May 2025 15:33"
+  },
+  {
+    "title": "GLEN EWAN RD, SANCROX",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602862",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.413320542",
+    "longitude": "152.821792603",
+    "region": "nsw",
+    "time_of_call": "24 May 2025 15:06:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "19 GLEN EWAN RD, SANCROX 2446",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 May 2025 15:06"
+  },
+  {
+    "title": "OXLEY ISLAND RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602863",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.9110393519999",
+    "longitude": "152.568496704",
+    "region": "nsw",
+    "time_of_call": "24 May 2025 15:17:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "OXLEY ISLAND LITERARY INSTITUTE HALL 96 OXLEY ISLAND RD, OXLEY ISLAND 2430",
+    "council_area": "Mid-Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 May 2025 15:17"
+  },
+  {
+    "title": "BRAIDWOOD RD, JERRAWANGALA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602865",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.032150268",
+    "longitude": "150.450836181",
+    "region": "nsw",
+    "time_of_call": "24 May 2025 15:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BRAIDWOOD RD, JERRAWANGALA 2540",
+    "council_area": "Shoalhaven",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 May 2025 15:29"
   }
 ]
