@@ -131,24 +131,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LATHAM",
-    "id": "033476-25052025",
-    "latitude": "-35.217781",
-    "longitude": "149.034875",
-    "region": "act",
-    "time_of_call": "25 May 2025 23:07:26",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LATHAM",
-    "updated": "25 May 2025 23:54:11"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - AINSLIE",
     "id": "033478-25052025",
     "latitude": "-35.262117",
@@ -162,24 +144,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
     "updated": "25 May 2025 23:38:23"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
-    "id": "033479-25052025",
-    "latitude": "-35.425091",
-    "longitude": "149.088064",
-    "region": "act",
-    "time_of_call": "25 May 2025 23:35:48",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "ISABELLA PLAINS",
-    "updated": "25 May 2025 23:57:52"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "26 May 2025 00:19:33"
+    "updated": "26 May 2025 00:26:17"
   },
   {
     "agency": "Ambulance",
@@ -245,13 +209,13 @@
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "26 May 2025 00:11:32",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "26 May 2025 00:15:41"
+    "updated": "26 May 2025 00:26:09"
   },
   {
     "title": "Prescribed Burn Olive Glen 25 AC ",
@@ -996,9 +960,9 @@
     "latitude": "-33.30329132",
     "longitude": "150.972000122",
     "region": "nsw",
-    "time_of_call": "25 May 2025 23:31:00",
+    "time_of_call": "26 May 2025 00:32:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1467 SETTLERS RD, ST ALBANS 2775",
     "council_area": "Hawkesbury",
@@ -1006,6 +970,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 May 2025 23:31"
+    "updated": "26 May 2025 00:32"
+  },
+  {
+    "title": "BOORALIE RD, TERREY HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_603003",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.67495346",
+    "longitude": "151.2086792",
+    "region": "nsw",
+    "time_of_call": "26 May 2025 00:27:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "102 BOORALIE RD, TERREY HILLS 2084",
+    "council_area": "Northern Beaches",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 May 2025 00:27"
   }
 ]
