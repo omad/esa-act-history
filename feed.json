@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUME",
-    "updated": "25 May 2025 19:32:27"
+    "updated": "25 May 2025 19:41:27"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "25 May 2025 18:10:55"
+    "updated": "25 May 2025 19:48:07"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "25 May 2025 19:24:45"
+    "updated": "25 May 2025 19:36:40"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "25 May 2025 18:48:30"
+    "updated": "25 May 2025 19:47:02"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "25 May 2025 19:24:55"
+    "updated": "25 May 2025 19:47:43"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +233,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "25 May 2025 19:26:59"
+    "updated": "25 May 2025 19:47:34"
   },
   {
     "agency": "Ambulance",
@@ -269,7 +269,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "25 May 2025 19:28:12"
+    "updated": "25 May 2025 19:47:47"
   },
   {
     "agency": "Ambulance",
@@ -287,7 +287,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "25 May 2025 19:25:56"
+    "updated": "25 May 2025 19:46:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "033432-25052025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "25 May 2025 19:40:59",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "25 May 2025 19:47:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "033433-25052025",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "25 May 2025 19:44:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "25 May 2025 19:48:08"
   },
   {
     "title": "Prescribed Burn Olive Glen 25 AC ",
@@ -965,14 +1001,14 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602988",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-28.793527281",
-    "longitude": "153.149193635",
+    "latitude": "-28.793527603",
+    "longitude": "153.149200439",
     "region": "nsw",
-    "time_of_call": "25 May 2025 19:05:00",
+    "time_of_call": "25 May 2025 19:34:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "BENTLEY RD, BENTLEY 2480",
+    "location": "1014 BENTLEY RD, BENTLEY 2480",
     "council_area": "Lismore",
     "type": "Burn off",
     "type_description": "",
@@ -980,28 +1016,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 May 2025 19:05"
-  },
-  {
-    "title": "CATTAI RD, CATTAI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602989",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.564689636",
-    "longitude": "150.900863648",
-    "region": "nsw",
-    "time_of_call": "25 May 2025 18:58:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "426 CATTAI RD, CATTAI 2756",
-    "council_area": "Hawkesbury",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 May 2025 18:58"
+    "updated": "25 May 2025 19:34"
   }
 ]
