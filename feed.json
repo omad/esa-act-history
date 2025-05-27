@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "27 May 2025 22:35:55"
+    "updated": "27 May 2025 23:05:17"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "27 May 2025 22:53:28"
+    "updated": "27 May 2025 23:18:00"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,85 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "27 May 2025 22:47:33",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "27 May 2025 23:34:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "033920-27052025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "27 May 2025 22:56:28",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": "27 May 2025 23:17:36"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "033921-27052025",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "27 May 2025 22:56:38",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "HIGGINS",
-    "updated": "27 May 2025 22:51:12"
+    "location": "GARRAN",
+    "updated": "27 May 2025 22:58:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STRATHNAIRN",
+    "id": "033922-27052025",
+    "latitude": "-35.237286",
+    "longitude": "148.98074",
+    "region": "act",
+    "time_of_call": "27 May 2025 23:01:35",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STRATHNAIRN",
+    "updated": "27 May 2025 23:19:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "033924-27052025",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "27 May 2025 23:15:21",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TAYLOR",
+    "updated": "27 May 2025 23:17:26"
   },
   {
     "title": "Prescribed Burn Olive Glen 25 AC ",
@@ -546,26 +618,6 @@
     "updated": "27 May 2025 07:37"
   },
   {
-    "title": "RIVERSIDE DR, RIVERSIDE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_602967",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.4098834989999",
-    "longitude": "152.865570068",
-    "region": "nsw",
-    "time_of_call": "27 May 2025 07:29:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "13 RIVERSIDE DR, RIVERSIDE 2444",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 May 2025 07:29"
-  },
-  {
     "title": "FCNSW Coppabella Rd Plantation",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_603024",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -670,5 +722,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 May 2025 22:30"
+  },
+  {
+    "title": "WEBB ST, WESTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_603162",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8190116879999",
+    "longitude": "151.458023071",
+    "region": "nsw",
+    "time_of_call": "27 May 2025 23:03:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "WEBB ST, WESTON 2326",
+    "council_area": "Cessnock",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 May 2025 23:03"
   }
 ]
