@@ -9,15 +9,15 @@
     "longitude": "149.1331611299",
     "region": "act",
     "time_of_call": "29 May 2025 01:50:05",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STRUCTURE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "IPIMA STREET, BRADDON, 2612",
-    "updated": "29 May 2025 02:47:04"
+    "updated": "29 May 2025 03:01:50"
   },
   {
     "agency": "Ambulance",
@@ -36,24 +36,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
     "updated": "28 May 2025 23:32:58"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "034205-29052025",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "29 May 2025 00:32:26",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "29 May 2025 02:39:57"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "29 May 2025 02:45:56"
+    "updated": "29 May 2025 03:01:22"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +91,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "IPIMA STREET, BRADDON, 2612",
-    "updated": "29 May 2025 02:51:36"
+    "updated": "29 May 2025 03:01:50"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "29 May 2025 02:51:21"
+    "updated": "29 May 2025 03:17:32"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +121,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "29 May 2025 02:52:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "29 May 2025 02:54:45"
+    "updated": "29 May 2025 03:22:07"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +145,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": ""
+    "updated": "29 May 2025 02:58:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "034224-29052025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "29 May 2025 02:55:21",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "29 May 2025 02:58:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WHITLAM",
+    "id": "034227-29052025",
+    "latitude": "-35.277508",
+    "longitude": "149.033417",
+    "region": "act",
+    "time_of_call": "29 May 2025 03:10:33",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WHITLAM",
+    "updated": "29 May 2025 03:14:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "034228-29052025",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "29 May 2025 03:21:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "29 May 2025 03:23:46"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -840,47 +876,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 May 2025 20:58"
-  },
-  {
-    "title": "CRESTWOOD RD, THORNTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604228",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.768627167",
-    "longitude": "151.644348144",
-    "region": "nsw",
-    "time_of_call": "29 May 2025 02:36:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "6B CRESTWOOD RD, THORNTON 2322",
-    "council_area": "Maitland",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 May 2025 02:36"
-  },
-  {
-    "title": "KOLINDA DR, OLD BAR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604229",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.9726028439999",
-    "longitude": "152.559020997",
-    "region": "nsw",
-    "time_of_call": "29 May 2025 02:48:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "21 KOLINDA DR, OLD BAR 2430",
-    "council_area": "Mid-Coast",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 May 2025 02:48"
   }
 ]
