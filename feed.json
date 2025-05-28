@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "29 May 2025 07:27:25"
+    "updated": "29 May 2025 07:39:36"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "29 May 2025 07:21:40"
+    "updated": "29 May 2025 07:46:34"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "29 May 2025 07:32:35"
+    "updated": "29 May 2025 07:48:08"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "29 May 2025 07:21:00",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "29 May 2025 07:24:26"
+    "updated": "29 May 2025 07:41:29"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "29 May 2025 07:34:28"
+    "updated": "29 May 2025 07:36:22"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,31 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "29 May 2025 07:32:28",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "29 May 2025 07:44:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUNLOP",
+    "id": "034250-29052025",
+    "latitude": "-35.193951",
+    "longitude": "149.019471",
+    "region": "act",
+    "time_of_call": "29 May 2025 07:39:51",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "CURTIN",
-    "updated": "29 May 2025 07:33:55"
+    "location": "DUNLOP",
+    "updated": "29 May 2025 07:44:37"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -838,28 +856,6 @@
     "updated": "28 May 2025 20:58"
   },
   {
-    "title": "BURDEKIN DR, ALBION PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604233",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.584529877",
-    "longitude": "150.786590577",
-    "region": "nsw",
-    "time_of_call": "29 May 2025 07:17:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "RESIDENTIAL 81 BURDEKIN DR, ALBION PARK 2527",
-    "council_area": "Shellharbour",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "29 May 2025 07:17"
-  },
-  {
     "title": "BACK WALGETT RD, COONAMBLE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604234",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -878,5 +874,71 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 May 2025 07:21"
+  },
+  {
+    "title": "CANOWINDRA RD, COWRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604235",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.69278717",
+    "longitude": "148.687942505",
+    "region": "nsw",
+    "time_of_call": "29 May 2025 07:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CANOWINDRA RD, COWRA 2794",
+    "council_area": "Cowra",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 May 2025 07:29"
+  },
+  {
+    "title": "HOSPITAL RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604236",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.4001312249999",
+    "longitude": "151.74609375",
+    "region": "nsw",
+    "time_of_call": "29 May 2025 07:35:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "LARA AGED CARE FACILITY 64 HOSPITAL RD, DUNGOG 2420",
+    "council_area": "Dungog",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "29 May 2025 07:35"
+  },
+  {
+    "title": "THE BILLABONG, CLIFTON GROVE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604237",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.245288849",
+    "longitude": "149.155517578",
+    "region": "nsw",
+    "time_of_call": "29 May 2025 07:46:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "14 THE BILLABONG, CLIFTON GROVE 2800",
+    "council_area": "Orange",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 May 2025 07:46"
   }
 ]
