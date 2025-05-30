@@ -75,7 +75,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "31 May 2025 02:26:58"
+    "updated": "31 May 2025 02:40:53"
   },
   {
     "agency": "Ambulance",
@@ -105,13 +105,49 @@
     "longitude": "149.064742",
     "region": "act",
     "time_of_call": "31 May 2025 02:07:41",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SPENCE",
+    "updated": "31 May 2025 02:39:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "034775-31052025",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "31 May 2025 02:35:05",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "SPENCE",
-    "updated": "31 May 2025 02:14:25"
+    "location": "NGUNNAWAL",
+    "updated": "31 May 2025 02:37:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "034776-31052025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "31 May 2025 02:36:16",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": "31 May 2025 02:47:13"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -688,5 +724,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "31 May 2025 02:02"
+  },
+  {
+    "title": "EDMONDSON AV, AUSTRAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604383",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.933109284",
+    "longitude": "150.812042236",
+    "region": "nsw",
+    "time_of_call": "31 May 2025 02:33:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "EDMONDSON AV, AUSTRAL 2179",
+    "council_area": "Liverpool",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "31 May 2025 02:33"
   }
 ]
