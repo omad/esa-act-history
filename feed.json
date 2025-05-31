@@ -281,7 +281,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "31 May 2025 16:52:05"
+    "updated": "31 May 2025 17:30:36"
   },
   {
     "agency": "Ambulance",
@@ -293,13 +293,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "31 May 2025 16:03:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "31 May 2025 17:19:36"
+    "updated": "31 May 2025 17:30:33"
   },
   {
     "agency": "Ambulance",
@@ -443,7 +443,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "31 May 2025 17:21:46"
+    "updated": "31 May 2025 17:27:56"
   },
   {
     "agency": "Ambulance",
@@ -461,7 +461,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "31 May 2025 17:21:50"
+    "updated": "31 May 2025 17:24:01"
   },
   {
     "agency": "Ambulance",
@@ -479,7 +479,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "31 May 2025 17:21:39"
+    "updated": "31 May 2025 17:29:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "034917-31052025",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "31 May 2025 17:27:00",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "31 May 2025 17:30:33"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -1118,26 +1136,6 @@
     "updated": "31 May 2025 10:14"
   },
   {
-    "title": "OTFORD RD, STANWELL TOPS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604418",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.2235946659999",
-    "longitude": "150.997329712",
-    "region": "nsw",
-    "time_of_call": "31 May 2025 13:40:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "OTFORD RD, STANWELL TOPS 2508",
-    "council_area": "Wollongong",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 May 2025 13:40"
-  },
-  {
     "title": "BOOBALAGA RD, LOST RIVER",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604431",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1182,50 +1180,6 @@
     "updated": "31 May 2025 16:45"
   },
   {
-    "title": "SMITHS RD, CLEAR RANGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604434",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.644718171",
-    "longitude": "149.115585327",
-    "region": "nsw",
-    "time_of_call": "31 May 2025 16:34:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "1668 SMITHS RD, CLEAR RANGE 2620",
-    "council_area": "Snowy Monaro",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 May 2025 16:34"
-  },
-  {
-    "title": "HUNTER EXP, CAMERON PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604435",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.884719848",
-    "longitude": "151.591506958",
-    "region": "nsw",
-    "time_of_call": "31 May 2025 17:02:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "HUNTER EXP, CAMERON PARK 2285",
-    "council_area": "Lake Macquarie",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 May 2025 17:02"
-  },
-  {
     "title": "CROOME RD, CROOM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604437",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1266,5 +1220,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "31 May 2025 17:09"
+  },
+  {
+    "title": "Gilmore Cr, Byron Bay",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604442",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.642782",
+    "longitude": "153.616652",
+    "region": "nsw",
+    "time_of_call": "31 May 2025 17:27:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Gilmore Cr, Byron Bay, NSW 2481",
+    "council_area": "Byron",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "31 May 2025 17:27"
   }
 ]
