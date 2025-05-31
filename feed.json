@@ -115,7 +115,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "01 Jun 2025 00:18:00"
+    "updated": "01 Jun 2025 00:34:20"
   },
   {
     "agency": "Ambulance",
@@ -259,7 +259,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "01 Jun 2025 00:11:13"
+    "updated": "01 Jun 2025 00:35:50"
   },
   {
     "agency": "Ambulance",
@@ -277,7 +277,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "01 Jun 2025 00:11:13"
+    "updated": "01 Jun 2025 00:26:14"
   },
   {
     "agency": "Ambulance",
@@ -314,6 +314,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
     "updated": "01 Jun 2025 00:12:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HAWKER",
+    "id": "035005-01062025",
+    "latitude": "-35.246757",
+    "longitude": "149.03611",
+    "region": "act",
+    "time_of_call": "01 Jun 2025 00:23:34",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HAWKER",
+    "updated": "01 Jun 2025 00:33:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "035006-01062025",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "01 Jun 2025 00:24:41",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "01 Jun 2025 00:29:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "035009-01062025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "01 Jun 2025 00:32:17",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "01 Jun 2025 00:35:21"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -917,9 +971,9 @@
     "latitude": "-35.018852234",
     "longitude": "149.020370484",
     "region": "nsw",
-    "time_of_call": "31 May 2025 18:43:00",
+    "time_of_call": "01 Jun 2025 00:22:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BARTON HWY, JEIR 2582",
     "council_area": "Yass Valley",
@@ -929,7 +983,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 May 2025 18:43"
+    "updated": "1 Jun 2025 00:22"
   },
   {
     "title": "COROMANDEL RD, EBENEZER",
@@ -954,28 +1008,6 @@
     "updated": "31 May 2025 22:06"
   },
   {
-    "title": "JONATHONS CREEK SPUR, GLENROY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604467",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.708652496",
-    "longitude": "147.895477295",
-    "region": "nsw",
-    "time_of_call": "31 May 2025 22:58:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "220 JONATHONS CREEK SPUR, GLENROY 2653",
-    "council_area": "Snowy Valleys",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 May 2025 22:58"
-  },
-  {
     "title": "NURLA AV, MALUA BAY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604474",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -983,9 +1015,9 @@
     "latitude": "-35.798145295",
     "longitude": "150.22706604",
     "region": "nsw",
-    "time_of_call": "31 May 2025 23:58:00",
+    "time_of_call": "01 Jun 2025 00:32:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "7 NURLA AV, MALUA BAY 2536",
     "council_area": "Eurobodalla",
@@ -993,6 +1025,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 May 2025 23:58"
+    "updated": "1 Jun 2025 00:32"
   }
 ]
