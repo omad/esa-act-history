@@ -101,13 +101,13 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "02 Jun 2025 07:19:07",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "02 Jun 2025 08:19:50"
+    "updated": "02 Jun 2025 08:47:04"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "02 Jun 2025 08:37:47"
+    "updated": "02 Jun 2025 08:40:28"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +215,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "02 Jun 2025 08:35:44"
+    "updated": "02 Jun 2025 08:46:04"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +233,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "02 Jun 2025 08:39:39"
+    "updated": "02 Jun 2025 08:40:37"
   },
   {
     "agency": "Ambulance",
@@ -245,13 +245,85 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "02 Jun 2025 08:39:31",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "02 Jun 2025 08:48:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "035266-02062025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "02 Jun 2025 08:42:31",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "02 Jun 2025 08:39:53"
+    "location": "BELCONNEN",
+    "updated": "02 Jun 2025 08:46:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "035267-02062025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "02 Jun 2025 08:42:37",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "02 Jun 2025 08:47:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "035268-02062025",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "02 Jun 2025 08:42:52",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GRIFFITH",
+    "updated": "02 Jun 2025 08:48:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACQUARIE",
+    "id": "035270-02062025",
+    "latitude": "-35.249901",
+    "longitude": "149.061171",
+    "region": "act",
+    "time_of_call": "02 Jun 2025 08:47:24",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACQUARIE",
+    "updated": "02 Jun 2025 08:48:50"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -857,9 +929,9 @@
     "latitude": "-32.9831657409999",
     "longitude": "149.736495972",
     "region": "nsw",
-    "time_of_call": "02 Jun 2025 07:43:00",
+    "time_of_call": "02 Jun 2025 08:37:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "SOFALA RD, WATTLE FLAT 2795",
     "council_area": "Mid-Western",
@@ -869,7 +941,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Jun 2025 07:43"
+    "updated": "2 Jun 2025 08:37"
   },
   {
     "title": "KAMILAROI HWY, MERAH NORTH",
