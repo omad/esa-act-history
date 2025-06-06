@@ -53,7 +53,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "07 Jun 2025 07:06:36"
+    "updated": "07 Jun 2025 07:28:19"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
-    "updated": "07 Jun 2025 07:23:57"
+    "updated": "07 Jun 2025 07:35:32"
   },
   {
     "agency": "Ambulance",
@@ -107,25 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "07 Jun 2025 07:10:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GOWRIE",
-    "id": "036539-07062025",
-    "latitude": "-35.411365",
-    "longitude": "149.110257",
-    "region": "act",
-    "time_of_call": "07 Jun 2025 07:04:11",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GOWRIE",
-    "updated": "07 Jun 2025 07:10:46"
+    "updated": "07 Jun 2025 07:31:10"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +119,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "07 Jun 2025 07:14:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "07 Jun 2025 07:16:13"
+    "updated": "07 Jun 2025 07:26:21"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "07 Jun 2025 07:23:05"
+    "updated": "07 Jun 2025 07:27:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "036545-07062025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "07 Jun 2025 07:25:22",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "07 Jun 2025 07:29:39"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -402,6 +402,26 @@
     "updated": "4 Jun 2025 14:44"
   },
   {
+    "title": "MELALEUCA PL, TAREE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604608",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.899049759",
+    "longitude": "152.449493408",
+    "region": "nsw",
+    "time_of_call": "07 Jun 2025 07:32:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "17 MELALEUCA PL, TAREE 2430",
+    "council_area": "Mid-Coast",
+    "type": "Search/Rescue",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "NSW Police",
+    "updated": "7 Jun 2025 07:32"
+  },
+  {
     "title": "REMEMBRANCE DVWY, PICTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604636",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -627,9 +647,9 @@
     "latitude": "-34.688407898",
     "longitude": "148.647323608",
     "region": "nsw",
-    "time_of_call": "07 Jun 2025 06:51:00",
+    "time_of_call": "07 Jun 2025 07:26:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BURLEY GRIFFIN WAY, BINALONG 2584",
     "council_area": "Yass Valley",
@@ -637,6 +657,48 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jun 2025 06:51"
+    "updated": "7 Jun 2025 07:26"
+  },
+  {
+    "title": "EASTERN RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604960",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.769584655",
+    "longitude": "150.85836792",
+    "region": "nsw",
+    "time_of_call": "07 Jun 2025 07:19:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BLACKTOWN INT SPORTSPARK 81 EASTERN RD, ROOTY HILL 2766",
+    "council_area": "Blacktown",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "7 Jun 2025 07:19"
+  },
+  {
+    "title": "BECKS RD, FREEMANS WATERHOLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604961",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.007217408",
+    "longitude": "151.489181518",
+    "region": "nsw",
+    "time_of_call": "07 Jun 2025 07:28:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BECKS RD, FREEMANS WATERHOLE 2323",
+    "council_area": "Lake Macquarie",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Jun 2025 07:28"
   }
 ]
