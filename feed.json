@@ -53,7 +53,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "07 Jun 2025 07:28:19"
+    "updated": "07 Jun 2025 07:38:01"
   },
   {
     "agency": "Ambulance",
@@ -72,24 +72,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
     "updated": "07 Jun 2025 07:05:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HAWKER",
-    "id": "036526-07062025",
-    "latitude": "-35.246757",
-    "longitude": "149.03611",
-    "region": "act",
-    "time_of_call": "07 Jun 2025 05:17:50",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HAWKER",
-    "updated": "07 Jun 2025 07:35:32"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "07 Jun 2025 07:26:21"
+    "updated": "07 Jun 2025 07:48:22"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +137,49 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "07 Jun 2025 07:25:22",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "07 Jun 2025 07:29:39"
+    "updated": "07 Jun 2025 07:39:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "036551-07062025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "07 Jun 2025 07:45:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "07 Jun 2025 07:48:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BARTON",
+    "id": "036552-07062025",
+    "latitude": "-35.309306",
+    "longitude": "149.13437",
+    "region": "act",
+    "time_of_call": "07 Jun 2025 07:47:18",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BARTON",
+    "updated": "07 Jun 2025 07:48:42"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -660,28 +678,6 @@
     "updated": "7 Jun 2025 07:26"
   },
   {
-    "title": "EASTERN RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604960",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.769584655",
-    "longitude": "150.85836792",
-    "region": "nsw",
-    "time_of_call": "07 Jun 2025 07:19:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "BLACKTOWN INT SPORTSPARK 81 EASTERN RD, ROOTY HILL 2766",
-    "council_area": "Blacktown",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Jun 2025 07:19"
-  },
-  {
     "title": "BECKS RD, FREEMANS WATERHOLE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604961",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -689,9 +685,9 @@
     "latitude": "-33.007217408",
     "longitude": "151.489181518",
     "region": "nsw",
-    "time_of_call": "07 Jun 2025 07:28:00",
+    "time_of_call": "07 Jun 2025 07:46:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BECKS RD, FREEMANS WATERHOLE 2323",
     "council_area": "Lake Macquarie",
@@ -699,6 +695,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jun 2025 07:28"
+    "updated": "7 Jun 2025 07:46"
   }
 ]
