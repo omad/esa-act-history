@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "KALLAROO ROAD, PIALLIGO, 2609",
-    "updated": "06 Jun 2025 15:30:37"
+    "updated": "06 Jun 2025 21:27:14"
   },
   {
     "agency": "Fire",
@@ -29,15 +29,15 @@
     "longitude": "149.1297654699",
     "region": "act",
     "time_of_call": "06 Jun 2025 19:41:53",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "WATTLE STREET, OCONNOR, 2602",
-    "updated": "06 Jun 2025 21:21:39"
+    "updated": "06 Jun 2025 21:31:22"
   },
   {
     "agency": "Fire",
@@ -94,24 +94,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
     "updated": "06 Jun 2025 20:46:41"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CONDER",
-    "id": "036400-06062025",
-    "latitude": "-35.458351",
-    "longitude": "149.106348",
-    "region": "act",
-    "time_of_call": "06 Jun 2025 18:01:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CONDER",
-    "updated": "06 Jun 2025 19:44:33"
   },
   {
     "agency": "Ambulance",
@@ -285,13 +267,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "06 Jun 2025 21:01:08",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "06 Jun 2025 21:21:15"
+    "updated": "06 Jun 2025 21:30:44"
   },
   {
     "agency": "Ambulance",
@@ -309,7 +291,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "06 Jun 2025 21:14:57"
+    "updated": "06 Jun 2025 21:24:50"
   },
   {
     "agency": "Ambulance",
@@ -321,13 +303,13 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "06 Jun 2025 21:02:41",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "06 Jun 2025 21:22:27"
+    "updated": "06 Jun 2025 21:30:00"
   },
   {
     "agency": "Ambulance",
@@ -363,7 +345,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "06 Jun 2025 21:16:51"
+    "updated": "06 Jun 2025 21:32:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "036442-06062025",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "06 Jun 2025 21:27:03",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "06 Jun 2025 21:34:22"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -842,28 +842,25 @@
     "updated": "6 Jun 2025 20:59"
   },
   {
-    "title": "The Esplanade, Cronulla",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604937",
+    "title": "FEDERAL HWY, BYWONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_604938",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.060908001",
-    "longitude": "151.156693",
+    "latitude": "-35.173099518",
+    "longitude": "149.299209595",
     "region": "nsw",
-    "time_of_call": "06 Jun 2025 21:11:00",
+    "time_of_call": "06 Jun 2025 21:22:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "11R The Esplanade, Cronulla, NSW 2230",
-    "council_area": "Sutherland",
-    "type": "Bush Fire",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "FEDERAL HWY, BYWONG 2621",
+    "council_area": "Yass Valley",
+    "type": "MVA/Transport",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Jun 2025 21:11"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Jun 2025 21:22"
   }
 ]
