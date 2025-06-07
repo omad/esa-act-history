@@ -60,6 +60,26 @@
     "updated": "07 Jun 2025 19:23:23"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - NGUNNAWAL",
+    "id": "008810-07062025",
+    "latitude": "-35.1738192099",
+    "longitude": "149.1095491899",
+    "region": "act",
+    "time_of_call": "07 Jun 2025 19:45:28",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
+    "location": "GAMBAN SQUARE, NGUNNAWAL, 2913",
+    "updated": "07 Jun 2025 19:48:31"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -129,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "07 Jun 2025 19:28:14"
+    "updated": "07 Jun 2025 19:41:40"
   },
   {
     "agency": "Ambulance",
@@ -231,13 +251,13 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "07 Jun 2025 18:32:35",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "07 Jun 2025 19:31:50"
+    "updated": "07 Jun 2025 19:47:12"
   },
   {
     "agency": "Ambulance",
@@ -255,25 +275,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "07 Jun 2025 19:09:46"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - EVATT",
-    "id": "036703-07062025",
-    "latitude": "-35.212001",
-    "longitude": "149.066294",
-    "region": "act",
-    "time_of_call": "07 Jun 2025 19:00:57",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "EVATT",
-    "updated": "07 Jun 2025 19:25:07"
+    "updated": "07 Jun 2025 19:45:22"
   },
   {
     "agency": "Ambulance",
@@ -292,6 +294,44 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
     "updated": "07 Jun 2025 19:25:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THROSBY",
+    "id": "036707-07062025",
+    "latitude": "-35.187595",
+    "longitude": "149.161141",
+    "region": "act",
+    "time_of_call": "07 Jun 2025 19:42:32",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THROSBY",
+    "updated": "07 Jun 2025 19:48:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - NGUNNAWAL",
+    "id": "036708-07062025",
+    "latitude": "-35.1738192099",
+    "longitude": "149.1095491899",
+    "region": "act",
+    "time_of_call": "07 Jun 2025 19:45:29",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "",
+    "location": "GAMBAN SQUARE, NGUNNAWAL, 2913",
+    "updated": "07 Jun 2025 19:46:08"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -821,7 +861,7 @@
     "latitude": "-33.179882049",
     "longitude": "148.457199096",
     "region": "nsw",
-    "time_of_call": "07 Jun 2025 14:26:00",
+    "time_of_call": "07 Jun 2025 19:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -833,7 +873,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jun 2025 14:26"
+    "updated": "7 Jun 2025 19:43"
   },
   {
     "title": "NEW ENGLAND GULLY RD, MOONBI",
@@ -876,28 +916,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "7 Jun 2025 17:01"
-  },
-  {
-    "title": "COOMA ST, BREDBO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605027",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.9608345029999",
-    "longitude": "149.149459839",
-    "region": "nsw",
-    "time_of_call": "07 Jun 2025 19:28:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "COOMA ST, BREDBO 2626",
-    "council_area": "Snowy Monaro",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jun 2025 19:28"
   },
   {
     "title": "TOWRANG RD, GREENWICH PARK",
@@ -995,9 +1013,9 @@
     "latitude": "-30.6400604249999",
     "longitude": "152.990997315",
     "region": "nsw",
-    "time_of_call": "07 Jun 2025 19:01:00",
+    "time_of_call": "07 Jun 2025 19:37:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MANN ST, NAMBUCCA HEADS 2448",
     "council_area": "Nambucca",
@@ -1007,7 +1025,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Jun 2025 19:01"
+    "updated": "7 Jun 2025 19:37"
   },
   {
     "title": "CROOKWELL RD, WAYO",
@@ -1021,7 +1039,7 @@
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "CROOKWELL RD, WAYO 2580",
+    "location": "2082 CROOKWELL RD, WAYO 2580",
     "council_area": "Upper Lachlan",
     "type": "Grass Fire",
     "type_description": "",
@@ -1030,27 +1048,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "7 Jun 2025 19:15"
-  },
-  {
-    "title": "QUEENS PINCH RD, MEROO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605041",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.768764496",
-    "longitude": "149.597671509",
-    "region": "nsw",
-    "time_of_call": "07 Jun 2025 19:31:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "QUEENS PINCH RD, MEROO 2850",
-    "council_area": "Mid-Western",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jun 2025 19:31"
   }
 ]
