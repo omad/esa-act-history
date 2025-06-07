@@ -49,15 +49,15 @@
     "longitude": "149.1263275146",
     "region": "act",
     "time_of_call": "07 Jun 2025 20:24:58",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "DAVID STREET, OCONNOR, 2602",
-    "updated": "08 Jun 2025 00:46:35"
+    "updated": "08 Jun 2025 01:14:56"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +165,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "07 Jun 2025 22:16:26"
+    "updated": "08 Jun 2025 01:21:23"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "08 Jun 2025 00:42:38"
+    "updated": "08 Jun 2025 01:23:55"
   },
   {
     "agency": "Ambulance",
@@ -231,13 +231,13 @@
     "longitude": "149.078026",
     "region": "act",
     "time_of_call": "07 Jun 2025 23:39:03",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "OXLEY",
-    "updated": "08 Jun 2025 00:44:43"
+    "updated": "08 Jun 2025 00:55:48"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +291,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "08 Jun 2025 00:38:23"
+    "updated": "08 Jun 2025 00:53:42"
   },
   {
     "agency": "Ambulance",
@@ -321,13 +321,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "08 Jun 2025 00:35:04",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "08 Jun 2025 00:48:41"
+    "updated": "08 Jun 2025 01:21:57"
   },
   {
     "agency": "Ambulance",
@@ -345,7 +345,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "08 Jun 2025 00:42:20"
+    "updated": "08 Jun 2025 01:11:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MAWSON",
+    "id": "036773-08062025",
+    "latitude": "-35.361049",
+    "longitude": "149.099386",
+    "region": "act",
+    "time_of_call": "08 Jun 2025 00:55:18",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MAWSON",
+    "updated": "08 Jun 2025 00:59:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "036774-08062025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "08 Jun 2025 01:10:04",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "08 Jun 2025 01:16:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "036776-08062025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "08 Jun 2025 01:20:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "08 Jun 2025 01:22:25"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -952,49 +1006,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "7 Jun 2025 22:45"
-  },
-  {
-    "title": "YANGA WAY, KYALITE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605057",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.879642487",
-    "longitude": "143.499557495",
-    "region": "nsw",
-    "time_of_call": "07 Jun 2025 23:43:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "YANGA WAY, KYALITE 2715",
-    "council_area": "Murray River",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Jun 2025 23:43"
-  },
-  {
-    "title": "MORNINGSTAR CR, NORTH ROTHBURY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605058",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.6702804569999",
-    "longitude": "151.34135437",
-    "region": "nsw",
-    "time_of_call": "08 Jun 2025 00:35:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MORNINGSTAR CR, NORTH ROTHBURY 2335",
-    "council_area": "Cessnock",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Jun 2025 00:35"
   }
 ]
