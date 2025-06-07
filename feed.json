@@ -49,15 +49,15 @@
     "longitude": "149.114269",
     "region": "act",
     "time_of_call": "08 Jun 2025 08:03:54",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "ROUNDABOUT, STONEHAVEN CRESCENT, GOWRIE DRIVE, DEAKIN, 2600",
-    "updated": "08 Jun 2025 08:10:24"
+    "updated": "08 Jun 2025 08:27:55"
   },
   {
     "agency": "Ambulance",
@@ -75,25 +75,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "08 Jun 2025 07:21:22"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BANKS",
-    "id": "036809-08062025",
-    "latitude": "-35.471552",
-    "longitude": "149.100249",
-    "region": "act",
-    "time_of_call": "08 Jun 2025 06:50:57",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BANKS",
-    "updated": "08 Jun 2025 08:01:12"
+    "updated": "08 Jun 2025 08:29:17"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "08 Jun 2025 08:07:51"
+    "updated": "08 Jun 2025 08:37:27"
   },
   {
     "agency": "Ambulance",
@@ -149,7 +131,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "ROUNDABOUT, STONEHAVEN CRESCENT, GOWRIE DRIVE, DEAKIN, 2600",
-    "updated": "08 Jun 2025 08:12:12"
+    "updated": "08 Jun 2025 08:27:55"
   },
   {
     "agency": "Ambulance",
@@ -167,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "08 Jun 2025 08:15:24"
+    "updated": "08 Jun 2025 08:31:58"
   },
   {
     "agency": "Ambulance",
@@ -222,6 +204,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
     "updated": "08 Jun 2025 08:16:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WRIGHT",
+    "id": "036825-08062025",
+    "latitude": "-35.323404",
+    "longitude": "149.036274",
+    "region": "act",
+    "time_of_call": "08 Jun 2025 08:37:34",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WRIGHT",
+    "updated": "08 Jun 2025 08:39:15"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -815,9 +815,9 @@
     "latitude": "-33.69631958",
     "longitude": "149.831298828",
     "region": "nsw",
-    "time_of_call": "08 Jun 2025 07:51:00",
+    "time_of_call": "08 Jun 2025 08:26:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GLEN-AYR 147 OCONNELL RD, OBERON 2787",
     "council_area": "Oberon",
@@ -827,7 +827,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Jun 2025 07:51"
+    "updated": "8 Jun 2025 08:26"
   },
   {
     "title": "GWAGEBAR TIP GWABEGAR RD, GWABEGAR",
@@ -850,5 +850,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Jun 2025 07:45"
+  },
+  {
+    "title": "IRON GATES DR, EVANS HEAD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605076",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.122392654",
+    "longitude": "153.421157837",
+    "region": "nsw",
+    "time_of_call": "08 Jun 2025 08:35:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "IRON GATES DR, EVANS HEAD 2473",
+    "council_area": "Richmond Valley",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Jun 2025 08:35"
+  },
+  {
+    "title": "BARWON ST, MUNGINDI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605077",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.973934173",
+    "longitude": "148.992721558",
+    "region": "nsw",
+    "time_of_call": "08 Jun 2025 08:35:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MUNGINDI HOSPITAL 86 BARWON ST, MUNGINDI 2406",
+    "council_area": "Moree Plains",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Jun 2025 08:35"
   }
 ]
