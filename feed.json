@@ -171,42 +171,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRUCE",
-    "id": "036746-07062025",
-    "latitude": "-35.242777",
-    "longitude": "149.096998",
-    "region": "act",
-    "time_of_call": "07 Jun 2025 22:35:59",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BRUCE",
-    "updated": "08 Jun 2025 01:32:05"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "036750-07062025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "07 Jun 2025 23:13:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "08 Jun 2025 00:48:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CHAPMAN",
     "id": "036752-07062025",
     "latitude": "-35.356631",
@@ -237,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "OXLEY",
-    "updated": "08 Jun 2025 01:25:53"
+    "updated": "08 Jun 2025 01:40:09"
   },
   {
     "agency": "Ambulance",
@@ -249,13 +213,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "07 Jun 2025 23:45:02",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "07 Jun 2025 23:52:13"
+    "updated": ""
   },
   {
     "agency": "Ambulance",
@@ -327,25 +291,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "08 Jun 2025 01:26:27"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLT",
-    "id": "036766-08062025",
-    "latitude": "-35.224201",
-    "longitude": "149.013141",
-    "region": "act",
-    "time_of_call": "08 Jun 2025 00:38:04",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HOLT",
-    "updated": "08 Jun 2025 01:11:31"
+    "updated": "08 Jun 2025 01:47:28"
   },
   {
     "agency": "Ambulance",
@@ -363,7 +309,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "08 Jun 2025 01:35:51"
+    "updated": "08 Jun 2025 01:39:06"
   },
   {
     "agency": "Ambulance",
@@ -399,7 +345,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "08 Jun 2025 01:32:21"
+    "updated": "08 Jun 2025 01:36:26"
   },
   {
     "agency": "Ambulance",
@@ -417,7 +363,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "08 Jun 2025 01:34:57"
+    "updated": "08 Jun 2025 01:37:25"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -1024,5 +970,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "7 Jun 2025 22:45"
+  },
+  {
+    "title": "BROMAGE RD, ABERMAIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605060",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8361053469999",
+    "longitude": "151.448440552",
+    "region": "nsw",
+    "time_of_call": "08 Jun 2025 01:41:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BROMAGE RD, ABERMAIN 2326",
+    "council_area": "Cessnock",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Jun 2025 01:41"
   }
 ]
