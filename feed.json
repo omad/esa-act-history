@@ -87,13 +87,13 @@
     "longitude": "149.064271",
     "region": "act",
     "time_of_call": "08 Jun 2025 06:14:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "08 Jun 2025 07:19:49"
+    "updated": "08 Jun 2025 07:32:54"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "08 Jun 2025 07:09:34"
+    "updated": "08 Jun 2025 07:23:08"
   },
   {
     "agency": "Ambulance",
@@ -798,5 +798,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Jun 2025 07:16"
+  },
+  {
+    "title": "FREEMANS DR, COORANBONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605073",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.032543182",
+    "longitude": "151.490142822",
+    "region": "nsw",
+    "time_of_call": "08 Jun 2025 07:24:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "794 FREEMANS DR, COORANBONG 2265",
+    "council_area": "Lake Macquarie",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Jun 2025 07:24"
+  },
+  {
+    "title": "OCONNELL RD, OBERON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605074",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.69631958",
+    "longitude": "149.831298828",
+    "region": "nsw",
+    "time_of_call": "08 Jun 2025 07:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GLEN-AYR 147 OCONNELL RD, OBERON 2787",
+    "council_area": "Oberon",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Jun 2025 07:32"
   }
 ]
