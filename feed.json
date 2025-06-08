@@ -147,7 +147,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "08 Jun 2025 18:29:53"
+    "updated": "08 Jun 2025 19:37:55"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "08 Jun 2025 19:36:37"
+    "updated": "08 Jun 2025 19:40:08"
   },
   {
     "agency": "Ambulance",
@@ -195,13 +195,13 @@
     "longitude": "148.98074",
     "region": "act",
     "time_of_call": "08 Jun 2025 19:30:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "08 Jun 2025 19:34:59"
+    "updated": "08 Jun 2025 19:46:45"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +219,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "08 Jun 2025 19:36:23"
+    "updated": "08 Jun 2025 19:42:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PEARCE",
+    "id": "036925-08062025",
+    "latitude": "-35.361582",
+    "longitude": "149.085118",
+    "region": "act",
+    "time_of_call": "08 Jun 2025 19:39:24",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PEARCE",
+    "updated": "08 Jun 2025 19:45:52"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -811,72 +829,6 @@
     "updated": "8 Jun 2025 18:52"
   },
   {
-    "title": "MAIN ST, SMITHTOWN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605141",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.015258789",
-    "longitude": "152.941986084",
-    "region": "nsw",
-    "time_of_call": "08 Jun 2025 19:32:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "59 MAIN ST, SMITHTOWN 2440",
-    "council_area": "Kempsey",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Jun 2025 19:32"
-  },
-  {
-    "title": "DERWENT RD, BRINGELLY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605142",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.9116592409999",
-    "longitude": "150.726303101",
-    "region": "nsw",
-    "time_of_call": "08 Jun 2025 19:26:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "41 DERWENT RD, BRINGELLY 2556",
-    "council_area": "Liverpool",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Jun 2025 19:26"
-  },
-  {
-    "title": "MORETON RD, MINTO HEIGHTS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605143",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.0361747749999",
-    "longitude": "150.873825073",
-    "region": "nsw",
-    "time_of_call": "08 Jun 2025 19:15:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "3 MORETON RD, MINTO HEIGHTS 2566",
-    "council_area": "Campbelltown",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Jun 2025 19:15"
-  },
-  {
     "title": "MITCHELL ST",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605145",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -906,9 +858,9 @@
     "latitude": "-32.8804919999999",
     "longitude": "151.802049",
     "region": "nsw",
-    "time_of_call": "08 Jun 2025 19:35:00",
+    "time_of_call": "08 Jun 2025 19:45:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -921,6 +873,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Jun 2025 19:35"
+    "updated": "8 Jun 2025 19:45"
   }
 ]
