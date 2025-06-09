@@ -23,24 +23,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLT",
-    "id": "037138-09062025",
-    "latitude": "-35.224201",
-    "longitude": "149.013141",
-    "region": "act",
-    "time_of_call": "09 Jun 2025 22:58:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HOLT",
-    "updated": "10 Jun 2025 02:06:19"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MACGREGOR",
     "id": "037155-10062025",
     "latitude": "-35.210615",
@@ -71,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "10 Jun 2025 01:47:43"
+    "updated": "10 Jun 2025 02:54:04"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +65,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "10 Jun 2025 01:54:23",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "10 Jun 2025 02:32:30"
+    "updated": "10 Jun 2025 02:41:07"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +83,13 @@
     "longitude": "149.046336",
     "region": "act",
     "time_of_call": "10 Jun 2025 02:18:39",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "10 Jun 2025 02:26:33"
+    "updated": "10 Jun 2025 02:48:17"
   },
   {
     "agency": "Ambulance",
@@ -126,6 +108,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
     "updated": "10 Jun 2025 02:32:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "037162-10062025",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "10 Jun 2025 02:49:09",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "10 Jun 2025 02:54:19"
   },
   {
     "title": "Prescribed Burn Bally Roe 25AC ",
@@ -797,5 +797,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Jun 2025 02:24"
+  },
+  {
+    "title": "GOBONDERY ST, TRUNDLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605260",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.9193840029999",
+    "longitude": "147.706954956",
+    "region": "nsw",
+    "time_of_call": "10 Jun 2025 02:48:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "42 GOBONDERY ST, TRUNDLE 2875",
+    "council_area": "Parkes",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Jun 2025 02:48"
   }
 ]
