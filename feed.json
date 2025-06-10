@@ -15,7 +15,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "11 Jun 2025 09:20:47"
+    "updated": "11 Jun 2025 09:43:35"
   },
   {
     "agency": "Ambulance",
@@ -27,13 +27,13 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "11 Jun 2025 08:04:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "11 Jun 2025 09:30:41"
+    "updated": "11 Jun 2025 09:42:51"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "11 Jun 2025 09:33:01"
+    "updated": "11 Jun 2025 09:42:45"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +195,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "11 Jun 2025 09:30:18"
+    "updated": "11 Jun 2025 09:46:53"
   },
   {
     "agency": "Ambulance",
@@ -207,13 +207,13 @@
     "longitude": "149.072217",
     "region": "act",
     "time_of_call": "11 Jun 2025 09:21:41",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "11 Jun 2025 09:30:11"
+    "updated": "11 Jun 2025 09:46:13"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +231,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "11 Jun 2025 09:36:43"
+    "updated": "11 Jun 2025 09:43:15"
   },
   {
     "title": "Prescribed Burn the Gap 25 AC ",
@@ -515,28 +515,6 @@
     "updated": "11 Jun 2025 08:04"
   },
   {
-    "title": "MURRUMBIDGEE AV, HANWOOD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605333",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.3292808539999",
-    "longitude": "146.025497437",
-    "region": "nsw",
-    "time_of_call": "11 Jun 2025 08:46:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "MURRUMBIDGEE AV, HANWOOD 2680",
-    "council_area": "Griffith",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Jun 2025 08:46"
-  },
-  {
     "title": "FERNLEIGH RD, ASHMONT",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605335",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -628,9 +606,9 @@
     "latitude": "-33.616035461",
     "longitude": "150.901489258",
     "region": "nsw",
-    "time_of_call": "11 Jun 2025 09:22:00",
+    "time_of_call": "11 Jun 2025 09:47:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BOUNDARY RD, GABLES 2765",
     "council_area": "The Hills",
@@ -640,6 +618,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Jun 2025 09:22"
+    "updated": "11 Jun 2025 09:47"
+  },
+  {
+    "title": "EDMONDSON AV, AUSTRAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_605341",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.94618988",
+    "longitude": "150.810791016",
+    "region": "nsw",
+    "time_of_call": "11 Jun 2025 09:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "SCALABRINI VILLAGE 65 EDMONDSON AV, AUSTRAL 2179",
+    "council_area": "Liverpool",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Jun 2025 09:32"
   }
 ]
