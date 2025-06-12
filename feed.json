@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "FIRE CTRL RM, EMU  BANK, BELCONNEN, 2617",
-    "updated": "13 Jun 2025 03:18:34"
+    "updated": "13 Jun 2025 03:25:26"
   },
   {
     "agency": "Ambulance",
@@ -90,6 +90,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
     "updated": "13 Jun 2025 00:01:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "037926-13062025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "13 Jun 2025 03:24:17",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "13 Jun 2025 03:29:15"
   },
   {
     "title": "Nundle SF",
@@ -347,28 +365,6 @@
     "updated": "12 Jun 2025 18:13"
   },
   {
-    "title": "RIVERSIDE DR, AIRDS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606445",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.0871963499999",
-    "longitude": "150.835586547",
-    "region": "nsw",
-    "time_of_call": "13 Jun 2025 03:10:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "184 RIVERSIDE DR, AIRDS 2560",
-    "council_area": "Campbelltown",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "13 Jun 2025 03:10"
-  },
-  {
     "title": "Railway St, Kogarah",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606447",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -376,9 +372,9 @@
     "latitude": "-33.9666319999999",
     "longitude": "151.129542",
     "region": "nsw",
-    "time_of_call": "13 Jun 2025 03:18:00",
+    "time_of_call": "13 Jun 2025 03:28:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -391,6 +387,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "13 Jun 2025 03:18"
+    "updated": "13 Jun 2025 03:28"
   }
 ]
