@@ -165,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "14 Jun 2025 22:59:04"
+    "updated": "14 Jun 2025 23:51:02"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +213,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "14 Jun 2025 22:06:07",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "14 Jun 2025 23:42:49"
+    "updated": "15 Jun 2025 00:18:12"
   },
   {
     "agency": "Ambulance",
@@ -273,7 +273,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "14 Jun 2025 23:38:59"
+    "updated": "15 Jun 2025 00:15:36"
   },
   {
     "agency": "Ambulance",
@@ -327,7 +327,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "14 Jun 2025 23:47:27"
+    "updated": "15 Jun 2025 00:10:14"
   },
   {
     "agency": "Ambulance",
@@ -339,13 +339,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "14 Jun 2025 23:41:57",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "14 Jun 2025 23:46:35"
+    "updated": "14 Jun 2025 23:50:42"
   },
   {
     "agency": "Ambulance",
@@ -381,7 +381,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "14 Jun 2025 23:48:38"
+    "updated": "15 Jun 2025 00:10:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONYTHON",
+    "id": "038354-14062025",
+    "latitude": "-35.435736",
+    "longitude": "149.081053",
+    "region": "act",
+    "time_of_call": "14 Jun 2025 23:53:22",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONYTHON",
+    "updated": "15 Jun 2025 00:05:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
+    "id": "038355-15062025",
+    "latitude": "-35.425091",
+    "longitude": "149.088064",
+    "region": "act",
+    "time_of_call": "15 Jun 2025 00:05:11",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "15 Jun 2025 00:22:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "038357-15062025",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "15 Jun 2025 00:15:29",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "15 Jun 2025 00:22:41"
   },
   {
     "title": "Nundle SF",
@@ -665,38 +719,16 @@
     "updated": "14 Jun 2025 19:33"
   },
   {
-    "title": "HEZ DR, ABERMAIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606619",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.835746765",
-    "longitude": "151.448379516",
-    "region": "nsw",
-    "time_of_call": "14 Jun 2025 23:19:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "HEZ DR, ABERMAIN 2326",
-    "council_area": "Cessnock",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Jun 2025 23:19"
-  },
-  {
     "title": "(WESTLINK MTWY), HORSLEY PARK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606621",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.8422431939999",
-    "longitude": "150.855148315",
+    "latitude": "-33.842292785",
+    "longitude": "150.855163574",
     "region": "nsw",
-    "time_of_call": "14 Jun 2025 23:38:00",
+    "time_of_call": "15 Jun 2025 00:16:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "M7 (WESTLINK MTWY), HORSLEY PARK 2175",
     "council_area": "Fairfield",
@@ -706,6 +738,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Jun 2025 23:38"
+    "updated": "15 Jun 2025 00:16"
+  },
+  {
+    "title": "RENSHAW MCGIRR WAY, YEOVAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606623",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.798446656",
+    "longitude": "148.55883789",
+    "region": "nsw",
+    "time_of_call": "15 Jun 2025 00:11:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "RENSHAW MCGIRR WAY, YEOVAL 2868",
+    "council_area": "Cabonne",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Jun 2025 00:11"
   }
 ]
