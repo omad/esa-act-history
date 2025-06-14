@@ -207,24 +207,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "038341-14062025",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "14 Jun 2025 22:06:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "15 Jun 2025 00:26:02"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PHILLIP",
     "id": "038343-14062025",
     "latitude": "-35.348136",
@@ -256,24 +238,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
     "updated": "14 Jun 2025 22:47:49"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "038346-14062025",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "14 Jun 2025 23:00:14",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "15 Jun 2025 00:37:34"
   },
   {
     "agency": "Ambulance",
@@ -327,7 +291,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "15 Jun 2025 00:10:14"
+    "updated": "15 Jun 2025 00:38:49"
   },
   {
     "agency": "Ambulance",
@@ -399,7 +363,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "15 Jun 2025 00:29:54"
+    "updated": "15 Jun 2025 00:46:50"
   },
   {
     "agency": "Ambulance",
@@ -429,13 +393,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "15 Jun 2025 00:25:48",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "15 Jun 2025 00:35:23"
+    "updated": "15 Jun 2025 00:42:18"
   },
   {
     "agency": "Ambulance",
@@ -454,6 +418,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
     "updated": "15 Jun 2025 00:35:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "038360-15062025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "15 Jun 2025 00:39:57",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "15 Jun 2025 00:46:41"
   },
   {
     "title": "Nundle SF",
@@ -722,19 +704,19 @@
     "latitude": "-36.141094208",
     "longitude": "150.094039918",
     "region": "nsw",
-    "time_of_call": "14 Jun 2025 19:33:00",
+    "time_of_call": "15 Jun 2025 00:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "PRINCES HWY, BODALLA 2545",
     "council_area": "Eurobodalla",
-    "type": "Bush Fire",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Jun 2025 19:33"
+    "updated": "15 Jun 2025 00:42"
   },
   {
     "title": "RENSHAW MCGIRR WAY, YEOVAL",
@@ -766,9 +748,9 @@
     "latitude": "-34.621417999",
     "longitude": "150.58164978",
     "region": "nsw",
-    "time_of_call": "15 Jun 2025 00:14:00",
+    "time_of_call": "15 Jun 2025 00:37:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "SHIERLAW RD, ROBERTSON 2577",
     "council_area": "Wingecarribee",
@@ -778,6 +760,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jun 2025 00:14"
+    "updated": "15 Jun 2025 00:37"
   }
 ]
