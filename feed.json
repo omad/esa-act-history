@@ -83,24 +83,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HAWKER",
-    "id": "038380-15062025",
-    "latitude": "-35.246757",
-    "longitude": "149.03611",
-    "region": "act",
-    "time_of_call": "15 Jun 2025 04:21:05",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HAWKER",
-    "updated": "15 Jun 2025 08:04:32"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MELBA",
     "id": "038385-15062025",
     "latitude": "-35.209077",
@@ -143,13 +125,13 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "15 Jun 2025 07:27:51",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "15 Jun 2025 08:20:10"
+    "updated": "15 Jun 2025 08:38:49"
   },
   {
     "agency": "Ambulance",
@@ -169,7 +151,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "COTTER ROAD, TUGGERANONG PARKWAY, CURTIN, 2605",
-    "updated": "15 Jun 2025 08:18:43"
+    "updated": "15 Jun 2025 08:33:09"
   },
   {
     "agency": "Ambulance",
@@ -241,7 +223,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "15 Jun 2025 08:08:45"
+    "updated": "15 Jun 2025 08:29:28"
   },
   {
     "agency": "Ambulance",
@@ -271,13 +253,13 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "15 Jun 2025 08:15:04",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "15 Jun 2025 08:24:20"
+    "updated": "15 Jun 2025 08:33:11"
   },
   {
     "agency": "Ambulance",
@@ -289,13 +271,31 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "15 Jun 2025 08:20:02",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "15 Jun 2025 08:23:48"
+    "updated": "15 Jun 2025 08:35:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SPENCE",
+    "id": "038402-15062025",
+    "latitude": "-35.196073",
+    "longitude": "149.064742",
+    "region": "act",
+    "time_of_call": "15 Jun 2025 08:32:10",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SPENCE",
+    "updated": "15 Jun 2025 08:37:31"
   },
   {
     "title": "Nundle SF",
@@ -542,7 +542,7 @@
     "latitude": "-33.501907349",
     "longitude": "150.806121826",
     "region": "nsw",
-    "time_of_call": "15 Jun 2025 08:00:00",
+    "time_of_call": "15 Jun 2025 08:37:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
@@ -554,7 +554,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jun 2025 08:00"
+    "updated": "15 Jun 2025 08:37"
   },
   {
     "title": "DEVONSHIRE RD, KEMPS CREEK",
@@ -584,9 +584,9 @@
     "latitude": "-33.668125152",
     "longitude": "151.104141236",
     "region": "nsw",
-    "time_of_call": "15 Jun 2025 08:18:00",
+    "time_of_call": "15 Jun 2025 08:32:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "HORNSBY HEIGHTS WRRF PIKE RD, HORNSBY HEIGHTS 2077",
     "council_area": "Hornsby",
@@ -596,6 +596,50 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jun 2025 08:18"
+    "updated": "15 Jun 2025 08:32"
+  },
+  {
+    "title": "SILVER CITY HWY, SCOTIA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606635",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.0327644349999",
+    "longitude": "141.656738281",
+    "region": "nsw",
+    "time_of_call": "15 Jun 2025 08:26:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "SILVER CITY HWY, SCOTIA 2648",
+    "council_area": "Unincorporated",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Jun 2025 08:26"
+  },
+  {
+    "title": "APPIN RD, APPIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606636",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.199661254",
+    "longitude": "150.787475586",
+    "region": "nsw",
+    "time_of_call": "15 Jun 2025 08:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "85 APPIN RD, APPIN 2560",
+    "council_area": "Wollondilly",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Jun 2025 08:36"
   }
 ]
