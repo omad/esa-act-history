@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CONDER",
-    "id": "038581-16062025",
-    "latitude": "-35.458351",
-    "longitude": "149.106348",
-    "region": "act",
-    "time_of_call": "16 Jun 2025 02:34:56",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CONDER",
-    "updated": "16 Jun 2025 04:40:33"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GREENWAY",
     "id": "038587-16062025",
     "latitude": "-35.411775",
@@ -89,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "16 Jun 2025 05:04:40"
+    "updated": "16 Jun 2025 05:21:24"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +101,31 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "16 Jun 2025 04:59:07",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "16 Jun 2025 05:07:15"
+    "updated": "16 Jun 2025 05:25:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MCKELLAR",
+    "id": "038592-16062025",
+    "latitude": "-35.216327",
+    "longitude": "149.076954",
+    "region": "act",
+    "time_of_call": "16 Jun 2025 05:23:03",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MCKELLAR",
+    "updated": "16 Jun 2025 05:28:32"
   },
   {
     "title": "Nundle SF",
@@ -385,5 +385,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Jun 2025 04:22"
+  },
+  {
+    "title": "CADIA RD, CADIA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606716",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.453193664",
+    "longitude": "149.020431518",
+    "region": "nsw",
+    "time_of_call": "16 Jun 2025 05:20:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CADIA RD, CADIA 2800",
+    "council_area": "Cabonne",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Jun 2025 05:20"
   }
 ]
