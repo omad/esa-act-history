@@ -29,13 +29,13 @@
     "longitude": "149.143546",
     "region": "act",
     "time_of_call": "16 Jun 2025 04:57:51",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "16 Jun 2025 05:01:08"
+    "updated": "16 Jun 2025 06:44:46"
   },
   {
     "agency": "Ambulance",
@@ -47,13 +47,13 @@
     "longitude": "149.076954",
     "region": "act",
     "time_of_call": "16 Jun 2025 05:23:03",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "16 Jun 2025 05:28:32"
+    "updated": "16 Jun 2025 06:42:17"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "16 Jun 2025 06:24:20"
+    "updated": "16 Jun 2025 06:42:43"
   },
   {
     "agency": "Ambulance",
@@ -90,6 +90,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "16 Jun 2025 06:23:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GARRAN",
+    "id": "038595-16062025",
+    "latitude": "-35.340821",
+    "longitude": "149.105209",
+    "region": "act",
+    "time_of_call": "16 Jun 2025 06:36:21",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GARRAN",
+    "updated": "16 Jun 2025 06:46:20"
   },
   {
     "title": "Nundle SF",
@@ -338,9 +356,9 @@
     "latitude": "-33.406463623",
     "longitude": "149.030654907",
     "region": "nsw",
-    "time_of_call": "16 Jun 2025 05:58:00",
+    "time_of_call": "16 Jun 2025 06:46:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "CADIA RD, CADIA 2800",
     "council_area": "Cabonne",
@@ -350,6 +368,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Jun 2025 05:58"
+    "updated": "16 Jun 2025 06:46"
+  },
+  {
+    "title": "MITCHELL HWY, VITTORIA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606717",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4322547909999",
+    "longitude": "149.332748413",
+    "region": "nsw",
+    "time_of_call": "16 Jun 2025 06:40:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MITCHELL HWY, VITTORIA 2799",
+    "council_area": "Bathurst",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Jun 2025 06:40"
   }
 ]
