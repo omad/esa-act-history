@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "038850-17062025",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "17 Jun 2025 06:17:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "17 Jun 2025 07:12:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - LYNEHAM",
     "id": "038852-17062025",
     "latitude": "-35.238929",
@@ -33,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "17 Jun 2025 07:12:22"
+    "updated": "17 Jun 2025 07:29:07"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +81,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "17 Jun 2025 07:10:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "17 Jun 2025 07:22:40"
+    "updated": "17 Jun 2025 07:32:51"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "17 Jun 2025 07:24:35"
+    "updated": "17 Jun 2025 07:30:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "038861-17062025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "17 Jun 2025 07:32:12",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "17 Jun 2025 07:35:22"
   },
   {
     "title": "Nundle SF",
@@ -500,19 +500,17 @@
     "latitude": "-36.06791687",
     "longitude": "146.897689819",
     "region": "nsw",
-    "time_of_call": "17 Jun 2025 07:00:00",
+    "time_of_call": "17 Jun 2025 07:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "30 HIBISCUS CR, WEST ALBURY 2640",
     "council_area": "Albury",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "type": "Car Fire",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Jun 2025 07:00"
+    "updated": "17 Jun 2025 07:27"
   },
   {
     "title": "WOODBURN CORAKI RD, CORAKI",
@@ -522,9 +520,9 @@
     "latitude": "-29.018432617",
     "longitude": "153.267333984",
     "region": "nsw",
-    "time_of_call": "17 Jun 2025 07:06:00",
+    "time_of_call": "17 Jun 2025 07:32:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1324 WOODBURN CORAKI RD, CORAKI 2471",
     "council_area": "Richmond Valley",
@@ -534,6 +532,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Jun 2025 07:06"
+    "updated": "17 Jun 2025 07:32"
   }
 ]
