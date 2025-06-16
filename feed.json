@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "16 Jun 2025 23:35:39"
+    "updated": "16 Jun 2025 23:46:04"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "16 Jun 2025 23:30:12"
+    "updated": "16 Jun 2025 23:51:37"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "16 Jun 2025 23:34:18"
+    "updated": "16 Jun 2025 23:53:16"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "16 Jun 2025 23:32:52"
+    "updated": "16 Jun 2025 23:49:27"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,31 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "16 Jun 2025 23:27:30",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "16 Jun 2025 23:33:28"
+    "updated": "16 Jun 2025 23:49:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "038818-16062025",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "16 Jun 2025 23:51:13",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "16 Jun 2025 23:52:31"
   },
   {
     "title": "Nundle SF",
@@ -438,28 +456,6 @@
     "updated": "16 Jun 2025 17:49"
   },
   {
-    "title": "WALMER AV, SANCTUARY POINT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606783",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.1114845279999",
-    "longitude": "150.622207642",
-    "region": "nsw",
-    "time_of_call": "16 Jun 2025 23:02:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "WALMER AV, SANCTUARY POINT 2540",
-    "council_area": "Shoalhaven",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Jun 2025 23:02"
-  },
-  {
     "title": "CANOWINDRA RD, CANOWINDRA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606784",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -480,25 +476,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Jun 2025 23:33"
-  },
-  {
-    "title": "CHURCHILL ST, JAMBEROO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606785",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.6481018059999",
-    "longitude": "150.774002076",
-    "region": "nsw",
-    "time_of_call": "16 Jun 2025 23:22:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "CHURCHILL ST, JAMBEROO 2533",
-    "council_area": "Kiama",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Jun 2025 23:22"
   }
 ]
