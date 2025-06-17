@@ -121,13 +121,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "18 Jun 2025 03:18:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "18 Jun 2025 03:27:52"
+    "updated": "18 Jun 2025 03:42:28"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "18 Jun 2025 03:40:30"
+    "updated": "18 Jun 2025 03:43:30"
   },
   {
     "title": "Nundle SF",
@@ -429,5 +429,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Jun 2025 02:38"
+  },
+  {
+    "title": "Morpeth Road, East Maitland",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606877",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.745035",
+    "longitude": "151.587423",
+    "region": "nsw",
+    "time_of_call": "18 Jun 2025 03:40:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "0 Morpeth Road, East Maitland, NSW 2323",
+    "council_area": "Maitland",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "18 Jun 2025 03:40"
   }
 ]
