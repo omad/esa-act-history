@@ -43,37 +43,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HUME",
-    "id": "039025-17062025",
-    "latitude": "-35.383449",
-    "longitude": "149.170863",
-    "region": "act",
-    "time_of_call": "17 Jun 2025 22:14:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HUME",
-    "updated": "18 Jun 2025 00:11:18"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CHARNWOOD",
     "id": "039033-17062025",
     "latitude": "-35.200338",
     "longitude": "149.036735",
     "region": "act",
     "time_of_call": "17 Jun 2025 23:09:26",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "18 Jun 2025 00:15:16"
+    "updated": "18 Jun 2025 01:27:53"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "18 Jun 2025 00:47:16"
+    "updated": "18 Jun 2025 01:17:10"
   },
   {
     "agency": "Ambulance",
@@ -145,25 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "18 Jun 2025 00:33:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONASH",
-    "id": "039040-17062025",
-    "latitude": "-35.413962",
-    "longitude": "149.091126",
-    "region": "act",
-    "time_of_call": "17 Jun 2025 23:50:42",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "18 Jun 2025 00:41:41"
+    "updated": "18 Jun 2025 01:28:30"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +145,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "18 Jun 2025 00:18:36"
+    "updated": "18 Jun 2025 01:15:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "039047-18062025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "18 Jun 2025 01:05:12",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": "18 Jun 2025 01:25:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "039048-18062025",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "18 Jun 2025 01:13:55",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "18 Jun 2025 01:29:35"
   },
   {
     "title": "Nundle SF",
@@ -445,5 +445,25 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "18 Jun 2025 00:12"
+  },
+  {
+    "title": "COVE BVD, NORTH ARM COVE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606871",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.6668624879999",
+    "longitude": "152.042663574",
+    "region": "nsw",
+    "time_of_call": "18 Jun 2025 01:17:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "35 COVE BVD, NORTH ARM COVE 2324",
+    "council_area": "Mid-Coast",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Jun 2025 01:17"
   }
 ]
