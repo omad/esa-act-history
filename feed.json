@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BONNER",
-    "id": "039035-17062025",
-    "latitude": "-35.155183",
-    "longitude": "149.143165",
-    "region": "act",
-    "time_of_call": "17 Jun 2025 23:15:32",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BONNER",
-    "updated": "18 Jun 2025 07:18:01"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - EVATT",
     "id": "039039-17062025",
     "latitude": "-35.212001",
@@ -91,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "18 Jun 2025 07:31:48"
+    "updated": "18 Jun 2025 07:43:13"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "18 Jun 2025 07:32:28"
+    "updated": "18 Jun 2025 07:45:21"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +139,49 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "18 Jun 2025 07:37:28",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "18 Jun 2025 07:38:41"
+    "updated": "18 Jun 2025 07:47:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "039086-18062025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "18 Jun 2025 07:41:47",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "18 Jun 2025 07:48:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "039087-18062025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "18 Jun 2025 07:49:21",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "18 Jun 2025 07:49:32"
   },
   {
     "title": "Nundle SF",
@@ -279,7 +297,7 @@
     "latitude": "-28.605641755",
     "longitude": "153.388130665",
     "region": "nsw",
-    "time_of_call": "17 Jun 2025 19:12:00",
+    "time_of_call": "18 Jun 2025 07:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -291,7 +309,7 @@
     "fire": "Yes",
     "size": "75 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "17 Jun 2025 19:12"
+    "updated": "18 Jun 2025 07:35"
   },
   {
     "title": "Pinch Campground Pile Burn",
@@ -456,9 +474,9 @@
     "latitude": "-31.437030792",
     "longitude": "149.276763916",
     "region": "nsw",
-    "time_of_call": "18 Jun 2025 06:59:00",
+    "time_of_call": "18 Jun 2025 07:47:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "COONABARABRAN RD, COONABARABRAN 2357",
     "council_area": "Warrumbungle",
@@ -466,7 +484,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Jun 2025 06:59"
+    "updated": "18 Jun 2025 07:47"
   },
   {
     "title": "(PRINCES MTWY), HELENSBURGH",
@@ -487,5 +505,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Jun 2025 07:33"
+  },
+  {
+    "title": "(PRINCES HWY), BODALLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_606887",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.093601227",
+    "longitude": "150.051696777",
+    "region": "nsw",
+    "time_of_call": "18 Jun 2025 07:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "A1 (PRINCES HWY), BODALLA 2545",
+    "council_area": "Eurobodalla",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Jun 2025 07:32"
   }
 ]
