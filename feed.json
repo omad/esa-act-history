@@ -209,7 +209,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "24 Jun 2025 08:10:38"
+    "updated": "24 Jun 2025 08:39:29"
   },
   {
     "agency": "Ambulance",
@@ -245,7 +245,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "24 Jun 2025 07:51:47"
+    "updated": "24 Jun 2025 08:49:19"
   },
   {
     "agency": "Ambulance",
@@ -282,6 +282,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
     "updated": "24 Jun 2025 08:23:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "040574-24062025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "24 Jun 2025 08:29:25",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "24 Jun 2025 08:48:12"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "040575-24062025",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "24 Jun 2025 08:40:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TAYLOR",
+    "updated": "24 Jun 2025 08:44:06"
   },
   {
     "title": "Nundle SF",
@@ -563,28 +599,6 @@
     "updated": "24 Jun 2025 08:06"
   },
   {
-    "title": "DANDALOO RD, TRANGIE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608432",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.2239418029999",
-    "longitude": "147.828475952",
-    "region": "nsw",
-    "time_of_call": "24 Jun 2025 08:05:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "DANDALOO RD, TRANGIE 2823",
-    "council_area": "Narromine",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Jun 2025 08:05"
-  },
-  {
     "title": "PRINCES HWY, COBARGO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608435",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -592,9 +606,9 @@
     "latitude": "-36.370750427",
     "longitude": "149.960021972",
     "region": "nsw",
-    "time_of_call": "24 Jun 2025 07:57:00",
+    "time_of_call": "24 Jun 2025 08:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "NARIRA 9914 PRINCES HWY, COBARGO 2550",
     "council_area": "Bega Valley",
@@ -604,7 +618,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Jun 2025 07:57"
+    "updated": "24 Jun 2025 08:23"
   },
   {
     "title": "THOMPSON ST, SCOTLAND ISLAND",
@@ -634,9 +648,9 @@
     "latitude": "-33.1540260309999",
     "longitude": "151.542434693",
     "region": "nsw",
-    "time_of_call": "24 Jun 2025 08:20:00",
+    "time_of_call": "24 Jun 2025 08:29:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "102 CATHERINE ST, MANNERING PARK 2259",
     "council_area": "Central Coast",
@@ -644,6 +658,26 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Jun 2025 08:20"
+    "updated": "24 Jun 2025 08:29"
+  },
+  {
+    "title": "CORINDI PARK DR, RED ROCK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608440",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.01307106",
+    "longitude": "153.196472168",
+    "region": "nsw",
+    "time_of_call": "24 Jun 2025 08:47:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "102 CORINDI PARK DR, RED ROCK 2456",
+    "council_area": "Coffs Harbour",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Jun 2025 08:47"
   }
 ]
