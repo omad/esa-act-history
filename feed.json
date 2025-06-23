@@ -117,24 +117,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "040455-23062025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "23 Jun 2025 17:27:43",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "23 Jun 2025 18:10:56"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GILMORE",
     "id": "040456-23062025",
     "latitude": "-35.417683",
@@ -147,25 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "23 Jun 2025 18:20:09"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAWSON",
-    "id": "040458-23062025",
-    "latitude": "-35.361049",
-    "longitude": "149.099386",
-    "region": "act",
-    "time_of_call": "23 Jun 2025 17:30:05",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MAWSON",
-    "updated": ""
+    "updated": "23 Jun 2025 18:53:51"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "23 Jun 2025 18:04:17"
+    "updated": "23 Jun 2025 18:54:30"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "23 Jun 2025 18:19:40"
+    "updated": "23 Jun 2025 18:53:49"
   },
   {
     "agency": "Ambulance",
@@ -267,13 +231,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "23 Jun 2025 18:27:25",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "23 Jun 2025 18:31:04"
+    "updated": "23 Jun 2025 18:41:06"
   },
   {
     "agency": "Ambulance",
@@ -285,13 +249,49 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "23 Jun 2025 18:33:48",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "23 Jun 2025 18:35:47"
+    "updated": "23 Jun 2025 18:44:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "040468-23062025",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "23 Jun 2025 18:46:30",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "23 Jun 2025 18:54:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FORDE",
+    "id": "040469-23062025",
+    "latitude": "-35.169175",
+    "longitude": "149.145987",
+    "region": "act",
+    "time_of_call": "23 Jun 2025 18:56:21",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FORDE",
+    "updated": "23 Jun 2025 18:56:23"
   },
   {
     "title": "Nundle SF",
@@ -598,28 +598,6 @@
     "updated": "23 Jun 2025 16:19"
   },
   {
-    "title": "Tumbi Road, Wamberal",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608392",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.4013938909999",
-    "longitude": "151.452636719",
-    "region": "nsw",
-    "time_of_call": "23 Jun 2025 16:46:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "470 Tumbi Road, Wamberal",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jun 2025 16:46"
-  },
-  {
     "title": "WARWIBA RD, OLD BAR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608395",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -730,31 +708,6 @@
     "updated": "23 Jun 2025 18:12"
   },
   {
-    "title": "RIVERSIDE DR, AIRDS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608403",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.0883789069999",
-    "longitude": "150.834838867",
-    "region": "nsw",
-    "time_of_call": "23 Jun 2025 18:24:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "190 RIVERSIDE DR, AIRDS 2560",
-    "council_area": "Campbelltown",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jun 2025 18:24"
-  },
-  {
     "title": "SCHOOL RD, PALMERS ISLAND",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608404",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -806,10 +759,13 @@
     "latitude": "-33.928520202",
     "longitude": "150.634689332",
     "region": "nsw",
-    "time_of_call": "23 Jun 2025 18:20:00",
+    "time_of_call": "23 Jun 2025 18:48:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "BENTS BASIN RD, SILVERDALE 2752",
     "council_area": "Wollondilly",
     "type": "Bush Fire",
@@ -818,6 +774,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jun 2025 18:20"
+    "updated": "23 Jun 2025 18:48"
   }
 ]
