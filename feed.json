@@ -60,6 +60,26 @@
     "updated": "21 Jun 2025 17:50:20"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "CAR FIRE - WEETANGERA",
+    "id": "009668-24062025",
+    "latitude": "-35.24677064",
+    "longitude": "149.05078874",
+    "region": "act",
+    "time_of_call": "24 Jun 2025 05:29:44",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "CAR FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
+    "location": "SHUMACK STREET, WEETANGERA, 2614",
+    "updated": "24 Jun 2025 05:30:33"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -123,13 +143,13 @@
     "longitude": "149.143165",
     "region": "act",
     "time_of_call": "24 Jun 2025 04:40:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "24 Jun 2025 05:03:51"
+    "updated": "24 Jun 2025 05:21:35"
   },
   {
     "agency": "Ambulance",
@@ -166,6 +186,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
     "updated": "24 Jun 2025 05:08:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "040554-24062025",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "24 Jun 2025 05:21:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "24 Jun 2025 05:26:51"
   },
   {
     "title": "Nundle SF",
@@ -511,5 +549,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Jun 2025 05:00"
+  },
+  {
+    "title": "ENDEAVOUR ST, OBERON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608427",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6948356629999",
+    "longitude": "149.862182617",
+    "region": "nsw",
+    "time_of_call": "24 Jun 2025 05:14:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "31 ENDEAVOUR ST, OBERON 2787",
+    "council_area": "Oberon",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "24 Jun 2025 05:14"
   }
 ]
