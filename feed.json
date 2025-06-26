@@ -89,25 +89,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "26 Jun 2025 23:50:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PALMERSTON",
-    "id": "041347-27062025",
-    "latitude": "-35.193269",
-    "longitude": "149.1195",
-    "region": "act",
-    "time_of_call": "27 Jun 2025 00:06:03",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PALMERSTON",
-    "updated": "27 Jun 2025 03:07:40"
+    "updated": "27 Jun 2025 03:42:25"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +119,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "27 Jun 2025 00:21:12",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "27 Jun 2025 03:34:02"
+    "updated": "27 Jun 2025 03:44:09"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,13 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "27 Jun 2025 02:46:33",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "27 Jun 2025 02:52:52"
+    "updated": "27 Jun 2025 03:44:22"
   },
   {
     "agency": "Ambulance",
@@ -216,6 +198,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
     "updated": "27 Jun 2025 03:15:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "041367-27062025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "27 Jun 2025 03:48:16",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "27 Jun 2025 03:49:18"
   },
   {
     "title": "Nundle SF",
@@ -541,5 +541,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Jun 2025 18:17"
+  },
+  {
+    "title": "BINGARA RD, MYALL CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608769",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.7635078439999",
+    "longitude": "150.739608764",
+    "region": "nsw",
+    "time_of_call": "27 Jun 2025 03:33:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BINGARA RD, MYALL CREEK 2403",
+    "council_area": "Inverell",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Jun 2025 03:33"
+  },
+  {
+    "title": "PACIFIC HWY, OURIMBAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608770",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.346462249",
+    "longitude": "151.370697022",
+    "region": "nsw",
+    "time_of_call": "27 Jun 2025 03:40:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, OURIMBAH 2258",
+    "council_area": "Central Coast",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Jun 2025 03:40"
   }
 ]
