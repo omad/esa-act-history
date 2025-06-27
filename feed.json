@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "28 Jun 2025 01:19:21"
+    "updated": "28 Jun 2025 01:29:39"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACARTHUR",
-    "updated": "28 Jun 2025 01:11:04"
+    "updated": "28 Jun 2025 01:29:04"
   },
   {
     "agency": "Ambulance",
@@ -115,37 +115,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PARKES",
-    "id": "041582-28062025",
-    "latitude": "-35.297058",
-    "longitude": "149.134319",
-    "region": "act",
-    "time_of_call": "28 Jun 2025 00:28:46",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PARKES",
-    "updated": "28 Jun 2025 01:14:45"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CHISHOLM",
     "id": "041583-28062025",
     "latitude": "-35.422993",
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "28 Jun 2025 00:29:05",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "28 Jun 2025 01:15:41"
+    "updated": "28 Jun 2025 01:47:05"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +145,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "28 Jun 2025 00:50:11"
+    "updated": "28 Jun 2025 01:46:56"
   },
   {
     "agency": "Ambulance",
@@ -175,13 +157,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "28 Jun 2025 00:52:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "28 Jun 2025 01:20:20"
+    "updated": "28 Jun 2025 01:44:40"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +217,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "28 Jun 2025 01:19:22"
+    "updated": "28 Jun 2025 01:42:04"
   },
   {
     "agency": "Ambulance",
@@ -272,6 +254,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
     "updated": "28 Jun 2025 01:20:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "041598-28062025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "28 Jun 2025 01:30:14",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "28 Jun 2025 01:44:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "041599-28062025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "28 Jun 2025 01:33:37",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "28 Jun 2025 01:39:02"
   },
   {
     "title": "Nundle SF",
@@ -429,28 +447,6 @@
     "updated": "27 Jun 2025 15:02"
   },
   {
-    "title": "RICHARDSON RD, CAMPVALE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608787",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.766647339",
-    "longitude": "151.813980102",
-    "region": "nsw",
-    "time_of_call": "27 Jun 2025 11:04:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "RICHARDSON RD, CAMPVALE 2318",
-    "council_area": "Port Stephens",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Jun 2025 11:04"
-  },
-  {
     "title": "BROWNLOW HILL LOOP RD, BROWNLOW HILL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608804",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -520,28 +516,6 @@
     "updated": "27 Jun 2025 17:52"
   },
   {
-    "title": "CAMDEN VALLEY WAY, GREGORY HILLS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608834",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.0236053469999",
-    "longitude": "150.758605957",
-    "region": "nsw",
-    "time_of_call": "27 Jun 2025 18:45:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "CAMDEN VALLEY WAY, GREGORY HILLS 2557",
-    "council_area": "Camden",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "27 Jun 2025 18:45"
-  },
-  {
     "title": "RED RANGE RD, UPPER CORINDI",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_608838",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -571,9 +545,9 @@
     "latitude": "-33.327438355",
     "longitude": "151.089859009",
     "region": "nsw",
-    "time_of_call": "27 Jun 2025 22:18:00",
+    "time_of_call": "28 Jun 2025 01:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "OLD GREAT NORTH RD, TEN MILE HOLLOW 2250",
     "council_area": "Central Coast",
@@ -581,7 +555,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Jun 2025 22:18"
+    "updated": "28 Jun 2025 01:27"
   },
   {
     "title": "GWYDIR HWY, MOREE",
@@ -591,9 +565,9 @@
     "latitude": "-29.4747772219999",
     "longitude": "149.924255371",
     "region": "nsw",
-    "time_of_call": "28 Jun 2025 00:47:00",
+    "time_of_call": "28 Jun 2025 01:33:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "RAYMHOR 19911 GWYDIR HWY, MOREE 2400",
     "council_area": "Moree Plains",
@@ -601,7 +575,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Jun 2025 00:47"
+    "updated": "28 Jun 2025 01:33"
   },
   {
     "title": "PLUMMERS LANE, RAINBOW REACH",
@@ -611,9 +585,9 @@
     "latitude": "-30.9570217139999",
     "longitude": "152.987213135",
     "region": "nsw",
-    "time_of_call": "28 Jun 2025 01:02:00",
+    "time_of_call": "28 Jun 2025 01:36:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "PLUMMERS LANE, RAINBOW REACH 2440",
     "council_area": "Kempsey",
@@ -621,6 +595,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Jun 2025 01:02"
+    "updated": "28 Jun 2025 01:36"
   }
 ]
