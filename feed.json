@@ -97,7 +97,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "GINNINDERRA DRIVE, COULTER DRIVE, EVATT, 2617",
-    "updated": "01 Jul 2025 08:38:47"
+    "updated": "01 Jul 2025 09:46:26"
   },
   {
     "agency": "Ambulance",
@@ -187,7 +187,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "01 Jul 2025 09:24:50"
+    "updated": "01 Jul 2025 09:41:54"
   },
   {
     "agency": "Ambulance",
@@ -206,24 +206,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
     "updated": "01 Jul 2025 08:53:14"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AMAROO",
-    "id": "042394-01072025",
-    "latitude": "-35.172039",
-    "longitude": "149.129625",
-    "region": "act",
-    "time_of_call": "01 Jul 2025 08:05:03",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "AMAROO",
-    "updated": "01 Jul 2025 09:14:17"
   },
   {
     "agency": "Ambulance",
@@ -295,7 +277,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "01 Jul 2025 09:06:38"
+    "updated": "01 Jul 2025 09:49:50"
   },
   {
     "agency": "Ambulance",
@@ -313,7 +295,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "01 Jul 2025 09:27:00"
+    "updated": "01 Jul 2025 09:49:24"
   },
   {
     "agency": "Ambulance",
@@ -325,13 +307,13 @@
     "longitude": "149.100175",
     "region": "act",
     "time_of_call": "01 Jul 2025 09:16:55",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "01 Jul 2025 09:26:16"
+    "updated": "01 Jul 2025 09:44:17"
   },
   {
     "agency": "Ambulance",
@@ -349,7 +331,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "01 Jul 2025 09:28:44"
+    "updated": "01 Jul 2025 09:42:32"
   },
   {
     "agency": "Ambulance",
@@ -379,13 +361,49 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "01 Jul 2025 09:36:17",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "01 Jul 2025 09:45:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLYNN",
+    "id": "042412-01072025",
+    "latitude": "-35.207317",
+    "longitude": "149.042983",
+    "region": "act",
+    "time_of_call": "01 Jul 2025 09:38:07",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLYNN",
+    "updated": "01 Jul 2025 09:48:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLYNN",
+    "id": "042413-01072025",
+    "latitude": "-35.207317",
+    "longitude": "149.042983",
+    "region": "act",
+    "time_of_call": "01 Jul 2025 09:39:31",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "CHISHOLM",
-    "updated": "01 Jul 2025 09:37:21"
+    "location": "FLYNN",
+    "updated": "01 Jul 2025 09:44:29"
   },
   {
     "title": "Nundle SF",
@@ -459,7 +477,7 @@
     "latitude": "-30.514456104",
     "longitude": "152.816848768",
     "region": "nsw",
-    "time_of_call": "30 Jun 2025 09:25:00",
+    "time_of_call": "01 Jul 2025 09:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -471,7 +489,7 @@
     "fire": "Yes",
     "size": "384 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "30 Jun 2025 09:25"
+    "updated": "1 Jul 2025 09:42"
   },
   {
     "title": "Hills Plantation - Pile Burn",
@@ -673,7 +691,7 @@
     "latitude": "-32.495147705",
     "longitude": "150.908828735",
     "region": "nsw",
-    "time_of_call": "01 Jul 2025 06:59:00",
+    "time_of_call": "01 Jul 2025 09:28:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -683,29 +701,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Jul 2025 06:59"
-  },
-  {
-    "title": "MORUNDAH RD, COLEAMBALLY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_609160",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.883636474",
-    "longitude": "145.959991456",
-    "region": "nsw",
-    "time_of_call": "01 Jul 2025 07:42:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "MORUNDAH RD, COLEAMBALLY 2707",
-    "council_area": "Murrumbidgee",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Jul 2025 07:42"
+    "updated": "1 Jul 2025 09:28"
   },
   {
     "title": "CENTRAL COAST DISTRICT",
@@ -726,5 +722,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Jul 2025 08:29"
+  },
+  {
+    "title": "WYEE RD, WYEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_609170",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.175785064",
+    "longitude": "151.487167358",
+    "region": "nsw",
+    "time_of_call": "01 Jul 2025 09:47:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "WYEE RD, WYEE 2259",
+    "council_area": "Lake Macquarie",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Jul 2025 09:47"
   }
 ]
