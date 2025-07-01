@@ -129,15 +129,15 @@
     "longitude": "149.1571655273",
     "region": "act",
     "time_of_call": "01 Jul 2025 23:52:45",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "BUS STOP 3196, ANTILL STREET, HACKETT, 2602",
-    "updated": "02 Jul 2025 00:11:51"
+    "updated": "02 Jul 2025 01:50:20"
   },
   {
     "agency": "Ambulance",
@@ -192,24 +192,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
     "updated": "02 Jul 2025 00:56:54"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FARRER",
-    "id": "042582-01072025",
-    "latitude": "-35.377331",
-    "longitude": "149.104586",
-    "region": "act",
-    "time_of_call": "01 Jul 2025 23:00:16",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FARRER",
-    "updated": "02 Jul 2025 00:46:54"
   },
   {
     "agency": "Ambulance",
@@ -313,13 +295,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "02 Jul 2025 00:26:25",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "02 Jul 2025 01:18:53"
+    "updated": "02 Jul 2025 01:41:35"
   },
   {
     "agency": "Ambulance",
@@ -355,7 +337,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "02 Jul 2025 00:58:00"
+    "updated": "02 Jul 2025 01:43:55"
   },
   {
     "agency": "Ambulance",
@@ -391,7 +373,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "02 Jul 2025 01:11:40"
+    "updated": "02 Jul 2025 01:43:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "042605-02072025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "02 Jul 2025 01:34:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "02 Jul 2025 01:36:38"
   },
   {
     "title": "Nundle SF",
@@ -638,25 +638,23 @@
     "updated": "2 Jul 2025 00:01"
   },
   {
-    "title": "FOREST RD, WYEE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_609371",
+    "title": "DICKSONS RD, DOORALONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_609373",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.1699066159999",
-    "longitude": "151.475814819",
+    "latitude": "-33.174846649",
+    "longitude": "151.3802948",
     "region": "nsw",
-    "time_of_call": "02 Jul 2025 00:34:00",
+    "time_of_call": "02 Jul 2025 01:15:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "BETHSHAN GARDENS 30 FOREST RD, WYEE 2259",
-    "council_area": "Lake Macquarie",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "location": "DICKSONS RD, DOORALONG 2259",
+    "council_area": "Central Coast",
+    "type": "Flood/Storm/Tree Down",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Jul 2025 00:34"
+    "updated": "2 Jul 2025 01:15"
   }
 ]
