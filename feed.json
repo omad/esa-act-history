@@ -61,24 +61,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "042828-02072025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "02 Jul 2025 23:41:05",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "03 Jul 2025 00:33:25"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - RED HILL",
     "id": "042829-02072025",
     "latitude": "-35.333636",
@@ -103,13 +85,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "02 Jul 2025 23:58:44",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "03 Jul 2025 00:05:59"
+    "updated": "03 Jul 2025 01:35:07"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "OXLEY",
-    "updated": "03 Jul 2025 01:25:30"
+    "updated": "03 Jul 2025 01:41:53"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +181,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "03 Jul 2025 01:27:42"
+    "updated": "03 Jul 2025 01:29:24"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +199,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "03 Jul 2025 01:28:19"
+    "updated": "03 Jul 2025 01:30:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WHITLAM",
+    "id": "042845-03072025",
+    "latitude": "-35.277508",
+    "longitude": "149.033417",
+    "region": "act",
+    "time_of_call": "03 Jul 2025 01:51:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WHITLAM",
+    "updated": "03 Jul 2025 01:51:54"
   },
   {
     "title": "Nundle SF",
@@ -474,12 +474,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_609647",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.183635711",
-    "longitude": "151.479827881",
+    "latitude": "-33.1838760379999",
+    "longitude": "151.480377197",
     "region": "nsw",
-    "time_of_call": "03 Jul 2025 01:11:00",
+    "time_of_call": "03 Jul 2025 01:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "CUDMORE CR, WYEE 2259",
     "council_area": "Lake Macquarie",
@@ -487,7 +487,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Jul 2025 01:11"
+    "updated": "3 Jul 2025 01:27"
   },
   {
     "title": "BAY ST, SWANSEA",
@@ -497,9 +497,9 @@
     "latitude": "-33.090145111",
     "longitude": "151.630310059",
     "region": "nsw",
-    "time_of_call": "03 Jul 2025 01:16:00",
+    "time_of_call": "03 Jul 2025 01:36:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "19 BAY ST, SWANSEA 2281",
     "council_area": "Lake Macquarie",
@@ -509,28 +509,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "3 Jul 2025 01:16"
-  },
-  {
-    "title": "PACIFIC HWY, EAGLETON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_609649",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.695167542",
-    "longitude": "151.807632446",
-    "region": "nsw",
-    "time_of_call": "03 Jul 2025 01:24:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, EAGLETON 2324",
-    "council_area": "Port Stephens",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Jul 2025 01:24"
+    "updated": "3 Jul 2025 01:36"
   }
 ]
