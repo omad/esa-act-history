@@ -49,13 +49,13 @@
     "longitude": "149.064742",
     "region": "act",
     "time_of_call": "06 Jul 2025 00:36:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "06 Jul 2025 06:48:12"
+    "updated": "06 Jul 2025 06:58:38"
   },
   {
     "agency": "Ambulance",
@@ -85,13 +85,31 @@
     "longitude": "149.072217",
     "region": "act",
     "time_of_call": "06 Jul 2025 05:54:24",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "06 Jul 2025 06:46:58"
+    "updated": "06 Jul 2025 07:01:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "043591-06072025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "06 Jul 2025 06:49:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "06 Jul 2025 06:51:18"
   },
   {
     "title": "Assist Reconstruction Authority",
@@ -472,12 +490,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_609917",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.833938599",
-    "longitude": "150.015457153",
+    "latitude": "-32.839145661",
+    "longitude": "150.018539428",
     "region": "nsw",
-    "time_of_call": "06 Jul 2025 05:59:00",
+    "time_of_call": "06 Jul 2025 07:01:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GLEN ALICE RD, KANDOS 2848",
     "council_area": "Mid-Western",
@@ -487,7 +505,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Jul 2025 05:59"
+    "updated": "6 Jul 2025 07:01"
   },
   {
     "title": "PICTON RD, RAZORBACK",
@@ -510,25 +528,5 @@
     "size": "3 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Jul 2025 06:10"
-  },
-  {
-    "title": "SKI LANE, NYNGAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_609921",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.5817241669999",
-    "longitude": "147.17263794",
-    "region": "nsw",
-    "time_of_call": "06 Jul 2025 06:32:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "SKI LANE, NYNGAN 2825",
-    "council_area": "Bogan",
-    "type": "Medical",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Jul 2025 06:32"
   }
 ]
