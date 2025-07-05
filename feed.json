@@ -49,15 +49,15 @@
     "longitude": "149.12656799",
     "region": "act",
     "time_of_call": "06 Jul 2025 03:13:36",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "CAR FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
     "location": "MASSON STREET, WATSON STREET, TURNER, 2612",
-    "updated": "06 Jul 2025 03:20:34"
+    "updated": "06 Jul 2025 03:53:31"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "06 Jul 2025 00:44:03"
+    "updated": "06 Jul 2025 04:08:41"
   },
   {
     "agency": "Ambulance",
@@ -129,43 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "06 Jul 2025 03:40:58"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRUCE",
-    "id": "043570-06072025",
-    "latitude": "-35.242777",
-    "longitude": "149.096998",
-    "region": "act",
-    "time_of_call": "06 Jul 2025 02:24:52",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BRUCE",
-    "updated": "06 Jul 2025 03:21:10"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TURNER",
-    "id": "043573-06072025",
-    "latitude": "-35.269392",
-    "longitude": "149.126815",
-    "region": "act",
-    "time_of_call": "06 Jul 2025 02:45:12",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TURNER",
-    "updated": "06 Jul 2025 03:40:13"
+    "updated": "06 Jul 2025 04:25:25"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "06 Jul 2025 03:46:47"
+    "updated": "06 Jul 2025 04:15:01"
   },
   {
     "agency": "Ambulance",
@@ -195,13 +159,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "06 Jul 2025 03:33:28",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "06 Jul 2025 03:45:36"
+    "updated": "06 Jul 2025 04:26:51"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +183,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "06 Jul 2025 03:42:41"
+    "updated": "06 Jul 2025 03:49:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "043583-06072025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "06 Jul 2025 03:54:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "06 Jul 2025 04:00:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ACTON",
+    "id": "043584-06072025",
+    "latitude": "-35.289989",
+    "longitude": "149.115669",
+    "region": "act",
+    "time_of_call": "06 Jul 2025 04:08:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ACTON",
+    "updated": "06 Jul 2025 04:18:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KINGSTON",
+    "id": "043585-06072025",
+    "latitude": "-35.315358",
+    "longitude": "149.146868",
+    "region": "act",
+    "time_of_call": "06 Jul 2025 04:15:16",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KINGSTON",
+    "updated": "06 Jul 2025 04:28:36"
   },
   {
     "title": "Assist Reconstruction Authority",
@@ -616,5 +634,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Jul 2025 01:35"
+  },
+  {
+    "title": "BEN LOMOND RD, MINTO HEIGHTS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_609916",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.03850174",
+    "longitude": "150.862121582",
+    "region": "nsw",
+    "time_of_call": "06 Jul 2025 04:17:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "8 BEN LOMOND RD, MINTO HEIGHTS 2566",
+    "council_area": "Campbelltown",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Jul 2025 04:17"
   }
 ]
