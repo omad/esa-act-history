@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "08 Jul 2025 08:25:32"
+    "updated": "08 Jul 2025 08:32:39"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "08 Jul 2025 08:25:49"
+    "updated": "08 Jul 2025 08:50:51"
   },
   {
     "agency": "Ambulance",
@@ -147,25 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "08 Jul 2025 08:15:02"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DEAKIN",
-    "id": "044038-08072025",
-    "latitude": "-35.319944",
-    "longitude": "149.101598",
-    "region": "act",
-    "time_of_call": "08 Jul 2025 08:06:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DEAKIN",
-    "updated": "08 Jul 2025 08:26:55"
+    "updated": "08 Jul 2025 08:46:19"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "08 Jul 2025 08:26:15"
+    "updated": "08 Jul 2025 08:29:13"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +201,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "08 Jul 2025 08:26:13"
+    "updated": "08 Jul 2025 08:36:43"
   },
   {
     "agency": "Ambulance",
@@ -231,31 +213,67 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "08 Jul 2025 08:23:41",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "08 Jul 2025 08:26:39"
+    "updated": "08 Jul 2025 08:48:37"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WHITLAM",
-    "id": "044044-08072025",
-    "latitude": "-35.277508",
-    "longitude": "149.033417",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "044045-08072025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
     "region": "act",
-    "time_of_call": "08 Jul 2025 08:26:32",
+    "time_of_call": "08 Jul 2025 08:42:41",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "WHITLAM",
-    "updated": "08 Jul 2025 08:26:44"
+    "location": "GORDON",
+    "updated": "08 Jul 2025 08:50:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "044046-08072025",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "08 Jul 2025 08:45:16",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "08 Jul 2025 08:49:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "044049-08072025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "08 Jul 2025 08:47:54",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "08 Jul 2025 08:48:45"
   },
   {
     "title": "Assist Reconstruction Authority",
@@ -412,5 +430,47 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "8 Jul 2025 07:46"
+  },
+  {
+    "title": "GRENFELL ST, FORBES",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_610107",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.3799209589999",
+    "longitude": "148.003189087",
+    "region": "nsw",
+    "time_of_call": "08 Jul 2025 08:31:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "38 GRENFELL ST, FORBES 2871",
+    "council_area": "Forbes",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "8 Jul 2025 08:31"
+  },
+  {
+    "title": "PACIFIC HWY, URUNGA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_610109",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.524766922",
+    "longitude": "152.984085082",
+    "region": "nsw",
+    "time_of_call": "08 Jul 2025 08:45:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, URUNGA 2455",
+    "council_area": "Bellingen",
+    "type": "Truck Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Jul 2025 08:45"
   }
 ]
