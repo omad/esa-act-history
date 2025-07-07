@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "08 Jul 2025 03:17:41"
+    "updated": "08 Jul 2025 03:38:35"
   },
   {
     "agency": "Ambulance",
@@ -53,25 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "08 Jul 2025 03:17:54"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WARAMANGA",
-    "id": "043987-08072025",
-    "latitude": "-35.353501",
-    "longitude": "149.06067",
-    "region": "act",
-    "time_of_call": "08 Jul 2025 00:38:24",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WARAMANGA",
-    "updated": "08 Jul 2025 02:16:31"
+    "updated": "08 Jul 2025 03:26:43"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "08 Jul 2025 03:17:00"
+    "updated": "08 Jul 2025 03:25:40"
   },
   {
     "agency": "Ambulance",
@@ -342,9 +324,9 @@
     "latitude": "-33.2253646849999",
     "longitude": "151.164825439",
     "region": "nsw",
-    "time_of_call": "08 Jul 2025 02:34:00",
+    "time_of_call": "08 Jul 2025 03:20:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "470 KYOLA RD, KULNURA 2250",
     "council_area": "Central Coast",
@@ -354,6 +336,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Jul 2025 02:34"
+    "updated": "8 Jul 2025 03:20"
+  },
+  {
+    "title": "Keswick Pwy, Dubbo",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_610099",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.262954",
+    "longitude": "148.632929",
+    "region": "nsw",
+    "time_of_call": "08 Jul 2025 03:37:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "26 Keswick Pwy, Dubbo, NSW 2830",
+    "council_area": "Dubbo Regional",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "8 Jul 2025 03:37"
   }
 ]
