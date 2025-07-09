@@ -131,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "09 Jul 2025 16:23:38"
+    "updated": "09 Jul 2025 16:45:44"
   },
   {
     "agency": "Ambulance",
@@ -186,24 +186,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
     "updated": "09 Jul 2025 16:16:28"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
-    "id": "044400-09072025",
-    "latitude": "-35.184984",
-    "longitude": "149.135062",
-    "region": "act",
-    "time_of_call": "09 Jul 2025 14:46:48",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GUNGAHLIN",
-    "updated": "09 Jul 2025 15:41:17"
   },
   {
     "agency": "Ambulance",
@@ -329,7 +311,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "09 Jul 2025 16:31:22"
+    "updated": "09 Jul 2025 16:48:50"
   },
   {
     "agency": "Ambulance",
@@ -341,13 +323,13 @@
     "longitude": "149.20515",
     "region": "act",
     "time_of_call": "09 Jul 2025 16:29:35",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "09 Jul 2025 16:34:46"
+    "updated": "09 Jul 2025 16:42:58"
   },
   {
     "agency": "Ambulance",
@@ -365,7 +347,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "09 Jul 2025 16:39:05"
+    "updated": "09 Jul 2025 16:51:21"
   },
   {
     "agency": "Ambulance",
@@ -377,13 +359,31 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "09 Jul 2025 16:39:45",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "09 Jul 2025 16:39:47"
+    "updated": "09 Jul 2025 16:55:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "044422-09072025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "09 Jul 2025 16:40:15",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "09 Jul 2025 16:57:10"
   },
   {
     "title": "Assist Reconstruction Authority",
@@ -698,10 +698,13 @@
     "latitude": "-30.152017593",
     "longitude": "153.184555054",
     "region": "nsw",
-    "time_of_call": "09 Jul 2025 16:21:00",
+    "time_of_call": "09 Jul 2025 16:36:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "JOHNSONS RD, SANDY BEACH 2456",
     "council_area": "Coffs Harbour",
     "type": "Grass Fire",
@@ -710,7 +713,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Jul 2025 16:21"
+    "updated": "9 Jul 2025 16:36"
   },
   {
     "title": "KINDRA ST, RAND",
@@ -720,9 +723,9 @@
     "latitude": "-35.593456268",
     "longitude": "146.578933716",
     "region": "nsw",
-    "time_of_call": "09 Jul 2025 16:28:00",
+    "time_of_call": "09 Jul 2025 16:56:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "KINDRA ST, RAND 2642",
     "council_area": "Federation",
@@ -732,7 +735,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Jul 2025 16:28"
+    "updated": "9 Jul 2025 16:56"
   },
   {
     "title": "WISEMANS FERRY RD, MANGROVE MOUNTAIN",
@@ -764,9 +767,9 @@
     "latitude": "-33.100845337",
     "longitude": "151.488220215",
     "region": "nsw",
-    "time_of_call": "09 Jul 2025 16:34:00",
+    "time_of_call": "09 Jul 2025 16:48:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -779,7 +782,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "9 Jul 2025 16:34"
+    "updated": "9 Jul 2025 16:48"
   },
   {
     "title": "BOOMERANG DR, BLUEYS BEACH",
@@ -789,9 +792,9 @@
     "latitude": "-32.344436645",
     "longitude": "152.531173706",
     "region": "nsw",
-    "time_of_call": "09 Jul 2025 16:34:00",
+    "time_of_call": "09 Jul 2025 16:47:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "222 BOOMERANG DR, BLUEYS BEACH 2428",
     "council_area": "Mid-Coast",
@@ -801,6 +804,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Jul 2025 16:34"
+    "updated": "9 Jul 2025 16:47"
+  },
+  {
+    "title": "DUCKMALOI RD, HAMPTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_610235",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.697807312",
+    "longitude": "149.980361938",
+    "region": "nsw",
+    "time_of_call": "09 Jul 2025 16:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1447 DUCKMALOI RD, HAMPTON 2790",
+    "council_area": "Lithgow",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Jul 2025 16:39"
   }
 ]
