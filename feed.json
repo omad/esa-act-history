@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "13 Jul 2025 07:20:39"
+    "updated": "13 Jul 2025 07:26:53"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.094654",
     "region": "act",
     "time_of_call": "13 Jul 2025 06:53:57",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "13 Jul 2025 07:17:41"
+    "updated": "13 Jul 2025 07:34:14"
   },
   {
     "agency": "Ambulance",
@@ -142,6 +142,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
     "updated": "13 Jul 2025 07:15:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AMAROO",
+    "id": "045378-13072025",
+    "latitude": "-35.172039",
+    "longitude": "149.129625",
+    "region": "act",
+    "time_of_call": "13 Jul 2025 07:24:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AMAROO",
+    "updated": "13 Jul 2025 07:28:57"
   },
   {
     "title": "Assist Reconstruction Authority",
@@ -630,7 +648,7 @@
     "latitude": "-31.901079178",
     "longitude": "152.302307129",
     "region": "nsw",
-    "time_of_call": "13 Jul 2025 07:19:00",
+    "time_of_call": "13 Jul 2025 07:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -640,6 +658,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Jul 2025 07:19"
+    "updated": "13 Jul 2025 07:21"
+  },
+  {
+    "title": "NEWELL HWY, BIDDON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_610666",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.6122875209999",
+    "longitude": "148.750411987",
+    "region": "nsw",
+    "time_of_call": "13 Jul 2025 07:20:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1449 NEWELL HWY, BIDDON 2827",
+    "council_area": "Gilgandra",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Jul 2025 07:20"
   }
 ]
