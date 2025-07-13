@@ -95,24 +95,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAJURA",
-    "id": "045460-13072025",
-    "latitude": "-35.269454",
-    "longitude": "149.21621",
-    "region": "act",
-    "time_of_call": "13 Jul 2025 13:33:31",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MAJURA",
-    "updated": "13 Jul 2025 14:45:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - NICHOLLS",
     "id": "045466-13072025",
     "latitude": "-35.186387",
@@ -179,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "13 Jul 2025 15:05:55"
+    "updated": "13 Jul 2025 15:35:50"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "13 Jul 2025 14:36:42",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "13 Jul 2025 14:43:16"
+    "updated": "13 Jul 2025 15:49:40"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "13 Jul 2025 15:20:13"
+    "updated": "13 Jul 2025 15:39:42"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +215,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "13 Jul 2025 15:21:53"
+    "updated": "13 Jul 2025 15:43:20"
   },
   {
     "agency": "Ambulance",
@@ -269,7 +251,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "13 Jul 2025 14:58:11"
+    "updated": "13 Jul 2025 15:38:20"
   },
   {
     "agency": "Ambulance",
@@ -305,7 +287,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "13 Jul 2025 15:14:30"
+    "updated": "13 Jul 2025 15:37:42"
   },
   {
     "agency": "Ambulance",
@@ -330,18 +312,18 @@
     "alert_level": "",
     "event_type": "incident",
     "title": "AMBULANCE RESPONSE - NARRABUNDAH",
-    "id": "045484-13072025",
+    "id": "045485-13072025",
     "latitude": "-35.333366",
     "longitude": "149.146674",
     "region": "act",
-    "time_of_call": "13 Jul 2025 15:17:07",
+    "time_of_call": "13 Jul 2025 15:40:38",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "13 Jul 2025 15:18:44"
+    "updated": "13 Jul 2025 15:42:48"
   },
   {
     "title": "Assist Reconstruction Authority",
@@ -733,26 +715,6 @@
     "updated": "13 Jul 2025 09:53"
   },
   {
-    "title": "DEVONSHIRE RD, KEMPS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_610679",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.912822724",
-    "longitude": "150.787185668",
-    "region": "nsw",
-    "time_of_call": "13 Jul 2025 11:13:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "245 DEVONSHIRE RD, KEMPS CREEK 2178",
-    "council_area": "Liverpool",
-    "type": "Planned Event",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Jul 2025 11:13"
-  },
-  {
     "title": "Pinegrove Road, Invergowrie",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_610689",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -826,10 +788,13 @@
     "latitude": "-29.4390125269999",
     "longitude": "152.98336792",
     "region": "nsw",
-    "time_of_call": "13 Jul 2025 14:48:00",
+    "time_of_call": "13 Jul 2025 15:26:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "49 KHAN RD, GURRANANG 2460",
     "council_area": "Clarence Valley",
     "type": "Grass Fire",
@@ -838,7 +803,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Jul 2025 14:48"
+    "updated": "13 Jul 2025 15:26"
   },
   {
     "title": "BAKERS RD, BYANGUM",
@@ -923,5 +888,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Jul 2025 15:19"
+  },
+  {
+    "title": "DARKWOOD RD, DARKWOOD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_610709",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.455852508",
+    "longitude": "152.623016358",
+    "region": "nsw",
+    "time_of_call": "13 Jul 2025 15:40:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "2287 DARKWOOD RD, DARKWOOD 2454",
+    "council_area": "Bellingen",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Jul 2025 15:40"
   }
 ]
