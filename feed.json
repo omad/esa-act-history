@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUFFY",
-    "id": "045821-14072025",
-    "latitude": "-35.336273",
-    "longitude": "149.031217",
-    "region": "act",
-    "time_of_call": "14 Jul 2025 21:12:42",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DUFFY",
-    "updated": "14 Jul 2025 21:53:12"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DUNLOP",
     "id": "045832-14072025",
     "latitude": "-35.193951",
@@ -72,44 +54,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
     "updated": "14 Jul 2025 23:11:04"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAWSON",
-    "id": "045835-14072025",
-    "latitude": "-35.361049",
-    "longitude": "149.099386",
-    "region": "act",
-    "time_of_call": "14 Jul 2025 23:07:04",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MAWSON",
-    "updated": "14 Jul 2025 23:36:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - FORREST",
-    "id": "045837-14072025",
-    "latitude": "-35.31812399",
-    "longitude": "149.132609",
-    "region": "act",
-    "time_of_call": "14 Jul 2025 23:19:13",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "",
-    "location": "MANUKA CIRCLE, CANBERRA AVENUE, FORREST, 2603",
-    "updated": "15 Jul 2025 00:14:49"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +125,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "15 Jul 2025 01:56:16"
+    "updated": "15 Jul 2025 02:50:45"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "15 Jul 2025 02:12:18"
+    "updated": "15 Jul 2025 02:48:11"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +191,13 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "15 Jul 2025 02:18:36",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "15 Jul 2025 02:26:09"
+    "updated": "15 Jul 2025 02:44:16"
   },
   {
     "title": "Assist Reconstruction Authority",
@@ -609,5 +553,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Jul 2025 19:22"
+  },
+  {
+    "title": "GRANTS RD, SOMERSBY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_610852",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.3832855219999",
+    "longitude": "151.272384643",
+    "region": "nsw",
+    "time_of_call": "15 Jul 2025 02:49:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "136 GRANTS RD, SOMERSBY 2250",
+    "council_area": "Central Coast",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Jul 2025 02:49"
   }
 ]
