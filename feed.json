@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "15 Jul 2025 03:21:45"
+    "updated": "15 Jul 2025 03:43:43"
   },
   {
     "agency": "Ambulance",
@@ -63,31 +63,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "15 Jul 2025 01:55:22",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WESTON",
-    "updated": "15 Jul 2025 02:03:21"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLT",
-    "id": "045851-15072025",
-    "latitude": "-35.224201",
-    "longitude": "149.013141",
-    "region": "act",
-    "time_of_call": "15 Jul 2025 02:01:51",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "HOLT",
-    "updated": "15 Jul 2025 02:59:17"
+    "location": "WESTON",
+    "updated": "15 Jul 2025 03:51:36"
   },
   {
     "agency": "Ambulance",
@@ -106,24 +88,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
     "updated": "15 Jul 2025 03:14:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONCRIEFF",
-    "id": "045853-15072025",
-    "latitude": "-35.158865",
-    "longitude": "149.117806",
-    "region": "act",
-    "time_of_call": "15 Jul 2025 02:18:36",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONCRIEFF",
-    "updated": "15 Jul 2025 02:44:16"
   },
   {
     "title": "Assist Reconstruction Authority",
@@ -503,18 +467,18 @@
     "updated": "15 Jul 2025 03:07"
   },
   {
-    "title": "EURIMBLA RD, CUNDUMBUL",
+    "title": "EURIMBLA RD, EURIMBLA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_610853",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.85591507",
-    "longitude": "148.84223938",
+    "latitude": "-32.850376129",
+    "longitude": "148.855392456",
     "region": "nsw",
-    "time_of_call": "15 Jul 2025 02:52:00",
+    "time_of_call": "15 Jul 2025 03:46:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "EURIMBLA RD, CUNDUMBUL 2866",
+    "location": "ALLAMBIE 1609 EURIMBLA RD, EURIMBLA 2867",
     "council_area": "Dubbo Regional",
     "type": "Bush Fire",
     "type_description": "",
@@ -522,6 +486,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Jul 2025 02:52"
+    "updated": "15 Jul 2025 03:46"
+  },
+  {
+    "title": "WONDALGA RD, GREEN HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_610854",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.487300873",
+    "longitude": "148.054000854",
+    "region": "nsw",
+    "time_of_call": "15 Jul 2025 03:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WONDALGA RD, GREEN HILLS 2730",
+    "council_area": "Snowy Valleys",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Jul 2025 03:30"
   }
 ]
