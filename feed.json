@@ -63,24 +63,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PALMERSTON",
-    "id": "047253-20072025",
-    "latitude": "-35.193269",
-    "longitude": "149.1195",
-    "region": "act",
-    "time_of_call": "20 Jul 2025 04:54:10",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PALMERSTON",
-    "updated": "20 Jul 2025 06:10:20"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONCRIEFF",
     "id": "047258-20072025",
     "latitude": "-35.158865",
@@ -93,7 +75,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "20 Jul 2025 06:24:26"
+    "updated": "20 Jul 2025 06:43:07"
   },
   {
     "agency": "Ambulance",
@@ -105,13 +87,13 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "20 Jul 2025 05:57:18",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "20 Jul 2025 06:02:12"
+    "updated": "20 Jul 2025 06:48:38"
   },
   {
     "agency": "Ambulance",
@@ -123,13 +105,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "20 Jul 2025 06:17:37",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "20 Jul 2025 06:22:45"
+    "updated": "20 Jul 2025 06:50:21"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +129,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "20 Jul 2025 06:26:01"
+    "updated": "20 Jul 2025 06:49:11"
   },
   {
     "agency": "Ambulance",
@@ -159,13 +141,31 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "20 Jul 2025 06:28:07",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "20 Jul 2025 06:28:09"
+    "updated": "20 Jul 2025 06:47:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "047265-20072025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "20 Jul 2025 06:36:22",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "20 Jul 2025 06:43:18"
   },
   {
     "title": "Assist Reconstruction Authority",
@@ -588,5 +588,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Jul 2025 21:07"
+  },
+  {
+    "title": "ENGLANDS RD, NORTH BOAMBEE VALLEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_612378",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.313777924",
+    "longitude": "153.065322876",
+    "region": "nsw",
+    "time_of_call": "20 Jul 2025 06:45:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "241 ENGLANDS RD, NORTH BOAMBEE VALLEY 2450",
+    "council_area": "Coffs Harbour",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Jul 2025 06:45"
   }
 ]
