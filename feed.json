@@ -9,15 +9,15 @@
     "longitude": "149.04508647",
     "region": "act",
     "time_of_call": "22 Jul 2025 17:59:59",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "ELECTRICAL THREAT OR POWER LINES DOWN",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/electrical-threat_0.svg",
     "location": "MARLOCK STREET, RIVETT, 2611",
-    "updated": "22 Jul 2025 18:20:26"
+    "updated": "22 Jul 2025 19:39:03"
   },
   {
     "agency": "Fire",
@@ -38,6 +38,26 @@
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "STREETON DRIVE, HILDER STREET, HOLDER, 2611",
     "updated": "22 Jul 2025 19:12:39"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STORM OR TREE DAMAGE - NGUNNAWAL",
+    "id": "011218-22072025",
+    "latitude": "-35.1776691399",
+    "longitude": "149.1141724599",
+    "region": "act",
+    "time_of_call": "22 Jul 2025 19:44:32",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "AMAGULA AVENUE, NGUNNAWAL, 2913",
+    "updated": "22 Jul 2025 19:52:38"
   },
   {
     "agency": "Ambulance",
@@ -73,25 +93,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "22 Jul 2025 11:26:16"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYNEHAM",
-    "id": "047909-22072025",
-    "latitude": "-35.238929",
-    "longitude": "149.124748",
-    "region": "act",
-    "time_of_call": "22 Jul 2025 16:26:11",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LYNEHAM",
-    "updated": "22 Jul 2025 18:30:35"
+    "updated": "22 Jul 2025 19:48:44"
   },
   {
     "agency": "Ambulance",
@@ -133,60 +135,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CASEY",
-    "id": "047922-22072025",
-    "latitude": "-35.167812",
-    "longitude": "149.097085",
-    "region": "act",
-    "time_of_call": "22 Jul 2025 17:19:27",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CASEY",
-    "updated": "22 Jul 2025 18:46:30"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "047925-22072025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "22 Jul 2025 17:34:20",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "22 Jul 2025 18:50:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WANNIASSA",
-    "id": "047927-22072025",
-    "latitude": "-35.399113",
-    "longitude": "149.091978",
-    "region": "act",
-    "time_of_call": "22 Jul 2025 17:45:57",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WANNIASSA",
-    "updated": "22 Jul 2025 18:05:35"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - RICHARDSON",
     "id": "047930-22072025",
     "latitude": "-35.428715",
@@ -199,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "22 Jul 2025 19:20:16"
+    "updated": "22 Jul 2025 19:46:56"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +237,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "22 Jul 2025 19:28:26"
+    "updated": "22 Jul 2025 19:43:30"
   },
   {
     "agency": "Ambulance",
@@ -319,13 +267,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "22 Jul 2025 19:24:24",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "22 Jul 2025 19:27:31"
+    "updated": "22 Jul 2025 19:50:47"
   },
   {
     "agency": "Ambulance",
@@ -343,7 +291,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "22 Jul 2025 19:30:49"
+    "updated": "22 Jul 2025 19:34:58"
   },
   {
     "agency": "Ambulance",
@@ -361,7 +309,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "22 Jul 2025 19:32:46"
+    "updated": "22 Jul 2025 19:33:41"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "047944-22072025",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "22 Jul 2025 19:38:12",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "22 Jul 2025 19:50:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "047945-22072025",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "22 Jul 2025 19:46:52",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "22 Jul 2025 19:52:57"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -393,7 +377,7 @@
     "latitude": "-32.7353744499999",
     "longitude": "151.420303344",
     "region": "nsw",
-    "time_of_call": "21 Jul 2025 20:45:00",
+    "time_of_call": "22 Jul 2025 19:51:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -405,7 +389,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Jul 2025 20:45"
+    "updated": "22 Jul 2025 19:51"
   },
   {
     "title": "BULGANDRAMINE RD, PEAK HILL",
@@ -484,7 +468,7 @@
     "latitude": "-33.1195526119999",
     "longitude": "151.465896606",
     "region": "nsw",
-    "time_of_call": "22 Jul 2025 15:23:00",
+    "time_of_call": "22 Jul 2025 19:25:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -496,7 +480,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Jul 2025 15:23"
+    "updated": "22 Jul 2025 19:25"
   },
   {
     "title": "SMITHS CREEK RD, SMITHS CREEK",
@@ -539,5 +523,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Jul 2025 19:23"
+  },
+  {
+    "title": "HUME HWY, GOULBURN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_612664",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.776222229",
+    "longitude": "149.687469482",
+    "region": "nsw",
+    "time_of_call": "22 Jul 2025 19:31:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "HUME HWY, GOULBURN 2580",
+    "council_area": "Goulburn Mulwaree",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "22 Jul 2025 19:31"
+  },
+  {
+    "title": "JEANETTE ST, REGENTVILLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_612665",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.774391174",
+    "longitude": "150.67086792",
+    "region": "nsw",
+    "time_of_call": "22 Jul 2025 19:39:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "RFS REGENTVILLE 20 JEANETTE ST, REGENTVILLE 2745",
+    "council_area": "Penrith",
+    "type": "Planned Event",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "22 Jul 2025 19:39"
   }
 ]
