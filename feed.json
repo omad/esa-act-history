@@ -29,15 +29,15 @@
     "longitude": "149.0854232599",
     "region": "act",
     "time_of_call": "23 Jul 2025 20:19:06",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "NOALA STREET, ARANDA, 2614",
-    "updated": "23 Jul 2025 20:31:05"
+    "updated": "23 Jul 2025 20:46:52"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "23 Jul 2025 17:16:27"
+    "updated": "23 Jul 2025 20:54:50"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +219,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "23 Jul 2025 20:22:31"
+    "updated": "23 Jul 2025 20:40:10"
   },
   {
     "agency": "Ambulance",
@@ -273,7 +273,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "23 Jul 2025 20:30:24"
+    "updated": "23 Jul 2025 20:37:38"
   },
   {
     "agency": "Ambulance",
@@ -309,7 +309,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "23 Jul 2025 20:21:11"
+    "updated": "23 Jul 2025 20:36:27"
   },
   {
     "agency": "Ambulance",
@@ -345,7 +345,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "23 Jul 2025 19:26:11"
+    "updated": "23 Jul 2025 20:42:30"
   },
   {
     "agency": "Ambulance",
@@ -363,7 +363,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "23 Jul 2025 20:22:59"
+    "updated": "23 Jul 2025 20:53:05"
   },
   {
     "agency": "Ambulance",
@@ -435,7 +435,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "23 Jul 2025 20:21:51"
+    "updated": "23 Jul 2025 20:34:03"
   },
   {
     "agency": "Ambulance",
@@ -453,7 +453,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "23 Jul 2025 20:27:58"
+    "updated": "23 Jul 2025 20:54:32"
   },
   {
     "agency": "Ambulance",
@@ -483,13 +483,49 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "23 Jul 2025 20:28:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "23 Jul 2025 20:32:45"
+    "updated": "23 Jul 2025 20:39:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "048231-23072025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "23 Jul 2025 20:37:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "23 Jul 2025 20:42:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "048232-23072025",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "23 Jul 2025 20:48:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONNER",
+    "updated": "23 Jul 2025 20:54:48"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -607,9 +643,9 @@
     "latitude": "-29.0849113469999",
     "longitude": "153.423782349",
     "region": "nsw",
-    "time_of_call": "23 Jul 2025 20:09:00",
+    "time_of_call": "23 Jul 2025 20:32:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BROADWATER EVANS HEAD RD, EVANS HEAD 2473",
     "council_area": "Richmond Valley",
@@ -619,6 +655,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jul 2025 20:09"
+    "updated": "23 Jul 2025 20:32"
   }
 ]
