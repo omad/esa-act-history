@@ -3,26 +3,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - EVATT",
-    "id": "011315-24072025",
-    "latitude": "-35.22104",
-    "longitude": "149.06134499",
-    "region": "act",
-    "time_of_call": "24 Jul 2025 18:00:59",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "COULTER DRIVE, GINNINDERRA DRIVE, EVATT, 2617",
-    "updated": "24 Jul 2025 18:34:50"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "ELECTRICAL THREAT OR POWER LINES DOWN - O'CONNOR",
     "id": "011319-24072025",
     "latitude": "-35.2613884599",
@@ -181,13 +161,13 @@
     "longitude": "149.142366",
     "region": "act",
     "time_of_call": "25 Jul 2025 00:37:31",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "25 Jul 2025 04:42:32"
+    "updated": "25 Jul 2025 05:36:13"
   },
   {
     "agency": "Ambulance",
@@ -331,7 +311,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "25 Jul 2025 05:03:03"
+    "updated": "25 Jul 2025 05:32:20"
   },
   {
     "agency": "Ambulance",
@@ -397,13 +377,13 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "25 Jul 2025 05:04:02",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "25 Jul 2025 05:10:30"
+    "updated": "25 Jul 2025 05:24:26"
   },
   {
     "agency": "Ambulance",
@@ -415,13 +395,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "25 Jul 2025 05:18:17",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "25 Jul 2025 05:23:30"
+    "updated": "25 Jul 2025 05:32:26"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -557,5 +537,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "25 Jul 2025 03:19"
+  },
+  {
+    "title": "BROADWATER EVANS HEAD RD, EVANS HEAD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_612857",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.0929889679999",
+    "longitude": "153.427810668",
+    "region": "nsw",
+    "time_of_call": "25 Jul 2025 05:28:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BROADWATER EVANS HEAD RD, EVANS HEAD 2473",
+    "council_area": "Richmond Valley",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Jul 2025 05:28"
   }
 ]
