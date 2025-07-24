@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - CITY",
-    "id": "011336-24072025",
-    "latitude": "-35.2784347534",
-    "longitude": "149.1329040527",
-    "region": "act",
-    "time_of_call": "24 Jul 2025 20:34:06",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "BUNDA STREET, TOCUMWAL LANE, CITY, 2601",
-    "updated": "24 Jul 2025 20:42:02"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -191,13 +171,13 @@
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "24 Jul 2025 19:04:53",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "24 Jul 2025 21:21:24"
+    "updated": "24 Jul 2025 21:41:15"
   },
   {
     "agency": "Ambulance",
@@ -431,7 +411,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "24 Jul 2025 21:07:38"
+    "updated": "24 Jul 2025 21:44:20"
   },
   {
     "agency": "Ambulance",
@@ -479,13 +459,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "24 Jul 2025 21:14:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "24 Jul 2025 21:32:20"
+    "updated": "24 Jul 2025 21:43:51"
   },
   {
     "agency": "Ambulance",
@@ -539,7 +519,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "24 Jul 2025 21:38:52"
+    "updated": "24 Jul 2025 21:43:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "048540-24072025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "24 Jul 2025 21:40:39",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "24 Jul 2025 21:44:24"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -723,7 +721,7 @@
     "latitude": "-31.270717621",
     "longitude": "150.906799316",
     "region": "nsw",
-    "time_of_call": "24 Jul 2025 21:29:00",
+    "time_of_call": "24 Jul 2025 21:47:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -735,7 +733,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Jul 2025 21:29"
+    "updated": "24 Jul 2025 21:47"
   },
   {
     "title": "NEWCASTLE LINK RD, CAMERON PARK",
@@ -756,5 +754,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Jul 2025 21:26"
+  },
+  {
+    "title": "Spring St, Wagga Wagga",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_612844",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.112446",
+    "longitude": "147.350765",
+    "region": "nsw",
+    "time_of_call": "24 Jul 2025 21:47:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Spring St, Wagga Wagga, NSW 2650",
+    "council_area": "Wagga Wagga",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "24 Jul 2025 21:47"
   }
 ]
