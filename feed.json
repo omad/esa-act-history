@@ -125,13 +125,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "25 Jul 2025 18:48:17",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "25 Jul 2025 19:32:01"
+    "updated": "25 Jul 2025 21:37:37"
   },
   {
     "agency": "Ambulance",
@@ -143,13 +143,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "25 Jul 2025 18:51:45",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "25 Jul 2025 20:58:16"
+    "updated": "25 Jul 2025 21:33:14"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "25 Jul 2025 21:20:18"
+    "updated": "25 Jul 2025 21:27:23"
   },
   {
     "agency": "Ambulance",
@@ -257,7 +257,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "25 Jul 2025 21:19:11"
+    "updated": "25 Jul 2025 21:25:09"
   },
   {
     "agency": "Ambulance",
@@ -276,6 +276,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
     "updated": "25 Jul 2025 21:15:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THROSBY",
+    "id": "048776-25072025",
+    "latitude": "-35.187595",
+    "longitude": "149.161141",
+    "region": "act",
+    "time_of_call": "25 Jul 2025 21:32:56",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THROSBY",
+    "updated": "25 Jul 2025 21:33:23"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -572,9 +590,9 @@
     "latitude": "-32.9346609999999",
     "longitude": "151.636757",
     "region": "nsw",
-    "time_of_call": "25 Jul 2025 21:20:00",
+    "time_of_call": "25 Jul 2025 21:25:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -587,6 +605,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Jul 2025 21:20"
+    "updated": "25 Jul 2025 21:25"
+  },
+  {
+    "title": "MCWILLAMS RD, HANWOOD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_612927",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.3495826719999",
+    "longitude": "146.044509888",
+    "region": "nsw",
+    "time_of_call": "25 Jul 2025 21:23:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MCWILLIAM WINES 4 MCWILLAMS RD, HANWOOD 2680",
+    "council_area": "Griffith",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Jul 2025 21:23"
   }
 ]
