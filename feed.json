@@ -189,7 +189,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "26 Jul 2025 01:23:10"
+    "updated": "26 Jul 2025 01:40:56"
   },
   {
     "agency": "Ambulance",
@@ -219,13 +219,31 @@
     "longitude": "149.046336",
     "region": "act",
     "time_of_call": "26 Jul 2025 01:26:26",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLDER",
+    "updated": "26 Jul 2025 01:37:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "048811-26072025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "26 Jul 2025 01:49:05",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "HOLDER",
-    "updated": "26 Jul 2025 01:28:33"
+    "location": "CITY",
+    "updated": "26 Jul 2025 01:52:30"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -348,9 +366,9 @@
     "latitude": "-31.175289154",
     "longitude": "152.941833496",
     "region": "nsw",
-    "time_of_call": "25 Jul 2025 14:12:00",
+    "time_of_call": "26 Jul 2025 01:38:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MARIA RIVER RD, CRESCENT HEAD 2440",
     "council_area": "Kempsey",
@@ -360,7 +378,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Jul 2025 14:12"
+    "updated": "26 Jul 2025 01:38"
   },
   {
     "title": "WATTS RD, YOWRIE",
@@ -370,7 +388,7 @@
     "latitude": "-36.334903717",
     "longitude": "149.732147217",
     "region": "nsw",
-    "time_of_call": "25 Jul 2025 15:52:00",
+    "time_of_call": "26 Jul 2025 01:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -382,7 +400,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Jul 2025 15:52"
+    "updated": "26 Jul 2025 01:41"
   },
   {
     "title": "SOUTH WOLUMLA RD, TOOTHDALE",
@@ -522,7 +540,7 @@
     "latitude": "-35.878398896",
     "longitude": "146.835998535",
     "region": "nsw",
-    "time_of_call": "25 Jul 2025 22:43:00",
+    "time_of_call": "26 Jul 2025 01:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -534,7 +552,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Jul 2025 22:43"
+    "updated": "26 Jul 2025 01:42"
   },
   {
     "title": "BUNDEENA RD, GLENNING VALLEY",
@@ -544,9 +562,9 @@
     "latitude": "-33.34047699",
     "longitude": "151.422317505",
     "region": "nsw",
-    "time_of_call": "26 Jul 2025 00:58:00",
+    "time_of_call": "26 Jul 2025 01:29:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "80 BUNDEENA RD, GLENNING VALLEY 2261",
     "council_area": "Central Coast",
@@ -556,26 +574,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "26 Jul 2025 00:58"
-  },
-  {
-    "title": "FEDERAL HWY, SUTTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_612939",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.201923371",
-    "longitude": "149.210876465",
-    "region": "nsw",
-    "time_of_call": "26 Jul 2025 01:23:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "FEDERAL HWY, SUTTON 2620",
-    "council_area": "Yass Valley",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Jul 2025 01:23"
+    "updated": "26 Jul 2025 01:29"
   }
 ]
