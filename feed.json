@@ -117,7 +117,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "BEETALOO COURT, BEETALOO STREET, HAWKER, 2614",
-    "updated": "27 Jul 2025 01:25:51"
+    "updated": "27 Jul 2025 01:28:28"
   },
   {
     "agency": "Ambulance",
@@ -159,37 +159,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
-    "id": "049007-27072025",
-    "latitude": "-35.333366",
-    "longitude": "149.146674",
-    "region": "act",
-    "time_of_call": "27 Jul 2025 00:21:47",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NARRABUNDAH",
-    "updated": "27 Jul 2025 00:29:07"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
     "id": "049008-27072025",
     "latitude": "-35.425091",
     "longitude": "149.088064",
     "region": "act",
     "time_of_call": "27 Jul 2025 00:26:19",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "27 Jul 2025 01:21:57"
+    "updated": "27 Jul 2025 01:41:57"
   },
   {
     "agency": "Ambulance",
@@ -201,13 +183,13 @@
     "longitude": "149.143546",
     "region": "act",
     "time_of_call": "27 Jul 2025 00:57:37",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "27 Jul 2025 01:22:23"
+    "updated": "27 Jul 2025 01:33:18"
   },
   {
     "agency": "Ambulance",
@@ -225,25 +207,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "27 Jul 2025 01:26:38"
+    "updated": "27 Jul 2025 01:50:12"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - SCULLIN",
-    "id": "049019-27072025",
-    "latitude": "-35.235868",
-    "longitude": "149.037677",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "049022-27072025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
     "region": "act",
-    "time_of_call": "27 Jul 2025 01:18:15",
+    "time_of_call": "27 Jul 2025 01:39:10",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "SCULLIN",
-    "updated": "27 Jul 2025 01:23:47"
+    "location": "CONDER",
+    "updated": "27 Jul 2025 01:48:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "049023-27072025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "27 Jul 2025 01:51:07",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "27 Jul 2025 01:51:57"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -462,27 +462,5 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "26 Jul 2025 11:26"
-  },
-  {
-    "title": "WARRENA ST, WALGETT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613016",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.0201568599999",
-    "longitude": "148.117630005",
-    "region": "nsw",
-    "time_of_call": "27 Jul 2025 00:34:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "39 WARRENA ST, WALGETT 2832",
-    "council_area": "Walgett",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "27 Jul 2025 00:34"
   }
 ]
