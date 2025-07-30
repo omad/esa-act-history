@@ -203,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "30 Jul 2025 19:31:52"
+    "updated": "30 Jul 2025 19:53:20"
   },
   {
     "agency": "Ambulance",
@@ -323,13 +323,13 @@
     "longitude": "149.140719",
     "region": "act",
     "time_of_call": "30 Jul 2025 18:58:46",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "30 Jul 2025 19:07:53"
+    "updated": "30 Jul 2025 19:41:41"
   },
   {
     "agency": "Ambulance",
@@ -359,13 +359,13 @@
     "longitude": "149.057326",
     "region": "act",
     "time_of_call": "30 Jul 2025 19:13:54",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "30 Jul 2025 19:20:47"
+    "updated": "30 Jul 2025 19:54:53"
   },
   {
     "agency": "Ambulance",
@@ -383,7 +383,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "30 Jul 2025 19:23:00"
+    "updated": "30 Jul 2025 19:48:54"
   },
   {
     "agency": "Ambulance",
@@ -413,13 +413,13 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "30 Jul 2025 19:28:16",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "30 Jul 2025 19:32:48"
+    "updated": "30 Jul 2025 19:36:56"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -623,28 +623,6 @@
     "updated": "30 Jul 2025 18:24"
   },
   {
-    "title": "NAVAL COLLEGE RD, JERVIS BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613321",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.120780945",
-    "longitude": "150.681655884",
-    "region": "nsw",
-    "time_of_call": "30 Jul 2025 18:31:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "NAVAL COLLEGE RD, JERVIS BAY 2540",
-    "council_area": "Shoalhaven",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Jul 2025 18:31"
-  },
-  {
     "title": "CLARENCE ST, BRUSHGROVE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613322",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -687,47 +665,47 @@
     "updated": "30 Jul 2025 19:08"
   },
   {
-    "title": "NEWCASTLE AIRPORT WILLIAMTOWN DR, WILLIAMTOWN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613325",
+    "title": "FEDERAL HWY, COLLECTOR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613327",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.803913117",
-    "longitude": "151.838821411",
+    "latitude": "-34.931179046",
+    "longitude": "149.425369262",
     "region": "nsw",
-    "time_of_call": "30 Jul 2025 19:15:00",
+    "time_of_call": "30 Jul 2025 19:39:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "NEWCASTLE AIRPORT WILLIAMTOWN DR, WILLIAMTOWN 2318",
-    "council_area": "Port Stephens",
+    "location": "5178 FEDERAL HWY, COLLECTOR 2581",
+    "council_area": "Queanbeyan-Palerang",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Jul 2025 19:39"
+  },
+  {
+    "title": "ARGYLE ST, PICTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613328",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.1713218689999",
+    "longitude": "150.610809326",
+    "region": "nsw",
+    "time_of_call": "30 Jul 2025 19:43:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GEORGE IV INN 180 ARGYLE ST, PICTON 2571",
+    "council_area": "Wollondilly",
     "type": "Fire Alarm",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
     "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Jul 2025 19:15"
-  },
-  {
-    "title": "WYEE RD, MORISSET",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613326",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.121665954",
-    "longitude": "151.476715088",
-    "region": "nsw",
-    "time_of_call": "30 Jul 2025 19:30:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "WYEE RD, MORISSET 2264",
-    "council_area": "Lake Macquarie",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "30 Jul 2025 19:30"
+    "updated": "30 Jul 2025 19:43"
   }
 ]
