@@ -60,6 +60,26 @@
     "updated": "01 Aug 2025 06:16:20"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - NARRABUNDAH",
+    "id": "011692-01082025",
+    "latitude": "-35.3301849365",
+    "longitude": "149.1607055664",
+    "region": "act",
+    "time_of_call": "01 Aug 2025 08:49:02",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "BUS LANE, CANBERRA AVENUE, NARRABUNDAH, 2604",
+    "updated": "01 Aug 2025 08:52:23"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -75,25 +95,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "01 Aug 2025 06:57:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "050346-01082025",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "01 Aug 2025 07:15:31",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "01 Aug 2025 08:21:33"
+    "updated": "01 Aug 2025 08:29:08"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +131,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "01 Aug 2025 08:10:04"
+    "updated": "01 Aug 2025 08:39:27"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "01 Aug 2025 08:26:14"
+    "updated": "01 Aug 2025 08:47:53"
   },
   {
     "agency": "Ambulance",
@@ -177,13 +179,31 @@
     "longitude": "149.088064",
     "region": "act",
     "time_of_call": "01 Aug 2025 08:14:17",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "01 Aug 2025 08:48:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CRACE",
+    "id": "050363-01082025",
+    "latitude": "-35.202196",
+    "longitude": "149.110562",
+    "region": "act",
+    "time_of_call": "01 Aug 2025 08:47:19",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "ISABELLA PLAINS",
-    "updated": "01 Aug 2025 08:22:46"
+    "location": "CRACE",
+    "updated": "01 Aug 2025 08:52:42"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -338,5 +358,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Aug 2025 06:25"
+  },
+  {
+    "title": "OXLEY HWY, PORT MACQUARIE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613418",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.448499679",
+    "longitude": "152.878997803",
+    "region": "nsw",
+    "time_of_call": "01 Aug 2025 08:40:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "OXLEY HWY, PORT MACQUARIE 2444",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "1 Aug 2025 08:40"
+  },
+  {
+    "title": "DURAL SPORTS CENTRE KENTHURST RD, DURAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613419",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.689357758",
+    "longitude": "151.016189575",
+    "region": "nsw",
+    "time_of_call": "01 Aug 2025 08:38:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "DURAL SPORTS CENTRE KENTHURST RD, DURAL 2158",
+    "council_area": "The Hills",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Aug 2025 08:38"
   }
 ]
