@@ -125,13 +125,13 @@
     "longitude": "149.046336",
     "region": "act",
     "time_of_call": "01 Aug 2025 17:39:50",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "01 Aug 2025 21:17:14"
+    "updated": "01 Aug 2025 21:26:17"
   },
   {
     "agency": "Ambulance",
@@ -269,13 +269,13 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "01 Aug 2025 19:30:29",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "01 Aug 2025 20:21:10"
+    "updated": "01 Aug 2025 21:38:52"
   },
   {
     "agency": "Ambulance",
@@ -329,7 +329,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "01 Aug 2025 21:18:29"
+    "updated": "01 Aug 2025 21:25:02"
   },
   {
     "agency": "Ambulance",
@@ -383,7 +383,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "01 Aug 2025 21:23:16"
+    "updated": "01 Aug 2025 21:38:10"
   },
   {
     "agency": "Ambulance",
@@ -455,7 +455,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "01 Aug 2025 21:24:43"
+    "updated": "01 Aug 2025 21:26:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACQUARIE",
+    "id": "050535-01082025",
+    "latitude": "-35.249901",
+    "longitude": "149.061171",
+    "region": "act",
+    "time_of_call": "01 Aug 2025 21:32:35",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACQUARIE",
+    "updated": "01 Aug 2025 21:37:04"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -679,5 +697,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Aug 2025 20:07"
+  },
+  {
+    "title": "Barwon Av, Moree",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613467",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.4778670009999",
+    "longitude": "149.834001",
+    "region": "nsw",
+    "time_of_call": "01 Aug 2025 21:30:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Barwon Av, Moree, NSW 2400",
+    "council_area": "Moree Plains",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "1 Aug 2025 21:30"
   }
 ]
