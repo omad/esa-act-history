@@ -47,13 +47,13 @@
     "longitude": "149.117192",
     "region": "act",
     "time_of_call": "03 Aug 2025 01:48:53",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "03 Aug 2025 07:24:43"
+    "updated": "03 Aug 2025 07:29:38"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "03 Aug 2025 07:10:17"
+    "updated": "03 Aug 2025 07:46:20"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "03 Aug 2025 07:18:13"
+    "updated": "03 Aug 2025 07:28:08"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "03 Aug 2025 07:21:57"
+    "updated": "03 Aug 2025 07:36:51"
   },
   {
     "agency": "Ambulance",
@@ -198,6 +198,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
     "updated": "03 Aug 2025 07:24:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLOREY",
+    "id": "050838-03082025",
+    "latitude": "-35.224909",
+    "longitude": "149.053511",
+    "region": "act",
+    "time_of_call": "03 Aug 2025 07:27:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLOREY",
+    "updated": "03 Aug 2025 07:33:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "050839-03082025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "03 Aug 2025 07:28:29",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "03 Aug 2025 07:34:53"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -606,9 +642,9 @@
     "latitude": "-33.536754609",
     "longitude": "151.30342102",
     "region": "nsw",
-    "time_of_call": "03 Aug 2025 06:44:00",
+    "time_of_call": "03 Aug 2025 07:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "PATONGA DR, PATONGA 2256",
     "council_area": "Central Coast",
@@ -616,41 +652,19 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Aug 2025 06:44"
-  },
-  {
-    "title": "LANSDOWNE RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613715",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.8475399009999",
-    "longitude": "152.506668091",
-    "region": "nsw",
-    "time_of_call": "03 Aug 2025 06:49:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "IQ RENEW REMADE RESINS 586 LANSDOWNE RD, KUNDLE KUNDLE 2430",
-    "council_area": "Mid-Coast",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Aug 2025 06:49"
+    "updated": "3 Aug 2025 07:38"
   },
   {
     "title": "PACIFIC MTWY, BILLINUDGEL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613716",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-28.490739822",
-    "longitude": "153.518493653",
+    "latitude": "-28.493854523",
+    "longitude": "153.521713257",
     "region": "nsw",
-    "time_of_call": "03 Aug 2025 07:00:00",
+    "time_of_call": "03 Aug 2025 07:32:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "PACIFIC MTWY, BILLINUDGEL 2483",
     "council_area": "Byron",
@@ -660,49 +674,27 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Aug 2025 07:00"
+    "updated": "3 Aug 2025 07:32"
   },
   {
     "title": "GAN GAN RD, ONE MILE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613717",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.76411438",
-    "longitude": "152.113220215",
+    "latitude": "-32.77678299",
+    "longitude": "152.096481324",
     "region": "nsw",
-    "time_of_call": "03 Aug 2025 07:10:00",
+    "time_of_call": "03 Aug 2025 07:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "GAN GAN RD, ONE MILE 2316",
+    "location": "262 GAN GAN RD, ONE MILE 2316",
     "council_area": "Port Stephens",
     "type": "Flood/Storm/Tree Down",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Aug 2025 07:10"
-  },
-  {
-    "title": "GLOUCESTER RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613718",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.8731765749999",
-    "longitude": "152.361114502",
-    "region": "nsw",
-    "time_of_call": "03 Aug 2025 07:18:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "WINGHAM BEEF EXPORTS 1295 GLOUCESTER RD, WINGHAM 2429",
-    "council_area": "Mid-Coast",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "3 Aug 2025 07:18"
+    "updated": "3 Aug 2025 07:40"
   },
   {
     "title": "WISEMANS FERRY RD, SOMERSBY",
@@ -712,9 +704,9 @@
     "latitude": "-33.4010963439999",
     "longitude": "151.287124634",
     "region": "nsw",
-    "time_of_call": "03 Aug 2025 07:20:00",
+    "time_of_call": "03 Aug 2025 07:39:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "WISEMANS FERRY RD, SOMERSBY 2250",
     "council_area": "Central Coast",
@@ -722,6 +714,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Aug 2025 07:20"
+    "updated": "3 Aug 2025 07:39"
   }
 ]
