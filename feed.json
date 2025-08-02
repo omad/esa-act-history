@@ -75,7 +75,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "02 Aug 2025 22:08:11"
+    "updated": "03 Aug 2025 01:42:20"
   },
   {
     "agency": "Ambulance",
@@ -105,13 +105,13 @@
     "longitude": "149.110257",
     "region": "act",
     "time_of_call": "02 Aug 2025 22:51:46",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "03 Aug 2025 01:27:38"
+    "updated": "03 Aug 2025 01:28:34"
   },
   {
     "agency": "Ambulance",
@@ -141,13 +141,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "02 Aug 2025 23:19:06",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "03 Aug 2025 01:23:15"
+    "updated": "03 Aug 2025 01:42:00"
   },
   {
     "agency": "Ambulance",
@@ -177,13 +177,13 @@
     "longitude": "149.154752",
     "region": "act",
     "time_of_call": "03 Aug 2025 00:27:23",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "03 Aug 2025 00:41:20"
+    "updated": "03 Aug 2025 01:47:31"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "03 Aug 2025 01:15:22"
+    "updated": "03 Aug 2025 01:36:41"
   },
   {
     "agency": "Ambulance",
@@ -220,6 +220,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
     "updated": "03 Aug 2025 01:24:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "050807-03082025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "03 Aug 2025 01:48:53",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "03 Aug 2025 01:49:52"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -599,63 +617,63 @@
     "updated": "3 Aug 2025 01:17"
   },
   {
-    "title": "PUTTY RD, BLAXLANDS RIDGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613696",
+    "title": "KABLE AV, TAMWORTH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613697",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.464000702",
-    "longitude": "150.810302735",
+    "latitude": "-31.094654083",
+    "longitude": "150.9322052",
     "region": "nsw",
-    "time_of_call": "03 Aug 2025 00:39:00",
+    "time_of_call": "03 Aug 2025 00:45:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "PUTTY RD, BLAXLANDS RIDGE 2758",
-    "council_area": "Hawkesbury",
+    "location": "84 KABLE AV, TAMWORTH 2340",
+    "council_area": "Tamworth",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "3 Aug 2025 00:45"
+  },
+  {
+    "title": "COOPER DR, CLANDULLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613700",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.9013290409999",
+    "longitude": "149.959259033",
+    "region": "nsw",
+    "time_of_call": "03 Aug 2025 01:42:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "COOPER DR, CLANDULLA 2848",
+    "council_area": "Mid-Western",
     "type": "Flood/Storm/Tree Down",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Aug 2025 00:39"
+    "updated": "3 Aug 2025 01:42"
   },
   {
-    "title": "CALLAGHAN ST, CLANDULLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613698",
+    "title": "MEDOWIE RD, MEDOWIE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613701",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.903774262",
-    "longitude": "149.947067261",
+    "latitude": "-32.741470337",
+    "longitude": "151.867553711",
     "region": "nsw",
-    "time_of_call": "03 Aug 2025 01:18:00",
+    "time_of_call": "03 Aug 2025 01:45:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "CALLAGHAN ST, CLANDULLA 2848",
-    "council_area": "Mid-Western",
-    "type": "Assist Other Agency",
+    "location": "MEDOWIE RD, MEDOWIE 2318",
+    "council_area": "Port Stephens",
+    "type": "Medical",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Aug 2025 01:18"
-  },
-  {
-    "title": "PACIFIC HWY, COWAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613699",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.5697860719999",
-    "longitude": "151.19178772",
-    "region": "nsw",
-    "time_of_call": "03 Aug 2025 01:15:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, COWAN 2081",
-    "council_area": "Hornsby",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Aug 2025 01:15"
+    "updated": "3 Aug 2025 01:45"
   }
 ]
