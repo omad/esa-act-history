@@ -89,13 +89,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "04 Aug 2025 01:39:55",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "04 Aug 2025 05:51:00"
+    "updated": "04 Aug 2025 06:39:59"
   },
   {
     "agency": "Ambulance",
@@ -125,13 +125,13 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "04 Aug 2025 06:00:25",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "04 Aug 2025 06:04:56"
+    "updated": "04 Aug 2025 06:44:31"
   },
   {
     "agency": "Ambulance",
@@ -149,16 +149,16 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "04 Aug 2025 06:15:09"
+    "updated": "04 Aug 2025 06:35:59"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "title": "AMBULANCE RESPONSE - BONNER",
     "id": "051049-04082025",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
     "region": "act",
     "time_of_call": "04 Aug 2025 06:16:25",
     "status": "Resource Allocation Pending",
@@ -166,8 +166,8 @@
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CANBERRA AIRPORT",
-    "updated": "04 Aug 2025 06:18:36"
+    "location": "BONNER",
+    "updated": "04 Aug 2025 06:50:07"
   },
   {
     "agency": "Ambulance",
@@ -179,13 +179,31 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "04 Aug 2025 06:22:50",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "04 Aug 2025 06:27:48"
+    "updated": "04 Aug 2025 06:51:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LATHAM",
+    "id": "051052-04082025",
+    "latitude": "-35.217781",
+    "longitude": "149.034875",
+    "region": "act",
+    "time_of_call": "04 Aug 2025 06:34:11",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LATHAM",
+    "updated": "04 Aug 2025 06:49:51"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -239,7 +257,7 @@
     "latitude": "-32.7371788029999",
     "longitude": "151.425140381",
     "region": "nsw",
-    "time_of_call": "03 Aug 2025 04:37:00",
+    "time_of_call": "04 Aug 2025 06:36:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -251,7 +269,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Aug 2025 04:37"
+    "updated": "4 Aug 2025 06:36"
   },
   {
     "title": "HAMPDEN AV",
@@ -584,26 +602,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "4 Aug 2025 05:12"
-  },
-  {
-    "title": "WISEMANS FERRY RD, SOMERSBY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613880",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.3581161499999",
-    "longitude": "151.290298462",
-    "region": "nsw",
-    "time_of_call": "04 Aug 2025 06:23:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "840 WISEMANS FERRY RD, SOMERSBY 2250",
-    "council_area": "Central Coast",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Aug 2025 06:23"
   },
   {
     "title": "NEWELL HWY, COONABARABRAN",
