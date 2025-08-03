@@ -229,7 +229,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "04 Aug 2025 02:31:44"
+    "updated": "04 Aug 2025 02:44:05"
   },
   {
     "agency": "Ambulance",
@@ -247,7 +247,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "04 Aug 2025 02:02:41"
+    "updated": "04 Aug 2025 02:53:54"
   },
   {
     "agency": "Ambulance",
@@ -265,7 +265,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "04 Aug 2025 02:25:40"
+    "updated": "04 Aug 2025 02:42:11"
   },
   {
     "agency": "Ambulance",
@@ -301,7 +301,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "04 Aug 2025 02:33:45"
+    "updated": "04 Aug 2025 02:35:33"
   },
   {
     "agency": "Ambulance",
@@ -313,13 +313,13 @@
     "longitude": "149.081053",
     "region": "act",
     "time_of_call": "04 Aug 2025 02:31:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "04 Aug 2025 02:32:13"
+    "updated": "04 Aug 2025 02:40:45"
   },
   {
     "agency": "Ambulance",
@@ -337,7 +337,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "04 Aug 2025 02:33:56"
+    "updated": "04 Aug 2025 02:36:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GIRALANG",
+    "id": "051028-04082025",
+    "latitude": "-35.210049",
+    "longitude": "149.100175",
+    "region": "act",
+    "time_of_call": "04 Aug 2025 02:36:47",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GIRALANG",
+    "updated": "04 Aug 2025 02:54:48"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -783,5 +801,69 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Aug 2025 23:56"
+  },
+  {
+    "title": "CLARENCE WAY, UPPER COPMANHURST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613875",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.56837082",
+    "longitude": "152.740859986",
+    "region": "nsw",
+    "time_of_call": "04 Aug 2025 00:50:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "2478 CLARENCE WAY, UPPER COPMANHURST 2460",
+    "council_area": "Clarence Valley",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Aug 2025 00:50"
+  },
+  {
+    "title": "GWYDIR HWY, COLLARENEBRI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613876",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.5463867189999",
+    "longitude": "148.679794312",
+    "region": "nsw",
+    "time_of_call": "04 Aug 2025 02:49:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "BOONEWELL 14437 GWYDIR HWY, COLLARENEBRI 2833",
+    "council_area": "Walgett",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Aug 2025 02:49"
+  },
+  {
+    "title": "BEAUTY POINT RD, MORISSET",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613877",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.0967788689999",
+    "longitude": "151.475021363",
+    "region": "nsw",
+    "time_of_call": "04 Aug 2025 02:41:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "40 BEAUTY POINT RD, MORISSET 2264",
+    "council_area": "Lake Macquarie",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "4 Aug 2025 02:41"
   }
 ]
