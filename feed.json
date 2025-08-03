@@ -199,24 +199,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BANKS",
-    "id": "051014-04082025",
-    "latitude": "-35.471552",
-    "longitude": "149.100249",
-    "region": "act",
-    "time_of_call": "04 Aug 2025 01:03:23",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BANKS",
-    "updated": "04 Aug 2025 02:19:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CITY",
     "id": "051016-04082025",
     "latitude": "-35.282068",
@@ -229,7 +211,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "04 Aug 2025 02:44:05"
+    "updated": "04 Aug 2025 03:19:40"
   },
   {
     "agency": "Ambulance",
@@ -283,7 +265,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "04 Aug 2025 02:29:29"
+    "updated": "04 Aug 2025 03:08:43"
   },
   {
     "agency": "Ambulance",
@@ -295,31 +277,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "04 Aug 2025 02:29:34",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "04 Aug 2025 02:35:33"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BONYTHON",
-    "id": "051026-04082025",
-    "latitude": "-35.435736",
-    "longitude": "149.081053",
-    "region": "act",
-    "time_of_call": "04 Aug 2025 02:31:46",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "BONYTHON",
-    "updated": "04 Aug 2025 02:40:45"
+    "location": "GREENWAY",
+    "updated": "04 Aug 2025 02:56:30"
   },
   {
     "agency": "Ambulance",
@@ -337,7 +301,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "04 Aug 2025 02:36:26"
+    "updated": "04 Aug 2025 03:01:33"
   },
   {
     "agency": "Ambulance",
@@ -349,13 +313,49 @@
     "longitude": "149.100175",
     "region": "act",
     "time_of_call": "04 Aug 2025 02:36:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "04 Aug 2025 02:54:48"
+    "updated": "04 Aug 2025 02:57:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KINGSTON",
+    "id": "051030-04082025",
+    "latitude": "-35.315358",
+    "longitude": "149.146868",
+    "region": "act",
+    "time_of_call": "04 Aug 2025 03:09:25",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KINGSTON",
+    "updated": "04 Aug 2025 03:21:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "051031-04082025",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "04 Aug 2025 03:11:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "04 Aug 2025 03:19:25"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -823,47 +823,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "4 Aug 2025 00:50"
-  },
-  {
-    "title": "GWYDIR HWY, COLLARENEBRI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613876",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.5463867189999",
-    "longitude": "148.679794312",
-    "region": "nsw",
-    "time_of_call": "04 Aug 2025 02:49:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BOONEWELL 14437 GWYDIR HWY, COLLARENEBRI 2833",
-    "council_area": "Walgett",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Aug 2025 02:49"
-  },
-  {
-    "title": "BEAUTY POINT RD, MORISSET",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613877",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.0967788689999",
-    "longitude": "151.475021363",
-    "region": "nsw",
-    "time_of_call": "04 Aug 2025 02:41:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "40 BEAUTY POINT RD, MORISSET 2264",
-    "council_area": "Lake Macquarie",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "4 Aug 2025 02:41"
   }
 ]
