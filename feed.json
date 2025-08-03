@@ -175,7 +175,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "03 Aug 2025 22:56:46"
+    "updated": "04 Aug 2025 00:44:51"
   },
   {
     "agency": "Ambulance",
@@ -211,7 +211,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "03 Aug 2025 23:46:19"
+    "updated": "04 Aug 2025 00:34:56"
   },
   {
     "agency": "Ambulance",
@@ -259,13 +259,13 @@
     "longitude": "149.041664",
     "region": "act",
     "time_of_call": "04 Aug 2025 00:10:36",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "04 Aug 2025 00:13:35"
+    "updated": "04 Aug 2025 00:35:38"
   },
   {
     "agency": "Ambulance",
@@ -283,7 +283,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FRASER",
-    "updated": "04 Aug 2025 00:25:54"
+    "updated": "04 Aug 2025 00:27:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "051013-04082025",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "04 Aug 2025 00:45:31",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TAYLOR",
+    "updated": "04 Aug 2025 00:50:45"
   },
   {
     "title": "OLD MENDOORAN RD, DUBBO",
@@ -738,7 +756,7 @@
     "latitude": "-34.7451667789999",
     "longitude": "149.769744873",
     "region": "nsw",
-    "time_of_call": "04 Aug 2025 00:16:00",
+    "time_of_call": "04 Aug 2025 00:24:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -748,6 +766,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Aug 2025 00:16"
+    "updated": "4 Aug 2025 00:24"
+  },
+  {
+    "title": "BRIGADIER HAMMETT RD, WATTLE PONDS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613873",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.53276062",
+    "longitude": "151.179428101",
+    "region": "nsw",
+    "time_of_call": "04 Aug 2025 00:09:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "183 BRIGADIER HAMMETT RD, WATTLE PONDS 2330",
+    "council_area": "Singleton",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Aug 2025 00:09"
   }
 ]
