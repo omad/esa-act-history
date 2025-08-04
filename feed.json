@@ -171,7 +171,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "05 Aug 2025 00:33:48"
+    "updated": "05 Aug 2025 00:40:52"
   },
   {
     "agency": "Ambulance",
@@ -189,7 +189,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "05 Aug 2025 00:24:55"
+    "updated": "05 Aug 2025 00:41:45"
   },
   {
     "agency": "Ambulance",
@@ -213,24 +213,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUFFY",
-    "id": "051294-04082025",
-    "latitude": "-35.336273",
-    "longitude": "149.031217",
-    "region": "act",
-    "time_of_call": "04 Aug 2025 23:28:06",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DUFFY",
-    "updated": "05 Aug 2025 00:11:02"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CONDER",
     "id": "051296-05082025",
     "latitude": "-35.458351",
@@ -243,7 +225,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "05 Aug 2025 00:32:35"
+    "updated": "05 Aug 2025 00:41:04"
   },
   {
     "agency": "Ambulance",
@@ -255,13 +237,31 @@
     "longitude": "149.034875",
     "region": "act",
     "time_of_call": "05 Aug 2025 00:20:35",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LATHAM",
+    "updated": "05 Aug 2025 00:37:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "051298-05082025",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "05 Aug 2025 00:56:29",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "LATHAM",
-    "updated": "05 Aug 2025 00:24:24"
+    "location": "WATSON",
+    "updated": "05 Aug 2025 00:56:53"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -521,9 +521,9 @@
     "latitude": "-33.535137176",
     "longitude": "150.76802063",
     "region": "nsw",
-    "time_of_call": "05 Aug 2025 00:12:00",
+    "time_of_call": "05 Aug 2025 00:53:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "240 SPINKS RD, GLOSSODIA 2756",
     "council_area": "Hawkesbury",
@@ -533,6 +533,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Aug 2025 00:12"
+    "updated": "5 Aug 2025 00:53"
+  },
+  {
+    "title": "NEW ENGLAND HWY, BELFORD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_613959",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.6505165099999",
+    "longitude": "151.254867554",
+    "region": "nsw",
+    "time_of_call": "05 Aug 2025 00:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "3193H NEW ENGLAND HWY, BELFORD 2335",
+    "council_area": "Singleton",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Aug 2025 00:32"
   }
 ]
