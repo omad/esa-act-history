@@ -117,7 +117,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "GLENLOCH INTERCHANGE, TUGGERANONG PARKWAY ON RAMP, MOLONGLO VALLEY, 0000",
-    "updated": "05 Aug 2025 19:33:30"
+    "updated": "05 Aug 2025 19:43:01"
   },
   {
     "agency": "Ambulance",
@@ -165,13 +165,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "05 Aug 2025 17:18:53",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "05 Aug 2025 18:42:18"
+    "updated": "05 Aug 2025 19:54:41"
   },
   {
     "agency": "Ambulance",
@@ -237,13 +237,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "05 Aug 2025 18:28:11",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "05 Aug 2025 18:38:35"
+    "updated": "05 Aug 2025 19:44:55"
   },
   {
     "agency": "Ambulance",
@@ -327,13 +327,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "05 Aug 2025 19:20:52",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "05 Aug 2025 19:32:26"
+    "updated": "05 Aug 2025 19:52:24"
   },
   {
     "agency": "Ambulance",
@@ -345,13 +345,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "05 Aug 2025 19:27:13",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "05 Aug 2025 19:34:25"
+    "updated": "05 Aug 2025 19:48:56"
   },
   {
     "agency": "Ambulance",
@@ -369,7 +369,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "05 Aug 2025 19:34:14"
+    "updated": "05 Aug 2025 19:46:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "051525-05082025",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "05 Aug 2025 19:43:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "05 Aug 2025 19:52:08"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -693,9 +711,9 @@
     "latitude": "-28.9102573389999",
     "longitude": "153.14491272",
     "region": "nsw",
-    "time_of_call": "05 Aug 2025 19:10:00",
+    "time_of_call": "05 Aug 2025 19:49:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "3500 CASINO CORAKI RD, GREENRIDGE 2471",
     "council_area": "Richmond Valley",
@@ -703,28 +721,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Aug 2025 19:10"
-  },
-  {
-    "title": "PACIFIC MTWY (NORTHBOUND)",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614024",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.977622985",
-    "longitude": "151.528732299",
-    "region": "nsw",
-    "time_of_call": "05 Aug 2025 19:12:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "ET593 M1 PACIFIC MTWY (NORTHBOUND), FREEMANS WATERHOLE 2323",
-    "council_area": "Lake Macquarie",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Aug 2025 19:12"
+    "updated": "5 Aug 2025 19:49"
   }
 ]
