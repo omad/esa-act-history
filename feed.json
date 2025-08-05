@@ -23,26 +23,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - FORREST",
-    "id": "011866-05082025",
-    "latitude": "-35.31217",
-    "longitude": "149.12637",
-    "region": "act",
-    "time_of_call": "05 Aug 2025 12:37:59",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "CANBERRA AVENUE, STATE CIRCLE, FORREST, 2603",
-    "updated": "05 Aug 2025 13:34:34"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "ANIMAL RESCUE - BRADDON",
     "id": "011871-05082025",
     "latitude": "-35.27295585",
@@ -133,7 +113,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "05 Aug 2025 23:59:14"
+    "updated": "06 Aug 2025 00:57:26"
   },
   {
     "agency": "Ambulance",
@@ -151,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "06 Aug 2025 00:31:45"
+    "updated": "06 Aug 2025 00:39:00"
   },
   {
     "agency": "Ambulance",
@@ -217,13 +197,13 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "06 Aug 2025 00:15:49",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "06 Aug 2025 00:23:36"
+    "updated": "06 Aug 2025 00:56:31"
   },
   {
     "agency": "Ambulance",
@@ -235,31 +215,49 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "06 Aug 2025 00:16:39",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "06 Aug 2025 00:28:19"
+    "updated": "06 Aug 2025 00:57:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "051565-06082025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "06 Aug 2025 00:57:05",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "06 Aug 2025 00:57:40"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONCRIEFF",
-    "id": "051563-06082025",
+    "id": "051566-06082025",
     "latitude": "-35.158865",
     "longitude": "149.117806",
     "region": "act",
-    "time_of_call": "06 Aug 2025 00:32:01",
+    "time_of_call": "06 Aug 2025 00:57:52",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "06 Aug 2025 00:32:26"
+    "updated": "06 Aug 2025 00:57:55"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -532,5 +530,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Aug 2025 18:55"
+  },
+  {
+    "title": "URI ST, DARLINGTON POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614038",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.566074371",
+    "longitude": "146.010025025",
+    "region": "nsw",
+    "time_of_call": "06 Aug 2025 00:35:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "URI ST, DARLINGTON POINT 2706",
+    "council_area": "Murrumbidgee",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Aug 2025 00:35"
   }
 ]
