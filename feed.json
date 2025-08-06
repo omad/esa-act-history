@@ -123,13 +123,13 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "07 Aug 2025 02:02:48",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "07 Aug 2025 04:44:14"
+    "updated": "07 Aug 2025 05:03:15"
   },
   {
     "agency": "Ambulance",
@@ -177,13 +177,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "07 Aug 2025 02:50:22",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "07 Aug 2025 02:53:41"
+    "updated": "07 Aug 2025 05:19:43"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +201,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "07 Aug 2025 04:44:43"
+    "updated": "07 Aug 2025 05:14:27"
   },
   {
     "agency": "Ambulance",
@@ -237,7 +237,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "07 Aug 2025 04:59:04"
+    "updated": "07 Aug 2025 05:01:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FRANKLIN",
+    "id": "051840-07082025",
+    "latitude": "-35.199225",
+    "longitude": "149.144681",
+    "region": "act",
+    "time_of_call": "07 Aug 2025 05:25:19",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FRANKLIN",
+    "updated": "07 Aug 2025 05:25:49"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -622,30 +640,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Aug 2025 21:45"
-  },
-  {
-    "title": "Old Narrandera Rd, Gobbagombalin",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614136",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.069022",
-    "longitude": "147.328426",
-    "region": "nsw",
-    "time_of_call": "07 Aug 2025 04:21:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Old Narrandera Rd, Gobbagombalin, NSW 2650",
-    "council_area": "Wagga Wagga",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Aug 2025 04:21"
   }
 ]
