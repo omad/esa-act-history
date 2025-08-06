@@ -20,22 +20,24 @@
     "updated": "07 Aug 2025 04:14:12"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BANKS",
-    "id": "051818-07082025",
-    "latitude": "-35.471552",
-    "longitude": "149.100249",
+    "title": "MOTOR VEHICLE ACCIDENT - FYSHWICK",
+    "id": "011953-07082025",
+    "latitude": "-35.34044",
+    "longitude": "149.18317",
     "region": "act",
-    "time_of_call": "07 Aug 2025 02:15:27",
+    "time_of_call": "07 Aug 2025 08:30:40",
     "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BANKS",
-    "updated": "07 Aug 2025 08:01:18"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "CANBERRA AVENUE, TOM PRICE STREET, FYSHWICK, 2609",
+    "updated": "07 Aug 2025 08:40:01"
   },
   {
     "agency": "Ambulance",
@@ -59,24 +61,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "051842-07082025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "07 Aug 2025 06:25:06",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "07 Aug 2025 08:04:45"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GORDON",
     "id": "051851-07082025",
     "latitude": "-35.459685",
@@ -89,7 +73,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "07 Aug 2025 08:27:06"
+    "updated": "07 Aug 2025 08:52:04"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +103,13 @@
     "longitude": "149.129639",
     "region": "act",
     "time_of_call": "07 Aug 2025 08:26:18",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACARTHUR",
-    "updated": "07 Aug 2025 08:29:51"
+    "updated": "07 Aug 2025 08:37:32"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +127,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "07 Aug 2025 08:28:56"
+    "updated": "07 Aug 2025 08:35:12"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -484,27 +468,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Aug 2025 21:45"
-  },
-  {
-    "title": "HOWES RD, SOMERSBY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614141",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.4036026009999",
-    "longitude": "151.282119751",
-    "region": "nsw",
-    "time_of_call": "07 Aug 2025 07:57:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "39 HOWES RD, SOMERSBY 2250",
-    "council_area": "Central Coast",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Aug 2025 07:57"
   }
 ]
