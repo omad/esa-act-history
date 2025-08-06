@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "07 Aug 2025 07:09:22"
+    "updated": "07 Aug 2025 07:37:28"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +83,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "07 Aug 2025 06:25:06",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "07 Aug 2025 07:12:46"
+    "updated": "07 Aug 2025 07:37:55"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,27 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "07 Aug 2025 07:22:58"
+    "updated": "07 Aug 2025 07:41:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - CURTIN",
+    "id": "051848-07082025",
+    "latitude": "-35.31393099",
+    "longitude": "149.080765",
+    "region": "act",
+    "time_of_call": "07 Aug 2025 07:35:57",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "",
+    "location": "COTTER ROAD, MCCULLOCH STREET, CURTIN, 2605",
+    "updated": "07 Aug 2025 07:47:43"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -494,25 +514,25 @@
     "updated": "6 Aug 2025 21:45"
   },
   {
-    "title": "CLIVE BISSELL DR, MOUNT KEIRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614138",
+    "title": "HOWES RD, SOMERSBY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614141",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.3878364559999",
-    "longitude": "150.852706909",
+    "latitude": "-33.403518676",
+    "longitude": "151.279953003",
     "region": "nsw",
-    "time_of_call": "07 Aug 2025 05:47:00",
+    "time_of_call": "07 Aug 2025 07:38:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "CLIVE BISSELL DR, MOUNT KEIRA 2500",
-    "council_area": "Wollongong",
-    "type": "MVA/Transport",
+    "location": "39 HOWES RD, SOMERSBY 2250",
+    "council_area": "Central Coast",
+    "type": "Vehicle/Equipment Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Aug 2025 05:47"
+    "updated": "7 Aug 2025 07:38"
   }
 ]
