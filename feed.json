@@ -99,24 +99,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "051801-06082025",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "06 Aug 2025 23:23:06",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "07 Aug 2025 04:34:21"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GARRAN",
     "id": "051803-06082025",
     "latitude": "-35.340821",
@@ -147,7 +129,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "07 Aug 2025 04:41:21"
+    "updated": "07 Aug 2025 04:44:14"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +201,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "07 Aug 2025 04:41:01"
+    "updated": "07 Aug 2025 04:44:43"
   },
   {
     "agency": "Ambulance",
@@ -237,7 +219,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "07 Aug 2025 04:40:40"
+    "updated": "07 Aug 2025 04:42:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WEETANGERA",
+    "id": "051833-07082025",
+    "latitude": "-35.249342",
+    "longitude": "149.049485",
+    "region": "act",
+    "time_of_call": "07 Aug 2025 04:55:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WEETANGERA",
+    "updated": "07 Aug 2025 04:59:04"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -587,19 +587,19 @@
     "latitude": "-29.8129348749999",
     "longitude": "150.934661865",
     "region": "nsw",
-    "time_of_call": "06 Aug 2025 19:41:00",
+    "time_of_call": "07 Aug 2025 04:56:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1733 COPETON DAM RD, GUM FLAT 2360",
     "council_area": "Inverell",
-    "type": "Grass Fire",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Aug 2025 19:41"
+    "updated": "7 Aug 2025 04:56"
   },
   {
     "title": "NANGAR RD, EUGOWRA",
@@ -647,25 +647,5 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "7 Aug 2025 04:21"
-  },
-  {
-    "title": "BUCHANAN RD, EAST MAITLAND",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614137",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.784427642",
-    "longitude": "151.555587769",
-    "region": "nsw",
-    "time_of_call": "07 Aug 2025 04:29:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BUCHANAN RD, EAST MAITLAND 2323",
-    "council_area": "Maitland",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Aug 2025 04:29"
   }
 ]
