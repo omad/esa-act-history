@@ -75,7 +75,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "08 Aug 2025 06:52:25"
+    "updated": "08 Aug 2025 07:36:54"
   },
   {
     "agency": "Ambulance",
@@ -105,13 +105,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "08 Aug 2025 07:04:24",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "08 Aug 2025 07:22:12"
+    "updated": "08 Aug 2025 07:32:00"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "08 Aug 2025 07:25:21"
+    "updated": "08 Aug 2025 07:46:25"
   },
   {
     "agency": "Ambulance",
@@ -141,13 +141,13 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "08 Aug 2025 07:11:28",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "08 Aug 2025 07:23:35"
+    "updated": "08 Aug 2025 07:32:36"
   },
   {
     "agency": "Ambulance",
@@ -166,6 +166,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
     "updated": "08 Aug 2025 07:23:12"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYONS",
+    "id": "052134-08082025",
+    "latitude": "-35.340941",
+    "longitude": "149.072217",
+    "region": "act",
+    "time_of_call": "08 Aug 2025 07:46:16",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYONS",
+    "updated": "08 Aug 2025 07:50:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
+    "id": "052135-08082025",
+    "latitude": "-35.333366",
+    "longitude": "149.146674",
+    "region": "act",
+    "time_of_call": "08 Aug 2025 07:47:26",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NARRABUNDAH",
+    "updated": "08 Aug 2025 07:50:39"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -568,5 +604,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Aug 2025 07:12"
+  },
+  {
+    "title": "MONEY CL, ROUSE HILL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614266",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6701927189999",
+    "longitude": "150.925765991",
+    "region": "nsw",
+    "time_of_call": "08 Aug 2025 07:46:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "5 MONEY CL, ROUSE HILL 2155",
+    "council_area": "The Hills",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Aug 2025 07:46"
   }
 ]
