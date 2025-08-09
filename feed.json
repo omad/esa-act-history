@@ -299,7 +299,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "10 Aug 2025 02:23:19"
+    "updated": "10 Aug 2025 06:26:11"
   },
   {
     "agency": "Ambulance",
@@ -373,7 +373,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "10 Aug 2025 05:45:20"
+    "updated": "10 Aug 2025 06:20:48"
   },
   {
     "agency": "Ambulance",
@@ -385,13 +385,13 @@
     "longitude": "149.081053",
     "region": "act",
     "time_of_call": "10 Aug 2025 04:59:59",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "10 Aug 2025 05:47:13"
+    "updated": "10 Aug 2025 06:00:04"
   },
   {
     "agency": "Ambulance",
@@ -409,7 +409,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "10 Aug 2025 05:23:32"
+    "updated": "10 Aug 2025 06:04:55"
   },
   {
     "agency": "Ambulance",
@@ -427,7 +427,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "10 Aug 2025 05:46:14"
+    "updated": "10 Aug 2025 06:18:01"
   },
   {
     "agency": "Ambulance",
@@ -439,13 +439,49 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "10 Aug 2025 05:44:45",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "10 Aug 2025 05:46:49"
+    "updated": "10 Aug 2025 05:53:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "052666-10082025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "10 Aug 2025 05:59:02",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "10 Aug 2025 06:15:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "052667-10082025",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "10 Aug 2025 06:25:34",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "10 Aug 2025 06:26:41"
   },
   {
     "title": "MID COAST STORM",
@@ -766,5 +802,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Aug 2025 22:17"
+  },
+  {
+    "title": "FAILFORD RD, FAILFORD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614427",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.0823516849999",
+    "longitude": "152.425735473",
+    "region": "nsw",
+    "time_of_call": "10 Aug 2025 06:05:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "FAILFORD RD, FAILFORD 2430",
+    "council_area": "Mid-Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Aug 2025 06:05"
+  },
+  {
+    "title": "NIRRINGA RD, SUMMERLAND POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614428",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.1371955879999",
+    "longitude": "151.568893433",
+    "region": "nsw",
+    "time_of_call": "10 Aug 2025 06:11:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "24 NIRRINGA RD, SUMMERLAND POINT 2259",
+    "council_area": "Central Coast",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Aug 2025 06:11"
   }
 ]
