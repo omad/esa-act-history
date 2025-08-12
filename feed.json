@@ -191,7 +191,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "13 Aug 2025 01:24:59"
+    "updated": "13 Aug 2025 01:43:49"
   },
   {
     "agency": "Ambulance",
@@ -203,13 +203,13 @@
     "longitude": "149.154752",
     "region": "act",
     "time_of_call": "13 Aug 2025 00:43:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "13 Aug 2025 01:25:24"
+    "updated": "13 Aug 2025 01:46:41"
   },
   {
     "agency": "Ambulance",
@@ -227,7 +227,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "13 Aug 2025 01:17:20"
+    "updated": "13 Aug 2025 01:45:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "053365-13082025",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "13 Aug 2025 01:41:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "13 Aug 2025 01:43:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYONS",
+    "id": "053366-13082025",
+    "latitude": "-35.340941",
+    "longitude": "149.072217",
+    "region": "act",
+    "time_of_call": "13 Aug 2025 01:42:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYONS",
+    "updated": "13 Aug 2025 01:44:30"
   },
   {
     "title": "PILLAR ST, BELLBIRD",
@@ -532,27 +568,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Aug 2025 19:38"
-  },
-  {
-    "title": "WINE COUNTRY DR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614659",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.781703949",
-    "longitude": "151.348373413",
-    "region": "nsw",
-    "time_of_call": "13 Aug 2025 00:47:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "RYDGES HUNTER VALLEY 430 WINE COUNTRY DR, LOVEDALE 2325",
-    "council_area": "Cessnock",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Aug 2025 00:47"
   }
 ]
