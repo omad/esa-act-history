@@ -209,7 +209,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "13 Aug 2025 00:09:50"
+    "updated": "13 Aug 2025 00:42:30"
   },
   {
     "agency": "Ambulance",
@@ -245,7 +245,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
-    "updated": "12 Aug 2025 23:40:57"
+    "updated": "13 Aug 2025 00:46:57"
   },
   {
     "agency": "Ambulance",
@@ -263,7 +263,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "13 Aug 2025 00:27:21"
+    "updated": "13 Aug 2025 00:43:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "053361-13082025",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "13 Aug 2025 00:41:02",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "13 Aug 2025 00:51:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "053362-13082025",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "13 Aug 2025 00:43:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HARRISON",
+    "updated": "13 Aug 2025 00:51:29"
   },
   {
     "title": "PILLAR ST, BELLBIRD",
@@ -568,5 +604,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Aug 2025 19:38"
+  },
+  {
+    "title": "ITALIA RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614658",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.658412933",
+    "longitude": "151.795791626",
+    "region": "nsw",
+    "time_of_call": "13 Aug 2025 00:27:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "NEAR WALLARU STATE PARK ITALIA RD, EAST SEAHAM 2324",
+    "council_area": "Port Stephens",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Aug 2025 00:27"
   }
 ]
