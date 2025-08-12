@@ -23,26 +23,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "HAZARD REDUCTION BURN - STROMLO",
-    "id": "012233-12082025",
-    "latitude": "-35.3290999998",
-    "longitude": "148.9580000001",
-    "region": "act",
-    "time_of_call": "12 Aug 2025 09:06:31",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "HAZARD REDUCTION BURN",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
-    "location": "CAMP COTTERMOUTH SCOUT CAMP, COTTER ROAD, STROMLO",
-    "updated": "12 Aug 2025 13:27:09"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "HAZARD REDUCTION BURN - PADDYS RIVER",
     "id": "012241-12082025",
     "latitude": "-35.416518",
@@ -193,7 +173,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "12 Aug 2025 23:34:20"
+    "updated": "13 Aug 2025 00:22:15"
   },
   {
     "agency": "Ambulance",
@@ -217,24 +197,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MCKELLAR",
-    "id": "053356-12082025",
-    "latitude": "-35.216327",
-    "longitude": "149.076954",
-    "region": "act",
-    "time_of_call": "12 Aug 2025 22:47:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MCKELLAR",
-    "updated": "12 Aug 2025 23:33:10"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - NGUNNAWAL",
     "id": "053357-12082025",
     "latitude": "-35.17365",
@@ -247,7 +209,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "12 Aug 2025 23:53:12"
+    "updated": "13 Aug 2025 00:09:50"
   },
   {
     "agency": "Ambulance",
@@ -295,13 +257,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "12 Aug 2025 23:49:33",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "12 Aug 2025 23:52:13"
+    "updated": "13 Aug 2025 00:27:21"
   },
   {
     "title": "PILLAR ST, BELLBIRD",
@@ -439,17 +401,19 @@
     "latitude": "-33.943313599",
     "longitude": "149.527313233",
     "region": "nsw",
-    "time_of_call": "12 Aug 2025 10:09:00",
+    "time_of_call": "13 Aug 2025 00:01:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BURRAGA SPORTS & REC CLUB ABERCROMBIE ST, BURRAGA 2795",
     "council_area": "Oberon",
-    "type": "Planned Event",
-    "fire": "No",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Aug 2025 10:09"
+    "updated": "13 Aug 2025 00:01"
   },
   {
     "title": "PACIFIC ST, TATHRA",
@@ -472,28 +436,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Aug 2025 23:45"
-  },
-  {
-    "title": "WATERFALL WAY, DEER VALE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614630",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.383253097",
-    "longitude": "152.564178467",
-    "region": "nsw",
-    "time_of_call": "12 Aug 2025 23:08:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WATERFALL WAY, DEER VALE 2453",
-    "council_area": "Bellingen",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Aug 2025 23:08"
   },
   {
     "title": "THREE MILE SWAMP RD, NYMBOIDA",
@@ -547,7 +489,7 @@
     "latitude": "-36.5359649659999",
     "longitude": "148.739974975",
     "region": "nsw",
-    "time_of_call": "12 Aug 2025 18:47:00",
+    "time_of_call": "13 Aug 2025 00:07:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -559,7 +501,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Aug 2025 18:47"
+    "updated": "13 Aug 2025 00:07"
   },
   {
     "title": "BLIGH ST, OBERON",
@@ -591,7 +533,7 @@
     "latitude": "-36.359550477",
     "longitude": "148.832641602",
     "region": "nsw",
-    "time_of_call": "12 Aug 2025 18:49:00",
+    "time_of_call": "13 Aug 2025 00:05:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -603,7 +545,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Aug 2025 18:49"
+    "updated": "13 Aug 2025 00:05"
   },
   {
     "title": "SPRINGFIELD LANE, GULGONG",
