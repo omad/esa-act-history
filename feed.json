@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "14 Aug 2025 07:04:02"
+    "updated": "14 Aug 2025 07:37:26"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "14 Aug 2025 06:52:40"
+    "updated": "14 Aug 2025 07:32:32"
   },
   {
     "agency": "Ambulance",
@@ -103,31 +103,13 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "14 Aug 2025 06:17:22",
-    "status": "On Scene",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "14 Aug 2025 07:16:32"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WARAMANGA",
-    "id": "053624-14082025",
-    "latitude": "-35.353501",
-    "longitude": "149.06067",
-    "region": "act",
-    "time_of_call": "14 Aug 2025 06:25:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WARAMANGA",
-    "updated": "14 Aug 2025 07:05:43"
+    "updated": "14 Aug 2025 07:31:29"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "14 Aug 2025 07:18:43"
+    "updated": "14 Aug 2025 07:25:30"
   },
   {
     "agency": "Ambulance",
@@ -223,19 +205,73 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "title": "AMBULANCE RESPONSE - HACKETT",
     "id": "053634-14082025",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
+    "latitude": "-35.249801",
+    "longitude": "149.165368",
     "region": "act",
     "time_of_call": "14 Aug 2025 07:22:35",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HACKETT",
+    "updated": "14 Aug 2025 07:33:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUNLOP",
+    "id": "053635-14082025",
+    "latitude": "-35.193951",
+    "longitude": "149.019471",
+    "region": "act",
+    "time_of_call": "14 Aug 2025 07:30:15",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUNLOP",
+    "updated": "14 Aug 2025 07:35:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "053636-14082025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "14 Aug 2025 07:30:33",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "14 Aug 2025 07:37:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOMBS",
+    "id": "053637-14082025",
+    "latitude": "-35.31486",
+    "longitude": "149.041664",
+    "region": "act",
+    "time_of_call": "14 Aug 2025 07:34:40",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CANBERRA AIRPORT",
-    "updated": "14 Aug 2025 07:22:55"
+    "location": "COOMBS",
+    "updated": "14 Aug 2025 07:37:45"
   },
   {
     "title": "Yellomundee Cultural burn",
@@ -454,5 +490,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Aug 2025 06:16"
+  },
+  {
+    "title": "CASTLEREAGH HWY, WALLERAWANG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614731",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4094848629999",
+    "longitude": "150.097946167",
+    "region": "nsw",
+    "time_of_call": "14 Aug 2025 07:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CASTLEREAGH HWY, WALLERAWANG 2845",
+    "council_area": "Lithgow",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Aug 2025 07:29"
   }
 ]
