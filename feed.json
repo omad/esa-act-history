@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "15 Aug 2025 07:30:47"
+    "updated": "15 Aug 2025 07:48:14"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "15 Aug 2025 07:38:19"
+    "updated": "15 Aug 2025 07:39:46"
   },
   {
     "agency": "Ambulance",
@@ -121,13 +121,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "15 Aug 2025 07:29:16",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "15 Aug 2025 07:35:02"
+    "updated": "15 Aug 2025 07:47:16"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "15 Aug 2025 07:38:43"
+    "updated": "15 Aug 2025 07:41:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FRASER",
+    "id": "053860-15082025",
+    "latitude": "-35.189989",
+    "longitude": "149.043755",
+    "region": "act",
+    "time_of_call": "15 Aug 2025 07:45:51",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FRASER",
+    "updated": "15 Aug 2025 07:46:55"
   },
   {
     "title": "Yellomundee Cultural burn",
@@ -409,9 +427,9 @@
     "latitude": "-35.53856659",
     "longitude": "149.224655152",
     "region": "nsw",
-    "time_of_call": "15 Aug 2025 06:32:00",
+    "time_of_call": "15 Aug 2025 07:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "1090 BURRA RD, BURRA 2620",
     "council_area": "Queanbeyan-Palerang",
@@ -421,7 +439,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Aug 2025 06:32"
+    "updated": "15 Aug 2025 07:40"
   },
   {
     "title": "COLLIE RD, BROCKLEHURST",
@@ -431,10 +449,13 @@
     "latitude": "-32.087108612",
     "longitude": "148.555023194",
     "region": "nsw",
-    "time_of_call": "15 Aug 2025 06:36:00",
+    "time_of_call": "15 Aug 2025 07:43:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "COLLIE RD, BROCKLEHURST 2830",
     "council_area": "Dubbo Regional",
     "type": "Grass Fire",
@@ -443,7 +464,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Aug 2025 06:36"
+    "updated": "15 Aug 2025 07:43"
   },
   {
     "title": "William St, Yass",
@@ -488,27 +509,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Aug 2025 06:58"
-  },
-  {
-    "title": "NEWELL HWY, COONABARABRAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614799",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.316549301",
-    "longitude": "149.302062988",
-    "region": "nsw",
-    "time_of_call": "15 Aug 2025 07:16:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "NEWELL HWY, COONABARABRAN 2357",
-    "council_area": "Warrumbungle",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "15 Aug 2025 07:16"
   }
 ]
