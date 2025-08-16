@@ -61,9 +61,9 @@
   },
   {
     "agency": "Fire",
-    "alert_level": "Advice",
+    "alert_level": "",
     "event_type": "incident",
-    "title": "GRASS AND BUSH FIRE - PIALLIGO",
+    "title": "RUBBISH FIRE - PIALLIGO",
     "id": "012472-16082025",
     "latitude": "-35.3250808716",
     "longitude": "149.2023010254",
@@ -71,13 +71,13 @@
     "time_of_call": "16 Aug 2025 16:37:37",
     "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
-    "type": "GRASS AND BUSH FIRE",
+    "type": "RUBBISH FIRE",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
     "location": "PIALLIGO AVENUE, PIALLIGO, 2609",
-    "updated": "16 Aug 2025 16:52:21"
+    "updated": "16 Aug 2025 17:22:08"
   },
   {
     "agency": "Fire",
@@ -89,15 +89,55 @@
     "longitude": "149.1260386799",
     "region": "act",
     "time_of_call": "16 Aug 2025 16:44:00",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "NARRAN STREET, AMAROO, 2914",
-    "updated": "16 Aug 2025 16:52:54"
+    "updated": "16 Aug 2025 16:59:07"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "RUBBISH FIRE - CITY",
+    "id": "012478-16082025",
+    "latitude": "-35.280506",
+    "longitude": "149.132595",
+    "region": "act",
+    "time_of_call": "16 Aug 2025 17:01:00",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
+    "type": "RUBBISH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
+    "location": "AINSLIE PLACE, CITY WALK, CITY, 2601",
+    "updated": "16 Aug 2025 17:11:46"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HAZARD REDUCTION BURN - THARWA",
+    "id": "012480-16082025",
+    "latitude": "-35.5040368",
+    "longitude": "149.05935341",
+    "region": "act",
+    "time_of_call": "16 Aug 2025 17:17:14",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "HAZARD REDUCTION BURN",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
+    "location": "WHITE FIELDS, TIDBINBILLA ROAD, THARWA, 2620",
+    "updated": "16 Aug 2025 17:17:38"
   },
   {
     "agency": "Ambulance",
@@ -133,7 +173,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "16 Aug 2025 10:52:26"
+    "updated": "16 Aug 2025 16:57:46"
   },
   {
     "agency": "Ambulance",
@@ -151,7 +191,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "16 Aug 2025 16:14:57"
+    "updated": "16 Aug 2025 17:09:45"
   },
   {
     "agency": "Ambulance",
@@ -169,25 +209,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "16 Aug 2025 16:50:45"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KINGSTON",
-    "id": "054233-16082025",
-    "latitude": "-35.315358",
-    "longitude": "149.146868",
-    "region": "act",
-    "time_of_call": "16 Aug 2025 14:37:11",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KINGSTON",
-    "updated": "16 Aug 2025 16:21:53"
+    "updated": "16 Aug 2025 17:23:34"
   },
   {
     "agency": "Ambulance",
@@ -205,7 +227,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "16 Aug 2025 16:52:56"
+    "updated": "16 Aug 2025 17:13:49"
   },
   {
     "agency": "Ambulance",
@@ -241,7 +263,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "16 Aug 2025 16:00:59"
+    "updated": "16 Aug 2025 17:02:15"
   },
   {
     "agency": "Ambulance",
@@ -259,7 +281,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "16 Aug 2025 16:51:02"
+    "updated": "16 Aug 2025 17:15:06"
   },
   {
     "agency": "Ambulance",
@@ -277,7 +299,7 @@
     "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "VIKINGS BMX TRACK - NEXT TO KAMBAH FIRE STATION, SULWOOD DRIVE, KAMBAH, 2902",
-    "updated": "16 Aug 2025 16:27:49"
+    "updated": "16 Aug 2025 16:58:02"
   },
   {
     "agency": "Ambulance",
@@ -295,25 +317,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "16 Aug 2025 16:44:30"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHISHOLM",
-    "id": "054249-16082025",
-    "latitude": "-35.422993",
-    "longitude": "149.12793",
-    "region": "act",
-    "time_of_call": "16 Aug 2025 16:35:02",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHISHOLM",
-    "updated": "16 Aug 2025 16:47:50"
+    "updated": "16 Aug 2025 17:18:53"
   },
   {
     "agency": "Ambulance",
@@ -325,13 +329,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "16 Aug 2025 16:37:38",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "16 Aug 2025 16:44:32"
+    "updated": "16 Aug 2025 17:00:36"
   },
   {
     "agency": "Ambulance",
@@ -349,7 +353,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "16 Aug 2025 16:53:19"
+    "updated": "16 Aug 2025 17:20:21"
   },
   {
     "agency": "Ambulance",
@@ -361,13 +365,49 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "16 Aug 2025 16:52:34",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "16 Aug 2025 17:00:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KINGSTON",
+    "id": "054255-16082025",
+    "latitude": "-35.315358",
+    "longitude": "149.146868",
+    "region": "act",
+    "time_of_call": "16 Aug 2025 16:56:18",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KINGSTON",
+    "updated": "16 Aug 2025 17:11:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "054256-16082025",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "16 Aug 2025 16:57:43",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "PHILLIP",
-    "updated": "16 Aug 2025 16:53:53"
+    "location": "BRADDON",
+    "updated": "16 Aug 2025 17:10:31"
   },
   {
     "title": "MOUNT KEIRA RD, MOUNT KEIRA",
@@ -478,26 +518,6 @@
     "updated": "16 Aug 2025 13:11"
   },
   {
-    "title": "AYLMERTON RD, AYLMERTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614946",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.4252281189999",
-    "longitude": "150.492340088",
-    "region": "nsw",
-    "time_of_call": "16 Aug 2025 16:28:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BUSH FIRE SHED 12 AYLMERTON RD, AYLMERTON 2575",
-    "council_area": "Wingecarribee",
-    "type": "Planned Event",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Aug 2025 16:28"
-  },
-  {
     "title": "Mundi Mundi Bash",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614948",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -538,28 +558,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Aug 2025 16:13"
-  },
-  {
-    "title": "KERMA CR, CLARENCE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614952",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.4759445189999",
-    "longitude": "150.227798462",
-    "region": "nsw",
-    "time_of_call": "16 Aug 2025 16:18:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "192 KERMA CR, CLARENCE 2790",
-    "council_area": "Lithgow",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Aug 2025 16:18"
   },
   {
     "title": "COLLIE-TRANGIE RD, COLLIE",
@@ -613,9 +611,9 @@
     "latitude": "-31.9685421",
     "longitude": "152.579833984",
     "region": "nsw",
-    "time_of_call": "16 Aug 2025 16:51:00",
+    "time_of_call": "16 Aug 2025 17:03:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "4 NOROY PL, OLD BAR 2430",
     "council_area": "Mid-Coast",
@@ -625,6 +623,50 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Aug 2025 16:51"
+    "updated": "16 Aug 2025 17:03"
+  },
+  {
+    "title": "BEACH RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614957",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.753990173",
+    "longitude": "150.209808349",
+    "region": "nsw",
+    "time_of_call": "16 Aug 2025 17:08:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "OPAL EDGEWOOD PARK NURSING HOME 269 BEACH RD, DENHAMS BEACH 2536",
+    "council_area": "Eurobodalla",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Aug 2025 17:08"
+  },
+  {
+    "title": "KENTOLEEN RD, BLAXLANDS RIDGE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614958",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4978637689999",
+    "longitude": "150.748092651",
+    "region": "nsw",
+    "time_of_call": "16 Aug 2025 17:11:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "40 KENTOLEEN RD, BLAXLANDS RIDGE 2758",
+    "council_area": "Hawkesbury",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Aug 2025 17:11"
   }
 ]
