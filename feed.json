@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
     "location": "PIALLIGO AVENUE, PIALLIGO, 2609",
-    "updated": "17 Aug 2025 05:46:40"
+    "updated": "17 Aug 2025 05:55:37"
   },
   {
     "agency": "Fire",
@@ -149,15 +149,15 @@
     "longitude": "149.1270446777",
     "region": "act",
     "time_of_call": "17 Aug 2025 04:47:41",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "CAR FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
     "location": "MUGGA WAY, RED HILL, 2603",
-    "updated": "17 Aug 2025 05:32:02"
+    "updated": "17 Aug 2025 06:06:09"
   },
   {
     "agency": "Ambulance",
@@ -175,7 +175,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "17 Aug 2025 05:47:01"
+    "updated": "17 Aug 2025 06:03:59"
   },
   {
     "agency": "Ambulance",
@@ -229,7 +229,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
-    "updated": "17 Aug 2025 05:42:13"
+    "updated": "17 Aug 2025 05:53:31"
   },
   {
     "agency": "Ambulance",
@@ -248,6 +248,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
     "updated": "17 Aug 2025 05:42:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "054356-17082025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "17 Aug 2025 05:50:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "17 Aug 2025 06:14:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUNLOP",
+    "id": "054357-17082025",
+    "latitude": "-35.193951",
+    "longitude": "149.019471",
+    "region": "act",
+    "time_of_call": "17 Aug 2025 06:10:32",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUNLOP",
+    "updated": "17 Aug 2025 06:17:32"
   },
   {
     "title": "MOUNT KEIRA RD, MOUNT KEIRA",
@@ -334,6 +370,28 @@
     "updated": "17 Aug 2025 00:55"
   },
   {
+    "title": "BLANCHARDS RD, BROGO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614993",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.526691436",
+    "longitude": "149.798080445",
+    "region": "nsw",
+    "time_of_call": "17 Aug 2025 04:53:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "370 BLANCHARDS RD, BROGO 2550",
+    "council_area": "Bega Valley",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Aug 2025 04:53"
+  },
+  {
     "title": "PICTON RD, WILTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614994",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -341,9 +399,9 @@
     "latitude": "-34.211971283",
     "longitude": "150.652603149",
     "region": "nsw",
-    "time_of_call": "17 Aug 2025 05:20:00",
+    "time_of_call": "17 Aug 2025 06:08:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "SHINGLE HILL 570 PICTON RD, WILTON 2571",
     "council_area": "Wollondilly",
@@ -353,6 +411,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Aug 2025 05:20"
+    "updated": "17 Aug 2025 06:08"
   }
 ]
