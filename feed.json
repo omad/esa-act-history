@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
     "location": "PIALLIGO AVENUE, PIALLIGO, 2609",
-    "updated": "17 Aug 2025 02:50:47"
+    "updated": "17 Aug 2025 03:14:39"
   },
   {
     "agency": "Fire",
@@ -195,7 +195,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "17 Aug 2025 02:51:35"
+    "updated": "17 Aug 2025 03:16:36"
   },
   {
     "agency": "Ambulance",
@@ -321,7 +321,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "17 Aug 2025 02:45:20"
+    "updated": "17 Aug 2025 03:14:01"
   },
   {
     "agency": "Ambulance",
@@ -393,7 +393,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "17 Aug 2025 02:34:49"
+    "updated": "17 Aug 2025 02:55:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COREE",
+    "id": "054346-17082025",
+    "latitude": "-35.282876",
+    "longitude": "148.91035",
+    "region": "act",
+    "time_of_call": "17 Aug 2025 02:57:40",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COREE",
+    "updated": "17 Aug 2025 03:19:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MELBA",
+    "id": "054347-17082025",
+    "latitude": "-35.209077",
+    "longitude": "149.057326",
+    "region": "act",
+    "time_of_call": "17 Aug 2025 03:04:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MELBA",
+    "updated": "17 Aug 2025 03:09:50"
   },
   {
     "title": "MOUNT KEIRA RD, MOUNT KEIRA",
@@ -487,9 +523,9 @@
     "latitude": "-34.2788581849999",
     "longitude": "148.332214355",
     "region": "nsw",
-    "time_of_call": "17 Aug 2025 02:47:00",
+    "time_of_call": "17 Aug 2025 03:07:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "187 OLD MONTEAGLE RD, YOUNG 2594",
     "council_area": "Hilltops",
@@ -497,6 +533,50 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Aug 2025 02:47"
+    "updated": "17 Aug 2025 03:07"
+  },
+  {
+    "title": "KYOGLE RD, UKI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614986",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.4144992829999",
+    "longitude": "153.330230713",
+    "region": "nsw",
+    "time_of_call": "17 Aug 2025 02:53:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "KYOGLE RD, UKI 2484",
+    "council_area": "Tweed",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Aug 2025 02:53"
+  },
+  {
+    "title": "LLOYD GEORGE GR, TANILBA BAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_614987",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.7326927189999",
+    "longitude": "151.997833251",
+    "region": "nsw",
+    "time_of_call": "17 Aug 2025 03:02:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "29 LLOYD GEORGE GR, TANILBA BAY 2319",
+    "council_area": "Port Stephens",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Aug 2025 03:02"
   }
 ]
