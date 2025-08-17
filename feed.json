@@ -191,7 +191,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "18 Aug 2025 04:51:41"
+    "updated": "18 Aug 2025 05:06:12"
   },
   {
     "agency": "Ambulance",
@@ -203,13 +203,31 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "18 Aug 2025 04:46:40",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "18 Aug 2025 05:15:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "054541-18082025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "18 Aug 2025 05:10:46",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CAMPBELL",
-    "updated": "18 Aug 2025 04:51:27"
+    "location": "O'CONNOR",
+    "updated": "18 Aug 2025 05:14:21"
   },
   {
     "title": "MOUNT KEIRA RD, MOUNT KEIRA",
@@ -281,7 +299,7 @@
     "latitude": "-33.3692321779999",
     "longitude": "149.358688355",
     "region": "nsw",
-    "time_of_call": "17 Aug 2025 12:59:00",
+    "time_of_call": "18 Aug 2025 04:55:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -293,7 +311,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Aug 2025 12:59"
+    "updated": "18 Aug 2025 04:55"
   },
   {
     "title": "MONARO HWY, COLINTON",
@@ -368,28 +386,6 @@
     "updated": "17 Aug 2025 16:51"
   },
   {
-    "title": "KAMILAROI HWY, NARRABRI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_615034",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.1968269349999",
-    "longitude": "149.553192138",
-    "region": "nsw",
-    "time_of_call": "18 Aug 2025 01:37:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "KAMILAROI HWY, NARRABRI 2390",
-    "council_area": "Narrabri",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Aug 2025 01:37"
-  },
-  {
     "title": "MOUNT ST, DUNDURRABIN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_615040",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -457,26 +453,6 @@
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "17 Aug 2025 17:51"
-  },
-  {
-    "title": "HILLVIEW RD, BRANXTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_615059",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.651630402",
-    "longitude": "151.367446899",
-    "region": "nsw",
-    "time_of_call": "17 Aug 2025 20:13:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "HILLVIEW RD, BRANXTON 2335",
-    "council_area": "Singleton",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Aug 2025 20:13"
   },
   {
     "title": "BULLEYS RD, JOHNS RIVER",
@@ -548,28 +524,6 @@
     "updated": "18 Aug 2025 02:33"
   },
   {
-    "title": "MONARO HWY, COLINTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_615071",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.867614746",
-    "longitude": "149.160232544",
-    "region": "nsw",
-    "time_of_call": "18 Aug 2025 04:49:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MONARO HWY, COLINTON 2626",
-    "council_area": "Snowy Monaro",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Aug 2025 04:49"
-  },
-  {
     "title": "BURLINGTON AV, JILLIBY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_615072",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -577,9 +531,9 @@
     "latitude": "-33.2389221189999",
     "longitude": "151.405700684",
     "region": "nsw",
-    "time_of_call": "18 Aug 2025 04:42:00",
+    "time_of_call": "18 Aug 2025 05:13:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "7 BURLINGTON AV, JILLIBY 2259",
     "council_area": "Central Coast",
@@ -589,6 +543,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Aug 2025 04:42"
+    "updated": "18 Aug 2025 05:13"
+  },
+  {
+    "title": "THE BUCKETTS WAY, WARDS RIVER",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_615073",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.1716651909999",
+    "longitude": "151.944564819",
+    "region": "nsw",
+    "time_of_call": "18 Aug 2025 05:11:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "2896 THE BUCKETTS WAY, WARDS RIVER 2422",
+    "council_area": "Mid-Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Aug 2025 05:11"
   }
 ]
