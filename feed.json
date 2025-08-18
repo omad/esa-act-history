@@ -115,7 +115,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "19 Aug 2025 07:31:27"
+    "updated": "19 Aug 2025 08:31:33"
   },
   {
     "agency": "Ambulance",
@@ -133,7 +133,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "19 Aug 2025 07:38:10"
+    "updated": "19 Aug 2025 08:29:05"
   },
   {
     "agency": "Ambulance",
@@ -151,7 +151,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "19 Aug 2025 08:22:32"
+    "updated": "19 Aug 2025 08:29:40"
   },
   {
     "agency": "Ambulance",
@@ -187,7 +187,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "19 Aug 2025 08:14:27"
+    "updated": "19 Aug 2025 08:25:39"
   },
   {
     "agency": "Ambulance",
@@ -217,13 +217,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "19 Aug 2025 08:19:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "19 Aug 2025 08:23:56"
+    "updated": "19 Aug 2025 08:29:30"
   },
   {
     "agency": "Ambulance",
@@ -259,7 +259,25 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "19 Aug 2025 08:22:56"
+    "updated": "19 Aug 2025 08:25:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WEETANGERA",
+    "id": "054814-19082025",
+    "latitude": "-35.249342",
+    "longitude": "149.049485",
+    "region": "act",
+    "time_of_call": "19 Aug 2025 08:37:29",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WEETANGERA",
+    "updated": "19 Aug 2025 08:37:46"
   },
   {
     "title": "BROWNLOW HILL LOOP RD, BROWNLOW HILL",
@@ -565,5 +583,69 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Aug 2025 07:40"
+  },
+  {
+    "title": "NEWCASTLE AIRPORT WILLIAMTOWN DR, WILLIAMTOWN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_615165",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.803913117",
+    "longitude": "151.838821411",
+    "region": "nsw",
+    "time_of_call": "19 Aug 2025 08:21:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "NEWCASTLE AIRPORT WILLIAMTOWN DR, WILLIAMTOWN 2318",
+    "council_area": "Port Stephens",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Aug 2025 08:21"
+  },
+  {
+    "title": "KARALAUREN CT, LENNOX HEAD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_615166",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.8095836639999",
+    "longitude": "153.590301513",
+    "region": "nsw",
+    "time_of_call": "19 Aug 2025 08:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "21 KARALAUREN CT, LENNOX HEAD 2478",
+    "council_area": "Ballina",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Aug 2025 08:29"
+  },
+  {
+    "title": "BRINGELLY RD, LEPPINGTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_615167",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.951477051",
+    "longitude": "150.830841065",
+    "region": "nsw",
+    "time_of_call": "19 Aug 2025 08:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BRINGELLY RD, LEPPINGTON 2179",
+    "council_area": "Liverpool",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Aug 2025 08:32"
   }
 ]
