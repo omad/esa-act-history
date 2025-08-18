@@ -77,7 +77,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "91A WAKEFIELD GARDENS, AINSLIE, 2602",
-    "updated": "19 Aug 2025 05:34:37"
+    "updated": "19 Aug 2025 05:35:47"
   },
   {
     "agency": "Ambulance",
@@ -95,27 +95,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "19 Aug 2025 05:28:36"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "STRUCTURE FIRE - AINSLIE",
-    "id": "054773-19082025",
-    "latitude": "-35.26127556",
-    "longitude": "149.1448206199",
-    "region": "act",
-    "time_of_call": "19 Aug 2025 04:26:19",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "STRUCTURE FIRE",
-    "type_description": "",
-    "type_icon": "",
-    "location": "WAKEFIELD GARDENS, AINSLIE, 2602",
-    "updated": "19 Aug 2025 04:35:02"
+    "updated": "19 Aug 2025 05:48:03"
   },
   {
     "agency": "Ambulance",
@@ -145,13 +125,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "19 Aug 2025 05:13:12",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "19 Aug 2025 05:20:20"
+    "updated": "19 Aug 2025 05:43:05"
   },
   {
     "title": "BROWNLOW HILL LOOP RD, BROWNLOW HILL",
@@ -415,5 +395,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Aug 2025 02:59"
+  },
+  {
+    "title": "FOXALL RD, NORTH KELLYVILLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_615157",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.687835693",
+    "longitude": "150.959777832",
+    "region": "nsw",
+    "time_of_call": "19 Aug 2025 05:47:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "FOXALL RD, NORTH KELLYVILLE 2155",
+    "council_area": "The Hills",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Aug 2025 05:47"
+  },
+  {
+    "title": "ITALIA RD, EAST SEAHAM",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_615158",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.648082733",
+    "longitude": "151.783889771",
+    "region": "nsw",
+    "time_of_call": "19 Aug 2025 05:46:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "480 ITALIA RD, EAST SEAHAM 2324",
+    "council_area": "Port Stephens",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Aug 2025 05:46"
   }
 ]
