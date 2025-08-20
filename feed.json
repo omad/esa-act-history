@@ -55,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "21 Aug 2025 07:20:22"
+    "updated": "21 Aug 2025 07:35:47"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "21 Aug 2025 07:04:02"
+    "updated": "21 Aug 2025 07:32:46"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "21 Aug 2025 07:03:17"
+    "updated": "21 Aug 2025 07:31:33"
   },
   {
     "agency": "Ambulance",
@@ -182,6 +182,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
     "updated": "21 Aug 2025 07:22:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - YARRALUMLA",
+    "id": "055308-21082025",
+    "latitude": "-35.302333",
+    "longitude": "149.099934",
+    "region": "act",
+    "time_of_call": "21 Aug 2025 07:28:52",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "YARRALUMLA",
+    "updated": "21 Aug 2025 07:34:47"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -489,26 +507,6 @@
     "updated": "21 Aug 2025 06:36"
   },
   {
-    "title": "CAUSEWAY DOUGLAS PARK DR, DOUGLAS PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616304",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.191642762",
-    "longitude": "150.711288453",
-    "region": "nsw",
-    "time_of_call": "21 Aug 2025 07:13:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "CAUSEWAY DOUGLAS PARK DR, DOUGLAS PARK 2569",
-    "council_area": "Wollondilly",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "21 Aug 2025 07:13"
-  },
-  {
     "title": "WOLLOMBI RD, BELLBIRD HEIGHTS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616308",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -538,9 +536,9 @@
     "latitude": "-34.4375228879999",
     "longitude": "150.797439575",
     "region": "nsw",
-    "time_of_call": "21 Aug 2025 06:47:00",
+    "time_of_call": "21 Aug 2025 07:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "CORDEAUX RD, KEMBLA HEIGHTS 2526",
     "council_area": "Wollongong",
@@ -548,7 +546,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Aug 2025 06:47"
+    "updated": "21 Aug 2025 07:25"
   },
   {
     "title": "PRINCES HWY, MADDENS PLAINS",
@@ -558,9 +556,9 @@
     "latitude": "-34.3200263969999",
     "longitude": "150.888961792",
     "region": "nsw",
-    "time_of_call": "21 Aug 2025 06:52:00",
+    "time_of_call": "21 Aug 2025 07:24:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "PRINCES HWY, MADDENS PLAINS 2508",
     "council_area": "Wollongong",
@@ -570,35 +568,15 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Aug 2025 06:52"
-  },
-  {
-    "title": "BANKSIA CL, MEDOWIE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616311",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.739868164",
-    "longitude": "151.874633789",
-    "region": "nsw",
-    "time_of_call": "21 Aug 2025 07:09:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "3 BANKSIA CL, MEDOWIE 2318",
-    "council_area": "Port Stephens",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "21 Aug 2025 07:09"
+    "updated": "21 Aug 2025 07:24"
   },
   {
     "title": "PICTON RD, CORDEAUX",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616313",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.3738403319999",
-    "longitude": "150.830001831",
+    "latitude": "-34.361877442",
+    "longitude": "150.818099975",
     "region": "nsw",
     "time_of_call": "21 Aug 2025 07:16:00",
     "event_type": "burnt area",
@@ -642,9 +620,9 @@
     "latitude": "-32.586650848",
     "longitude": "151.777450561",
     "region": "nsw",
-    "time_of_call": "21 Aug 2025 07:21:00",
+    "time_of_call": "21 Aug 2025 07:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "47 RIFLE ST, CLARENCE TOWN 2321",
     "council_area": "Dungog",
@@ -652,6 +630,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Aug 2025 07:21"
+    "updated": "21 Aug 2025 07:27"
   }
 ]
