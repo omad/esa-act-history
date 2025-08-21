@@ -145,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "22 Aug 2025 07:32:30"
+    "updated": "22 Aug 2025 07:39:35"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "22 Aug 2025 07:09:17"
+    "updated": "22 Aug 2025 07:44:57"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +193,13 @@
     "longitude": "149.049485",
     "region": "act",
     "time_of_call": "22 Aug 2025 07:14:39",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "22 Aug 2025 07:33:12"
+    "updated": "22 Aug 2025 07:46:02"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -392,26 +392,6 @@
     "updated": "22 Aug 2025 06:41"
   },
   {
-    "title": "BLUE ROCK CL, KARUAH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616398",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.632278442",
-    "longitude": "152.000686645",
-    "region": "nsw",
-    "time_of_call": "22 Aug 2025 07:09:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "BLUE ROCK CL, KARUAH 2324",
-    "council_area": "Mid-Coast",
-    "type": "Truck Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Aug 2025 07:09"
-  },
-  {
     "title": "ROYSETON AV, CLARENCE TOWN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616399",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -430,5 +410,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Aug 2025 07:17"
+  },
+  {
+    "title": "MORELIA WAY, WOOMBAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616400",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.3510341649999",
+    "longitude": "153.264434814",
+    "region": "nsw",
+    "time_of_call": "22 Aug 2025 07:43:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "13 MORELIA WAY, WOOMBAH 2469",
+    "council_area": "Clarence Valley",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Aug 2025 07:43"
+  },
+  {
+    "title": "LEGGETTS DR, PELAW MAIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616404",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.843189239",
+    "longitude": "151.48487854",
+    "region": "nsw",
+    "time_of_call": "22 Aug 2025 07:42:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "LEGGETTS DR, PELAW MAIN 2327",
+    "council_area": "Cessnock",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Aug 2025 07:42"
   }
 ]
