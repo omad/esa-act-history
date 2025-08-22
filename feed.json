@@ -80,26 +80,6 @@
     "updated": "22 Aug 2025 16:33:46"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - O'CONNOR",
-    "id": "012838-23082025",
-    "latitude": "-35.25891699",
-    "longitude": "149.130489",
-    "region": "act",
-    "time_of_call": "23 Aug 2025 06:56:59",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "DE BURGH STREET, WATTLE STREET, LYNEHAM, 2602",
-    "updated": "23 Aug 2025 07:27:00"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -115,7 +95,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "23 Aug 2025 08:21:18"
+    "updated": "23 Aug 2025 08:29:11"
   },
   {
     "agency": "Ambulance",
@@ -163,13 +143,13 @@
     "longitude": "149.066294",
     "region": "act",
     "time_of_call": "23 Aug 2025 08:12:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "23 Aug 2025 08:22:55"
+    "updated": "23 Aug 2025 08:33:23"
   },
   {
     "agency": "Ambulance",
@@ -187,7 +167,25 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "23 Aug 2025 08:24:41"
+    "updated": "23 Aug 2025 08:32:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "055850-23082025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "23 Aug 2025 08:26:02",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "23 Aug 2025 08:36:41"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -508,5 +506,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Aug 2025 08:17"
+  },
+  {
+    "title": "RICHARD RD, SCOTLAND ISLAND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616483",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.638755798",
+    "longitude": "151.287475586",
+    "region": "nsw",
+    "time_of_call": "23 Aug 2025 08:27:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "96 RICHARD RD, SCOTLAND ISLAND 2105",
+    "council_area": "Northern Beaches",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Aug 2025 08:27"
   }
 ]
