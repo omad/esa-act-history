@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "ACCESS OFF KURINGA DRIVE (WEST OF KINGSFORD SMITH), KURINGA DRIVE, BICENTENNIAL NATIONAL TRAIL, SPENCE, BICENTENNIAL NATIONAL TRAIL",
-    "updated": "23 Aug 2025 13:33:02"
+    "updated": "23 Aug 2025 13:55:07"
   },
   {
     "agency": "Fire",
@@ -49,15 +49,15 @@
     "longitude": "149.1154174805",
     "region": "act",
     "time_of_call": "23 Aug 2025 13:34:58",
-    "status": "On Scene",
+    "status": "Out / Completed",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
+    "status_filter_label": "Out / Completed",
     "type": "GRASS AND BUSH FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "WEATHERS STREET PLAYGROUND / PARK, WEATHERS STREET, GOWRIE, 2904",
-    "updated": "23 Aug 2025 13:43:32"
+    "updated": "23 Aug 2025 14:00:24"
   },
   {
     "agency": "Fire",
@@ -69,15 +69,35 @@
     "longitude": "149.1379003",
     "region": "act",
     "time_of_call": "23 Aug 2025 13:46:08",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "ARGYLE EXECUTIVE APARTMENTS, CURRONG STREET, REID, 2612",
-    "updated": "23 Aug 2025 13:53:54"
+    "updated": "23 Aug 2025 14:15:31"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HAZARD REDUCTION BURN - TUGGERANONG",
+    "id": "012864-23082025",
+    "latitude": "-35.5424999998",
+    "longitude": "149.1320000003",
+    "region": "act",
+    "time_of_call": "23 Aug 2025 13:58:00",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "HAZARD REDUCTION BURN",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
+    "location": "SUNNY LANE, MONARO HWY, TUGGERANONG",
+    "updated": "23 Aug 2025 13:58:20"
   },
   {
     "agency": "Ambulance",
@@ -96,60 +116,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "23 Aug 2025 13:46:21"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
-    "id": "055853-23082025",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
-    "region": "act",
-    "time_of_call": "23 Aug 2025 08:50:09",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "23 Aug 2025 11:28:46"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUNLOP",
-    "id": "055864-23082025",
-    "latitude": "-35.193951",
-    "longitude": "149.019471",
-    "region": "act",
-    "time_of_call": "23 Aug 2025 09:20:42",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DUNLOP",
-    "updated": "23 Aug 2025 13:00:51"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLT",
-    "id": "055884-23082025",
-    "latitude": "-35.224201",
-    "longitude": "149.013141",
-    "region": "act",
-    "time_of_call": "23 Aug 2025 10:39:38",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HOLT",
-    "updated": "23 Aug 2025 12:26:18"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +169,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "23 Aug 2025 13:44:04"
+    "updated": "23 Aug 2025 14:16:57"
   },
   {
     "agency": "Ambulance",
@@ -221,43 +187,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "23 Aug 2025 13:45:54"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PEARCE",
-    "id": "055905-23082025",
-    "latitude": "-35.361582",
-    "longitude": "149.085118",
-    "region": "act",
-    "time_of_call": "23 Aug 2025 12:45:13",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PEARCE",
-    "updated": "23 Aug 2025 13:33:14"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "055907-23082025",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "23 Aug 2025 12:55:59",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "23 Aug 2025 13:48:19"
+    "updated": "23 Aug 2025 14:01:24"
   },
   {
     "agency": "Ambulance",
@@ -293,7 +223,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "23 Aug 2025 13:52:51"
+    "updated": "23 Aug 2025 14:17:09"
   },
   {
     "agency": "Ambulance",
@@ -311,7 +241,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "23 Aug 2025 13:17:12"
+    "updated": "23 Aug 2025 14:06:22"
   },
   {
     "agency": "Ambulance",
@@ -329,25 +259,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "23 Aug 2025 13:35:50"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
-    "id": "055915-23082025",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
-    "region": "act",
-    "time_of_call": "23 Aug 2025 13:26:28",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CANBERRA AIRPORT",
-    "updated": "23 Aug 2025 13:54:19"
+    "updated": "23 Aug 2025 14:05:43"
   },
   {
     "agency": "Ambulance",
@@ -377,13 +289,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "23 Aug 2025 13:38:21",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "23 Aug 2025 13:44:14"
+    "updated": "23 Aug 2025 14:23:11"
   },
   {
     "agency": "Ambulance",
@@ -419,7 +331,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "23 Aug 2025 13:46:21"
+    "updated": "23 Aug 2025 14:17:02"
   },
   {
     "agency": "Ambulance",
@@ -437,7 +349,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "23 Aug 2025 13:49:07"
+    "updated": "23 Aug 2025 14:21:41"
   },
   {
     "agency": "Ambulance",
@@ -457,7 +369,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "ARGYLE EXECUTIVE APARTMENTS, CURRONG STREET, REID, 2612",
-    "updated": "23 Aug 2025 13:46:56"
+    "updated": "23 Aug 2025 14:15:31"
   },
   {
     "agency": "Ambulance",
@@ -475,7 +387,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "23 Aug 2025 13:52:38"
+    "updated": "23 Aug 2025 14:20:51"
   },
   {
     "agency": "Ambulance",
@@ -487,13 +399,13 @@
     "longitude": "149.033417",
     "region": "act",
     "time_of_call": "23 Aug 2025 13:50:15",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WHITLAM",
-    "updated": "23 Aug 2025 13:53:15"
+    "updated": "23 Aug 2025 14:21:12"
   },
   {
     "agency": "Ambulance",
@@ -505,13 +417,13 @@
     "longitude": "149.085118",
     "region": "act",
     "time_of_call": "23 Aug 2025 13:50:18",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "23 Aug 2025 13:54:47"
+    "updated": "23 Aug 2025 14:13:20"
   },
   {
     "agency": "Ambulance",
@@ -529,7 +441,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "23 Aug 2025 13:53:34"
+    "updated": "23 Aug 2025 13:58:40"
   },
   {
     "agency": "Ambulance",
@@ -547,7 +459,97 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "23 Aug 2025 13:54:54"
+    "updated": "23 Aug 2025 13:58:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "055931-23082025",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "23 Aug 2025 13:55:08",
+    "status": "Finished",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PALMERSTON",
+    "updated": "23 Aug 2025 14:17:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "055934-23082025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "23 Aug 2025 14:01:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "23 Aug 2025 14:11:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "055935-23082025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "23 Aug 2025 14:12:45",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "23 Aug 2025 14:19:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "055937-23082025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "23 Aug 2025 14:23:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "23 Aug 2025 14:28:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PARKES",
+    "id": "055938-23082025",
+    "latitude": "-35.297058",
+    "longitude": "149.134319",
+    "region": "act",
+    "time_of_call": "23 Aug 2025 14:28:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PARKES",
+    "updated": "23 Aug 2025 14:28:44"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -826,28 +828,6 @@
     "updated": "23 Aug 2025 05:55"
   },
   {
-    "title": "ALBERT AV, GREENWELL POINT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616491",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.9038848879999",
-    "longitude": "150.732208251",
-    "region": "nsw",
-    "time_of_call": "23 Aug 2025 12:09:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "ALBERT AV, GREENWELL POINT 2540",
-    "council_area": "Shoalhaven",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Aug 2025 12:09"
-  },
-  {
     "title": "NEVILLE BIENKE MEMORIAL DR, CASINO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616498",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -888,50 +868,6 @@
     "updated": "23 Aug 2025 13:30"
   },
   {
-    "title": "BOOLOOROO WEIR RD, MOREE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616509",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.421173096",
-    "longitude": "149.901428223",
-    "region": "nsw",
-    "time_of_call": "23 Aug 2025 13:00:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "BOOLOOROO WEIR RD, MOREE 2400",
-    "council_area": "Moree Plains",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Aug 2025 13:00"
-  },
-  {
-    "title": "DRANSFIELD DR, ORAN PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616510",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.997344971",
-    "longitude": "150.746841431",
-    "region": "nsw",
-    "time_of_call": "23 Aug 2025 13:23:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "DRANSFIELD DR, ORAN PARK 2570",
-    "council_area": "Camden",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 Aug 2025 13:23"
-  },
-  {
     "title": "BELLS LINE OF ROAD, BILPIN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616511",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -950,5 +886,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Aug 2025 13:45"
+  },
+  {
+    "title": "GEORGE BOOTH DR, SEAHAMPTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616512",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.891628265",
+    "longitude": "151.584609986",
+    "region": "nsw",
+    "time_of_call": "23 Aug 2025 14:17:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "10 GEORGE BOOTH DR, SEAHAMPTON 2286",
+    "council_area": "Lake Macquarie",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Aug 2025 14:17"
+  },
+  {
+    "title": "ROCKY RIVER ROAD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616513",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.0549564359999",
+    "longitude": "152.356369019",
+    "region": "nsw",
+    "time_of_call": "23 Aug 2025 14:07:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MACLEODS PINNACLE 3377 ROCKY RIVER ROAD, ROCKY RIVER 2372",
+    "council_area": "Tenterfield",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Aug 2025 14:07"
   }
 ]
