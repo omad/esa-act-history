@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "27 Aug 2025 15:11:58"
+    "updated": "27 Aug 2025 15:28:29"
   },
   {
     "agency": "Ambulance",
@@ -227,13 +227,13 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "27 Aug 2025 14:17:22",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "27 Aug 2025 15:21:33"
+    "updated": "27 Aug 2025 15:34:21"
   },
   {
     "agency": "Ambulance",
@@ -305,7 +305,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "27 Aug 2025 15:00:06"
+    "updated": "27 Aug 2025 15:34:26"
   },
   {
     "agency": "Ambulance",
@@ -323,7 +323,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "27 Aug 2025 15:08:48"
+    "updated": "27 Aug 2025 15:30:51"
   },
   {
     "agency": "Ambulance",
@@ -353,13 +353,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "27 Aug 2025 15:02:54",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "27 Aug 2025 15:06:29"
+    "updated": "27 Aug 2025 15:36:53"
   },
   {
     "agency": "Ambulance",
@@ -371,13 +371,67 @@
     "longitude": "149.161141",
     "region": "act",
     "time_of_call": "27 Aug 2025 15:18:36",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THROSBY",
+    "updated": "27 Aug 2025 15:34:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ACTON",
+    "id": "056974-27082025",
+    "latitude": "-35.289989",
+    "longitude": "149.115669",
+    "region": "act",
+    "time_of_call": "27 Aug 2025 15:30:13",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "THROSBY",
-    "updated": "27 Aug 2025 15:23:12"
+    "location": "ACTON",
+    "updated": "27 Aug 2025 15:36:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "056975-27082025",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "27 Aug 2025 15:30:47",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STIRLING",
+    "updated": "27 Aug 2025 15:35:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RICHARDSON",
+    "id": "056976-27082025",
+    "latitude": "-35.428715",
+    "longitude": "149.111133",
+    "region": "act",
+    "time_of_call": "27 Aug 2025 15:32:47",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RICHARDSON",
+    "updated": "27 Aug 2025 15:35:14"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -694,19 +748,19 @@
     "latitude": "-32.2243537909999",
     "longitude": "151.93560791",
     "region": "nsw",
-    "time_of_call": "27 Aug 2025 15:06:00",
+    "time_of_call": "27 Aug 2025 15:33:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
     "location": "WARD ST, WARDS RIVER 2422",
     "council_area": "Mid-Coast",
-    "type": "Other",
+    "type": "Bush Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Aug 2025 15:06"
+    "updated": "27 Aug 2025 15:33"
   },
   {
     "title": "ELLIS RD, COUTTS CROSSING",
@@ -729,5 +783,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Aug 2025 15:11"
+  },
+  {
+    "title": "PEACOCK CREEK RD, PEACOCK CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616861",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.7018642419999",
+    "longitude": "152.692077637",
+    "region": "nsw",
+    "time_of_call": "27 Aug 2025 15:23:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "814 PEACOCK CREEK RD, PEACOCK CREEK 2469",
+    "council_area": "Kyogle",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Aug 2025 15:23"
   }
 ]
