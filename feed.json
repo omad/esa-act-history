@@ -3,26 +3,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - WESTON",
-    "id": "013058-27082025",
-    "latitude": "-35.347002",
-    "longitude": "149.06324399",
-    "region": "act",
-    "time_of_call": "27 Aug 2025 15:51:43",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "HINDMARSH DRIVE, LARAKIA STREET, WESTON, 2611",
-    "updated": "27 Aug 2025 16:31:31"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "STORM OR TREE DAMAGE - THROSBY",
     "id": "013060-27082025",
     "latitude": "-35.19963636",
@@ -58,6 +38,26 @@
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "GREENOUGH CIRCUIT, KALEEN, 2617",
     "updated": "27 Aug 2025 17:17:29"
+  },
+  {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - WESTON",
+    "id": "013062-27082025",
+    "latitude": "-35.347002",
+    "longitude": "149.06324399",
+    "region": "act",
+    "time_of_call": "27 Aug 2025 17:30:13",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "HINDMARSH DRIVE, LARAKIA STREET, WESTON, 2611",
+    "updated": "27 Aug 2025 17:32:46"
   },
   {
     "agency": "Ambulance",
@@ -135,24 +135,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHISHOLM",
-    "id": "056961-27082025",
-    "latitude": "-35.422993",
-    "longitude": "149.12793",
-    "region": "act",
-    "time_of_call": "27 Aug 2025 14:40:50",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHISHOLM",
-    "updated": "27 Aug 2025 16:33:24"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - STIRLING",
     "id": "056975-27082025",
     "latitude": "-35.351472",
@@ -201,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "27 Aug 2025 17:17:12"
+    "updated": "27 Aug 2025 17:30:08"
   },
   {
     "agency": "Ambulance",
@@ -273,7 +255,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "27 Aug 2025 17:12:49"
+    "updated": "27 Aug 2025 17:29:25"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +273,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "27 Aug 2025 17:02:10"
+    "updated": "27 Aug 2025 17:32:25"
   },
   {
     "agency": "Ambulance",
@@ -309,7 +291,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "27 Aug 2025 17:08:47"
+    "updated": "27 Aug 2025 17:31:17"
   },
   {
     "agency": "Ambulance",
@@ -339,13 +321,13 @@
     "longitude": "149.079717",
     "region": "act",
     "time_of_call": "27 Aug 2025 17:11:57",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "27 Aug 2025 17:16:24"
+    "updated": "27 Aug 2025 17:30:55"
   },
   {
     "agency": "Ambulance",
@@ -363,7 +345,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "27 Aug 2025 17:23:21"
+    "updated": "27 Aug 2025 17:27:10"
   },
   {
     "title": "RIFLE RANGE RD, DUBBO",
@@ -774,9 +756,9 @@
     "latitude": "-34.042354584",
     "longitude": "148.746139527",
     "region": "nsw",
-    "time_of_call": "27 Aug 2025 16:20:00",
+    "time_of_call": "27 Aug 2025 17:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "CUCUMGILLIGA 4920 LACHLAN VALLEY WAY, KOORAWATHA 2807",
     "council_area": "Cowra",
@@ -784,7 +766,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Aug 2025 16:20"
+    "updated": "27 Aug 2025 17:23"
   },
   {
     "title": "VALLEY VIEW LANE, BUCHANAN",
@@ -854,5 +836,47 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "27 Aug 2025 17:17"
+  },
+  {
+    "title": "KAMILAROI HWY, BREWARRINA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616881",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.924884796",
+    "longitude": "146.933197022",
+    "region": "nsw",
+    "time_of_call": "27 Aug 2025 17:25:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "KAMILAROI HWY, BREWARRINA 2839",
+    "council_area": "Brewarrina",
+    "type": "Truck Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Aug 2025 17:25"
+  },
+  {
+    "title": "SEVENTH AV, AUSTRAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_616882",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.941669464",
+    "longitude": "150.804489136",
+    "region": "nsw",
+    "time_of_call": "27 Aug 2025 17:25:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "180 SEVENTH AV, AUSTRAL 2179",
+    "council_area": "Liverpool",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Aug 2025 17:25"
   }
 ]
