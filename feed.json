@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "28 Aug 2025 09:12:06"
+    "updated": "28 Aug 2025 09:31:32"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "28 Aug 2025 09:11:07"
+    "updated": "28 Aug 2025 09:25:16"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "28 Aug 2025 09:19:46"
+    "updated": "28 Aug 2025 09:23:07"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +171,13 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "28 Aug 2025 08:36:17",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "28 Aug 2025 09:17:28"
+    "updated": "28 Aug 2025 09:27:29"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +195,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "28 Aug 2025 09:21:02"
+    "updated": "28 Aug 2025 09:31:05"
   },
   {
     "agency": "Ambulance",
@@ -207,13 +207,13 @@
     "longitude": "149.049485",
     "region": "act",
     "time_of_call": "28 Aug 2025 09:13:28",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "28 Aug 2025 09:21:45"
+    "updated": "28 Aug 2025 09:22:57"
   },
   {
     "agency": "Ambulance",
@@ -225,13 +225,31 @@
     "longitude": "149.053511",
     "region": "act",
     "time_of_call": "28 Aug 2025 09:19:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "28 Aug 2025 09:21:48"
+    "updated": "28 Aug 2025 09:26:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "057135-28082025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "28 Aug 2025 09:26:12",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "28 Aug 2025 09:31:12"
   },
   {
     "title": "GRENFELL",
@@ -423,7 +441,7 @@
     "latitude": "-29.45895195",
     "longitude": "152.888168335",
     "region": "nsw",
-    "time_of_call": "28 Aug 2025 07:21:00",
+    "time_of_call": "28 Aug 2025 09:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -433,9 +451,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "113 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Aug 2025 07:21"
+    "updated": "28 Aug 2025 09:22"
   },
   {
     "title": "KANGALOON RD, GLENQUARRY",
@@ -507,9 +525,9 @@
     "latitude": "-31.49887",
     "longitude": "145.845222",
     "region": "nsw",
-    "time_of_call": "28 Aug 2025 09:17:00",
+    "time_of_call": "28 Aug 2025 09:31:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -522,6 +540,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "28 Aug 2025 09:17"
+    "updated": "28 Aug 2025 09:31"
   }
 ]
