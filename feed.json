@@ -15,7 +15,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "29 Aug 2025 07:06:07"
+    "updated": "29 Aug 2025 07:26:57"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.094654",
     "region": "act",
     "time_of_call": "29 Aug 2025 06:56:57",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "29 Aug 2025 07:00:44"
+    "updated": "29 Aug 2025 07:26:54"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,49 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "29 Aug 2025 07:07:15",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "29 Aug 2025 07:23:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - YARRALUMLA",
+    "id": "057338-29082025",
+    "latitude": "-35.302333",
+    "longitude": "149.099934",
+    "region": "act",
+    "time_of_call": "29 Aug 2025 07:29:02",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "29 Aug 2025 07:16:21"
+    "location": "YARRALUMLA",
+    "updated": "29 Aug 2025 07:30:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "057339-29082025",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "29 Aug 2025 07:30:47",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "29 Aug 2025 07:31:53"
   },
   {
     "title": "MULYA RD, COBAR",
@@ -463,50 +499,6 @@
     "updated": "29 Aug 2025 05:46"
   },
   {
-    "title": "THOMAS MITCHELL DR, MUSWELLBROOK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617050",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.325969696",
-    "longitude": "150.944534302",
-    "region": "nsw",
-    "time_of_call": "29 Aug 2025 07:09:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "THOMAS MITCHELL DR, MUSWELLBROOK 2333",
-    "council_area": "Muswellbrook",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Aug 2025 07:09"
-  },
-  {
-    "title": "CENTRAL RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617051",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.077861786",
-    "longitude": "151.452682495",
-    "region": "nsw",
-    "time_of_call": "29 Aug 2025 07:17:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "AVONDALE RETIREMENT VILLAGE 10 CENTRAL RD, COORANBONG 2265",
-    "council_area": "Lake Macquarie",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Aug 2025 07:17"
-  },
-  {
     "title": "BURFITT RD, SCHOFIELDS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617052",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -514,9 +506,9 @@
     "latitude": "-33.695163727",
     "longitude": "150.851959228",
     "region": "nsw",
-    "time_of_call": "29 Aug 2025 07:03:00",
+    "time_of_call": "29 Aug 2025 07:18:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "52 BURFITT RD, SCHOFIELDS 2762",
     "council_area": "Blacktown",
@@ -526,7 +518,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Aug 2025 07:03"
+    "updated": "29 Aug 2025 07:18"
   },
   {
     "title": "KILLAWARRA RD, DUFFYS FOREST",
@@ -536,9 +528,9 @@
     "latitude": "-33.680606842",
     "longitude": "151.188827515",
     "region": "nsw",
-    "time_of_call": "29 Aug 2025 07:05:00",
+    "time_of_call": "29 Aug 2025 07:20:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "KILLAWARRA RD, DUFFYS FOREST 2084",
     "council_area": "Northern Beaches",
@@ -546,6 +538,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Aug 2025 07:05"
+    "updated": "29 Aug 2025 07:20"
   }
 ]
