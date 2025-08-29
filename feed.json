@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "30 Aug 2025 04:57:29"
+    "updated": "30 Aug 2025 05:48:28"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "30 Aug 2025 05:24:22"
+    "updated": "30 Aug 2025 05:44:36"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "057580-30082025",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "30 Aug 2025 05:36:02",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "30 Aug 2025 05:40:08"
   },
   {
     "title": "MULYA RD, COBAR",
@@ -415,19 +433,41 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617219",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.941169739",
-    "longitude": "150.748626709",
+    "latitude": "-33.946144104",
+    "longitude": "150.75125122",
     "region": "nsw",
-    "time_of_call": "30 Aug 2025 05:09:00",
+    "time_of_call": "30 Aug 2025 05:33:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "JERSEY RD, BRINGELLY 2556",
+    "location": "55 JERSEY RD, BRINGELLY 2556",
     "council_area": "Camden",
     "type": "Flood/Storm/Tree Down",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Aug 2025 05:09"
+    "updated": "30 Aug 2025 05:33"
+  },
+  {
+    "title": "MOUNTAIN VIEW CL, KURRAJONG HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617220",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.5224990839999",
+    "longitude": "150.67199707",
+    "region": "nsw",
+    "time_of_call": "30 Aug 2025 05:43:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "102 MOUNTAIN VIEW CL, KURRAJONG HILLS 2758",
+    "council_area": "Hawkesbury",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Aug 2025 05:43"
   }
 ]
