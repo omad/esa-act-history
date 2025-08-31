@@ -121,24 +121,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRADDON",
-    "id": "057938-31082025",
-    "latitude": "-35.270314",
-    "longitude": "149.135874",
-    "region": "act",
-    "time_of_call": "31 Aug 2025 14:06:25",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BRADDON",
-    "updated": "31 Aug 2025 17:21:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - STIRLING",
     "id": "057963-31082025",
     "latitude": "-35.351472",
@@ -169,7 +151,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "31 Aug 2025 16:51:40"
+    "updated": "31 Aug 2025 17:23:19"
   },
   {
     "agency": "Ambulance",
@@ -277,7 +259,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "31 Aug 2025 17:10:17"
+    "updated": "31 Aug 2025 17:22:35"
   },
   {
     "agency": "Ambulance",
@@ -333,7 +315,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "31 Aug 2025 17:13:56"
+    "updated": ""
   },
   {
     "agency": "Ambulance",
@@ -352,6 +334,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
     "updated": "31 Aug 2025 17:19:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLDER",
+    "id": "057982-31082025",
+    "latitude": "-35.337349",
+    "longitude": "149.046336",
+    "region": "act",
+    "time_of_call": "31 Aug 2025 17:29:40",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLDER",
+    "updated": "31 Aug 2025 17:29:43"
   },
   {
     "title": "MULYA RD, COBAR",
@@ -495,7 +495,7 @@
     "latitude": "-36.127784729",
     "longitude": "149.117965698",
     "region": "nsw",
-    "time_of_call": "31 Aug 2025 10:42:00",
+    "time_of_call": "31 Aug 2025 17:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -507,7 +507,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Aug 2025 10:42"
+    "updated": "31 Aug 2025 17:20"
   },
   {
     "title": "RAZORBACK RD, RUNNING STREAM",
@@ -691,9 +691,9 @@
     "latitude": "-30.5440599999999",
     "longitude": "151.67739",
     "region": "nsw",
-    "time_of_call": "31 Aug 2025 17:05:00",
+    "time_of_call": "31 Aug 2025 17:20:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -706,7 +706,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "31 Aug 2025 17:05"
+    "updated": "31 Aug 2025 17:20"
   },
   {
     "title": "ROSENEATH LANE, ARMIDALE",
@@ -738,17 +738,17 @@
     "latitude": "-34.5221786499999",
     "longitude": "149.127304077",
     "region": "nsw",
-    "time_of_call": "31 Aug 2025 17:07:00",
+    "time_of_call": "31 Aug 2025 17:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BEVENDALE RD, BEVENDALE 2581",
     "council_area": "Upper Lachlan",
     "type": "Assist Other Agency",
     "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 Aug 2025 17:07"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "31 Aug 2025 17:21"
   },
   {
     "title": "MARSHALL AV, BARGO",
@@ -771,5 +771,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "31 Aug 2025 17:16"
+  },
+  {
+    "title": "Butler St, Armidale",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617479",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.5054069999999",
+    "longitude": "151.658975001",
+    "region": "nsw",
+    "time_of_call": "31 Aug 2025 17:24:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Butler St, Armidale, NSW 2350",
+    "council_area": "Armidale",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "31 Aug 2025 17:24"
+  },
+  {
+    "title": "FLOOD LANE, EAST WARDELL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617480",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.936143875",
+    "longitude": "153.489761352",
+    "region": "nsw",
+    "time_of_call": "31 Aug 2025 17:26:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "FLOOD LANE, EAST WARDELL 2477",
+    "council_area": "Ballina",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "31 Aug 2025 17:26"
   }
 ]
