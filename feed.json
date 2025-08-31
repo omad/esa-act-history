@@ -43,42 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHAPMAN",
-    "id": "057997-31082025",
-    "latitude": "-35.356631",
-    "longitude": "149.036831",
-    "region": "act",
-    "time_of_call": "31 Aug 2025 19:02:24",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHAPMAN",
-    "updated": "31 Aug 2025 22:06:45"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "058021-31082025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "31 Aug 2025 22:17:04",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "01 Sep 2025 00:02:28"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
     "id": "058025-31082025",
     "latitude": "-35.302295",
@@ -253,7 +217,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "01 Sep 2025 02:45:53"
+    "updated": "01 Sep 2025 03:18:06"
   },
   {
     "agency": "Ambulance",
@@ -265,13 +229,13 @@
     "longitude": "149.1195",
     "region": "act",
     "time_of_call": "01 Sep 2025 02:23:50",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "01 Sep 2025 02:27:00"
+    "updated": "01 Sep 2025 03:14:36"
   },
   {
     "agency": "Ambulance",
@@ -283,13 +247,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "01 Sep 2025 02:48:41",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": ""
+    "updated": "01 Sep 2025 03:05:29"
   },
   {
     "title": "MULYA RD, COBAR",
@@ -514,5 +478,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Sep 2025 01:29"
+  },
+  {
+    "title": "MCKIMMS RD, LARGS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617530",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.7201385499999",
+    "longitude": "151.588912964",
+    "region": "nsw",
+    "time_of_call": "01 Sep 2025 03:16:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "MCKIMMS RD, LARGS 2320",
+    "council_area": "Maitland",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Sep 2025 03:16"
   }
 ]
