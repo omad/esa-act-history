@@ -61,24 +61,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HAWKER",
-    "id": "058280-02092025",
-    "latitude": "-35.246757",
-    "longitude": "149.03611",
-    "region": "act",
-    "time_of_call": "02 Sep 2025 06:31:03",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HAWKER",
-    "updated": "02 Sep 2025 06:43:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GREENWAY",
     "id": "058281-02092025",
     "latitude": "-35.411775",
@@ -127,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "02 Sep 2025 07:11:13"
+    "updated": "02 Sep 2025 07:46:08"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +163,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "02 Sep 2025 07:27:22"
+    "updated": "02 Sep 2025 07:44:09"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +175,31 @@
     "longitude": "149.12506",
     "region": "act",
     "time_of_call": "02 Sep 2025 07:27:08",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORREST",
-    "updated": "02 Sep 2025 07:29:22"
+    "updated": "02 Sep 2025 07:39:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "058292-02092025",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "02 Sep 2025 07:35:31",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TAYLOR",
+    "updated": "02 Sep 2025 07:44:18"
   },
   {
     "title": "Bielsdown HR",
@@ -513,8 +513,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617641",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.825458526",
-    "longitude": "151.482772828",
+    "latitude": "-32.825881958",
+    "longitude": "151.480895997",
     "region": "nsw",
     "time_of_call": "02 Sep 2025 07:26:00",
     "event_type": "burnt area",
