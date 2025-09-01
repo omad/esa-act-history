@@ -9,15 +9,15 @@
     "longitude": "149.1353405243",
     "region": "act",
     "time_of_call": "31 Aug 2025 10:37:30",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HAZARD REDUCTION BURN",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "SUNNY LANE, MONARO HIGHWAY, TUGGERANONG",
-    "updated": "31 Aug 2025 10:37:48"
+    "updated": "02 Sep 2025 08:26:01"
   },
   {
     "agency": "Fire",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "OXLEY",
-    "updated": "02 Sep 2025 08:08:47"
+    "updated": "02 Sep 2025 08:31:00"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORREST",
-    "updated": "02 Sep 2025 08:18:38"
+    "updated": "02 Sep 2025 08:33:48"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +193,13 @@
     "longitude": "149.076954",
     "region": "act",
     "time_of_call": "02 Sep 2025 08:07:46",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "02 Sep 2025 08:12:17"
+    "updated": "02 Sep 2025 08:36:24"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +211,31 @@
     "longitude": "149.034875",
     "region": "act",
     "time_of_call": "02 Sep 2025 08:10:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "02 Sep 2025 08:19:13"
+    "updated": "02 Sep 2025 08:29:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FYSHWICK",
+    "id": "058298-02092025",
+    "latitude": "-35.325888",
+    "longitude": "149.174707",
+    "region": "act",
+    "time_of_call": "02 Sep 2025 08:28:25",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FYSHWICK",
+    "updated": "02 Sep 2025 08:36:29"
   },
   {
     "title": "Bielsdown HR",
@@ -240,6 +258,28 @@
     "size": "9 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "1 Sep 2025 15:56"
+  },
+  {
+    "title": "Bendeela Camp ground pile burns",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617092",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.737368736",
+    "longitude": "150.469665528",
+    "region": "nsw",
+    "time_of_call": "02 Sep 2025 08:20:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "Bendeela camp ground",
+    "council_area": "Shoalhaven",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Water NSW",
+    "updated": "2 Sep 2025 08:20"
   },
   {
     "title": "BREWERS RD, KIPPENDUFF",
@@ -502,26 +542,6 @@
     "updated": "2 Sep 2025 07:26"
   },
   {
-    "title": "CAMDEN RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617642",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.179317474",
-    "longitude": "150.713134766",
-    "region": "nsw",
-    "time_of_call": "02 Sep 2025 07:58:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "DOUGLAS PARK PUBLIC SCHOOL 111 CAMDEN RD, DOUGLAS PARK 2569",
-    "council_area": "Wollondilly",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 07:58"
-  },
-  {
     "title": "GLENS CREEK RD, NYMBOIDA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617643",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -562,5 +582,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Sep 2025 08:14"
+  },
+  {
+    "title": "ELIZABETH DR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617645",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.876907349",
+    "longitude": "150.73501587",
+    "region": "nsw",
+    "time_of_call": "02 Sep 2025 08:24:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WESTERN SYDNEY AIRPORT TER 1 ELIZABETH DR, BADGERYS CREEK 2555",
+    "council_area": "Liverpool",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Sep 2025 08:24"
   }
 ]
