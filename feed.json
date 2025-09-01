@@ -55,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "02 Sep 2025 05:17:49"
+    "updated": "02 Sep 2025 05:56:39"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "02 Sep 2025 05:35:22"
+    "updated": "02 Sep 2025 05:49:13"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +91,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "02 Sep 2025 05:28:56"
+    "updated": "02 Sep 2025 05:57:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "058279-02092025",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "02 Sep 2025 05:53:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TAYLOR",
+    "updated": "02 Sep 2025 05:58:18"
   },
   {
     "title": "Bielsdown HR",
@@ -354,39 +372,20 @@
     "updated": "2 Sep 2025 01:27"
   },
   {
-    "title": "LADY CARRINGTON DR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617638",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.075469971",
-    "longitude": "151.056045532",
-    "region": "nsw",
-    "time_of_call": "02 Sep 2025 05:30:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "AUDLEY DANCE HALL 2 LADY CARRINGTON DR, AUDLEY 2232",
-    "council_area": "Sutherland",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 05:30"
-  },
-  {
     "title": "CULBURRA BEACH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617639",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.931644439",
-    "longitude": "150.769134521",
+    "latitude": "-34.9051704409999",
+    "longitude": "150.761184693",
     "region": "nsw",
-    "time_of_call": "02 Sep 2025 05:39:00",
+    "time_of_call": "02 Sep 2025 06:15:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "CULBURRA BEACH 2540",
     "council_area": "Shoalhaven",
     "type": "Bush Fire",
@@ -395,6 +394,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 05:39"
+    "updated": "2 Sep 2025 06:15"
   }
 ]
