@@ -21,23 +21,43 @@
   },
   {
     "agency": "Fire",
-    "alert_level": "Advice",
+    "alert_level": "",
     "event_type": "incident",
-    "title": "GRASS AND BUSH FIRE - SYMONSTON",
-    "id": "013372-02092025",
-    "latitude": "-35.3452949524",
-    "longitude": "149.1627960205",
+    "title": "HOUSE FIRE - FISHER",
+    "id": "013374-03092025",
+    "latitude": "-35.36404421",
+    "longitude": "149.0609588799",
     "region": "act",
-    "time_of_call": "02 Sep 2025 22:45:19",
-    "status": "Out / Completed",
+    "time_of_call": "03 Sep 2025 00:19:40",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "GRASS AND BUSH FIRE",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "HOUSE FIRE",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
-    "location": "JERRABOMBERRA AVENUE, NARRABUNDAH LANE, SYMONSTON, 2609",
-    "updated": "02 Sep 2025 23:16:21"
+    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
+    "location": "KAMBALDA CRESCENT, FISHER, 2611",
+    "updated": "03 Sep 2025 00:26:30"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - FISHER",
+    "id": "013375-03092025",
+    "latitude": "-35.36404421",
+    "longitude": "149.0609588799",
+    "region": "act",
+    "time_of_call": "03 Sep 2025 00:25:22",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
+    "location": "KAMBALDA CRESCENT, FISHER, 2611",
+    "updated": "03 Sep 2025 00:26:15"
   },
   {
     "agency": "Ambulance",
@@ -151,24 +171,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHARNWOOD",
-    "id": "058503-02092025",
-    "latitude": "-35.200338",
-    "longitude": "149.036735",
-    "region": "act",
-    "time_of_call": "02 Sep 2025 22:48:58",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHARNWOOD",
-    "updated": "02 Sep 2025 23:30:47"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CURTIN",
     "id": "058504-02092025",
     "latitude": "-35.326585",
@@ -181,25 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "02 Sep 2025 23:48:03"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLYNN",
-    "id": "058505-02092025",
-    "latitude": "-35.207317",
-    "longitude": "149.042983",
-    "region": "act",
-    "time_of_call": "02 Sep 2025 22:53:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLYNN",
-    "updated": "02 Sep 2025 23:47:06"
+    "updated": "02 Sep 2025 23:55:36"
   },
   {
     "agency": "Ambulance",
@@ -218,24 +202,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
     "updated": "02 Sep 2025 23:01:54"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLT",
-    "id": "058507-02092025",
-    "latitude": "-35.224201",
-    "longitude": "149.013141",
-    "region": "act",
-    "time_of_call": "02 Sep 2025 22:59:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HOLT",
-    "updated": "02 Sep 2025 23:11:41"
   },
   {
     "agency": "Ambulance",
@@ -271,7 +237,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "02 Sep 2025 23:49:27"
+    "updated": "02 Sep 2025 23:58:28"
   },
   {
     "agency": "Ambulance",
@@ -283,13 +249,69 @@
     "longitude": "149.041664",
     "region": "act",
     "time_of_call": "02 Sep 2025 23:51:36",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOMBS",
+    "updated": "03 Sep 2025 00:17:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "058512-03092025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "03 Sep 2025 00:04:45",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "03 Sep 2025 00:14:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - FISHER",
+    "id": "058513-03092025",
+    "latitude": "-35.36404421",
+    "longitude": "149.0609588799",
+    "region": "act",
+    "time_of_call": "03 Sep 2025 00:19:40",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "",
+    "location": "KAMBALDA CRESCENT, FISHER, 2611",
+    "updated": "03 Sep 2025 00:24:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "058514-03092025",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "03 Sep 2025 00:26:42",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "COOMBS",
-    "updated": "02 Sep 2025 23:51:39"
+    "location": "KALEEN",
+    "updated": "03 Sep 2025 00:26:51"
   },
   {
     "title": "Bendeela Camp ground pile burns",
@@ -346,13 +368,10 @@
     "latitude": "-32.15409851",
     "longitude": "152.274414062",
     "region": "nsw",
-    "time_of_call": "01 Sep 2025 20:55:00",
+    "time_of_call": "03 Sep 2025 00:17:00",
     "event_type": "burnt area",
     "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
+    "alert_level": "Not Applicable",
     "location": "390 WANG WAUK RD, WANG WAUK 2423",
     "council_area": "Mid-Coast",
     "type": "Grass Fire",
@@ -361,7 +380,7 @@
     "fire": "Yes",
     "size": "28 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Sep 2025 20:55"
+    "updated": "3 Sep 2025 00:17"
   },
   {
     "title": "HANNA PL, NORTH BATEMANS BAY",
@@ -371,7 +390,7 @@
     "latitude": "-35.6857986439999",
     "longitude": "150.190032958",
     "region": "nsw",
-    "time_of_call": "01 Sep 2025 20:54:00",
+    "time_of_call": "03 Sep 2025 00:03:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -383,7 +402,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Sep 2025 20:54"
+    "updated": "3 Sep 2025 00:03"
   },
   {
     "title": "YETMAN RD, OAKWOOD",
@@ -393,7 +412,7 @@
     "latitude": "-29.6104526519999",
     "longitude": "151.029174805",
     "region": "nsw",
-    "time_of_call": "02 Sep 2025 01:27:00",
+    "time_of_call": "03 Sep 2025 00:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -408,7 +427,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 01:27"
+    "updated": "3 Sep 2025 00:10"
   },
   {
     "title": "HOSPITAL FLAT RD, TINGHA",
@@ -418,7 +437,7 @@
     "latitude": "-29.955196381",
     "longitude": "151.194717408",
     "region": "nsw",
-    "time_of_call": "02 Sep 2025 12:10:00",
+    "time_of_call": "03 Sep 2025 00:11:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -430,7 +449,7 @@
     "fire": "Yes",
     "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 12:10"
+    "updated": "3 Sep 2025 00:11"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -440,7 +459,7 @@
     "latitude": "-32.273750305",
     "longitude": "148.528503418",
     "region": "nsw",
-    "time_of_call": "02 Sep 2025 16:50:00",
+    "time_of_call": "03 Sep 2025 00:02:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -452,7 +471,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 16:50"
+    "updated": "3 Sep 2025 00:02"
   },
   {
     "title": "HOMESTEAD RD, ORCHARD HILLS",
@@ -462,7 +481,7 @@
     "latitude": "-33.787483215",
     "longitude": "150.709213257",
     "region": "nsw",
-    "time_of_call": "02 Sep 2025 12:08:00",
+    "time_of_call": "03 Sep 2025 00:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -474,7 +493,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 12:08"
+    "updated": "3 Sep 2025 00:21"
   },
   {
     "title": "BESSIE ST, SOUTH GRAFTON",
@@ -484,7 +503,7 @@
     "latitude": "-29.738443375",
     "longitude": "152.94506836",
     "region": "nsw",
-    "time_of_call": "02 Sep 2025 15:06:00",
+    "time_of_call": "03 Sep 2025 00:01:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -496,7 +515,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 15:06"
+    "updated": "3 Sep 2025 00:01"
   },
   {
     "title": "Bendethera Pile Burn",
@@ -519,28 +538,6 @@
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "2 Sep 2025 15:19"
-  },
-  {
-    "title": "TOWNSEND ST, HOWLONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617669",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.980205536",
-    "longitude": "146.638671875",
-    "region": "nsw",
-    "time_of_call": "02 Sep 2025 12:30:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "110 TOWNSEND ST, HOWLONG 2643",
-    "council_area": "Federation",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 12:30"
   },
   {
     "title": "MULGOA RD, MULGOA",
@@ -585,28 +582,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Sep 2025 20:07"
-  },
-  {
-    "title": "DWYER RD, BRINGELLY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617681",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.9229812629999",
-    "longitude": "150.702957153",
-    "region": "nsw",
-    "time_of_call": "02 Sep 2025 15:50:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "14 DWYER RD, BRINGELLY 2556",
-    "council_area": "Liverpool",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 15:50"
   },
   {
     "title": "SPRING CREEK RD, MOUNT HUNTER",
@@ -785,7 +760,7 @@
     "latitude": "-33.4426155089999",
     "longitude": "150.807785034",
     "region": "nsw",
-    "time_of_call": "02 Sep 2025 20:25:00",
+    "time_of_call": "03 Sep 2025 00:05:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -797,7 +772,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 20:25"
+    "updated": "3 Sep 2025 00:05"
   },
   {
     "title": "SNOWY MOUNTAINS HWY, DRY PLAIN",
@@ -829,7 +804,7 @@
     "latitude": "-31.8926811219999",
     "longitude": "152.147094727",
     "region": "nsw",
-    "time_of_call": "02 Sep 2025 18:16:00",
+    "time_of_call": "03 Sep 2025 00:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -841,7 +816,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 18:16"
+    "updated": "3 Sep 2025 00:19"
   },
   {
     "title": "PRE HARVEST CANE BURNING, WOOMBAH",
@@ -851,7 +826,7 @@
     "latitude": "-29.354616165",
     "longitude": "153.248123169",
     "region": "nsw",
-    "time_of_call": "02 Sep 2025 18:55:00",
+    "time_of_call": "03 Sep 2025 00:00:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -863,7 +838,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 18:55"
+    "updated": "3 Sep 2025 00:00"
   },
   {
     "title": "KIACATOO RD, CONDOBOLIN",
@@ -873,7 +848,7 @@
     "latitude": "-33.0698509219999",
     "longitude": "147.09916687",
     "region": "nsw",
-    "time_of_call": "02 Sep 2025 23:14:00",
+    "time_of_call": "03 Sep 2025 00:12:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -885,7 +860,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Sep 2025 23:14"
+    "updated": "3 Sep 2025 00:12"
   },
   {
     "title": "BONSHAW RD, BONSHAW",
