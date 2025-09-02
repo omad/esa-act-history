@@ -25,8 +25,8 @@
     "event_type": "incident",
     "title": "STRUCTURE FIRE - BELCONNEN",
     "id": "013378-03092025",
-    "latitude": "-35.2442168899",
-    "longitude": "149.06955554",
+    "latitude": "-35.24344097",
+    "longitude": "149.07048806",
     "region": "act",
     "time_of_call": "03 Sep 2025 03:01:20",
     "status": "On Scene",
@@ -36,8 +36,8 @@
     "type": "STRUCTURE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
-    "location": "HOWIE COURT, BELCONNEN, 2617",
-    "updated": "03 Sep 2025 03:21:52"
+    "location": "ILLAWARRA COURT, HOWIE COURT, BELCONNEN, 2617",
+    "updated": "03 Sep 2025 03:32:43"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +157,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "03 Sep 2025 02:05:54",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "03 Sep 2025 02:11:40"
+    "updated": "03 Sep 2025 03:27:07"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "03 Sep 2025 03:15:27"
+    "updated": "03 Sep 2025 03:27:01"
   },
   {
     "agency": "Ambulance",
@@ -200,24 +200,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
     "updated": "03 Sep 2025 03:14:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "058523-03092025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "03 Sep 2025 02:37:48",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "03 Sep 2025 03:03:00"
   },
   {
     "agency": "Ambulance",
@@ -243,8 +225,8 @@
     "event_type": "incident",
     "title": "STRUCTURE FIRE - BELCONNEN",
     "id": "058527-03092025",
-    "latitude": "-35.2442168899",
-    "longitude": "149.06955554",
+    "latitude": "-35.24344097",
+    "longitude": "149.07048806",
     "region": "act",
     "time_of_call": "03 Sep 2025 03:01:21",
     "status": "On Scene",
@@ -254,8 +236,26 @@
     "type": "STRUCTURE FIRE",
     "type_description": "",
     "type_icon": "",
-    "location": "HOWIE COURT, BELCONNEN, 2617",
-    "updated": "03 Sep 2025 03:14:42"
+    "location": "ILLAWARRA COURT, HOWIE COURT, BELCONNEN, 2617",
+    "updated": "03 Sep 2025 03:31:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STRATHNAIRN",
+    "id": "058529-03092025",
+    "latitude": "-35.237286",
+    "longitude": "148.98074",
+    "region": "act",
+    "time_of_call": "03 Sep 2025 03:28:06",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STRATHNAIRN",
+    "updated": "03 Sep 2025 03:33:31"
   },
   {
     "title": "Bendeela Camp ground pile burns",
@@ -805,27 +805,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Sep 2025 00:12"
-  },
-  {
-    "title": "TARALGA RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617740",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.7113876349999",
-    "longitude": "149.756820679",
-    "region": "nsw",
-    "time_of_call": "03 Sep 2025 03:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "GOULBURN DRIVER TRAINING 593 TARALGA RD, GOULBURN 2580",
-    "council_area": "Goulburn Mulwaree",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "3 Sep 2025 03:07"
   }
 ]
