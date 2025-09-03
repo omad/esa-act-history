@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - RED HILL",
-    "id": "058784-04092025",
-    "latitude": "-35.333636",
-    "longitude": "149.120031",
-    "region": "act",
-    "time_of_call": "04 Sep 2025 04:21:46",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "RED HILL",
-    "updated": "04 Sep 2025 05:05:11"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PALMERSTON",
     "id": "058786-04092025",
     "latitude": "-35.193269",
@@ -71,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "04 Sep 2025 05:20:55"
+    "updated": "04 Sep 2025 05:43:27"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +65,31 @@
     "longitude": "149.115669",
     "region": "act",
     "time_of_call": "04 Sep 2025 05:23:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
-    "updated": "04 Sep 2025 05:27:42"
+    "updated": "04 Sep 2025 05:46:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "058791-04092025",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "04 Sep 2025 05:33:46",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GRIFFITH",
+    "updated": "04 Sep 2025 05:42:10"
   },
   {
     "title": "BREWERS RD, KIPPENDUFF",
@@ -608,5 +608,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "4 Sep 2025 03:14"
+  },
+  {
+    "title": "(PACIFIC MTWY), WYEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617856",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.19385147",
+    "longitude": "151.465911865",
+    "region": "nsw",
+    "time_of_call": "04 Sep 2025 05:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "M1 (PACIFIC MTWY), WYEE 2259",
+    "council_area": "Central Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Sep 2025 05:32"
   }
 ]
