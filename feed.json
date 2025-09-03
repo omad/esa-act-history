@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "04 Sep 2025 07:53:28"
+    "updated": "04 Sep 2025 08:34:22"
   },
   {
     "agency": "Ambulance",
@@ -107,25 +107,7 @@
     "status_filter_label": "Finished",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "RICH PLACE, HIGGINS, 2615",
-    "updated": "04 Sep 2025 07:56:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYONS",
-    "id": "058810-04092025",
-    "latitude": "-35.340941",
-    "longitude": "149.072217",
-    "region": "act",
-    "time_of_call": "04 Sep 2025 07:34:30",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LYONS",
-    "updated": "04 Sep 2025 07:43:32"
+    "updated": "04 Sep 2025 08:24:20"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "04 Sep 2025 08:22:20"
+    "updated": "04 Sep 2025 08:29:05"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,31 @@
     "longitude": "149.085118",
     "region": "act",
     "time_of_call": "04 Sep 2025 08:19:35",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PEARCE",
+    "updated": "04 Sep 2025 08:29:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLDER",
+    "id": "058821-04092025",
+    "latitude": "-35.337349",
+    "longitude": "149.046336",
+    "region": "act",
+    "time_of_call": "04 Sep 2025 08:27:36",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "PEARCE",
-    "updated": "04 Sep 2025 08:21:55"
+    "location": "HOLDER",
+    "updated": "04 Sep 2025 08:31:18"
   },
   {
     "title": "BREWERS RD, KIPPENDUFF",
@@ -473,6 +473,28 @@
     "updated": "4 Sep 2025 04:47"
   },
   {
+    "title": "COPETON DAM HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617754",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.9028205879999",
+    "longitude": "151.020614625",
+    "region": "nsw",
+    "time_of_call": "04 Sep 2025 08:23:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "COPETON DAM HR HOWELL RD, TINGHA 2369",
+    "council_area": "Inverell",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "75 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Sep 2025 08:23"
+  },
+  {
     "title": "Beashels Lane, Bergalia",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617777",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -681,9 +703,9 @@
     "latitude": "-35.9085884099999",
     "longitude": "150.080810547",
     "region": "nsw",
-    "time_of_call": "04 Sep 2025 03:14:00",
+    "time_of_call": "04 Sep 2025 08:19:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "43 VULCAN ST, MORUYA 2537",
     "council_area": "Eurobodalla",
@@ -693,7 +715,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "4 Sep 2025 03:14"
+    "updated": "4 Sep 2025 08:19"
   },
   {
     "title": "MINNIE WATER HIAWATHA RD, MINNIE WATER",
@@ -740,28 +762,6 @@
     "updated": "4 Sep 2025 08:05"
   },
   {
-    "title": "FREEMANS REACH RD, FREEMANS REACH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617865",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.601673126",
-    "longitude": "150.822067261",
-    "region": "nsw",
-    "time_of_call": "04 Sep 2025 07:55:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "FREEMANS REACH RD, FREEMANS REACH 2756",
-    "council_area": "Hawkesbury",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Sep 2025 07:55"
-  },
-  {
     "title": "HUME HWY, JUGIONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617867",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -769,9 +769,9 @@
     "latitude": "-34.800426483",
     "longitude": "148.508834839",
     "region": "nsw",
-    "time_of_call": "04 Sep 2025 07:39:00",
+    "time_of_call": "04 Sep 2025 08:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "HUME HWY, JUGIONG 2726",
     "council_area": "Hilltops",
@@ -781,7 +781,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Sep 2025 07:39"
+    "updated": "4 Sep 2025 08:25"
   },
   {
     "title": "PACIFIC MTWY, CUDGERA CREEK",
@@ -806,21 +806,21 @@
     "updated": "4 Sep 2025 07:57"
   },
   {
-    "title": "COLONEL BARNEY DR, PORT MACQUARIE",
+    "title": "Colonel Barney Dr, Port Macquarie",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617870",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.46470642",
-    "longitude": "152.893081665",
+    "latitude": "-31.4659881599999",
+    "longitude": "152.892272949",
     "region": "nsw",
-    "time_of_call": "04 Sep 2025 08:05:00",
+    "time_of_call": "04 Sep 2025 08:22:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "13 COLONEL BARNEY DR, PORT MACQUARIE 2444",
+    "location": "13 Colonel Barney Dr, Port Macquarie, NSW 2444",
     "council_area": "Port Macquarie-Hastings",
     "type": "Bush Fire",
     "type_description": "",
@@ -828,6 +828,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "4 Sep 2025 08:05"
+    "updated": "4 Sep 2025 08:22"
   }
 ]
