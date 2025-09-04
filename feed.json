@@ -117,7 +117,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "TAVERNER STREET, LAURENS STREET, OXLEY, 2903",
-    "updated": "05 Sep 2025 09:24:34"
+    "updated": "05 Sep 2025 09:34:34"
   },
   {
     "agency": "Fire",
@@ -157,7 +157,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "YAMBA DRIVE, JULIA FLYNN AVENUE, ISAACS, 2607",
-    "updated": "05 Sep 2025 09:26:55"
+    "updated": "05 Sep 2025 09:35:04"
   },
   {
     "agency": "Ambulance",
@@ -181,24 +181,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRUCE",
-    "id": "059037-05092025",
-    "latitude": "-35.242777",
-    "longitude": "149.096998",
-    "region": "act",
-    "time_of_call": "05 Sep 2025 08:08:12",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BRUCE",
-    "updated": "05 Sep 2025 09:21:57"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CALWELL",
     "id": "059038-05092025",
     "latitude": "-35.441132",
@@ -211,7 +193,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "05 Sep 2025 09:21:21"
+    "updated": "05 Sep 2025 09:38:25"
   },
   {
     "agency": "Ambulance",
@@ -303,7 +285,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "05 Sep 2025 09:15:16"
+    "updated": "05 Sep 2025 09:32:09"
   },
   {
     "agency": "Ambulance",
@@ -315,13 +297,13 @@
     "longitude": "149.094654",
     "region": "act",
     "time_of_call": "05 Sep 2025 08:44:14",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "05 Sep 2025 09:25:58"
+    "updated": "05 Sep 2025 09:44:33"
   },
   {
     "agency": "Ambulance",
@@ -339,7 +321,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "05 Sep 2025 09:29:42"
+    "updated": "05 Sep 2025 09:32:32"
   },
   {
     "agency": "Ambulance",
@@ -351,13 +333,31 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "05 Sep 2025 09:27:30",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "05 Sep 2025 09:29:13"
+    "updated": "05 Sep 2025 09:43:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "059059-05092025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "05 Sep 2025 09:38:07",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "05 Sep 2025 09:47:10"
   },
   {
     "title": "BREWERS RD, KIPPENDUFF",
@@ -765,28 +765,6 @@
     "updated": "4 Sep 2025 20:07"
   },
   {
-    "title": "KALINDA RD, INVERGOWRIE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617879",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.5294494629999",
-    "longitude": "151.514556885",
-    "region": "nsw",
-    "time_of_call": "04 Sep 2025 18:52:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "186 KALINDA RD, INVERGOWRIE 2350",
-    "council_area": "Uralla",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Sep 2025 18:52"
-  },
-  {
     "title": "RIDGEWOOD DR, RALEIGH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617901",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1080,26 +1058,6 @@
     "updated": "5 Sep 2025 07:49"
   },
   {
-    "title": "MEDOWIE RD, FERODALE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617998",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.669231415",
-    "longitude": "151.834259033",
-    "region": "nsw",
-    "time_of_call": "05 Sep 2025 09:02:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "MEDOWIE RD, FERODALE 2318",
-    "council_area": "Port Stephens",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2025 09:02"
-  },
-  {
     "title": "ORANGE GROVE RD, GUNNEDAH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617999",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1129,9 +1087,9 @@
     "latitude": "-33.680938721",
     "longitude": "151.272979736",
     "region": "nsw",
-    "time_of_call": "05 Sep 2025 09:23:00",
+    "time_of_call": "05 Sep 2025 09:45:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MONA VALE RD, INGLESIDE 2101",
     "council_area": "Northern Beaches",
@@ -1141,6 +1099,50 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Sep 2025 09:23"
+    "updated": "5 Sep 2025 09:45"
+  },
+  {
+    "title": "PRINCES (SOUTHBOUND) MTWY, HELENSBURGH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618002",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.1615829469999",
+    "longitude": "150.981491089",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2025 09:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "M1 PRINCES (SOUTHBOUND) MTWY, HELENSBURGH 2508",
+    "council_area": "Wollongong",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2025 09:30"
+  },
+  {
+    "title": "MOWBRAY PARK RD, LAKESLAND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618003",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.171543121",
+    "longitude": "150.542724609",
+    "region": "nsw",
+    "time_of_call": "05 Sep 2025 09:31:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "220 MOWBRAY PARK RD, LAKESLAND 2572",
+    "council_area": "Wollondilly",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Sep 2025 09:31"
   }
 ]
