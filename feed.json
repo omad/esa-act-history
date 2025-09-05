@@ -91,7 +91,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "06 Sep 2025 04:02:56"
+    "updated": "06 Sep 2025 05:11:23"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUME",
-    "updated": "06 Sep 2025 04:44:19"
+    "updated": "06 Sep 2025 04:59:26"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "06 Sep 2025 04:37:46"
+    "updated": "06 Sep 2025 05:11:27"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +157,31 @@
     "longitude": "149.036274",
     "region": "act",
     "time_of_call": "06 Sep 2025 04:42:29",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WRIGHT",
+    "updated": "06 Sep 2025 04:55:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "059282-06092025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "06 Sep 2025 05:10:45",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "WRIGHT",
-    "updated": "06 Sep 2025 04:48:08"
+    "location": "BELCONNEN",
+    "updated": "06 Sep 2025 05:17:28"
   },
   {
     "title": "Meredith Cres HR",
@@ -1076,28 +1094,6 @@
     "updated": "6 Sep 2025 03:08"
   },
   {
-    "title": "MARKWELL BACK RD, MARKWELL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618146",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.330661774",
-    "longitude": "152.200592042",
-    "region": "nsw",
-    "time_of_call": "06 Sep 2025 04:08:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "633 MARKWELL BACK RD, MARKWELL 2423",
-    "council_area": "Mid-Coast",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2025 04:08"
-  },
-  {
     "title": "BRIDGMAN RD, BRIDGMAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618147",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1105,9 +1101,9 @@
     "latitude": "-32.454990387",
     "longitude": "151.179412842",
     "region": "nsw",
-    "time_of_call": "06 Sep 2025 04:18:00",
+    "time_of_call": "06 Sep 2025 04:51:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1133 BRIDGMAN RD, BRIDGMAN 2330",
     "council_area": "Singleton",
@@ -1117,6 +1113,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2025 04:18"
+    "updated": "6 Sep 2025 04:51"
   }
 ]
