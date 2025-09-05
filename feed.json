@@ -49,15 +49,15 @@
     "longitude": "149.0577556899",
     "region": "act",
     "time_of_call": "06 Sep 2025 08:26:26",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
     "status_filter_label": "Active",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "COOLING PLACE, FLOREY, 2615",
-    "updated": "06 Sep 2025 08:30:40"
+    "updated": "06 Sep 2025 08:45:13"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "06 Sep 2025 08:03:45"
+    "updated": "06 Sep 2025 08:48:39"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "06 Sep 2025 08:34:33"
+    "updated": "06 Sep 2025 08:44:39"
   },
   {
     "agency": "Ambulance",
@@ -148,6 +148,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
     "updated": "06 Sep 2025 08:09:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "059312-06092025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "06 Sep 2025 08:48:06",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "06 Sep 2025 08:48:54"
   },
   {
     "title": "Meredith Cres HR",
@@ -421,7 +439,7 @@
     "latitude": "-31.3927688599999",
     "longitude": "152.821029663",
     "region": "nsw",
-    "time_of_call": "05 Sep 2025 15:53:00",
+    "time_of_call": "06 Sep 2025 08:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -433,7 +451,7 @@
     "fire": "Yes",
     "size": "100 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "5 Sep 2025 15:53"
+    "updated": "6 Sep 2025 08:41"
   },
   {
     "title": "The Farm HR",
@@ -1114,7 +1132,7 @@
     "latitude": "-30.218000412",
     "longitude": "152.975585938",
     "region": "nsw",
-    "time_of_call": "06 Sep 2025 08:15:00",
+    "time_of_call": "06 Sep 2025 08:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1126,6 +1144,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Sep 2025 08:15"
+    "updated": "6 Sep 2025 08:41"
+  },
+  {
+    "title": "COMLEROY RD, KURRAJONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618161",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.501674652",
+    "longitude": "150.711471558",
+    "region": "nsw",
+    "time_of_call": "06 Sep 2025 08:42:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "671 COMLEROY RD, KURRAJONG 2758",
+    "council_area": "Hawkesbury",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Sep 2025 08:42"
   }
 ]
