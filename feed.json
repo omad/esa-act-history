@@ -55,7 +55,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "07 Sep 2025 08:11:47"
+    "updated": "07 Sep 2025 08:23:03"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "07 Sep 2025 08:02:40"
+    "updated": "07 Sep 2025 08:31:50"
   },
   {
     "agency": "Ambulance",
@@ -115,37 +115,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BANKS",
-    "id": "059563-07092025",
-    "latitude": "-35.471552",
-    "longitude": "149.100249",
-    "region": "act",
-    "time_of_call": "07 Sep 2025 06:55:10",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BANKS",
-    "updated": "07 Sep 2025 07:40:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONASH",
     "id": "059571-07092025",
     "latitude": "-35.413962",
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "07 Sep 2025 07:34:28",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "07 Sep 2025 08:13:19"
+    "updated": "07 Sep 2025 08:27:23"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +193,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "07 Sep 2025 08:18:16",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "07 Sep 2025 08:21:53"
+    "updated": "07 Sep 2025 08:26:34"
   },
   {
     "title": "Meredith Cres HR",
@@ -1006,9 +988,9 @@
     "latitude": "-30.347843171",
     "longitude": "152.707015991",
     "region": "nsw",
-    "time_of_call": "07 Sep 2025 07:09:00",
+    "time_of_call": "07 Sep 2025 08:19:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "97 WHISKY CREEK RD, DORRIGO 2453",
     "council_area": "Bellingen",
@@ -1018,6 +1000,50 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Sep 2025 07:09"
+    "updated": "7 Sep 2025 08:19"
+  },
+  {
+    "title": "POYNTEN DR, EMERALD BEACH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618318",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.161279678",
+    "longitude": "153.176513672",
+    "region": "nsw",
+    "time_of_call": "07 Sep 2025 08:17:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "17 POYNTEN DR, EMERALD BEACH 2456",
+    "council_area": "Coffs Harbour",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Sep 2025 08:17"
+  },
+  {
+    "title": "RIVERSIDE DR, JUGIONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618319",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.824588776",
+    "longitude": "148.329223633",
+    "region": "nsw",
+    "time_of_call": "07 Sep 2025 08:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "299 RIVERSIDE DR, JUGIONG 2726",
+    "council_area": "Hilltops",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Sep 2025 08:29"
   }
 ]
