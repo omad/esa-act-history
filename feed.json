@@ -73,25 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "07 Sep 2025 04:08:16"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CURTIN",
-    "id": "059549-07092025",
-    "latitude": "-35.326585",
-    "longitude": "149.076856",
-    "region": "act",
-    "time_of_call": "07 Sep 2025 04:05:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CURTIN",
-    "updated": "07 Sep 2025 04:17:40"
+    "updated": "07 Sep 2025 04:46:24"
   },
   {
     "agency": "Ambulance",
@@ -103,13 +85,31 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "07 Sep 2025 04:15:35",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "07 Sep 2025 04:29:21"
+    "updated": "07 Sep 2025 04:46:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "059551-07092025",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "07 Sep 2025 04:37:12",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "07 Sep 2025 04:45:23"
   },
   {
     "title": "Meredith Cres HR",
@@ -967,9 +967,9 @@
     "latitude": "-34.464859009",
     "longitude": "150.812393189",
     "region": "nsw",
-    "time_of_call": "07 Sep 2025 04:20:00",
+    "time_of_call": "07 Sep 2025 04:42:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "50 WYLLIE RD, KEMBLA GRANGE 2526",
     "council_area": "Wollongong",
@@ -977,19 +977,19 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Sep 2025 04:20"
+    "updated": "7 Sep 2025 04:42"
   },
   {
     "title": "MACARTHUR DR, WILTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618308",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.266979218",
-    "longitude": "150.714447022",
+    "latitude": "-34.2548294069999",
+    "longitude": "150.723266602",
     "region": "nsw",
-    "time_of_call": "07 Sep 2025 04:25:00",
+    "time_of_call": "07 Sep 2025 04:39:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MACARTHUR DR, WILTON 2571",
     "council_area": "Wollondilly",
@@ -997,6 +997,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Sep 2025 04:25"
+    "updated": "7 Sep 2025 04:39"
   }
 ]
