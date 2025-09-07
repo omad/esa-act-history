@@ -55,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
-    "updated": "08 Sep 2025 05:39:22"
+    "updated": "08 Sep 2025 06:01:31"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "08 Sep 2025 05:15:11"
+    "updated": "08 Sep 2025 05:59:30"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "08 Sep 2025 05:42:48"
+    "updated": "08 Sep 2025 06:00:13"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "08 Sep 2025 05:43:07"
+    "updated": "08 Sep 2025 05:52:26"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "08 Sep 2025 05:46:29"
+    "updated": "08 Sep 2025 06:19:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "059808-08092025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "08 Sep 2025 05:57:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "08 Sep 2025 06:03:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "059810-08092025",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "08 Sep 2025 06:19:00",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "08 Sep 2025 06:23:20"
   },
   {
     "title": "Meredith Cres HR",
@@ -864,31 +900,6 @@
     "updated": "7 Sep 2025 18:19"
   },
   {
-    "title": "Jewry St, Taminda",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618382",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.082659",
-    "longitude": "150.915986",
-    "region": "nsw",
-    "time_of_call": "07 Sep 2025 17:02:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Jewry St, Taminda, NSW 2340",
-    "council_area": "Tamworth",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Sep 2025 17:02"
-  },
-  {
     "title": "REDBANK RD, TRIANGLE FLAT",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618384",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -999,47 +1010,65 @@
     "updated": "7 Sep 2025 21:48"
   },
   {
-    "title": "TURON GATES RD, CAPERTEE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618410",
+    "title": "GEORGE DOWNES DR, KULNURA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618431",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.139743805",
-    "longitude": "149.970458984",
+    "latitude": "-33.251098633",
+    "longitude": "151.217178344",
     "region": "nsw",
-    "time_of_call": "07 Sep 2025 19:57:00",
+    "time_of_call": "08 Sep 2025 06:05:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "19 TURON GATES RD, CAPERTEE 2846",
-    "council_area": "Lithgow",
+    "location": "759 GEORGE DOWNES DR, KULNURA 2250",
+    "council_area": "Central Coast",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Sep 2025 06:05"
+  },
+  {
+    "title": "PRINCE EDWARD AV, CULBURRA BEACH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618432",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.9059295659999",
+    "longitude": "150.76158142",
+    "region": "nsw",
+    "time_of_call": "08 Sep 2025 06:10:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "PRINCE EDWARD AV, CULBURRA BEACH 2540",
+    "council_area": "Shoalhaven",
     "type": "Bush Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Sep 2025 19:57"
+    "updated": "8 Sep 2025 06:10"
   },
   {
-    "title": "GRETA PARK, GRETA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618414",
+    "title": "MYOORA RD, TERREY HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618433",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.684036254",
-    "longitude": "151.396087647",
+    "latitude": "-33.696884155",
+    "longitude": "151.214492798",
     "region": "nsw",
-    "time_of_call": "07 Sep 2025 21:26:00",
+    "time_of_call": "08 Sep 2025 06:16:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "GRETA PARK, GRETA 2334",
-    "council_area": "Cessnock",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
+    "location": "35 MYOORA RD, TERREY HILLS 2084",
+    "council_area": "Northern Beaches",
+    "type": "Assist Other Agency",
+    "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Sep 2025 21:26"
+    "updated": "8 Sep 2025 06:16"
   }
 ]
