@@ -55,7 +55,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "08 Sep 2025 08:29:59"
+    "updated": "08 Sep 2025 08:46:21"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "08 Sep 2025 08:19:28"
+    "updated": "08 Sep 2025 08:36:04"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "08 Sep 2025 08:19:00"
+    "updated": "08 Sep 2025 08:38:17"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
-    "updated": "08 Sep 2025 08:19:19"
+    "updated": "08 Sep 2025 08:40:24"
   },
   {
     "agency": "Ambulance",
@@ -265,13 +265,13 @@
     "longitude": "149.165368",
     "region": "act",
     "time_of_call": "08 Sep 2025 08:22:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
-    "updated": "08 Sep 2025 08:30:37"
+    "updated": "08 Sep 2025 08:39:39"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +289,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FORREST",
-    "updated": "08 Sep 2025 08:29:40"
+    "updated": "08 Sep 2025 08:36:38"
   },
   {
     "agency": "Ambulance",
@@ -307,7 +307,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "08 Sep 2025 08:33:51"
+    "updated": "08 Sep 2025 08:45:52"
   },
   {
     "agency": "Ambulance",
@@ -325,7 +325,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "08 Sep 2025 08:31:17"
+    "updated": "08 Sep 2025 08:38:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUME",
+    "id": "059846-08092025",
+    "latitude": "-35.383449",
+    "longitude": "149.170863",
+    "region": "act",
+    "time_of_call": "08 Sep 2025 08:35:06",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUME",
+    "updated": "08 Sep 2025 08:38:44"
   },
   {
     "title": "Meredith Cres HR",
@@ -416,6 +434,28 @@
     "updated": "7 Sep 2025 14:58"
   },
   {
+    "title": "Outlaw HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617687",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.0358066549999",
+    "longitude": "152.721755981",
+    "region": "nsw",
+    "time_of_call": "08 Sep 2025 08:37:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "119 MOONEBA RD, MOONEBA 2440",
+    "council_area": "Kempsey",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "19 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Sep 2025 08:37"
+  },
+  {
     "title": "Centre Rd South HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_617756",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -423,7 +463,7 @@
     "latitude": "-29.515662237",
     "longitude": "152.925009727",
     "region": "nsw",
-    "time_of_call": "07 Sep 2025 21:28:00",
+    "time_of_call": "08 Sep 2025 08:44:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -435,7 +475,7 @@
     "fire": "Yes",
     "size": "702 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "7 Sep 2025 21:28"
+    "updated": "8 Sep 2025 08:44"
   },
   {
     "title": "Yiraaldiya East Cultural Burn",
@@ -756,10 +796,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618112",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.342105865",
-    "longitude": "149.703552246",
+    "latitude": "-33.3357671109999",
+    "longitude": "149.703547954",
     "region": "nsw",
-    "time_of_call": "08 Sep 2025 08:19:00",
+    "time_of_call": "08 Sep 2025 08:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -772,9 +812,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "3 ha",
+    "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Sep 2025 08:19"
+    "updated": "8 Sep 2025 08:43"
   },
   {
     "title": "CRAVEN PLATEAU RD, CRAVEN PLATEAU",
@@ -819,28 +859,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Sep 2025 08:23"
-  },
-  {
-    "title": "PARK RD, WALLACIA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618205",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.869659423",
-    "longitude": "150.650329589",
-    "region": "nsw",
-    "time_of_call": "08 Sep 2025 08:21:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "90 PARK RD, WALLACIA 2745",
-    "council_area": "Penrith",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Sep 2025 08:21"
   },
   {
     "title": "PURLEWAUGH RD, ULAMAMBRI",
@@ -960,7 +978,7 @@
     "latitude": "-30.900590896",
     "longitude": "153.044830322",
     "region": "nsw",
-    "time_of_call": "07 Sep 2025 07:19:00",
+    "time_of_call": "08 Sep 2025 08:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -972,7 +990,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Sep 2025 07:19"
+    "updated": "8 Sep 2025 08:31"
   },
   {
     "title": "Nepean Depot N2",
@@ -1004,7 +1022,7 @@
     "latitude": "-35.131649017",
     "longitude": "148.936279296",
     "region": "nsw",
-    "time_of_call": "08 Sep 2025 08:25:00",
+    "time_of_call": "08 Sep 2025 08:37:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1016,7 +1034,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Sep 2025 08:25"
+    "updated": "8 Sep 2025 08:37"
   },
   {
     "title": "ROCKY RIVER RD, ROCKY RIVER",
@@ -1026,7 +1044,7 @@
     "latitude": "-29.102300644",
     "longitude": "152.348709107",
     "region": "nsw",
-    "time_of_call": "07 Sep 2025 18:19:00",
+    "time_of_call": "08 Sep 2025 08:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1041,7 +1059,7 @@
     "fire": "Yes",
     "size": "10 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Sep 2025 18:19"
+    "updated": "8 Sep 2025 08:32"
   },
   {
     "title": "PADDYS FLAT RD, TABULAM",
@@ -1192,28 +1210,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Sep 2025 08:07"
-  },
-  {
-    "title": "STURT ST, HOWLONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618437",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.979835511",
-    "longitude": "146.624664307",
-    "region": "nsw",
-    "time_of_call": "08 Sep 2025 08:25:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "91-97 STURT ST, HOWLONG 2643",
-    "council_area": "Federation",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Sep 2025 08:25"
   },
   {
     "title": "THE IRONS DRIVE, WILTON",
