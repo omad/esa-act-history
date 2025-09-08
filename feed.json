@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "09 Sep 2025 05:05:32"
+    "updated": "09 Sep 2025 05:45:07"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,13 @@
     "longitude": "149.088064",
     "region": "act",
     "time_of_call": "09 Sep 2025 03:59:57",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "09 Sep 2025 05:20:08"
+    "updated": "09 Sep 2025 05:34:02"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "09 Sep 2025 05:26:36"
+    "updated": "09 Sep 2025 05:46:59"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "09 Sep 2025 04:45:58"
+    "updated": "09 Sep 2025 05:40:02"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "09 Sep 2025 04:54:58"
+    "updated": "09 Sep 2025 05:39:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DOWNER",
+    "id": "060080-09092025",
+    "latitude": "-35.245131",
+    "longitude": "149.143546",
+    "region": "act",
+    "time_of_call": "09 Sep 2025 05:44:14",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DOWNER",
+    "updated": "09 Sep 2025 05:47:45"
   },
   {
     "title": "Meredith Cres HR",
@@ -897,9 +915,9 @@
     "latitude": "-36.03181839",
     "longitude": "146.368881225",
     "region": "nsw",
-    "time_of_call": "09 Sep 2025 05:00:00",
+    "time_of_call": "09 Sep 2025 05:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "29 NEILL ST, COROWA 2646",
     "council_area": "Federation",
@@ -909,7 +927,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "9 Sep 2025 05:00"
+    "updated": "9 Sep 2025 05:27"
   },
   {
     "title": "LACMALAC RD, BOMBOWLEE",
@@ -919,9 +937,9 @@
     "latitude": "-35.2974014289999",
     "longitude": "148.240219116",
     "region": "nsw",
-    "time_of_call": "09 Sep 2025 05:17:00",
+    "time_of_call": "09 Sep 2025 05:34:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "81 LACMALAC RD, BOMBOWLEE 2720",
     "council_area": "Snowy Valleys",
@@ -929,29 +947,29 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Sep 2025 05:17"
+    "updated": "9 Sep 2025 05:34"
   },
   {
     "title": "FACTORY LANE, JAMBEROO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618551",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.6473312379999",
-    "longitude": "150.791809082",
+    "latitude": "-34.644947052",
+    "longitude": "150.791168213",
     "region": "nsw",
-    "time_of_call": "09 Sep 2025 05:18:00",
+    "time_of_call": "09 Sep 2025 05:34:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "23 FACTORY LANE, JAMBEROO 2533",
     "council_area": "Kiama",
-    "type": "Grass Fire",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Sep 2025 05:18"
+    "updated": "9 Sep 2025 05:34"
   },
   {
     "title": "WATTLE ST, BOWEN MOUNTAIN",
@@ -961,9 +979,9 @@
     "latitude": "-33.573875427",
     "longitude": "150.627868653",
     "region": "nsw",
-    "time_of_call": "09 Sep 2025 05:22:00",
+    "time_of_call": "09 Sep 2025 05:45:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "WATTLE ST, BOWEN MOUNTAIN 2753",
     "council_area": "Hawkesbury",
@@ -973,7 +991,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Sep 2025 05:22"
+    "updated": "9 Sep 2025 05:45"
   },
   {
     "title": "PILLAR ST, BELLBIRD",
