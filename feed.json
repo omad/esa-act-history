@@ -45,13 +45,13 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "09 Sep 2025 01:59:46",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "09 Sep 2025 04:29:55"
+    "updated": "09 Sep 2025 04:40:29"
   },
   {
     "agency": "Ambulance",
@@ -70,24 +70,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
     "updated": "09 Sep 2025 02:48:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MELBA",
-    "id": "060061-09092025",
-    "latitude": "-35.209077",
-    "longitude": "149.057326",
-    "region": "act",
-    "time_of_call": "09 Sep 2025 03:14:13",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MELBA",
-    "updated": "09 Sep 2025 04:01:34"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +141,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "09 Sep 2025 04:18:48"
+    "updated": "09 Sep 2025 04:50:05"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +153,13 @@
     "longitude": "149.076955",
     "region": "act",
     "time_of_call": "09 Sep 2025 04:28:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHIFLEY",
-    "updated": "09 Sep 2025 04:31:54"
+    "updated": "09 Sep 2025 04:39:22"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +171,31 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "09 Sep 2025 04:33:59",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "09 Sep 2025 04:34:34"
+    "updated": "09 Sep 2025 04:45:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PALMERSTON",
+    "id": "060071-09092025",
+    "latitude": "-35.193269",
+    "longitude": "149.1195",
+    "region": "act",
+    "time_of_call": "09 Sep 2025 04:44:44",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PALMERSTON",
+    "updated": "09 Sep 2025 04:49:58"
   },
   {
     "title": "Meredith Cres HR",
@@ -953,9 +953,9 @@
     "latitude": "-34.635209",
     "longitude": "150.855748",
     "region": "nsw",
-    "time_of_call": "09 Sep 2025 04:17:00",
+    "time_of_call": "09 Sep 2025 04:34:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -968,7 +968,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "9 Sep 2025 04:17"
+    "updated": "9 Sep 2025 04:34"
   },
   {
     "title": "JOHNSON ST, KIAMA DOWNS",
@@ -978,9 +978,9 @@
     "latitude": "-34.6303329469999",
     "longitude": "150.85873413",
     "region": "nsw",
-    "time_of_call": "09 Sep 2025 04:19:00",
+    "time_of_call": "09 Sep 2025 04:37:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "JOHNSON ST, KIAMA DOWNS 2533",
     "council_area": "Kiama",
@@ -990,6 +990,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "9 Sep 2025 04:19"
+    "updated": "9 Sep 2025 04:37"
   }
 ]
