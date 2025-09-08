@@ -89,7 +89,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "08 Sep 2025 16:44:29"
+    "updated": "08 Sep 2025 17:26:49"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "08 Sep 2025 17:21:47"
+    "updated": "08 Sep 2025 17:24:21"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +215,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "08 Sep 2025 16:56:16"
+    "updated": "08 Sep 2025 17:35:26"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +233,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "08 Sep 2025 17:07:33"
+    "updated": "08 Sep 2025 17:34:59"
   },
   {
     "agency": "Ambulance",
@@ -263,13 +263,13 @@
     "longitude": "149.078026",
     "region": "act",
     "time_of_call": "08 Sep 2025 17:10:32",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "OXLEY",
-    "updated": "08 Sep 2025 17:15:44"
+    "updated": "08 Sep 2025 17:34:03"
   },
   {
     "agency": "Ambulance",
@@ -287,7 +287,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "08 Sep 2025 17:21:56"
+    "updated": "08 Sep 2025 17:34:10"
   },
   {
     "agency": "Ambulance",
@@ -299,13 +299,31 @@
     "longitude": "149.117192",
     "region": "act",
     "time_of_call": "08 Sep 2025 17:21:43",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "08 Sep 2025 17:23:08"
+    "updated": "08 Sep 2025 17:30:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "059972-08092025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "08 Sep 2025 17:28:22",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "08 Sep 2025 17:34:06"
   },
   {
     "title": "Meredith Cres HR",
@@ -852,19 +870,22 @@
     "latitude": "-32.363868714",
     "longitude": "149.668945313",
     "region": "nsw",
-    "time_of_call": "08 Sep 2025 11:55:00",
+    "time_of_call": "08 Sep 2025 17:31:00",
     "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "453 CYPRESS DR, YARRAWONGA 2850",
     "council_area": "Mid-Western",
-    "type": "Burn off",
+    "type": "Bush Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Sep 2025 11:55"
+    "updated": "8 Sep 2025 17:31"
   },
   {
     "title": "BARGO RIVER RD, TAHMOOR",
@@ -1034,8 +1055,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618487",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.819570542",
-    "longitude": "152.788040161",
+    "latitude": "-29.809816584",
+    "longitude": "152.786951065",
     "region": "nsw",
     "time_of_call": "08 Sep 2025 16:13:00",
     "event_type": "burnt area",
@@ -1053,28 +1074,6 @@
     "size": "54 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "8 Sep 2025 16:13"
-  },
-  {
-    "title": "CAMP RESERVE RD, GWABEGAR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618488",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.5382518769999",
-    "longitude": "148.958511352",
-    "region": "nsw",
-    "time_of_call": "08 Sep 2025 17:21:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "CAMP RESERVE RD, GWABEGAR 2356",
-    "council_area": "Narrabri",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Sep 2025 17:21"
   },
   {
     "title": "Long Swamp Rd, Armidale",
