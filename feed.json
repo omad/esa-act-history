@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "09 Sep 2025 09:05:40"
+    "updated": "09 Sep 2025 09:23:36"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "09 Sep 2025 09:11:44"
+    "updated": "09 Sep 2025 09:29:46"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FYSHWICK",
-    "updated": "09 Sep 2025 09:21:00"
+    "updated": "09 Sep 2025 09:29:35"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "09 Sep 2025 09:21:45"
+    "updated": "09 Sep 2025 09:23:41"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "060130-09092025",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "09 Sep 2025 09:30:34",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "09 Sep 2025 09:31:55"
   },
   {
     "title": "Meredith Cres HR",
@@ -1067,9 +1085,9 @@
     "latitude": "-31.946035385",
     "longitude": "152.47052002",
     "region": "nsw",
-    "time_of_call": "09 Sep 2025 09:04:00",
+    "time_of_call": "09 Sep 2025 09:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "PACIFIC HWY, GLENTHORNE 2430",
     "council_area": "Mid-Coast",
@@ -1079,7 +1097,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Sep 2025 09:04"
+    "updated": "9 Sep 2025 09:23"
   },
   {
     "title": "OCONNELL PLAINS RD, OCONNELL",
@@ -1102,5 +1120,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Sep 2025 09:09"
+  },
+  {
+    "title": "GREENDALE RD, WALLACIA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618569",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.8780288689999",
+    "longitude": "150.642608642",
+    "region": "nsw",
+    "time_of_call": "09 Sep 2025 09:21:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GREENDALE RD, WALLACIA 2745",
+    "council_area": "Liverpool",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Sep 2025 09:21"
   }
 ]
