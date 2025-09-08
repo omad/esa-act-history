@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "08 Sep 2025 20:27:20"
+    "updated": "08 Sep 2025 20:49:21"
   },
   {
     "agency": "Ambulance",
@@ -111,24 +111,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUNLOP",
-    "id": "060002-08092025",
-    "latitude": "-35.193951",
-    "longitude": "149.019471",
-    "region": "act",
-    "time_of_call": "08 Sep 2025 19:43:49",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DUNLOP",
-    "updated": "08 Sep 2025 19:57:59"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KAMBAH",
     "id": "060004-08092025",
     "latitude": "-35.384074",
@@ -141,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "08 Sep 2025 20:16:07"
+    "updated": "08 Sep 2025 20:48:08"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +135,13 @@
     "longitude": "149.025004",
     "region": "act",
     "time_of_call": "08 Sep 2025 19:57:28",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DENMAN PROSPECT",
-    "updated": "08 Sep 2025 20:12:05"
+    "updated": "08 Sep 2025 20:38:48"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "08 Sep 2025 20:28:51"
+    "updated": "08 Sep 2025 20:36:39"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +177,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "08 Sep 2025 20:28:39"
+    "updated": "08 Sep 2025 20:34:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THROSBY",
+    "id": "060010-08092025",
+    "latitude": "-35.187595",
+    "longitude": "149.161141",
+    "region": "act",
+    "time_of_call": "08 Sep 2025 20:46:38",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THROSBY",
+    "updated": "08 Sep 2025 20:49:54"
   },
   {
     "title": "Meredith Cres HR",
@@ -882,51 +882,26 @@
     "updated": "8 Sep 2025 19:51"
   },
   {
-    "title": "Alpha St, Bathurst",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618524",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.425537",
-    "longitude": "149.586344",
-    "region": "nsw",
-    "time_of_call": "08 Sep 2025 20:14:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Alpha St, Bathurst, NSW 2795",
-    "council_area": "Bathurst",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Sep 2025 20:14"
-  },
-  {
-    "title": "YARRAWONGA RD, HOME RULE",
+    "title": "BERNARDS RD, YARRAWONGA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618525",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.4181480409999",
-    "longitude": "149.630020141",
+    "latitude": "-32.39466858",
+    "longitude": "149.635009766",
     "region": "nsw",
-    "time_of_call": "08 Sep 2025 20:10:00",
+    "time_of_call": "08 Sep 2025 20:43:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "YARRAWONGA RD, HOME RULE 2850",
+    "location": "29 BERNARDS RD, YARRAWONGA 2850",
     "council_area": "Mid-Western",
-    "type": "Bush Fire",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Sep 2025 20:10"
+    "updated": "8 Sep 2025 20:43"
   },
   {
     "title": "ALPHA ST, BATHURST",
@@ -936,7 +911,7 @@
     "latitude": "-33.4255371099999",
     "longitude": "149.586349487",
     "region": "nsw",
-    "time_of_call": "08 Sep 2025 20:12:00",
+    "time_of_call": "08 Sep 2025 20:35:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
@@ -946,6 +921,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Sep 2025 20:12"
+    "updated": "8 Sep 2025 20:35"
   }
 ]
