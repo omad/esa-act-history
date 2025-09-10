@@ -23,26 +23,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - NARRABUNDAH",
-    "id": "013812-10092025",
-    "latitude": "-35.33050999",
-    "longitude": "149.14359899",
-    "region": "act",
-    "time_of_call": "10 Sep 2025 14:07:47",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "STUART STREET, STRZELECKI CRESCENT, NARRABUNDAH, 2604",
-    "updated": "10 Sep 2025 14:28:17"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "RUBBISH FIRE - HOLT",
     "id": "013815-10092025",
     "latitude": "-35.22374414",
@@ -58,6 +38,26 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
     "location": "MESSENGER STREET, HOLT, 2615",
     "updated": "10 Sep 2025 15:21:01"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STORM OR TREE DAMAGE - NICHOLLS",
+    "id": "013817-10092025",
+    "latitude": "-35.1901672199",
+    "longitude": "149.0890627599",
+    "region": "act",
+    "time_of_call": "10 Sep 2025 15:33:57",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "PEKEN PLACE, NICHOLLS, 2913",
+    "updated": "10 Sep 2025 15:36:02"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "10 Sep 2025 15:22:53"
+    "updated": "10 Sep 2025 15:35:56"
   },
   {
     "agency": "Ambulance",
@@ -171,24 +171,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
-    "id": "060456-10092025",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
-    "region": "act",
-    "time_of_call": "10 Sep 2025 14:05:48",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CANBERRA AIRPORT",
-    "updated": "10 Sep 2025 14:43:55"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WATSON",
     "id": "060469-10092025",
     "latitude": "-35.234652",
@@ -201,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "10 Sep 2025 15:19:23"
+    "updated": "10 Sep 2025 15:36:53"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "10 Sep 2025 14:57:30"
+    "updated": "10 Sep 2025 15:31:30"
   },
   {
     "agency": "Ambulance",
@@ -237,7 +219,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MAJURA",
-    "updated": "10 Sep 2025 15:05:28"
+    "updated": "10 Sep 2025 15:30:42"
   },
   {
     "agency": "Ambulance",
@@ -267,13 +249,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "10 Sep 2025 14:58:16",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "10 Sep 2025 15:07:29"
+    "updated": "10 Sep 2025 15:25:15"
   },
   {
     "agency": "Ambulance",
@@ -328,6 +310,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
     "updated": "10 Sep 2025 15:19:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUFFY",
+    "id": "060487-10092025",
+    "latitude": "-35.336273",
+    "longitude": "149.031217",
+    "region": "act",
+    "time_of_call": "10 Sep 2025 15:24:12",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUFFY",
+    "updated": "10 Sep 2025 15:33:09"
   },
   {
     "title": "Meredith Cres HR",
@@ -632,9 +632,9 @@
     "latitude": "-29.6719456129999",
     "longitude": "152.617950439",
     "region": "nsw",
-    "time_of_call": "10 Sep 2025 11:20:00",
+    "time_of_call": "10 Sep 2025 15:29:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -647,7 +647,7 @@
     "fire": "Yes",
     "size": "344 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Sep 2025 11:20"
+    "updated": "10 Sep 2025 15:29"
   },
   {
     "title": "THE BUCKETTS WAY COMPLEX",
@@ -761,28 +761,6 @@
     "updated": "10 Sep 2025 14:35"
   },
   {
-    "title": "(PACIFIC MTWY), COWAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618714",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.5840339659999",
-    "longitude": "151.185699463",
-    "region": "nsw",
-    "time_of_call": "10 Sep 2025 14:58:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "M1 (PACIFIC MTWY), COWAN 2081",
-    "council_area": "Hornsby",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Sep 2025 14:58"
-  },
-  {
     "title": "ROLLANDS PLAINS RD, TELEGRAPH POINT",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618715",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -865,5 +843,47 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "10 Sep 2025 15:19"
+  },
+  {
+    "title": "CASWELL ST, PEAK HILL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618719",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.7180442819999",
+    "longitude": "148.188781738",
+    "region": "nsw",
+    "time_of_call": "10 Sep 2025 15:28:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "3 CASWELL ST, PEAK HILL 2869",
+    "council_area": "Parkes",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "10 Sep 2025 15:28"
+  },
+  {
+    "title": "MOUNT OUSLEY RD, CATARACT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618720",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.371559143",
+    "longitude": "150.860046386",
+    "region": "nsw",
+    "time_of_call": "10 Sep 2025 15:32:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MOUNT OUSLEY RD, CATARACT 2560",
+    "council_area": "Wollongong",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Sep 2025 15:32"
   }
 ]
