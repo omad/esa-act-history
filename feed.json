@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
     "location": "MONARO HIGHWAY, THEODORE POWERLINE TRACK, TUGGERANONG, 2901",
-    "updated": "12 Sep 2025 04:29:14"
+    "updated": "12 Sep 2025 04:58:33"
   },
   {
     "agency": "Ambulance",
@@ -29,13 +29,13 @@
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "12 Sep 2025 04:15:29",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "12 Sep 2025 04:42:56"
+    "updated": "12 Sep 2025 05:17:30"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,49 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "12 Sep 2025 04:38:50",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "12 Sep 2025 05:08:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "060810-12092025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "12 Sep 2025 05:07:31",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "12 Sep 2025 05:17:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "060811-12092025",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "12 Sep 2025 05:16:43",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CAMPBELL",
-    "updated": "12 Sep 2025 04:45:22"
+    "location": "KALEEN",
+    "updated": "12 Sep 2025 05:17:35"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -371,7 +407,7 @@
     "latitude": "-34.372436524",
     "longitude": "147.494873047",
     "region": "nsw",
-    "time_of_call": "12 Sep 2025 04:37:00",
+    "time_of_call": "12 Sep 2025 04:53:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
@@ -383,7 +419,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Sep 2025 04:37"
+    "updated": "12 Sep 2025 04:53"
   },
   {
     "title": "DEBEAUFORT DR, MUGGA DOWNS",
@@ -393,9 +429,9 @@
     "latitude": "-32.235252381",
     "longitude": "148.704559326",
     "region": "nsw",
-    "time_of_call": "12 Sep 2025 04:37:00",
+    "time_of_call": "12 Sep 2025 05:06:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "34 DEBEAUFORT DR, MUGGA DOWNS 2830",
     "council_area": "Dubbo Regional",
@@ -405,6 +441,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Sep 2025 04:37"
+    "updated": "12 Sep 2025 05:06"
   }
 ]
