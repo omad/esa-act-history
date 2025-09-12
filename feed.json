@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
     "location": "POINT HUT ROAD, TIDBINBILLA ROAD, PADDYS RIVER, 0000",
-    "updated": "12 Sep 2025 19:01:38"
+    "updated": "12 Sep 2025 19:26:24"
   },
   {
     "agency": "Fire",
@@ -121,13 +121,13 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "12 Sep 2025 16:24:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "12 Sep 2025 19:23:49"
+    "updated": "12 Sep 2025 19:25:25"
   },
   {
     "agency": "Ambulance",
@@ -218,24 +218,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
     "updated": "12 Sep 2025 19:17:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DOWNER",
-    "id": "060980-12092025",
-    "latitude": "-35.245131",
-    "longitude": "149.143546",
-    "region": "act",
-    "time_of_call": "12 Sep 2025 17:53:51",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DOWNER",
-    "updated": "12 Sep 2025 18:42:28"
   },
   {
     "agency": "Ambulance",
@@ -355,13 +337,13 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "12 Sep 2025 18:52:26",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": ""
+    "updated": "12 Sep 2025 19:31:22"
   },
   {
     "agency": "Ambulance",
@@ -397,7 +379,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "12 Sep 2025 19:03:33"
+    "updated": "12 Sep 2025 19:34:37"
   },
   {
     "agency": "Ambulance",
@@ -415,7 +397,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "12 Sep 2025 19:07:34"
+    "updated": "12 Sep 2025 19:27:30"
   },
   {
     "agency": "Ambulance",
@@ -481,13 +463,49 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "12 Sep 2025 19:22:54",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "12 Sep 2025 19:23:01"
+    "updated": "12 Sep 2025 19:29:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FORREST",
+    "id": "061005-12092025",
+    "latitude": "-35.318088",
+    "longitude": "149.12506",
+    "region": "act",
+    "time_of_call": "12 Sep 2025 19:26:41",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FORREST",
+    "updated": "12 Sep 2025 19:35:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "061006-12092025",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "12 Sep 2025 19:31:59",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "12 Sep 2025 19:35:16"
   },
   {
     "title": "West Kunderang HR",
@@ -865,26 +883,6 @@
     "updated": "12 Sep 2025 18:24"
   },
   {
-    "title": "WEST HEAD RD, KU-RING-GAI CHASE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618953",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.644306183",
-    "longitude": "151.240676879",
-    "region": "nsw",
-    "time_of_call": "12 Sep 2025 18:49:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WEST HEAD RD, KU-RING-GAI CHASE 2101",
-    "council_area": "Northern Beaches",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Sep 2025 18:49"
-  },
-  {
     "title": "TAYLORS ARM RD, TAYLORS ARM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618955",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -951,28 +949,6 @@
     "updated": "12 Sep 2025 19:08"
   },
   {
-    "title": "HAWKESBURY RD, WINMALEE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618960",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6825141909999",
-    "longitude": "150.597640991",
-    "region": "nsw",
-    "time_of_call": "12 Sep 2025 19:16:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "256 HAWKESBURY RD, WINMALEE 2777",
-    "council_area": "Blue Mountains",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "12 Sep 2025 19:16"
-  },
-  {
     "title": "MOONEY MOONEY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618961",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1015,5 +991,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Sep 2025 18:53"
+  },
+  {
+    "title": "OLD MILL RD, TINGHA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618963",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.920341492",
+    "longitude": "151.20892334",
+    "region": "nsw",
+    "time_of_call": "12 Sep 2025 19:31:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "TORY PARK 259 OLD MILL RD, TINGHA 2369",
+    "council_area": "Inverell",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Sep 2025 19:31"
   }
 ]
