@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "12 Sep 2025 21:14:43"
+    "updated": "12 Sep 2025 21:25:57"
   },
   {
     "agency": "Ambulance",
@@ -103,13 +103,13 @@
     "longitude": "149.146674",
     "region": "act",
     "time_of_call": "12 Sep 2025 18:50:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "12 Sep 2025 21:16:42"
+    "updated": "12 Sep 2025 21:27:14"
   },
   {
     "agency": "Ambulance",
@@ -187,24 +187,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BANKS",
-    "id": "061013-12092025",
-    "latitude": "-35.471552",
-    "longitude": "149.100249",
-    "region": "act",
-    "time_of_call": "12 Sep 2025 20:02:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BANKS",
-    "updated": "12 Sep 2025 20:50:56"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GUNGAHLIN",
     "id": "061014-12092025",
     "latitude": "-35.184984",
@@ -217,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "12 Sep 2025 21:03:49"
+    "updated": "12 Sep 2025 21:26:48"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +217,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "12 Sep 2025 21:03:42"
+    "updated": "12 Sep 2025 21:20:34"
   },
   {
     "agency": "Ambulance",
@@ -295,19 +277,55 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - ARANDA",
-    "id": "061024-12092025",
-    "latitude": "-35.258882",
-    "longitude": "149.079717",
+    "title": "AMBULANCE RESPONSE - FORDE",
+    "id": "061025-12092025",
+    "latitude": "-35.169175",
+    "longitude": "149.145987",
     "region": "act",
-    "time_of_call": "12 Sep 2025 21:09:31",
+    "time_of_call": "12 Sep 2025 21:22:56",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FORDE",
+    "updated": "12 Sep 2025 21:26:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "061026-12092025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "12 Sep 2025 21:27:07",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "ARANDA",
-    "updated": "12 Sep 2025 21:14:09"
+    "location": "GUNGAHLIN",
+    "updated": "12 Sep 2025 21:28:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "061027-12092025",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "12 Sep 2025 21:27:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "12 Sep 2025 21:28:57"
   },
   {
     "title": "West Kunderang HR",
@@ -705,28 +723,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Sep 2025 20:34"
-  },
-  {
-    "title": "FAIRVIEW DR, LILLI PILLI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618965",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.7769699089999",
-    "longitude": "150.230239868",
-    "region": "nsw",
-    "time_of_call": "12 Sep 2025 20:54:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "FAIRVIEW DR, LILLI PILLI 2536",
-    "council_area": "Eurobodalla",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Sep 2025 20:54"
   },
   {
     "title": "SUMMERLAND HWY",
