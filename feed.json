@@ -91,7 +91,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "12 Sep 2025 22:57:34"
+    "updated": "12 Sep 2025 23:47:44"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "12 Sep 2025 22:56:27"
+    "updated": "12 Sep 2025 23:39:58"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "12 Sep 2025 23:26:35"
+    "updated": "12 Sep 2025 23:30:31"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +157,49 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "12 Sep 2025 23:24:53",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "12 Sep 2025 23:35:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "061042-12092025",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "12 Sep 2025 23:40:22",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "12 Sep 2025 23:44:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "061043-12092025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "12 Sep 2025 23:46:22",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "12 Sep 2025 23:29:33"
+    "location": "O'CONNOR",
+    "updated": "12 Sep 2025 23:48:16"
   },
   {
     "title": "West Kunderang HR",
@@ -455,28 +491,6 @@
     "updated": "12 Sep 2025 20:34"
   },
   {
-    "title": "GERRYBANG RD, GRENFELL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618969",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.951766968",
-    "longitude": "148.264297485",
-    "region": "nsw",
-    "time_of_call": "12 Sep 2025 22:26:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "THORNBURY 380 GERRYBANG RD, GRENFELL 2810",
-    "council_area": "Weddin",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Sep 2025 22:26"
-  },
-  {
     "title": "ARMIDALE RD, CLOUDS CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618970",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -504,9 +518,9 @@
     "latitude": "-29.684522629",
     "longitude": "152.88645935",
     "region": "nsw",
-    "time_of_call": "12 Sep 2025 23:19:00",
+    "time_of_call": "12 Sep 2025 23:37:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "SELECTION LANE, WATERVIEW HEIGHTS 2460",
     "council_area": "Clarence Valley",
@@ -514,7 +528,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Sep 2025 23:19"
+    "updated": "12 Sep 2025 23:37"
   },
   {
     "title": "FOXS RD, VALLA",
@@ -524,9 +538,9 @@
     "latitude": "-30.6222858429999",
     "longitude": "152.97567749",
     "region": "nsw",
-    "time_of_call": "12 Sep 2025 23:20:00",
+    "time_of_call": "12 Sep 2025 23:36:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "FOXS RD, VALLA 2448",
     "council_area": "Nambucca Valley",
@@ -536,6 +550,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Sep 2025 23:20"
+    "updated": "12 Sep 2025 23:36"
   }
 ]
