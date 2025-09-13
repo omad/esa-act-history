@@ -40,6 +40,26 @@
     "updated": "13 Sep 2025 16:03:54"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HAZARD REDUCTION BURN - TUGGERANONG",
+    "id": "013974-13092025",
+    "latitude": "-35.5065999998",
+    "longitude": "149.0830000002",
+    "region": "act",
+    "time_of_call": "13 Sep 2025 16:36:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "HAZARD REDUCTION BURN",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
+    "location": "SOUTH LANYON, THARWA DR, TUGGERANONG",
+    "updated": "13 Sep 2025 16:37:15"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -73,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "13 Sep 2025 16:18:51"
+    "updated": "13 Sep 2025 16:33:03"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "13 Sep 2025 16:15:54"
+    "updated": "13 Sep 2025 16:36:41"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +213,13 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "13 Sep 2025 16:05:22",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "13 Sep 2025 16:29:55"
+    "updated": "13 Sep 2025 16:47:31"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +231,67 @@
     "longitude": "149.037677",
     "region": "act",
     "time_of_call": "13 Sep 2025 16:30:10",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "13 Sep 2025 16:31:51"
+    "updated": "13 Sep 2025 16:39:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "061192-13092025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "13 Sep 2025 16:36:10",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "13 Sep 2025 16:41:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "061193-13092025",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "13 Sep 2025 16:39:57",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STIRLING",
+    "updated": "13 Sep 2025 16:43:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NICHOLLS",
+    "id": "061194-13092025",
+    "latitude": "-35.186387",
+    "longitude": "149.094445",
+    "region": "act",
+    "time_of_call": "13 Sep 2025 16:46:26",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NICHOLLS",
+    "updated": "13 Sep 2025 16:47:16"
   },
   {
     "title": "BAKKER DR, BONVILLE",
@@ -296,7 +370,7 @@
     "latitude": "-30.0601057059999",
     "longitude": "153.009724617",
     "region": "nsw",
-    "time_of_call": "13 Sep 2025 13:37:00",
+    "time_of_call": "13 Sep 2025 16:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -308,7 +382,7 @@
     "fire": "Yes",
     "size": "157 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Sep 2025 13:37"
+    "updated": "13 Sep 2025 16:41"
   },
   {
     "title": "Candace Pile Burn",
@@ -397,26 +471,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Sep 2025 20:34"
-  },
-  {
-    "title": "NELSON RD, BOX HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618979",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.662773132",
-    "longitude": "150.908538819",
-    "region": "nsw",
-    "time_of_call": "13 Sep 2025 02:38:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "NELSON RD, BOX HILL 2765",
-    "council_area": "The Hills",
-    "type": "Planned Event",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Sep 2025 02:38"
   },
   {
     "title": "OSPREY DR, URUNGA",
@@ -549,28 +603,6 @@
     "updated": "13 Sep 2025 12:24"
   },
   {
-    "title": "MOSSY ROCK LANE, MONIVAE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_618995",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.681144714",
-    "longitude": "149.920761108",
-    "region": "nsw",
-    "time_of_call": "13 Sep 2025 11:36:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "25 MOSSY ROCK LANE, MONIVAE 2850",
-    "council_area": "Mid-Western",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Sep 2025 11:36"
-  },
-  {
     "title": "DALGARNO ST",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619005",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -633,26 +665,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Sep 2025 13:51"
-  },
-  {
-    "title": "PORTERS RD, KENTHURST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619025",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6095695499999",
-    "longitude": "150.959945679",
-    "region": "nsw",
-    "time_of_call": "13 Sep 2025 16:06:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PORTERS RD, KENTHURST 2156",
-    "council_area": "The Hills",
-    "type": "Search/Rescue",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Sep 2025 16:06"
   },
   {
     "title": "MACS REEF RD, SUTTON",
@@ -837,18 +849,18 @@
     "latitude": "-31.94849205",
     "longitude": "152.344848633",
     "region": "nsw",
-    "time_of_call": "13 Sep 2025 16:19:00",
+    "time_of_call": "13 Sep 2025 16:44:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "5851 THE BUCKETTS WAY, BOOTAWA 2430",
     "council_area": "Mid-Coast",
-    "type": "Structure Fire",
+    "type": "Other",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Sep 2025 16:19"
+    "updated": "13 Sep 2025 16:44"
   }
 ]
