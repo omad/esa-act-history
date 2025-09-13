@@ -57,7 +57,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "DIXSON CIRCUIT, CONDER, 2906",
-    "updated": "13 Sep 2025 15:03:07"
+    "updated": "13 Sep 2025 15:24:27"
   },
   {
     "agency": "Ambulance",
@@ -75,7 +75,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "13 Sep 2025 15:15:29"
+    "updated": "13 Sep 2025 15:27:19"
   },
   {
     "agency": "Ambulance",
@@ -93,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "13 Sep 2025 15:12:34"
+    "updated": "13 Sep 2025 15:29:29"
   },
   {
     "agency": "Ambulance",
@@ -153,24 +153,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LAWSON",
-    "id": "061154-13092025",
-    "latitude": "-35.225525",
-    "longitude": "149.088854",
-    "region": "act",
-    "time_of_call": "13 Sep 2025 13:46:53",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LAWSON",
-    "updated": "13 Sep 2025 14:45:01"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WATSON",
     "id": "061155-13092025",
     "latitude": "-35.234652",
@@ -207,37 +189,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HUGHES",
-    "id": "061166-13092025",
-    "latitude": "-35.333105",
-    "longitude": "149.094654",
-    "region": "act",
-    "time_of_call": "13 Sep 2025 14:21:31",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HUGHES",
-    "updated": "13 Sep 2025 14:29:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - FLOREY",
     "id": "061172-13092025",
     "latitude": "-35.22064205",
     "longitude": "149.0503606",
     "region": "act",
     "time_of_call": "13 Sep 2025 14:54:03",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "WHITTELL CRESCENT, FLOREY, 2615",
-    "updated": "13 Sep 2025 15:21:31"
+    "updated": "13 Sep 2025 15:32:33"
   },
   {
     "agency": "Ambulance",
@@ -267,13 +231,31 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "13 Sep 2025 15:21:31",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "13 Sep 2025 15:21:47"
+    "updated": "13 Sep 2025 15:26:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONCRIEFF",
+    "id": "061180-13092025",
+    "latitude": "-35.158865",
+    "longitude": "149.117806",
+    "region": "act",
+    "time_of_call": "13 Sep 2025 15:25:17",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONCRIEFF",
+    "updated": "13 Sep 2025 15:33:33"
   },
   {
     "title": "BAKKER DR, BONVILLE",
@@ -744,7 +726,7 @@
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "88 MACS REEF RD, SUTTON 2620",
+    "location": "880 MACS REEF RD, SUTTON 2620",
     "council_area": "Queanbeyan-Palerang",
     "type": "Grass Fire",
     "type_description": "",
