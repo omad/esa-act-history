@@ -283,13 +283,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "13 Sep 2025 17:14:50",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "13 Sep 2025 17:18:56"
+    "updated": "13 Sep 2025 17:28:23"
   },
   {
     "agency": "Ambulance",
@@ -307,7 +307,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "13 Sep 2025 17:18:25"
+    "updated": "13 Sep 2025 17:24:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUNLOP",
+    "id": "061201-13092025",
+    "latitude": "-35.193951",
+    "longitude": "149.019471",
+    "region": "act",
+    "time_of_call": "13 Sep 2025 17:23:31",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUNLOP",
+    "updated": "13 Sep 2025 17:28:22"
   },
   {
     "title": "BAKKER DR, BONVILLE",
@@ -912,21 +930,21 @@
     "updated": "13 Sep 2025 17:03"
   },
   {
-    "title": "WINGHAM RD, TAREE",
+    "title": "Wingham Rd, Taree",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619060",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.8740882869999",
-    "longitude": "152.417251587",
+    "latitude": "-31.8859195709999",
+    "longitude": "152.414978028",
     "region": "nsw",
-    "time_of_call": "13 Sep 2025 17:16:00",
+    "time_of_call": "13 Sep 2025 17:24:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "WINGHAM RD, TAREE 2430",
+    "location": "Wingham Rd, Taree, NSW 2430",
     "council_area": "Mid-Coast",
     "type": "Grass Fire",
     "type_description": "",
@@ -934,6 +952,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "13 Sep 2025 17:16"
+    "updated": "13 Sep 2025 17:24"
+  },
+  {
+    "title": "TARALGA RD, GOULBURN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619061",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.6580085759999",
+    "longitude": "149.786956787",
+    "region": "nsw",
+    "time_of_call": "13 Sep 2025 17:18:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "190 TARALGA RD, GOULBURN 2580",
+    "council_area": "Goulburn Mulwaree",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Sep 2025 17:18"
   }
 ]
