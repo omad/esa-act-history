@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "DORNEY RISE, TAYLOR, 2913",
-    "updated": "14 Sep 2025 15:21:04"
+    "updated": "14 Sep 2025 15:26:59"
   },
   {
     "agency": "Fire",
@@ -135,24 +135,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAWSON",
-    "id": "061376-14092025",
-    "latitude": "-35.361049",
-    "longitude": "149.099386",
-    "region": "act",
-    "time_of_call": "14 Sep 2025 14:16:20",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MAWSON",
-    "updated": "14 Sep 2025 14:55:13"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - REID",
     "id": "061377-14092025",
     "latitude": "-35.281706",
@@ -201,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "14 Sep 2025 15:04:13"
+    "updated": "14 Sep 2025 15:27:57"
   },
   {
     "agency": "Ambulance",
@@ -285,13 +267,49 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "14 Sep 2025 15:22:13",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "14 Sep 2025 15:27:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLOREY",
+    "id": "061393-14092025",
+    "latitude": "-35.224909",
+    "longitude": "149.053511",
+    "region": "act",
+    "time_of_call": "14 Sep 2025 15:29:27",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FLOREY",
+    "updated": "14 Sep 2025 15:33:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHIFLEY",
+    "id": "061395-14092025",
+    "latitude": "-35.351526",
+    "longitude": "149.076955",
+    "region": "act",
+    "time_of_call": "14 Sep 2025 15:33:01",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "14 Sep 2025 15:22:54"
+    "location": "CHIFLEY",
+    "updated": "14 Sep 2025 15:33:19"
   },
   {
     "title": "VALLANCES RD, MULLUMBIMBY",
@@ -784,7 +802,7 @@
     "latitude": "-31.448760986",
     "longitude": "152.786895752",
     "region": "nsw",
-    "time_of_call": "14 Sep 2025 15:17:00",
+    "time_of_call": "14 Sep 2025 15:21:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -796,7 +814,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Sep 2025 15:17"
+    "updated": "14 Sep 2025 15:21"
   },
   {
     "title": "KNOX PL, NORMANHURST",
@@ -819,28 +837,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "14 Sep 2025 14:53"
-  },
-  {
-    "title": "BALLINGAL RD, THARBOGANG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619152",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.241470337",
-    "longitude": "145.96939087",
-    "region": "nsw",
-    "time_of_call": "14 Sep 2025 15:16:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "117 BALLINGAL RD, THARBOGANG 2680",
-    "council_area": "Griffith",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Sep 2025 15:16"
   },
   {
     "title": "NEWELL HWY, GILGANDRA",
@@ -885,6 +881,28 @@
     "updated": "14 Sep 2025 15:16"
   },
   {
+    "title": "EATONSVILLE RD, WATERVIEW HEIGHTS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619158",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.6712074279999",
+    "longitude": "152.873001099",
+    "region": "nsw",
+    "time_of_call": "14 Sep 2025 15:16:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "98 EATONSVILLE RD, WATERVIEW HEIGHTS 2460",
+    "council_area": "Clarence Valley",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Sep 2025 15:16"
+  },
+  {
     "title": "VALES RD, MANNERING PARK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619161",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -892,9 +910,9 @@
     "latitude": "-33.158836365",
     "longitude": "151.534057617",
     "region": "nsw",
-    "time_of_call": "14 Sep 2025 15:20:00",
+    "time_of_call": "14 Sep 2025 15:22:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "119 VALES RD, MANNERING PARK 2259",
     "council_area": "Central Coast",
@@ -904,6 +922,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Sep 2025 15:20"
+    "updated": "14 Sep 2025 15:22"
   }
 ]
