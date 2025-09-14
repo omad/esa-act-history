@@ -153,13 +153,13 @@
     "longitude": "149.118589",
     "region": "act",
     "time_of_call": "14 Sep 2025 20:05:17",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "14 Sep 2025 20:14:56"
+    "updated": "14 Sep 2025 20:26:54"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +177,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "14 Sep 2025 20:17:32"
+    "updated": "14 Sep 2025 20:24:01"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +195,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "14 Sep 2025 20:22:26"
+    "updated": "14 Sep 2025 20:32:42"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +213,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "14 Sep 2025 20:21:11"
+    "updated": "14 Sep 2025 20:23:47"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +231,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "14 Sep 2025 20:22:26"
+    "updated": "14 Sep 2025 20:27:56"
   },
   {
     "agency": "Ambulance",
@@ -243,13 +243,31 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "14 Sep 2025 20:20:19",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "14 Sep 2025 20:27:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WHITLAM",
+    "id": "061449-14092025",
+    "latitude": "-35.277508",
+    "longitude": "149.033417",
+    "region": "act",
+    "time_of_call": "14 Sep 2025 20:27:46",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "BRUCE",
-    "updated": "14 Sep 2025 20:22:40"
+    "location": "WHITLAM",
+    "updated": "14 Sep 2025 20:28:43"
   },
   {
     "title": "VALLANCES RD, MULLUMBIMBY",
@@ -863,5 +881,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Sep 2025 20:18"
+  },
+  {
+    "title": "THUNDERBOLTS WAY, GLOUCESTER",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619204",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.9794921879999",
+    "longitude": "151.93371582",
+    "region": "nsw",
+    "time_of_call": "14 Sep 2025 20:24:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "441 THUNDERBOLTS WAY, GLOUCESTER 2422",
+    "council_area": "Mid-Coast",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Sep 2025 20:24"
   }
 ]
