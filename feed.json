@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CRACE",
-    "id": "061514-15092025",
-    "latitude": "-35.202196",
-    "longitude": "149.110562",
-    "region": "act",
-    "time_of_call": "15 Sep 2025 06:58:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CRACE",
-    "updated": "15 Sep 2025 08:01:58"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HARRISON",
     "id": "061516-15092025",
     "latitude": "-35.200527",
@@ -52,24 +34,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
     "updated": "15 Sep 2025 08:19:50"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - SPENCE",
-    "id": "061519-15092025",
-    "latitude": "-35.196073",
-    "longitude": "149.064742",
-    "region": "act",
-    "time_of_call": "15 Sep 2025 07:26:58",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "SPENCE",
-    "updated": "15 Sep 2025 07:35:19"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "15 Sep 2025 08:28:26"
+    "updated": "15 Sep 2025 08:36:21"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +99,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "15 Sep 2025 07:50:26",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "15 Sep 2025 08:22:03"
+    "updated": "15 Sep 2025 08:46:15"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +117,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "15 Sep 2025 07:50:47",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "15 Sep 2025 07:56:02"
+    "updated": "15 Sep 2025 08:46:47"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "15 Sep 2025 08:13:49"
+    "updated": "15 Sep 2025 08:36:28"
   },
   {
     "agency": "Ambulance",
@@ -267,7 +231,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "15 Sep 2025 08:28:17"
+    "updated": "15 Sep 2025 08:41:46"
   },
   {
     "agency": "Ambulance",
@@ -286,6 +250,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
     "updated": "15 Sep 2025 08:29:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "061536-15092025",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "15 Sep 2025 08:33:59",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "15 Sep 2025 08:41:20"
   },
   {
     "title": "VALLANCES RD, MULLUMBIMBY",
@@ -598,5 +580,69 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Sep 2025 08:29"
+  },
+  {
+    "title": "PUTTY BEACH KILLCARE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619219",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.529880524",
+    "longitude": "151.36694336",
+    "region": "nsw",
+    "time_of_call": "15 Sep 2025 08:25:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PUTTY BEACH KILLCARE 2257",
+    "council_area": "Central Coast",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Sep 2025 08:25"
+  },
+  {
+    "title": "WHITING WAY, LAKE CATHIE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619221",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.564447403",
+    "longitude": "152.831665039",
+    "region": "nsw",
+    "time_of_call": "15 Sep 2025 08:45:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "19B WHITING WAY, LAKE CATHIE 2445",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Sep 2025 08:45"
+  },
+  {
+    "title": "BELLEVUE AV, BRAY PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619222",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.3435306549999",
+    "longitude": "153.375839234",
+    "region": "nsw",
+    "time_of_call": "15 Sep 2025 08:35:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BELLEVUE AV, BRAY PARK 2484",
+    "council_area": "Tweed",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "15 Sep 2025 08:35"
   }
 ]
