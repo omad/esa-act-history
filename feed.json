@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
-    "updated": "15 Sep 2025 04:36:35"
+    "updated": "15 Sep 2025 05:21:23"
   },
   {
     "agency": "Ambulance",
@@ -27,13 +27,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "15 Sep 2025 00:08:46",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "15 Sep 2025 00:33:34"
+    "updated": "15 Sep 2025 05:26:41"
   },
   {
     "agency": "Ambulance",
@@ -45,13 +45,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "15 Sep 2025 02:00:42",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "15 Sep 2025 05:09:46"
+    "updated": "15 Sep 2025 05:28:21"
   },
   {
     "agency": "Ambulance",
@@ -124,6 +124,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
     "updated": "15 Sep 2025 05:11:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "061509-15092025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "15 Sep 2025 05:16:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "15 Sep 2025 05:22:18"
   },
   {
     "title": "VALLANCES RD, MULLUMBIMBY",
@@ -526,5 +544,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Sep 2025 22:48"
+  },
+  {
+    "title": "SPORTSMANS WAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619212",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.889411926",
+    "longitude": "153.046661377",
+    "region": "nsw",
+    "time_of_call": "15 Sep 2025 05:22:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "STH WEST ROCKS COUNTRY CLUB 2 SPORTSMANS WAY, SOUTH WEST ROCKS 2431",
+    "council_area": "Kempsey",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "15 Sep 2025 05:22"
   }
 ]
