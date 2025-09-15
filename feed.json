@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "061738-15092025",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
-    "region": "act",
-    "time_of_call": "15 Sep 2025 23:33:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "16 Sep 2025 01:37:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DUNLOP",
     "id": "061744-16092025",
     "latitude": "-35.193951",
@@ -33,7 +15,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "16 Sep 2025 00:23:38"
+    "updated": "16 Sep 2025 01:58:03"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "16 Sep 2025 01:34:19"
+    "updated": "16 Sep 2025 01:54:01"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +45,31 @@
     "longitude": "149.111857",
     "region": "act",
     "time_of_call": "16 Sep 2025 01:48:33",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "16 Sep 2025 01:48:49"
+    "updated": "16 Sep 2025 02:31:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TUGGERANONG",
+    "id": "061749-16092025",
+    "latitude": "-35.501489",
+    "longitude": "149.108737",
+    "region": "act",
+    "time_of_call": "16 Sep 2025 01:48:57",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TUGGERANONG",
+    "updated": "16 Sep 2025 02:24:50"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -394,9 +394,9 @@
     "latitude": "-33.3738021849999",
     "longitude": "151.306152344",
     "region": "nsw",
-    "time_of_call": "16 Sep 2025 01:14:00",
+    "time_of_call": "16 Sep 2025 01:48:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "M1 (PACIFIC MTWY), CALGA 2250",
     "council_area": "Central Coast",
@@ -406,6 +406,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Sep 2025 01:14"
+    "updated": "16 Sep 2025 01:48"
+  },
+  {
+    "title": "CAPITAL TCE, QUEANBEYAN EAST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619311",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.338626861",
+    "longitude": "149.239486694",
+    "region": "nsw",
+    "time_of_call": "16 Sep 2025 02:23:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "19 CAPITAL TCE, QUEANBEYAN EAST 2620",
+    "council_area": "Queanbeyan-Palerang",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "16 Sep 2025 02:23"
   }
 ]
