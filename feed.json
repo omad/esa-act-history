@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "DOOLAND COURT, NICHOLLS, 2913",
-    "updated": "16 Sep 2025 08:52:52"
+    "updated": "16 Sep 2025 09:24:25"
   },
   {
     "agency": "Fire",
@@ -141,13 +141,13 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "16 Sep 2025 08:16:01",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "16 Sep 2025 08:29:48"
+    "updated": "16 Sep 2025 09:22:39"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +165,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "16 Sep 2025 08:46:38"
+    "updated": "16 Sep 2025 09:24:00"
   },
   {
     "agency": "Ambulance",
@@ -177,33 +177,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "16 Sep 2025 08:29:36",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "16 Sep 2025 09:20:09"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "HOUSE FIRE - NICHOLLS",
-    "id": "061777-16092025",
-    "latitude": "-35.1812183899",
-    "longitude": "149.1060510199",
-    "region": "act",
-    "time_of_call": "16 Sep 2025 08:32:11",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "HOUSE FIRE",
-    "type_description": "",
-    "type_icon": "",
-    "location": "DOOLAND COURT, NICHOLLS, 2913",
-    "updated": "16 Sep 2025 09:07:50"
+    "updated": "16 Sep 2025 09:26:51"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "16 Sep 2025 09:18:58"
+    "updated": "16 Sep 2025 09:27:21"
   },
   {
     "agency": "Ambulance",
@@ -269,13 +249,13 @@
     "longitude": "149.135062",
     "region": "act",
     "time_of_call": "16 Sep 2025 08:47:45",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "16 Sep 2025 09:11:59"
+    "updated": "16 Sep 2025 09:22:17"
   },
   {
     "agency": "Ambulance",
@@ -311,7 +291,43 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "16 Sep 2025 09:20:49"
+    "updated": "16 Sep 2025 09:26:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "061792-16092025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "16 Sep 2025 09:26:05",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "16 Sep 2025 09:27:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - EVATT",
+    "id": "061793-16092025",
+    "latitude": "-35.212001",
+    "longitude": "149.066294",
+    "region": "act",
+    "time_of_call": "16 Sep 2025 09:28:26",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "EVATT",
+    "updated": "16 Sep 2025 09:28:30"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -694,28 +710,6 @@
     "updated": "16 Sep 2025 08:15"
   },
   {
-    "title": "HERONS CREEK RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619326",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.590839386",
-    "longitude": "152.724380493",
-    "region": "nsw",
-    "time_of_call": "16 Sep 2025 09:03:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BORAL TIMBERS - ADMINISTRATION 420 HERONS CREEK RD, HERONS CREEK 2439",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Sep 2025 09:03"
-  },
-  {
     "title": "FAIRVIEW RD, SAPPHIRE BEACH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619327",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -798,5 +792,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Sep 2025 09:15"
+  },
+  {
+    "title": "ASHWOOD RD, WILTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619331",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.233005524",
+    "longitude": "150.710220337",
+    "region": "nsw",
+    "time_of_call": "16 Sep 2025 09:19:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "105 ASHWOOD RD, WILTON 2571",
+    "council_area": "Wollondilly",
+    "type": "Planned Event",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Sep 2025 09:19"
   }
 ]
