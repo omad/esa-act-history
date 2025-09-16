@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "17 Sep 2025 07:48:40"
+    "updated": "17 Sep 2025 08:24:38"
   },
   {
     "agency": "Ambulance",
@@ -121,13 +121,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "17 Sep 2025 07:33:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "17 Sep 2025 07:52:23"
+    "updated": "17 Sep 2025 08:24:11"
   },
   {
     "agency": "Ambulance",
@@ -175,13 +175,31 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "17 Sep 2025 08:11:06",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "17 Sep 2025 08:23:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "061982-17092025",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "17 Sep 2025 08:23:51",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "KALEEN",
-    "updated": "17 Sep 2025 08:17:42"
+    "location": "BONNER",
+    "updated": "17 Sep 2025 08:28:57"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -857,8 +875,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619427",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.830739974",
-    "longitude": "152.720306397",
+    "latitude": "-29.82538414",
+    "longitude": "152.722366333",
     "region": "nsw",
     "time_of_call": "17 Sep 2025 07:25:00",
     "event_type": "burnt area",
@@ -873,28 +891,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Sep 2025 07:25"
-  },
-  {
-    "title": "SOUTHDOWN RD, DENILIQUIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619428",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.621383667",
-    "longitude": "144.901138306",
-    "region": "nsw",
-    "time_of_call": "17 Sep 2025 08:14:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "SOUTHDOWN RD, DENILIQUIN 2710",
-    "council_area": "Murray River",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Sep 2025 08:14"
   },
   {
     "title": "CARNHAM RD, CARNHAM",
