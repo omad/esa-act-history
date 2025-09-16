@@ -49,15 +49,15 @@
     "longitude": "149.10281299",
     "region": "act",
     "time_of_call": "17 Sep 2025 08:31:32",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "ROUNDABOUT, ASHLEY DRIVE, ISABELLA DRIVE, MONASH, 2904",
-    "updated": "17 Sep 2025 08:39:10"
+    "updated": "17 Sep 2025 08:57:39"
   },
   {
     "agency": "Ambulance",
@@ -75,7 +75,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "17 Sep 2025 08:37:17"
+    "updated": "17 Sep 2025 09:17:05"
   },
   {
     "agency": "Ambulance",
@@ -93,7 +93,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "17 Sep 2025 07:16:42"
+    "updated": "17 Sep 2025 08:50:52"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "17 Sep 2025 08:37:20"
+    "updated": "17 Sep 2025 08:50:45"
   },
   {
     "agency": "Ambulance",
@@ -141,13 +141,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "17 Sep 2025 08:07:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "17 Sep 2025 08:44:39"
+    "updated": "17 Sep 2025 08:59:06"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "17 Sep 2025 08:48:18"
+    "updated": "17 Sep 2025 08:58:54"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "17 Sep 2025 08:32:03"
+    "updated": "17 Sep 2025 08:59:55"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +203,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "ROUNDABOUT, ASHLEY DRIVE, ISABELLA DRIVE, MONASH, 2904",
-    "updated": "17 Sep 2025 08:44:50"
+    "updated": "17 Sep 2025 08:57:39"
   },
   {
     "agency": "Ambulance",
@@ -215,13 +215,49 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "17 Sep 2025 08:34:23",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "17 Sep 2025 09:11:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CASEY",
+    "id": "061986-17092025",
+    "latitude": "-35.167812",
+    "longitude": "149.097085",
+    "region": "act",
+    "time_of_call": "17 Sep 2025 08:57:14",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "WANNIASSA",
-    "updated": "17 Sep 2025 08:39:55"
+    "location": "CASEY",
+    "updated": "17 Sep 2025 09:02:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "061987-17092025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "17 Sep 2025 09:03:07",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "17 Sep 2025 09:17:24"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -935,5 +971,91 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Sep 2025 08:45"
+  },
+  {
+    "title": "THUNDERBOLTS WAY, WALCHA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619433",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.193284988",
+    "longitude": "151.568740845",
+    "region": "nsw",
+    "time_of_call": "17 Sep 2025 09:01:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "THUNDERBOLTS WAY, WALCHA 2354",
+    "council_area": "Walcha",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Sep 2025 09:01"
+  },
+  {
+    "title": "BROCKLESBY RD, MEDOWIE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619434",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.7541999819999",
+    "longitude": "151.870437622",
+    "region": "nsw",
+    "time_of_call": "17 Sep 2025 08:54:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "12 BROCKLESBY RD, MEDOWIE 2318",
+    "council_area": "Port Stephens",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Sep 2025 08:54"
+  },
+  {
+    "title": "ALBATROSS RD, SOUTH NOWRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619435",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.8957900999999",
+    "longitude": "150.591064453",
+    "region": "nsw",
+    "time_of_call": "17 Sep 2025 08:58:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "92 ALBATROSS RD, SOUTH NOWRA 2541",
+    "council_area": "Shoalhaven",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Sep 2025 08:58"
+  },
+  {
+    "title": "TATHAM ELLANGOWAN RD, ELLANGOWAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619436",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.9961071019999",
+    "longitude": "153.096389771",
+    "region": "nsw",
+    "time_of_call": "17 Sep 2025 09:07:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1010 TATHAM ELLANGOWAN RD, ELLANGOWAN 2470",
+    "council_area": "Richmond Valley",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Sep 2025 09:07"
   }
 ]
