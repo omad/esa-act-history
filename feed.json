@@ -59,24 +59,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "061965-17092025",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "17 Sep 2025 04:53:39",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "17 Sep 2025 05:39:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WARAMANGA",
     "id": "061966-17092025",
     "latitude": "-35.353501",
@@ -125,7 +107,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "17 Sep 2025 05:47:08"
+    "updated": "17 Sep 2025 05:52:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - YARRALUMLA",
+    "id": "061969-17092025",
+    "latitude": "-35.302333",
+    "longitude": "149.099934",
+    "region": "act",
+    "time_of_call": "17 Sep 2025 05:55:30",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "YARRALUMLA",
+    "updated": "17 Sep 2025 06:22:18"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -777,5 +777,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Sep 2025 00:37"
+  },
+  {
+    "title": "HOMELEIGH NEWELL HWY, PARKES",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619425",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.980270386",
+    "longitude": "148.216949463",
+    "region": "nsw",
+    "time_of_call": "17 Sep 2025 06:08:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "HOMELEIGH NEWELL HWY, PARKES 2870",
+    "council_area": "Parkes",
+    "type": "Planned Event",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Sep 2025 06:08"
   }
 ]
