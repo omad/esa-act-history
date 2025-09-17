@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "18 Sep 2025 07:57:00"
+    "updated": "18 Sep 2025 08:38:17"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "18 Sep 2025 08:27:51"
+    "updated": "18 Sep 2025 08:36:09"
   },
   {
     "agency": "Ambulance",
@@ -128,6 +128,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
     "updated": "18 Sep 2025 08:13:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "062192-18092025",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "18 Sep 2025 08:37:34",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "18 Sep 2025 08:43:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HIGGINS",
+    "id": "062193-18092025",
+    "latitude": "-35.230526",
+    "longitude": "149.025052",
+    "region": "act",
+    "time_of_call": "18 Sep 2025 08:48:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "18 Sep 2025 08:48:35"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -617,18 +653,18 @@
     "updated": "18 Sep 2025 07:54"
   },
   {
-    "title": "BRIDGE ST, KOONOOMOO",
+    "title": "FINLEY BEACH TOCUMWAL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620523",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.818325043",
-    "longitude": "145.559829712",
+    "latitude": "-35.822193146",
+    "longitude": "145.559509277",
     "region": "nsw",
-    "time_of_call": "18 Sep 2025 07:54:00",
+    "time_of_call": "18 Sep 2025 08:32:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
-    "location": "BRIDGE ST, KOONOOMOO 3644",
+    "location": "FINLEY BEACH TOCUMWAL 2714",
     "council_area": "Berrigan",
     "type": "Bush Fire",
     "type_description": "",
@@ -636,7 +672,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2025 07:54"
+    "updated": "18 Sep 2025 08:32"
   },
   {
     "title": "(PACIFIC MTWY), MORISSET",
@@ -659,5 +695,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Sep 2025 08:20"
+  },
+  {
+    "title": "SUSSEX INLET RD, SUSSEX INLET",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620525",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.1409797659999",
+    "longitude": "150.556030273",
+    "region": "nsw",
+    "time_of_call": "18 Sep 2025 08:34:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "SUSSEX INLET RD, SUSSEX INLET 2540",
+    "council_area": "Shoalhaven",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Sep 2025 08:34"
+  },
+  {
+    "title": "ENGLANDS RD, NORTH BOAMBEE VALLEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620526",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.311746598",
+    "longitude": "153.072586059",
+    "region": "nsw",
+    "time_of_call": "18 Sep 2025 08:36:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "170 ENGLANDS RD, NORTH BOAMBEE VALLEY 2450",
+    "council_area": "Coffs Harbour",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Sep 2025 08:36"
   }
 ]
