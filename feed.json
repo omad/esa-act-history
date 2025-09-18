@@ -100,6 +100,26 @@
     "updated": "18 Sep 2025 15:13:19"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - DOWNER",
+    "id": "014246-18092025",
+    "latitude": "-35.240653",
+    "longitude": "149.1371",
+    "region": "act",
+    "time_of_call": "18 Sep 2025 15:32:32",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "FEDERAL HIGHWAY, BARTON HIGHWAY, DOWNER, 2602",
+    "updated": "18 Sep 2025 15:36:51"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -277,7 +297,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "18 Sep 2025 15:15:22"
+    "updated": "18 Sep 2025 15:26:44"
   },
   {
     "agency": "Ambulance",
@@ -295,7 +315,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "18 Sep 2025 15:18:58"
+    "updated": "18 Sep 2025 15:35:27"
   },
   {
     "agency": "Ambulance",
@@ -343,13 +363,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "18 Sep 2025 15:13:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "18 Sep 2025 15:19:47"
+    "updated": "18 Sep 2025 15:31:20"
   },
   {
     "agency": "Ambulance",
@@ -385,7 +405,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "18 Sep 2025 15:20:54"
+    "updated": "18 Sep 2025 15:35:27"
   },
   {
     "agency": "Ambulance",
@@ -403,7 +423,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "18 Sep 2025 15:23:07"
+    "updated": "18 Sep 2025 15:27:21"
   },
   {
     "agency": "Ambulance",
@@ -415,13 +435,51 @@
     "longitude": "149.064271",
     "region": "act",
     "time_of_call": "18 Sep 2025 15:22:26",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "18 Sep 2025 15:23:27"
+    "updated": "18 Sep 2025 15:32:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - DOWNER",
+    "id": "062320-18092025",
+    "latitude": "-35.240653",
+    "longitude": "149.1371",
+    "region": "act",
+    "time_of_call": "18 Sep 2025 15:32:33",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "",
+    "location": "FEDERAL HIGHWAY, BARTON HIGHWAY, DOWNER, 2602",
+    "updated": "18 Sep 2025 15:33:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "062321-18092025",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "18 Sep 2025 15:32:44",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "18 Sep 2025 15:36:10"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1126,8 +1184,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620555",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.5533256539999",
-    "longitude": "151.265823364",
+    "latitude": "-33.5503540029999",
+    "longitude": "151.273971558",
     "region": "nsw",
     "time_of_call": "18 Sep 2025 12:59:00",
     "event_type": "burnt area",
@@ -1211,28 +1269,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Sep 2025 14:02"
-  },
-  {
-    "title": "WHITES LANE, STOCKINBINGAL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620562",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.4824981689999",
-    "longitude": "147.804763794",
-    "region": "nsw",
-    "time_of_call": "18 Sep 2025 13:53:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WHITES LANE, STOCKINBINGAL 2725",
-    "council_area": "Cootamundra-Gundagai",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2025 13:53"
   },
   {
     "title": "BOXSELLS LANE, MEROO MEADOW",
@@ -1355,7 +1391,7 @@
     "latitude": "-32.887672424",
     "longitude": "151.796173096",
     "region": "nsw",
-    "time_of_call": "18 Sep 2025 15:04:00",
+    "time_of_call": "18 Sep 2025 15:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1367,7 +1403,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "18 Sep 2025 15:04"
+    "updated": "18 Sep 2025 15:30"
   },
   {
     "title": "RIVERTREE RD, UNDERCLIFFE",
@@ -1399,10 +1435,13 @@
     "latitude": "-33.009544373",
     "longitude": "150.152023315",
     "region": "nsw",
-    "time_of_call": "18 Sep 2025 14:38:00",
+    "time_of_call": "18 Sep 2025 15:22:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "3170 GLEN ALICE RD, BOGEE 2849",
     "council_area": "Lithgow",
     "type": "Grass Fire",
@@ -1411,7 +1450,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2025 14:38"
+    "updated": "18 Sep 2025 15:22"
   },
   {
     "title": "COMPTON PARK RD, BERRIMA",
@@ -1522,25 +1561,45 @@
     "updated": "18 Sep 2025 15:19"
   },
   {
-    "title": "CRESSFIELD RD, DRY CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620581",
+    "title": "(PACIFIC MTWY), KANGY ANGY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620582",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.9361724849999",
-    "longitude": "150.842010498",
+    "latitude": "-33.3094940189999",
+    "longitude": "151.400314332",
     "region": "nsw",
-    "time_of_call": "18 Sep 2025 15:19:00",
+    "time_of_call": "18 Sep 2025 15:25:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "CRESSFIELD RD, DRY CREEK 2337",
-    "council_area": "Upper Hunter",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "location": "M1 (PACIFIC MTWY), KANGY ANGY 2258",
+    "council_area": "Central Coast",
+    "type": "Car Fire",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2025 15:19"
+    "updated": "18 Sep 2025 15:25"
+  },
+  {
+    "title": "TRUNKEY RD, GEORGES PLAINS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620583",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.5254821779999",
+    "longitude": "149.48878479",
+    "region": "nsw",
+    "time_of_call": "18 Sep 2025 15:26:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "TRUNKEY RD, GEORGES PLAINS 2795",
+    "council_area": "Bathurst",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Sep 2025 15:26"
   }
 ]
