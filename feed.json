@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAWSON",
-    "id": "062405-19092025",
-    "latitude": "-35.361049",
-    "longitude": "149.099386",
-    "region": "act",
-    "time_of_call": "19 Sep 2025 01:14:48",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MAWSON",
-    "updated": "19 Sep 2025 01:27:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - O'CONNOR",
     "id": "062411-19092025",
     "latitude": "-35.256876",
@@ -73,7 +55,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "19 Sep 2025 05:45:51"
+    "updated": "19 Sep 2025 06:17:24"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +91,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "19 Sep 2025 04:49:29"
+    "updated": "19 Sep 2025 05:58:03"
   },
   {
     "agency": "Ambulance",
@@ -145,25 +127,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "19 Sep 2025 05:44:33"
+    "updated": "19 Sep 2025 06:19:04"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WARAMANGA",
-    "id": "062427-19092025",
-    "latitude": "-35.353501",
-    "longitude": "149.06067",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "062429-19092025",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
     "region": "act",
-    "time_of_call": "19 Sep 2025 05:29:51",
-    "status": "Resource Allocation Pending",
+    "time_of_call": "19 Sep 2025 05:57:55",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "WARAMANGA",
-    "updated": "19 Sep 2025 05:35:55"
+    "location": "BRUCE",
+    "updated": "19 Sep 2025 06:14:34"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -708,14 +690,14 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620566",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.738654116",
-    "longitude": "151.808541299",
+    "latitude": "-29.744571686",
+    "longitude": "151.807052612",
     "region": "nsw",
     "time_of_call": "12 Sep 2025 10:00:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
-    "location": "LINWOOD ROAD TSR",
+    "location": "LINWOOD RD, SHANNON VALE 2370",
     "council_area": "Glen Innes Severn",
     "type": "Hazard Reduction",
     "type_description": "",
@@ -1110,5 +1092,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Sep 2025 01:55"
+  },
+  {
+    "title": "TRL, WAUCHOPE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620652",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.4789276119999",
+    "longitude": "152.727371216",
+    "region": "nsw",
+    "time_of_call": "19 Sep 2025 06:08:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CPT 33-2 TRL, WAUCHOPE 2446",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Sep 2025 06:08"
   }
 ]
