@@ -49,33 +49,15 @@
     "longitude": "149.178024292",
     "region": "act",
     "time_of_call": "18 Sep 2025 13:04:52",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "LPG CYLINDER INCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/LPG-0.svg",
     "location": "NEWCASTLE STREET, FYSHWICK, 2609",
-    "updated": "18 Sep 2025 13:15:05"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DOWNER",
-    "id": "062184-18092025",
-    "latitude": "-35.245131",
-    "longitude": "149.143546",
-    "region": "act",
-    "time_of_call": "18 Sep 2025 07:39:15",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DOWNER",
-    "updated": "18 Sep 2025 12:55:05"
+    "updated": "18 Sep 2025 13:48:03"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +111,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "18 Sep 2025 13:32:29"
+    "updated": "18 Sep 2025 13:33:04"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "18 Sep 2025 12:50:38"
+    "updated": "18 Sep 2025 13:39:11"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +165,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "18 Sep 2025 12:36:55"
+    "updated": "18 Sep 2025 13:44:34"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "18 Sep 2025 13:14:59"
+    "updated": "18 Sep 2025 13:35:24"
   },
   {
     "agency": "Ambulance",
@@ -237,7 +219,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "18 Sep 2025 13:22:21"
+    "updated": "18 Sep 2025 13:41:47"
   },
   {
     "agency": "Ambulance",
@@ -273,7 +255,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "18 Sep 2025 13:20:21"
+    "updated": "18 Sep 2025 13:38:05"
   },
   {
     "agency": "Ambulance",
@@ -345,7 +327,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "18 Sep 2025 13:21:07"
+    "updated": "18 Sep 2025 13:33:10"
   },
   {
     "agency": "Ambulance",
@@ -381,7 +363,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "18 Sep 2025 13:29:31"
+    "updated": "18 Sep 2025 13:50:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "062287-18092025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "18 Sep 2025 13:44:31",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "18 Sep 2025 13:50:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "062288-18092025",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "18 Sep 2025 13:45:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "18 Sep 2025 13:49:02"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -457,8 +475,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_619197",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.264355505",
-    "longitude": "152.785491943",
+    "latitude": "-31.2514054279999",
+    "longitude": "152.741889954",
     "region": "nsw",
     "time_of_call": "18 Sep 2025 09:14:00",
     "event_type": "burnt area",
@@ -681,7 +699,7 @@
     "latitude": "-33.599271582",
     "longitude": "151.320653917",
     "region": "nsw",
-    "time_of_call": "18 Sep 2025 09:02:00",
+    "time_of_call": "18 Sep 2025 13:40:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -693,7 +711,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "18 Sep 2025 09:02"
+    "updated": "18 Sep 2025 13:40"
   },
   {
     "title": "2 Owen Jones Row",
@@ -703,7 +721,7 @@
     "latitude": "-34.022055872",
     "longitude": "151.010423183",
     "region": "nsw",
-    "time_of_call": "18 Sep 2025 11:18:00",
+    "time_of_call": "18 Sep 2025 13:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -715,7 +733,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "18 Sep 2025 11:18"
+    "updated": "18 Sep 2025 13:35"
   },
   {
     "title": "State Forest East HR",
@@ -1104,31 +1122,6 @@
     "updated": "18 Sep 2025 13:22"
   },
   {
-    "title": "BUNYANVALE RD, BUNYAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620553",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.148113251",
-    "longitude": "149.133377076",
-    "region": "nsw",
-    "time_of_call": "18 Sep 2025 13:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "BUNGARA 266 BUNYANVALE RD, BUNYAN 2630",
-    "council_area": "Snowy Monaro",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2025 13:12"
-  },
-  {
     "title": "EXCELSIOR RD, ROUND SWAMP",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620554",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1193,28 +1186,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Sep 2025 13:14"
-  },
-  {
-    "title": "RIVERVIEW AV, DANGAR ISLAND",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620557",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.537410736",
-    "longitude": "151.236740112",
-    "region": "nsw",
-    "time_of_call": "18 Sep 2025 13:23:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "42 RIVERVIEW AV, DANGAR ISLAND 2083",
-    "council_area": "Hornsby",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Sep 2025 13:23"
   },
   {
     "title": "GWYDIR HWY, JACKADGERY",
