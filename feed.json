@@ -101,24 +101,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - THROSBY",
-    "id": "062868-20092025",
-    "latitude": "-35.187595",
-    "longitude": "149.161141",
-    "region": "act",
-    "time_of_call": "20 Sep 2025 18:26:18",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "THROSBY",
-    "updated": "20 Sep 2025 19:46:47"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BRUCE",
     "id": "062872-20092025",
     "latitude": "-35.242777",
@@ -209,24 +191,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GARRAN",
-    "id": "062879-20092025",
-    "latitude": "-35.340821",
-    "longitude": "149.105209",
-    "region": "act",
-    "time_of_call": "20 Sep 2025 19:18:45",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GARRAN",
-    "updated": "20 Sep 2025 19:53:21"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - STRATHNAIRN",
     "id": "062880-20092025",
     "latitude": "-35.237286",
@@ -239,7 +203,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "20 Sep 2025 19:58:54"
+    "updated": "20 Sep 2025 20:29:07"
   },
   {
     "agency": "Ambulance",
@@ -275,7 +239,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "20 Sep 2025 20:14:08"
+    "updated": "20 Sep 2025 20:24:53"
   },
   {
     "agency": "Ambulance",
@@ -311,7 +275,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "20 Sep 2025 20:16:15"
+    "updated": "20 Sep 2025 20:30:03"
   },
   {
     "agency": "Ambulance",
@@ -347,7 +311,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "20 Sep 2025 20:21:56"
+    "updated": "20 Sep 2025 20:25:14"
   },
   {
     "agency": "Ambulance",
@@ -365,7 +329,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "20 Sep 2025 20:23:20"
+    "updated": "20 Sep 2025 20:28:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "062890-20092025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "20 Sep 2025 20:30:12",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "20 Sep 2025 20:36:24"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1140,5 +1122,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Sep 2025 20:18"
+  },
+  {
+    "title": "Robert Cram Dr, Bellambi",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620901",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.367558",
+    "longitude": "150.923395",
+    "region": "nsw",
+    "time_of_call": "20 Sep 2025 20:32:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Robert Cram Dr, Bellambi, NSW 2518",
+    "council_area": "Wollongong",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "20 Sep 2025 20:32"
+  },
+  {
+    "title": "MARTINS WHARF RD, MILLERS FOREST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620902",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.763317108",
+    "longitude": "151.702133178",
+    "region": "nsw",
+    "time_of_call": "20 Sep 2025 20:26:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MARTINS WHARF RD, MILLERS FOREST 2324",
+    "council_area": "Maitland",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Sep 2025 20:26"
   }
 ]
