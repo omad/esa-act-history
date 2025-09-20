@@ -75,7 +75,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "20 Sep 2025 13:18:03"
+    "updated": "20 Sep 2025 13:47:54"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "20 Sep 2025 13:27:04"
+    "updated": "20 Sep 2025 13:41:49"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +213,13 @@
     "longitude": "149.094654",
     "region": "act",
     "time_of_call": "20 Sep 2025 13:01:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "20 Sep 2025 13:20:23"
+    "updated": "20 Sep 2025 13:35:33"
   },
   {
     "agency": "Ambulance",
@@ -237,7 +237,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "20 Sep 2025 13:18:24"
+    "updated": "20 Sep 2025 13:38:12"
   },
   {
     "agency": "Ambulance",
@@ -249,13 +249,13 @@
     "longitude": "149.042983",
     "region": "act",
     "time_of_call": "20 Sep 2025 13:20:27",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "20 Sep 2025 13:24:29"
+    "updated": "20 Sep 2025 13:44:34"
   },
   {
     "agency": "Ambulance",
@@ -273,7 +273,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "20 Sep 2025 13:26:33"
+    "updated": "20 Sep 2025 13:46:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "062804-20092025",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "20 Sep 2025 13:43:03",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHAPMAN",
+    "updated": "20 Sep 2025 13:47:30"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -793,7 +811,7 @@
     "latitude": "-33.684894562",
     "longitude": "150.320083618",
     "region": "nsw",
-    "time_of_call": "19 Sep 2025 20:07:00",
+    "time_of_call": "20 Sep 2025 13:25:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -805,7 +823,7 @@
     "fire": "Yes",
     "size": "4 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Sep 2025 20:07"
+    "updated": "20 Sep 2025 13:25"
   },
   {
     "title": "MEGALONG RD, MEGALONG VALLEY",
@@ -1009,26 +1027,6 @@
     "updated": "20 Sep 2025 12:19"
   },
   {
-    "title": "GRETA ST, KEARSLEY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620836",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.839370727",
-    "longitude": "151.404693603",
-    "region": "nsw",
-    "time_of_call": "20 Sep 2025 12:53:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "GRETA ST, KEARSLEY 2325",
-    "council_area": "Cessnock",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Sep 2025 12:53"
-  },
-  {
     "title": "GWYDIR HWY, JACKADGERY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620837",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1036,9 +1034,9 @@
     "latitude": "-29.5770969389999",
     "longitude": "152.563110352",
     "region": "nsw",
-    "time_of_call": "20 Sep 2025 13:13:00",
+    "time_of_call": "20 Sep 2025 13:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GWYDIR HWY, JACKADGERY 2460",
     "council_area": "Clarence Valley",
@@ -1048,7 +1046,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Sep 2025 13:13"
+    "updated": "20 Sep 2025 13:25"
   },
   {
     "title": "AQUILA ST, BOX HILL",
@@ -1174,9 +1172,9 @@
     "latitude": "-34.7486709999999",
     "longitude": "149.730691",
     "region": "nsw",
-    "time_of_call": "20 Sep 2025 13:28:00",
+    "time_of_call": "20 Sep 2025 13:43:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1189,6 +1187,48 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "20 Sep 2025 13:28"
+    "updated": "20 Sep 2025 13:43"
+  },
+  {
+    "title": "MOUNT OUSLEY RD, CATARACT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620844",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.3667488099999",
+    "longitude": "150.859222412",
+    "region": "nsw",
+    "time_of_call": "20 Sep 2025 13:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MOUNT OUSLEY RD, CATARACT 2560",
+    "council_area": "Wollongong",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Sep 2025 13:30"
+  },
+  {
+    "title": "MULWAREE ST, GOULBURN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620845",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.7492294319999",
+    "longitude": "149.732284546",
+    "region": "nsw",
+    "time_of_call": "20 Sep 2025 13:34:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "88 MULWAREE ST, GOULBURN 2580",
+    "council_area": "Goulburn Mulwaree",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "20 Sep 2025 13:34"
   }
 ]
