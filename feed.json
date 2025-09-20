@@ -165,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "21 Sep 2025 08:24:21"
+    "updated": "21 Sep 2025 08:39:54"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "21 Sep 2025 08:14:19"
+    "updated": "21 Sep 2025 08:37:53"
   },
   {
     "agency": "Ambulance",
@@ -249,13 +249,13 @@
     "longitude": "149.072217",
     "region": "act",
     "time_of_call": "21 Sep 2025 08:18:39",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "21 Sep 2025 08:22:50"
+    "updated": "21 Sep 2025 08:33:19"
   },
   {
     "agency": "Ambulance",
@@ -267,13 +267,49 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "21 Sep 2025 08:28:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "21 Sep 2025 08:31:19"
+    "updated": "21 Sep 2025 08:36:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "063012-21092025",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "21 Sep 2025 08:44:29",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "21 Sep 2025 08:46:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "063013-21092025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "21 Sep 2025 08:45:38",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "21 Sep 2025 08:48:18"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -960,6 +996,28 @@
     "updated": "21 Sep 2025 08:06"
   },
   {
+    "title": "Cranstons Road, Middle Dural",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620943",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.651039123",
+    "longitude": "151.015808105",
+    "region": "nsw",
+    "time_of_call": "21 Sep 2025 08:16:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "6 Cranstons Road, Middle Dural",
+    "council_area": "The Hills",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Sep 2025 08:16"
+  },
+  {
     "title": "BROMAGE RD, ABERMAIN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620944",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -967,9 +1025,9 @@
     "latitude": "-32.835365295",
     "longitude": "151.450180054",
     "region": "nsw",
-    "time_of_call": "21 Sep 2025 08:20:00",
+    "time_of_call": "21 Sep 2025 08:37:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "105 BROMAGE RD, ABERMAIN 2326",
     "council_area": "Cessnock",
@@ -979,6 +1037,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Sep 2025 08:20"
+    "updated": "21 Sep 2025 08:37"
+  },
+  {
+    "title": "FRASERS RD, MULLUMBIMBY CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620945",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.544874192",
+    "longitude": "153.436218262",
+    "region": "nsw",
+    "time_of_call": "21 Sep 2025 08:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "121 FRASERS RD, MULLUMBIMBY CREEK 2482",
+    "council_area": "Byron",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Sep 2025 08:30"
   }
 ]
