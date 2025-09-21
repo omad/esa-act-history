@@ -169,7 +169,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "21 Sep 2025 23:20:41"
+    "updated": "22 Sep 2025 00:58:02"
   },
   {
     "agency": "Ambulance",
@@ -223,7 +223,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "21 Sep 2025 23:48:36"
+    "updated": "22 Sep 2025 01:15:09"
   },
   {
     "agency": "Ambulance",
@@ -241,7 +241,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "22 Sep 2025 00:46:38"
+    "updated": "22 Sep 2025 00:58:07"
   },
   {
     "agency": "Ambulance",
@@ -260,24 +260,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
     "updated": "22 Sep 2025 00:14:21"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WANNIASSA",
-    "id": "063172-22092025",
-    "latitude": "-35.399113",
-    "longitude": "149.091978",
-    "region": "act",
-    "time_of_call": "22 Sep 2025 00:13:41",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WANNIASSA",
-    "updated": "22 Sep 2025 00:44:05"
   },
   {
     "agency": "Ambulance",
@@ -325,31 +307,49 @@
     "longitude": "149.079717",
     "region": "act",
     "time_of_call": "22 Sep 2025 00:40:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "22 Sep 2025 00:46:09"
+    "updated": "22 Sep 2025 01:13:36"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "063176-22092025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
+    "title": "AMBULANCE RESPONSE - MAWSON",
+    "id": "063178-22092025",
+    "latitude": "-35.361049",
+    "longitude": "149.099386",
     "region": "act",
-    "time_of_call": "22 Sep 2025 00:42:19",
+    "time_of_call": "22 Sep 2025 01:10:39",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MAWSON",
+    "updated": "22 Sep 2025 01:15:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FLOREY",
+    "id": "063179-22092025",
+    "latitude": "-35.224909",
+    "longitude": "149.053511",
+    "region": "act",
+    "time_of_call": "22 Sep 2025 01:17:27",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "22 Sep 2025 00:46:04"
+    "location": "FLOREY",
+    "updated": "22 Sep 2025 01:20:47"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1064,5 +1064,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Sep 2025 21:57"
+  },
+  {
+    "title": "HORNING ST, KURNELL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621036",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.0137748719999",
+    "longitude": "151.203079223",
+    "region": "nsw",
+    "time_of_call": "22 Sep 2025 01:14:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "10 HORNING ST, KURNELL 2231",
+    "council_area": "Sutherland",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Sep 2025 01:14"
+  },
+  {
+    "title": "JAMES ST, DUNOON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621037",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.6883182519999",
+    "longitude": "153.314056397",
+    "region": "nsw",
+    "time_of_call": "22 Sep 2025 01:11:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "34A JAMES ST, DUNOON 2480",
+    "council_area": "Lismore",
+    "type": "Medical",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Sep 2025 01:11"
   }
 ]
