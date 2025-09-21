@@ -100,6 +100,26 @@
     "updated": "21 Sep 2025 17:52:56"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HAZARD REDUCTION BURN - STROMLO",
+    "id": "014433-22092025",
+    "latitude": "-35.3290999998",
+    "longitude": "148.9580000001",
+    "region": "act",
+    "time_of_call": "22 Sep 2025 08:34:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "HAZARD REDUCTION BURN",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
+    "location": "CAMP COTTERMOUTH SCOUT CAMP, COTTER ROAD, STROMLO",
+    "updated": "22 Sep 2025 08:34:56"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -169,7 +189,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "22 Sep 2025 08:22:47"
+    "updated": "22 Sep 2025 08:29:54"
   },
   {
     "agency": "Ambulance",
@@ -187,7 +207,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "22 Sep 2025 08:13:47"
+    "updated": "22 Sep 2025 08:27:27"
   },
   {
     "agency": "Ambulance",
@@ -241,7 +261,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "22 Sep 2025 08:17:02"
+    "updated": "22 Sep 2025 08:28:04"
   },
   {
     "agency": "Ambulance",
@@ -295,7 +315,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "22 Sep 2025 08:22:45"
+    "updated": "22 Sep 2025 08:24:21"
   },
   {
     "agency": "Ambulance",
@@ -331,7 +351,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "22 Sep 2025 08:22:50"
+    "updated": "22 Sep 2025 08:23:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUFFY",
+    "id": "063216-22092025",
+    "latitude": "-35.336273",
+    "longitude": "149.031217",
+    "region": "act",
+    "time_of_call": "22 Sep 2025 08:30:31",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUFFY",
+    "updated": "22 Sep 2025 08:34:49"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1055,9 +1093,9 @@
     "latitude": "-31.329299927",
     "longitude": "151.353347778",
     "region": "nsw",
-    "time_of_call": "22 Sep 2025 06:51:00",
+    "time_of_call": "22 Sep 2025 08:24:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1023 NOWENDOC RD, NIANGALA 2354",
     "council_area": "Tamworth",
@@ -1067,7 +1105,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Sep 2025 06:51"
+    "updated": "22 Sep 2025 08:24"
   },
   {
     "title": "GOOLHI RD, MARYS MOUNT",
@@ -1090,27 +1128,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Sep 2025 07:49"
-  },
-  {
-    "title": "(WESTERN MTWY), EMU PLAINS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621051",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.756790161",
-    "longitude": "150.6456604",
-    "region": "nsw",
-    "time_of_call": "22 Sep 2025 08:04:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "M4 (WESTERN MTWY), EMU PLAINS 2750",
-    "council_area": "Penrith",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Sep 2025 08:04"
   }
 ]
