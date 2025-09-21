@@ -133,7 +133,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "21 Sep 2025 23:00:13"
+    "updated": "22 Sep 2025 00:32:13"
   },
   {
     "agency": "Ambulance",
@@ -235,13 +235,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "21 Sep 2025 23:48:24",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "22 Sep 2025 00:25:52"
+    "updated": "22 Sep 2025 00:46:38"
   },
   {
     "agency": "Ambulance",
@@ -265,24 +265,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - ARANDA",
-    "id": "063170-22092025",
-    "latitude": "-35.258882",
-    "longitude": "149.079717",
-    "region": "act",
-    "time_of_call": "22 Sep 2025 00:04:23",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "ARANDA",
-    "updated": "22 Sep 2025 00:17:00"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WANNIASSA",
     "id": "063172-22092025",
     "latitude": "-35.399113",
@@ -295,7 +277,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "22 Sep 2025 00:25:03"
+    "updated": "22 Sep 2025 00:44:05"
   },
   {
     "agency": "Ambulance",
@@ -332,6 +314,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
     "updated": "22 Sep 2025 00:28:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ARANDA",
+    "id": "063175-22092025",
+    "latitude": "-35.258882",
+    "longitude": "149.079717",
+    "region": "act",
+    "time_of_call": "22 Sep 2025 00:40:46",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ARANDA",
+    "updated": "22 Sep 2025 00:46:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "063176-22092025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "22 Sep 2025 00:42:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "22 Sep 2025 00:46:04"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1046,27 +1064,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Sep 2025 21:57"
-  },
-  {
-    "title": "SALISBURY ST, URALLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621035",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.64302063",
-    "longitude": "151.500213623",
-    "region": "nsw",
-    "time_of_call": "22 Sep 2025 00:13:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "29 SALISBURY ST, URALLA 2358",
-    "council_area": "Uralla",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Sep 2025 00:13"
   }
 ]
