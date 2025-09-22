@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "22 Sep 2025 20:20:18"
+    "updated": "22 Sep 2025 20:35:21"
   },
   {
     "agency": "Ambulance",
@@ -51,25 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "22 Sep 2025 20:16:47"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - COOMBS",
-    "id": "063402-22092025",
-    "latitude": "-35.31486",
-    "longitude": "149.041664",
-    "region": "act",
-    "time_of_call": "22 Sep 2025 19:43:57",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "COOMBS",
-    "updated": "22 Sep 2025 19:55:19"
+    "updated": "22 Sep 2025 20:32:57"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "22 Sep 2025 20:19:57"
+    "updated": "22 Sep 2025 20:40:36"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "22 Sep 2025 20:03:21"
+    "updated": "22 Sep 2025 20:43:40"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +99,13 @@
     "longitude": "149.031217",
     "region": "act",
     "time_of_call": "22 Sep 2025 20:01:07",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "22 Sep 2025 20:21:44"
+    "updated": "22 Sep 2025 20:41:01"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +135,13 @@
     "longitude": "149.111857",
     "region": "act",
     "time_of_call": "22 Sep 2025 20:14:00",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "22 Sep 2025 20:24:18"
+    "updated": "22 Sep 2025 20:40:36"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +171,49 @@
     "longitude": "149.100175",
     "region": "act",
     "time_of_call": "22 Sep 2025 20:21:51",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "22 Sep 2025 20:28:11"
+    "updated": "22 Sep 2025 20:30:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "063412-22092025",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "22 Sep 2025 20:30:15",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "22 Sep 2025 20:40:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "063413-22092025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "22 Sep 2025 20:49:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "22 Sep 2025 20:49:34"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -924,47 +942,45 @@
     "updated": "22 Sep 2025 19:08"
   },
   {
-    "title": "PARKDALE RD, BOURKE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621155",
+    "title": "TILBAROO RD, ELANDS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621157",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.088142395",
-    "longitude": "145.911300659",
+    "latitude": "-31.587087631",
+    "longitude": "152.296600341",
     "region": "nsw",
-    "time_of_call": "22 Sep 2025 19:49:00",
+    "time_of_call": "22 Sep 2025 20:31:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "PARKDALE RD, BOURKE 2840",
-    "council_area": "Bourke",
-    "type": "Grass Fire",
+    "location": "196 TILBAROO RD, ELANDS 2429",
+    "council_area": "Mid-Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Sep 2025 20:31"
+  },
+  {
+    "title": "BURNETTS RD, NASHUA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621159",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.7256011969999",
+    "longitude": "153.475662231",
+    "region": "nsw",
+    "time_of_call": "22 Sep 2025 20:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "111 BURNETTS RD, NASHUA 2479",
+    "council_area": "Byron",
+    "type": "Other",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Sep 2025 19:49"
-  },
-  {
-    "title": "QUAKERS HILL PWY, QUAKERS HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621156",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.733726502",
-    "longitude": "150.874267578",
-    "region": "nsw",
-    "time_of_call": "22 Sep 2025 19:55:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "QUAKERS HILL PWY, QUAKERS HILL 2763",
-    "council_area": "Blacktown",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Sep 2025 19:55"
+    "updated": "22 Sep 2025 20:39"
   }
 ]
