@@ -1,5 +1,25 @@
 [
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - LYNEHAM",
+    "id": "014477-23092025",
+    "latitude": "-35.25833789",
+    "longitude": "149.13098715",
+    "region": "act",
+    "time_of_call": "23 Sep 2025 06:50:45",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
+    "location": "DE BURGH STREET, LYNEHAM, 2602",
+    "updated": "23 Sep 2025 07:09:00"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -45,13 +65,13 @@
     "longitude": "149.072217",
     "region": "act",
     "time_of_call": "23 Sep 2025 06:16:14",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "23 Sep 2025 06:43:35"
+    "updated": "23 Sep 2025 07:19:38"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +89,45 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "23 Sep 2025 06:33:33"
+    "updated": "23 Sep 2025 07:12:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - LYNEHAM",
+    "id": "063471-23092025",
+    "latitude": "-35.25833789",
+    "longitude": "149.13098715",
+    "region": "act",
+    "time_of_call": "23 Sep 2025 06:50:46",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "",
+    "location": "DE BURGH STREET, LYNEHAM, 2602",
+    "updated": "23 Sep 2025 07:09:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "063472-23092025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "23 Sep 2025 06:54:32",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "23 Sep 2025 07:06:09"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -685,26 +743,6 @@
     "updated": "22 Sep 2025 22:48"
   },
   {
-    "title": "WENTWORTH AV, SUNSHINE BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621177",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.74811554",
-    "longitude": "150.205322265",
-    "region": "nsw",
-    "time_of_call": "23 Sep 2025 06:45:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "29 WENTWORTH AV, SUNSHINE BAY 2536",
-    "council_area": "Eurobodalla",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Sep 2025 06:45"
-  },
-  {
     "title": "BIMBLA AV, DOLPHIN POINT",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621178",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -712,9 +750,9 @@
     "latitude": "-35.3954200749999",
     "longitude": "150.442626953",
     "region": "nsw",
-    "time_of_call": "23 Sep 2025 06:43:00",
+    "time_of_call": "23 Sep 2025 07:16:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "12 BIMBLA AV, DOLPHIN POINT 2539",
     "council_area": "Shoalhaven",
@@ -724,6 +762,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Sep 2025 06:43"
+    "updated": "23 Sep 2025 07:16"
   }
 ]
