@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "22 Sep 2025 19:29:42"
+    "updated": "22 Sep 2025 19:38:36"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "22 Sep 2025 19:28:51"
+    "updated": "22 Sep 2025 19:42:52"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "22 Sep 2025 19:03:52"
+    "updated": "22 Sep 2025 19:47:59"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.064742",
     "region": "act",
     "time_of_call": "22 Sep 2025 19:01:58",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "22 Sep 2025 19:10:52"
+    "updated": ""
   },
   {
     "agency": "Ambulance",
@@ -124,6 +124,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
     "updated": "22 Sep 2025 19:18:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "063400-22092025",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "22 Sep 2025 19:42:18",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "22 Sep 2025 19:48:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOMBS",
+    "id": "063402-22092025",
+    "latitude": "-35.31486",
+    "longitude": "149.041664",
+    "region": "act",
+    "time_of_call": "22 Sep 2025 19:43:57",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOMBS",
+    "updated": "22 Sep 2025 19:49:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "063403-22092025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "22 Sep 2025 19:49:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "22 Sep 2025 19:49:39"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -815,9 +869,9 @@
     "latitude": "-31.962215423",
     "longitude": "151.94670105",
     "region": "nsw",
-    "time_of_call": "22 Sep 2025 19:07:00",
+    "time_of_call": "22 Sep 2025 19:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "KIAORA LOOKOUT BARRINGTON 2422",
     "council_area": "Mid-Coast",
@@ -827,7 +881,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Sep 2025 19:07"
+    "updated": "22 Sep 2025 19:38"
   },
   {
     "title": "OXLEY HWY, YARRAS",
@@ -850,50 +904,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Sep 2025 19:08"
-  },
-  {
-    "title": "BADGERYS CREEK RD, BADGERYS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621153",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.8870506289999",
-    "longitude": "150.740600586",
-    "region": "nsw",
-    "time_of_call": "22 Sep 2025 19:14:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "BADGERYS CREEK RD, BADGERYS CREEK 2555",
-    "council_area": "Liverpool",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Sep 2025 19:14"
-  },
-  {
-    "title": "Armour St, Bellambi",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621154",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.36912",
-    "longitude": "150.923258",
-    "region": "nsw",
-    "time_of_call": "22 Sep 2025 19:19:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Armour St, Bellambi, NSW 2518",
-    "council_area": "Wollongong",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Sep 2025 19:19"
   }
 ]
