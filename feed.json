@@ -9,15 +9,15 @@
     "longitude": "149.0043182373",
     "region": "act",
     "time_of_call": "22 Sep 2025 23:17:26",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "STORM OR TREE DAMAGE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "STROMLO PIPELINE ROAD, THE BIKE TRACK, STROMLO, 0000",
-    "updated": "22 Sep 2025 23:22:12"
+    "updated": "22 Sep 2025 23:47:15"
   },
   {
     "agency": "Ambulance",
@@ -36,24 +36,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
     "updated": "22 Sep 2025 22:57:31"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "063425-22092025",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "22 Sep 2025 21:58:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "22 Sep 2025 23:02:32"
   },
   {
     "agency": "Ambulance",
@@ -83,31 +65,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "22 Sep 2025 22:00:02",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "22 Sep 2025 22:08:52"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "063429-22092025",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "22 Sep 2025 22:15:30",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "22 Sep 2025 23:07:51"
+    "updated": "22 Sep 2025 23:41:23"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "22 Sep 2025 22:49:34"
+    "updated": "22 Sep 2025 23:37:33"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DENMAN PROSPECT",
-    "updated": "22 Sep 2025 23:26:06"
+    "updated": "22 Sep 2025 23:41:38"
   },
   {
     "agency": "Ambulance",
@@ -227,13 +191,31 @@
     "longitude": "149.165368",
     "region": "act",
     "time_of_call": "22 Sep 2025 23:28:46",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HACKETT",
+    "updated": "22 Sep 2025 23:48:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "063444-22092025",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "22 Sep 2025 23:42:22",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "HACKETT",
-    "updated": "22 Sep 2025 23:32:43"
+    "location": "KALEEN",
+    "updated": "22 Sep 2025 23:46:29"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1063,9 +1045,9 @@
     "latitude": "-32.460098267",
     "longitude": "151.10420227",
     "region": "nsw",
-    "time_of_call": "22 Sep 2025 22:38:00",
+    "time_of_call": "22 Sep 2025 23:43:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GLENNIES CREEK RD, GLENNIES CREEK 2330",
     "council_area": "Singleton",
@@ -1073,31 +1055,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Sep 2025 22:38"
-  },
-  {
-    "title": "Walgett St, Brewarrina",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621165",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.969348001",
-    "longitude": "146.868649",
-    "region": "nsw",
-    "time_of_call": "22 Sep 2025 23:24:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "32A Walgett St, Brewarrina, NSW 2839",
-    "council_area": "Brewarrina",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Sep 2025 23:24"
+    "updated": "22 Sep 2025 23:43"
   }
 ]
