@@ -151,7 +151,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "22 Sep 2025 14:30:10"
+    "updated": "22 Sep 2025 15:35:26"
   },
   {
     "agency": "Ambulance",
@@ -439,7 +439,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "22 Sep 2025 13:47:55"
+    "updated": "22 Sep 2025 15:33:07"
   },
   {
     "agency": "Ambulance",
@@ -601,7 +601,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "22 Sep 2025 15:04:34"
+    "updated": "22 Sep 2025 15:33:54"
   },
   {
     "agency": "Ambulance",
@@ -637,7 +637,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "22 Sep 2025 15:10:04"
+    "updated": "22 Sep 2025 15:29:30"
   },
   {
     "agency": "Ambulance",
@@ -673,7 +673,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "22 Sep 2025 15:11:33"
+    "updated": "22 Sep 2025 15:35:56"
   },
   {
     "agency": "Ambulance",
@@ -691,7 +691,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "22 Sep 2025 15:19:40"
+    "updated": "22 Sep 2025 15:32:27"
   },
   {
     "agency": "Ambulance",
@@ -751,19 +751,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "title": "AMBULANCE RESPONSE - HOLDER",
     "id": "063339-22092025",
-    "latitude": "-35.302295",
-    "longitude": "149.20515",
+    "latitude": "-35.337349",
+    "longitude": "149.046336",
     "region": "act",
     "time_of_call": "22 Sep 2025 15:09:11",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "CANBERRA AIRPORT",
-    "updated": "22 Sep 2025 15:13:00"
+    "location": "HOLDER",
+    "updated": "22 Sep 2025 15:30:44"
   },
   {
     "agency": "Ambulance",
@@ -1281,7 +1281,7 @@
     "latitude": "-33.4350204469999",
     "longitude": "149.623901367",
     "region": "nsw",
-    "time_of_call": "22 Sep 2025 11:47:00",
+    "time_of_call": "22 Sep 2025 15:23:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1293,7 +1293,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Sep 2025 11:47"
+    "updated": "22 Sep 2025 15:23"
   },
   {
     "title": "PIPECLAY RD, PIPECLAY",
@@ -1462,28 +1462,6 @@
     "updated": "18 Sep 2025 10:00"
   },
   {
-    "title": "THE AVENUE, HEATHCOTE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621107",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.0812606809999",
-    "longitude": "151.013534546",
-    "region": "nsw",
-    "time_of_call": "22 Sep 2025 15:06:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "JOHN PAUL VILLAGE 15 THE AVENUE, HEATHCOTE 2233",
-    "council_area": "Sutherland",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Sep 2025 15:06"
-  },
-  {
     "title": "BARTON ST, TAREE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621108",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1504,5 +1482,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "22 Sep 2025 15:14"
+  },
+  {
+    "title": "BRAHMAN RD, BOX HILL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621110",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6480369559999",
+    "longitude": "150.889587403",
+    "region": "nsw",
+    "time_of_call": "22 Sep 2025 15:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "SRI OM CARE 100 BRAHMAN RD, BOX HILL 2765",
+    "council_area": "The Hills",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Sep 2025 15:30"
   }
 ]
