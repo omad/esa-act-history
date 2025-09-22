@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "23 Sep 2025 08:57:37"
+    "updated": "23 Sep 2025 09:26:12"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "23 Sep 2025 08:49:18"
+    "updated": "23 Sep 2025 09:28:07"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +139,31 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "23 Sep 2025 09:07:16",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "23 Sep 2025 09:19:15"
+    "updated": "23 Sep 2025 09:30:04"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "063491-23092025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "23 Sep 2025 09:27:53",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": "23 Sep 2025 09:29:46"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -801,5 +819,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Sep 2025 08:57"
+  },
+  {
+    "title": "MILVALE TUBBAL RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621188",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.3145790099999",
+    "longitude": "147.915283203",
+    "region": "nsw",
+    "time_of_call": "23 Sep 2025 09:15:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "INCITEC FERTLISERS MILVALE SILOS MILVALE TUBBAL RD, MILVALE 2594",
+    "council_area": "Hilltops",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Sep 2025 09:15"
+  },
+  {
+    "title": "PAMPAS AV, COPACABANA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621189",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.490440368",
+    "longitude": "151.431549073",
+    "region": "nsw",
+    "time_of_call": "23 Sep 2025 09:27:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PAMPAS AV, COPACABANA 2251",
+    "council_area": "Central Coast",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Sep 2025 09:27"
   }
 ]
