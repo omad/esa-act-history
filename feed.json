@@ -20,26 +20,6 @@
     "updated": "23 Sep 2025 12:15:53"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "GAS PIPELINE INCIDENT - GRIFFITH",
-    "id": "014493-23092025",
-    "latitude": "-35.32548658",
-    "longitude": "149.1418894699",
-    "region": "act",
-    "time_of_call": "23 Sep 2025 11:09:31",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "GAS PIPELINE INCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/pipe-fire_0.svg",
-    "location": "BLAXLAND CRESCENT, GRIFFITH, 2603",
-    "updated": "23 Sep 2025 12:34:40"
-  },
-  {
     "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -58,6 +38,26 @@
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "HUNTLY COTTAGE, URIARRA ROAD, STROMLO, 0000",
     "updated": "23 Sep 2025 13:16:21"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HAZARD REDUCTION BURN - STROMLO",
+    "id": "014501-23092025",
+    "latitude": "-35.3290999998",
+    "longitude": "148.9580000001",
+    "region": "act",
+    "time_of_call": "23 Sep 2025 13:39:18",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "HAZARD REDUCTION BURN",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
+    "location": "CAMP COTTERMOUTH SCOUT CAMP, COTTER ROAD, STROMLO",
+    "updated": "23 Sep 2025 13:39:42"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "23 Sep 2025 11:37:32"
+    "updated": "23 Sep 2025 13:50:21"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DENMAN PROSPECT",
-    "updated": "23 Sep 2025 13:28:23"
+    "updated": "23 Sep 2025 13:44:23"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "23 Sep 2025 13:17:20"
+    "updated": ""
   },
   {
     "agency": "Ambulance",
@@ -202,24 +202,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
     "updated": "23 Sep 2025 13:13:02"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NICHOLLS",
-    "id": "063527-23092025",
-    "latitude": "-35.186387",
-    "longitude": "149.094445",
-    "region": "act",
-    "time_of_call": "23 Sep 2025 12:00:29",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NICHOLLS",
-    "updated": "23 Sep 2025 12:55:27"
   },
   {
     "agency": "Ambulance",
@@ -285,13 +267,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "23 Sep 2025 12:26:24",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "23 Sep 2025 12:30:59"
+    "updated": "23 Sep 2025 13:49:06"
   },
   {
     "agency": "Ambulance",
@@ -345,7 +327,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "23 Sep 2025 13:25:25"
+    "updated": "23 Sep 2025 13:46:01"
   },
   {
     "agency": "Ambulance",
@@ -375,13 +357,13 @@
     "longitude": "149.140719",
     "region": "act",
     "time_of_call": "23 Sep 2025 12:55:16",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "23 Sep 2025 13:18:17"
+    "updated": "23 Sep 2025 13:38:21"
   },
   {
     "agency": "Ambulance",
@@ -399,7 +381,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "23 Sep 2025 13:27:28"
+    "updated": "23 Sep 2025 13:34:37"
   },
   {
     "agency": "Ambulance",
@@ -447,13 +429,13 @@
     "longitude": "149.174707",
     "region": "act",
     "time_of_call": "23 Sep 2025 13:11:34",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FYSHWICK",
-    "updated": "23 Sep 2025 13:15:10"
+    "updated": "23 Sep 2025 13:43:05"
   },
   {
     "agency": "Ambulance",
@@ -471,7 +453,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "23 Sep 2025 13:27:18"
+    "updated": "23 Sep 2025 13:48:17"
   },
   {
     "agency": "Ambulance",
@@ -507,7 +489,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "23 Sep 2025 13:33:47"
+    "updated": "23 Sep 2025 13:34:31"
   },
   {
     "agency": "Ambulance",
@@ -525,7 +507,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "23 Sep 2025 13:33:11"
+    "updated": "23 Sep 2025 13:48:06"
   },
   {
     "agency": "Ambulance",
@@ -543,7 +525,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "23 Sep 2025 13:33:16"
+    "updated": "23 Sep 2025 13:43:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "063572-23092025",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "23 Sep 2025 13:49:23",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "23 Sep 2025 13:50:42"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -703,28 +703,6 @@
     "updated": "22 Sep 2025 11:25"
   },
   {
-    "title": "COOPERNOOK FOREST WAY, COOPERNOOK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620946",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.757804871",
-    "longitude": "152.56539917",
-    "region": "nsw",
-    "time_of_call": "23 Sep 2025 06:23:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "COOPERNOOK FOREST WAY, COOPERNOOK 2426",
-    "council_area": "Mid-Coast",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "2 ha",
-    "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "23 Sep 2025 06:23"
-  },
-  {
     "title": "BULL RD, GLEN ALLEN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_620974",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -823,7 +801,7 @@
     "latitude": "-31.4357891079999",
     "longitude": "152.54725647",
     "region": "nsw",
-    "time_of_call": "23 Sep 2025 06:26:00",
+    "time_of_call": "23 Sep 2025 13:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -838,32 +816,7 @@
     "fire": "Yes",
     "size": "99 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Sep 2025 06:26"
-  },
-  {
-    "title": "UPSALLS CREEK RD, UPSALLS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621084",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.6137962339999",
-    "longitude": "152.634902954",
-    "region": "nsw",
-    "time_of_call": "23 Sep 2025 08:39:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "350 UPSALLS CREEK RD, UPSALLS CREEK 2439",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "1 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Sep 2025 08:39"
+    "updated": "23 Sep 2025 13:31"
   },
   {
     "title": "RICHARDS LANE, JOADJA",
@@ -950,53 +903,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Sep 2025 06:18"
-  },
-  {
-    "title": "KIAORA LOOKOUT BARRINGTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621150",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.962215423",
-    "longitude": "151.94670105",
-    "region": "nsw",
-    "time_of_call": "23 Sep 2025 06:24:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "KIAORA LOOKOUT BARRINGTON 2422",
-    "council_area": "Mid-Coast",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Sep 2025 06:24"
-  },
-  {
-    "title": "OXLEY HWY, YARRAS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621151",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.4244956969999",
-    "longitude": "152.365722656",
-    "region": "nsw",
-    "time_of_call": "23 Sep 2025 08:35:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "OXLEY HWY, YARRAS 2446",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "22 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Sep 2025 08:35"
   },
   {
     "title": "PARKDALE RD, BOURKE",
@@ -1198,28 +1104,6 @@
     "updated": "23 Sep 2025 13:03"
   },
   {
-    "title": "CARNARVON RD, SCHOFIELDS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621207",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.702812195",
-    "longitude": "150.857208251",
-    "region": "nsw",
-    "time_of_call": "23 Sep 2025 13:17:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "214 CARNARVON RD, SCHOFIELDS 2762",
-    "council_area": "Blacktown",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Sep 2025 13:17"
-  },
-  {
     "title": "MENINDEE AERODROME RD, MENINDEE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621211",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1265,47 +1149,28 @@
     "updated": "23 Sep 2025 13:16"
   },
   {
-    "title": "CHARLES ST, COOLAH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621213",
+    "title": "Hillcrest Lane, Casino",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621217",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.827293396",
-    "longitude": "149.710876465",
+    "latitude": "-28.841395",
+    "longitude": "153.0314",
     "region": "nsw",
-    "time_of_call": "23 Sep 2025 13:10:00",
+    "time_of_call": "23 Sep 2025 13:39:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "CHARLES ST, COOLAH 2843",
-    "council_area": "Warrumbungle",
-    "type": "Structure Fire",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Hillcrest Lane, Casino, NSW 2470",
+    "council_area": "Richmond Valley",
+    "type": "Grass Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 Sep 2025 13:10"
-  },
-  {
-    "title": "HEATHCOTE RD, LUCAS HEIGHTS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621214",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.0539665219999",
-    "longitude": "150.971664428",
-    "region": "nsw",
-    "time_of_call": "23 Sep 2025 13:14:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "HEATHCOTE RD, LUCAS HEIGHTS 2234",
-    "council_area": "Sutherland",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Sep 2025 13:14"
+    "updated": "23 Sep 2025 13:39"
   }
 ]
