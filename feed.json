@@ -193,13 +193,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "24 Sep 2025 14:31:38",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "24 Sep 2025 15:31:29"
+    "updated": "24 Sep 2025 15:45:20"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +217,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "24 Sep 2025 15:23:46"
+    "updated": "24 Sep 2025 15:40:57"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +247,13 @@
     "longitude": "149.142366",
     "region": "act",
     "time_of_call": "24 Sep 2025 14:47:44",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "24 Sep 2025 15:02:06"
+    "updated": "24 Sep 2025 15:45:20"
   },
   {
     "agency": "Ambulance",
@@ -373,31 +373,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "24 Sep 2025 15:25:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "24 Sep 2025 15:35:49"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "063845-24092025",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "24 Sep 2025 15:25:17",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "24 Sep 2025 15:35:50"
+    "updated": "24 Sep 2025 15:48:26"
   },
   {
     "agency": "Ambulance",
@@ -415,7 +397,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "24 Sep 2025 15:35:58"
+    "updated": "24 Sep 2025 15:38:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "063848-24092025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "24 Sep 2025 15:47:48",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "24 Sep 2025 15:48:33"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -469,7 +469,7 @@
     "latitude": "-33.455699921",
     "longitude": "150.81124878",
     "region": "nsw",
-    "time_of_call": "24 Sep 2025 13:47:00",
+    "time_of_call": "24 Sep 2025 15:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -481,7 +481,7 @@
     "fire": "Yes",
     "size": "410 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "24 Sep 2025 13:47"
+    "updated": "24 Sep 2025 15:32"
   },
   {
     "title": "Adventist Aged Care",
@@ -1291,50 +1291,6 @@
     "updated": "24 Sep 2025 15:09"
   },
   {
-    "title": "THE NORTHERN RD, ORCHARD HILLS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621337",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.833198548",
-    "longitude": "150.683044434",
-    "region": "nsw",
-    "time_of_call": "24 Sep 2025 15:12:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "THE NORTHERN RD, ORCHARD HILLS 2748",
-    "council_area": "Penrith",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2025 15:12"
-  },
-  {
-    "title": "MCCANN RD, LAKE WYANGAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621338",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.2213592529999",
-    "longitude": "146.012695313",
-    "region": "nsw",
-    "time_of_call": "24 Sep 2025 15:18:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "MCCANN RD, LAKE WYANGAN 2680",
-    "council_area": "Griffith",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2025 15:18"
-  },
-  {
     "title": "MILVALE RD, MEMAGONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621339",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1342,9 +1298,9 @@
     "latitude": "-34.3090515129999",
     "longitude": "148.199111938",
     "region": "nsw",
-    "time_of_call": "24 Sep 2025 15:20:00",
+    "time_of_call": "24 Sep 2025 15:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MILVALE RD, MEMAGONG 2594",
     "council_area": "Hilltops",
@@ -1354,28 +1310,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2025 15:20"
-  },
-  {
-    "title": "BANNERMAN RD, KENTHURST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621340",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6895027159999",
-    "longitude": "150.984924316",
-    "region": "nsw",
-    "time_of_call": "24 Sep 2025 15:33:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "14 BANNERMAN RD, KENTHURST 2156",
-    "council_area": "The Hills",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2025 15:33"
+    "updated": "24 Sep 2025 15:40"
   }
 ]
