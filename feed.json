@@ -33,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "25 Sep 2025 09:02:58"
+    "updated": "25 Sep 2025 09:26:21"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "25 Sep 2025 08:53:42"
+    "updated": "25 Sep 2025 09:26:04"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.046603",
     "region": "act",
     "time_of_call": "25 Sep 2025 08:15:48",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "25 Sep 2025 09:20:13"
+    "updated": "25 Sep 2025 09:27:27"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "25 Sep 2025 09:20:17"
+    "updated": "25 Sep 2025 09:22:28"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "25 Sep 2025 09:16:46"
+    "updated": "25 Sep 2025 09:22:28"
   },
   {
     "agency": "Ambulance",
@@ -196,24 +196,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
     "updated": "25 Sep 2025 09:20:44"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - RED HILL",
-    "id": "063989-25092025",
-    "latitude": "-35.3392627",
-    "longitude": "149.1331437",
-    "region": "act",
-    "time_of_call": "25 Sep 2025 09:04:45",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
-    "location": "ASTROLABE STREET, RED HILL, 2603",
-    "updated": "25 Sep 2025 09:15:47"
   },
   {
     "agency": "Ambulance",
@@ -394,7 +376,7 @@
     "latitude": "-36.674587249",
     "longitude": "149.403152465",
     "region": "nsw",
-    "time_of_call": "24 Sep 2025 15:46:00",
+    "time_of_call": "25 Sep 2025 09:07:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -409,7 +391,7 @@
     "fire": "Yes",
     "size": "12 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "24 Sep 2025 15:46"
+    "updated": "25 Sep 2025 09:07"
   },
   {
     "title": "GOOLHI RD, MARYS MOUNT",
@@ -631,6 +613,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Sep 2025 00:18"
+  },
+  {
+    "title": "Wooglamai HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621218",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.131622315",
+    "longitude": "150.505645752",
+    "region": "nsw",
+    "time_of_call": "25 Sep 2025 09:19:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "WOOGLAMAI HR 1275 BARKERS LODGE RD, OAKDALE 2570",
+    "council_area": "Wollondilly",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "92 ha",
+    "responsible_agency": "NSW National Parks and Wildlife Service",
+    "updated": "25 Sep 2025 09:19"
   },
   {
     "title": "Minyon Cultural HR",
@@ -976,28 +980,6 @@
     "updated": "25 Sep 2025 07:01"
   },
   {
-    "title": "WAKELANDS RD, SAPPHIRE BEACH NSW",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621369",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.2180461889999",
-    "longitude": "153.142669678",
-    "region": "nsw",
-    "time_of_call": "25 Sep 2025 07:03:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "31 WAKELANDS RD, SAPPHIRE BEACH NSW 2450",
-    "council_area": "Coffs Harbour",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Sep 2025 07:03"
-  },
-  {
     "title": "LACKERSTEENS ROAD, SOMERSBY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621372",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1133,53 +1115,6 @@
     "updated": "25 Sep 2025 07:05"
   },
   {
-    "title": "LORNE RD, UPSALLS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621409",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.6345462799999",
-    "longitude": "152.65725708",
-    "region": "nsw",
-    "time_of_call": "25 Sep 2025 06:51:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "452 LORNE RD, UPSALLS CREEK 2439",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Sep 2025 06:51"
-  },
-  {
-    "title": "Prince St, Murwillumbah",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621420",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.3297049999999",
-    "longitude": "153.390837",
-    "region": "nsw",
-    "time_of_call": "25 Sep 2025 09:14:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Prince St, Murwillumbah, NSW 2484",
-    "council_area": "Tweed",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Sep 2025 09:14"
-  },
-  {
     "title": "SILVERDALE RD, ORANGEVILLE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621421",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1222,5 +1157,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Sep 2025 09:18"
+  },
+  {
+    "title": "Ballengarra State Forest",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621423",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.2523837749999",
+    "longitude": "152.757282261",
+    "region": "nsw",
+    "time_of_call": "17 Sep 2025 10:00:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "Ballengarra - Old Kempsey Road",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "758 ha",
+    "responsible_agency": "Forestry Corporation of NSW",
+    "updated": "17 Sep 2025 10:00"
   }
 ]
