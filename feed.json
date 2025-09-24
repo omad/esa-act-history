@@ -123,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "24 Sep 2025 18:20:06"
+    "updated": "24 Sep 2025 18:35:31"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +177,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "24 Sep 2025 18:23:48"
+    "updated": "24 Sep 2025 18:46:43"
   },
   {
     "agency": "Ambulance",
@@ -213,25 +213,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "24 Sep 2025 18:28:11"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WARAMANGA",
-    "id": "063872-24092025",
-    "latitude": "-35.353501",
-    "longitude": "149.06067",
-    "region": "act",
-    "time_of_call": "24 Sep 2025 18:15:50",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WARAMANGA",
-    "updated": "24 Sep 2025 18:28:01"
+    "updated": "24 Sep 2025 18:44:15"
   },
   {
     "agency": "Ambulance",
@@ -249,7 +231,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": ""
+    "updated": "24 Sep 2025 18:45:47"
   },
   {
     "agency": "Ambulance",
@@ -261,13 +243,13 @@
     "longitude": "149.111857",
     "region": "act",
     "time_of_call": "24 Sep 2025 18:26:49",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "24 Sep 2025 18:31:08"
+    "updated": "24 Sep 2025 18:40:02"
   },
   {
     "agency": "Ambulance",
@@ -279,13 +261,31 @@
     "longitude": "149.099934",
     "region": "act",
     "time_of_call": "24 Sep 2025 18:30:09",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "YARRALUMLA",
+    "updated": "24 Sep 2025 18:37:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - EVATT",
+    "id": "063876-24092025",
+    "latitude": "-35.212001",
+    "longitude": "149.066294",
+    "region": "act",
+    "time_of_call": "24 Sep 2025 18:36:57",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "YARRALUMLA",
-    "updated": "24 Sep 2025 18:33:19"
+    "location": "EVATT",
+    "updated": "24 Sep 2025 18:53:13"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -339,7 +339,7 @@
     "latitude": "-33.455699921",
     "longitude": "150.81124878",
     "region": "nsw",
-    "time_of_call": "24 Sep 2025 15:32:00",
+    "time_of_call": "24 Sep 2025 18:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -351,7 +351,7 @@
     "fire": "Yes",
     "size": "410 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "24 Sep 2025 15:32"
+    "updated": "24 Sep 2025 18:38"
   },
   {
     "title": "Adventist Aged Care",
@@ -757,28 +757,6 @@
     "updated": "24 Sep 2025 13:20"
   },
   {
-    "title": "BELLS LINE OF ROAD, KURRAJONG HILLS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621270",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.54529953",
-    "longitude": "150.649658203",
-    "region": "nsw",
-    "time_of_call": "24 Sep 2025 00:57:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "918 BELLS LINE OF ROAD, KURRAJONG HILLS 2758",
-    "council_area": "Hawkesbury",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2025 00:57"
-  },
-  {
     "title": "CROUCH ST, NEVILLE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621289",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -897,10 +875,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621320",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.843790048",
-    "longitude": "144.386336804",
+    "latitude": "-35.8437881469999",
+    "longitude": "144.38633728",
     "region": "nsw",
-    "time_of_call": "24 Sep 2025 14:29:00",
+    "time_of_call": "24 Sep 2025 18:34:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
@@ -911,8 +889,8 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2025 14:29"
+    "responsible_agency": "Forestry Corporation of NSW",
+    "updated": "24 Sep 2025 18:34"
   },
   {
     "title": "SPOONERS AV, GREENHILL",
@@ -1103,53 +1081,6 @@
     "updated": "24 Sep 2025 16:11"
   },
   {
-    "title": "HUME HWY, JUGIONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621358",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.816707611",
-    "longitude": "148.353668213",
-    "region": "nsw",
-    "time_of_call": "24 Sep 2025 17:04:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "HUME HWY, JUGIONG 2726",
-    "council_area": "Hilltops",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2025 17:04"
-  },
-  {
-    "title": "BROMAGE RD, ABERMAIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621361",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.8416175849999",
-    "longitude": "151.419509888",
-    "region": "nsw",
-    "time_of_call": "24 Sep 2025 17:49:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "BROMAGE RD, ABERMAIN 2326",
-    "council_area": "Cessnock",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2025 17:49"
-  },
-  {
     "title": "MARSH RD, BOBS FARM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621364",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1172,21 +1103,21 @@
     "updated": "24 Sep 2025 18:04"
   },
   {
-    "title": "185 MIDDLE BOAMBEE RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621368",
+    "title": "WAKELANDS RD, SAPPHIRE BEACH NSW",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621369",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.328231811",
-    "longitude": "153.055114746",
+    "latitude": "-30.218580088",
+    "longitude": "153.139586449",
     "region": "nsw",
-    "time_of_call": "24 Sep 2025 18:19:00",
+    "time_of_call": "24 Sep 2025 18:29:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "185 MIDDLE BOAMBEE RD",
+    "location": "31 WAKELANDS RD, SAPPHIRE BEACH NSW 2450",
     "council_area": "Coffs Harbour",
     "type": "Bush Fire",
     "type_description": "",
@@ -1194,29 +1125,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2025 18:19"
-  },
-  {
-    "title": "WAKELANDS RD, SAPPHIRE BEACH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621369",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.217968314",
-    "longitude": "153.142624855",
-    "region": "nsw",
-    "time_of_call": "24 Sep 2025 18:02:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "37 WAKELANDS RD, SAPPHIRE BEACH 2450",
-    "council_area": "Coffs Harbour",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2025 18:02"
+    "updated": "24 Sep 2025 18:29"
   },
   {
     "title": "BRUXNER HWY, WOLLONGBAR",
@@ -1248,9 +1157,9 @@
     "latitude": "-33.367221833",
     "longitude": "151.312438965",
     "region": "nsw",
-    "time_of_call": "24 Sep 2025 18:18:00",
+    "time_of_call": "24 Sep 2025 18:43:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "PEATS RIDGE RD, SOMERSBY 2250",
     "council_area": "Central Coast",
@@ -1260,7 +1169,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Sep 2025 18:18"
+    "updated": "24 Sep 2025 18:43"
   },
   {
     "title": "BERANGHI RD, CRESCENT HEAD",
@@ -1283,5 +1192,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Sep 2025 18:23"
+  },
+  {
+    "title": "HALF CHAIN RD, KOORAINGHAT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621374",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.982160569",
+    "longitude": "152.48336792",
+    "region": "nsw",
+    "time_of_call": "24 Sep 2025 18:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "582 HALF CHAIN RD, KOORAINGHAT 2430",
+    "council_area": "Mid-Coast",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Sep 2025 18:30"
+  },
+  {
+    "title": "NAVAL COLLEGE RD, WORROWING HEIGHTS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621375",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.07850647",
+    "longitude": "150.657791138",
+    "region": "nsw",
+    "time_of_call": "24 Sep 2025 18:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "NAVAL COLLEGE RD, WORROWING HEIGHTS 2540",
+    "council_area": "Shoalhaven",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Sep 2025 18:39"
   }
 ]
