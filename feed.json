@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "26 Sep 2025 07:14:54"
+    "updated": "26 Sep 2025 07:38:04"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "26 Sep 2025 07:27:14"
+    "updated": "26 Sep 2025 07:36:51"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "26 Sep 2025 07:20:21"
+    "updated": "26 Sep 2025 07:32:25"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,31 @@
     "longitude": "149.143165",
     "region": "act",
     "time_of_call": "26 Sep 2025 07:17:40",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONNER",
+    "updated": "26 Sep 2025 07:45:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "064204-26092025",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "26 Sep 2025 07:32:26",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "BONNER",
-    "updated": "26 Sep 2025 07:24:31"
+    "location": "MACGREGOR",
+    "updated": "26 Sep 2025 07:38:28"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1044,8 +1062,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621534",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-28.2010326389999",
-    "longitude": "153.565292358",
+    "latitude": "-28.209619522",
+    "longitude": "153.564559936",
     "region": "nsw",
     "time_of_call": "26 Sep 2025 04:50:00",
     "event_type": "burnt area",
@@ -1089,9 +1107,9 @@
     "latitude": "-31.895338059",
     "longitude": "152.662429809",
     "region": "nsw",
-    "time_of_call": "26 Sep 2025 06:57:00",
+    "time_of_call": "26 Sep 2025 07:30:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "43 MANNING ST, MANNING POINT 2430",
     "council_area": "Mid-Coast",
@@ -1101,7 +1119,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Sep 2025 06:57"
+    "updated": "26 Sep 2025 07:30"
   },
   {
     "title": "MARY GILMORE WAY, BRIBBAREE",
@@ -1124,5 +1142,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Sep 2025 07:13"
+  },
+  {
+    "title": "MITCHELLS ACCESS RD, BELLBROOK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621541",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.7461700439999",
+    "longitude": "152.513580322",
+    "region": "nsw",
+    "time_of_call": "26 Sep 2025 07:29:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "99 MITCHELLS ACCESS RD, BELLBROOK 2440",
+    "council_area": "Kempsey",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Sep 2025 07:29"
   }
 ]
