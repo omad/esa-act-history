@@ -201,7 +201,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "27 Sep 2025 02:32:39"
+    "updated": "27 Sep 2025 03:12:29"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +219,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "27 Sep 2025 02:49:17"
+    "updated": "27 Sep 2025 03:12:29"
   },
   {
     "agency": "Ambulance",
@@ -285,13 +285,13 @@
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "27 Sep 2025 01:52:27",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "27 Sep 2025 02:46:11"
+    "updated": "27 Sep 2025 03:19:59"
   },
   {
     "agency": "Ambulance",
@@ -375,13 +375,13 @@
     "longitude": "149.111857",
     "region": "act",
     "time_of_call": "27 Sep 2025 02:31:19",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "27 Sep 2025 02:47:55"
+    "updated": "27 Sep 2025 03:06:22"
   },
   {
     "agency": "Ambulance",
@@ -399,7 +399,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "27 Sep 2025 02:44:28"
+    "updated": "27 Sep 2025 03:15:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "064445-27092025",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "27 Sep 2025 03:05:21",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "27 Sep 2025 03:15:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THEODORE",
+    "id": "064446-27092025",
+    "latitude": "-35.449632",
+    "longitude": "149.120754",
+    "region": "act",
+    "time_of_call": "27 Sep 2025 03:05:58",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THEODORE",
+    "updated": "27 Sep 2025 03:15:13"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1440,28 +1476,6 @@
     "updated": "27 Sep 2025 02:33"
   },
   {
-    "title": "STURT HWY, FOREST HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621729",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.14893341",
-    "longitude": "147.467864991",
-    "region": "nsw",
-    "time_of_call": "27 Sep 2025 02:33:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "STURT HWY, FOREST HILL 2651",
-    "council_area": "Wagga Wagga",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 02:33"
-  },
-  {
     "title": "Eden Fireshed",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621730",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1482,5 +1496,27 @@
     "size": "27 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Sep 2025 10:00"
+  },
+  {
+    "title": "LANSDOWNE RD, CUNDLETOWN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621731",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.866666794",
+    "longitude": "152.504669189",
+    "region": "nsw",
+    "time_of_call": "27 Sep 2025 02:53:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "LANSDOWNE RD, CUNDLETOWN 2430",
+    "council_area": "Mid-Coast",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Sep 2025 02:53"
   }
 ]
