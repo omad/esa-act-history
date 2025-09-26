@@ -219,7 +219,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "27 Sep 2025 03:12:29"
+    "updated": "27 Sep 2025 03:34:13"
   },
   {
     "agency": "Ambulance",
@@ -267,13 +267,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "27 Sep 2025 01:47:12",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "27 Sep 2025 01:52:08"
+    "updated": "27 Sep 2025 03:46:25"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +291,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "27 Sep 2025 03:28:54"
+    "updated": "27 Sep 2025 03:38:07"
   },
   {
     "agency": "Ambulance",
@@ -370,24 +370,6 @@
     "alert_level": "",
     "event_type": "incident",
     "title": "AMBULANCE RESPONSE - O'CONNOR",
-    "id": "064443-27092025",
-    "latitude": "-35.256876",
-    "longitude": "149.111857",
-    "region": "act",
-    "time_of_call": "27 Sep 2025 02:31:19",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "O'CONNOR",
-    "updated": "27 Sep 2025 03:06:22"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - O'CONNOR",
     "id": "064444-27092025",
     "latitude": "-35.256876",
     "longitude": "149.111857",
@@ -417,7 +399,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "27 Sep 2025 03:15:43"
+    "updated": "27 Sep 2025 03:46:06"
   },
   {
     "agency": "Ambulance",
@@ -1397,7 +1379,7 @@
     "latitude": "-28.7451953889999",
     "longitude": "153.141845704",
     "region": "nsw",
-    "time_of_call": "26 Sep 2025 22:27:00",
+    "time_of_call": "27 Sep 2025 03:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1407,9 +1389,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Sep 2025 22:27"
+    "updated": "27 Sep 2025 03:33"
   },
   {
     "title": "FOREST WAY, WEE WAA",
@@ -1502,8 +1484,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621731",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.860836029",
-    "longitude": "152.505523682",
+    "latitude": "-31.834274292",
+    "longitude": "152.510391236",
     "region": "nsw",
     "time_of_call": "27 Sep 2025 03:20:00",
     "event_type": "burnt area",
@@ -1565,5 +1547,50 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "27 Sep 2025 03:21"
+  },
+  {
+    "title": "HAWKESBURY RD, WINMALEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621736",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6724014289999",
+    "longitude": "150.617996216",
+    "region": "nsw",
+    "time_of_call": "27 Sep 2025 03:35:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "502A HAWKESBURY RD, WINMALEE 2777",
+    "council_area": "Blue Mountains",
+    "type": "Planned Event",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "27 Sep 2025 03:35"
+  },
+  {
+    "title": "Gascoigne Rd, Birrong",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621737",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.8918649999999",
+    "longitude": "151.017189",
+    "region": "nsw",
+    "time_of_call": "27 Sep 2025 03:45:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Gascoigne Rd, Birrong, NSW 2143",
+    "council_area": "Canterbury-Bankstown",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "27 Sep 2025 03:45"
   }
 ]
