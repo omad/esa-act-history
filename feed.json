@@ -201,7 +201,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "27 Sep 2025 03:12:29"
+    "updated": "27 Sep 2025 03:27:40"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +291,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "27 Sep 2025 03:19:59"
+    "updated": "27 Sep 2025 03:28:54"
   },
   {
     "agency": "Ambulance",
@@ -1502,13 +1502,16 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621731",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.866666794",
-    "longitude": "152.504669189",
+    "latitude": "-31.860836029",
+    "longitude": "152.505523682",
     "region": "nsw",
-    "time_of_call": "27 Sep 2025 02:53:00",
+    "time_of_call": "27 Sep 2025 03:20:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "LANSDOWNE RD, CUNDLETOWN 2430",
     "council_area": "Mid-Coast",
     "type": "Grass Fire",
@@ -1517,6 +1520,50 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 02:53"
+    "updated": "27 Sep 2025 03:20"
+  },
+  {
+    "title": "GILMOUR CL, GLENHAVEN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621734",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.699840545",
+    "longitude": "151.007141113",
+    "region": "nsw",
+    "time_of_call": "27 Sep 2025 03:26:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "2 GILMOUR CL, GLENHAVEN 2156",
+    "council_area": "The Hills",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Sep 2025 03:26"
+  },
+  {
+    "title": "BILLA RD, BANGOR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621735",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.010864258",
+    "longitude": "151.029434204",
+    "region": "nsw",
+    "time_of_call": "27 Sep 2025 03:21:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "BILLA RD, BANGOR 2234",
+    "council_area": "Sutherland",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "27 Sep 2025 03:21"
   }
 ]
