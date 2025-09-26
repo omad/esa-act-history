@@ -93,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "27 Sep 2025 07:19:13"
+    "updated": "27 Sep 2025 07:37:18"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "27 Sep 2025 07:20:28"
+    "updated": "27 Sep 2025 07:45:14"
   },
   {
     "agency": "Ambulance",
@@ -183,7 +183,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "27 Sep 2025 06:58:34"
+    "updated": "27 Sep 2025 07:46:00"
   },
   {
     "agency": "Ambulance",
@@ -213,13 +213,13 @@
     "longitude": "149.155928",
     "region": "act",
     "time_of_call": "27 Sep 2025 07:09:31",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "27 Sep 2025 07:25:25"
+    "updated": "27 Sep 2025 07:32:53"
   },
   {
     "agency": "Ambulance",
@@ -231,13 +231,13 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "27 Sep 2025 07:26:25",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "27 Sep 2025 07:28:33"
+    "updated": "27 Sep 2025 07:32:11"
   },
   {
     "agency": "Ambulance",
@@ -249,13 +249,67 @@
     "longitude": "149.111133",
     "region": "act",
     "time_of_call": "27 Sep 2025 07:27:44",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RICHARDSON",
+    "updated": "27 Sep 2025 07:45:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - FYSHWICK",
+    "id": "064469-27092025",
+    "latitude": "-35.3219732499",
+    "longitude": "149.1795685699",
+    "region": "act",
+    "time_of_call": "27 Sep 2025 07:32:37",
+    "status": "Finished",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
+    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
+    "location": "GLADSTONE STREET, FYSHWICK, 2609",
+    "updated": "27 Sep 2025 07:47:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HACKETT",
+    "id": "064470-27092025",
+    "latitude": "-35.249801",
+    "longitude": "149.165368",
+    "region": "act",
+    "time_of_call": "27 Sep 2025 07:34:52",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "RICHARDSON",
-    "updated": "27 Sep 2025 07:28:45"
+    "location": "HACKETT",
+    "updated": "27 Sep 2025 07:41:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "064471-27092025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "27 Sep 2025 07:42:05",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "27 Sep 2025 07:48:44"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -714,7 +768,7 @@
     "latitude": "-31.2523837749999",
     "longitude": "152.757282261",
     "region": "nsw",
-    "time_of_call": "26 Sep 2025 15:14:00",
+    "time_of_call": "27 Sep 2025 07:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -726,7 +780,7 @@
     "fire": "Yes",
     "size": "758 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "26 Sep 2025 15:14"
+    "updated": "27 Sep 2025 07:30"
   },
   {
     "title": "Lagoon Trail HR",
@@ -1532,28 +1586,6 @@
     "updated": "27 Sep 2025 07:03"
   },
   {
-    "title": "TWEED COAST RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621747",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.336460114",
-    "longitude": "153.574493408",
-    "region": "nsw",
-    "time_of_call": "27 Sep 2025 07:05:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "CABARITA BEACH LIONS PARK TWEED COAST RD, CABARITA BEACH 2488",
-    "council_area": "Tweed",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 07:05"
-  },
-  {
     "title": "NORTON RD, WAMBOIN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621748",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1561,9 +1593,9 @@
     "latitude": "-35.249801636",
     "longitude": "149.341049194",
     "region": "nsw",
-    "time_of_call": "27 Sep 2025 07:05:00",
+    "time_of_call": "27 Sep 2025 07:35:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "758 NORTON RD, WAMBOIN 2620",
     "council_area": "Queanbeyan-Palerang",
@@ -1571,7 +1603,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 07:05"
+    "updated": "27 Sep 2025 07:35"
   },
   {
     "title": "MURRINGO RD, YOUNG",
@@ -1581,9 +1613,9 @@
     "latitude": "-34.31641388",
     "longitude": "148.362533569",
     "region": "nsw",
-    "time_of_call": "27 Sep 2025 07:12:00",
+    "time_of_call": "27 Sep 2025 07:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "3848 MURRINGO RD, YOUNG 2594",
     "council_area": "Hilltops",
@@ -1593,28 +1625,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 07:12"
+    "updated": "27 Sep 2025 07:27"
   },
   {
-    "title": "RANGE RD, WHITTINGHAM",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621750",
+    "title": "GOLDEN HWY, CASSILIS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621752",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.6044006339999",
-    "longitude": "151.201004028",
+    "latitude": "-32.0354385369999",
+    "longitude": "150.007873535",
     "region": "nsw",
-    "time_of_call": "27 Sep 2025 07:12:00",
+    "time_of_call": "27 Sep 2025 07:42:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "RANGE RD, WHITTINGHAM 2330",
-    "council_area": "Singleton",
-    "type": "Grass Fire",
+    "location": "8876 GOLDEN HWY, CASSILIS 2329",
+    "council_area": "Upper Hunter",
+    "type": "MVA/Transport",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 07:12"
+    "updated": "27 Sep 2025 07:42"
   }
 ]
