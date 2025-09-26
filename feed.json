@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "26 Sep 2025 15:28:44"
+    "updated": "26 Sep 2025 15:41:08"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "26 Sep 2025 15:19:07"
+    "updated": "26 Sep 2025 15:47:57"
   },
   {
     "agency": "Ambulance",
@@ -263,13 +263,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "26 Sep 2025 15:11:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "26 Sep 2025 15:37:37"
+    "updated": "26 Sep 2025 15:45:27"
   },
   {
     "agency": "Ambulance",
@@ -305,7 +305,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "26 Sep 2025 15:20:53"
+    "updated": "26 Sep 2025 15:39:21"
   },
   {
     "agency": "Ambulance",
@@ -323,7 +323,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "26 Sep 2025 15:30:42"
+    "updated": "26 Sep 2025 15:45:27"
   },
   {
     "agency": "Ambulance",
@@ -395,7 +395,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "26 Sep 2025 15:36:26"
+    "updated": "26 Sep 2025 15:38:12"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "064331-26092025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "26 Sep 2025 15:45:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "26 Sep 2025 15:47:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DENMAN PROSPECT",
+    "id": "064332-26092025",
+    "latitude": "-35.303694",
+    "longitude": "149.025004",
+    "region": "act",
+    "time_of_call": "26 Sep 2025 15:48:02",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DENMAN PROSPECT",
+    "updated": "26 Sep 2025 15:48:59"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -609,7 +645,7 @@
     "latitude": "-33.2380523689999",
     "longitude": "151.399642944",
     "region": "nsw",
-    "time_of_call": "26 Sep 2025 10:21:00",
+    "time_of_call": "26 Sep 2025 15:37:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -621,7 +657,7 @@
     "fire": "Yes",
     "size": "11 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Sep 2025 10:21"
+    "updated": "26 Sep 2025 15:37"
   },
   {
     "title": "Woodbury Park HR",
@@ -1465,7 +1501,7 @@
     "latitude": "-33.6419334409999",
     "longitude": "146.977218628",
     "region": "nsw",
-    "time_of_call": "26 Sep 2025 13:11:00",
+    "time_of_call": "26 Sep 2025 15:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1477,7 +1513,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Sep 2025 13:11"
+    "updated": "26 Sep 2025 15:42"
   },
   {
     "title": "GUYRA RD, TINGHA",
@@ -1547,28 +1583,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Sep 2025 13:07"
-  },
-  {
-    "title": "SLOPES RD, THARBOGANG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621590",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.2326927189999",
-    "longitude": "145.96560669",
-    "region": "nsw",
-    "time_of_call": "26 Sep 2025 13:18:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "724 SLOPES RD, THARBOGANG 2680",
-    "council_area": "Griffith",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Sep 2025 13:18"
   },
   {
     "title": "SOUTH ARM RD, SOUTH ARM",
@@ -1842,9 +1856,9 @@
     "latitude": "-33.515037537",
     "longitude": "151.193481445",
     "region": "nsw",
-    "time_of_call": "26 Sep 2025 15:17:00",
+    "time_of_call": "26 Sep 2025 15:34:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "M1 (PACIFIC MTWY), MOONEY MOONEY 2083",
     "council_area": "Central Coast",
@@ -1854,6 +1868,72 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Sep 2025 15:17"
+    "updated": "26 Sep 2025 15:34"
+  },
+  {
+    "title": "GREEN PIGEON RD, HORSESHOE CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621631",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.523454667",
+    "longitude": "153.031646729",
+    "region": "nsw",
+    "time_of_call": "26 Sep 2025 15:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "152 GREEN PIGEON RD, HORSESHOE CREEK 2474",
+    "council_area": "Kyogle",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Sep 2025 15:36"
+  },
+  {
+    "title": "(THE NORTHERN RD), BRINGELLY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621632",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.971057892",
+    "longitude": "150.737442017",
+    "region": "nsw",
+    "time_of_call": "26 Sep 2025 15:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "A9 (THE NORTHERN RD), BRINGELLY 2556",
+    "council_area": "Camden",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Sep 2025 15:37"
+  },
+  {
+    "title": "BYLONG VALLEY WAY, BAERAMI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621633",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.388305664",
+    "longitude": "150.48803711",
+    "region": "nsw",
+    "time_of_call": "26 Sep 2025 15:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1156 BYLONG VALLEY WAY, BAERAMI 2333",
+    "council_area": "Muswellbrook",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Sep 2025 15:39"
   }
 ]
