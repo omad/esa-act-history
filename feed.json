@@ -95,7 +95,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "28 Sep 2025 09:21:38"
+    "updated": "28 Sep 2025 09:34:30"
   },
   {
     "agency": "Ambulance",
@@ -107,31 +107,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "28 Sep 2025 06:29:56",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "28 Sep 2025 09:24:24"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - RICHARDSON",
-    "id": "064731-28092025",
-    "latitude": "-35.428715",
-    "longitude": "149.111133",
-    "region": "act",
-    "time_of_call": "28 Sep 2025 06:41:58",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "RICHARDSON",
-    "updated": "28 Sep 2025 09:01:09"
+    "location": "MONASH",
+    "updated": "28 Sep 2025 09:37:12"
   },
   {
     "agency": "Ambulance",
@@ -149,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "28 Sep 2025 09:10:16"
+    "updated": "28 Sep 2025 09:34:23"
   },
   {
     "agency": "Ambulance",
@@ -197,13 +179,13 @@
     "longitude": "149.094654",
     "region": "act",
     "time_of_call": "28 Sep 2025 09:04:04",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "28 Sep 2025 09:09:16"
+    "updated": "28 Sep 2025 09:43:03"
   },
   {
     "agency": "Ambulance",
@@ -233,13 +215,31 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "28 Sep 2025 09:24:10",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "28 Sep 2025 09:26:35"
+    "updated": "28 Sep 2025 09:30:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "064749-28092025",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "28 Sep 2025 09:39:13",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STIRLING",
+    "updated": "28 Sep 2025 09:46:04"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -622,6 +622,28 @@
     "updated": "27 Sep 2025 21:50"
   },
   {
+    "title": "Greylands HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621298",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.593294144",
+    "longitude": "151.469924927",
+    "region": "nsw",
+    "time_of_call": "28 Sep 2025 09:43:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "GREYLANDS HR 800 THUNDERBOLTS WAY, ROCKY RIVER 2358",
+    "council_area": "Uralla",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "24 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Sep 2025 09:43"
+  },
+  {
     "title": "Darnley Oval, HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621314",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -924,9 +946,9 @@
     "latitude": "-30.820329667",
     "longitude": "152.251693726",
     "region": "nsw",
-    "time_of_call": "28 Sep 2025 06:36:00",
+    "time_of_call": "28 Sep 2025 09:05:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -939,7 +961,7 @@
     "fire": "Yes",
     "size": "610 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2025 06:36"
+    "updated": "28 Sep 2025 09:05"
   },
   {
     "title": "MYALL PARK RD, MYALL PARK",
@@ -1510,28 +1532,6 @@
     "updated": "28 Sep 2025 07:52"
   },
   {
-    "title": "ROSENEATH RD, BOBS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621822",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.5909328459999",
-    "longitude": "152.74887085",
-    "region": "nsw",
-    "time_of_call": "27 Sep 2025 23:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "110 ROSENEATH RD, BOBS CREEK 2443",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 23:07"
-  },
-  {
     "title": "BOORAL-WASHPOOL RD, STROUD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621838",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1740,7 +1740,7 @@
     "latitude": "-29.108563706",
     "longitude": "152.753605843",
     "region": "nsw",
-    "time_of_call": "27 Sep 2025 19:34:00",
+    "time_of_call": "28 Sep 2025 09:29:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "status_description": "",
@@ -1753,9 +1753,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "65 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "27 Sep 2025 19:34"
+    "updated": "28 Sep 2025 09:29"
   },
   {
     "title": "PARKDALE RD, BOURKE",
@@ -1903,9 +1903,9 @@
     "latitude": "-34.542472839",
     "longitude": "150.320144653",
     "region": "nsw",
-    "time_of_call": "28 Sep 2025 08:11:00",
+    "time_of_call": "28 Sep 2025 09:14:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "ETNA VALLEY 325 OLDBURY RD, SUTTON FOREST 2577",
     "council_area": "Wingecarribee",
@@ -1915,7 +1915,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2025 08:11"
+    "updated": "28 Sep 2025 09:14"
   },
   {
     "title": "Hall Drive Reserve",
@@ -1969,7 +1969,7 @@
     "latitude": "-33.5477600089999",
     "longitude": "151.220291138",
     "region": "nsw",
-    "time_of_call": "28 Sep 2025 09:03:00",
+    "time_of_call": "28 Sep 2025 09:29:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1979,7 +1979,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2025 09:03"
+    "updated": "28 Sep 2025 09:29"
   },
   {
     "title": "JERUSALEM RD, STEWARTS RIVER",
@@ -2011,19 +2011,19 @@
     "latitude": "-33.686874389",
     "longitude": "150.981323242",
     "region": "nsw",
-    "time_of_call": "28 Sep 2025 09:12:00",
+    "time_of_call": "28 Sep 2025 09:31:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "17 BANNERMAN RD, KENTHURST 2156",
     "council_area": "The Hills",
-    "type": "Other",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2025 09:12"
+    "updated": "28 Sep 2025 09:31"
   },
   {
     "title": "OLD COAST RD, KORORA",
@@ -2046,5 +2046,69 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Sep 2025 09:21"
+  },
+  {
+    "title": "KAMBER RD, TERREY HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621978",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6933174129999",
+    "longitude": "151.22215271",
+    "region": "nsw",
+    "time_of_call": "28 Sep 2025 09:24:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1A KAMBER RD, TERREY HILLS 2084",
+    "council_area": "Northern Beaches",
+    "type": "Planned Event",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Sep 2025 09:24"
+  },
+  {
+    "title": "PORTERS RD, KENTHURST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621979",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.643692017",
+    "longitude": "150.990753174",
+    "region": "nsw",
+    "time_of_call": "28 Sep 2025 09:24:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "40 PORTERS RD, KENTHURST 2156",
+    "council_area": "The Hills",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Sep 2025 09:24"
+  },
+  {
+    "title": "PACIFIC HWY, WARRELL CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621981",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.7713775629999",
+    "longitude": "152.898742676",
+    "region": "nsw",
+    "time_of_call": "28 Sep 2025 09:32:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, WARRELL CREEK 2447",
+    "council_area": "Nambucca Valley",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Sep 2025 09:32"
   }
 ]
