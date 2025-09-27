@@ -95,7 +95,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "28 Sep 2025 06:16:44"
+    "updated": "28 Sep 2025 09:21:38"
   },
   {
     "agency": "Ambulance",
@@ -107,13 +107,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "28 Sep 2025 06:29:56",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "28 Sep 2025 09:13:25"
+    "updated": "28 Sep 2025 09:24:24"
   },
   {
     "agency": "Ambulance",
@@ -179,13 +179,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "28 Sep 2025 08:25:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "28 Sep 2025 09:15:45"
+    "updated": "28 Sep 2025 09:26:19"
   },
   {
     "agency": "Ambulance",
@@ -215,13 +215,31 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "28 Sep 2025 09:05:17",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONCRIEFF",
+    "updated": "28 Sep 2025 09:25:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "064744-28092025",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "28 Sep 2025 09:24:10",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "MONCRIEFF",
-    "updated": "28 Sep 2025 09:09:34"
+    "location": "CHISHOLM",
+    "updated": "28 Sep 2025 09:26:35"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -388,7 +406,7 @@
     "latitude": "-36.0030760019999",
     "longitude": "150.062513352",
     "region": "nsw",
-    "time_of_call": "27 Sep 2025 15:45:00",
+    "time_of_call": "28 Sep 2025 09:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -400,7 +418,7 @@
     "fire": "Yes",
     "size": "208 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "27 Sep 2025 15:45"
+    "updated": "28 Sep 2025 09:10"
   },
   {
     "title": "1860 George Downs Drive",
@@ -1088,8 +1106,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621707",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.0048539852415",
-    "longitude": "152.984541173098",
+    "latitude": "-29.997350354814",
+    "longitude": "152.986524454717",
     "region": "nsw",
     "time_of_call": "27 Sep 2025 23:42:00",
     "event_type": "burnt area",
@@ -1986,31 +2004,6 @@
     "updated": "28 Sep 2025 08:50"
   },
   {
-    "title": "Bathurst St, Brewarrina",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621975",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.9628959999999",
-    "longitude": "146.862214",
-    "region": "nsw",
-    "time_of_call": "28 Sep 2025 09:18:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Bathurst St, Brewarrina, NSW 2839",
-    "council_area": "Brewarrina",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "28 Sep 2025 09:18"
-  },
-  {
     "title": "BANNERMAN RD, KENTHURST",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621976",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2031,5 +2024,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Sep 2025 09:12"
+  },
+  {
+    "title": "OLD COAST RD, KORORA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621977",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.245080948",
+    "longitude": "153.130905152",
+    "region": "nsw",
+    "time_of_call": "28 Sep 2025 09:21:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "99B OLD COAST RD, KORORA 2450",
+    "council_area": "Coffs Harbour",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Sep 2025 09:21"
   }
 ]
