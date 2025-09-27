@@ -55,25 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "28 Sep 2025 04:28:25"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHARNWOOD",
-    "id": "064707-28092025",
-    "latitude": "-35.200338",
-    "longitude": "149.036735",
-    "region": "act",
-    "time_of_call": "28 Sep 2025 02:59:00",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHARNWOOD",
-    "updated": "28 Sep 2025 03:55:00"
+    "updated": "28 Sep 2025 04:35:59"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "28 Sep 2025 04:30:19"
+    "updated": "28 Sep 2025 04:43:24"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +121,49 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "28 Sep 2025 04:17:54",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "28 Sep 2025 04:44:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "064718-28092025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "28 Sep 2025 04:43:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "28 Sep 2025 04:46:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "064719-28092025",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "28 Sep 2025 04:44:27",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "HIGGINS",
-    "updated": "28 Sep 2025 04:29:39"
+    "location": "TAYLOR",
+    "updated": "28 Sep 2025 04:48:04"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1645,28 +1663,6 @@
     "updated": "27 Sep 2025 21:53"
   },
   {
-    "title": "REDLANDS RD, COROWA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621944",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.9744529719999",
-    "longitude": "146.335662842",
-    "region": "nsw",
-    "time_of_call": "28 Sep 2025 01:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "REDLANDS RD, COROWA 2646",
-    "council_area": "Federation",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2025 01:12"
-  },
-  {
     "title": "PIPECLAY RD, PIPECLAY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621945",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1752,5 +1748,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Sep 2025 04:28"
+  },
+  {
+    "title": "HIDDEN VALLEY RD, EUNGELLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621957",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.3538742069999",
+    "longitude": "153.29373169",
+    "region": "nsw",
+    "time_of_call": "28 Sep 2025 04:43:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "HIDDEN VALLEY RD, EUNGELLA 2484",
+    "council_area": "Tweed",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Sep 2025 04:43"
   }
 ]
