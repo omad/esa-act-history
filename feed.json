@@ -99,37 +99,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WANNIASSA",
-    "id": "064892-29092025",
-    "latitude": "-35.399113",
-    "longitude": "149.091978",
-    "region": "act",
-    "time_of_call": "29 Sep 2025 00:23:24",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WANNIASSA",
-    "updated": "29 Sep 2025 00:58:50"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PHILLIP",
     "id": "064893-29092025",
     "latitude": "-35.348136",
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "29 Sep 2025 00:45:24",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "29 Sep 2025 01:14:03"
+    "updated": "29 Sep 2025 02:11:18"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +129,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "29 Sep 2025 01:23:12"
+    "updated": "29 Sep 2025 02:04:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "064898-29092025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "29 Sep 2025 01:52:23",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "29 Sep 2025 02:02:28"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -314,7 +314,7 @@
     "latitude": "-31.966020584",
     "longitude": "152.566207885",
     "region": "nsw",
-    "time_of_call": "27 Sep 2025 20:16:00",
+    "time_of_call": "29 Sep 2025 02:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -326,7 +326,7 @@
     "fire": "Yes",
     "size": "8 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 20:16"
+    "updated": "29 Sep 2025 02:13"
   },
   {
     "title": "Forestry HR - Fox Gully Road",
@@ -393,6 +393,28 @@
     "size": "19 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 Sep 2025 01:05"
+  },
+  {
+    "title": "Warrell Pile Burn",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621183",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.7686729439999",
+    "longitude": "152.899765014",
+    "region": "nsw",
+    "time_of_call": "29 Sep 2025 01:48:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "4478 PACIFIC HWY, WARRELL CREEK 2447",
+    "council_area": "Nambucca Valley",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Sep 2025 01:48"
   },
   {
     "title": "GWYDIR HWY, JACKADGERY",
@@ -694,7 +716,7 @@
     "latitude": "-31.515104294",
     "longitude": "152.742477417",
     "region": "nsw",
-    "time_of_call": "27 Sep 2025 21:59:00",
+    "time_of_call": "29 Sep 2025 01:54:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -706,7 +728,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 21:59"
+    "updated": "29 Sep 2025 01:54"
   },
   {
     "title": "Stroms HR",
@@ -773,6 +795,31 @@
     "size": "758 ha",
     "responsible_agency": "Forestry Corporation of NSW",
     "updated": "28 Sep 2025 10:14"
+  },
+  {
+    "title": "KINDEE RD, KINDEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621451",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.412885666",
+    "longitude": "152.458221436",
+    "region": "nsw",
+    "time_of_call": "27 Sep 2025 20:29:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "225 KINDEE RD, KINDEE 2446",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Sep 2025 20:29"
   },
   {
     "title": "Lagoon Trail HR",
@@ -1014,7 +1061,7 @@
     "latitude": "-33.6419334409999",
     "longitude": "146.977218628",
     "region": "nsw",
-    "time_of_call": "27 Sep 2025 21:56:00",
+    "time_of_call": "29 Sep 2025 02:14:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1026,7 +1073,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 21:56"
+    "updated": "29 Sep 2025 02:14"
   },
   {
     "title": "Scrubby Creek",
@@ -1290,7 +1337,7 @@
     "latitude": "-32.125934601",
     "longitude": "152.487716675",
     "region": "nsw",
-    "time_of_call": "28 Sep 2025 10:25:00",
+    "time_of_call": "29 Sep 2025 02:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1302,7 +1349,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2025 10:25"
+    "updated": "29 Sep 2025 02:10"
   },
   {
     "title": "LEMON TREE PASSAGE RD, SALT ASH",
@@ -1312,7 +1359,7 @@
     "latitude": "-32.7730102539999",
     "longitude": "151.938903809",
     "region": "nsw",
-    "time_of_call": "27 Sep 2025 23:38:00",
+    "time_of_call": "29 Sep 2025 02:12:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1324,7 +1371,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 23:38"
+    "updated": "29 Sep 2025 02:12"
   },
   {
     "title": "Hillgrove Recreation Reserve",
@@ -1356,7 +1403,7 @@
     "latitude": "-32.4057617189999",
     "longitude": "151.944946289",
     "region": "nsw",
-    "time_of_call": "27 Sep 2025 20:15:00",
+    "time_of_call": "29 Sep 2025 02:11:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1368,7 +1415,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 20:15"
+    "updated": "29 Sep 2025 02:11"
   },
   {
     "title": "LACHLAN VALLEY WAY, BOOROWA",
@@ -1444,7 +1491,7 @@
     "latitude": "-34.384578705",
     "longitude": "148.945663453",
     "region": "nsw",
-    "time_of_call": "27 Sep 2025 23:22:00",
+    "time_of_call": "29 Sep 2025 02:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1459,7 +1506,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Sep 2025 23:22"
+    "updated": "29 Sep 2025 02:10"
   },
   {
     "title": "HICKS RD, BUSBYS FLAT",
@@ -1494,7 +1541,7 @@
     "latitude": "-31.438220977",
     "longitude": "152.530975341",
     "region": "nsw",
-    "time_of_call": "28 Sep 2025 15:55:00",
+    "time_of_call": "29 Sep 2025 02:07:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1509,7 +1556,7 @@
     "fire": "Yes",
     "size": "4 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2025 15:55"
+    "updated": "29 Sep 2025 02:07"
   },
   {
     "title": "LYNCHES CREEK RD, LYNCHS CREEK",
@@ -1629,7 +1676,7 @@
     "latitude": "-33.180374146",
     "longitude": "151.493026733",
     "region": "nsw",
-    "time_of_call": "28 Sep 2025 14:43:00",
+    "time_of_call": "28 Sep 2025 15:02:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1641,7 +1688,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2025 14:43"
+    "updated": "28 Sep 2025 15:02"
   },
   {
     "title": "BUNDLE HILL RD, BAWLEY POINT",
@@ -1666,31 +1713,6 @@
     "updated": "28 Sep 2025 14:23"
   },
   {
-    "title": "PIPECLAY RD, PIPECLAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621998",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.4357891079999",
-    "longitude": "152.54725647",
-    "region": "nsw",
-    "time_of_call": "28 Sep 2025 12:20:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "1298 PIPECLAY RD, PIPECLAY 2446",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2025 12:20"
-  },
-  {
     "title": "BYLONG VALLEY WAY, KERRABEE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622014",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1698,7 +1720,7 @@
     "latitude": "-32.4575958249999",
     "longitude": "150.275543213",
     "region": "nsw",
-    "time_of_call": "28 Sep 2025 17:01:00",
+    "time_of_call": "29 Sep 2025 02:02:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1713,7 +1735,7 @@
     "fire": "Yes",
     "size": "8 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2025 17:01"
+    "updated": "29 Sep 2025 02:02"
   },
   {
     "title": "BRAIDWOOD RD, SASSAFRAS",
@@ -2047,9 +2069,9 @@
     "latitude": "-33.119880677",
     "longitude": "151.463165284",
     "region": "nsw",
-    "time_of_call": "29 Sep 2025 01:43:00",
+    "time_of_call": "29 Sep 2025 02:04:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MANDALONG RD, MANDALONG 2264",
     "council_area": "Lake Macquarie",
@@ -2057,6 +2079,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Sep 2025 01:43"
+    "updated": "29 Sep 2025 02:04"
+  },
+  {
+    "title": "CLARENCE TOWN RD, CLARENCE TOWN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622120",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.569057465",
+    "longitude": "151.768188476",
+    "region": "nsw",
+    "time_of_call": "29 Sep 2025 02:22:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "CLARENCE TOWN RD, CLARENCE TOWN 2321",
+    "council_area": "Dungog",
+    "type": "Truck Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Sep 2025 02:22"
   }
 ]
