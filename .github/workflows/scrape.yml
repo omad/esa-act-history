@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl 'https://esa.act.gov.au/act-gov-esa/incidents/feed' \
-          | jq > feed.json
+          | jq 'sort_by(.id) | map(del(.date))' > feed.json
         curl 'https://esa.act.gov.au/act-gov-esa/incidents/polygon' \
           | jq > polygon.json
     - name: Commit and push if it changed
