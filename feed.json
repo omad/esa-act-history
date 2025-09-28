@@ -127,7 +127,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "29 Sep 2025 06:34:00"
+    "updated": "29 Sep 2025 08:38:03"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +253,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "29 Sep 2025 08:28:58"
+    "updated": "29 Sep 2025 08:40:41"
   },
   {
     "agency": "Ambulance",
@@ -265,13 +265,49 @@
     "longitude": "149.081053",
     "region": "act",
     "time_of_call": "29 Sep 2025 08:29:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONYTHON",
+    "updated": "29 Sep 2025 08:45:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "064938-29092025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "29 Sep 2025 08:40:47",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "29 Sep 2025 08:47:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NICHOLLS",
+    "id": "064939-29092025",
+    "latitude": "-35.186387",
+    "longitude": "149.094445",
+    "region": "act",
+    "time_of_call": "29 Sep 2025 08:42:32",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "BONYTHON",
-    "updated": "29 Sep 2025 08:32:38"
+    "location": "NICHOLLS",
+    "updated": "29 Sep 2025 08:46:30"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -482,7 +518,7 @@
     "latitude": "-33.1664123529999",
     "longitude": "151.201416016",
     "region": "nsw",
-    "time_of_call": "29 Sep 2025 01:20:00",
+    "time_of_call": "29 Sep 2025 08:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -494,7 +530,7 @@
     "fire": "Yes",
     "size": "43 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Sep 2025 01:20"
+    "updated": "29 Sep 2025 08:41"
   },
   {
     "title": "Woodbury Park HR",
@@ -1116,7 +1152,7 @@
     "latitude": "-33.346740723",
     "longitude": "151.23487854",
     "region": "nsw",
-    "time_of_call": "29 Sep 2025 00:28:00",
+    "time_of_call": "29 Sep 2025 08:39:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1128,7 +1164,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Sep 2025 00:28"
+    "updated": "29 Sep 2025 08:39"
   },
   {
     "title": "Rosco Club Stage 2 HR",
@@ -1176,28 +1212,6 @@
     "size": "155 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "28 Sep 2025 17:37"
-  },
-  {
-    "title": "MACKRELL ST, UNGARIE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621569",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6419334409999",
-    "longitude": "146.977218628",
-    "region": "nsw",
-    "time_of_call": "29 Sep 2025 02:14:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "15 MACKRELL ST, UNGARIE 2669",
-    "council_area": "Bland",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Sep 2025 02:14"
   },
   {
     "title": "Scrubby Creek",
@@ -2041,7 +2055,7 @@
     "latitude": "-31.5675353999999",
     "longitude": "152.428665161",
     "region": "nsw",
-    "time_of_call": "28 Sep 2025 21:29:00",
+    "time_of_call": "29 Sep 2025 08:39:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -2053,7 +2067,7 @@
     "fire": "Yes",
     "size": "19 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Sep 2025 21:29"
+    "updated": "29 Sep 2025 08:39"
   },
   {
     "title": "LINDSAY RD, NORTH ROTHBURY",
@@ -2293,5 +2307,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 Sep 2025 08:20"
+  },
+  {
+    "title": "WINDEYER RD, WINDEYER",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622143",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.7885360719999",
+    "longitude": "149.551727295",
+    "region": "nsw",
+    "time_of_call": "29 Sep 2025 08:42:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "MILANDI 1818 WINDEYER RD, WINDEYER 2850",
+    "council_area": "Mid-Western",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Sep 2025 08:42"
+  },
+  {
+    "title": "MACKAY ST, COOTAMUNDRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622144",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.634632111",
+    "longitude": "148.012588501",
+    "region": "nsw",
+    "time_of_call": "29 Sep 2025 08:45:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "148 MACKAY ST, COOTAMUNDRA 2590",
+    "council_area": "Cootamundra-Gundagai",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "29 Sep 2025 08:45"
   }
 ]
