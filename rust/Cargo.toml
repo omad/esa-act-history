@@ -1,0 +1,15 @@
+[package]
+name = "jj-feed-extractor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Async runtime for non-blocking I/O and concurrency
+tokio = { version = "1", features = ["full", "sync"] }
+# Ergonomic error handling
+anyhow = "1"
+# Command-line argument parsing
+clap = { version = "4", features = ["derive"] }
+# Structured logging
+tracing = "0.1"
+tracing-subscriber = "0.3"
