@@ -125,7 +125,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "01 Oct 2025 07:50:06"
+    "updated": "01 Oct 2025 08:48:49"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,13 @@
     "longitude": "149.129639",
     "region": "act",
     "time_of_call": "01 Oct 2025 07:46:16",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MACARTHUR",
-    "updated": "01 Oct 2025 07:51:45"
+    "updated": "01 Oct 2025 08:47:07"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "01 Oct 2025 08:27:55"
+    "updated": "01 Oct 2025 08:43:29"
   },
   {
     "agency": "Ambulance",
@@ -234,6 +234,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
     "updated": "01 Oct 2025 08:29:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BARTON",
+    "id": "065471-01102025",
+    "latitude": "-35.309306",
+    "longitude": "149.13437",
+    "region": "act",
+    "time_of_call": "01 Oct 2025 08:37:40",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BARTON",
+    "updated": "01 Oct 2025 08:43:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DENMAN PROSPECT",
+    "id": "065472-01102025",
+    "latitude": "-35.303694",
+    "longitude": "149.025004",
+    "region": "act",
+    "time_of_call": "01 Oct 2025 08:48:20",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DENMAN PROSPECT",
+    "updated": "01 Oct 2025 08:48:49"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -469,7 +505,7 @@
     "latitude": "-30.820329667",
     "longitude": "152.251693726",
     "region": "nsw",
-    "time_of_call": "30 Sep 2025 16:51:00",
+    "time_of_call": "01 Oct 2025 08:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -484,7 +520,7 @@
     "fire": "Yes",
     "size": "960 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Sep 2025 16:51"
+    "updated": "1 Oct 2025 08:32"
   },
   {
     "title": "Singleton Military Area 6C",
@@ -789,28 +825,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Sep 2025 17:42"
-  },
-  {
-    "title": "Hall Drive Reserve",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621969",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.013097299",
-    "longitude": "151.00831604",
-    "region": "nsw",
-    "time_of_call": "29 Sep 2025 22:01:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "Hall Drive HR",
-    "council_area": "Sutherland",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "6 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "29 Sep 2025 22:01"
   },
   {
     "title": "Cobleys Road Fire",
@@ -1528,8 +1542,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622356",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.843717501",
-    "longitude": "149.694076261",
+    "latitude": "-33.843715668",
+    "longitude": "149.694076538",
     "region": "nsw",
     "time_of_call": "01 Oct 2025 08:25:00",
     "event_type": "burnt area",
@@ -1553,10 +1567,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622360",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.6763551839999",
-    "longitude": "152.386665337",
+    "latitude": "-30.676355362",
+    "longitude": "152.386657715",
     "region": "nsw",
-    "time_of_call": "30 Sep 2025 16:42:00",
+    "time_of_call": "01 Oct 2025 08:39:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -1571,7 +1585,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "30 Sep 2025 16:42"
+    "updated": "1 Oct 2025 08:39"
   },
   {
     "title": "Fitzroy St, Dubbo",
@@ -1775,28 +1789,6 @@
     "updated": "30 Sep 2025 17:47"
   },
   {
-    "title": "KIEWA ST, MANILDRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622392",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.186031342",
-    "longitude": "148.695373535",
-    "region": "nsw",
-    "time_of_call": "30 Sep 2025 18:03:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "73 KIEWA ST, MANILDRA 2865",
-    "council_area": "Cabonne",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Sep 2025 18:03"
-  },
-  {
     "title": "ROGAN BRIDGE RD, MYLNEFORD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622407",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1895,7 +1887,7 @@
     "latitude": "-32.0883522029999",
     "longitude": "152.464187622",
     "region": "nsw",
-    "time_of_call": "30 Sep 2025 22:27:00",
+    "time_of_call": "01 Oct 2025 08:35:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "alert_level": "Not Applicable",
@@ -1907,7 +1899,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Sep 2025 22:27"
+    "updated": "1 Oct 2025 08:35"
   },
   {
     "title": "SALISBURY GAP RD, SALISBURY",
@@ -1999,5 +1991,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Oct 2025 08:32"
+  },
+  {
+    "title": "Princes Hwy, South Nowra",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622468",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.8983449999999",
+    "longitude": "150.602154",
+    "region": "nsw",
+    "time_of_call": "01 Oct 2025 08:44:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Princes Hwy, South Nowra, NSW 2541",
+    "council_area": "Shoalhaven",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "1 Oct 2025 08:44"
   }
 ]
