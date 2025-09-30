@@ -29,13 +29,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "01 Oct 2025 05:18:02",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "01 Oct 2025 05:22:24"
+    "updated": "01 Oct 2025 07:30:33"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "01 Oct 2025 07:19:32"
+    "updated": "01 Oct 2025 07:30:36"
   },
   {
     "agency": "Ambulance",
@@ -72,24 +72,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
     "updated": "01 Oct 2025 07:05:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PHILLIP",
-    "id": "065444-01102025",
-    "latitude": "-35.348136",
-    "longitude": "149.090018",
-    "region": "act",
-    "time_of_call": "01 Oct 2025 06:06:52",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PHILLIP",
-    "updated": "01 Oct 2025 06:45:10"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,13 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "01 Oct 2025 07:07:14",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "01 Oct 2025 07:10:26"
+    "updated": "01 Oct 2025 07:27:10"
   },
   {
     "agency": "Ambulance",
@@ -216,24 +198,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
     "updated": "01 Oct 2025 07:15:43"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CURTIN",
-    "id": "065457-01102025",
-    "latitude": "-35.326585",
-    "longitude": "149.076856",
-    "region": "act",
-    "time_of_call": "01 Oct 2025 07:18:50",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CURTIN",
-    "updated": "01 Oct 2025 07:21:23"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1986,9 +1950,9 @@
     "latitude": "-33.124801636",
     "longitude": "150.323501587",
     "region": "nsw",
-    "time_of_call": "01 Oct 2025 06:58:00",
+    "time_of_call": "01 Oct 2025 07:29:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GLEN DAVIS RD, GLEN DAVIS 2846",
     "council_area": "Lithgow",
@@ -1996,7 +1960,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Oct 2025 06:58"
+    "updated": "1 Oct 2025 07:29"
   },
   {
     "title": "COWAL CREEK RD, BELLANGRY",
@@ -2019,30 +1983,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Oct 2025 06:53"
-  },
-  {
-    "title": "Railway St, Glen Innes",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622463",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.7396029999999",
-    "longitude": "151.725613",
-    "region": "nsw",
-    "time_of_call": "01 Oct 2025 07:18:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Lot 2/Railway St, Glen Innes, NSW 2370",
-    "council_area": "Glen Innes Severn",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Oct 2025 07:18"
   }
 ]
