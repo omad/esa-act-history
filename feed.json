@@ -65,13 +65,13 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "30 Sep 2025 21:55:20",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "30 Sep 2025 23:29:27"
+    "updated": "01 Oct 2025 01:26:21"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "01 Oct 2025 01:16:46"
+    "updated": "01 Oct 2025 01:34:28"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +209,13 @@
     "longitude": "149.072217",
     "region": "act",
     "time_of_call": "01 Oct 2025 00:38:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "01 Oct 2025 01:08:46"
+    "updated": "01 Oct 2025 01:24:55"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1956,5 +1956,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Oct 2025 00:07"
+  },
+  {
+    "title": "WILLIAMTOWN DR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622445",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.805576324",
+    "longitude": "151.837387085",
+    "region": "nsw",
+    "time_of_call": "01 Oct 2025 01:16:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BAE SYSTEMS AUSTRALIA WILLIAMTOWN DR, WILLIAMTOWN 2318",
+    "council_area": "Port Stephens",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Oct 2025 01:16"
+  },
+  {
+    "title": "PACIFIC MTWY (SOUTHBOUND), WAHROONGA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622446",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.703895568",
+    "longitude": "151.118209839",
+    "region": "nsw",
+    "time_of_call": "01 Oct 2025 01:24:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ET426 M1 PACIFIC MTWY (SOUTHBOUND), WAHROONGA 2076",
+    "council_area": "Hornsby",
+    "type": "Truck Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "1 Oct 2025 01:24"
   }
 ]
