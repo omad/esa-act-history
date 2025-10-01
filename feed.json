@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "CAR FIRE - GILMORE",
-    "id": "014934-02102025",
-    "latitude": "-35.4225578308",
-    "longitude": "149.1422271729",
-    "region": "act",
-    "time_of_call": "02 Oct 2025 03:10:52",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "CAR FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
-    "location": "MONARO HIGHWAY, MONARO HIGHWAY ON RAMP, RICHARDSON, 2905",
-    "updated": "02 Oct 2025 04:07:27"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -53,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "02 Oct 2025 04:19:29"
+    "updated": "02 Oct 2025 05:16:15"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +69,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "02 Oct 2025 04:28:22"
+    "updated": "02 Oct 2025 04:53:16"
   },
   {
     "agency": "Ambulance",
@@ -108,6 +88,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
     "updated": "02 Oct 2025 04:44:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "065678-02102025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "02 Oct 2025 04:54:15",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "02 Oct 2025 05:02:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "065679-02102025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "02 Oct 2025 05:06:36",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "02 Oct 2025 05:17:32"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1633,9 +1649,9 @@
     "latitude": "-28.740730286",
     "longitude": "149.436843873",
     "region": "nsw",
-    "time_of_call": "02 Oct 2025 04:43:00",
+    "time_of_call": "02 Oct 2025 04:59:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "CARRIGAN RD, BOOMI 2405",
     "council_area": "Moree Plains",
@@ -1645,6 +1661,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Oct 2025 04:43"
+    "updated": "2 Oct 2025 04:59"
+  },
+  {
+    "title": "BALLINA BEACH RD, SOUTH BALLINA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622615",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.8816127769999",
+    "longitude": "153.552124023",
+    "region": "nsw",
+    "time_of_call": "02 Oct 2025 05:06:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "LOT 4>SOUTH BALLINA BEACH RD, SOUTH BALLINA 2478",
+    "council_area": "Ballina",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Oct 2025 05:06"
   }
 ]
