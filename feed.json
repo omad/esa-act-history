@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "03 Oct 2025 05:25:32"
+    "updated": "03 Oct 2025 05:35:02"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "03 Oct 2025 05:18:12",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "03 Oct 2025 05:26:38"
+    "updated": "03 Oct 2025 05:48:35"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -2096,6 +2096,31 @@
     "updated": "2 Oct 2025 21:25"
   },
   {
+    "title": "BETTONG DR, COUTTS CROSSING",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622819",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.889354705",
+    "longitude": "152.903839112",
+    "region": "nsw",
+    "time_of_call": "03 Oct 2025 05:41:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "21 BETTONG DR, COUTTS CROSSING 2460",
+    "council_area": "Clarence Valley",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Oct 2025 05:41"
+  },
+  {
     "title": "STURT HWY, SANDIGO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622821",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2114,30 +2139,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Oct 2025 05:14"
-  },
-  {
-    "title": "Wedmore Rd, Emu Heights",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622822",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.736567",
-    "longitude": "150.650441",
-    "region": "nsw",
-    "time_of_call": "03 Oct 2025 05:24:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "24 Wedmore Rd, Emu Heights, NSW 2750",
-    "council_area": "Penrith",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "3 Oct 2025 05:24"
   }
 ]
