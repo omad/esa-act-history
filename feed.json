@@ -57,24 +57,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - OXLEY",
-    "id": "065912-02102025",
-    "latitude": "-35.410682",
-    "longitude": "149.078026",
-    "region": "act",
-    "time_of_call": "02 Oct 2025 23:25:23",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "OXLEY",
-    "updated": "03 Oct 2025 01:27:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GORDON",
     "id": "065915-03102025",
     "latitude": "-35.459685",
@@ -93,24 +75,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "065918-03102025",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "03 Oct 2025 01:02:46",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "03 Oct 2025 01:37:02"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HACKETT",
     "id": "065919-03102025",
     "latitude": "-35.249801",
@@ -123,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
-    "updated": "03 Oct 2025 01:46:27"
+    "updated": "03 Oct 2025 02:17:41"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +99,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "03 Oct 2025 01:47:19",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "03 Oct 2025 01:48:41"
+    "updated": "03 Oct 2025 02:27:09"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +117,49 @@
     "longitude": "149.143546",
     "region": "act",
     "time_of_call": "03 Oct 2025 01:47:31",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DOWNER",
+    "updated": "03 Oct 2025 02:28:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "065922-03102025",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "03 Oct 2025 01:51:12",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "DOWNER",
-    "updated": "03 Oct 2025 01:48:45"
+    "location": "GRIFFITH",
+    "updated": ""
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "065923-03102025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "03 Oct 2025 01:51:52",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "03 Oct 2025 02:20:43"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1247,17 +1247,19 @@
     "latitude": "-32.7328033439999",
     "longitude": "152.01802063",
     "region": "nsw",
-    "time_of_call": "03 Oct 2025 00:02:00",
+    "time_of_call": "03 Oct 2025 02:16:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "TOM PAYNE OVAL 1195 LEMON TREE PASSAGE RD, MALLABULA 2319",
     "council_area": "Port Stephens",
-    "type": "Planned Event",
-    "fire": "No",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Oct 2025 00:02"
+    "updated": "3 Oct 2025 02:16"
   },
   {
     "title": "TAREAN RD",
@@ -1267,7 +1269,7 @@
     "latitude": "-32.6526756289999",
     "longitude": "151.936065674",
     "region": "nsw",
-    "time_of_call": "02 Oct 2025 23:25:00",
+    "time_of_call": "03 Oct 2025 02:09:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1279,7 +1281,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Oct 2025 23:25"
+    "updated": "3 Oct 2025 02:09"
   },
   {
     "title": "CARRIGAN RD, BOOMI",
@@ -1340,7 +1342,7 @@
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "Warrumbungle National Park",
+    "location": "OGMA FIRE BURBIE TRL, WARRUMBUNGLE 2828",
     "council_area": "Gilgandra",
     "type": "Bush Fire",
     "type_description": "",
@@ -1358,7 +1360,7 @@
     "latitude": "-29.006761551",
     "longitude": "152.385421753",
     "region": "nsw",
-    "time_of_call": "02 Oct 2025 17:02:00",
+    "time_of_call": "03 Oct 2025 01:57:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1373,7 +1375,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Oct 2025 17:02"
+    "updated": "3 Oct 2025 01:57"
   },
   {
     "title": "OLD GLEN INNES RD, BUCCARUMBI",
@@ -1383,7 +1385,7 @@
     "latitude": "-29.840568542",
     "longitude": "152.702056885",
     "region": "nsw",
-    "time_of_call": "02 Oct 2025 17:43:00",
+    "time_of_call": "03 Oct 2025 01:59:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1398,7 +1400,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Oct 2025 17:43"
+    "updated": "3 Oct 2025 01:59"
   },
   {
     "title": "OLD GLEN INNES RD, CHAMBIGNE",
@@ -1408,7 +1410,7 @@
     "latitude": "-29.795927048",
     "longitude": "152.73538208",
     "region": "nsw",
-    "time_of_call": "02 Oct 2025 17:37:00",
+    "time_of_call": "03 Oct 2025 01:55:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1421,9 +1423,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "14 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Oct 2025 17:37"
+    "updated": "3 Oct 2025 01:55"
   },
   {
     "title": "THUNDERBOLTS WAY, GLOUCESTER",
@@ -1433,7 +1435,7 @@
     "latitude": "-31.9770774849999",
     "longitude": "151.937728882",
     "region": "nsw",
-    "time_of_call": "02 Oct 2025 17:13:00",
+    "time_of_call": "03 Oct 2025 01:46:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1448,7 +1450,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Oct 2025 17:13"
+    "updated": "3 Oct 2025 01:46"
   },
   {
     "title": "KINDEE RD, KINDEE",
@@ -2184,28 +2186,6 @@
     "updated": "2 Oct 2025 21:25"
   },
   {
-    "title": "GWYDIR HWY, RAMORNIE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622808",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.6291084289999",
-    "longitude": "152.757461547",
-    "region": "nsw",
-    "time_of_call": "03 Oct 2025 00:11:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "GWYDIR HWY, RAMORNIE 2460",
-    "council_area": "Clarence Valley",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Oct 2025 00:11"
-  },
-  {
     "title": "NEW ENGLAND HWY, URALLA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622811",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2228,28 +2208,6 @@
     "updated": "3 Oct 2025 01:41"
   },
   {
-    "title": "PACIFIC HWY, COOLONGOLOOK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622813",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.2610893249999",
-    "longitude": "152.326751709",
-    "region": "nsw",
-    "time_of_call": "03 Oct 2025 01:22:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, COOLONGOLOOK 2423",
-    "council_area": "Mid-Coast",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Oct 2025 01:22"
-  },
-  {
     "title": "BLAIRS RD, LONG BEACH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622814",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2257,7 +2215,7 @@
     "latitude": "-35.70193863",
     "longitude": "150.214828491",
     "region": "nsw",
-    "time_of_call": "03 Oct 2025 01:40:00",
+    "time_of_call": "03 Oct 2025 02:08:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -2267,6 +2225,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Oct 2025 01:40"
+    "updated": "3 Oct 2025 02:08"
+  },
+  {
+    "title": "BOWEN MOUNTAIN RD, GROSE VALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622816",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.572181702",
+    "longitude": "150.642608642",
+    "region": "nsw",
+    "time_of_call": "03 Oct 2025 02:02:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "5 BOWEN MOUNTAIN RD, GROSE VALE 2753",
+    "council_area": "Hawkesbury",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Oct 2025 02:02"
   }
 ]
