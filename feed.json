@@ -29,15 +29,35 @@
     "longitude": "149.07016",
     "region": "act",
     "time_of_call": "03 Oct 2025 19:19:23",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "CHANDLER STREET, COHEN STREET, BELCONNEN, 2617",
-    "updated": "03 Oct 2025 19:24:03"
+    "updated": "03 Oct 2025 19:31:34"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - FRANKLIN",
+    "id": "015019-03102025",
+    "latitude": "-35.19352666",
+    "longitude": "149.1474459099",
+    "region": "act",
+    "time_of_call": "03 Oct 2025 19:27:45",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
+    "location": "MANNING CLARK CRESCENT, FRANKLIN, 2913",
+    "updated": "03 Oct 2025 19:32:47"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "03 Oct 2025 19:16:55"
+    "updated": "03 Oct 2025 19:31:14"
   },
   {
     "agency": "Ambulance",
@@ -182,42 +202,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
     "updated": "03 Oct 2025 17:42:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "066102-03102025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "03 Oct 2025 17:39:39",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "03 Oct 2025 18:32:32"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "066104-03102025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "03 Oct 2025 17:45:56",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "03 Oct 2025 18:43:13"
   },
   {
     "agency": "Ambulance",
@@ -307,7 +291,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "03 Oct 2025 18:46:40"
+    "updated": "03 Oct 2025 19:30:54"
   },
   {
     "agency": "Ambulance",
@@ -361,7 +345,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "03 Oct 2025 19:22:26"
+    "updated": "03 Oct 2025 19:33:46"
   },
   {
     "agency": "Ambulance",
@@ -379,7 +363,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "03 Oct 2025 19:02:59"
+    "updated": "03 Oct 2025 19:32:09"
   },
   {
     "agency": "Ambulance",
@@ -415,7 +399,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "03 Oct 2025 19:20:22"
+    "updated": "03 Oct 2025 19:30:01"
   },
   {
     "agency": "Ambulance",
@@ -519,13 +503,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "03 Oct 2025 19:23:38",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "03 Oct 2025 19:24:49"
+    "updated": "03 Oct 2025 19:34:58"
   },
   {
     "agency": "Ambulance",
@@ -543,7 +527,63 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "03 Oct 2025 19:24:47"
+    "updated": "03 Oct 2025 19:28:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "066138-03102025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "03 Oct 2025 19:25:40",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "03 Oct 2025 19:35:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - FRANKLIN",
+    "id": "066140-03102025",
+    "latitude": "-35.19352666",
+    "longitude": "149.1474459099",
+    "region": "act",
+    "time_of_call": "03 Oct 2025 19:27:46",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "",
+    "location": "MANNING CLARK CRESCENT, FRANKLIN, 2913",
+    "updated": "03 Oct 2025 19:30:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "066143-03102025",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "03 Oct 2025 19:30:18",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "03 Oct 2025 19:33:34"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -2199,10 +2239,13 @@
     "latitude": "-33.7555541999999",
     "longitude": "151.09602356",
     "region": "nsw",
-    "time_of_call": "03 Oct 2025 18:46:00",
+    "time_of_call": "03 Oct 2025 19:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "WOODS ST, NORTH EPPING 2121",
     "council_area": "Hornsby",
     "type": "Bush Fire",
@@ -2211,7 +2254,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "3 Oct 2025 18:46"
+    "updated": "3 Oct 2025 19:23"
   },
   {
     "title": "VIEW POINT LOOKOUT WALIKNG TRK, BUNDANOON",
@@ -2234,25 +2277,50 @@
     "updated": "3 Oct 2025 19:21"
   },
   {
-    "title": "GOROKAN RD, WYEE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622919",
+    "title": "PATERSON RIVER RD, GRESFORD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622918",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.1866874689999",
-    "longitude": "151.487258911",
+    "latitude": "-32.3971900939999",
+    "longitude": "151.503509521",
     "region": "nsw",
-    "time_of_call": "03 Oct 2025 19:18:00",
+    "time_of_call": "03 Oct 2025 19:22:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
-    "location": "GOROKAN RD, WYEE 2259",
-    "council_area": "Lake Macquarie",
-    "type": "Grass Fire",
+    "location": "HIGHSLIP 555 PATERSON RIVER RD, GRESFORD 2311",
+    "council_area": "Dungog",
+    "type": "Bush Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Oct 2025 19:18"
+    "updated": "3 Oct 2025 19:22"
+  },
+  {
+    "title": "CANGAI RD, JACKADGERY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622922",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.5604782099999",
+    "longitude": "152.540740967",
+    "region": "nsw",
+    "time_of_call": "03 Oct 2025 19:28:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "1218 CANGAI RD, JACKADGERY 2460",
+    "council_area": "Clarence Valley",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Oct 2025 19:28"
   }
 ]
