@@ -24,24 +24,6 @@
     "alert_level": "",
     "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HAWKER",
-    "id": "066221-04102025",
-    "latitude": "-35.246757",
-    "longitude": "149.03611",
-    "region": "act",
-    "time_of_call": "04 Oct 2025 05:54:13",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HAWKER",
-    "updated": "04 Oct 2025 07:31:25"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HAWKER",
     "id": "066222-04102025",
     "latitude": "-35.246757",
     "longitude": "149.03611",
@@ -179,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "04 Oct 2025 08:01:11"
+    "updated": "04 Oct 2025 08:33:26"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "04 Oct 2025 07:47:59"
+    "updated": "04 Oct 2025 08:29:54"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +233,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "04 Oct 2025 08:09:17"
+    "updated": "04 Oct 2025 08:26:23"
   },
   {
     "agency": "Ambulance",
@@ -270,6 +252,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
     "updated": "04 Oct 2025 08:16:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "066242-04102025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "04 Oct 2025 08:22:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "04 Oct 2025 08:26:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THROSBY",
+    "id": "066244-04102025",
+    "latitude": "-35.187595",
+    "longitude": "149.161141",
+    "region": "act",
+    "time_of_call": "04 Oct 2025 08:32:20",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THROSBY",
+    "updated": "04 Oct 2025 08:33:53"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -580,7 +598,7 @@
     "latitude": "-32.4613990779999",
     "longitude": "152.127334595",
     "region": "nsw",
-    "time_of_call": "04 Oct 2025 00:31:00",
+    "time_of_call": "04 Oct 2025 08:17:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -592,7 +610,7 @@
     "fire": "Yes",
     "size": "279 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "4 Oct 2025 00:31"
+    "updated": "4 Oct 2025 08:17"
   },
   {
     "title": "Bosanquets",
@@ -1065,6 +1083,28 @@
     "updated": "4 Oct 2025 00:55"
   },
   {
+    "title": "Pembertons Hill Rd 2 HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622539",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.349845886",
+    "longitude": "151.153884888",
+    "region": "nsw",
+    "time_of_call": "04 Oct 2025 08:27:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "PEMBERTONS HILL RD HR 2 11 PEMBERTONS HILL RD, MANGROVE MOUNTAIN 2250",
+    "council_area": "Central Coast",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "6 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Oct 2025 08:27"
+  },
+  {
     "title": "TONGA FIRETRAIL, MARTINDALE ",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622541",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1208,7 +1248,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "228 ha",
-    "major_fire_update_as_at_3_oct_2025_9:52pm": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12234' target='_blank'> More information</a>",
+    "major_fire_update_as_at_4_oct_2025_8:28am": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12234' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "4 Oct 2025 02:35"
   },
@@ -2120,28 +2160,6 @@
     "updated": "4 Oct 2025 08:11"
   },
   {
-    "title": "NINTH AV, LLANDILO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622967",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.715328217",
-    "longitude": "150.747406006",
-    "region": "nsw",
-    "time_of_call": "04 Oct 2025 08:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "NINTH AV, LLANDILO 2747",
-    "council_area": "Penrith",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Oct 2025 08:07"
-  },
-  {
     "title": "PRETTY PINE RD, PRETTY PINE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622968",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2193,9 +2211,9 @@
     "latitude": "-33.8378524779999",
     "longitude": "150.879379273",
     "region": "nsw",
-    "time_of_call": "04 Oct 2025 07:59:00",
+    "time_of_call": "04 Oct 2025 08:20:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "TRIVET ST, WETHERILL PARK 2164",
     "council_area": "Fairfield",
@@ -2205,28 +2223,48 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Oct 2025 07:59"
+    "updated": "4 Oct 2025 08:20"
   },
   {
-    "title": "HALF CHAIN RD, PAMPOOLAH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622972",
+    "title": "CLARENCE WAY, PULGANBAR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622973",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.950006485",
-    "longitude": "152.521377563",
+    "latitude": "-29.4831905369999",
+    "longitude": "152.693191529",
     "region": "nsw",
-    "time_of_call": "04 Oct 2025 08:03:00",
+    "time_of_call": "04 Oct 2025 08:06:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "HALF CHAIN RD, PAMPOOLAH 2430",
-    "council_area": "Mid-Coast",
-    "type": "Other",
+    "location": "3684 CLARENCE WAY, PULGANBAR 2460",
+    "council_area": "Clarence Valley",
+    "type": "Bush Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Oct 2025 08:03"
+    "updated": "4 Oct 2025 08:06"
+  },
+  {
+    "title": "PRINCES HWY, BOMBO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622974",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.6608467099999",
+    "longitude": "150.852615357",
+    "region": "nsw",
+    "time_of_call": "04 Oct 2025 08:20:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PRINCES HWY, BOMBO 2533",
+    "council_area": "Kiama",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "4 Oct 2025 08:20"
   }
 ]
