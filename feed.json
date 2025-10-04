@@ -29,15 +29,15 @@
     "longitude": "149.140283",
     "region": "act",
     "time_of_call": "05 Oct 2025 05:37:08",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "CAR FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
     "location": "LEFROY STREET, LOCKYER STREET, GRIFFITH, 2603",
-    "updated": "05 Oct 2025 06:01:53"
+    "updated": "05 Oct 2025 06:35:28"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "05 Oct 2025 06:03:49"
+    "updated": "05 Oct 2025 06:39:37"
   },
   {
     "agency": "Ambulance",
@@ -115,37 +115,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "066451-05102025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "05 Oct 2025 05:41:30",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "05 Oct 2025 06:12:01"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MAWSON",
     "id": "066452-05102025",
     "latitude": "-35.361049",
     "longitude": "149.099386",
     "region": "act",
     "time_of_call": "05 Oct 2025 05:45:43",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": ""
+    "updated": "05 Oct 2025 06:48:29"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +163,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "05 Oct 2025 06:08:30"
+    "updated": "05 Oct 2025 06:36:28"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1904,19 +1886,19 @@
     "latitude": "-31.9056968689999",
     "longitude": "152.240753174",
     "region": "nsw",
-    "time_of_call": "04 Oct 2025 16:43:00",
+    "time_of_call": "05 Oct 2025 06:39:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "STONEY RIDGE 779 KIMBRIKI RD, MOUNT GEORGE 2424",
     "council_area": "Mid-Coast",
-    "type": "Bush Fire",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
-    "size": "2 ha",
+    "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Oct 2025 16:43"
+    "updated": "5 Oct 2025 06:39"
   },
   {
     "title": "SALISBURY RD, SALISBURY",
@@ -1986,5 +1968,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "4 Oct 2025 23:46"
+  },
+  {
+    "title": "Marine Pde, Kingscliff",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623116",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.2392589999999",
+    "longitude": "153.567599",
+    "region": "nsw",
+    "time_of_call": "05 Oct 2025 06:40:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "277 Marine Pde, Kingscliff, NSW 2487",
+    "council_area": "Tweed",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 Oct 2025 06:40"
   }
 ]
