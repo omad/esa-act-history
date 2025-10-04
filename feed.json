@@ -75,7 +75,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "05 Oct 2025 06:56:56"
+    "updated": "05 Oct 2025 07:28:06"
   },
   {
     "agency": "Ambulance",
@@ -93,7 +93,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "05 Oct 2025 06:09:45"
+    "updated": "05 Oct 2025 07:31:24"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,61 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "05 Oct 2025 07:14:31"
+    "updated": "05 Oct 2025 07:29:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "066459-05102025",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "05 Oct 2025 07:25:28",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "05 Oct 2025 07:34:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "066460-05102025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "05 Oct 2025 07:26:30",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "05 Oct 2025 07:33:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "066461-05102025",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "05 Oct 2025 07:27:53",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "05 Oct 2025 07:32:08"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1708,7 +1762,7 @@
     "latitude": "-30.0241599669999",
     "longitude": "152.655727123",
     "region": "nsw",
-    "time_of_call": "04 Oct 2025 18:48:00",
+    "time_of_call": "05 Oct 2025 07:23:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1721,9 +1775,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "3 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Oct 2025 18:48"
+    "updated": "5 Oct 2025 07:23"
   },
   {
     "title": "FREEMANTLE RD, BILLYWILLINGA",
@@ -1918,10 +1972,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623091",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.889080048",
-    "longitude": "153.058700561",
+    "latitude": "-29.8889087269999",
+    "longitude": "153.059461988",
     "region": "nsw",
-    "time_of_call": "04 Oct 2025 23:46:00",
+    "time_of_call": "05 Oct 2025 07:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1933,7 +1987,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Oct 2025 23:46"
+    "updated": "5 Oct 2025 07:31"
   },
   {
     "title": "THUNDERBOLTS WAY",
@@ -2016,30 +2070,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Oct 2025 07:16"
-  },
-  {
-    "title": "Marine Pde, Kingscliff",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623122",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.2392589999999",
-    "longitude": "153.567599",
-    "region": "nsw",
-    "time_of_call": "05 Oct 2025 07:22:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "277 Marine Pde, Kingscliff, NSW 2487",
-    "council_area": "Tweed",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Oct 2025 07:22"
   }
 ]
