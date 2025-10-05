@@ -1,5 +1,25 @@
 [
   {
+    "agency": "Fire",
+    "alert_level": "Advice",
+    "event_type": "incident",
+    "title": "GRASS AND BUSH FIRE - SPENCE",
+    "id": "015116-05102025",
+    "latitude": "-35.1948547363",
+    "longitude": "149.0631256104",
+    "region": "act",
+    "time_of_call": "05 Oct 2025 20:34:48",
+    "status": "Out / Completed",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Out / Completed",
+    "type": "GRASS AND BUSH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
+    "location": "CLAREY CRESCENT, SPENCE, 2615",
+    "updated": "05 Oct 2025 20:48:23"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -69,7 +89,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "05 Oct 2025 18:13:54"
+    "updated": "05 Oct 2025 20:35:49"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +125,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "05 Oct 2025 20:30:56"
+    "updated": "05 Oct 2025 20:32:26"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "05 Oct 2025 20:19:13"
+    "updated": "05 Oct 2025 20:39:45"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +233,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "05 Oct 2025 20:21:56"
+    "updated": "05 Oct 2025 20:45:13"
   },
   {
     "agency": "Ambulance",
@@ -249,7 +269,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "05 Oct 2025 20:09:39"
+    "updated": "05 Oct 2025 20:37:12"
   },
   {
     "agency": "Ambulance",
@@ -261,13 +281,13 @@
     "longitude": "149.140719",
     "region": "act",
     "time_of_call": "05 Oct 2025 20:03:25",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "05 Oct 2025 20:14:19"
+    "updated": "05 Oct 2025 20:47:24"
   },
   {
     "agency": "Ambulance",
@@ -304,6 +324,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
     "updated": "05 Oct 2025 20:29:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "066610-05102025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "05 Oct 2025 20:38:49",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "05 Oct 2025 20:43:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MCKELLAR",
+    "id": "066611-05102025",
+    "latitude": "-35.216327",
+    "longitude": "149.076954",
+    "region": "act",
+    "time_of_call": "05 Oct 2025 20:42:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MCKELLAR",
+    "updated": "05 Oct 2025 20:45:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "066612-05102025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "05 Oct 2025 20:47:58",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "05 Oct 2025 20:48:41"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1996,28 +2070,6 @@
     "updated": "5 Oct 2025 17:53"
   },
   {
-    "title": "STATION LANE, LOCHINVAR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623227",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.722648621",
-    "longitude": "151.45036316",
-    "region": "nsw",
-    "time_of_call": "05 Oct 2025 18:50:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "STATION LANE, LOCHINVAR 2321",
-    "council_area": "Maitland",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Oct 2025 18:50"
-  },
-  {
     "title": "Malara Ck",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623236",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2186,7 +2238,7 @@
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "120 MOUNT VIEW CL, RAZORBACK 2571",
+    "location": "115 MOUNT VIEW CL, RAZORBACK 2571",
     "council_area": "Wollondilly",
     "type": "Other",
     "type_description": "",
@@ -2197,43 +2249,41 @@
     "updated": "5 Oct 2025 19:51"
   },
   {
-    "title": "HEMSWORTH AV, MIDDLETON GRANGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623261",
+    "title": "BELBORA CREEK RD, BUNDOOK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623260",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.910800934",
-    "longitude": "150.847000122",
+    "latitude": "-31.9076232909999",
+    "longitude": "152.136917115",
     "region": "nsw",
-    "time_of_call": "05 Oct 2025 20:29:00",
+    "time_of_call": "05 Oct 2025 20:31:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
-    "location": "81 HEMSWORTH AV, MIDDLETON GRANGE 2171",
-    "council_area": "Liverpool",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
+    "location": "BELBORA CREEK RD, BUNDOOK 2422",
+    "council_area": "Mid-Coast",
+    "type": "Car Fire",
+    "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Oct 2025 20:29"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Oct 2025 20:31"
   },
   {
-    "title": "CONSTANCE CL, EPPING",
+    "title": "Constance Cl, Epping",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623262",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
     "latitude": "-33.762954712",
     "longitude": "151.084915161",
     "region": "nsw",
-    "time_of_call": "05 Oct 2025 20:25:00",
+    "time_of_call": "05 Oct 2025 20:34:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "9 CONSTANCE CL, EPPING 2121",
+    "location": "9 Constance Cl, Epping, NSW 2121",
     "council_area": "Hornsby",
     "type": "Bush Fire",
     "type_description": "",
@@ -2241,6 +2291,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Oct 2025 20:25"
+    "updated": "5 Oct 2025 20:34"
+  },
+  {
+    "title": "Lugarno Av, Leumeah",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623266",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.054998",
+    "longitude": "150.835781",
+    "region": "nsw",
+    "time_of_call": "05 Oct 2025 20:43:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Lugarno Av, Leumeah, NSW 2560",
+    "council_area": "Campbelltown",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 Oct 2025 20:43"
   }
 ]
