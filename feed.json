@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "06 Oct 2025 09:29:14"
+    "updated": "06 Oct 2025 09:37:32"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "06 Oct 2025 09:08:55"
+    "updated": "06 Oct 2025 09:45:44"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "06 Oct 2025 09:29:19"
+    "updated": "06 Oct 2025 09:47:04"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.064271",
     "region": "act",
     "time_of_call": "06 Oct 2025 09:17:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "06 Oct 2025 09:32:32"
+    "updated": "06 Oct 2025 09:37:27"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,67 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "06 Oct 2025 09:24:38",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "06 Oct 2025 09:32:43"
+    "updated": "06 Oct 2025 09:45:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TORRENS",
+    "id": "066697-06102025",
+    "latitude": "-35.372705",
+    "longitude": "149.085827",
+    "region": "act",
+    "time_of_call": "06 Oct 2025 09:34:04",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TORRENS",
+    "updated": "06 Oct 2025 09:42:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "066698-06102025",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "06 Oct 2025 09:46:03",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "06 Oct 2025 09:47:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - REID",
+    "id": "066699-06102025",
+    "latitude": "-35.281706",
+    "longitude": "149.140719",
+    "region": "act",
+    "time_of_call": "06 Oct 2025 09:47:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "REID",
+    "updated": "06 Oct 2025 09:48:47"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -647,7 +701,7 @@
     "latitude": "-28.3196067809999",
     "longitude": "152.447875977",
     "region": "nsw",
-    "time_of_call": "05 Oct 2025 15:37:00",
+    "time_of_call": "06 Oct 2025 09:24:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -660,9 +714,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "9 ha",
+    "size": "44 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "5 Oct 2025 15:37"
+    "updated": "6 Oct 2025 09:24"
   },
   {
     "title": "Andersons",
@@ -2154,28 +2208,6 @@
     "updated": "6 Oct 2025 07:21"
   },
   {
-    "title": "WILLS RD, LONG POINT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623325",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.005889893",
-    "longitude": "150.896240234",
-    "region": "nsw",
-    "time_of_call": "06 Oct 2025 08:56:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "54 WILLS RD, LONG POINT 2564",
-    "council_area": "Campbelltown",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Oct 2025 08:56"
-  },
-  {
     "title": "SKYLINE RD, MONALTRIE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623326",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2196,5 +2228,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Oct 2025 09:04"
+  },
+  {
+    "title": "THE ABBEY NURSING HOME RANGE RD, MITTAGONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623328",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.4745292659999",
+    "longitude": "150.466918946",
+    "region": "nsw",
+    "time_of_call": "06 Oct 2025 09:41:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "THE ABBEY NURSING HOME RANGE RD, MITTAGONG 2575",
+    "council_area": "Wingecarribee",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Oct 2025 09:41"
+  },
+  {
+    "title": "Sawtell Rd, Toormina",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623329",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.352479",
+    "longitude": "153.101596",
+    "region": "nsw",
+    "time_of_call": "06 Oct 2025 09:42:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Sawtell Rd, Toormina, NSW 2452",
+    "council_area": "Coffs Harbour",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "6 Oct 2025 09:42"
   }
 ]
