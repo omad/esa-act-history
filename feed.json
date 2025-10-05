@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "GAS PIPELINE INCIDENT - FADDEN",
-    "id": "015104-05102025",
-    "latitude": "-35.4072050899",
-    "longitude": "149.11839019",
-    "region": "act",
-    "time_of_call": "05 Oct 2025 13:53:59",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "GAS PIPELINE INCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/pipe-fire_0.svg",
-    "location": "MULVEY PLACE, FADDEN, 2904",
-    "updated": "05 Oct 2025 14:43:59"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -35,7 +15,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "05 Oct 2025 13:26:56"
+    "updated": "05 Oct 2025 15:46:20"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +45,13 @@
     "longitude": "149.142366",
     "region": "act",
     "time_of_call": "05 Oct 2025 14:16:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "05 Oct 2025 15:21:22"
+    "updated": "05 Oct 2025 15:41:16"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "05 Oct 2025 15:18:15"
+    "updated": "05 Oct 2025 15:39:46"
   },
   {
     "agency": "Ambulance",
@@ -131,24 +111,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - RED HILL",
-    "id": "066546-05102025",
-    "latitude": "-35.333636",
-    "longitude": "149.120031",
-    "region": "act",
-    "time_of_call": "05 Oct 2025 14:43:15",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "RED HILL",
-    "updated": "05 Oct 2025 15:14:09"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - FLYNN",
     "id": "066547-05102025",
     "latitude": "-35.207317",
@@ -161,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "05 Oct 2025 15:23:22"
+    "updated": "05 Oct 2025 15:37:20"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "05 Oct 2025 15:09:08"
+    "updated": "05 Oct 2025 15:33:19"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +153,49 @@
     "longitude": "149.066294",
     "region": "act",
     "time_of_call": "05 Oct 2025 15:02:20",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "EVATT",
+    "updated": "05 Oct 2025 15:46:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "066556-05102025",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "05 Oct 2025 15:33:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONNER",
+    "updated": "05 Oct 2025 15:44:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "066557-05102025",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "05 Oct 2025 15:37:06",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "EVATT",
-    "updated": "05 Oct 2025 15:22:37"
+    "location": "WARAMANGA",
+    "updated": "05 Oct 2025 15:45:24"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -251,7 +249,7 @@
     "latitude": "-36.0030760019999",
     "longitude": "150.062513352",
     "region": "nsw",
-    "time_of_call": "05 Oct 2025 09:41:00",
+    "time_of_call": "05 Oct 2025 15:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -263,7 +261,7 @@
     "fire": "Yes",
     "size": "208 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "5 Oct 2025 09:41"
+    "updated": "5 Oct 2025 15:27"
   },
   {
     "title": "Minyon Cultural HR",
@@ -273,7 +271,7 @@
     "latitude": "-28.6160965789999",
     "longitude": "153.396413326",
     "region": "nsw",
-    "time_of_call": "05 Oct 2025 10:01:00",
+    "time_of_call": "05 Oct 2025 15:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -285,7 +283,7 @@
     "fire": "Yes",
     "size": "11 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "5 Oct 2025 10:01"
+    "updated": "5 Oct 2025 15:32"
   },
   {
     "title": "Bennetts Rd, Mt Belmore SF",
@@ -342,7 +340,7 @@
     "latitude": "-28.5121421809999",
     "longitude": "153.232711792",
     "region": "nsw",
-    "time_of_call": "05 Oct 2025 09:50:00",
+    "time_of_call": "05 Oct 2025 15:40:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -354,7 +352,7 @@
     "fire": "Yes",
     "size": "16 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "5 Oct 2025 09:50"
+    "updated": "5 Oct 2025 15:40"
   },
   {
     "title": "DRY PLAINS RD, WAMBROOK",
@@ -386,10 +384,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_621894",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.1367931359999",
-    "longitude": "152.739837647",
+    "latitude": "-29.139860153",
+    "longitude": "152.724853516",
     "region": "nsw",
-    "time_of_call": "05 Oct 2025 12:24:00",
+    "time_of_call": "05 Oct 2025 15:39:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -397,14 +395,14 @@
     "status_filter_label": "Active",
     "alert_level": "Advice",
     "location": "HICKS RD, BUSBYS FLAT 2469",
-    "council_area": "Richmond Valley",
+    "council_area": "Clarence Valley",
     "type": "Bush Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "1178 ha",
+    "size": "1101 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "5 Oct 2025 12:24"
+    "updated": "5 Oct 2025 15:39"
   },
   {
     "title": "Cobleys Road Fire",
@@ -840,7 +838,7 @@
     "latitude": "-32.7983665469999",
     "longitude": "151.378326416",
     "region": "nsw",
-    "time_of_call": "05 Oct 2025 08:11:00",
+    "time_of_call": "05 Oct 2025 15:37:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -852,7 +850,7 @@
     "fire": "Yes",
     "size": "72 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "5 Oct 2025 08:11"
+    "updated": "5 Oct 2025 15:37"
   },
   {
     "title": "CAIRNCROSS WEST",
@@ -997,7 +995,7 @@
     "latitude": "-32.632348844",
     "longitude": "150.770305794",
     "region": "nsw",
-    "time_of_call": "05 Oct 2025 11:14:00",
+    "time_of_call": "05 Oct 2025 14:57:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1012,7 +1010,7 @@
     "fire": "Yes",
     "size": "26 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "5 Oct 2025 11:14"
+    "updated": "5 Oct 2025 14:57"
   },
   {
     "title": "Upper Cascade Creek HR",
@@ -1470,28 +1468,6 @@
     "updated": "5 Oct 2025 10:32"
   },
   {
-    "title": "Blaxland Rd HR-Compartment 1als",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622881",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.7011718749999",
-    "longitude": "150.358551025",
-    "region": "nsw",
-    "time_of_call": "05 Oct 2025 03:58:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "WENTHWORTH FALLS HR 277-289 BLAXLAND RD, WENTWORTH FALLS 2782",
-    "council_area": "Blue Mountains",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Oct 2025 03:58"
-  },
-  {
     "title": "CHAPMANS PEAK NATURE RESERVE COALDALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_622895",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1593,8 +1569,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623012",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.2113846679999",
-    "longitude": "153.155701432",
+    "latitude": "-30.2113838189999",
+    "longitude": "153.155700684",
     "region": "nsw",
     "time_of_call": "05 Oct 2025 08:03:00",
     "event_type": "burnt area",
@@ -1633,7 +1609,7 @@
     "updated": "4 Oct 2025 19:40"
   },
   {
-    "title": "SALISBURY RD, SALISBURY",
+    "title": "Rumbels",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623051",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -1720,26 +1696,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Oct 2025 13:54"
-  },
-  {
-    "title": "ALLYN RIVER RD, UPPER ALLYN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623166",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.1664009089999",
-    "longitude": "151.481826783",
-    "region": "nsw",
-    "time_of_call": "05 Oct 2025 15:05:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "CHAINSAW OPS 3745 ALLYN RIVER RD, UPPER ALLYN 2311",
-    "council_area": "Dungog",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Oct 2025 15:05"
   },
   {
     "title": "MAITLAND VALE RD, MELVILLE",
@@ -1946,9 +1902,9 @@
     "latitude": "-32.3799552909999",
     "longitude": "152.506896972",
     "region": "nsw",
-    "time_of_call": "05 Oct 2025 14:54:00",
+    "time_of_call": "05 Oct 2025 15:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "40 PATSYS FLAT RD, SMITHS LAKE 2428",
     "council_area": "Mid-Coast",
@@ -1958,7 +1914,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Oct 2025 14:54"
+    "updated": "5 Oct 2025 15:25"
   },
   {
     "title": "ARMIDALE RD, NYMBOIDA",
@@ -2012,9 +1968,9 @@
     "latitude": "-33.6747283939999",
     "longitude": "150.785110473",
     "region": "nsw",
-    "time_of_call": "05 Oct 2025 15:14:00",
+    "time_of_call": "05 Oct 2025 15:39:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "75 FOURTH RD, BERKSHIRE PARK 2765",
     "council_area": "Penrith",
@@ -2024,7 +1980,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Oct 2025 15:14"
+    "updated": "5 Oct 2025 15:39"
   },
   {
     "title": "ARMIDALE RD, NYMBOIDA",
@@ -2056,9 +2012,9 @@
     "latitude": "-33.5591163629999",
     "longitude": "150.802795411",
     "region": "nsw",
-    "time_of_call": "05 Oct 2025 15:23:00",
+    "time_of_call": "05 Oct 2025 15:34:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "KURMOND RD, FREEMANS REACH 2756",
     "council_area": "Hawkesbury",
@@ -2068,6 +2024,103 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Oct 2025 15:23"
+    "updated": "5 Oct 2025 15:34"
+  },
+  {
+    "title": "Arakoon Rd, South West Rocks",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623199",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.9151287079999",
+    "longitude": "153.04347229",
+    "region": "nsw",
+    "time_of_call": "05 Oct 2025 15:39:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Arakoon Rd, South West Rocks, NSW 2431",
+    "council_area": "Kempsey",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 Oct 2025 15:39"
+  },
+  {
+    "title": "BURRAGAN RD, COUTTS CROSSING",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623200",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.833179473",
+    "longitude": "152.912368775",
+    "region": "nsw",
+    "time_of_call": "05 Oct 2025 15:30:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BURRAGAN RD, COUTTS CROSSING 2460",
+    "council_area": "Clarence Valley",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Oct 2025 15:30"
+  },
+  {
+    "title": "Glover St, Belmont",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623205",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.0355259999999",
+    "longitude": "151.665252001",
+    "region": "nsw",
+    "time_of_call": "05 Oct 2025 15:41:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Glover St, Belmont, NSW 2280",
+    "council_area": "Lake Macquarie",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 Oct 2025 15:41"
+  },
+  {
+    "title": "Wamoon Av, Leeton",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623206",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.551275",
+    "longitude": "146.392703",
+    "region": "nsw",
+    "time_of_call": "05 Oct 2025 15:44:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Wamoon Av, Leeton, NSW 2705",
+    "council_area": "Leeton",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 Oct 2025 15:44"
   }
 ]
