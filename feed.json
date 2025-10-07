@@ -141,7 +141,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "08 Oct 2025 10:19:28"
+    "updated": "08 Oct 2025 10:24:26"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +213,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "08 Oct 2025 10:15:38"
+    "updated": "08 Oct 2025 10:23:37"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +231,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PARKES",
-    "updated": "08 Oct 2025 10:15:54"
+    "updated": "08 Oct 2025 10:27:37"
   },
   {
     "agency": "Ambulance",
@@ -243,13 +243,13 @@
     "longitude": "149.117192",
     "region": "act",
     "time_of_call": "08 Oct 2025 10:10:03",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "08 Oct 2025 10:18:48"
+    "updated": "08 Oct 2025 10:26:08"
   },
   {
     "agency": "Ambulance",
@@ -261,13 +261,13 @@
     "longitude": "149.076954",
     "region": "act",
     "time_of_call": "08 Oct 2025 10:11:07",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "08 Oct 2025 10:21:21"
+    "updated": "08 Oct 2025 10:28:16"
   },
   {
     "agency": "Ambulance",
@@ -286,6 +286,96 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
     "updated": "08 Oct 2025 10:19:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAPITAL HILL",
+    "id": "067153-08102025",
+    "latitude": "-35.305595",
+    "longitude": "149.126792",
+    "region": "act",
+    "time_of_call": "08 Oct 2025 10:24:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAPITAL HILL",
+    "updated": "08 Oct 2025 10:29:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "067154-08102025",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "08 Oct 2025 10:24:53",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHAPMAN",
+    "updated": "08 Oct 2025 10:28:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "067155-08102025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "08 Oct 2025 10:25:49",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "08 Oct 2025 10:29:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHIFLEY",
+    "id": "067156-08102025",
+    "latitude": "-35.351526",
+    "longitude": "149.076955",
+    "region": "act",
+    "time_of_call": "08 Oct 2025 10:28:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHIFLEY",
+    "updated": "08 Oct 2025 10:29:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "067157-08102025",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "08 Oct 2025 10:28:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "08 Oct 2025 10:29:16"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -577,7 +667,7 @@
     "latitude": "-28.3196067809999",
     "longitude": "152.447875977",
     "region": "nsw",
-    "time_of_call": "07 Oct 2025 15:07:00",
+    "time_of_call": "08 Oct 2025 10:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -592,7 +682,7 @@
     "fire": "Yes",
     "size": "44 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "7 Oct 2025 15:07"
+    "updated": "8 Oct 2025 10:10"
   },
   {
     "title": "Kiwarrak 001 Plantation",
@@ -722,7 +812,7 @@
     "latitude": "-29.84173584",
     "longitude": "152.664443969",
     "region": "nsw",
-    "time_of_call": "07 Oct 2025 20:52:00",
+    "time_of_call": "08 Oct 2025 10:18:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -737,7 +827,7 @@
     "fire": "Yes",
     "size": "31 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "7 Oct 2025 20:52"
+    "updated": "8 Oct 2025 10:18"
   },
   {
     "title": "ALBERTS TRIG",
@@ -797,9 +887,9 @@
     "latitude": "-29.6342506409999",
     "longitude": "152.726119995",
     "region": "nsw",
-    "time_of_call": "07 Oct 2025 20:36:00",
+    "time_of_call": "08 Oct 2025 10:16:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -812,7 +902,7 @@
     "fire": "Yes",
     "size": "238 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Oct 2025 20:36"
+    "updated": "8 Oct 2025 10:16"
   },
   {
     "title": "CANGAI RD, JACKADGERY",
@@ -1467,7 +1557,7 @@
     "updated": "7 Oct 2025 20:49"
   },
   {
-    "title": "Sancrox Quarry",
+    "title": "SANCROX QUARRY HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623511",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -1555,28 +1645,6 @@
     "updated": "8 Oct 2025 05:14"
   },
   {
-    "title": "SHERWOOD CREEK RD, SHERWOOD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623600",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.0355415339999",
-    "longitude": "153.091934204",
-    "region": "nsw",
-    "time_of_call": "08 Oct 2025 08:16:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "SHERWOOD CREEK RD, SHERWOOD 2450",
-    "council_area": "Coffs Harbour",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Oct 2025 08:16"
-  },
-  {
     "title": "COOK ST, TUENA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623602",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1641,49 +1709,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Oct 2025 09:37"
-  },
-  {
-    "title": "SMALLS RD, GRASMERE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623607",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.0526275629999",
-    "longitude": "150.661880493",
-    "region": "nsw",
-    "time_of_call": "08 Oct 2025 09:57:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "72 SMALLS RD, GRASMERE 2570",
-    "council_area": "Camden",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Oct 2025 09:57"
-  },
-  {
-    "title": "BALLINA BYPASS, TINTENBAR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623608",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.7846546169999",
-    "longitude": "153.526275634",
-    "region": "nsw",
-    "time_of_call": "08 Oct 2025 10:09:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BALLINA BYPASS, TINTENBAR 2478",
-    "council_area": "Ballina",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Oct 2025 10:09"
   }
 ]
