@@ -23,24 +23,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHAPMAN",
-    "id": "067361-09102025",
-    "latitude": "-35.356631",
-    "longitude": "149.036831",
-    "region": "act",
-    "time_of_call": "09 Oct 2025 03:29:30",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHAPMAN",
-    "updated": "09 Oct 2025 05:15:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - RIVETT",
     "id": "067369-09102025",
     "latitude": "-35.346479",
@@ -107,7 +89,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "09 Oct 2025 08:21:22"
+    "updated": "09 Oct 2025 08:31:18"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "09 Oct 2025 08:09:41"
+    "updated": "09 Oct 2025 08:24:30"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +155,13 @@
     "longitude": "149.072217",
     "region": "act",
     "time_of_call": "09 Oct 2025 07:47:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "09 Oct 2025 08:15:18"
+    "updated": "09 Oct 2025 08:23:38"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +197,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "09 Oct 2025 07:56:44"
+    "updated": "09 Oct 2025 08:31:50"
   },
   {
     "agency": "Ambulance",
@@ -270,6 +252,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
     "updated": "09 Oct 2025 08:17:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "067393-09102025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "09 Oct 2025 08:29:18",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "09 Oct 2025 08:31:47"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1457,7 +1457,7 @@
     "latitude": "-28.982374192",
     "longitude": "152.808502197",
     "region": "nsw",
-    "time_of_call": "09 Oct 2025 00:04:00",
+    "time_of_call": "09 Oct 2025 08:22:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -1472,7 +1472,7 @@
     "fire": "Yes",
     "size": "75 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Oct 2025 00:04"
+    "updated": "9 Oct 2025 08:22"
   },
   {
     "title": "MILPULLING RD, BALLADORAN",
@@ -1760,28 +1760,6 @@
     "updated": "9 Oct 2025 08:14"
   },
   {
-    "title": "FOREST RD, WYEE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623740",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.1699066159999",
-    "longitude": "151.475814819",
-    "region": "nsw",
-    "time_of_call": "09 Oct 2025 07:37:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "BETHSHAN GARDENS 30 FOREST RD, WYEE 2259",
-    "council_area": "Lake Macquarie",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Oct 2025 07:37"
-  },
-  {
     "title": "HUME HWY, YASS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623743",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1789,9 +1767,9 @@
     "latitude": "-34.820110321",
     "longitude": "148.951080322",
     "region": "nsw",
-    "time_of_call": "09 Oct 2025 07:53:00",
+    "time_of_call": "09 Oct 2025 08:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "HUME HWY, YASS 2582",
     "council_area": "Yass Valley",
@@ -1801,7 +1779,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Oct 2025 07:53"
+    "updated": "9 Oct 2025 08:21"
   },
   {
     "title": "GOLDEN ASH DR, ABERGLASSLYN",
@@ -1811,18 +1789,18 @@
     "latitude": "-32.693161011",
     "longitude": "151.52319336",
     "region": "nsw",
-    "time_of_call": "09 Oct 2025 07:55:00",
+    "time_of_call": "09 Oct 2025 08:28:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GOLDEN ASH DR, ABERGLASSLYN 2320",
     "council_area": "Maitland",
-    "type": "Other",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "9 Oct 2025 07:55"
+    "updated": "9 Oct 2025 08:28"
   }
 ]
