@@ -9,15 +9,15 @@
     "longitude": "149.1030731201",
     "region": "act",
     "time_of_call": "09 Oct 2025 00:17:54",
-    "status": "On Scene",
+    "status": "Out / Completed",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
+    "status_filter_label": "Out / Completed",
     "type": "GRASS AND BUSH FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "ASHLEY DRIVE EXIT, ASHLEY DRIVE, RICHARDSON, 2905",
-    "updated": "09 Oct 2025 00:24:42"
+    "updated": "09 Oct 2025 00:37:36"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "09 Oct 2025 00:27:08"
+    "updated": "09 Oct 2025 00:39:31"
   },
   {
     "agency": "Ambulance",
@@ -95,24 +95,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "067329-08102025",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "08 Oct 2025 23:19:17",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "09 Oct 2025 00:06:22"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONASH",
     "id": "067332-08102025",
     "latitude": "-35.413962",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "09 Oct 2025 00:06:35"
+    "updated": "09 Oct 2025 00:46:47"
   },
   {
     "agency": "Ambulance",
@@ -144,6 +126,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
     "updated": "09 Oct 2025 00:28:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "067336-09102025",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "09 Oct 2025 00:45:16",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TAYLOR",
+    "updated": "09 Oct 2025 00:49:14"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1681,28 +1681,6 @@
     "updated": "8 Oct 2025 23:03"
   },
   {
-    "title": "SPENCE RD, BERKSHIRE PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623714",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.6850318909999",
-    "longitude": "150.776779175",
-    "region": "nsw",
-    "time_of_call": "08 Oct 2025 23:00:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "SPENCE RD, BERKSHIRE PARK 2765",
-    "council_area": "Penrith",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Oct 2025 23:00"
-  },
-  {
     "title": "BATE ST, WENTWORTH FALLS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623717",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1721,46 +1699,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Oct 2025 23:08"
-  },
-  {
-    "title": "COTTONWOOD CR, MACQUARIE FIELDS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623718",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.9893074039999",
-    "longitude": "150.904144287",
-    "region": "nsw",
-    "time_of_call": "08 Oct 2025 23:53:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "3 COTTONWOOD CR, MACQUARIE FIELDS 2564",
-    "council_area": "Campbelltown",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Oct 2025 23:53"
-  },
-  {
-    "title": "SPRINGFIELD RD, CATHERINE FIELD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623720",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.992191315",
-    "longitude": "150.757476806",
-    "region": "nsw",
-    "time_of_call": "09 Oct 2025 00:24:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "223 SPRINGFIELD RD, CATHERINE FIELD 2557",
-    "council_area": "Camden",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Oct 2025 00:24"
   },
   {
     "title": "BARAANG DR, BROADWATER",
@@ -1785,31 +1723,6 @@
     "updated": "9 Oct 2025 00:09"
   },
   {
-    "title": "William St, Inverell",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623723",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.7835239999999",
-    "longitude": "151.104774",
-    "region": "nsw",
-    "time_of_call": "09 Oct 2025 00:20:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "William St, Inverell, NSW 2360",
-    "council_area": "Inverell",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "9 Oct 2025 00:20"
-  },
-  {
     "title": "Cashel Cr, Killarney Heights",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623725",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1817,9 +1730,9 @@
     "latitude": "-33.765948",
     "longitude": "151.207772",
     "region": "nsw",
-    "time_of_call": "09 Oct 2025 00:30:00",
+    "time_of_call": "09 Oct 2025 00:39:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1832,6 +1745,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "9 Oct 2025 00:30"
+    "updated": "9 Oct 2025 00:39"
   }
 ]
