@@ -9,15 +9,15 @@
     "longitude": "149.0503180999",
     "region": "act",
     "time_of_call": "09 Oct 2025 03:38:16",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "ELECTRICAL THREAT OR POWER LINES DOWN",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/electrical-threat_0.svg",
     "location": "SHUMACK STREET, WEETANGERA, 2614",
-    "updated": "09 Oct 2025 03:49:52"
+    "updated": "09 Oct 2025 04:01:30"
   },
   {
     "agency": "Ambulance",
@@ -77,24 +77,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLDER",
-    "id": "067334-09102025",
-    "latitude": "-35.337349",
-    "longitude": "149.046336",
-    "region": "act",
-    "time_of_call": "09 Oct 2025 00:22:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HOLDER",
-    "updated": "09 Oct 2025 03:42:46"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KAMBAH",
     "id": "067343-09102025",
     "latitude": "-35.384074",
@@ -113,24 +95,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONASH",
-    "id": "067346-09102025",
-    "latitude": "-35.413962",
-    "longitude": "149.091126",
-    "region": "act",
-    "time_of_call": "09 Oct 2025 01:56:17",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "09 Oct 2025 03:13:50"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CRACE",
     "id": "067358-09102025",
     "latitude": "-35.202196",
@@ -143,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
-    "updated": "09 Oct 2025 03:51:35"
+    "updated": "09 Oct 2025 04:05:13"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "09 Oct 2025 03:49:58"
+    "updated": "09 Oct 2025 04:08:56"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +143,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "09 Oct 2025 03:46:12"
+    "updated": "09 Oct 2025 04:22:47"
   },
   {
     "agency": "Ambulance",
@@ -203,19 +167,37 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - RICHARDSON",
-    "id": "067363-09102025",
-    "latitude": "-35.428715",
-    "longitude": "149.111133",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "067364-09102025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
     "region": "act",
-    "time_of_call": "09 Oct 2025 03:44:19",
+    "time_of_call": "09 Oct 2025 04:03:53",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "RICHARDSON",
-    "updated": "09 Oct 2025 03:50:46"
+    "location": "BELCONNEN",
+    "updated": "09 Oct 2025 04:08:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYONS",
+    "id": "067365-09102025",
+    "latitude": "-35.340941",
+    "longitude": "149.072217",
+    "region": "act",
+    "time_of_call": "09 Oct 2025 04:06:09",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYONS",
+    "updated": "09 Oct 2025 04:19:36"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1777,12 +1759,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623729",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.5235900879999",
-    "longitude": "150.631011963",
+    "latitude": "-33.540405273",
+    "longitude": "150.633041382",
     "region": "nsw",
-    "time_of_call": "09 Oct 2025 03:29:00",
+    "time_of_call": "09 Oct 2025 04:09:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "1141 BELLS LINE OF ROAD, KURRAJONG HEIGHTS 2758",
     "council_area": "Hawkesbury",
@@ -1790,7 +1772,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Oct 2025 03:29"
+    "updated": "9 Oct 2025 04:09"
   },
   {
     "title": "WOODSTOCK RD, MILTON",
@@ -1800,9 +1782,9 @@
     "latitude": "-35.3245811469999",
     "longitude": "150.424591065",
     "region": "nsw",
-    "time_of_call": "09 Oct 2025 03:34:00",
+    "time_of_call": "09 Oct 2025 04:19:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "WOODSTOCK RD, MILTON 2538",
     "council_area": "Shoalhaven",
@@ -1810,6 +1792,26 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Oct 2025 03:34"
+    "updated": "9 Oct 2025 04:19"
+  },
+  {
+    "title": "SANDY WHA RD, GERRINGONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623731",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.738040924",
+    "longitude": "150.830444336",
+    "region": "nsw",
+    "time_of_call": "09 Oct 2025 04:19:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "4 SANDY WHA RD, GERRINGONG 2534",
+    "council_area": "Kiama",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Oct 2025 04:19"
   }
 ]
