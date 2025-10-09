@@ -161,7 +161,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": ""
+    "updated": "09 Oct 2025 18:25:58"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "RUSSELL",
-    "updated": "09 Oct 2025 18:16:55"
+    "updated": "09 Oct 2025 18:28:12"
   },
   {
     "agency": "Ambulance",
@@ -269,7 +269,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "09 Oct 2025 18:07:04"
+    "updated": "09 Oct 2025 18:23:08"
   },
   {
     "agency": "Ambulance",
@@ -281,13 +281,13 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "09 Oct 2025 17:46:31",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "09 Oct 2025 18:01:03"
+    "updated": "09 Oct 2025 18:33:08"
   },
   {
     "agency": "Ambulance",
@@ -323,7 +323,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "09 Oct 2025 18:07:02"
+    "updated": "09 Oct 2025 18:30:56"
   },
   {
     "agency": "Ambulance",
@@ -335,13 +335,13 @@
     "longitude": "149.046336",
     "region": "act",
     "time_of_call": "09 Oct 2025 17:58:14",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "09 Oct 2025 18:04:38"
+    "updated": "09 Oct 2025 18:33:33"
   },
   {
     "agency": "Ambulance",
@@ -396,6 +396,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
     "updated": "09 Oct 2025 18:21:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "067539-09102025",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "09 Oct 2025 18:33:03",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "09 Oct 2025 18:34:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GOWRIE",
+    "id": "067540-09102025",
+    "latitude": "-35.411365",
+    "longitude": "149.110257",
+    "region": "act",
+    "time_of_call": "09 Oct 2025 18:34:02",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GOWRIE",
+    "updated": "09 Oct 2025 18:34:48"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1748,9 +1784,9 @@
     "latitude": "-34.3668136599999",
     "longitude": "150.538970947",
     "region": "nsw",
-    "time_of_call": "09 Oct 2025 18:14:00",
+    "time_of_call": "09 Oct 2025 18:31:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "20 KIANDRA CR, YERRINBOOL 2575",
     "council_area": "Wingecarribee",
@@ -1758,6 +1794,56 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Oct 2025 18:14"
+    "updated": "9 Oct 2025 18:31"
+  },
+  {
+    "title": "CHELMSFORD RD, LAKE HAVEN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623820",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.2407836909999",
+    "longitude": "151.512039185",
+    "region": "nsw",
+    "time_of_call": "09 Oct 2025 18:27:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "22 CHELMSFORD RD, LAKE HAVEN 2263",
+    "council_area": "Central Coast",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "9 Oct 2025 18:27"
+  },
+  {
+    "title": "OLD NORTHERN RD, DURAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623822",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.699443817",
+    "longitude": "151.019805908",
+    "region": "nsw",
+    "time_of_call": "09 Oct 2025 18:33:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "663A OLD NORTHERN RD, DURAL 2158",
+    "council_area": "Hornsby",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "9 Oct 2025 18:33"
   }
 ]
