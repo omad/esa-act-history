@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "PARKES WAY, GLENLOCH INTERCHANGE, CANBERRA CENTRAL, 0000",
-    "updated": "11 Oct 2025 10:27:17"
+    "updated": "11 Oct 2025 10:29:58"
   },
   {
     "agency": "Fire",
@@ -49,15 +49,35 @@
     "longitude": "149.0808863499",
     "region": "act",
     "time_of_call": "11 Oct 2025 10:24:02",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "MACLAURIN CRESCENT, CHIFLEY, 2606",
-    "updated": "11 Oct 2025 10:28:46"
+    "updated": "11 Oct 2025 10:48:40"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "RUBBISH FIRE - CANBERRA AIRPORT",
+    "id": "015440-11102025",
+    "latitude": "-35.3063545227",
+    "longitude": "149.2043457031",
+    "region": "act",
+    "time_of_call": "11 Oct 2025 10:45:07",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "RUBBISH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
+    "location": "SCHERGER DRIVE, TINDAL LANE, CANBERRA AIRPORT, 2609",
+    "updated": "11 Oct 2025 10:48:50"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "11 Oct 2025 10:18:06"
+    "updated": "11 Oct 2025 10:48:57"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +149,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "11 Oct 2025 10:22:14"
+    "updated": "11 Oct 2025 10:35:35"
   },
   {
     "agency": "Ambulance",
@@ -165,7 +185,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "11 Oct 2025 10:22:04"
+    "updated": "11 Oct 2025 10:30:24"
   },
   {
     "agency": "Ambulance",
@@ -177,13 +197,31 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "11 Oct 2025 10:16:59",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "11 Oct 2025 10:34:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "067962-11102025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "11 Oct 2025 10:44:46",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "11 Oct 2025 10:21:36"
+    "location": "BELCONNEN",
+    "updated": "11 Oct 2025 10:48:24"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -215,7 +253,7 @@
     "latitude": "-31.4216685819999",
     "longitude": "151.252126694",
     "region": "nsw",
-    "time_of_call": "10 Oct 2025 15:41:00",
+    "time_of_call": "11 Oct 2025 10:39:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -227,7 +265,7 @@
     "fire": "Yes",
     "size": "991 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "10 Oct 2025 15:41"
+    "updated": "11 Oct 2025 10:39"
   },
   {
     "title": "Sphinx HR",
@@ -782,28 +820,6 @@
     "updated": "10 Oct 2025 17:51"
   },
   {
-    "title": "RIVERINA HWY, LAKE HUME VILLAGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623576",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.100177765",
-    "longitude": "147.037292481",
-    "region": "nsw",
-    "time_of_call": "11 Oct 2025 00:08:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "RIVERINA HWY, LAKE HUME VILLAGE 3691",
-    "council_area": "Albury",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 00:08"
-  },
-  {
     "title": "BLUE SPRINGS RD, BUNGABA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_623603",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -944,7 +960,7 @@
     "latitude": "-31.541089879",
     "longitude": "151.807022095",
     "region": "nsw",
-    "time_of_call": "10 Oct 2025 16:07:00",
+    "time_of_call": "11 Oct 2025 10:08:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -959,7 +975,7 @@
     "fire": "Yes",
     "size": "20 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "10 Oct 2025 16:07"
+    "updated": "11 Oct 2025 10:08"
   },
   {
     "title": "Quambies Rd Millewa",
@@ -991,7 +1007,7 @@
     "latitude": "-31.434867858",
     "longitude": "152.746246338",
     "region": "nsw",
-    "time_of_call": "10 Oct 2025 22:26:00",
+    "time_of_call": "11 Oct 2025 10:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1003,7 +1019,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Oct 2025 22:26"
+    "updated": "11 Oct 2025 10:27"
   },
   {
     "title": "Grants Road HR",
@@ -1264,7 +1280,7 @@
     "latitude": "-33.4565544119999",
     "longitude": "151.061950684",
     "region": "nsw",
-    "time_of_call": "11 Oct 2025 10:16:00",
+    "time_of_call": "11 Oct 2025 10:31:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1279,7 +1295,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 10:16"
+    "updated": "11 Oct 2025 10:31"
   },
   {
     "title": "COSTIGANS RD, YARRAS",
@@ -1289,9 +1305,9 @@
     "latitude": "-31.451063156",
     "longitude": "152.337356567",
     "region": "nsw",
-    "time_of_call": "10 Oct 2025 22:19:00",
+    "time_of_call": "11 Oct 2025 10:24:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1304,7 +1320,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Oct 2025 22:19"
+    "updated": "11 Oct 2025 10:24"
   },
   {
     "title": "Tryon Av, Wollstonecraft",
@@ -1357,28 +1373,6 @@
     "updated": "11 Oct 2025 04:50"
   },
   {
-    "title": "THE HORSLEY DR, HORSLEY PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624000",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.852619171",
-    "longitude": "150.873886108",
-    "region": "nsw",
-    "time_of_call": "10 Oct 2025 23:02:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "THE HORSLEY DR, HORSLEY PARK 2175",
-    "council_area": "Fairfield",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Oct 2025 23:02"
-  },
-  {
     "title": "HUME AND HOVELL WALKING TRK, BURRA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624011",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1426,7 +1420,7 @@
     "latitude": "-32.742195129",
     "longitude": "152.121124268",
     "region": "nsw",
-    "time_of_call": "11 Oct 2025 09:00:00",
+    "time_of_call": "11 Oct 2025 10:25:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -1441,7 +1435,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 09:00"
+    "updated": "11 Oct 2025 10:25"
   },
   {
     "title": "RESERVOIR RD, MALUA BAY",
@@ -1486,26 +1480,6 @@
     "updated": "11 Oct 2025 09:21"
   },
   {
-    "title": "TURNERS RD, WOODBERRY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624049",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.788074493",
-    "longitude": "151.675674439",
-    "region": "nsw",
-    "time_of_call": "11 Oct 2025 10:21:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "242 TURNERS RD, WOODBERRY 2322",
-    "council_area": "Maitland",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 10:21"
-  },
-  {
     "title": "PRINCES HWY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624052",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1513,9 +1487,9 @@
     "latitude": "-34.5652236939999",
     "longitude": "150.788406372",
     "region": "nsw",
-    "time_of_call": "11 Oct 2025 10:05:00",
+    "time_of_call": "11 Oct 2025 10:11:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "ILLAWARRA REGIONAL AIRPORT PRINCES HWY, ALBION PARK RAIL 2527",
     "council_area": "Shellharbour",
@@ -1525,7 +1499,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 Oct 2025 10:05"
+    "updated": "11 Oct 2025 10:11"
   },
   {
     "title": "SCOTT ST, NORTH ROTHBURY",
@@ -1535,9 +1509,9 @@
     "latitude": "-32.6818962089999",
     "longitude": "151.352920532",
     "region": "nsw",
-    "time_of_call": "11 Oct 2025 10:10:00",
+    "time_of_call": "11 Oct 2025 10:29:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "13 SCOTT ST, NORTH ROTHBURY 2335",
     "council_area": "Cessnock",
@@ -1547,28 +1521,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 Oct 2025 10:10"
+    "updated": "11 Oct 2025 10:29"
   },
   {
-    "title": "AIRPORT RD, BROKEN HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624055",
+    "title": "LIONSVILLE RD, LIONSVILLE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624056",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.990409851",
-    "longitude": "141.468322754",
+    "latitude": "-29.202877045",
+    "longitude": "152.486999512",
     "region": "nsw",
-    "time_of_call": "11 Oct 2025 10:22:00",
+    "time_of_call": "11 Oct 2025 10:24:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "AIRPORT RD, BROKEN HILL 2880",
-    "council_area": "Broken Hill",
-    "type": "MVA/Transport",
+    "location": "LIONSVILLE RD, LIONSVILLE 2460",
+    "council_area": "Clarence Valley",
+    "type": "Bush Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 Oct 2025 10:22"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Oct 2025 10:24"
   }
 ]
