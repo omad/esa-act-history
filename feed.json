@@ -117,13 +117,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "11 Oct 2025 09:24:32",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "11 Oct 2025 09:27:04"
+    "updated": "11 Oct 2025 09:37:21"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "11 Oct 2025 09:33:31"
+    "updated": "11 Oct 2025 09:42:10"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,13 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "11 Oct 2025 09:27:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "11 Oct 2025 09:31:46"
+    "updated": "11 Oct 2025 09:41:41"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +171,31 @@
     "longitude": "149.110562",
     "region": "act",
     "time_of_call": "11 Oct 2025 09:33:11",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CRACE",
+    "updated": "11 Oct 2025 09:46:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "067955-11102025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "11 Oct 2025 09:40:16",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "CRACE",
-    "updated": "11 Oct 2025 09:34:54"
+    "location": "CURTIN",
+    "updated": "11 Oct 2025 09:48:30"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1508,46 +1526,6 @@
     "updated": "11 Oct 2025 08:15"
   },
   {
-    "title": "LACHLAN VALLEY WAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624040",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.528198242",
-    "longitude": "148.729187012",
-    "region": "nsw",
-    "time_of_call": "11 Oct 2025 09:32:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ROADSIDE REST AREA LACHLAN VALLEY WAY, BOOROWA 2586",
-    "council_area": "Hilltops",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 09:32"
-  },
-  {
-    "title": "SULLIVANS RD, VALLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624043",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.5776100159999",
-    "longitude": "152.963592529",
-    "region": "nsw",
-    "time_of_call": "11 Oct 2025 08:48:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "219 SULLIVANS RD, VALLA 2448",
-    "council_area": "Nambucca Valley",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 08:48"
-  },
-  {
     "title": "KALANG RD, KALANG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624044",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1555,9 +1533,9 @@
     "latitude": "-30.4984188079999",
     "longitude": "152.783233642",
     "region": "nsw",
-    "time_of_call": "11 Oct 2025 08:49:00",
+    "time_of_call": "11 Oct 2025 09:33:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1620 KALANG RD, KALANG 2454",
     "council_area": "Bellingen",
@@ -1565,7 +1543,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 08:49"
+    "updated": "11 Oct 2025 09:33"
   },
   {
     "title": "NORTH MINORE RD, MINORE",
