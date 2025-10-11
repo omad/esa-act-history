@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "11 Oct 2025 20:30:36"
+    "updated": "11 Oct 2025 20:39:11"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "11 Oct 2025 20:10:23"
+    "updated": "11 Oct 2025 20:47:34"
   },
   {
     "agency": "Ambulance",
@@ -149,24 +149,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "068050-11102025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "11 Oct 2025 18:54:46",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "11 Oct 2025 20:15:23"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CITY",
     "id": "068054-11102025",
     "latitude": "-35.282068",
@@ -179,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "11 Oct 2025 20:16:41"
+    "updated": "11 Oct 2025 20:31:14"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +233,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "11 Oct 2025 20:13:03"
+    "updated": "11 Oct 2025 20:45:47"
   },
   {
     "agency": "Ambulance",
@@ -269,7 +251,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "11 Oct 2025 20:14:14"
+    "updated": "11 Oct 2025 20:40:29"
   },
   {
     "agency": "Ambulance",
@@ -305,7 +287,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "11 Oct 2025 20:15:42"
+    "updated": "11 Oct 2025 20:43:03"
   },
   {
     "agency": "Ambulance",
@@ -353,13 +335,31 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "11 Oct 2025 20:20:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "11 Oct 2025 20:28:48"
+    "updated": "11 Oct 2025 20:32:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TAYLOR",
+    "id": "068066-11102025",
+    "latitude": "-35.147416",
+    "longitude": "149.105924",
+    "region": "act",
+    "time_of_call": "11 Oct 2025 20:42:31",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TAYLOR",
+    "updated": "11 Oct 2025 20:48:17"
   },
   {
     "title": "Pulfords Road Nundle SF",
@@ -1050,7 +1050,7 @@
     "latitude": "-31.541089879",
     "longitude": "151.807022095",
     "region": "nsw",
-    "time_of_call": "11 Oct 2025 16:53:00",
+    "time_of_call": "11 Oct 2025 20:30:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -1063,9 +1063,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "20 ha",
+    "size": "790 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "11 Oct 2025 16:53"
+    "updated": "11 Oct 2025 20:30"
   },
   {
     "title": "Quambies Rd Millewa",
@@ -1813,28 +1813,6 @@
     "updated": "11 Oct 2025 20:08"
   },
   {
-    "title": "STIRLING RD, MOORE CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624119",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.9933032989999",
-    "longitude": "150.929260254",
-    "region": "nsw",
-    "time_of_call": "11 Oct 2025 20:03:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "77 STIRLING RD, MOORE CREEK 2340",
-    "council_area": "Tamworth",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 20:03"
-  },
-  {
     "title": "OLD TENTERFIELD RD, WYAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624120",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1842,10 +1820,13 @@
     "latitude": "-29.0629749299999",
     "longitude": "152.86857605",
     "region": "nsw",
-    "time_of_call": "11 Oct 2025 20:27:00",
+    "time_of_call": "11 Oct 2025 20:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "2840 OLD TENTERFIELD RD, WYAN 2469",
     "council_area": "Richmond Valley",
     "type": "Bush Fire",
@@ -1854,6 +1835,50 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 20:27"
+    "updated": "11 Oct 2025 20:38"
+  },
+  {
+    "title": "ROYS RD, KRAMBACH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624122",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.0329055789999",
+    "longitude": "152.253219605",
+    "region": "nsw",
+    "time_of_call": "11 Oct 2025 20:13:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "164 ROYS RD, KRAMBACH 2429",
+    "council_area": "Mid-Coast",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Oct 2025 20:13"
+  },
+  {
+    "title": "PITT TOWN RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624123",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6195907589999",
+    "longitude": "150.952667236",
+    "region": "nsw",
+    "time_of_call": "11 Oct 2025 20:31:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "KENTHURST STUDY CENTRE 231 PITT TOWN RD, KENTHURST 2156",
+    "council_area": "The Hills",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Oct 2025 20:31"
   }
 ]
