@@ -29,15 +29,15 @@
     "longitude": "149.1207733154",
     "region": "act",
     "time_of_call": "11 Oct 2025 17:32:56",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "HAMBIDGE CRESCENT, CHISHOLM, 2905",
-    "updated": "11 Oct 2025 17:40:02"
+    "updated": "11 Oct 2025 18:26:52"
   },
   {
     "agency": "Ambulance",
@@ -103,13 +103,13 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "11 Oct 2025 16:59:20",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "11 Oct 2025 18:03:26"
+    "updated": "11 Oct 2025 18:23:11"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +193,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "11 Oct 2025 17:39:27",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "11 Oct 2025 17:55:35"
+    "updated": "11 Oct 2025 18:27:17"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +235,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "11 Oct 2025 17:55:50"
+    "updated": "11 Oct 2025 18:25:14"
   },
   {
     "agency": "Ambulance",
@@ -301,13 +301,31 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "11 Oct 2025 18:17:06",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "11 Oct 2025 18:18:47"
+    "updated": "11 Oct 2025 18:25:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "068040-11102025",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "11 Oct 2025 18:24:38",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "11 Oct 2025 18:26:38"
   },
   {
     "title": "RIFLE RANGE RD, DELROY HEIGHTS",
@@ -1585,7 +1603,7 @@
     "latitude": "-32.004592896",
     "longitude": "152.272720337",
     "region": "nsw",
-    "time_of_call": "11 Oct 2025 17:46:00",
+    "time_of_call": "11 Oct 2025 18:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1600,6 +1618,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 17:46"
+    "updated": "11 Oct 2025 18:20"
+  },
+  {
+    "title": "GREAT WESTERN HWY, VALLEY HEIGHTS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624106",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.7041892999999",
+    "longitude": "150.584075927",
+    "region": "nsw",
+    "time_of_call": "11 Oct 2025 18:16:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GREAT WESTERN HWY, VALLEY HEIGHTS 2777",
+    "council_area": "Blue Mountains",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "11 Oct 2025 18:16"
   }
 ]
