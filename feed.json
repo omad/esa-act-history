@@ -23,24 +23,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - AINSLIE",
-    "id": "068040-11102025",
-    "latitude": "-35.262117",
-    "longitude": "149.144037",
-    "region": "act",
-    "time_of_call": "11 Oct 2025 18:24:38",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "AINSLIE",
-    "updated": "11 Oct 2025 19:42:32"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - HOLT",
     "id": "068042-11102025",
     "latitude": "-35.224201",
@@ -197,7 +179,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "11 Oct 2025 21:23:11"
+    "updated": "11 Oct 2025 21:34:43"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +215,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "11 Oct 2025 21:08:20"
+    "updated": "11 Oct 2025 21:33:23"
   },
   {
     "agency": "Ambulance",
@@ -245,13 +227,13 @@
     "longitude": "149.154752",
     "region": "act",
     "time_of_call": "11 Oct 2025 21:01:40",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "11 Oct 2025 21:18:38"
+    "updated": "11 Oct 2025 21:27:04"
   },
   {
     "agency": "Ambulance",
@@ -281,13 +263,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "11 Oct 2025 21:16:27",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "11 Oct 2025 21:21:40"
+    "updated": "11 Oct 2025 21:24:27"
   },
   {
     "agency": "Ambulance",
@@ -299,13 +281,31 @@
     "longitude": "149.110257",
     "region": "act",
     "time_of_call": "11 Oct 2025 21:21:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "11 Oct 2025 21:23:30"
+    "updated": "11 Oct 2025 21:32:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WRIGHT",
+    "id": "068073-11102025",
+    "latitude": "-35.323404",
+    "longitude": "149.036274",
+    "region": "act",
+    "time_of_call": "11 Oct 2025 21:29:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WRIGHT",
+    "updated": "11 Oct 2025 21:35:27"
   },
   {
     "title": "Pulfords Road Nundle SF",
@@ -1558,9 +1558,9 @@
     "latitude": "-31.451482578",
     "longitude": "152.331200894",
     "region": "nsw",
-    "time_of_call": "11 Oct 2025 17:37:00",
+    "time_of_call": "11 Oct 2025 21:25:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1571,9 +1571,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "63 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 17:37"
+    "updated": "11 Oct 2025 21:25"
   },
   {
     "title": "SAXBYS RD, KUNDIBAKH",
@@ -1737,31 +1737,6 @@
     "updated": "11 Oct 2025 20:08"
   },
   {
-    "title": "OLD TENTERFIELD RD, WYAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624120",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.0629749299999",
-    "longitude": "152.86857605",
-    "region": "nsw",
-    "time_of_call": "11 Oct 2025 20:38:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "2840 OLD TENTERFIELD RD, WYAN 2469",
-    "council_area": "Richmond Valley",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 20:38"
-  },
-  {
     "title": "ROYS RD, KRAMBACH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624122",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1827,5 +1802,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Oct 2025 21:21"
+  },
+  {
+    "title": "GREAT WESTERN HWY, BOWENFELS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624127",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4769630439999",
+    "longitude": "150.132080078",
+    "region": "nsw",
+    "time_of_call": "11 Oct 2025 21:25:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GREAT WESTERN HWY, BOWENFELS 2790",
+    "council_area": "Lithgow",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Oct 2025 21:25"
   }
 ]
