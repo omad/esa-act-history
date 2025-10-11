@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "11 Oct 2025 23:49:56"
+    "updated": "12 Oct 2025 00:47:56"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "11 Oct 2025 23:49:40"
+    "updated": "12 Oct 2025 00:36:58"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +101,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "11 Oct 2025 23:46:52",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "12 Oct 2025 00:22:56"
+    "updated": "12 Oct 2025 00:34:57"
   },
   {
     "agency": "Ambulance",
@@ -162,6 +162,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
     "updated": "12 Oct 2025 00:21:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "068098-12102025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "12 Oct 2025 00:36:41",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "12 Oct 2025 00:40:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "068100-12102025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "12 Oct 2025 00:38:09",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "12 Oct 2025 00:44:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WRIGHT",
+    "id": "068101-12102025",
+    "latitude": "-35.323404",
+    "longitude": "149.036274",
+    "region": "act",
+    "time_of_call": "12 Oct 2025 00:42:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WRIGHT",
+    "updated": "12 Oct 2025 00:44:18"
   },
   {
     "title": "Pulfords Road Nundle SF",
@@ -262,7 +316,7 @@
     "latitude": "-29.952554703",
     "longitude": "152.666366577",
     "region": "nsw",
-    "time_of_call": "11 Oct 2025 17:28:00",
+    "time_of_call": "12 Oct 2025 00:34:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -277,7 +331,7 @@
     "fire": "Yes",
     "size": "1577 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 17:28"
+    "updated": "12 Oct 2025 00:34"
   },
   {
     "title": "Marara",
@@ -832,7 +886,7 @@
     "latitude": "-33.450649262",
     "longitude": "149.54574585",
     "region": "nsw",
-    "time_of_call": "11 Oct 2025 20:09:00",
+    "time_of_call": "12 Oct 2025 00:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -842,7 +896,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 20:09"
+    "updated": "12 Oct 2025 00:38"
   },
   {
     "title": "Nowendoc SF East",
@@ -1454,28 +1508,6 @@
     "updated": "11 Oct 2025 21:35"
   },
   {
-    "title": "NEW ENGLAND HWY, TILBUSTER",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624112",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.400392532",
-    "longitude": "151.673614502",
-    "region": "nsw",
-    "time_of_call": "11 Oct 2025 19:25:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "SNAKE GULLY 11853 NEW ENGLAND HWY, TILBUSTER 2350",
-    "council_area": "Armidale",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Oct 2025 19:25"
-  },
-  {
     "title": "ROYS RD, KRAMBACH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624122",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1657,5 +1689,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Oct 2025 00:15"
+  },
+  {
+    "title": "CRESCENT HEAD RD, CRESCENT HEAD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624148",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.149662018",
+    "longitude": "152.910186767",
+    "region": "nsw",
+    "time_of_call": "12 Oct 2025 00:27:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CRESCENT HEAD RD, CRESCENT HEAD 2440",
+    "council_area": "Kempsey",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Oct 2025 00:27"
   }
 ]
