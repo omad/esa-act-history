@@ -3,37 +3,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHAPMAN",
-    "id": "068254-12102025",
-    "latitude": "-35.356631",
-    "longitude": "149.036831",
-    "region": "act",
-    "time_of_call": "12 Oct 2025 21:17:58",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHAPMAN",
-    "updated": "13 Oct 2025 01:59:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - FORREST",
     "id": "068265-12102025",
     "latitude": "-35.318088",
     "longitude": "149.12506",
     "region": "act",
     "time_of_call": "12 Oct 2025 22:45:10",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORREST",
-    "updated": "13 Oct 2025 02:16:21"
+    "updated": "13 Oct 2025 02:23:10"
   },
   {
     "agency": "Ambulance",
@@ -93,24 +75,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HUGHES",
-    "id": "068283-13102025",
-    "latitude": "-35.333105",
-    "longitude": "149.094654",
-    "region": "act",
-    "time_of_call": "13 Oct 2025 01:47:22",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HUGHES",
-    "updated": "13 Oct 2025 02:06:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - JACKA",
     "id": "068284-13102025",
     "latitude": "-35.148509",
@@ -123,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "JACKA",
-    "updated": "13 Oct 2025 02:05:01"
+    "updated": "13 Oct 2025 02:23:20"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "13 Oct 2025 02:16:28"
+    "updated": "13 Oct 2025 02:23:08"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "13 Oct 2025 02:08:19"
+    "updated": "13 Oct 2025 02:29:52"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "13 Oct 2025 02:13:44"
+    "updated": "13 Oct 2025 02:24:18"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +177,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "13 Oct 2025 02:20:30"
+    "updated": "13 Oct 2025 02:23:04"
   },
   {
     "title": "Singleton Military Area 6C",
@@ -1416,5 +1380,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Oct 2025 00:22"
+  },
+  {
+    "title": "OWEN ST, HUSKISSON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624266",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.038478851",
+    "longitude": "150.665405273",
+    "region": "nsw",
+    "time_of_call": "13 Oct 2025 02:23:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "10 OWEN ST, HUSKISSON 2540",
+    "council_area": "Shoalhaven",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Oct 2025 02:23"
   }
 ]
