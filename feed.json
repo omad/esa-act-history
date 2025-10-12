@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "13 Oct 2025 05:29:54"
+    "updated": "13 Oct 2025 05:38:21"
   },
   {
     "agency": "Ambulance",
@@ -93,24 +93,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "068301-13102025",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
-    "region": "act",
-    "time_of_call": "13 Oct 2025 04:43:42",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "13 Oct 2025 05:06:08"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BARTON",
     "id": "068303-13102025",
     "latitude": "-35.309306",
@@ -142,6 +124,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
     "updated": "13 Oct 2025 05:11:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "068306-13102025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "13 Oct 2025 05:47:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "13 Oct 2025 05:48:48"
   },
   {
     "title": "Singleton Military Area 6C",
@@ -1353,9 +1353,9 @@
     "latitude": "-31.9518413549999",
     "longitude": "149.642303467",
     "region": "nsw",
-    "time_of_call": "13 Oct 2025 05:12:00",
+    "time_of_call": "13 Oct 2025 05:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BLACK STUMP WAY, COOLAH 2843",
     "council_area": "Warrumbungle",
@@ -1363,6 +1363,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Oct 2025 05:12"
+    "updated": "13 Oct 2025 05:38"
   }
 ]
