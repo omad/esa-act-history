@@ -1,6 +1,6 @@
 [
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - MITCHELL",
@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "12 Oct 2025 19:58:30"
+    "updated": "12 Oct 2025 20:22:46"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "12 Oct 2025 19:56:57"
+    "updated": "12 Oct 2025 20:26:55"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "12 Oct 2025 20:20:13"
+    "updated": "12 Oct 2025 20:22:24"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "12 Oct 2025 20:20:16"
+    "updated": "12 Oct 2025 20:22:04"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "12 Oct 2025 20:20:38"
+    "updated": "12 Oct 2025 20:24:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CRACE",
+    "id": "068242-12102025",
+    "latitude": "-35.202196",
+    "longitude": "149.110562",
+    "region": "act",
+    "time_of_call": "12 Oct 2025 20:24:29",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CRACE",
+    "updated": "12 Oct 2025 20:27:50"
   },
   {
     "title": "Singleton Military Area 6C",
@@ -1369,9 +1387,9 @@
     "latitude": "-28.894569396",
     "longitude": "152.535125732",
     "region": "nsw",
-    "time_of_call": "12 Oct 2025 19:57:00",
+    "time_of_call": "12 Oct 2025 20:18:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "56 PLAIN STATION RD, TABULAM 2469",
     "council_area": "Tenterfield",
@@ -1381,29 +1399,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Oct 2025 19:57"
-  },
-  {
-    "title": "TUMBULGUM RD, TYGALGAH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624244",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.3117408749999",
-    "longitude": "153.426635742",
-    "region": "nsw",
-    "time_of_call": "12 Oct 2025 19:49:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "TUMBULGUM RD, TYGALGAH 2484",
-    "council_area": "Tweed",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Oct 2025 19:49"
+    "updated": "12 Oct 2025 20:18"
   },
   {
     "title": "ULAN RD, ULAN",
@@ -1413,7 +1409,7 @@
     "latitude": "-32.224269867",
     "longitude": "149.691604614",
     "region": "nsw",
-    "time_of_call": "12 Oct 2025 20:02:00",
+    "time_of_call": "12 Oct 2025 20:24:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
@@ -1425,6 +1421,50 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Oct 2025 20:02"
+    "updated": "12 Oct 2025 20:24"
+  },
+  {
+    "title": "HUME HWY, SUTTON FOREST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624246",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.618980407",
+    "longitude": "150.212982178",
+    "region": "nsw",
+    "time_of_call": "12 Oct 2025 20:21:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "HUME HWY, SUTTON FOREST 2577",
+    "council_area": "Wingecarribee",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Oct 2025 20:21"
+  },
+  {
+    "title": "GRADYS CREEK RD, GRADYS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624247",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.427980423",
+    "longitude": "152.957641602",
+    "region": "nsw",
+    "time_of_call": "12 Oct 2025 20:23:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "845 GRADYS CREEK RD, GRADYS CREEK 2474",
+    "council_area": "Kyogle",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Oct 2025 20:23"
   }
 ]
