@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORREST",
-    "updated": "13 Oct 2025 02:23:10"
+    "updated": "13 Oct 2025 02:42:23"
   },
   {
     "agency": "Ambulance",
@@ -34,24 +34,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
     "updated": "13 Oct 2025 01:40:47"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "068271-12102025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "12 Oct 2025 23:47:33",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "13 Oct 2025 01:38:16"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "13 Oct 2025 02:23:08"
+    "updated": "13 Oct 2025 02:31:54"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "13 Oct 2025 02:24:18"
+    "updated": "13 Oct 2025 02:35:24"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +135,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "13 Oct 2025 02:09:20",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "13 Oct 2025 02:13:09"
+    "updated": "13 Oct 2025 02:33:07"
   },
   {
     "agency": "Ambulance",
@@ -178,6 +160,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
     "updated": "13 Oct 2025 02:23:04"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "068291-13102025",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "13 Oct 2025 02:32:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "13 Oct 2025 02:37:33"
   },
   {
     "title": "Singleton Military Area 6C",
@@ -1382,25 +1382,23 @@
     "updated": "13 Oct 2025 00:22"
   },
   {
-    "title": "OWEN ST, HUSKISSON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624266",
+    "title": "BENI ST, WONGARBON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624267",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.038478851",
-    "longitude": "150.665405273",
+    "latitude": "-32.333118439",
+    "longitude": "148.757843017",
     "region": "nsw",
-    "time_of_call": "13 Oct 2025 02:23:00",
+    "time_of_call": "13 Oct 2025 02:37:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "10 OWEN ST, HUSKISSON 2540",
-    "council_area": "Shoalhaven",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
+    "location": "BENI ST, WONGARBON 2831",
+    "council_area": "Dubbo Regional",
+    "type": "Car Fire",
+    "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Oct 2025 02:23"
+    "updated": "13 Oct 2025 02:37"
   }
 ]
