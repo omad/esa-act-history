@@ -115,7 +115,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "ROUNDABOUT, ERINDALE DRIVE, ASHLEY DRIVE, MONASH, 2904",
-    "updated": "15 Oct 2025 08:03:52"
+    "updated": "15 Oct 2025 08:29:49"
   },
   {
     "agency": "Ambulance",
@@ -127,13 +127,13 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "15 Oct 2025 08:11:18",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "15 Oct 2025 08:18:01"
+    "updated": "15 Oct 2025 08:29:38"
   },
   {
     "agency": "Ambulance",
@@ -145,13 +145,31 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "15 Oct 2025 08:14:36",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "15 Oct 2025 08:26:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STIRLING",
+    "id": "068777-15102025",
+    "latitude": "-35.351472",
+    "longitude": "149.046603",
+    "region": "act",
+    "time_of_call": "15 Oct 2025 08:25:09",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "WATSON",
-    "updated": "15 Oct 2025 08:20:04"
+    "location": "STIRLING",
+    "updated": "15 Oct 2025 08:28:39"
   },
   {
     "title": "Pulfords Road Nundle SF",
@@ -991,7 +1009,7 @@
     "latitude": "-31.280899048",
     "longitude": "146.930984497",
     "region": "nsw",
-    "time_of_call": "14 Oct 2025 20:28:00",
+    "time_of_call": "15 Oct 2025 08:11:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1001,9 +1019,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Oct 2025 20:28"
+    "updated": "15 Oct 2025 08:11"
   },
   {
     "title": "TALLOW BEACH TRL, BOX HEAD",
@@ -1052,8 +1070,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624557",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.510950663",
-    "longitude": "151.719663621",
+    "latitude": "-31.510950088",
+    "longitude": "151.719665527",
     "region": "nsw",
     "time_of_call": "15 Oct 2025 06:06:00",
     "event_type": "burnt area",
@@ -1119,9 +1137,9 @@
     "latitude": "-33.7227478029999",
     "longitude": "151.051574707",
     "region": "nsw",
-    "time_of_call": "15 Oct 2025 08:04:00",
+    "time_of_call": "15 Oct 2025 08:29:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "99 FRANCIS GREENWAY DR, CHERRYBROOK 2126",
     "council_area": "Hornsby",
@@ -1131,6 +1149,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "15 Oct 2025 08:04"
+    "updated": "15 Oct 2025 08:29"
+  },
+  {
+    "title": "OXLEY HWY, GILGANDRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624569",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.706279755",
+    "longitude": "148.635238648",
+    "region": "nsw",
+    "time_of_call": "15 Oct 2025 08:20:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "299 OXLEY HWY, GILGANDRA 2827",
+    "council_area": "Gilgandra",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "15 Oct 2025 08:20"
   }
 ]
