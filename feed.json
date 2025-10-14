@@ -79,42 +79,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUFFY",
-    "id": "068781-15102025",
-    "latitude": "-35.336273",
-    "longitude": "149.031217",
-    "region": "act",
-    "time_of_call": "15 Oct 2025 08:58:57",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DUFFY",
-    "updated": "15 Oct 2025 09:54:03"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
-    "id": "068782-15102025",
-    "latitude": "-35.333366",
-    "longitude": "149.146674",
-    "region": "act",
-    "time_of_call": "15 Oct 2025 09:00:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NARRABUNDAH",
-    "updated": "15 Oct 2025 09:58:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONASH",
     "id": "068784-15102025",
     "latitude": "-35.413962",
@@ -127,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "15 Oct 2025 10:04:09"
+    "updated": "15 Oct 2025 10:25:53"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "15 Oct 2025 10:04:48"
+    "updated": "15 Oct 2025 10:23:51"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "15 Oct 2025 09:54:48"
+    "updated": "15 Oct 2025 10:23:35"
   },
   {
     "agency": "Ambulance",
@@ -301,13 +265,49 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "15 Oct 2025 10:19:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "15 Oct 2025 10:21:39"
+    "updated": "15 Oct 2025 10:28:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOK",
+    "id": "068799-15102025",
+    "latitude": "-35.261055",
+    "longitude": "149.064271",
+    "region": "act",
+    "time_of_call": "15 Oct 2025 10:25:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOK",
+    "updated": "15 Oct 2025 10:30:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "068800-15102025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "15 Oct 2025 10:26:01",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "15 Oct 2025 10:27:25"
   },
   {
     "title": "Pulfords Road Nundle SF",
@@ -1347,5 +1347,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "15 Oct 2025 10:04"
+  },
+  {
+    "title": "PACIFIC HWY, MOUNT WHITE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624585",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4534568789999",
+    "longitude": "151.206970215",
+    "region": "nsw",
+    "time_of_call": "15 Oct 2025 10:26:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "364 PACIFIC HWY, MOUNT WHITE 2250",
+    "council_area": "Central Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Oct 2025 10:26"
   }
 ]
