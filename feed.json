@@ -93,7 +93,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "16 Oct 2025 06:10:22"
+    "updated": "16 Oct 2025 06:23:04"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +147,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "16 Oct 2025 06:10:32"
+    "updated": "16 Oct 2025 06:22:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "068984-16102025",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "16 Oct 2025 06:26:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "16 Oct 2025 06:28:34"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "068985-16102025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "16 Oct 2025 06:28:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": "16 Oct 2025 06:28:56"
   },
   {
     "title": "Pulfords Road Nundle SF",
@@ -1206,31 +1242,6 @@
     "updated": "16 Oct 2025 04:46"
   },
   {
-    "title": "Ellsworth Dr, Tregear",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624698",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.743693",
-    "longitude": "150.787910001",
-    "region": "nsw",
-    "time_of_call": "16 Oct 2025 05:33:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Ellsworth Dr, Tregear, NSW 2770",
-    "council_area": "Blacktown",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Oct 2025 05:33"
-  },
-  {
     "title": "SCHOOL RD, PALMERS ISLAND",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624699",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1285,18 +1296,21 @@
     "latitude": "-30.3779830939999",
     "longitude": "153.057006836",
     "region": "nsw",
-    "time_of_call": "16 Oct 2025 06:05:00",
+    "time_of_call": "16 Oct 2025 06:22:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "BONVILLE CHRISTIAN SCHOOL BONVILLE STATION RD, BONVILLE 2450",
     "council_area": "Coffs Harbour",
-    "type": "Bush Fire",
+    "type": "Grass Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Oct 2025 06:05"
+    "updated": "16 Oct 2025 06:22"
   }
 ]
