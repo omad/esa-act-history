@@ -79,19 +79,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUFFY",
-    "id": "069224-17102025",
-    "latitude": "-35.336273",
-    "longitude": "149.031217",
+    "title": "AMBULANCE RESPONSE - RICHARDSON",
+    "id": "069225-17102025",
+    "latitude": "-35.428715",
+    "longitude": "149.111133",
     "region": "act",
-    "time_of_call": "17 Oct 2025 04:11:45",
-    "status": "On Scene",
+    "time_of_call": "17 Oct 2025 04:55:33",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "DUFFY",
-    "updated": "17 Oct 2025 04:27:44"
+    "location": "RICHARDSON",
+    "updated": "17 Oct 2025 05:06:14"
   },
   {
     "title": "David Road HR",
@@ -1116,7 +1116,7 @@
     "latitude": "-29.0550842279999",
     "longitude": "152.52130127",
     "region": "nsw",
-    "time_of_call": "17 Oct 2025 00:20:00",
+    "time_of_call": "17 Oct 2025 05:12:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "status_description": "",
@@ -1131,7 +1131,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Oct 2025 00:20"
+    "updated": "17 Oct 2025 05:12"
   },
   {
     "title": "Waples Rd, Unanderra",
@@ -1157,5 +1157,30 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "17 Oct 2025 02:58"
+  },
+  {
+    "title": "THE BROADWAY, KILLINGWORTH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624834",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.93516922",
+    "longitude": "151.564208984",
+    "region": "nsw",
+    "time_of_call": "17 Oct 2025 05:27:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "THE BROADWAY, KILLINGWORTH 2278",
+    "council_area": "Lake Macquarie",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "17 Oct 2025 05:27"
   }
 ]
