@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "19 Oct 2025 07:15:08"
+    "updated": "19 Oct 2025 07:29:07"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "19 Oct 2025 07:07:34"
+    "updated": "19 Oct 2025 07:30:34"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "19 Oct 2025 07:21:14"
+    "updated": "19 Oct 2025 07:34:58"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.041664",
     "region": "act",
     "time_of_call": "19 Oct 2025 06:37:19",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "19 Oct 2025 07:20:36"
+    "updated": "19 Oct 2025 07:32:10"
   },
   {
     "agency": "Ambulance",
@@ -1479,9 +1479,9 @@
     "latitude": "-34.5142745969999",
     "longitude": "146.183410645",
     "region": "nsw",
-    "time_of_call": "19 Oct 2025 07:16:00",
+    "time_of_call": "19 Oct 2025 07:27:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "2 NARADHUN ST, WHITTON 2705",
     "council_area": "Leeton",
@@ -1491,7 +1491,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 07:16"
+    "updated": "19 Oct 2025 07:27"
   },
   {
     "title": "TARRABANDRA RD, SOUTH GUNDAGAI",
@@ -1514,5 +1514,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Oct 2025 07:15"
+  },
+  {
+    "title": "ROYAL NATIONAL PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625136",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.0819282529999",
+    "longitude": "151.163238526",
+    "region": "nsw",
+    "time_of_call": "19 Oct 2025 07:25:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "ROYAL NATIONAL PARK 2508",
+    "council_area": "Sutherland",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Oct 2025 07:25"
   }
 ]
