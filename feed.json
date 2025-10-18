@@ -57,24 +57,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "069734-19102025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "19 Oct 2025 09:12:47",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "19 Oct 2025 09:40:31"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - YARRALUMLA",
     "id": "069735-19102025",
     "latitude": "-35.302333",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "19 Oct 2025 09:36:58"
+    "updated": "19 Oct 2025 09:55:18"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "19 Oct 2025 09:29:30"
+    "updated": "19 Oct 2025 09:54:56"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "19 Oct 2025 09:36:30"
+    "updated": "19 Oct 2025 10:12:39"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "19 Oct 2025 09:43:58"
+    "updated": "19 Oct 2025 10:17:26"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +141,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "19 Oct 2025 09:35:16"
+    "updated": "19 Oct 2025 09:56:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SYMONSTON",
+    "id": "069742-19102025",
+    "latitude": "-35.34936",
+    "longitude": "149.163724",
+    "region": "act",
+    "time_of_call": "19 Oct 2025 10:03:41",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SYMONSTON",
+    "updated": "19 Oct 2025 10:16:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FRANKLIN",
+    "id": "069743-19102025",
+    "latitude": "-35.199225",
+    "longitude": "149.144681",
+    "region": "act",
+    "time_of_call": "19 Oct 2025 10:07:44",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FRANKLIN",
+    "updated": "19 Oct 2025 10:16:36"
   },
   {
     "title": "David Road HR",
@@ -657,28 +675,6 @@
     "updated": "19 Oct 2025 01:46"
   },
   {
-    "title": "Creekwood HR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624608",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.9631079129999",
-    "longitude": "150.969057084",
-    "region": "nsw",
-    "time_of_call": "19 Oct 2025 09:43:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "13 Creekwood Drive Voyager Point NSW 2172 Australia",
-    "council_area": "Liverpool",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "2 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 09:43"
-  },
-  {
     "title": "SSAA Silverdale Rifle Range",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624613",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -699,6 +695,28 @@
     "size": "10 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Oct 2025 21:21"
+  },
+  {
+    "title": "Liverpool LGA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624614",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.9631080629999",
+    "longitude": "150.969055175",
+    "region": "nsw",
+    "time_of_call": "19 Oct 2025 10:01:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "CREEKWOOD HR 13 CREEKWOOD DR, VOYAGER POINT 2172",
+    "council_area": "Liverpool",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "2 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Oct 2025 10:01"
   },
   {
     "title": "Coolabah SFAZ HR",
@@ -768,6 +786,28 @@
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "18 Oct 2025 21:42"
+  },
+  {
+    "title": "Motorway Link Stage 2",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624719",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.224952698",
+    "longitude": "151.463943482",
+    "region": "nsw",
+    "time_of_call": "19 Oct 2025 10:00:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "MOTORWAY LINK STAGE 2 HR BRUCE FIRETRAIL, WALLARAH 2259",
+    "council_area": "Central Coast",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "19 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Oct 2025 10:00"
   },
   {
     "title": "GREEN POINT DR, GREEN POINT",
@@ -844,7 +884,7 @@
     "latitude": "-33.694725037",
     "longitude": "151.011123657",
     "region": "nsw",
-    "time_of_call": "19 Oct 2025 07:18:00",
+    "time_of_call": "19 Oct 2025 09:54:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -856,7 +896,7 @@
     "fire": "Yes",
     "size": "8 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 07:18"
+    "updated": "19 Oct 2025 09:54"
   },
   {
     "title": "Tregeagle pile burns",
@@ -1279,28 +1319,6 @@
     "updated": "18 Oct 2025 16:13"
   },
   {
-    "title": "BASS POINT QUARRY RD, SHELL COVE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625056",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.59513092",
-    "longitude": "150.861862183",
-    "region": "nsw",
-    "time_of_call": "18 Oct 2025 17:53:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BASS POINT QUARRY RD, SHELL COVE 2529",
-    "council_area": "Shellharbour",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "18 Oct 2025 17:53"
-  },
-  {
     "title": "NUMINBAH RD, NUMINBAH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625064",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1534,19 +1552,22 @@
     "latitude": "-28.4016494749999",
     "longitude": "153.304595947",
     "region": "nsw",
-    "time_of_call": "19 Oct 2025 08:57:00",
+    "time_of_call": "19 Oct 2025 10:15:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "MOUNT WARNING RD, MOUNT WARNING 2484",
     "council_area": "Tweed",
-    "type": "Other",
+    "type": "Bush Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 08:57"
+    "responsible_agency": "NSW National Parks and Wildlife Service",
+    "updated": "19 Oct 2025 10:15"
   },
   {
     "title": "HURST PL, GLENORIE",
@@ -1569,28 +1590,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Oct 2025 09:20"
-  },
-  {
-    "title": "MOUNT GAP RD, CUBBA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625143",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.498800278",
-    "longitude": "145.120193482",
-    "region": "nsw",
-    "time_of_call": "19 Oct 2025 09:15:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "MOUNT GAP RD, CUBBA 2835",
-    "council_area": "Cobar",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 09:15"
   },
   {
     "title": "Stanwell Cr, Ashcroft",
@@ -1625,7 +1624,7 @@
     "latitude": "-34.120250702",
     "longitude": "150.992492676",
     "region": "nsw",
-    "time_of_call": "19 Oct 2025 09:35:00",
+    "time_of_call": "19 Oct 2025 10:06:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
@@ -1637,26 +1636,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 09:35"
+    "updated": "19 Oct 2025 10:06"
   },
   {
-    "title": "CORANG AV, SUSSEX INLET",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625146",
+    "title": "RAY CR, CLARENCE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625148",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.164264679",
-    "longitude": "150.593719482",
+    "latitude": "-33.483650207",
+    "longitude": "150.221603394",
     "region": "nsw",
-    "time_of_call": "19 Oct 2025 09:39:00",
+    "time_of_call": "19 Oct 2025 10:14:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "11 CORANG AV, SUSSEX INLET 2540",
-    "council_area": "Shoalhaven",
-    "type": "Assist Other Agency",
-    "fire": "No",
+    "location": "2 RAY CR, CLARENCE 2790",
+    "council_area": "Lithgow",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 09:39"
+    "updated": "19 Oct 2025 10:14"
   }
 ]
