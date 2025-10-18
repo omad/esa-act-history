@@ -180,6 +180,24 @@
     "updated": "19 Oct 2025 10:16:36"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MAWSON",
+    "id": "069744-19102025",
+    "latitude": "-35.361049",
+    "longitude": "149.099386",
+    "region": "act",
+    "time_of_call": "19 Oct 2025 10:29:40",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MAWSON",
+    "updated": "19 Oct 2025 10:30:49"
+  },
+  {
     "title": "David Road HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_577037",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -817,7 +835,7 @@
     "latitude": "-32.2546920779999",
     "longitude": "152.520736694",
     "region": "nsw",
-    "time_of_call": "19 Oct 2025 01:48:00",
+    "time_of_call": "19 Oct 2025 10:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -829,7 +847,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 01:48"
+    "updated": "19 Oct 2025 10:22"
   },
   {
     "title": "EWINGAR RIDGE RD, EWINGAR",
@@ -1060,31 +1078,6 @@
     "size": "25 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Oct 2025 00:29"
-  },
-  {
-    "title": "CHATHAM CREEK RD, POSSUM BRUSH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_624932",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.006065368",
-    "longitude": "152.368698121",
-    "region": "nsw",
-    "time_of_call": "18 Oct 2025 18:00:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "CHATHAM CREEK RD, POSSUM BRUSH 2430",
-    "council_area": "Mid-Coast",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Oct 2025 18:00"
   },
   {
     "title": "KIMS WAY, DRAKE",
@@ -1508,9 +1501,9 @@
     "latitude": "-33.5747413629999",
     "longitude": "151.129196167",
     "region": "nsw",
-    "time_of_call": "19 Oct 2025 08:45:00",
+    "time_of_call": "19 Oct 2025 10:25:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "22 NEVERFAIL BAY, BEROWRA WATERS 2082",
     "council_area": "Hornsby",
@@ -1520,7 +1513,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 08:45"
+    "updated": "19 Oct 2025 10:25"
   },
   {
     "title": "BERRINGER RD, BERRINGER LAKE",
@@ -1530,9 +1523,9 @@
     "latitude": "-35.247959137",
     "longitude": "150.505203247",
     "region": "nsw",
-    "time_of_call": "19 Oct 2025 08:46:00",
+    "time_of_call": "19 Oct 2025 10:24:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BILLEROY 92C BERRINGER RD, BERRINGER LAKE 2539",
     "council_area": "Shoalhaven",
@@ -1542,7 +1535,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 08:46"
+    "updated": "19 Oct 2025 10:24"
   },
   {
     "title": "MOUNT WARNING RD, MOUNT WARNING",
@@ -1590,31 +1583,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Oct 2025 09:20"
-  },
-  {
-    "title": "Stanwell Cr, Ashcroft",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625144",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.9203639999999",
-    "longitude": "150.898386",
-    "region": "nsw",
-    "time_of_call": "19 Oct 2025 09:34:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "24 Stanwell Cr, Ashcroft, NSW 2168",
-    "council_area": "Liverpool",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "19 Oct 2025 09:34"
   },
   {
     "title": "PRINCES HWY",
