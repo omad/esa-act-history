@@ -161,7 +161,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "18 Oct 2025 19:50:53"
+    "updated": "18 Oct 2025 20:30:11"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "18 Oct 2025 20:18:23"
+    "updated": "18 Oct 2025 20:28:39"
   },
   {
     "agency": "Ambulance",
@@ -305,7 +305,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "18 Oct 2025 19:50:58"
+    "updated": "18 Oct 2025 20:30:36"
   },
   {
     "agency": "Ambulance",
@@ -353,13 +353,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "18 Oct 2025 20:15:02",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "18 Oct 2025 20:19:26"
+    "updated": "18 Oct 2025 20:24:02"
   },
   {
     "agency": "Ambulance",
@@ -389,13 +389,49 @@
     "longitude": "149.134319",
     "region": "act",
     "time_of_call": "18 Oct 2025 20:17:47",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PARKES",
+    "updated": "18 Oct 2025 20:28:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PEARCE",
+    "id": "069648-18102025",
+    "latitude": "-35.361582",
+    "longitude": "149.085118",
+    "region": "act",
+    "time_of_call": "18 Oct 2025 20:26:06",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PEARCE",
+    "updated": "18 Oct 2025 20:31:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BANKS",
+    "id": "069649-18102025",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
+    "region": "act",
+    "time_of_call": "18 Oct 2025 20:29:22",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "PARKES",
-    "updated": "18 Oct 2025 20:21:09"
+    "location": "BANKS",
+    "updated": "18 Oct 2025 20:31:24"
   },
   {
     "title": "David Road HR",
@@ -900,7 +936,7 @@
     "latitude": "-33.9631079129999",
     "longitude": "150.969057084",
     "region": "nsw",
-    "time_of_call": "18 Oct 2025 01:35:00",
+    "time_of_call": "18 Oct 2025 20:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -912,7 +948,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Oct 2025 01:35"
+    "updated": "18 Oct 2025 20:20"
   },
   {
     "title": "SSAA Silverdale Rifle Range",
@@ -1717,28 +1753,6 @@
     "updated": "18 Oct 2025 17:59"
   },
   {
-    "title": "HILLSIDE DR, THARBOGANG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625090",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.242435455",
-    "longitude": "145.97605896",
-    "region": "nsw",
-    "time_of_call": "18 Oct 2025 20:03:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "HILLSIDE DR, THARBOGANG 2680",
-    "council_area": "Griffith",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Oct 2025 20:03"
-  },
-  {
     "title": "MURRAMARANG RD, BAWLEY POINT",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625091",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1801,27 +1815,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Oct 2025 20:00"
-  },
-  {
-    "title": "PEABODY RD, MOLONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625096",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.1195793159999",
-    "longitude": "148.848968506",
-    "region": "nsw",
-    "time_of_call": "18 Oct 2025 20:06:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "WESTWOOD 1425 PEABODY RD, MOLONG 2866",
-    "council_area": "Cabonne",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Oct 2025 20:06"
   }
 ]
