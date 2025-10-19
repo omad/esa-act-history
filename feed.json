@@ -1,21 +1,23 @@
 [
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WARAMANGA",
-    "id": "069860-19102025",
-    "latitude": "-35.353501",
-    "longitude": "149.06067",
+    "title": "MOTOR VEHICLE ACCIDENT - SCULLIN",
+    "id": "015880-20102025",
+    "latitude": "-35.2368156",
+    "longitude": "149.0359228",
     "region": "act",
-    "time_of_call": "19 Oct 2025 23:27:36",
+    "time_of_call": "20 Oct 2025 01:33:09",
     "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WARAMANGA",
-    "updated": "20 Oct 2025 00:43:11"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "HOLYMAN STREET, SCULLIN, 2614",
+    "updated": "20 Oct 2025 01:42:09"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +71,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "20 Oct 2025 00:07:43"
+    "updated": "20 Oct 2025 01:42:49"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +197,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "20 Oct 2025 01:16:53"
+    "updated": "20 Oct 2025 01:47:42"
   },
   {
     "agency": "Ambulance",
@@ -207,13 +209,13 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "20 Oct 2025 01:28:10",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "20 Oct 2025 01:32:48"
+    "updated": "20 Oct 2025 01:41:24"
   },
   {
     "agency": "Ambulance",
@@ -225,13 +227,51 @@
     "longitude": "149.064742",
     "region": "act",
     "time_of_call": "20 Oct 2025 01:32:10",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "20 Oct 2025 01:32:40"
+    "updated": "20 Oct 2025 01:43:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - SCULLIN",
+    "id": "069875-20102025",
+    "latitude": "-35.2368156",
+    "longitude": "149.0359228",
+    "region": "act",
+    "time_of_call": "20 Oct 2025 01:33:10",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "",
+    "location": "HOLYMAN STREET, SCULLIN, 2614",
+    "updated": "20 Oct 2025 01:44:36"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "069876-20102025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "20 Oct 2025 01:37:37",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "20 Oct 2025 01:44:31"
   },
   {
     "title": "David Road HR",
@@ -1376,27 +1416,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Oct 2025 01:15"
-  },
-  {
-    "title": "MITCHELL AV, DARETON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625234",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.093601227",
-    "longitude": "142.043457031",
-    "region": "nsw",
-    "time_of_call": "20 Oct 2025 01:28:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "16 MITCHELL AV, DARETON 2717",
-    "council_area": "Wentworth",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Oct 2025 01:28"
   }
 ]
