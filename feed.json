@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "19 Oct 2025 16:31:13"
+    "updated": "19 Oct 2025 16:38:33"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "19 Oct 2025 16:29:54"
+    "updated": "19 Oct 2025 16:38:40"
   },
   {
     "agency": "Ambulance",
@@ -90,6 +90,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
     "updated": "19 Oct 2025 16:34:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOK",
+    "id": "069796-19102025",
+    "latitude": "-35.261055",
+    "longitude": "149.064271",
+    "region": "act",
+    "time_of_call": "19 Oct 2025 16:42:01",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOK",
+    "updated": "19 Oct 2025 16:45:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ARANDA",
+    "id": "069797-19102025",
+    "latitude": "-35.258882",
+    "longitude": "149.079717",
+    "region": "act",
+    "time_of_call": "19 Oct 2025 16:45:14",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ARANDA",
+    "updated": "19 Oct 2025 16:46:21"
   },
   {
     "title": "David Road HR",
@@ -1199,10 +1235,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625188",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.036289143",
-    "longitude": "151.015483288",
+    "latitude": "-34.0361269479999",
+    "longitude": "151.015309895",
     "region": "nsw",
-    "time_of_call": "19 Oct 2025 16:20:00",
+    "time_of_call": "19 Oct 2025 16:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1215,9 +1251,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "1 ha",
+    "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 16:20"
+    "updated": "19 Oct 2025 16:43"
   },
   {
     "title": "FERN ST, GERRINGONG",
@@ -1341,9 +1377,9 @@
     "latitude": "-34.1971244819999",
     "longitude": "150.706176758",
     "region": "nsw",
-    "time_of_call": "19 Oct 2025 16:25:00",
+    "time_of_call": "19 Oct 2025 16:37:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "775 Moreton Park Rd Douglas Park, DOUGLAS PARK 2569",
     "council_area": "Wollondilly",
@@ -1353,7 +1389,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 16:25"
+    "updated": "19 Oct 2025 16:37"
   },
   {
     "title": "HUME HWY, MENANGLE",
@@ -1429,9 +1465,9 @@
     "latitude": "-33.1699066159999",
     "longitude": "151.475814819",
     "region": "nsw",
-    "time_of_call": "19 Oct 2025 16:28:00",
+    "time_of_call": "19 Oct 2025 16:37:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BETHSHAN GARDENS 30 FOREST RD, WYEE 2259",
     "council_area": "Lake Macquarie",
@@ -1441,6 +1477,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Oct 2025 16:28"
+    "updated": "19 Oct 2025 16:37"
+  },
+  {
+    "title": "CLARENCE TOWN RD, TABBIL CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625201",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.4261932369999",
+    "longitude": "151.737976074",
+    "region": "nsw",
+    "time_of_call": "19 Oct 2025 16:34:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CLARENCE TOWN RD, TABBIL CREEK 2420",
+    "council_area": "Dungog",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Oct 2025 16:34"
   }
 ]
