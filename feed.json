@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TURNER",
-    "id": "070379-22102025",
-    "latitude": "-35.269392",
-    "longitude": "149.126815",
-    "region": "act",
-    "time_of_call": "22 Oct 2025 00:01:35",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TURNER",
-    "updated": "22 Oct 2025 01:22:46"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - O'CONNOR",
     "id": "070381-22102025",
     "latitude": "-35.256876",
@@ -117,13 +99,13 @@
     "longitude": "149.042983",
     "region": "act",
     "time_of_call": "22 Oct 2025 01:26:23",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "22 Oct 2025 01:31:30"
+    "updated": "22 Oct 2025 01:49:45"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "22 Oct 2025 01:38:39"
+    "updated": "22 Oct 2025 01:44:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOMBS",
+    "id": "070389-22102025",
+    "latitude": "-35.31486",
+    "longitude": "149.041664",
+    "region": "act",
+    "time_of_call": "22 Oct 2025 01:41:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOMBS",
+    "updated": "22 Oct 2025 01:44:35"
   },
   {
     "title": "David Road HR",
@@ -1363,9 +1363,9 @@
     "latitude": "-29.846633911",
     "longitude": "152.912063599",
     "region": "nsw",
-    "time_of_call": "22 Oct 2025 01:19:00",
+    "time_of_call": "22 Oct 2025 01:49:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "327 BURRAGAN RD, COUTTS CROSSING 2460",
     "council_area": "Clarence Valley",
@@ -1375,29 +1375,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Oct 2025 01:19"
-  },
-  {
-    "title": "GLENAEON AV",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625469",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.717037201",
-    "longitude": "151.217407226",
-    "region": "nsw",
-    "time_of_call": "22 Oct 2025 01:21:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "GLENAEON VILLAGE COMMUNITY CTR GLENAEON AV, BELROSE 2085",
-    "council_area": "Northern Beaches",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Oct 2025 01:21"
+    "updated": "22 Oct 2025 01:49"
   },
   {
     "title": "AERODROME RD, CAMDEN",
@@ -1407,9 +1385,9 @@
     "latitude": "-34.041915893",
     "longitude": "150.690475464",
     "region": "nsw",
-    "time_of_call": "22 Oct 2025 01:24:00",
+    "time_of_call": "22 Oct 2025 01:45:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "CAMDEN AIRPORT BLD 8 AERODROME RD, CAMDEN 2570",
     "council_area": "Camden",
@@ -1419,6 +1397,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Oct 2025 01:24"
+    "updated": "22 Oct 2025 01:45"
   }
 ]
