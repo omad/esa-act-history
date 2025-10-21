@@ -129,24 +129,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HUGHES",
-    "id": "070433-22102025",
-    "latitude": "-35.333105",
-    "longitude": "149.094654",
-    "region": "act",
-    "time_of_call": "22 Oct 2025 09:17:50",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HUGHES",
-    "updated": "22 Oct 2025 09:39:20"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - RICHARDSON",
     "id": "070434-22102025",
     "latitude": "-35.428715",
@@ -207,13 +189,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "22 Oct 2025 09:44:05",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "22 Oct 2025 09:51:15"
+    "updated": "22 Oct 2025 10:31:22"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +213,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "22 Oct 2025 10:19:31"
+    "updated": "22 Oct 2025 10:33:16"
   },
   {
     "agency": "Ambulance",
@@ -267,7 +249,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "22 Oct 2025 10:05:25"
+    "updated": "22 Oct 2025 10:31:42"
   },
   {
     "agency": "Ambulance",
@@ -279,13 +261,13 @@
     "longitude": "149.163724",
     "region": "act",
     "time_of_call": "22 Oct 2025 09:59:41",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SYMONSTON",
-    "updated": "22 Oct 2025 10:13:33"
+    "updated": "22 Oct 2025 10:32:05"
   },
   {
     "agency": "Ambulance",
@@ -321,7 +303,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "22 Oct 2025 10:22:23"
+    "updated": "22 Oct 2025 10:24:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PARKES",
+    "id": "070448-22102025",
+    "latitude": "-35.297058",
+    "longitude": "149.134319",
+    "region": "act",
+    "time_of_call": "22 Oct 2025 10:32:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PARKES",
+    "updated": "22 Oct 2025 10:33:22"
   },
   {
     "title": "David Road HR",
@@ -1073,7 +1073,7 @@
     "latitude": "-32.90567398",
     "longitude": "151.527191163",
     "region": "nsw",
-    "time_of_call": "21 Oct 2025 16:16:00",
+    "time_of_call": "22 Oct 2025 09:55:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -1088,7 +1088,7 @@
     "fire": "Yes",
     "size": "3 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Oct 2025 16:16"
+    "updated": "22 Oct 2025 09:55"
   },
   {
     "title": "MAIN CREEK RD, MAIN CREEK",
@@ -1430,7 +1430,7 @@
     "latitude": "-29.1854953759999",
     "longitude": "151.999160766",
     "region": "nsw",
-    "time_of_call": "22 Oct 2025 00:34:00",
+    "time_of_call": "22 Oct 2025 10:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1440,9 +1440,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Oct 2025 00:34"
+    "updated": "22 Oct 2025 10:27"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1626,28 +1626,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "22 Oct 2025 10:14"
-  },
-  {
-    "title": "AVENUE RD, LAVADIA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625504",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.7340793609999",
-    "longitude": "153.066772461",
-    "region": "nsw",
-    "time_of_call": "22 Oct 2025 10:13:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "313 AVENUE RD, LAVADIA 2462",
-    "council_area": "Clarence Valley",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Oct 2025 10:13"
   },
   {
     "title": "FOREST RD, WINGELLO",
