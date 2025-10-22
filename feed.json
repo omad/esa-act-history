@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "23 Oct 2025 07:14:27"
+    "updated": "23 Oct 2025 07:38:21"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "23 Oct 2025 07:23:18"
+    "updated": "23 Oct 2025 07:35:37"
   },
   {
     "agency": "Ambulance",
@@ -52,6 +52,78 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
     "updated": "23 Oct 2025 07:05:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUGHES",
+    "id": "070635-23102025",
+    "latitude": "-35.333105",
+    "longitude": "149.094654",
+    "region": "act",
+    "time_of_call": "23 Oct 2025 07:23:49",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HUGHES",
+    "updated": "23 Oct 2025 07:48:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RICHARDSON",
+    "id": "070636-23102025",
+    "latitude": "-35.428715",
+    "longitude": "149.111133",
+    "region": "act",
+    "time_of_call": "23 Oct 2025 07:33:29",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RICHARDSON",
+    "updated": "23 Oct 2025 07:48:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KENNY",
+    "id": "070637-23102025",
+    "latitude": "-35.215069",
+    "longitude": "149.164179",
+    "region": "act",
+    "time_of_call": "23 Oct 2025 07:41:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KENNY",
+    "updated": "23 Oct 2025 07:47:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "070638-23102025",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "23 Oct 2025 07:42:45",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "23 Oct 2025 07:47:53"
   },
   {
     "title": "David Road HR",
@@ -1407,9 +1479,9 @@
     "latitude": "-28.9619483939999",
     "longitude": "153.483352661",
     "region": "nsw",
-    "time_of_call": "23 Oct 2025 07:23:00",
+    "time_of_call": "23 Oct 2025 07:39:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "201 OWENS LANE, EAST WARDELL 2477",
     "council_area": "Ballina",
@@ -1417,7 +1489,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Oct 2025 07:23"
+    "updated": "23 Oct 2025 07:39"
   },
   {
     "title": "WALLIS ST, TUNCURRY",
@@ -1427,9 +1499,9 @@
     "latitude": "-32.1710624689999",
     "longitude": "152.50100708",
     "region": "nsw",
-    "time_of_call": "23 Oct 2025 07:19:00",
+    "time_of_call": "23 Oct 2025 07:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "15 WALLIS ST, TUNCURRY 2428",
     "council_area": "Mid-Coast",
@@ -1437,6 +1509,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "23 Oct 2025 07:19"
+    "updated": "23 Oct 2025 07:40"
+  },
+  {
+    "title": "MOUNT LINDESAY RD, KOREELAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626669",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.356422424",
+    "longitude": "152.533691406",
+    "region": "nsw",
+    "time_of_call": "23 Oct 2025 07:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "12729 MOUNT LINDESAY RD, KOREELAH 2476",
+    "council_area": "Tenterfield",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Oct 2025 07:36"
   }
 ]
