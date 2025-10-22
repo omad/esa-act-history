@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "23 Oct 2025 00:35:57"
+    "updated": "23 Oct 2025 00:38:51"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "22 Oct 2025 23:52:04"
+    "updated": "23 Oct 2025 00:53:18"
   },
   {
     "agency": "Ambulance",
@@ -149,26 +149,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "STRUCTURE FIRE - TURNER",
-    "id": "070597-22102025",
-    "latitude": "-35.2642546599",
-    "longitude": "149.13030237",
-    "region": "act",
-    "time_of_call": "22 Oct 2025 23:07:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "STRUCTURE FIRE",
-    "type_description": "",
-    "type_icon": "",
-    "location": "CONDAMINE COURT, FORBES STREET, TURNER, 2612",
-    "updated": "23 Oct 2025 00:35:25"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PAGE",
     "id": "070599-22102025",
     "latitude": "-35.238051",
@@ -187,24 +167,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYONS",
-    "id": "070601-22102025",
-    "latitude": "-35.340941",
-    "longitude": "149.072217",
-    "region": "act",
-    "time_of_call": "22 Oct 2025 23:30:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LYONS",
-    "updated": "23 Oct 2025 00:12:41"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - THEODORE",
     "id": "070605-23102025",
     "latitude": "-35.449632",
@@ -217,7 +179,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "23 Oct 2025 00:31:38"
+    "updated": "23 Oct 2025 00:38:01"
   },
   {
     "agency": "Ambulance",
@@ -229,13 +191,31 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "23 Oct 2025 00:31:59",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "23 Oct 2025 00:53:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "070609-23102025",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "23 Oct 2025 00:47:10",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "WATSON",
-    "updated": "23 Oct 2025 00:36:31"
+    "location": "AINSLIE",
+    "updated": "23 Oct 2025 00:51:28"
   },
   {
     "title": "David Road HR",
@@ -1544,10 +1524,13 @@
     "latitude": "-29.868860245",
     "longitude": "153.010543823",
     "region": "nsw",
-    "time_of_call": "23 Oct 2025 00:08:00",
+    "time_of_call": "23 Oct 2025 00:39:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "279 FLORDA RED DR, LANITZA 2460",
     "council_area": "Clarence Valley",
     "type": "Bush Fire",
@@ -1556,6 +1539,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Oct 2025 00:08"
+    "updated": "23 Oct 2025 00:39"
   }
 ]
