@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "23 Oct 2025 09:10:39"
+    "updated": "23 Oct 2025 09:26:06"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAJURA",
-    "updated": "23 Oct 2025 08:58:51"
+    "updated": "23 Oct 2025 09:27:08"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "23 Oct 2025 09:14:26"
+    "updated": "23 Oct 2025 09:26:46"
   },
   {
     "agency": "Ambulance",
@@ -976,9 +976,9 @@
     "latitude": "-32.90567398",
     "longitude": "151.527191163",
     "region": "nsw",
-    "time_of_call": "23 Oct 2025 08:56:00",
+    "time_of_call": "23 Oct 2025 09:06:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -991,7 +991,7 @@
     "fire": "Yes",
     "size": "3 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "23 Oct 2025 08:56"
+    "updated": "23 Oct 2025 09:06"
   },
   {
     "title": "MAIN CREEK RD, MAIN CREEK",
@@ -1427,8 +1427,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625557",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.952422101",
-    "longitude": "151.861606619",
+    "latitude": "-31.9524211889999",
+    "longitude": "151.861602783",
     "region": "nsw",
     "time_of_call": "23 Oct 2025 09:04:00",
     "event_type": "burnt area",
@@ -1598,26 +1598,6 @@
     "updated": "23 Oct 2025 08:19"
   },
   {
-    "title": "QUEEN ST, CLARENCE TOWN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626673",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.5886497499999",
-    "longitude": "151.779251099",
-    "region": "nsw",
-    "time_of_call": "23 Oct 2025 08:46:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "104 QUEEN ST, CLARENCE TOWN 2321",
-    "council_area": "Dungog",
-    "type": "Medical",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "23 Oct 2025 08:46"
-  },
-  {
     "title": "WINERY RD, BEELBANGERA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626675",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1638,5 +1618,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "23 Oct 2025 08:48"
+  },
+  {
+    "title": "RIALTO LANE, THURGOONA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626676",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.061023712",
+    "longitude": "146.984329223",
+    "region": "nsw",
+    "time_of_call": "23 Oct 2025 09:14:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "17 RIALTO LANE, THURGOONA 2640",
+    "council_area": "Albury",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Oct 2025 09:14"
+  },
+  {
+    "title": "DAVID RD, BARDEN RIDGE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626677",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.0383949279999",
+    "longitude": "151.013137817",
+    "region": "nsw",
+    "time_of_call": "23 Oct 2025 09:18:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "96-122 DAVID RD, BARDEN RIDGE 2234",
+    "council_area": "Sutherland",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "23 Oct 2025 09:18"
   }
 ]
