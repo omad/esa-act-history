@@ -45,13 +45,13 @@
     "longitude": "149.046603",
     "region": "act",
     "time_of_call": "24 Oct 2025 18:37:07",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "24 Oct 2025 21:14:06"
+    "updated": "24 Oct 2025 21:32:51"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "24 Oct 2025 21:20:20"
+    "updated": "24 Oct 2025 21:37:37"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "24 Oct 2025 20:17:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "24 Oct 2025 21:18:33"
+    "updated": "24 Oct 2025 21:32:34"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "24 Oct 2025 21:19:08"
+    "updated": "24 Oct 2025 21:30:07"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +195,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
-    "updated": "24 Oct 2025 21:21:40"
+    "updated": "24 Oct 2025 21:42:44"
   },
   {
     "agency": "Ambulance",
@@ -225,13 +225,49 @@
     "longitude": "149.110562",
     "region": "act",
     "time_of_call": "24 Oct 2025 21:15:34",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CRACE",
+    "updated": "24 Oct 2025 21:35:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BARTON",
+    "id": "071067-24102025",
+    "latitude": "-35.309306",
+    "longitude": "149.13437",
+    "region": "act",
+    "time_of_call": "24 Oct 2025 21:30:47",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BARTON",
+    "updated": "24 Oct 2025 21:46:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "071068-24102025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "24 Oct 2025 21:36:39",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "CRACE",
-    "updated": "24 Oct 2025 21:28:48"
+    "location": "KAMBAH",
+    "updated": "24 Oct 2025 21:41:26"
   },
   {
     "title": "David Road HR",
@@ -1161,10 +1197,13 @@
     "latitude": "-35.2192001339999",
     "longitude": "149.841705322",
     "region": "nsw",
-    "time_of_call": "24 Oct 2025 19:49:00",
+    "time_of_call": "24 Oct 2025 21:33:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "495 STEWARTS CROSSING RD, MAYFIELD 2580",
     "council_area": "Queanbeyan-Palerang",
     "type": "Bush Fire",
@@ -1173,7 +1212,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Oct 2025 19:49"
+    "updated": "24 Oct 2025 21:33"
   },
   {
     "title": "CRABBES CREEK",
@@ -1198,73 +1237,6 @@
     "updated": "24 Oct 2025 20:50"
   },
   {
-    "title": "GAP RD, ALSTONVILLE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626879",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.845401763",
-    "longitude": "153.471389771",
-    "region": "nsw",
-    "time_of_call": "24 Oct 2025 21:26:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "347 GAP RD, ALSTONVILLE 2477",
-    "council_area": "Ballina",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Oct 2025 21:26"
-  },
-  {
-    "title": "TUCKOMBIL RD, WOODBURN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626880",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.1190471639999",
-    "longitude": "153.333953857",
-    "region": "nsw",
-    "time_of_call": "24 Oct 2025 21:22:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "10 TUCKOMBIL RD, WOODBURN 2472",
-    "council_area": "Richmond Valley",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Oct 2025 21:22"
-  },
-  {
-    "title": "Borthwick St, Inverell",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626881",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.785142",
-    "longitude": "151.100989",
-    "region": "nsw",
-    "time_of_call": "24 Oct 2025 21:19:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Borthwick St, Inverell, NSW 2360",
-    "council_area": "Inverell",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "24 Oct 2025 21:19"
-  },
-  {
     "title": "OLD COOMA RD, ROYALLA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626882",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1272,7 +1244,7 @@
     "latitude": "-35.495677948",
     "longitude": "149.154602051",
     "region": "nsw",
-    "time_of_call": "24 Oct 2025 21:23:00",
+    "time_of_call": "24 Oct 2025 21:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1284,24 +1256,24 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Oct 2025 21:23"
+    "updated": "24 Oct 2025 21:43"
   },
   {
-    "title": "MEHI CR, MOREE",
+    "title": "Mehi Cr, Moree",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626883",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
     "latitude": "-29.469015121",
     "longitude": "149.81829834",
     "region": "nsw",
-    "time_of_call": "24 Oct 2025 21:25:00",
+    "time_of_call": "24 Oct 2025 21:45:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "MEHI CR, MOREE 2400",
+    "location": "Mehi Cr, Moree, NSW 2400",
     "council_area": "Moree Plains",
     "type": "Grass Fire",
     "type_description": "",
@@ -1309,6 +1281,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "24 Oct 2025 21:25"
+    "updated": "24 Oct 2025 21:45"
   }
 ]
