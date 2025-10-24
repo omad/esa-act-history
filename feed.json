@@ -45,13 +45,13 @@
     "longitude": "149.105209",
     "region": "act",
     "time_of_call": "25 Oct 2025 06:48:12",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "25 Oct 2025 07:50:35"
+    "updated": "25 Oct 2025 08:38:53"
   },
   {
     "agency": "Ambulance",
@@ -70,24 +70,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
     "updated": "25 Oct 2025 08:17:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - SPENCE",
-    "id": "071121-25102025",
-    "latitude": "-35.196073",
-    "longitude": "149.064742",
-    "region": "act",
-    "time_of_call": "25 Oct 2025 07:10:35",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "SPENCE",
-    "updated": "25 Oct 2025 08:08:24"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "25 Oct 2025 08:17:17"
+    "updated": "25 Oct 2025 08:40:56"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +177,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "25 Oct 2025 08:18:05"
+    "updated": "25 Oct 2025 08:34:37"
   },
   {
     "agency": "Ambulance",
@@ -214,6 +196,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
     "updated": "25 Oct 2025 07:54:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUNLOP",
+    "id": "071132-25102025",
+    "latitude": "-35.193951",
+    "longitude": "149.019471",
+    "region": "act",
+    "time_of_call": "25 Oct 2025 08:35:16",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUNLOP",
+    "updated": "25 Oct 2025 08:39:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "071133-25102025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "25 Oct 2025 08:36:26",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "25 Oct 2025 08:40:33"
   },
   {
     "title": "David Road HR",
@@ -1090,7 +1108,7 @@
     "latitude": "-33.3629035939999",
     "longitude": "151.298202515",
     "region": "nsw",
-    "time_of_call": "25 Oct 2025 07:51:00",
+    "time_of_call": "25 Oct 2025 08:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1105,7 +1123,7 @@
     "fire": "Yes",
     "size": "13 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Oct 2025 07:51"
+    "updated": "25 Oct 2025 08:30"
   },
   {
     "title": "Kenny St - Delta Sector - HR",
@@ -1277,6 +1295,28 @@
     "updated": "25 Oct 2025 04:32"
   },
   {
+    "title": "OLD NORTHERN RD, MIDDLE DURAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626909",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.641822815",
+    "longitude": "151.025726318",
+    "region": "nsw",
+    "time_of_call": "25 Oct 2025 08:16:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "1275 OLD NORTHERN RD, MIDDLE DURAL 2158",
+    "council_area": "Hornsby",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Oct 2025 08:16"
+  },
+  {
     "title": "Forman Av, Glenwood",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626910",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1284,9 +1324,9 @@
     "latitude": "-33.731151",
     "longitude": "150.934188",
     "region": "nsw",
-    "time_of_call": "25 Oct 2025 08:24:00",
+    "time_of_call": "25 Oct 2025 08:36:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1299,6 +1339,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Oct 2025 08:24"
+    "updated": "25 Oct 2025 08:36"
+  },
+  {
+    "title": "GREVILLIA PDE, MINNIE WATER",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626911",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.7765579219999",
+    "longitude": "153.299484253",
+    "region": "nsw",
+    "time_of_call": "25 Oct 2025 08:27:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "GREVILLIA PDE, MINNIE WATER 2462",
+    "council_area": "Clarence Valley",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "25 Oct 2025 08:27"
   }
 ]
