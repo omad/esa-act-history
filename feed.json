@@ -29,13 +29,13 @@
     "longitude": "149.031217",
     "region": "act",
     "time_of_call": "25 Oct 2025 22:00:46",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "26 Oct 2025 03:25:47"
+    "updated": "26 Oct 2025 03:31:49"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +233,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "26 Oct 2025 02:24:15"
+    "updated": "26 Oct 2025 03:43:16"
   },
   {
     "agency": "Ambulance",
@@ -245,13 +245,13 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "26 Oct 2025 02:18:03",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "26 Oct 2025 03:16:34"
+    "updated": "26 Oct 2025 03:32:53"
   },
   {
     "agency": "Ambulance",
@@ -281,13 +281,31 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "26 Oct 2025 03:24:25",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "26 Oct 2025 03:27:31"
+    "updated": "26 Oct 2025 03:41:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FISHER",
+    "id": "071344-26102025",
+    "latitude": "-35.360481",
+    "longitude": "149.058056",
+    "region": "act",
+    "time_of_call": "26 Oct 2025 03:31:40",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FISHER",
+    "updated": "26 Oct 2025 03:37:56"
   },
   {
     "title": "David Road HR",
@@ -1566,7 +1584,7 @@
     "latitude": "-28.976028442",
     "longitude": "149.001281738",
     "region": "nsw",
-    "time_of_call": "26 Oct 2025 02:29:00",
+    "time_of_call": "26 Oct 2025 03:37:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "status_description": "",
@@ -1579,9 +1597,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "15 ha",
+    "size": "22 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2025 02:29"
+    "updated": "26 Oct 2025 03:37"
   },
   {
     "title": "WANGWAUK FOREST WAY, WILLINA",
@@ -1729,18 +1747,40 @@
     "latitude": "-33.505786895",
     "longitude": "151.161621093",
     "region": "nsw",
-    "time_of_call": "26 Oct 2025 02:53:00",
+    "time_of_call": "26 Oct 2025 03:33:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
     "location": "2506 HAWKESBURY RIVER, BAR POINT 2083",
     "council_area": "Central Coast",
-    "type": "Structure Fire",
+    "type": "Bush Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2025 02:53"
+    "updated": "26 Oct 2025 03:33"
+  },
+  {
+    "title": "CUNGLEBUNG RD, BUCCARUMBI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627029",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.837932587",
+    "longitude": "152.582885742",
+    "region": "nsw",
+    "time_of_call": "26 Oct 2025 03:38:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CUNGLEBUNG RD, BUCCARUMBI 2460",
+    "council_area": "Clarence Valley",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Oct 2025 03:38"
   }
 ]
