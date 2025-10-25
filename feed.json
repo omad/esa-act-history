@@ -29,15 +29,15 @@
     "longitude": "148.93297",
     "region": "act",
     "time_of_call": "26 Oct 2025 09:37:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "GRASS TREE ROAD, BOUNDARY ROAD, PADDYS RIVER, 0000",
-    "updated": "26 Oct 2025 10:20:23"
+    "updated": "26 Oct 2025 10:22:15"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "26 Oct 2025 09:47:16"
+    "updated": "26 Oct 2025 10:29:20"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "26 Oct 2025 10:04:33"
+    "updated": "26 Oct 2025 10:22:00"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "26 Oct 2025 10:20:12"
+    "updated": "26 Oct 2025 10:24:49"
   },
   {
     "agency": "Ambulance",
@@ -175,13 +175,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "26 Oct 2025 10:16:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "26 Oct 2025 10:19:59"
+    "updated": "26 Oct 2025 10:23:28"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "26 Oct 2025 10:20:04"
+    "updated": "26 Oct 2025 10:22:47"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +217,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "26 Oct 2025 10:20:11"
+    "updated": "26 Oct 2025 10:28:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "071383-26102025",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "26 Oct 2025 10:22:12",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHAPMAN",
+    "updated": "26 Oct 2025 10:24:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RICHARDSON",
+    "id": "071384-26102025",
+    "latitude": "-35.428715",
+    "longitude": "149.111133",
+    "region": "act",
+    "time_of_call": "26 Oct 2025 10:25:24",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RICHARDSON",
+    "updated": "26 Oct 2025 10:29:07"
   },
   {
     "title": "David Road HR",
@@ -897,7 +933,7 @@
     "latitude": "-33.111309051",
     "longitude": "151.546524048",
     "region": "nsw",
-    "time_of_call": "25 Oct 2025 23:04:00",
+    "time_of_call": "26 Oct 2025 10:18:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -909,7 +945,7 @@
     "fire": "Yes",
     "size": "30 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Oct 2025 23:04"
+    "updated": "26 Oct 2025 10:18"
   },
   {
     "title": "Hutton HR",
@@ -1373,28 +1409,6 @@
     "updated": "25 Oct 2025 22:59"
   },
   {
-    "title": "RIFLE RANGE RD, GRIFFITH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626913",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.2403984069999",
-    "longitude": "146.074127197",
-    "region": "nsw",
-    "time_of_call": "26 Oct 2025 08:31:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "RIFLE RANGE RD, GRIFFITH 2680",
-    "council_area": "Griffith",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "90 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2025 08:31"
-  },
-  {
     "title": "JABEZ HILL RD, GUYRA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626916",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1565,7 +1579,7 @@
     "latitude": "-30.021080018",
     "longitude": "153.197143555",
     "region": "nsw",
-    "time_of_call": "25 Oct 2025 19:19:00",
+    "time_of_call": "26 Oct 2025 10:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1577,7 +1591,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Oct 2025 19:19"
+    "updated": "26 Oct 2025 10:27"
   },
   {
     "title": "OLD KEMPSEY RD, GUM SCRUB",
@@ -1866,9 +1880,9 @@
     "latitude": "-33.240226745",
     "longitude": "151.569274902",
     "region": "nsw",
-    "time_of_call": "26 Oct 2025 10:11:00",
+    "time_of_call": "26 Oct 2025 10:14:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BUDGEWOI BEACH BUDGEWOI 2262",
     "council_area": "Central Coast",
@@ -1878,7 +1892,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2025 10:11"
+    "updated": "26 Oct 2025 10:14"
   },
   {
     "title": "CAIRNES RD, GLENORIE",
@@ -1910,7 +1924,7 @@
     "latitude": "-33.675132751",
     "longitude": "151.279129028",
     "region": "nsw",
-    "time_of_call": "26 Oct 2025 10:19:00",
+    "time_of_call": "26 Oct 2025 10:22:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
@@ -1922,6 +1936,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2025 10:19"
+    "updated": "26 Oct 2025 10:22"
   }
 ]
