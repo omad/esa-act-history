@@ -153,24 +153,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHAPMAN",
-    "id": "071551-27102025",
-    "latitude": "-35.356631",
-    "longitude": "149.036831",
-    "region": "act",
-    "time_of_call": "27 Oct 2025 09:08:15",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHAPMAN",
-    "updated": "27 Oct 2025 09:53:18"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DUNLOP",
     "id": "071553-27102025",
     "latitude": "-35.193951",
@@ -183,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "27 Oct 2025 10:10:56"
+    "updated": "27 Oct 2025 10:23:38"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +201,7 @@
     "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "IREDALE PLACE PLAYGROUND / PARK, IREDALE PLACE, GORDON, 2906",
-    "updated": "27 Oct 2025 10:08:56"
+    "updated": "27 Oct 2025 10:31:54"
   },
   {
     "agency": "Ambulance",
@@ -237,7 +219,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "27 Oct 2025 10:16:21"
+    "updated": "27 Oct 2025 10:31:38"
   },
   {
     "agency": "Ambulance",
@@ -249,13 +231,13 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "27 Oct 2025 09:43:32",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "27 Oct 2025 10:19:01"
+    "updated": "27 Oct 2025 10:32:40"
   },
   {
     "agency": "Ambulance",
@@ -327,7 +309,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "27 Oct 2025 10:15:56"
+    "updated": "27 Oct 2025 10:30:56"
   },
   {
     "agency": "Ambulance",
@@ -339,13 +321,31 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "27 Oct 2025 10:08:21",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "27 Oct 2025 10:25:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ARANDA",
+    "id": "071569-27102025",
+    "latitude": "-35.258882",
+    "longitude": "149.079717",
+    "region": "act",
+    "time_of_call": "27 Oct 2025 10:25:17",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "BRADDON",
-    "updated": "27 Oct 2025 10:13:48"
+    "location": "ARANDA",
+    "updated": "27 Oct 2025 10:32:44"
   },
   {
     "title": "David Road HR",
@@ -712,6 +712,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Oct 2025 23:33"
+  },
+  {
+    "title": "WHITLOW RD, WHITLOW",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_625476",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.8490829469999",
+    "longitude": "150.658096313",
+    "region": "nsw",
+    "time_of_call": "27 Oct 2025 10:24:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "MOUNTAIN VIEW 996 WHITLOW RD, WHITLOW 2404",
+    "council_area": "Gwydir",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Oct 2025 10:24"
   },
   {
     "title": "FLORDA RED DR, LANITZA",
@@ -1520,10 +1542,13 @@
     "latitude": "-30.189550399",
     "longitude": "152.5362854",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 10:09:00",
+    "time_of_call": "27 Oct 2025 10:12:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "48 SHEEPSTATION CREEK RD, DUNDURRABIN 2453",
     "council_area": "Clarence Valley",
     "type": "Grass Fire",
@@ -1532,7 +1557,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 10:09"
+    "updated": "27 Oct 2025 10:12"
   },
   {
     "title": "MANNING POINT RD",
@@ -1564,10 +1589,13 @@
     "latitude": "-32.3949165339999",
     "longitude": "148.831817627",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 10:05:00",
+    "time_of_call": "27 Oct 2025 10:24:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "CHAMBERS ST, GEURIE 2818",
     "council_area": "Dubbo Regional",
     "type": "Grass Fire",
@@ -1576,7 +1604,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 10:05"
+    "updated": "27 Oct 2025 10:24"
   },
   {
     "title": "KANGAROO RD, TAHMOOR",
@@ -1586,9 +1614,9 @@
     "latitude": "-34.222263337",
     "longitude": "150.573074341",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 10:10:00",
+    "time_of_call": "27 Oct 2025 10:26:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "15 KANGAROO RD, TAHMOOR 2573",
     "council_area": "Wollondilly",
@@ -1598,24 +1626,24 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 10:10"
+    "updated": "27 Oct 2025 10:26"
   },
   {
-    "title": "Whylandra St, Dubbo",
+    "title": "WHYLANDRA ST, DUBBO NSW",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627200",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.257516",
-    "longitude": "148.587546",
+    "latitude": "-32.24419431",
+    "longitude": "148.595967293",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 10:10:00",
+    "time_of_call": "27 Oct 2025 10:32:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "11 Whylandra St, Dubbo, NSW 2830",
+    "location": "11 WHYLANDRA ST, DUBBO NSW 2830",
     "council_area": "Dubbo Regional",
     "type": "Grass Fire",
     "type_description": "",
@@ -1623,29 +1651,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "27 Oct 2025 10:10"
-  },
-  {
-    "title": "WHYLANDRA ST, DUBBO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627201",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.2575149539999",
-    "longitude": "148.587539673",
-    "region": "nsw",
-    "time_of_call": "27 Oct 2025 10:11:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "11 WHYLANDRA ST, DUBBO 2830",
-    "council_area": "Dubbo Regional",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "27 Oct 2025 10:11"
+    "updated": "27 Oct 2025 10:32"
   },
   {
     "title": "BALLENGARA BRANSDON RD, GUM SCRUB",
@@ -1690,5 +1696,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Oct 2025 10:16"
+  },
+  {
+    "title": "Walker St, South Windsor",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627205",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6198719999999",
+    "longitude": "150.812283999",
+    "region": "nsw",
+    "time_of_call": "27 Oct 2025 10:29:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Walker St, South Windsor, NSW 2756",
+    "council_area": "Hawkesbury",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "27 Oct 2025 10:29"
   }
 ]
