@@ -25,19 +25,19 @@
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - SYMONSTON",
     "id": "016265-27102025",
-    "latitude": "-35.340853",
-    "longitude": "149.163083",
+    "latitude": "-35.3399047852",
+    "longitude": "149.1687469482",
     "region": "act",
     "time_of_call": "27 Oct 2025 09:19:36",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "HINDMARSH DRIVE, MONARO HIGHWAY, SYMONSTON, 2609",
-    "updated": "27 Oct 2025 09:28:13"
+    "location": "MONARO HIGHWAY, SYMONSTON, 2609",
+    "updated": "27 Oct 2025 09:45:12"
   },
   {
     "agency": "Ambulance",
@@ -74,24 +74,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
     "updated": "27 Oct 2025 07:26:35"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "071537-27102025",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
-    "region": "act",
-    "time_of_call": "27 Oct 2025 07:39:56",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "27 Oct 2025 09:09:04"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +139,13 @@
     "longitude": "149.135062",
     "region": "act",
     "time_of_call": "27 Oct 2025 08:30:41",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "27 Oct 2025 09:26:32"
+    "updated": "27 Oct 2025 09:40:57"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "27 Oct 2025 09:27:24"
+    "updated": "27 Oct 2025 09:41:51"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "27 Oct 2025 09:17:37"
+    "updated": "27 Oct 2025 09:37:09"
   },
   {
     "agency": "Ambulance",
@@ -309,7 +291,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "27 Oct 2025 09:28:04"
+    "updated": "27 Oct 2025 09:39:51"
   },
   {
     "agency": "Ambulance",
@@ -321,13 +303,13 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "27 Oct 2025 09:17:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "27 Oct 2025 09:24:36"
+    "updated": "27 Oct 2025 09:45:31"
   },
   {
     "agency": "Ambulance",
@@ -357,13 +339,13 @@
     "longitude": "149.08634",
     "region": "act",
     "time_of_call": "27 Oct 2025 09:31:31",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "IREDALE PLACE PLAYGROUND / PARK, IREDALE PLACE, GORDON, 2906",
-    "updated": "27 Oct 2025 09:36:37"
+    "updated": "27 Oct 2025 09:39:54"
   },
   {
     "agency": "Ambulance",
@@ -375,13 +357,49 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "27 Oct 2025 09:35:34",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "27 Oct 2025 09:42:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "071558-27102025",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "27 Oct 2025 09:37:33",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "27 Oct 2025 09:42:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "071560-27102025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "27 Oct 2025 09:43:32",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "27 Oct 2025 09:36:58"
+    "location": "CURTIN",
+    "updated": "27 Oct 2025 09:45:32"
   },
   {
     "title": "David Road HR",
@@ -560,7 +578,7 @@
     "latitude": "-28.508220684",
     "longitude": "152.100975041",
     "region": "nsw",
-    "time_of_call": "26 Oct 2025 23:40:00",
+    "time_of_call": "27 Oct 2025 09:39:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -575,7 +593,7 @@
     "fire": "Yes",
     "size": "1001 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2025 23:40"
+    "updated": "27 Oct 2025 09:39"
   },
   {
     "title": "PACIFIC HWY (NORTHBOUND), KARUAH",
@@ -847,28 +865,6 @@
     "updated": "26 Oct 2025 10:18"
   },
   {
-    "title": "Hutton HR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626697",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.098230362",
-    "longitude": "152.669296265",
-    "region": "nsw",
-    "time_of_call": "26 Oct 2025 19:20:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "449 DUNGAY CREEK RD, YESSABAH 2440",
-    "council_area": "Kempsey",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "13 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2025 19:20"
-  },
-  {
     "title": "Adams HR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626825",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1011,7 +1007,7 @@
     "latitude": "-28.7658691409999",
     "longitude": "152.349609375",
     "region": "nsw",
-    "time_of_call": "26 Oct 2025 23:39:00",
+    "time_of_call": "27 Oct 2025 09:39:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -1026,7 +1022,7 @@
     "fire": "Yes",
     "size": "43 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2025 23:39"
+    "updated": "27 Oct 2025 09:39"
   },
   {
     "title": "Sunset Mountain, Nadgigomar NR",
@@ -1127,7 +1123,7 @@
     "latitude": "-28.8368091579999",
     "longitude": "152.151626587",
     "region": "nsw",
-    "time_of_call": "26 Oct 2025 23:37:00",
+    "time_of_call": "27 Oct 2025 09:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1142,7 +1138,7 @@
     "fire": "Yes",
     "size": "25 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2025 23:37"
+    "updated": "27 Oct 2025 09:38"
   },
   {
     "title": "SUGARBAG RD W, DRAKE",
@@ -1152,7 +1148,7 @@
     "latitude": "-28.8776702879999",
     "longitude": "152.452041626",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 07:42:00",
+    "time_of_call": "27 Oct 2025 09:37:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -1168,7 +1164,7 @@
     "size": "54 ha",
     "major_fire_update_as_at_27_oct_2025_6:50am": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12264' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 07:42"
+    "updated": "27 Oct 2025 09:37"
   },
   {
     "title": "RAILWAY PDE, MUNGINDI",
@@ -1591,30 +1587,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Oct 2025 08:40"
-  },
-  {
-    "title": "Chester Hill Rd, Chester Hill",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627192",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.883079",
-    "longitude": "151.000633",
-    "region": "nsw",
-    "time_of_call": "27 Oct 2025 08:54:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Chester Hill Rd, Chester Hill, NSW 2162",
-    "council_area": "Canterbury-Bankstown",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "27 Oct 2025 08:54"
   }
 ]
