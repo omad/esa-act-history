@@ -71,7 +71,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "28 Oct 2025 00:30:43"
+    "updated": "28 Oct 2025 02:26:09"
   },
   {
     "agency": "Ambulance",
@@ -143,25 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "28 Oct 2025 01:33:47"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAWSON",
-    "id": "071753-28102025",
-    "latitude": "-35.361049",
-    "longitude": "149.099386",
-    "region": "act",
-    "time_of_call": "28 Oct 2025 01:02:43",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MAWSON",
-    "updated": "28 Oct 2025 01:47:18"
+    "updated": "28 Oct 2025 01:54:33"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "28 Oct 2025 01:48:51"
+    "updated": "28 Oct 2025 02:04:24"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +173,67 @@
     "longitude": "149.154752",
     "region": "act",
     "time_of_call": "28 Oct 2025 01:28:05",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HARRISON",
+    "updated": "28 Oct 2025 02:18:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "071757-28102025",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "28 Oct 2025 01:53:04",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "28 Oct 2025 02:06:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "071758-28102025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "28 Oct 2025 02:00:30",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "HARRISON",
-    "updated": "28 Oct 2025 01:43:59"
+    "location": "PHILLIP",
+    "updated": "28 Oct 2025 02:25:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "071759-28102025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "28 Oct 2025 02:06:40",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "28 Oct 2025 02:09:34"
   },
   {
     "title": "David Road HR",
@@ -1925,5 +1961,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Oct 2025 01:39"
+  },
+  {
+    "title": "MULGOA RD, MULGOA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627335",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.842769623",
+    "longitude": "150.649841309",
+    "region": "nsw",
+    "time_of_call": "28 Oct 2025 02:23:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "1265 MULGOA RD, MULGOA 2745",
+    "council_area": "Penrith",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Oct 2025 02:23"
   }
 ]
