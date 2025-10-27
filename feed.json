@@ -29,15 +29,15 @@
     "longitude": "149.10163",
     "region": "act",
     "time_of_call": "28 Oct 2025 10:11:53",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "RYLSTONE CRESCENT, CRACE, 2911",
-    "updated": "28 Oct 2025 10:20:56"
+    "updated": "28 Oct 2025 10:29:11"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "28 Oct 2025 10:22:45"
+    "updated": "28 Oct 2025 10:25:23"
   },
   {
     "agency": "Ambulance",
@@ -145,25 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "28 Oct 2025 10:11:24"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "071788-28102025",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "28 Oct 2025 09:19:46",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "28 Oct 2025 09:49:33"
+    "updated": "28 Oct 2025 10:32:40"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "28 Oct 2025 09:54:27"
+    "updated": "28 Oct 2025 10:25:05"
   },
   {
     "agency": "Ambulance",
@@ -271,7 +253,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "28 Oct 2025 10:15:33"
+    "updated": "28 Oct 2025 10:25:25"
   },
   {
     "agency": "Ambulance",
@@ -292,6 +274,24 @@
     "type_icon": "",
     "location": "RYLSTONE CRESCENT, CRACE, 2911",
     "updated": "28 Oct 2025 10:15:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "071804-28102025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "28 Oct 2025 10:24:32",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "28 Oct 2025 10:28:26"
   },
   {
     "title": "David Road HR",
@@ -373,7 +373,7 @@
     "latitude": "-31.54221344",
     "longitude": "151.825241089",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 15:58:00",
+    "time_of_call": "28 Oct 2025 10:26:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -388,7 +388,7 @@
     "fire": "Yes",
     "size": "1767 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 15:58"
+    "updated": "28 Oct 2025 10:26"
   },
   {
     "title": "SAILORS HILL NYMBOIDA",
@@ -811,7 +811,7 @@
     "latitude": "-28.8776702879999",
     "longitude": "152.452041626",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 17:24:00",
+    "time_of_call": "28 Oct 2025 09:57:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -827,7 +827,7 @@
     "size": "54 ha",
     "major_fire_update_as_at_28_oct_2025_7:41am": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12264' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 17:24"
+    "updated": "28 Oct 2025 09:57"
   },
   {
     "title": "RAILWAY PDE, MUNGINDI",
@@ -1049,31 +1049,6 @@
     "updated": "28 Oct 2025 05:28"
   },
   {
-    "title": "WANDOBAH RD, YANNERGEE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627100",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.4237365719999",
-    "longitude": "150.115341186",
-    "region": "nsw",
-    "time_of_call": "27 Oct 2025 16:40:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "350 WANDOBAH RD, YANNERGEE 2343",
-    "council_area": "Liverpool Plains",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 16:40"
-  },
-  {
     "title": "Wean Trail",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627141",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1289,7 +1264,7 @@
     "latitude": "-31.8205795289999",
     "longitude": "152.424652099",
     "region": "nsw",
-    "time_of_call": "28 Oct 2025 09:08:00",
+    "time_of_call": "28 Oct 2025 10:15:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1304,7 +1279,7 @@
     "fire": "Yes",
     "size": "8 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Oct 2025 09:08"
+    "updated": "28 Oct 2025 10:15"
   },
   {
     "title": "CHEVIOT HILLS RD, DRAKE",
@@ -1314,9 +1289,9 @@
     "latitude": "-28.851348877",
     "longitude": "152.408248901",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 17:05:00",
+    "time_of_call": "28 Oct 2025 09:47:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1329,7 +1304,7 @@
     "fire": "Yes",
     "size": "485 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 17:05"
+    "updated": "28 Oct 2025 09:47"
   },
   {
     "title": "SOUTH ARM SCHOOL RD, WOODFORD ISLAND",
@@ -1411,9 +1386,9 @@
     "latitude": "-29.53890419",
     "longitude": "152.527099609",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 18:08:00",
+    "time_of_call": "28 Oct 2025 10:22:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1426,7 +1401,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 18:08"
+    "updated": "28 Oct 2025 10:22"
   },
   {
     "title": "HARWOOD MILL RD, HARWOOD",
@@ -1652,9 +1627,9 @@
     "latitude": "-29.1981754299999",
     "longitude": "152.781021118",
     "region": "nsw",
-    "time_of_call": "28 Oct 2025 08:02:00",
+    "time_of_call": "28 Oct 2025 10:21:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1665,9 +1640,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Oct 2025 08:02"
+    "size": "20 ha",
+    "responsible_agency": "NSW National Parks and Wildlife Service",
+    "updated": "28 Oct 2025 10:21"
   },
   {
     "title": "GOOREENGI RD, NORTH ARM COVE",
@@ -1740,23 +1715,25 @@
     "updated": "28 Oct 2025 09:13"
   },
   {
-    "title": "BELINDA ST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627359",
+    "title": "TERRALONG ST, KIAMA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627360",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.746982574",
-    "longitude": "150.823181152",
+    "latitude": "-34.6686592099999",
+    "longitude": "150.852478028",
     "region": "nsw",
-    "time_of_call": "28 Oct 2025 09:51:00",
+    "time_of_call": "28 Oct 2025 10:30:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "UNITING CARE MAYFLOWER VILLAGE 61 BELINDA ST, GERRINGONG 2534",
+    "location": "KIAMA LEAGUES CLUB 109 TERRALONG ST, KIAMA 2533",
     "council_area": "Kiama",
-    "type": "Assist Other Agency",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
     "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Oct 2025 09:51"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "28 Oct 2025 10:30"
   }
 ]
