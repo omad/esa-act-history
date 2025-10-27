@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "28 Oct 2025 08:59:47"
+    "updated": "28 Oct 2025 09:34:39"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "28 Oct 2025 09:20:35"
+    "updated": "28 Oct 2025 09:26:33"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAPITAL HILL",
-    "updated": "28 Oct 2025 09:22:45"
+    "updated": "28 Oct 2025 09:33:21"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "28 Oct 2025 09:11:38"
+    "updated": "28 Oct 2025 09:29:18"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "28 Oct 2025 09:12:19"
+    "updated": "28 Oct 2025 09:36:17"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +173,13 @@
     "longitude": "149.085827",
     "region": "act",
     "time_of_call": "28 Oct 2025 09:09:57",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "28 Oct 2025 09:18:26"
+    "updated": "28 Oct 2025 09:30:57"
   },
   {
     "agency": "Ambulance",
@@ -198,6 +198,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
     "updated": "28 Oct 2025 09:24:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DENMAN PROSPECT",
+    "id": "071789-28102025",
+    "latitude": "-35.303694",
+    "longitude": "149.025004",
+    "region": "act",
+    "time_of_call": "28 Oct 2025 09:26:42",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DENMAN PROSPECT",
+    "updated": "28 Oct 2025 09:33:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "071791-28102025",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "28 Oct 2025 09:32:43",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "28 Oct 2025 09:36:47"
   },
   {
     "title": "David Road HR",
@@ -636,31 +672,6 @@
     "size": "7 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Oct 2025 05:30"
-  },
-  {
-    "title": "LACKERSTEENS RD, SOMERSBY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626843",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.3629035939999",
-    "longitude": "151.298202515",
-    "region": "nsw",
-    "time_of_call": "27 Oct 2025 16:50:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "LACKERSTEENS RD, SOMERSBY 2250",
-    "council_area": "Central Coast",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "13 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 16:50"
   },
   {
     "title": "Kenny St - Delta Sector - HR",
@@ -1530,7 +1541,7 @@
     "latitude": "-29.068380356",
     "longitude": "153.077468873",
     "region": "nsw",
-    "time_of_call": "28 Oct 2025 07:03:00",
+    "time_of_call": "28 Oct 2025 09:28:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1543,9 +1554,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "24 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Oct 2025 07:03"
+    "size": "62 ha",
+    "responsible_agency": "Forestry Corporation of NSW",
+    "updated": "28 Oct 2025 09:28"
   },
   {
     "title": "GWYDIR HWY, RAMORNIE",
