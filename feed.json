@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "27 Oct 2025 21:31:49"
+    "updated": "27 Oct 2025 22:31:14"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
-    "updated": "27 Oct 2025 22:10:32"
+    "updated": "27 Oct 2025 22:28:29"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +191,13 @@
     "longitude": "149.049485",
     "region": "act",
     "time_of_call": "27 Oct 2025 22:03:52",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "27 Oct 2025 22:09:06"
+    "updated": "27 Oct 2025 22:31:58"
   },
   {
     "title": "David Road HR",
@@ -1927,28 +1927,6 @@
     "updated": "27 Oct 2025 21:30"
   },
   {
-    "title": "PACIFIC HWY, GULMARRAD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627310",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.502433777",
-    "longitude": "153.20211792",
-    "region": "nsw",
-    "time_of_call": "27 Oct 2025 21:11:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, GULMARRAD 2463",
-    "council_area": "Clarence Valley",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 21:11"
-  },
-  {
     "title": "CRAWNEY RD, NUNDLE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627314",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1975,10 +1953,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627315",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.598819732",
-    "longitude": "150.728546143",
+    "latitude": "-34.592601776",
+    "longitude": "150.733230591",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 22:14:00",
+    "time_of_call": "27 Oct 2025 22:30:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "alert_level": "Not Applicable",
@@ -1990,29 +1968,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 22:14"
-  },
-  {
-    "title": "LANGS WAY, WOODBURN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627317",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.0696716309999",
-    "longitude": "153.366592408",
-    "region": "nsw",
-    "time_of_call": "27 Oct 2025 21:43:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "126 LANGS WAY, WOODBURN 2472",
-    "council_area": "Richmond Valley",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 21:43"
+    "updated": "27 Oct 2025 22:30"
   },
   {
     "title": "KING GEORGE V AV, EAST TAMWORTH",
@@ -2022,10 +1978,13 @@
     "latitude": "-31.1113777159999",
     "longitude": "150.951919555",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 21:40:00",
+    "time_of_call": "27 Oct 2025 22:29:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "144-162 KING GEORGE V AV, EAST TAMWORTH 2340",
     "council_area": "Tamworth",
     "type": "Bush Fire",
@@ -2034,7 +1993,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 21:40"
+    "updated": "27 Oct 2025 22:29"
   },
   {
     "title": "WOLLOMBI RD, FARLEY",
@@ -2057,26 +2016,6 @@
     "updated": "27 Oct 2025 22:06"
   },
   {
-    "title": "GUNSYND WAY, BOGGABILLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627320",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.557548523",
-    "longitude": "150.313171386",
-    "region": "nsw",
-    "time_of_call": "27 Oct 2025 21:54:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "GUNSYND WAY, BOGGABILLA 2409",
-    "council_area": "Moree Plains",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 21:54"
-  },
-  {
     "title": "WILSHIRE RD, LONDONDERRY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627321",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2084,9 +2023,9 @@
     "latitude": "-33.628959655",
     "longitude": "150.719161987",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 22:07:00",
+    "time_of_call": "27 Oct 2025 22:28:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "WILSHIRE RD, LONDONDERRY 2753",
     "council_area": "Penrith",
@@ -2094,6 +2033,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 22:07"
+    "updated": "27 Oct 2025 22:28"
+  },
+  {
+    "title": "CASTLEREAGH HWY, WALGETT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627322",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.690189362",
+    "longitude": "148.095733642",
+    "region": "nsw",
+    "time_of_call": "27 Oct 2025 22:20:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WILGABAR NORTH 15615 CASTLEREAGH HWY, WALGETT 2832",
+    "council_area": "Walgett",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Oct 2025 22:20"
   }
 ]
