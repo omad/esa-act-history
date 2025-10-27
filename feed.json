@@ -65,13 +65,13 @@
     "longitude": "149.134893",
     "region": "act",
     "time_of_call": "28 Oct 2025 08:38:01",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "28 Oct 2025 09:26:33"
+    "updated": "28 Oct 2025 09:46:02"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "28 Oct 2025 09:04:36"
+    "updated": "28 Oct 2025 09:43:51"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "28 Oct 2025 09:29:18"
+    "updated": "28 Oct 2025 09:39:38"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,13 @@
     "longitude": "149.129625",
     "region": "act",
     "time_of_call": "28 Oct 2025 09:09:18",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "28 Oct 2025 09:36:17"
+    "updated": "28 Oct 2025 09:38:48"
   },
   {
     "agency": "Ambulance",
@@ -227,13 +227,49 @@
     "longitude": "149.101598",
     "region": "act",
     "time_of_call": "28 Oct 2025 09:32:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "28 Oct 2025 09:36:47"
+    "updated": "28 Oct 2025 09:46:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "071794-28102025",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "28 Oct 2025 09:41:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "28 Oct 2025 09:44:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "071795-28102025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "28 Oct 2025 09:48:41",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "28 Oct 2025 09:48:45"
   },
   {
     "title": "David Road HR",
@@ -696,28 +732,6 @@
     "updated": "27 Oct 2025 23:45"
   },
   {
-    "title": "Howes Road HR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626847",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.5077705379999",
-    "longitude": "150.811950684",
-    "region": "nsw",
-    "time_of_call": "28 Oct 2025 05:23:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "44 HOWES RD, EAST KURRAJONG 2758",
-    "council_area": "Hawkesbury",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "18 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Oct 2025 05:23"
-  },
-  {
     "title": "MORGANS TRL, BOOROOK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626853",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -898,7 +912,7 @@
     "latitude": "-31.246488572",
     "longitude": "152.745986938",
     "region": "nsw",
-    "time_of_call": "27 Oct 2025 16:14:00",
+    "time_of_call": "28 Oct 2025 09:36:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -913,7 +927,7 @@
     "fire": "Yes",
     "size": "43 ha",
     "responsible_agency": "Forestry Corporation of NSW",
-    "updated": "27 Oct 2025 16:14"
+    "updated": "28 Oct 2025 09:36"
   },
   {
     "title": "HAWKESBURY RIVER, BAR POINT",
@@ -1559,31 +1573,6 @@
     "updated": "28 Oct 2025 09:28"
   },
   {
-    "title": "GWYDIR HWY, RAMORNIE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627249",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.6291084289999",
-    "longitude": "152.757461547",
-    "region": "nsw",
-    "time_of_call": "27 Oct 2025 16:34:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "GWYDIR HWY, RAMORNIE 2460",
-    "council_area": "Clarence Valley",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 16:34"
-  },
-  {
     "title": "JAMES GIBSON RD, CLUNES",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627253",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1848,28 +1837,6 @@
     "updated": "28 Oct 2025 07:50"
   },
   {
-    "title": "PACIFIC HWY, SOUTH KEMPSEY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627355",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.1082706459999",
-    "longitude": "152.842391968",
-    "region": "nsw",
-    "time_of_call": "28 Oct 2025 09:00:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, SOUTH KEMPSEY 2440",
-    "council_area": "Kempsey",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "28 Oct 2025 09:00"
-  },
-  {
     "title": "EURIMBLA RD, CUNDUMBUL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627356",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1888,5 +1855,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Oct 2025 09:13"
+  },
+  {
+    "title": "TWEED VALLEY WAY, STOTTS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627357",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.273597717",
+    "longitude": "153.50793457",
+    "region": "nsw",
+    "time_of_call": "28 Oct 2025 09:33:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "TWEED VALLEY WAY, STOTTS CREEK 2487",
+    "council_area": "Tweed",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Oct 2025 09:33"
   }
 ]
