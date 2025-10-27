@@ -143,25 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "28 Oct 2025 01:09:28"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HUGHES",
-    "id": "071752-28102025",
-    "latitude": "-35.333105",
-    "longitude": "149.094654",
-    "region": "act",
-    "time_of_call": "28 Oct 2025 00:42:46",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HUGHES",
-    "updated": "28 Oct 2025 00:51:04"
+    "updated": "28 Oct 2025 01:33:47"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +155,13 @@
     "longitude": "149.099386",
     "region": "act",
     "time_of_call": "28 Oct 2025 01:02:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "28 Oct 2025 01:14:01"
+    "updated": "28 Oct 2025 01:47:18"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +179,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "28 Oct 2025 01:22:48"
+    "updated": "28 Oct 2025 01:48:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "071755-28102025",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "28 Oct 2025 01:28:05",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HARRISON",
+    "updated": "28 Oct 2025 01:43:59"
   },
   {
     "title": "David Road HR",
@@ -658,28 +658,6 @@
     "size": "7 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Oct 2025 10:44"
-  },
-  {
-    "title": "Sullivans HR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_626837",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.56775856",
-    "longitude": "152.946746826",
-    "region": "nsw",
-    "time_of_call": "26 Oct 2025 19:27:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "SULLIVANS RD, VALLA 2448",
-    "council_area": "Nambucca Valley",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "12 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Oct 2025 19:27"
   },
   {
     "title": "LACKERSTEENS RD, SOMERSBY",
@@ -1905,28 +1883,6 @@
     "updated": "27 Oct 2025 23:11"
   },
   {
-    "title": "(PACIFIC MTWY), OURIMBAH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627325",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.3455619809999",
-    "longitude": "151.368026733",
-    "region": "nsw",
-    "time_of_call": "27 Oct 2025 23:34:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "M1 (PACIFIC MTWY), OURIMBAH 2258",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Oct 2025 23:34"
-  },
-  {
     "title": "PARADISE BEACH RD, SANCTUARY POINT",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627333",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1934,9 +1890,9 @@
     "latitude": "-35.105113983",
     "longitude": "150.625427246",
     "region": "nsw",
-    "time_of_call": "28 Oct 2025 01:19:00",
+    "time_of_call": "28 Oct 2025 01:42:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "6-8 PARADISE BEACH RD, SANCTUARY POINT 2540",
     "council_area": "Shoalhaven",
@@ -1946,6 +1902,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Oct 2025 01:19"
+    "updated": "28 Oct 2025 01:42"
+  },
+  {
+    "title": "THOMPSON ST, ILUKA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627334",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.414213181",
+    "longitude": "153.356460572",
+    "region": "nsw",
+    "time_of_call": "28 Oct 2025 01:39:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "THOMPSON ST, ILUKA 2466",
+    "council_area": "Clarence Valley",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Oct 2025 01:39"
   }
 ]
