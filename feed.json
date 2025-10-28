@@ -97,24 +97,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GRIFFITH",
-    "id": "071959-28102025",
-    "latitude": "-35.325773",
-    "longitude": "149.133842",
-    "region": "act",
-    "time_of_call": "28 Oct 2025 23:30:34",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GRIFFITH",
-    "updated": "29 Oct 2025 00:39:32"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CURTIN",
     "id": "071960-29102025",
     "latitude": "-35.326585",
@@ -163,7 +145,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "29 Oct 2025 00:43:04"
+    "updated": "29 Oct 2025 01:45:35"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +163,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "29 Oct 2025 01:17:25"
+    "updated": "29 Oct 2025 01:48:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "071968-29102025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "29 Oct 2025 01:31:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "29 Oct 2025 01:47:16"
   },
   {
     "title": "Marara",
@@ -906,5 +906,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 Oct 2025 00:56"
+  },
+  {
+    "title": "HIGH ST, HILLSTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627424",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4848747249999",
+    "longitude": "145.533416749",
+    "region": "nsw",
+    "time_of_call": "29 Oct 2025 01:42:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "154 HIGH ST, HILLSTON 2675",
+    "council_area": "Carrathool",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "29 Oct 2025 01:42"
   }
 ]
