@@ -127,25 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "28 Oct 2025 22:13:59"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "071945-28102025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "28 Oct 2025 21:10:47",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "28 Oct 2025 22:02:06"
+    "updated": "28 Oct 2025 22:47:47"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +181,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "28 Oct 2025 22:27:04"
+    "updated": "28 Oct 2025 22:38:44"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +199,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "28 Oct 2025 22:18:27"
+    "updated": "28 Oct 2025 22:35:40"
   },
   {
     "agency": "Ambulance",
@@ -236,6 +218,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
     "updated": "28 Oct 2025 22:27:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "071954-28102025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "28 Oct 2025 22:40:20",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "28 Oct 2025 22:46:16"
   },
   {
     "title": "Marara",
@@ -1029,5 +1029,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Oct 2025 21:31"
+  },
+  {
+    "title": "WOMBAT RD, KINGSVALE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627417",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.525871277",
+    "longitude": "148.313034057",
+    "region": "nsw",
+    "time_of_call": "28 Oct 2025 22:40:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "WOMBAT RD, KINGSVALE 2587",
+    "council_area": "Hilltops",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Oct 2025 22:40"
+  },
+  {
+    "title": "WATTLE ST, FISHERMANS PARADISE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_627418",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.2282676689999",
+    "longitude": "150.446792603",
+    "region": "nsw",
+    "time_of_call": "28 Oct 2025 22:46:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "7 WATTLE ST, FISHERMANS PARADISE 2539",
+    "council_area": "Shoalhaven",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Oct 2025 22:46"
   }
 ]
