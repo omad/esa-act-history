@@ -77,24 +77,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WRIGHT",
-    "id": "072145-29102025",
-    "latitude": "-35.323404",
-    "longitude": "149.036274",
-    "region": "act",
-    "time_of_call": "29 Oct 2025 20:51:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WRIGHT",
-    "updated": "29 Oct 2025 22:07:09"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CITY",
     "id": "072146-29102025",
     "latitude": "-35.282068",
@@ -113,37 +95,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PAGE",
-    "id": "072147-29102025",
-    "latitude": "-35.238051",
-    "longitude": "149.050138",
-    "region": "act",
-    "time_of_call": "29 Oct 2025 20:55:27",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "29 Oct 2025 21:52:43"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DUFFY",
     "id": "072148-29102025",
     "latitude": "-35.336273",
     "longitude": "149.031217",
     "region": "act",
     "time_of_call": "29 Oct 2025 21:00:22",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "29 Oct 2025 21:49:04"
+    "updated": "29 Oct 2025 22:29:32"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +215,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "29 Oct 2025 22:01:54"
+    "updated": "29 Oct 2025 22:32:22"
   },
   {
     "agency": "Ambulance",
@@ -269,7 +233,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "29 Oct 2025 22:20:56"
+    "updated": "29 Oct 2025 22:32:15"
   },
   {
     "agency": "Ambulance",
@@ -287,7 +251,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "29 Oct 2025 21:54:50"
+    "updated": "29 Oct 2025 22:23:27"
   },
   {
     "agency": "Ambulance",
@@ -360,6 +324,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
     "updated": "29 Oct 2025 22:19:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "072168-29102025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "29 Oct 2025 22:23:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "29 Oct 2025 22:28:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHARNWOOD",
+    "id": "072171-29102025",
+    "latitude": "-35.200338",
+    "longitude": "149.036735",
+    "region": "act",
+    "time_of_call": "29 Oct 2025 22:30:42",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHARNWOOD",
+    "updated": "29 Oct 2025 22:32:30"
   },
   {
     "title": "CULLENDORE COMPLEX",
@@ -803,30 +803,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 Oct 2025 22:15"
-  },
-  {
-    "title": "WALLGROVE RD, EASTERN CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628485",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.8057136529999",
-    "longitude": "150.851669312",
-    "region": "nsw",
-    "time_of_call": "29 Oct 2025 22:14:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "WALLGROVE RD, EASTERN CREEK 2766",
-    "council_area": "Blacktown",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "29 Oct 2025 22:14"
   }
 ]
