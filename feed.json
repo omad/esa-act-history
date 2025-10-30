@@ -91,7 +91,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "31 Oct 2025 03:04:11"
+    "updated": "31 Oct 2025 03:40:25"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "31 Oct 2025 02:51:47"
+    "updated": "31 Oct 2025 03:41:59"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "31 Oct 2025 03:20:36"
+    "updated": "31 Oct 2025 03:53:47"
   },
   {
     "agency": "Ambulance",
@@ -175,13 +175,13 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "31 Oct 2025 02:59:03",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "31 Oct 2025 03:12:38"
+    "updated": "31 Oct 2025 03:45:18"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "31 Oct 2025 03:28:36"
+    "updated": "31 Oct 2025 03:35:40"
   },
   {
     "agency": "Ambulance",
@@ -211,13 +211,49 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "31 Oct 2025 03:07:34",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONCRIEFF",
+    "updated": "31 Oct 2025 03:52:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
+    "id": "072396-31102025",
+    "latitude": "-35.333366",
+    "longitude": "149.146674",
+    "region": "act",
+    "time_of_call": "31 Oct 2025 03:41:11",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "MONCRIEFF",
-    "updated": "31 Oct 2025 03:11:01"
+    "location": "NARRABUNDAH",
+    "updated": "31 Oct 2025 03:49:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "072398-31102025",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "31 Oct 2025 03:43:26",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "31 Oct 2025 03:46:35"
   },
   {
     "title": "CULLENDORE COMPLEX",
@@ -490,9 +526,9 @@
     "latitude": "-28.9874057759999",
     "longitude": "151.951797485",
     "region": "nsw",
-    "time_of_call": "31 Oct 2025 03:17:00",
+    "time_of_call": "31 Oct 2025 03:35:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "NEW ENGLAND HWY, TENTERFIELD 2372",
     "council_area": "Tenterfield",
@@ -502,7 +538,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Oct 2025 03:17"
+    "updated": "31 Oct 2025 03:35"
   },
   {
     "title": "BOURKE ST, GIRILAMBONE",
@@ -527,23 +563,25 @@
     "updated": "31 Oct 2025 03:28"
   },
   {
-    "title": "WOOTTON WAY, WOOTTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628564",
+    "title": "SANDY CREEK RD, QUORROBOLONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628566",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.2721137999999",
-    "longitude": "152.321914673",
+    "latitude": "-32.9221343999999",
+    "longitude": "151.362991333",
     "region": "nsw",
-    "time_of_call": "31 Oct 2025 02:56:00",
+    "time_of_call": "31 Oct 2025 03:38:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "WOOTTON WAY, WOOTTON 2423",
-    "council_area": "Mid-Coast",
-    "type": "Car Fire",
+    "location": "SANDY CREEK RD, QUORROBOLONG 2325",
+    "council_area": "Cessnock",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Oct 2025 02:56"
+    "updated": "31 Oct 2025 03:38"
   }
 ]
