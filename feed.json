@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "31 Oct 2025 02:08:52"
+    "updated": "31 Oct 2025 02:33:20"
   },
   {
     "agency": "Ambulance",
@@ -103,13 +103,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "31 Oct 2025 02:01:24",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "31 Oct 2025 02:20:35"
+    "updated": "31 Oct 2025 02:39:06"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FRASER",
-    "updated": "31 Oct 2025 02:29:44"
+    "updated": "31 Oct 2025 02:32:40"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +139,85 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "31 Oct 2025 02:24:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "31 Oct 2025 02:27:53"
+    "updated": "31 Oct 2025 02:36:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "072385-31102025",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "31 Oct 2025 02:36:59",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONNER",
+    "updated": "31 Oct 2025 02:41:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FISHER",
+    "id": "072387-31102025",
+    "latitude": "-35.360481",
+    "longitude": "149.058056",
+    "region": "act",
+    "time_of_call": "31 Oct 2025 02:42:32",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FISHER",
+    "updated": "31 Oct 2025 02:47:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "072388-31102025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "31 Oct 2025 02:45:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "31 Oct 2025 02:49:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "072389-31102025",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "31 Oct 2025 02:49:13",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "31 Oct 2025 02:50:34"
   },
   {
     "title": "CULLENDORE COMPLEX",
@@ -453,25 +525,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "31 Oct 2025 01:03"
-  },
-  {
-    "title": "DERWENT RD, BRINGELLY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628563",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.923152924",
-    "longitude": "150.719924927",
-    "region": "nsw",
-    "time_of_call": "31 Oct 2025 02:24:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "DERWENT RD, BRINGELLY 2556",
-    "council_area": "Liverpool",
-    "type": "Truck Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 Oct 2025 02:24"
   }
 ]
