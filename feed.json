@@ -23,24 +23,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRUCE",
-    "id": "072369-30102025",
-    "latitude": "-35.242777",
-    "longitude": "149.096998",
-    "region": "act",
-    "time_of_call": "30 Oct 2025 23:09:14",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BRUCE",
-    "updated": "31 Oct 2025 00:50:41"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GORDON",
     "id": "072370-30102025",
     "latitude": "-35.459685",
@@ -53,25 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "31 Oct 2025 00:34:54"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "072371-30102025",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "30 Oct 2025 23:58:11",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "31 Oct 2025 00:50:04"
+    "updated": "31 Oct 2025 00:53:37"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "31 Oct 2025 00:28:45"
+    "updated": "31 Oct 2025 01:17:06"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "31 Oct 2025 00:43:05"
+    "updated": "31 Oct 2025 01:16:46"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +101,31 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "31 Oct 2025 00:38:53",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "31 Oct 2025 00:45:30"
+    "updated": "31 Oct 2025 01:18:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NICHOLLS",
+    "id": "072378-31102025",
+    "latitude": "-35.186387",
+    "longitude": "149.094445",
+    "region": "act",
+    "time_of_call": "31 Oct 2025 01:14:03",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NICHOLLS",
+    "updated": "31 Oct 2025 01:19:13"
   },
   {
     "title": "CULLENDORE COMPLEX",
@@ -429,5 +411,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Oct 2025 21:47"
+  },
+  {
+    "title": "BOURKE ST, GIRILAMBONE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628562",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.2472629549999",
+    "longitude": "146.904495239",
+    "region": "nsw",
+    "time_of_call": "31 Oct 2025 01:03:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "20 BOURKE ST, GIRILAMBONE 2831",
+    "council_area": "Bogan",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "31 Oct 2025 01:03"
+  },
+  {
+    "title": "DERWENT RD, BRINGELLY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628563",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.923152924",
+    "longitude": "150.719924927",
+    "region": "nsw",
+    "time_of_call": "31 Oct 2025 01:11:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "DERWENT RD, BRINGELLY 2556",
+    "council_area": "Liverpool",
+    "type": "Truck Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "31 Oct 2025 01:11"
   }
 ]
