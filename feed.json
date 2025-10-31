@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "01 Nov 2025 08:17:46"
+    "updated": "01 Nov 2025 08:46:15"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +119,13 @@
     "longitude": "149.094654",
     "region": "act",
     "time_of_call": "01 Nov 2025 08:14:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "01 Nov 2025 08:24:31"
+    "updated": "01 Nov 2025 08:39:30"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "01 Nov 2025 08:28:35"
+    "updated": "01 Nov 2025 08:38:25"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,31 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "01 Nov 2025 08:26:33",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "01 Nov 2025 08:28:28"
+    "updated": "01 Nov 2025 08:39:41"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "072675-01112025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "01 Nov 2025 08:44:18",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "01 Nov 2025 08:46:41"
   },
   {
     "title": "CULLENDORE COMPLEX",
@@ -499,28 +517,6 @@
     "updated": "1 Nov 2025 06:54"
   },
   {
-    "title": "BURLEY GRIFFIN WAY, ARIAH PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628667",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.3554801939999",
-    "longitude": "147.179840088",
-    "region": "nsw",
-    "time_of_call": "01 Nov 2025 07:38:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BURLEY GRIFFIN WAY, ARIAH PARK 2665",
-    "council_area": "Temora",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Nov 2025 07:38"
-  },
-  {
     "title": "CANDELO-WOLUMLA RD, TOOTHDALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628669",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -605,5 +601,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Nov 2025 08:28"
+  },
+  {
+    "title": "WENTWORTH RD, ORCHARD HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628673",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.796520234",
+    "longitude": "150.718933105",
+    "region": "nsw",
+    "time_of_call": "01 Nov 2025 08:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WENTWORTH RD, ORCHARD HILLS 2748",
+    "council_area": "Penrith",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Nov 2025 08:39"
   }
 ]
