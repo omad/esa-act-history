@@ -23,42 +23,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FARRER",
-    "id": "072659-01112025",
-    "latitude": "-35.377331",
-    "longitude": "149.104586",
-    "region": "act",
-    "time_of_call": "01 Nov 2025 05:48:29",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FARRER",
-    "updated": "01 Nov 2025 06:59:35"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
-    "id": "072660-01112025",
-    "latitude": "-35.425091",
-    "longitude": "149.088064",
-    "region": "act",
-    "time_of_call": "01 Nov 2025 05:56:58",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "ISABELLA PLAINS",
-    "updated": "01 Nov 2025 06:51:09"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GARRAN",
     "id": "072661-01112025",
     "latitude": "-35.340821",
@@ -71,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "01 Nov 2025 07:39:48"
+    "updated": "01 Nov 2025 08:14:15"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "01 Nov 2025 07:30:51"
+    "updated": "01 Nov 2025 08:18:39"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +83,49 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "01 Nov 2025 07:39:07",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUNLOP",
+    "updated": "01 Nov 2025 08:17:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "072668-01112025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "01 Nov 2025 07:58:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "01 Nov 2025 08:08:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUGHES",
+    "id": "072670-01112025",
+    "latitude": "-35.333105",
+    "longitude": "149.094654",
+    "region": "act",
+    "time_of_call": "01 Nov 2025 08:14:58",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "DUNLOP",
-    "updated": "01 Nov 2025 07:44:12"
+    "location": "HUGHES",
+    "updated": "01 Nov 2025 08:20:49"
   },
   {
     "title": "CULLENDORE COMPLEX",
@@ -527,5 +527,25 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "1 Nov 2025 07:24"
+  },
+  {
+    "title": "OLD WARREN RD, NYNGAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628671",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.530136108",
+    "longitude": "147.334716797",
+    "region": "nsw",
+    "time_of_call": "01 Nov 2025 08:08:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "OLD WARREN RD, NYNGAN 2825",
+    "council_area": "Bogan",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Nov 2025 08:08"
   }
 ]
