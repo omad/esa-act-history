@@ -43,24 +43,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - YARRALUMLA",
-    "id": "072759-01112025",
-    "latitude": "-35.302333",
-    "longitude": "149.099934",
-    "region": "act",
-    "time_of_call": "01 Nov 2025 17:34:16",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "YARRALUMLA",
-    "updated": "01 Nov 2025 19:24:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DUNLOP",
     "id": "072766-01112025",
     "latitude": "-35.193951",
@@ -73,7 +55,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "01 Nov 2025 20:16:43"
+    "updated": "01 Nov 2025 20:37:17"
   },
   {
     "agency": "Ambulance",
@@ -133,24 +115,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "072775-01112025",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "01 Nov 2025 19:25:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "01 Nov 2025 20:19:19"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GREENWAY",
     "id": "072776-01112025",
     "latitude": "-35.411775",
@@ -163,7 +127,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "01 Nov 2025 19:38:11"
+    "updated": "01 Nov 2025 20:41:36"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "01 Nov 2025 20:13:53"
+    "updated": "01 Nov 2025 20:41:38"
   },
   {
     "agency": "Ambulance",
@@ -229,13 +193,13 @@
     "longitude": "149.046336",
     "region": "act",
     "time_of_call": "01 Nov 2025 20:32:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "01 Nov 2025 20:33:37"
+    "updated": "01 Nov 2025 20:39:33"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +211,49 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "01 Nov 2025 20:33:41",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "01 Nov 2025 20:44:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "072785-01112025",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "01 Nov 2025 20:39:15",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "01 Nov 2025 20:44:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LATHAM",
+    "id": "072787-01112025",
+    "latitude": "-35.217781",
+    "longitude": "149.034875",
+    "region": "act",
+    "time_of_call": "01 Nov 2025 20:44:08",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "PAGE",
-    "updated": "01 Nov 2025 20:34:54"
+    "location": "LATHAM",
+    "updated": "01 Nov 2025 20:45:57"
   },
   {
     "title": "CULLENDORE COMPLEX",
@@ -551,28 +551,6 @@
     "updated": "1 Nov 2025 18:00"
   },
   {
-    "title": "MIMOSA STATION RD, MIMOSA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628680",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.572849273",
-    "longitude": "147.379806518",
-    "region": "nsw",
-    "time_of_call": "01 Nov 2025 20:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MIMOSA STATION RD, MIMOSA 2666",
-    "council_area": "Temora",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Nov 2025 20:07"
-  },
-  {
     "title": "Nattai Street, Couridjah",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628684",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -649,9 +627,9 @@
     "latitude": "-34.2686424259999",
     "longitude": "144.098342896",
     "region": "nsw",
-    "time_of_call": "01 Nov 2025 18:56:00",
+    "time_of_call": "01 Nov 2025 20:28:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "TOOPUNTUL RD, MAUDE 2711",
     "council_area": "Hay",
@@ -659,9 +637,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "28 ha",
+    "size": "4 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Nov 2025 18:56"
+    "updated": "1 Nov 2025 20:28"
   },
   {
     "title": "UMBARRA RD, AKOLELE",
