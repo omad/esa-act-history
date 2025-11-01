@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "KIRKCALDIE CIRCUIT, CHISHOLM, 2905",
-    "updated": "01 Nov 2025 18:21:33"
+    "updated": "01 Nov 2025 18:24:30"
   },
   {
     "agency": "Fire",
@@ -79,42 +79,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WARAMANGA",
-    "id": "072748-01112025",
-    "latitude": "-35.353501",
-    "longitude": "149.06067",
-    "region": "act",
-    "time_of_call": "01 Nov 2025 16:27:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WARAMANGA",
-    "updated": "01 Nov 2025 17:55:55"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GOWRIE",
-    "id": "072751-01112025",
-    "latitude": "-35.411365",
-    "longitude": "149.110257",
-    "region": "act",
-    "time_of_call": "01 Nov 2025 16:47:38",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GOWRIE",
-    "updated": "01 Nov 2025 17:39:48"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CITY",
     "id": "072753-01112025",
     "latitude": "-35.282068",
@@ -163,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "01 Nov 2025 17:42:01"
+    "updated": "01 Nov 2025 18:24:15"
   },
   {
     "agency": "Ambulance",
@@ -247,13 +211,13 @@
     "longitude": "149.100249",
     "region": "act",
     "time_of_call": "01 Nov 2025 17:54:42",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "01 Nov 2025 18:07:48"
+    "updated": "01 Nov 2025 18:24:12"
   },
   {
     "agency": "Ambulance",
@@ -265,13 +229,49 @@
     "longitude": "149.134893",
     "region": "act",
     "time_of_call": "01 Nov 2025 18:01:55",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GILMORE",
+    "updated": "01 Nov 2025 18:27:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUNLOP",
+    "id": "072766-01112025",
+    "latitude": "-35.193951",
+    "longitude": "149.019471",
+    "region": "act",
+    "time_of_call": "01 Nov 2025 18:24:12",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "GILMORE",
-    "updated": "01 Nov 2025 18:05:41"
+    "location": "DUNLOP",
+    "updated": "01 Nov 2025 18:28:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FADDEN",
+    "id": "072767-01112025",
+    "latitude": "-35.402396",
+    "longitude": "149.118589",
+    "region": "act",
+    "time_of_call": "01 Nov 2025 18:30:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FADDEN",
+    "updated": "01 Nov 2025 18:30:48"
   },
   {
     "title": "CULLENDORE COMPLEX",
@@ -667,7 +667,7 @@
     "latitude": "-34.267880518",
     "longitude": "144.098424915",
     "region": "nsw",
-    "time_of_call": "01 Nov 2025 18:17:00",
+    "time_of_call": "01 Nov 2025 18:23:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "alert_level": "Not Applicable",
@@ -677,9 +677,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Nov 2025 18:17"
+    "updated": "1 Nov 2025 18:23"
   },
   {
     "title": "TUGALONG RD, CANYONLEIGH",
@@ -753,9 +753,9 @@
     "latitude": "-29.6983184819999",
     "longitude": "152.959609986",
     "region": "nsw",
-    "time_of_call": "01 Nov 2025 18:12:00",
+    "time_of_call": "01 Nov 2025 18:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BIG RIVER WAY, CLARENZA 2460",
     "council_area": "Clarence Valley",
@@ -763,7 +763,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Nov 2025 18:12"
+    "updated": "1 Nov 2025 18:21"
   },
   {
     "title": "LAWRENCE RD, SOUTHGATE",
