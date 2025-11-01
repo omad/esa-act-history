@@ -20,22 +20,24 @@
     "updated": "02 Nov 2025 00:16:56"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CONDER",
-    "id": "072800-01112025",
-    "latitude": "-35.458351",
-    "longitude": "149.106348",
+    "title": "MOTOR VEHICLE ACCIDENT - BELCONNEN",
+    "id": "016561-02112025",
+    "latitude": "-35.1892929077",
+    "longitude": "149.055480957",
     "region": "act",
-    "time_of_call": "01 Nov 2025 22:29:28",
+    "time_of_call": "02 Nov 2025 00:33:35",
     "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CONDER",
-    "updated": "01 Nov 2025 23:27:20"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "KURINGA DRIVE, TILLYARD DRIVE, FRASER, 2615",
+    "updated": "02 Nov 2025 00:48:34"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +73,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "01 Nov 2025 23:55:51"
+    "updated": "02 Nov 2025 00:29:25"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "02 Nov 2025 00:14:39"
+    "updated": "02 Nov 2025 00:44:36"
   },
   {
     "agency": "Ambulance",
@@ -101,15 +103,15 @@
     "longitude": "149.13888",
     "region": "act",
     "time_of_call": "01 Nov 2025 23:58:36",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "",
     "location": "SANDFORD STREET, KEMBLE COURT, MITCHELL, 2911",
-    "updated": "02 Nov 2025 00:09:21"
+    "updated": "02 Nov 2025 00:43:47"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +183,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "02 Nov 2025 00:27:29"
+    "updated": "02 Nov 2025 00:28:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "072820-02112025",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "02 Nov 2025 00:46:30",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "02 Nov 2025 00:47:17"
   },
   {
     "title": "CULLENDORE COMPLEX",
@@ -570,50 +590,23 @@
     "updated": "1 Nov 2025 21:13"
   },
   {
-    "title": "WOODBRIDGE RD, MENANGLE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628735",
+    "title": "HEATHCOTE RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628737",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.127254486",
-    "longitude": "150.738433837",
+    "latitude": "-34.0395126349999",
+    "longitude": "150.959716797",
     "region": "nsw",
-    "time_of_call": "01 Nov 2025 23:49:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WOODBRIDGE RD, MENANGLE 2568",
-    "council_area": "Wollondilly",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Nov 2025 23:49"
-  },
-  {
-    "title": "Junction Rd, Shellharbour",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628736",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.571941",
-    "longitude": "150.867203",
-    "region": "nsw",
-    "time_of_call": "02 Nov 2025 00:25:00",
+    "time_of_call": "02 Nov 2025 00:45:00",
     "event_type": "burnt area",
     "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "115 Junction Rd, Shellharbour, NSW 2529",
-    "council_area": "Shellharbour",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "alert_level": "Not Applicable",
+    "location": "MARCONI CLAY TARGET CLUB HEATHCOTE RD, LUCAS HEIGHTS 2234",
+    "council_area": "Sutherland",
+    "type": "Car Fire",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "2 Nov 2025 00:25"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Nov 2025 00:45"
   }
 ]
