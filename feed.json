@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "SANDFORD STREET, KEMBLE COURT, MITCHELL, 2911",
-    "updated": "02 Nov 2025 04:16:56"
+    "updated": "02 Nov 2025 04:27:01"
   },
   {
     "agency": "Ambulance",
@@ -47,13 +47,13 @@
     "longitude": "149.046603",
     "region": "act",
     "time_of_call": "01 Nov 2025 23:14:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "02 Nov 2025 04:14:17"
+    "updated": "02 Nov 2025 04:29:53"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "02 Nov 2025 04:15:15"
+    "updated": "02 Nov 2025 04:23:00"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "02 Nov 2025 04:03:55"
+    "updated": "02 Nov 2025 04:28:04"
   },
   {
     "title": "CULLENDORE COMPLEX",
@@ -568,26 +568,6 @@
     "updated": "1 Nov 2025 21:13"
   },
   {
-    "title": "PACIFIC HWY, NERONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628747",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.587219239",
-    "longitude": "152.127182006",
-    "region": "nsw",
-    "time_of_call": "02 Nov 2025 04:13:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, NERONG 2423",
-    "council_area": "Mid-Coast",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Nov 2025 04:13"
-  },
-  {
     "title": "MINORE ROAD, DUBBO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628748",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -628,5 +608,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Nov 2025 04:16"
+  },
+  {
+    "title": "Connorton Av, Ashmont",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628750",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.1241209999999",
+    "longitude": "147.329089",
+    "region": "nsw",
+    "time_of_call": "02 Nov 2025 04:21:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "32 /Connorton Av, Ashmont, NSW 2650",
+    "council_area": "Wagga Wagga",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "2 Nov 2025 04:21"
   }
 ]
