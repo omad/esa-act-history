@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
-    "updated": "03 Nov 2025 00:12:26"
+    "updated": "03 Nov 2025 00:35:34"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "02 Nov 2025 23:58:01",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "03 Nov 2025 00:02:01"
+    "updated": "03 Nov 2025 00:39:59"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,49 @@
     "longitude": "149.110562",
     "region": "act",
     "time_of_call": "03 Nov 2025 00:20:31",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CRACE",
+    "updated": "03 Nov 2025 00:34:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "073051-03112025",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "03 Nov 2025 00:33:01",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "03 Nov 2025 00:48:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "073054-03112025",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "03 Nov 2025 00:47:08",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "CRACE",
-    "updated": "03 Nov 2025 00:26:07"
+    "location": "CHISHOLM",
+    "updated": "03 Nov 2025 00:48:19"
   },
   {
     "title": "CULLENDORE COMPLEX",
@@ -528,7 +564,7 @@
     "latitude": "-33.630001068",
     "longitude": "147.594589234",
     "region": "nsw",
-    "time_of_call": "02 Nov 2025 23:10:00",
+    "time_of_call": "03 Nov 2025 00:44:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -540,7 +576,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Nov 2025 23:10"
+    "updated": "3 Nov 2025 00:44"
   },
   {
     "title": "BRIESES RD, PEATS RIDGE",
@@ -550,7 +586,7 @@
     "latitude": "-33.377777099",
     "longitude": "151.232543946",
     "region": "nsw",
-    "time_of_call": "03 Nov 2025 00:13:00",
+    "time_of_call": "03 Nov 2025 00:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -560,7 +596,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Nov 2025 00:13"
+    "updated": "3 Nov 2025 00:42"
   },
   {
     "title": "BUCKLEYS RD, DUNMORE",
@@ -585,51 +621,6 @@
     "updated": "3 Nov 2025 00:13"
   },
   {
-    "title": "BOGGABILLA ST, BOGGABILLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628844",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.609447479",
-    "longitude": "150.361724854",
-    "region": "nsw",
-    "time_of_call": "03 Nov 2025 00:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "BOGGABILLA ST, BOGGABILLA 2409",
-    "council_area": "Moree Plains",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Nov 2025 00:12"
-  },
-  {
-    "title": "WISEMANS FERRY RD, SOMERSBY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628845",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.323413849",
-    "longitude": "151.267684936",
-    "region": "nsw",
-    "time_of_call": "03 Nov 2025 00:19:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "1345 WISEMANS FERRY RD, SOMERSBY 2250",
-    "council_area": "Central Coast",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Nov 2025 00:19"
-  },
-  {
     "title": "PIMLICO RD, PIMLICO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628846",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -637,9 +628,9 @@
     "latitude": "-28.866615295",
     "longitude": "153.49710083",
     "region": "nsw",
-    "time_of_call": "03 Nov 2025 00:03:00",
+    "time_of_call": "03 Nov 2025 00:41:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "PIMLICO RD, PIMLICO 2478",
     "council_area": "Ballina",
@@ -647,6 +638,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Nov 2025 00:03"
+    "updated": "3 Nov 2025 00:41"
+  },
+  {
+    "title": "CHIFLEY RD, VALE OF CLWYDD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628847",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.4858245849999",
+    "longitude": "150.189575195",
+    "region": "nsw",
+    "time_of_call": "03 Nov 2025 00:43:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CHIFLEY RD, VALE OF CLWYDD 2790",
+    "council_area": "Lithgow",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Nov 2025 00:43"
   }
 ]
