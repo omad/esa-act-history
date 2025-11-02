@@ -1,5 +1,45 @@
 [
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - FLOREY",
+    "id": "016607-03112025",
+    "latitude": "-35.227074",
+    "longitude": "149.055089",
+    "region": "act",
+    "time_of_call": "03 Nov 2025 06:23:51",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
+    "location": "RATCLIFFE CRESCENT, CONNAH STREET, FLOREY, 2615",
+    "updated": "03 Nov 2025 06:28:24"
+  },
+  {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - JERRABOMBERRA",
+    "id": "016608-03112025",
+    "latitude": "-35.3449",
+    "longitude": "149.19972",
+    "region": "act",
+    "time_of_call": "03 Nov 2025 06:24:22",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "HMAS HARMAN, YERRALEE ROAD, JERRABOMBERRA, 2600",
+    "updated": "03 Nov 2025 06:27:36"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -141,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "03 Nov 2025 06:17:32"
+    "updated": "03 Nov 2025 06:21:46"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +235,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "03 Nov 2025 06:16:13"
+    "updated": "03 Nov 2025 06:21:01"
   },
   {
     "agency": "Ambulance",
@@ -207,13 +247,51 @@
     "longitude": "149.161141",
     "region": "act",
     "time_of_call": "03 Nov 2025 06:17:51",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THROSBY",
+    "updated": "03 Nov 2025 06:28:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - FLOREY",
+    "id": "073081-03112025",
+    "latitude": "-35.227074",
+    "longitude": "149.055089",
+    "region": "act",
+    "time_of_call": "03 Nov 2025 06:23:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "",
+    "location": "RATCLIFFE CRESCENT, CONNAH STREET, FLOREY, 2615",
+    "updated": "03 Nov 2025 06:26:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "073083-03112025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "03 Nov 2025 06:28:48",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "THROSBY",
-    "updated": "03 Nov 2025 06:17:54"
+    "location": "WANNIASSA",
+    "updated": "03 Nov 2025 06:28:50"
   },
   {
     "title": "CULLENDORE COMPLEX",
@@ -671,5 +749,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Nov 2025 06:06"
+  },
+  {
+    "title": "NEW ENGLAND HWY, LOWER BELFORD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628859",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.6554374689999",
+    "longitude": "151.320846558",
+    "region": "nsw",
+    "time_of_call": "03 Nov 2025 06:19:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "NEW ENGLAND HWY, LOWER BELFORD 2335",
+    "council_area": "Singleton",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Nov 2025 06:19"
   }
 ]
