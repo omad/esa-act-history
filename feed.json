@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "05 Nov 2025 01:15:36"
+    "updated": "05 Nov 2025 01:47:43"
   },
   {
     "agency": "Ambulance",
@@ -45,13 +45,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "04 Nov 2025 23:21:57",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "05 Nov 2025 01:24:24"
+    "updated": "05 Nov 2025 01:31:51"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "05 Nov 2025 01:27:18"
+    "updated": "05 Nov 2025 01:42:04"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHIFLEY",
-    "updated": "05 Nov 2025 01:26:19"
+    "updated": "05 Nov 2025 01:48:41"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +177,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "05 Nov 2025 01:12:03"
+    "updated": "05 Nov 2025 01:47:03"
   },
   {
     "agency": "Ambulance",
@@ -225,13 +225,85 @@
     "longitude": "149.031217",
     "region": "act",
     "time_of_call": "05 Nov 2025 01:28:42",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUFFY",
+    "updated": "05 Nov 2025 01:44:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RICHARDSON",
+    "id": "073552-05112025",
+    "latitude": "-35.428715",
+    "longitude": "149.111133",
+    "region": "act",
+    "time_of_call": "05 Nov 2025 01:36:40",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RICHARDSON",
+    "updated": "05 Nov 2025 01:49:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "073553-05112025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "05 Nov 2025 01:39:11",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "05 Nov 2025 01:52:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "073554-05112025",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "05 Nov 2025 01:44:29",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "DUFFY",
-    "updated": "05 Nov 2025 01:28:44"
+    "location": "WESTON",
+    "updated": "05 Nov 2025 01:51:03"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FISHER",
+    "id": "073555-05112025",
+    "latitude": "-35.360481",
+    "longitude": "149.058056",
+    "region": "act",
+    "time_of_call": "05 Nov 2025 01:48:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FISHER",
+    "updated": "05 Nov 2025 01:51:38"
   },
   {
     "title": "ROSS CORNER MENINDEE",
@@ -547,23 +619,25 @@
     "updated": "5 Nov 2025 00:52"
   },
   {
-    "title": "SIBLEY ST, NIMBIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629033",
+    "title": "HIGH ST, TORONTO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629038",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-28.5937633519999",
-    "longitude": "153.226257324",
+    "latitude": "-33.002532958",
+    "longitude": "151.573425293",
     "region": "nsw",
-    "time_of_call": "04 Nov 2025 23:48:00",
+    "time_of_call": "05 Nov 2025 01:42:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "SIBLEY ST, NIMBIN 2480",
-    "council_area": "Lismore",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
+    "location": "HIGH ST, TORONTO 2283",
+    "council_area": "Lake Macquarie",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Nov 2025 23:48"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "5 Nov 2025 01:42"
   }
 ]
