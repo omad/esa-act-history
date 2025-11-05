@@ -1,21 +1,23 @@
 [
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "073721-05112025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
+    "title": "RUBBISH FIRE - BELCONNEN",
+    "id": "016746-05112025",
+    "latitude": "-35.2111663818",
+    "longitude": "149.0847015381",
     "region": "act",
-    "time_of_call": "05 Nov 2025 18:14:10",
-    "status": "Resource Allocation Pending",
+    "time_of_call": "05 Nov 2025 22:28:21",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "05 Nov 2025 22:08:15"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "RUBBISH FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_7.svg",
+    "location": "OWEN DIXON DRIVE, WALKLEY PLACE, MCKELLAR, 2617",
+    "updated": "05 Nov 2025 22:32:30"
   },
   {
     "agency": "Ambulance",
@@ -231,43 +233,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "05 Nov 2025 21:33:28"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CALWELL",
-    "id": "073767-05112025",
-    "latitude": "-35.441132",
-    "longitude": "149.107648",
-    "region": "act",
-    "time_of_call": "05 Nov 2025 21:21:31",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CALWELL",
-    "updated": "05 Nov 2025 21:58:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TAYLOR",
-    "id": "073770-05112025",
-    "latitude": "-35.147416",
-    "longitude": "149.105924",
-    "region": "act",
-    "time_of_call": "05 Nov 2025 21:28:13",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TAYLOR",
-    "updated": "05 Nov 2025 21:31:46"
+    "updated": "05 Nov 2025 22:33:35"
   },
   {
     "agency": "Ambulance",
@@ -285,7 +251,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FYSHWICK",
-    "updated": "05 Nov 2025 22:21:09"
+    "updated": "05 Nov 2025 22:28:19"
   },
   {
     "agency": "Ambulance",
@@ -375,7 +341,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "05 Nov 2025 22:22:54"
+    "updated": "05 Nov 2025 22:24:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONYTHON",
+    "id": "073784-05112025",
+    "latitude": "-35.435736",
+    "longitude": "149.081053",
+    "region": "act",
+    "time_of_call": "05 Nov 2025 22:29:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONYTHON",
+    "updated": "05 Nov 2025 22:34:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "073785-05112025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "05 Nov 2025 22:31:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "05 Nov 2025 22:33:25"
   },
   {
     "title": "ROSS CORNER MENINDEE",
@@ -726,7 +728,7 @@
     "latitude": "-32.363285064",
     "longitude": "152.39642334",
     "region": "nsw",
-    "time_of_call": "05 Nov 2025 18:18:00",
+    "time_of_call": "05 Nov 2025 22:24:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -739,9 +741,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "7 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Nov 2025 18:18"
+    "updated": "5 Nov 2025 22:24"
   },
   {
     "title": "RIVERTREE RD, UNDERCLIFFE",
@@ -839,26 +841,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Nov 2025 18:54"
-  },
-  {
-    "title": "STATION ST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629118",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.7690010069999",
-    "longitude": "150.618774414",
-    "region": "nsw",
-    "time_of_call": "05 Nov 2025 19:06:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "DOUGLAS SMITH MEMORIAL PARK STATION ST, GLENBROOK 2773",
-    "council_area": "Blue Mountains",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "NSW Police",
-    "updated": "5 Nov 2025 19:06"
   },
   {
     "title": "COOLBAGGIE FOREST RD, EUMUNGERIE",
@@ -965,5 +947,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Nov 2025 22:00"
+  },
+  {
+    "title": "COMBADELLO RD, MALLOWA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629142",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.609022141",
+    "longitude": "149.624755859",
+    "region": "nsw",
+    "time_of_call": "05 Nov 2025 22:25:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "COMBADELLO RD, MALLOWA 2400",
+    "council_area": "Moree Plains",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Nov 2025 22:25"
   }
 ]
