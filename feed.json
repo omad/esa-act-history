@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "06 Nov 2025 07:52:50"
+    "updated": "06 Nov 2025 08:34:27"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "06 Nov 2025 08:09:23"
+    "updated": "06 Nov 2025 08:28:37"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "06 Nov 2025 07:09:04",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "06 Nov 2025 07:23:50"
+    "updated": "06 Nov 2025 08:25:50"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +177,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "06 Nov 2025 08:11:48"
+    "updated": "06 Nov 2025 08:31:58"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +189,31 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "06 Nov 2025 08:02:24",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "06 Nov 2025 08:32:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "073864-06112025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "06 Nov 2025 08:25:09",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "KALEEN",
-    "updated": "06 Nov 2025 08:05:46"
+    "location": "BELCONNEN",
+    "updated": "06 Nov 2025 08:32:18"
   },
   {
     "title": "TOOPUNTUL RD, MAUDE",
@@ -727,25 +745,25 @@
     "updated": "6 Nov 2025 08:09"
   },
   {
-    "title": "THE NORTHERN RD, LUDDENHAM",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629162",
+    "title": "COBAR ST, NYNGAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629163",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.887844086",
-    "longitude": "150.688385009",
+    "latitude": "-31.5596847529999",
+    "longitude": "147.187774659",
     "region": "nsw",
-    "time_of_call": "06 Nov 2025 08:00:00",
+    "time_of_call": "06 Nov 2025 08:23:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "BLUE HILLS 2215 THE NORTHERN RD, LUDDENHAM 2745",
-    "council_area": "Liverpool",
-    "type": "MVA/Transport",
+    "location": "8 COBAR ST, NYNGAN 2825",
+    "council_area": "Bogan",
+    "type": "Structure Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Nov 2025 08:00"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "6 Nov 2025 08:23"
   }
 ]
