@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "06 Nov 2025 10:18:28"
+    "updated": "06 Nov 2025 10:38:08"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "06 Nov 2025 10:21:13"
+    "updated": "06 Nov 2025 10:37:37"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "06 Nov 2025 10:28:17"
+    "updated": "06 Nov 2025 10:37:03"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "06 Nov 2025 10:07:56"
+    "updated": "06 Nov 2025 10:46:10"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "06 Nov 2025 10:28:01"
+    "updated": "06 Nov 2025 10:48:10"
   },
   {
     "agency": "Ambulance",
@@ -207,13 +207,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "06 Nov 2025 10:31:01",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "06 Nov 2025 10:33:31"
+    "updated": "06 Nov 2025 10:44:41"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +231,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "06 Nov 2025 10:34:37"
+    "updated": "06 Nov 2025 10:45:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NICHOLLS",
+    "id": "073890-06112025",
+    "latitude": "-35.186387",
+    "longitude": "149.094445",
+    "region": "act",
+    "time_of_call": "06 Nov 2025 10:36:34",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NICHOLLS",
+    "updated": "06 Nov 2025 10:41:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "073891-06112025",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "06 Nov 2025 10:44:23",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHAPMAN",
+    "updated": "06 Nov 2025 10:46:41"
   },
   {
     "title": "TOOPUNTUL RD, MAUDE",
@@ -783,28 +819,6 @@
     "updated": "6 Nov 2025 10:16"
   },
   {
-    "title": "SPARROWHAWK CCT",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629168",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.729442596",
-    "longitude": "150.724380493",
-    "region": "nsw",
-    "time_of_call": "06 Nov 2025 10:29:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "KINGFISHER GROVE 25 SPARROWHAWK CCT, JORDAN SPRINGS 2747",
-    "council_area": "Penrith",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Nov 2025 10:29"
-  },
-  {
     "title": "DAMMEREL CR, EMERALD BEACH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629169",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -812,9 +826,9 @@
     "latitude": "-30.1756000519999",
     "longitude": "153.186828614",
     "region": "nsw",
-    "time_of_call": "06 Nov 2025 10:16:00",
+    "time_of_call": "06 Nov 2025 10:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "DAMMEREL CR, EMERALD BEACH 2456",
     "council_area": "Coffs Harbour",
@@ -824,6 +838,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Nov 2025 10:16"
+    "updated": "6 Nov 2025 10:40"
+  },
+  {
+    "title": "BLUFF TRL, SHERWOOD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629170",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.057313919",
+    "longitude": "153.005889893",
+    "region": "nsw",
+    "time_of_call": "06 Nov 2025 10:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BLUFF TRL, SHERWOOD 2450",
+    "council_area": "Clarence Valley",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Nov 2025 10:36"
   }
 ]
