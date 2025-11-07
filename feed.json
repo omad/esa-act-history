@@ -33,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "08 Nov 2025 03:22:06"
+    "updated": "08 Nov 2025 05:56:03"
   },
   {
     "agency": "Ambulance",
@@ -63,31 +63,13 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "08 Nov 2025 05:01:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "08 Nov 2025 05:45:57"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PHILLIP",
-    "id": "074340-08112025",
-    "latitude": "-35.348136",
-    "longitude": "149.090018",
-    "region": "act",
-    "time_of_call": "08 Nov 2025 05:35:37",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PHILLIP",
-    "updated": "08 Nov 2025 05:38:02"
+    "updated": "08 Nov 2025 05:56:07"
   },
   {
     "agency": "Ambulance",
@@ -106,6 +88,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "08 Nov 2025 05:46:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FRANKLIN",
+    "id": "074343-08112025",
+    "latitude": "-35.199225",
+    "longitude": "149.144681",
+    "region": "act",
+    "time_of_call": "08 Nov 2025 06:05:35",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FRANKLIN",
+    "updated": "08 Nov 2025 06:08:11"
   },
   {
     "title": "TOOPUNTUL RD, MAUDE",
@@ -832,28 +832,6 @@
     "updated": "8 Nov 2025 05:45"
   },
   {
-    "title": "BARRY RD, BARRY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629429",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.4836521139999",
-    "longitude": "151.189620972",
-    "region": "nsw",
-    "time_of_call": "08 Nov 2025 04:20:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BARRY RD, BARRY 2340",
-    "council_area": "Tamworth",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Nov 2025 04:20"
-  },
-  {
     "title": "MIDDLE ARM RD, MIDDLE ARM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629434",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -892,5 +870,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Nov 2025 04:53"
+  },
+  {
+    "title": "BILL OBRIEN WAY, LIGHTNING RIDGE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629438",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.4667701719999",
+    "longitude": "147.949005127",
+    "region": "nsw",
+    "time_of_call": "08 Nov 2025 05:51:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BILL OBRIEN WAY, LIGHTNING RIDGE 2834",
+    "council_area": "Walgett",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Nov 2025 05:51"
   }
 ]
