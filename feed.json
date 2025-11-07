@@ -45,13 +45,13 @@
     "longitude": "149.1195",
     "region": "act",
     "time_of_call": "08 Nov 2025 03:14:49",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "08 Nov 2025 04:03:57"
+    "updated": "08 Nov 2025 04:30:04"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.15807",
     "region": "act",
     "time_of_call": "08 Nov 2025 03:40:56",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "08 Nov 2025 03:46:09"
+    "updated": "08 Nov 2025 04:37:23"
   },
   {
     "agency": "Ambulance",
@@ -124,24 +124,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
     "updated": "08 Nov 2025 04:23:56"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FYSHWICK",
-    "id": "074334-08112025",
-    "latitude": "-35.325888",
-    "longitude": "149.174707",
-    "region": "act",
-    "time_of_call": "08 Nov 2025 04:06:44",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FYSHWICK",
-    "updated": "08 Nov 2025 04:11:24"
   },
   {
     "title": "TOOPUNTUL RD, MAUDE",
@@ -859,7 +841,7 @@
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "4316 HUME HWY, BERREMANGRA 2582",
+    "location": "HUME HWY, BERREMANGRA 2582",
     "council_area": "Hilltops",
     "type": "Car Fire",
     "fire": "Yes",
@@ -888,28 +870,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Nov 2025 04:20"
-  },
-  {
-    "title": "HUME HWY, JUGIONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629432",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.831409455",
-    "longitude": "148.309295654",
-    "region": "nsw",
-    "time_of_call": "08 Nov 2025 03:43:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "HUME HWY, JUGIONG 2726",
-    "council_area": "Hilltops",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Nov 2025 03:43"
   },
   {
     "title": "MIDDLE ARM RD, MIDDLE ARM",
@@ -950,5 +910,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Nov 2025 04:12"
+  },
+  {
+    "title": "WINE COUNTRY DR, GRETA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629436",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.668800354",
+    "longitude": "151.362197876",
+    "region": "nsw",
+    "time_of_call": "08 Nov 2025 04:23:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WINE COUNTRY DR, GRETA 2334",
+    "council_area": "Cessnock",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Nov 2025 04:23"
   }
 ]
