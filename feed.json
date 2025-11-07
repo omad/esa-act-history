@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "08 Nov 2025 05:23:23"
+    "updated": "08 Nov 2025 05:39:36"
   },
   {
     "agency": "Ambulance",
@@ -57,37 +57,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LAWSON",
-    "id": "074335-08112025",
-    "latitude": "-35.225525",
-    "longitude": "149.088854",
-    "region": "act",
-    "time_of_call": "08 Nov 2025 04:51:17",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LAWSON",
-    "updated": "08 Nov 2025 05:25:14"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - NICHOLLS",
     "id": "074336-08112025",
     "latitude": "-35.186387",
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "08 Nov 2025 05:01:04",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "08 Nov 2025 05:04:54"
+    "updated": "08 Nov 2025 05:45:57"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "08 Nov 2025 05:35:40"
+    "updated": "08 Nov 2025 05:38:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "074341-08112025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "08 Nov 2025 05:38:37",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "08 Nov 2025 05:46:26"
   },
   {
     "title": "TOOPUNTUL RD, MAUDE",
@@ -819,7 +819,7 @@
     "latitude": "-34.799785614",
     "longitude": "148.529052735",
     "region": "nsw",
-    "time_of_call": "08 Nov 2025 03:58:00",
+    "time_of_call": "08 Nov 2025 05:45:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -829,7 +829,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Nov 2025 03:58"
+    "updated": "8 Nov 2025 05:45"
   },
   {
     "title": "BARRY RD, BARRY",
@@ -872,26 +872,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Nov 2025 04:44"
-  },
-  {
-    "title": "PACIFIC HWY, MOOBALL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629435",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.436080933",
-    "longitude": "153.509216309",
-    "region": "nsw",
-    "time_of_call": "08 Nov 2025 05:31:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, MOOBALL 2483",
-    "council_area": "Tweed",
-    "type": "Truck Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "8 Nov 2025 05:31"
   },
   {
     "title": "WINE COUNTRY DR, GRETA",
