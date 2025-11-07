@@ -20,26 +20,6 @@
     "updated": "07 Nov 2025 21:34:08"
   },
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - CANBERRA CENTRAL",
-    "id": "016841-07112025",
-    "latitude": "-35.256893158",
-    "longitude": "149.0895385742",
-    "region": "act",
-    "time_of_call": "07 Nov 2025 20:54:41",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "CASWELL DRIVE ON RAMP, BELCONNEN WAY, BRUCE, 2617",
-    "updated": "07 Nov 2025 21:26:28"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -97,42 +77,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DUNLOP",
-    "id": "074259-07112025",
-    "latitude": "-35.193951",
-    "longitude": "149.019471",
-    "region": "act",
-    "time_of_call": "07 Nov 2025 20:04:05",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DUNLOP",
-    "updated": "07 Nov 2025 21:32:07"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CONDER",
-    "id": "074261-07112025",
-    "latitude": "-35.458351",
-    "longitude": "149.106348",
-    "region": "act",
-    "time_of_call": "07 Nov 2025 20:07:05",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CONDER",
-    "updated": "07 Nov 2025 20:51:31"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - TAYLOR",
     "id": "074263-07112025",
     "latitude": "-35.147416",
@@ -145,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "07 Nov 2025 21:56:34"
+    "updated": "07 Nov 2025 22:24:04"
   },
   {
     "agency": "Ambulance",
@@ -429,13 +373,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "07 Nov 2025 22:00:26",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "07 Nov 2025 22:08:02"
+    "updated": "07 Nov 2025 22:27:06"
   },
   {
     "agency": "Ambulance",
@@ -471,7 +415,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "07 Nov 2025 22:22:56"
+    "updated": "07 Nov 2025 22:27:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "074294-07112025",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "07 Nov 2025 22:33:29",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "07 Nov 2025 22:33:55"
   },
   {
     "title": "TOOPUNTUL RD, MAUDE",
@@ -1106,7 +1068,7 @@
     "latitude": "-30.1008644099999",
     "longitude": "148.96470642",
     "region": "nsw",
-    "time_of_call": "07 Nov 2025 21:47:00",
+    "time_of_call": "07 Nov 2025 22:24:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1116,7 +1078,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Nov 2025 21:47"
+    "updated": "7 Nov 2025 22:24"
   },
   {
     "title": "BALACLAVA ST, BURREN JUNCTION",
@@ -1177,5 +1139,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "7 Nov 2025 21:57"
+  },
+  {
+    "title": "SULLIVAN PL, MOREE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629402",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.47637558",
+    "longitude": "149.856719971",
+    "region": "nsw",
+    "time_of_call": "07 Nov 2025 22:24:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "16 SULLIVAN PL, MOREE 2400",
+    "council_area": "Moree Plains",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "7 Nov 2025 22:24"
   }
 ]
