@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "ISAACS RIDGE NATURE RESERVE, ISAACS, 2607",
-    "updated": "08 Nov 2025 14:24:14"
+    "updated": "08 Nov 2025 14:44:49"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "08 Nov 2025 14:22:22"
+    "updated": "08 Nov 2025 14:44:28"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "08 Nov 2025 14:43:54"
+    "updated": "08 Nov 2025 14:47:27"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHAPMAN",
-    "updated": "08 Nov 2025 14:34:44"
+    "updated": "08 Nov 2025 14:44:31"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +217,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "08 Nov 2025 14:43:27"
+    "updated": "08 Nov 2025 14:45:01"
   },
   {
     "agency": "Ambulance",
@@ -229,13 +229,67 @@
     "longitude": "149.146674",
     "region": "act",
     "time_of_call": "08 Nov 2025 14:41:03",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NARRABUNDAH",
+    "updated": "08 Nov 2025 14:53:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GIRALANG",
+    "id": "074425-08112025",
+    "latitude": "-35.210049",
+    "longitude": "149.100175",
+    "region": "act",
+    "time_of_call": "08 Nov 2025 14:44:38",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "NARRABUNDAH",
-    "updated": "08 Nov 2025 14:42:56"
+    "location": "GIRALANG",
+    "updated": "08 Nov 2025 14:54:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "074426-08112025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "08 Nov 2025 14:47:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "08 Nov 2025 14:51:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "074427-08112025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "08 Nov 2025 14:54:49",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "08 Nov 2025 14:54:50"
   },
   {
     "title": "TOOPUNTUL RD, MAUDE",
@@ -1084,9 +1138,9 @@
     "latitude": "-29.469397",
     "longitude": "149.821312",
     "region": "nsw",
-    "time_of_call": "08 Nov 2025 14:17:00",
+    "time_of_call": "08 Nov 2025 14:47:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1099,7 +1153,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Nov 2025 14:17"
+    "updated": "8 Nov 2025 14:47"
   },
   {
     "title": "ANNE ST, MOREE",
@@ -1166,6 +1220,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Nov 2025 14:26"
+  },
+  {
+    "title": "CASTLEREAGH HWY, MULLAMUDDY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629511",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.713356018",
+    "longitude": "149.808197022",
+    "region": "nsw",
+    "time_of_call": "08 Nov 2025 14:47:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "CASTLEREAGH HWY, MULLAMUDDY 2850",
+    "council_area": "Mid-Western",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Nov 2025 14:47"
   },
   {
     "title": "CAIRNES LANE, GLENORIE",
