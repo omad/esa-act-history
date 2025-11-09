@@ -3,26 +3,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - JERRABOMBERRA",
-    "id": "016928-10112025",
-    "latitude": "-35.3642234802",
-    "longitude": "149.1276092529",
-    "region": "act",
-    "time_of_call": "10 Nov 2025 06:50:25",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "MUGGA MUGGA, NARRABUNDAH LANE, JERRABOMBERRA",
-    "updated": "10 Nov 2025 07:25:44"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - GOWRIE",
     "id": "016930-10112025",
     "latitude": "-35.40565999",
@@ -186,6 +166,24 @@
     "updated": "10 Nov 2025 08:20:48"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "074740-10112025",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "10 Nov 2025 08:25:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "10 Nov 2025 08:28:58"
+  },
+  {
     "title": "TOOPUNTUL RD, MAUDE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628701",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -231,6 +229,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Nov 2025 06:17"
+  },
+  {
+    "title": "St Ives Showground Trail HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_628890",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.703006745",
+    "longitude": "151.182113648",
+    "region": "nsw",
+    "time_of_call": "10 Nov 2025 08:28:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "420 MONA VALE RD, ST IVES 2075",
+    "council_area": "Ku-Ring-Gai",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "38 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Nov 2025 08:28"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -851,7 +871,7 @@
     "latitude": "-33.008911133",
     "longitude": "151.323303223",
     "region": "nsw",
-    "time_of_call": "09 Nov 2025 19:23:00",
+    "time_of_call": "10 Nov 2025 08:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -866,7 +886,7 @@
     "fire": "Yes",
     "size": "4 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2025 19:23"
+    "updated": "10 Nov 2025 08:27"
   },
   {
     "title": "SALISBURY RD, BENDOLBA",
@@ -876,7 +896,7 @@
     "latitude": "-32.1632270809999",
     "longitude": "151.56010437",
     "region": "nsw",
-    "time_of_call": "09 Nov 2025 17:14:00",
+    "time_of_call": "10 Nov 2025 08:19:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "status_description": "",
@@ -889,9 +909,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "29 ha",
+    "size": "26 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2025 17:14"
+    "updated": "10 Nov 2025 08:19"
   },
   {
     "title": "WANNALOOK GOOLMA RD, GOOLMA",
@@ -901,7 +921,7 @@
     "latitude": "-32.376094818",
     "longitude": "149.282577515",
     "region": "nsw",
-    "time_of_call": "09 Nov 2025 19:12:00",
+    "time_of_call": "10 Nov 2025 08:24:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -913,7 +933,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2025 19:12"
+    "updated": "10 Nov 2025 08:24"
   },
   {
     "title": "Bone Trail",
@@ -936,26 +956,6 @@
     "size": "0 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
     "updated": "9 Nov 2025 22:24"
-  },
-  {
-    "title": "ALPINE WAY, KOSCIUSZKO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629662",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.5383186339999",
-    "longitude": "148.135375977",
-    "region": "nsw",
-    "time_of_call": "09 Nov 2025 16:02:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "ALPINE WAY, KOSCIUSZKO 2627",
-    "council_area": "Snowy Valleys",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2025 16:02"
   },
   {
     "title": "MITCHELL HWY, BAKERS SWAMP",
@@ -987,7 +987,7 @@
     "latitude": "-33.1026916509999",
     "longitude": "151.202957153",
     "region": "nsw",
-    "time_of_call": "09 Nov 2025 19:32:00",
+    "time_of_call": "10 Nov 2025 08:28:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1000,9 +1000,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "1 ha",
+    "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2025 19:32"
+    "updated": "10 Nov 2025 08:28"
   },
   {
     "title": "Ovens",
@@ -1205,5 +1205,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Nov 2025 08:07"
+  },
+  {
+    "title": "SOLITARY ISLANDS WAY, ARRAWARRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629737",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.059383392",
+    "longitude": "153.186325073",
+    "region": "nsw",
+    "time_of_call": "10 Nov 2025 08:22:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "SOLITARY ISLANDS WAY, ARRAWARRA 2456",
+    "council_area": "Coffs Harbour",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Nov 2025 08:22"
   }
 ]
