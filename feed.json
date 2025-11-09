@@ -9,15 +9,15 @@
     "longitude": "149.10874",
     "region": "act",
     "time_of_call": "10 Nov 2025 08:02:11",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "CASTLETON CRESCENT, STERNBERG CRESCENT, GOWRIE, 2904",
-    "updated": "10 Nov 2025 08:08:14"
+    "updated": "10 Nov 2025 08:35:47"
   },
   {
     "agency": "Ambulance",
@@ -77,24 +77,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - YARRALUMLA",
-    "id": "074732-10112025",
-    "latitude": "-35.302333",
-    "longitude": "149.099934",
-    "region": "act",
-    "time_of_call": "10 Nov 2025 07:10:36",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "YARRALUMLA",
-    "updated": "10 Nov 2025 08:10:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - AINSLIE",
     "id": "074733-10112025",
     "latitude": "-35.262117",
@@ -107,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "10 Nov 2025 08:19:51"
+    "updated": "10 Nov 2025 08:41:50"
   },
   {
     "agency": "Ambulance",
@@ -125,27 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "10 Nov 2025 08:15:45"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - GOWRIE",
-    "id": "074737-10112025",
-    "latitude": "-35.40565999",
-    "longitude": "149.10874",
-    "region": "act",
-    "time_of_call": "10 Nov 2025 08:02:12",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "",
-    "location": "CASTLETON CRESCENT, STERNBERG CRESCENT, GOWRIE, 2904",
-    "updated": "10 Nov 2025 08:06:59"
+    "updated": "10 Nov 2025 08:43:52"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +119,13 @@
     "longitude": "149.142366",
     "region": "act",
     "time_of_call": "10 Nov 2025 08:16:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "10 Nov 2025 08:20:48"
+    "updated": "10 Nov 2025 08:30:30"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +143,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "10 Nov 2025 08:28:58"
+    "updated": "10 Nov 2025 08:30:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "074741-10112025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "10 Nov 2025 08:30:52",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "10 Nov 2025 08:35:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "074742-10112025",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "10 Nov 2025 08:39:36",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "10 Nov 2025 08:45:46"
   },
   {
     "title": "TOOPUNTUL RD, MAUDE",
@@ -346,7 +344,7 @@
     "latitude": "-31.037294388",
     "longitude": "150.751159668",
     "region": "nsw",
-    "time_of_call": "09 Nov 2025 21:19:00",
+    "time_of_call": "10 Nov 2025 08:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -361,7 +359,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2025 21:19"
+    "updated": "10 Nov 2025 08:35"
   },
   {
     "title": "BURREN JUNCTION",
@@ -402,26 +400,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Nov 2025 06:23"
-  },
-  {
-    "title": "HAMPDEN PARK RD, KELSO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629449",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.423820495",
-    "longitude": "149.618331909",
-    "region": "nsw",
-    "time_of_call": "10 Nov 2025 06:32:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "27 HAMPDEN PARK RD, KELSO 2795",
-    "council_area": "Bathurst",
-    "type": "Planned Event",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "10 Nov 2025 06:32"
   },
   {
     "title": "TINGARINGI RD, CORROWONG",
@@ -547,7 +525,7 @@
     "latitude": "-32.7080841069999",
     "longitude": "149.821075439",
     "region": "nsw",
-    "time_of_call": "09 Nov 2025 20:11:00",
+    "time_of_call": "10 Nov 2025 08:30:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "status_description": "",
@@ -562,7 +540,7 @@
     "fire": "Yes",
     "size": "27 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2025 20:11"
+    "updated": "10 Nov 2025 08:30"
   },
   {
     "title": "Schofields",
@@ -1034,7 +1012,7 @@
     "latitude": "-30.3586559299999",
     "longitude": "150.919998169",
     "region": "nsw",
-    "time_of_call": "09 Nov 2025 20:12:00",
+    "time_of_call": "10 Nov 2025 08:31:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -1049,7 +1027,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2025 20:12"
+    "updated": "10 Nov 2025 08:31"
   },
   {
     "title": "COLLECTOR RD, CURRAWANG",
@@ -1059,7 +1037,7 @@
     "latitude": "-35.005916595",
     "longitude": "149.518432617",
     "region": "nsw",
-    "time_of_call": "09 Nov 2025 20:48:00",
+    "time_of_call": "10 Nov 2025 08:33:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "status_description": "",
@@ -1074,7 +1052,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Nov 2025 20:48"
+    "updated": "10 Nov 2025 08:33"
   },
   {
     "title": "OLD SYDNEY RD, WELLINGTON",
@@ -1104,7 +1082,7 @@
     "latitude": "-36.0241203309999",
     "longitude": "146.203201294",
     "region": "nsw",
-    "time_of_call": "10 Nov 2025 02:57:00",
+    "time_of_call": "10 Nov 2025 08:37:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
@@ -1116,7 +1094,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Nov 2025 02:57"
+    "updated": "10 Nov 2025 08:37"
   },
   {
     "title": "JINDALEE RD, COOMEALLA",
@@ -1126,9 +1104,9 @@
     "latitude": "-34.1210937499999",
     "longitude": "142.079071045",
     "region": "nsw",
-    "time_of_call": "10 Nov 2025 06:09:00",
+    "time_of_call": "10 Nov 2025 08:39:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "28 JINDALEE RD, COOMEALLA 2717",
     "council_area": "Wentworth",
@@ -1138,7 +1116,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Nov 2025 06:09"
+    "updated": "10 Nov 2025 08:39"
   },
   {
     "title": "SHOWGROUND TRL, ST IVES",
@@ -1192,9 +1170,9 @@
     "latitude": "-28.6042232519999",
     "longitude": "153.501312256",
     "region": "nsw",
-    "time_of_call": "10 Nov 2025 08:07:00",
+    "time_of_call": "10 Nov 2025 08:30:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "45 MYOCUM RIDGE RD, MYOCUM 2481",
     "council_area": "Byron",
@@ -1204,7 +1182,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "10 Nov 2025 08:07"
+    "updated": "10 Nov 2025 08:30"
   },
   {
     "title": "SOLITARY ISLANDS WAY, ARRAWARRA",
@@ -1225,5 +1203,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Nov 2025 08:22"
+  },
+  {
+    "title": "EAST ST, EAST ALBURY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_629739",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.088638306",
+    "longitude": "146.939163208",
+    "region": "nsw",
+    "time_of_call": "10 Nov 2025 08:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "418 EAST ST, EAST ALBURY 2640",
+    "council_area": "Albury",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "10 Nov 2025 08:37"
   }
 ]
