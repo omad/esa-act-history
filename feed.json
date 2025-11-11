@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "12 Nov 2025 01:06:04"
+    "updated": "12 Nov 2025 01:49:51"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "11 Nov 2025 23:46:22"
+    "updated": "12 Nov 2025 01:39:07"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "12 Nov 2025 01:03:51"
+    "updated": "12 Nov 2025 01:45:53"
   },
   {
     "agency": "Ambulance",
@@ -160,6 +160,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
     "updated": "12 Nov 2025 01:00:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STRATHNAIRN",
+    "id": "075220-12112025",
+    "latitude": "-35.237286",
+    "longitude": "148.98074",
+    "region": "act",
+    "time_of_call": "12 Nov 2025 01:36:54",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STRATHNAIRN",
+    "updated": "12 Nov 2025 01:38:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MAWSON",
+    "id": "075223-12112025",
+    "latitude": "-35.361049",
+    "longitude": "149.099386",
+    "region": "act",
+    "time_of_call": "12 Nov 2025 01:48:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MAWSON",
+    "updated": "12 Nov 2025 01:51:53"
   },
   {
     "title": "TOOPUNTUL RD, MAUDE",
@@ -1626,18 +1662,18 @@
     "updated": "12 Nov 2025 00:44"
   },
   {
-    "title": "ARMIDALE RD, HERNANI",
+    "title": "GLEN FERNAIGH TYRINGHAM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630012",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.3409233099999",
-    "longitude": "152.405563355",
+    "latitude": "-30.2492160799999",
+    "longitude": "152.477539062",
     "region": "nsw",
-    "time_of_call": "12 Nov 2025 00:43:00",
+    "time_of_call": "12 Nov 2025 01:47:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "ARMIDALE RD, HERNANI 2453",
+    "location": "GLEN FERNAIGH TYRINGHAM 2453",
     "council_area": "Clarence Valley",
     "type": "Bush Fire",
     "type_description": "",
@@ -1645,6 +1681,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Nov 2025 00:43"
+    "updated": "12 Nov 2025 01:47"
+  },
+  {
+    "title": "SPRING CREEK RD, BOBS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630014",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.5779304499999",
+    "longitude": "152.760925293",
+    "region": "nsw",
+    "time_of_call": "12 Nov 2025 01:48:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "90 SPRING CREEK RD, BOBS CREEK 2443",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Nov 2025 01:48"
   }
 ]
