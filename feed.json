@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SPENCE",
-    "updated": "12 Nov 2025 07:21:34"
+    "updated": "12 Nov 2025 07:36:24"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.1195",
     "region": "act",
     "time_of_call": "12 Nov 2025 07:26:35",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "12 Nov 2025 07:28:55"
+    "updated": "12 Nov 2025 07:49:09"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "12 Nov 2025 07:26:38",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "12 Nov 2025 07:28:50"
+    "updated": "12 Nov 2025 07:49:15"
   },
   {
     "title": "TOOPUNTUL RD, MAUDE",
@@ -1631,28 +1631,6 @@
     "updated": "12 Nov 2025 05:48"
   },
   {
-    "title": "JENOLAN CAVES RD, JENOLAN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630028",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.720462799",
-    "longitude": "150.048248291",
-    "region": "nsw",
-    "time_of_call": "12 Nov 2025 07:19:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "JENOLAN CAVES RD, JENOLAN 2790",
-    "council_area": "Lithgow",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "12 Nov 2025 07:19"
-  },
-  {
     "title": "BREAKNECK RD, KIWARRAK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630029",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1698,5 +1676,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Nov 2025 07:02"
+  },
+  {
+    "title": "PACIFIC HWY, KARUAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630035",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.632045746",
+    "longitude": "151.996368408",
+    "region": "nsw",
+    "time_of_call": "12 Nov 2025 07:27:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, KARUAH 2324",
+    "council_area": "Mid-Coast",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Nov 2025 07:27"
+  },
+  {
+    "title": "Macquarie St, Windsor",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630036",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.611124",
+    "longitude": "150.816396",
+    "region": "nsw",
+    "time_of_call": "12 Nov 2025 07:40:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Macquarie St, Windsor, NSW 2756",
+    "council_area": "Hawkesbury",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "12 Nov 2025 07:40"
   }
 ]
