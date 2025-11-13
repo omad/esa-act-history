@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "13 Nov 2025 22:18:27"
+    "updated": "13 Nov 2025 22:25:59"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "13 Nov 2025 22:21:28"
+    "updated": "13 Nov 2025 22:29:29"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,13 @@
     "longitude": "149.053511",
     "region": "act",
     "time_of_call": "13 Nov 2025 21:55:50",
-    "status": "Resource Allocation Pending",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "13 Nov 2025 22:00:07"
+    "updated": "13 Nov 2025 22:35:50"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "13 Nov 2025 22:21:20"
+    "updated": "13 Nov 2025 22:28:01"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +189,13 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "13 Nov 2025 22:17:17",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "13 Nov 2025 22:22:38"
+    "updated": "13 Nov 2025 22:34:53"
   },
   {
     "title": "TOOPUNTUL RD, MAUDE",
@@ -347,7 +347,7 @@
     "latitude": "-32.1630058289999",
     "longitude": "151.560211181",
     "region": "nsw",
-    "time_of_call": "13 Nov 2025 21:24:00",
+    "time_of_call": "13 Nov 2025 22:01:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -360,9 +360,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "508 ha",
+    "size": "534 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Nov 2025 21:24"
+    "updated": "13 Nov 2025 22:01"
   },
   {
     "title": "Bone Trail",
@@ -1606,9 +1606,9 @@
     "latitude": "-32.807441711",
     "longitude": "151.617523194",
     "region": "nsw",
-    "time_of_call": "13 Nov 2025 21:42:00",
+    "time_of_call": "13 Nov 2025 22:26:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1621,7 +1621,7 @@
     "fire": "Yes",
     "size": "5 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Nov 2025 21:42"
+    "updated": "13 Nov 2025 22:26"
   },
   {
     "title": "PACIFIC HWY, CUDGERA CREEK",
@@ -1700,9 +1700,9 @@
     "latitude": "-35.63092804",
     "longitude": "149.794784546",
     "region": "nsw",
-    "time_of_call": "13 Nov 2025 21:24:00",
+    "time_of_call": "13 Nov 2025 22:14:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "87 CATHOLIC CEMETERY RD, ARALUEN 2622",
     "council_area": "Queanbeyan-Palerang",
@@ -1712,32 +1712,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Nov 2025 21:24"
-  },
-  {
-    "title": "Watson Rd, Griffith",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630351",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.293952942",
-    "longitude": "146.028396606",
-    "region": "nsw",
-    "time_of_call": "13 Nov 2025 21:57:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Watson Rd, Griffith, NSW 2680",
-    "council_area": "Griffith",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "13 Nov 2025 21:57"
+    "updated": "13 Nov 2025 22:14"
   },
   {
     "title": "Terrigal Pl, Engadine",
@@ -1785,5 +1760,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Nov 2025 21:57"
+  },
+  {
+    "title": "SLOPES RD, THARBOGANG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630355",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.2326889029999",
+    "longitude": "145.96560669",
+    "region": "nsw",
+    "time_of_call": "13 Nov 2025 22:33:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "724 SLOPES RD, THARBOGANG 2680",
+    "council_area": "Griffith",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Nov 2025 22:33"
   }
 ]
