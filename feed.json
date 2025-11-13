@@ -63,13 +63,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "14 Nov 2025 00:38:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "14 Nov 2025 03:13:50"
+    "updated": "14 Nov 2025 03:41:18"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "14 Nov 2025 03:26:35"
+    "updated": "14 Nov 2025 03:44:16"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "14 Nov 2025 02:40:05"
+    "updated": "14 Nov 2025 03:45:12"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +177,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "14 Nov 2025 03:16:36"
+    "updated": "14 Nov 2025 03:54:18"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +195,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "14 Nov 2025 03:32:52"
+    "updated": "14 Nov 2025 03:44:14"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +213,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "14 Nov 2025 03:32:53"
+    "updated": "14 Nov 2025 03:53:12"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "075753-14112025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "14 Nov 2025 03:44:15",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "14 Nov 2025 03:48:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "075754-14112025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "14 Nov 2025 03:47:24",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "14 Nov 2025 03:52:07"
   },
   {
     "title": "TOOPUNTUL RD, MAUDE",
@@ -1665,5 +1701,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Nov 2025 03:06"
+  },
+  {
+    "title": "REDGROUND RD, BINDA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630365",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.330406189",
+    "longitude": "149.383193969",
+    "region": "nsw",
+    "time_of_call": "14 Nov 2025 03:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1949 REDGROUND RD, BINDA 2583",
+    "council_area": "Upper Lachlan",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Nov 2025 03:37"
+  },
+  {
+    "title": "Bingara Rd, Moree",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630366",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.4741990009999",
+    "longitude": "149.852734",
+    "region": "nsw",
+    "time_of_call": "14 Nov 2025 03:48:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "4 Bingara Rd, Moree, NSW 2400",
+    "council_area": "Moree Plains",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "14 Nov 2025 03:48"
   }
 ]
