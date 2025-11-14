@@ -21,42 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - SCULLIN",
-    "id": "076066-15112025",
-    "latitude": "-35.235868",
-    "longitude": "149.037677",
-    "region": "act",
-    "time_of_call": "15 Nov 2025 04:48:01",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "SCULLIN",
-    "updated": "15 Nov 2025 05:34:48"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FORREST",
-    "id": "076068-15112025",
-    "latitude": "-35.318088",
-    "longitude": "149.12506",
-    "region": "act",
-    "time_of_call": "15 Nov 2025 04:52:51",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FORREST",
-    "updated": "15 Nov 2025 04:57:06"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - STIRLING",
     "id": "076069-15112025",
     "latitude": "-35.351472",
@@ -69,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "15 Nov 2025 05:49:44"
+    "updated": "15 Nov 2025 06:00:49"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "15 Nov 2025 05:53:52"
+    "updated": "15 Nov 2025 06:16:03"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "15 Nov 2025 05:51:03"
+    "updated": "15 Nov 2025 06:07:43"
   },
   {
     "agency": "Ambulance",
@@ -142,6 +106,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
     "updated": "15 Nov 2025 05:43:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DICKSON",
+    "id": "076075-15112025",
+    "latitude": "-35.250784",
+    "longitude": "149.142366",
+    "region": "act",
+    "time_of_call": "15 Nov 2025 06:08:52",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DICKSON",
+    "updated": "15 Nov 2025 06:12:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "076076-15112025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "15 Nov 2025 06:18:01",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "15 Nov 2025 06:19:55"
   },
   {
     "title": "Drawbridge HR",
@@ -1079,23 +1079,45 @@
     "updated": "15 Nov 2025 02:26"
   },
   {
-    "title": "PACIFIC HWY, BARRAGANYATTI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630500",
+    "title": "STOCKYARD MOUNTAIN RD, YELLOW ROCK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630502",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.867460251",
-    "longitude": "152.929244995",
+    "latitude": "-34.604019165",
+    "longitude": "150.753158569",
     "region": "nsw",
-    "time_of_call": "15 Nov 2025 05:51:00",
+    "time_of_call": "15 Nov 2025 05:17:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "2987 PACIFIC HWY, BARRAGANYATTI 2441",
-    "council_area": "Kempsey",
-    "type": "Car Fire",
+    "location": "410 STOCKYARD MOUNTAIN RD, YELLOW ROCK 2527",
+    "council_area": "Shellharbour",
+    "type": "Burn off",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Nov 2025 05:51"
+    "updated": "15 Nov 2025 05:17"
+  },
+  {
+    "title": "BLUE GUMS CREEK CROSSING PACIFIC HWY, NERONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630503",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.504116058",
+    "longitude": "152.211334228",
+    "region": "nsw",
+    "time_of_call": "15 Nov 2025 05:59:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "BLUE GUMS CREEK CROSSING PACIFIC HWY, NERONG 2423",
+    "council_area": "Mid-Coast",
+    "type": "Truck Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Nov 2025 05:59"
   }
 ]
