@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "16 Nov 2025 04:49:26"
+    "updated": "16 Nov 2025 05:49:49"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "OXLEY",
-    "updated": "16 Nov 2025 05:32:31"
+    "updated": "16 Nov 2025 05:36:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TORRENS",
+    "id": "076314-16112025",
+    "latitude": "-35.372705",
+    "longitude": "149.085827",
+    "region": "act",
+    "time_of_call": "16 Nov 2025 05:47:38",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TORRENS",
+    "updated": "16 Nov 2025 05:47:53"
   },
   {
     "title": "Drawbridge HR",
@@ -1483,26 +1501,6 @@
     "updated": "16 Nov 2025 04:37"
   },
   {
-    "title": "CLOTHIERS CREEK RD, CLOTHIERS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630667",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.3313236239999",
-    "longitude": "153.518249512",
-    "region": "nsw",
-    "time_of_call": "16 Nov 2025 05:04:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "1094 CLOTHIERS CREEK RD, CLOTHIERS CREEK 2484",
-    "council_area": "Tweed",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Nov 2025 05:04"
-  },
-  {
     "title": "GOLF COURSE RD, DARETON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630668",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1530,9 +1528,9 @@
     "latitude": "-32.926418305",
     "longitude": "151.391433716",
     "region": "nsw",
-    "time_of_call": "16 Nov 2025 05:20:00",
+    "time_of_call": "16 Nov 2025 05:31:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "SANDY CREEK RD, QUORROBOLONG 2325",
     "council_area": "Cessnock",
@@ -1542,6 +1540,48 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Nov 2025 05:20"
+    "updated": "16 Nov 2025 05:31"
+  },
+  {
+    "title": "CHAPMANS RD, TUNCURRY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630670",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.156078339",
+    "longitude": "152.488845825",
+    "region": "nsw",
+    "time_of_call": "16 Nov 2025 05:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "UNIT A/11 CHAPMANS RD, TUNCURRY 2428",
+    "council_area": "Mid-Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "16 Nov 2025 05:36"
+  },
+  {
+    "title": "MURRAY ST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630671",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.109340668",
+    "longitude": "141.916229248",
+    "region": "nsw",
+    "time_of_call": "16 Nov 2025 05:47:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "MURRAY HOUSE HOSTEL 31-37 MURRAY ST, WENTWORTH 2648",
+    "council_area": "Wentworth",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "16 Nov 2025 05:47"
   }
 ]
