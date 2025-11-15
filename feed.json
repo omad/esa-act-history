@@ -33,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "16 Nov 2025 01:17:28"
+    "updated": "16 Nov 2025 01:32:34"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,31 @@
     "longitude": "149.057326",
     "region": "act",
     "time_of_call": "16 Nov 2025 01:10:24",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MELBA",
+    "updated": "16 Nov 2025 01:32:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "076286-16112025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "16 Nov 2025 01:28:16",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "MELBA",
-    "updated": "16 Nov 2025 01:18:30"
+    "location": "GORDON",
+    "updated": "16 Nov 2025 01:34:15"
   },
   {
     "title": "Drawbridge HR",
@@ -1424,26 +1442,6 @@
     "updated": "15 Nov 2025 23:58"
   },
   {
-    "title": "CESSNOCK RD, AWABA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630652",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.0075302129999",
-    "longitude": "151.544555664",
-    "region": "nsw",
-    "time_of_call": "16 Nov 2025 01:09:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "CESSNOCK RD, AWABA 2283",
-    "council_area": "Lake Macquarie",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Nov 2025 01:09"
-  },
-  {
     "title": "ADELAIDE ST, GOL GOL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630653",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1473,9 +1471,9 @@
     "latitude": "-36.7951431279999",
     "longitude": "149.359329223",
     "region": "nsw",
-    "time_of_call": "16 Nov 2025 01:19:00",
+    "time_of_call": "16 Nov 2025 01:24:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "CREEWAH RD, BIBBENLUKE 2632",
     "council_area": "Snowy Monaro",
@@ -1485,7 +1483,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Nov 2025 01:19"
+    "updated": "16 Nov 2025 01:24"
   },
   {
     "title": "GLOUCESTER RD, KILLAWARRA",
