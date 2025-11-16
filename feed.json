@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
-    "updated": "17 Nov 2025 01:42:31"
+    "updated": "17 Nov 2025 02:03:28"
   },
   {
     "agency": "Ambulance",
@@ -45,13 +45,13 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "16 Nov 2025 23:40:01",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "17 Nov 2025 00:53:15"
+    "updated": "17 Nov 2025 02:14:25"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "17 Nov 2025 01:46:13"
+    "updated": "17 Nov 2025 01:59:53"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MELBA",
-    "updated": "17 Nov 2025 01:31:10"
+    "updated": "17 Nov 2025 02:11:51"
   },
   {
     "agency": "Ambulance",
@@ -124,6 +124,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
     "updated": "17 Nov 2025 01:41:51"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SPENCE",
+    "id": "076487-17112025",
+    "latitude": "-35.196073",
+    "longitude": "149.064742",
+    "region": "act",
+    "time_of_call": "17 Nov 2025 01:49:39",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SPENCE",
+    "updated": "17 Nov 2025 01:59:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "076488-17112025",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "17 Nov 2025 01:55:50",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "17 Nov 2025 02:14:12"
   },
   {
     "title": "Drawbridge HR",
@@ -1529,7 +1565,7 @@
     "latitude": "-32.526062012",
     "longitude": "151.995300293",
     "region": "nsw",
-    "time_of_call": "17 Nov 2025 01:01:00",
+    "time_of_call": "17 Nov 2025 01:58:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "status_description": "",
@@ -1544,50 +1580,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Nov 2025 01:01"
+    "updated": "17 Nov 2025 01:58"
   },
   {
-    "title": "NAROOMA QUOTA PARK NAROOMA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630798",
+    "title": "BANGALOW RD, TALOFA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630801",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-36.21339798",
-    "longitude": "150.121520997",
+    "latitude": "-28.6747264859999",
+    "longitude": "153.557754516",
     "region": "nsw",
-    "time_of_call": "17 Nov 2025 01:41:00",
+    "time_of_call": "17 Nov 2025 02:19:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "alert_level": "Not Applicable",
-    "location": "NAROOMA QUOTA PARK NAROOMA 2546",
-    "council_area": "Eurobodalla",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "location": "611 BANGALOW RD, TALOFA 2481",
+    "council_area": "Byron",
+    "type": "Car Fire",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "17 Nov 2025 01:41"
-  },
-  {
-    "title": "FOURTH ST, WESTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630800",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.80878067",
-    "longitude": "151.453170777",
-    "region": "nsw",
-    "time_of_call": "17 Nov 2025 01:46:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "FOURTH ST, WESTON 2326",
-    "council_area": "Cessnock",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "17 Nov 2025 01:46"
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Nov 2025 02:19"
   }
 ]
