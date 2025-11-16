@@ -29,15 +29,15 @@
     "longitude": "149.0575866699",
     "region": "act",
     "time_of_call": "17 Nov 2025 08:11:46",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "TUGGERANONG PARKWAY, SULWOOD DRIVE, KAMBAH, 2902",
-    "updated": "17 Nov 2025 08:21:48"
+    "updated": "17 Nov 2025 08:38:44"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +139,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "17 Nov 2025 07:34:18",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "17 Nov 2025 08:31:42"
+    "updated": "17 Nov 2025 08:33:35"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "17 Nov 2025 07:44:17"
+    "updated": "17 Nov 2025 08:47:38"
   },
   {
     "agency": "Ambulance",
@@ -229,13 +229,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "17 Nov 2025 07:54:54",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "17 Nov 2025 08:01:19"
+    "updated": "17 Nov 2025 08:43:26"
   },
   {
     "agency": "Ambulance",
@@ -722,31 +722,6 @@
     "updated": "17 Nov 2025 01:09"
   },
   {
-    "title": "EDWARD ST, MOREE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630454",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.4686069479999",
-    "longitude": "149.835968017",
-    "region": "nsw",
-    "time_of_call": "15 Nov 2025 22:36:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "EDWARD ST, MOREE 2400",
-    "council_area": "Moree Plains",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "15 Nov 2025 22:36"
-  },
-  {
     "title": "HENRY LAWSON DR",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630481",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1138,7 +1113,7 @@
     "latitude": "-31.7258415219999",
     "longitude": "152.711517334",
     "region": "nsw",
-    "time_of_call": "17 Nov 2025 00:39:00",
+    "time_of_call": "17 Nov 2025 08:29:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1150,7 +1125,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Nov 2025 00:39"
+    "updated": "17 Nov 2025 08:29"
   },
   {
     "title": "GENOWLAN RD, GLEN ALICE",
@@ -1607,5 +1582,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Nov 2025 08:27"
+  },
+  {
+    "title": "TOURIST RD, BEAUMONT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630808",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.7993011469999",
+    "longitude": "150.5778656",
+    "region": "nsw",
+    "time_of_call": "17 Nov 2025 08:37:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "3 TOURIST RD, BEAUMONT 2577",
+    "council_area": "Shoalhaven",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Nov 2025 08:37"
+  },
+  {
+    "title": "MOUNT HERCULES RD, RAZORBACK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630810",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.124336243",
+    "longitude": "150.610443115",
+    "region": "nsw",
+    "time_of_call": "17 Nov 2025 08:38:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MOUNT HERCULES RD, RAZORBACK 2571",
+    "council_area": "Wollondilly",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Nov 2025 08:38"
   }
 ]
