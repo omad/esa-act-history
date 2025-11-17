@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CAMPBELL",
-    "id": "076702-17112025",
-    "latitude": "-35.288663",
-    "longitude": "149.155928",
-    "region": "act",
-    "time_of_call": "17 Nov 2025 22:57:29",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CAMPBELL",
-    "updated": "18 Nov 2025 00:12:31"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DUFFY",
     "id": "076705-17112025",
     "latitude": "-35.336273",
@@ -69,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": ""
+    "updated": "18 Nov 2025 00:47:32"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +63,13 @@
     "longitude": "149.097085",
     "region": "act",
     "time_of_call": "17 Nov 2025 23:36:45",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "18 Nov 2025 00:32:47"
+    "updated": "18 Nov 2025 00:45:29"
   },
   {
     "agency": "Ambulance",
@@ -106,6 +88,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
     "updated": "18 Nov 2025 00:23:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "076715-18112025",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "18 Nov 2025 00:41:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "18 Nov 2025 00:49:50"
   },
   {
     "title": "Drawbridge HR",
@@ -965,9 +965,9 @@
     "latitude": "-31.825944901",
     "longitude": "149.115570068",
     "region": "nsw",
-    "time_of_call": "18 Nov 2025 00:15:00",
+    "time_of_call": "18 Nov 2025 00:42:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "CASTLEREAGH HWY, MENDOORAN 2842",
     "council_area": "Warrumbungle",
@@ -977,7 +977,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Nov 2025 00:15"
+    "updated": "18 Nov 2025 00:42"
   },
   {
     "title": "PULBAH ISLAND PULBAH ISLAND",
@@ -987,9 +987,9 @@
     "latitude": "-33.0960388189999",
     "longitude": "151.591964721",
     "region": "nsw",
-    "time_of_call": "18 Nov 2025 00:03:00",
+    "time_of_call": "18 Nov 2025 00:47:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "PULBAH ISLAND PULBAH ISLAND",
     "council_area": "Lake Macquarie",
@@ -999,6 +999,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Nov 2025 00:03"
+    "updated": "18 Nov 2025 00:47"
+  },
+  {
+    "title": "GLENHAVEN RD, GLENHAVEN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630905",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.694267273",
+    "longitude": "150.974731445",
+    "region": "nsw",
+    "time_of_call": "18 Nov 2025 00:47:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "GLENHAVEN RD, GLENHAVEN 2156",
+    "council_area": "The Hills",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Nov 2025 00:47"
   }
 ]
