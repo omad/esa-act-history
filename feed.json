@@ -9,13 +9,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "18 Nov 2025 05:19:42",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "18 Nov 2025 05:29:04"
+    "updated": "18 Nov 2025 06:42:28"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,31 @@
     "longitude": "149.079717",
     "region": "act",
     "time_of_call": "18 Nov 2025 06:28:30",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ARANDA",
+    "updated": "18 Nov 2025 06:47:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "076735-18112025",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "18 Nov 2025 06:47:34",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "ARANDA",
-    "updated": "18 Nov 2025 06:29:38"
+    "location": "MACGREGOR",
+    "updated": "18 Nov 2025 06:48:19"
   },
   {
     "title": "Drawbridge HR",
@@ -920,27 +938,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Nov 2025 19:10"
-  },
-  {
-    "title": "OPHIR RD, OPHIR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630910",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.1740722649999",
-    "longitude": "149.186126709",
-    "region": "nsw",
-    "time_of_call": "18 Nov 2025 02:21:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "THE FARM 1506 OPHIR RD, OPHIR 2800",
-    "council_area": "Cabonne",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Nov 2025 02:21"
   }
 ]
