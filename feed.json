@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "17 Nov 2025 22:33:03"
+    "updated": "17 Nov 2025 22:42:54"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "17 Nov 2025 22:34:54"
+    "updated": "17 Nov 2025 22:40:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "076701-17112025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "17 Nov 2025 22:45:00",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "17 Nov 2025 22:48:48"
   },
   {
     "title": "Drawbridge HR",
@@ -1010,5 +1028,55 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Nov 2025 19:10"
+  },
+  {
+    "title": "Sandford Av, Lithgow",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630899",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.475229",
+    "longitude": "150.15557",
+    "region": "nsw",
+    "time_of_call": "17 Nov 2025 22:46:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Sandford Av, Lithgow, NSW 2790",
+    "council_area": "Lithgow",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "17 Nov 2025 22:46"
+  },
+  {
+    "title": "Church St, Brewarrina",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_630900",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.967864",
+    "longitude": "146.864265999",
+    "region": "nsw",
+    "time_of_call": "17 Nov 2025 22:42:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Church St, Brewarrina, NSW 2839",
+    "council_area": "Brewarrina",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "17 Nov 2025 22:42"
   }
 ]
