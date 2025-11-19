@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "20 Nov 2025 04:02:57"
+    "updated": "20 Nov 2025 04:42:54"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "20 Nov 2025 04:34:55"
+    "updated": "20 Nov 2025 04:43:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "077273-20112025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "20 Nov 2025 04:40:54",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "20 Nov 2025 04:48:13"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -976,9 +994,9 @@
     "latitude": "-28.975723267",
     "longitude": "153.340820313",
     "region": "nsw",
-    "time_of_call": "20 Nov 2025 04:28:00",
+    "time_of_call": "20 Nov 2025 04:34:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "WYRALLAH RD, EAST CORAKI 2471",
     "council_area": "Lismore",
@@ -988,6 +1006,46 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Nov 2025 04:28"
+    "updated": "20 Nov 2025 04:34"
+  },
+  {
+    "title": "PACIFIC HWY, EAGLETON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632148",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.697692871",
+    "longitude": "151.805618287",
+    "region": "nsw",
+    "time_of_call": "20 Nov 2025 04:24:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, EAGLETON 2324",
+    "council_area": "Port Stephens",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Nov 2025 04:24"
+  },
+  {
+    "title": "HUNTER EXP, BUCHANAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632149",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8063316349999",
+    "longitude": "151.496566772",
+    "region": "nsw",
+    "time_of_call": "20 Nov 2025 04:41:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "HUNTER EXP, BUCHANAN 2323",
+    "council_area": "Cessnock",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Nov 2025 04:41"
   }
 ]
