@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "PENNEFATHER STREET, HIGGINS, 2615",
-    "updated": "20 Nov 2025 17:17:29"
+    "updated": "20 Nov 2025 17:39:19"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,13 @@
     "longitude": "149.161141",
     "region": "act",
     "time_of_call": "20 Nov 2025 15:24:07",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "20 Nov 2025 17:11:38"
+    "updated": "20 Nov 2025 17:39:34"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "20 Nov 2025 17:28:24"
+    "updated": "20 Nov 2025 17:42:48"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "20 Nov 2025 17:21:26"
+    "updated": "20 Nov 2025 17:40:25"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "20 Nov 2025 17:30:25"
+    "updated": "20 Nov 2025 17:47:22"
   },
   {
     "agency": "Ambulance",
@@ -216,6 +216,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
     "updated": "20 Nov 2025 17:37:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HIGGINS",
+    "id": "077413-20112025",
+    "latitude": "-35.230526",
+    "longitude": "149.025052",
+    "region": "act",
+    "time_of_call": "20 Nov 2025 17:49:37",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "20 Nov 2025 17:53:44"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -1174,9 +1192,9 @@
     "latitude": "-30.054761887",
     "longitude": "146.207580566",
     "region": "nsw",
-    "time_of_call": "20 Nov 2025 15:18:00",
+    "time_of_call": "20 Nov 2025 17:39:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "KAMILAROI HWY, BOURKE 2840",
     "council_area": "Bourke",
@@ -1184,9 +1202,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "5 ha",
+    "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Nov 2025 15:18"
+    "updated": "20 Nov 2025 17:39"
   },
   {
     "title": "Long Arm",
@@ -1456,8 +1474,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632235",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.961181037",
-    "longitude": "149.89643097",
+    "latitude": "-29.9611816399999",
+    "longitude": "149.896438599",
     "region": "nsw",
     "time_of_call": "20 Nov 2025 16:32:00",
     "event_type": "burnt area",
@@ -1481,10 +1499,13 @@
     "latitude": "-33.1954650879999",
     "longitude": "151.00239563",
     "region": "nsw",
-    "time_of_call": "20 Nov 2025 16:34:00",
+    "time_of_call": "20 Nov 2025 17:44:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "1336 WOLLOMBI RD, FERNANCES 2775",
     "council_area": "Hawkesbury",
     "type": "Bush Fire",
@@ -1492,8 +1513,8 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Nov 2025 16:34"
+    "responsible_agency": "NSW National Parks and Wildlife Service",
+    "updated": "20 Nov 2025 17:44"
   },
   {
     "title": "Endeavour Dr, Balranald",
@@ -1543,31 +1564,6 @@
     "updated": "20 Nov 2025 17:01"
   },
   {
-    "title": "ARDLETHAN RD, COWABBIE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632241",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.574424743",
-    "longitude": "146.98260498",
-    "region": "nsw",
-    "time_of_call": "20 Nov 2025 17:28:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "ARDLETHAN RD, COWABBIE 2652",
-    "council_area": "Coolamon",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "25 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Nov 2025 17:28"
-  },
-  {
     "title": "TOP BOX RD, GARAH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632242",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1594,13 +1590,16 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632243",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.1971511839999",
-    "longitude": "151.018569946",
+    "latitude": "-33.2006835939999",
+    "longitude": "151.016662597",
     "region": "nsw",
-    "time_of_call": "20 Nov 2025 17:03:00",
+    "time_of_call": "20 Nov 2025 17:41:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "1490 WOLLOMBI RD, FERNANCES 2775",
     "council_area": "Hawkesbury",
     "type": "Bush Fire",
@@ -1608,8 +1607,8 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Nov 2025 17:03"
+    "responsible_agency": "NSW National Parks and Wildlife Service",
+    "updated": "20 Nov 2025 17:41"
   },
   {
     "title": "BARRIER HWY, LITTLE TOPAR",
@@ -1632,7 +1631,7 @@
     "updated": "20 Nov 2025 17:06"
   },
   {
-    "title": "PEATS RIDGE RD, PEATS RIDGE",
+    "title": "BUSHELLS ROAD, PEATS RIDGE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632246",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -1643,7 +1642,7 @@
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
-    "location": "1168 PEATS RIDGE RD, PEATS RIDGE 2250",
+    "location": "2 BUSHELLS ROAD, PEATS RIDGE 2250",
     "council_area": "Central Coast",
     "type": "Bush Fire",
     "type_description": "",
@@ -1676,6 +1675,28 @@
     "updated": "20 Nov 2025 17:22"
   },
   {
+    "title": "GRASSMERE RD, CONDOBOLIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632249",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.389820098",
+    "longitude": "147.225463867",
+    "region": "nsw",
+    "time_of_call": "20 Nov 2025 17:25:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "2745 GRASSMERE RD, CONDOBOLIN 2877",
+    "council_area": "Lachlan",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Nov 2025 17:25"
+  },
+  {
     "title": "DUNS CREEK RD, DUNS CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632250",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1683,9 +1704,9 @@
     "latitude": "-32.60892868",
     "longitude": "151.660278321",
     "region": "nsw",
-    "time_of_call": "20 Nov 2025 17:32:00",
+    "time_of_call": "20 Nov 2025 17:43:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "538 DUNS CREEK RD, DUNS CREEK 2321",
     "council_area": "Port Stephens",
@@ -1695,6 +1716,50 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Nov 2025 17:32"
+    "updated": "20 Nov 2025 17:43"
+  },
+  {
+    "title": "CARNARVON HWY, ASHLEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632251",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.2934837339999",
+    "longitude": "149.784683228",
+    "region": "nsw",
+    "time_of_call": "20 Nov 2025 17:35:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1957 CARNARVON HWY, ASHLEY 2400",
+    "council_area": "Moree Plains",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Nov 2025 17:35"
+  },
+  {
+    "title": "MATES GULLY RD, TARCUTTA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632252",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.285511017",
+    "longitude": "147.709365845",
+    "region": "nsw",
+    "time_of_call": "20 Nov 2025 17:48:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "161 MATES GULLY RD, TARCUTTA 2652",
+    "council_area": "Wagga Wagga",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Nov 2025 17:48"
   }
 ]
