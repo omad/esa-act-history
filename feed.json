@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "21 Nov 2025 22:05:20"
+    "updated": "21 Nov 2025 22:47:26"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +119,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "21 Nov 2025 21:43:53",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "21 Nov 2025 21:49:34"
+    "updated": "21 Nov 2025 22:44:08"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "21 Nov 2025 22:03:15"
+    "updated": "21 Nov 2025 22:42:54"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +215,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "21 Nov 2025 22:23:43"
+    "updated": "21 Nov 2025 22:48:36"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +251,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "21 Nov 2025 22:20:24"
+    "updated": ""
   },
   {
     "agency": "Ambulance",
@@ -269,7 +269,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "21 Nov 2025 22:30:39"
+    "updated": "21 Nov 2025 22:47:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NICHOLLS",
+    "id": "077692-21112025",
+    "latitude": "-35.186387",
+    "longitude": "149.094445",
+    "region": "act",
+    "time_of_call": "21 Nov 2025 22:48:27",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NICHOLLS",
+    "updated": "21 Nov 2025 22:48:42"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -1065,8 +1083,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632312",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.644269251",
-    "longitude": "144.912423188",
+    "latitude": "-35.644268035",
+    "longitude": "144.912429809",
     "region": "nsw",
     "time_of_call": "21 Nov 2025 16:19:00",
     "event_type": "burnt area",
@@ -1160,8 +1178,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632339",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.504668115",
-    "longitude": "148.106698034",
+    "latitude": "-34.504669189",
+    "longitude": "148.106704712",
     "region": "nsw",
     "time_of_call": "21 Nov 2025 16:40:00",
     "event_type": "burnt area",
@@ -1354,9 +1372,9 @@
     "latitude": "-32.541690827",
     "longitude": "148.261978149",
     "region": "nsw",
-    "time_of_call": "21 Nov 2025 19:01:00",
+    "time_of_call": "21 Nov 2025 22:35:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "7128 NEWELL HWY, TOMINGLEY 2869",
     "council_area": "Narromine",
@@ -1366,27 +1384,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Nov 2025 19:01"
-  },
-  {
-    "title": "GOLF CLUB RD, TEMORA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632389",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.4633789069999",
-    "longitude": "147.540725708",
-    "region": "nsw",
-    "time_of_call": "21 Nov 2025 20:18:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "TEMORA GOLF CLUB 82 GOLF CLUB RD, TEMORA 2666",
-    "council_area": "Temora",
-    "type": "Medical",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "21 Nov 2025 20:18"
+    "updated": "21 Nov 2025 22:35"
   },
   {
     "title": "HIGH ST, BOURKE",
@@ -1418,9 +1416,9 @@
     "latitude": "-33.072853089",
     "longitude": "148.572769165",
     "region": "nsw",
-    "time_of_call": "21 Nov 2025 21:56:00",
+    "time_of_call": "21 Nov 2025 22:41:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BERNESS 1452 BOCOBRA RD, BOCOBRA 2865",
     "council_area": "Cabonne",
@@ -1430,49 +1428,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Nov 2025 21:56"
-  },
-  {
-    "title": "MORGANS RD, MOUNT WHITE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632394",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.460865021",
-    "longitude": "151.191497803",
-    "region": "nsw",
-    "time_of_call": "21 Nov 2025 22:13:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "MORGANS RD, MOUNT WHITE 2250",
-    "council_area": "Central Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "21 Nov 2025 22:13"
-  },
-  {
-    "title": "MOUNT NELLINDA RD, COORANBONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632396",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.036460877",
-    "longitude": "151.448944092",
-    "region": "nsw",
-    "time_of_call": "21 Nov 2025 22:21:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "172 MOUNT NELLINDA RD, COORANBONG 2265",
-    "council_area": "Lake Macquarie",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "21 Nov 2025 22:21"
+    "updated": "21 Nov 2025 22:41"
   },
   {
     "title": "MONARO HWY, ROCKTON",
@@ -1495,5 +1451,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Nov 2025 22:13"
+  },
+  {
+    "title": "Clarke St, Broken Hill",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632398",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.979666",
+    "longitude": "141.47222",
+    "region": "nsw",
+    "time_of_call": "21 Nov 2025 22:45:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Clarke St, Broken Hill, NSW 2880",
+    "council_area": "Broken Hill",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "21 Nov 2025 22:45"
   }
 ]
