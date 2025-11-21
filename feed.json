@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "22 Nov 2025 02:14:20"
+    "updated": "22 Nov 2025 02:29:26"
   },
   {
     "agency": "Ambulance",
@@ -126,24 +126,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
     "updated": "22 Nov 2025 00:54:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FRANKLIN",
-    "id": "077701-21112025",
-    "latitude": "-35.199225",
-    "longitude": "149.144681",
-    "region": "act",
-    "time_of_call": "21 Nov 2025 23:59:42",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FRANKLIN",
-    "updated": "22 Nov 2025 01:52:22"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +233,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "22 Nov 2025 02:22:52"
+    "updated": "22 Nov 2025 02:28:27"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -1443,9 +1425,9 @@
     "latitude": "-33.9396589999999",
     "longitude": "151.230221",
     "region": "nsw",
-    "time_of_call": "22 Nov 2025 02:22:00",
+    "time_of_call": "22 Nov 2025 02:29:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1458,6 +1440,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Nov 2025 02:22"
+    "updated": "22 Nov 2025 02:29"
+  },
+  {
+    "title": "FOX ST, WALGETT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632408",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.031269073",
+    "longitude": "148.11579895",
+    "region": "nsw",
+    "time_of_call": "22 Nov 2025 02:23:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WALGETT HOSPITAL 141 FOX ST, WALGETT 2832",
+    "council_area": "Walgett",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "22 Nov 2025 02:23"
   }
 ]
