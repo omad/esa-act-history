@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHIFLEY",
-    "updated": "24 Nov 2025 05:50:45"
+    "updated": "24 Nov 2025 05:58:31"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "24 Nov 2025 05:41:22"
+    "updated": "24 Nov 2025 06:15:23"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,67 @@
     "longitude": "149.034875",
     "region": "act",
     "time_of_call": "24 Nov 2025 05:47:54",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "24 Nov 2025 05:51:21"
+    "updated": "24 Nov 2025 06:19:04"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUNLOP",
+    "id": "078254-24112025",
+    "latitude": "-35.193951",
+    "longitude": "149.019471",
+    "region": "act",
+    "time_of_call": "24 Nov 2025 06:03:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUNLOP",
+    "updated": "24 Nov 2025 06:12:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "078255-24112025",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "24 Nov 2025 06:05:08",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "24 Nov 2025 06:17:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "078256-24112025",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "24 Nov 2025 06:09:19",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "24 Nov 2025 06:19:24"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -620,10 +674,10 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632569",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.494003296",
-    "longitude": "149.4637146",
+    "latitude": "-33.494627244",
+    "longitude": "149.464148191",
     "region": "nsw",
-    "time_of_call": "23 Nov 2025 20:45:00",
+    "time_of_call": "24 Nov 2025 05:52:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -636,9 +690,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "6 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Nov 2025 20:45"
+    "updated": "24 Nov 2025 05:52"
   },
   {
     "title": "URANA LOCKHART RD, URANA",
@@ -849,5 +903,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Nov 2025 05:33"
+  },
+  {
+    "title": "(PACIFIC MTWY), WYONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632630",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.275867462",
+    "longitude": "151.405639648",
+    "region": "nsw",
+    "time_of_call": "24 Nov 2025 05:56:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "M1 (PACIFIC MTWY), WYONG 2259",
+    "council_area": "Central Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Nov 2025 05:56"
   }
 ]
