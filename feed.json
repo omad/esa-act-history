@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHIFLEY",
-    "updated": "24 Nov 2025 05:20:15"
+    "updated": "24 Nov 2025 05:50:45"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "24 Nov 2025 05:33:45"
+    "updated": "24 Nov 2025 05:36:31"
   },
   {
     "agency": "Ambulance",
@@ -45,13 +45,31 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "24 Nov 2025 05:32:44",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "24 Nov 2025 05:41:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LATHAM",
+    "id": "078253-24112025",
+    "latitude": "-35.217781",
+    "longitude": "149.034875",
+    "region": "act",
+    "time_of_call": "24 Nov 2025 05:47:54",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "WANNIASSA",
-    "updated": "24 Nov 2025 05:33:35"
+    "location": "LATHAM",
+    "updated": "24 Nov 2025 05:51:21"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -809,5 +827,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "24 Nov 2025 05:12"
+  },
+  {
+    "title": "ILUKA RD, WOOMBAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632629",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.356140137",
+    "longitude": "153.276870727",
+    "region": "nsw",
+    "time_of_call": "24 Nov 2025 05:33:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "ILUKA RD, WOOMBAH 2469",
+    "council_area": "Clarence Valley",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "24 Nov 2025 05:33"
   }
 ]
