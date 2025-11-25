@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "25 Nov 2025 21:36:18"
+    "updated": "25 Nov 2025 22:27:15"
   },
   {
     "agency": "Ambulance",
@@ -34,24 +34,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
     "updated": "25 Nov 2025 21:53:10"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FORREST",
-    "id": "078689-25112025",
-    "latitude": "-35.318088",
-    "longitude": "149.12506",
-    "region": "act",
-    "time_of_call": "25 Nov 2025 20:45:28",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FORREST",
-    "updated": "25 Nov 2025 21:50:39"
   },
   {
     "agency": "Ambulance",
@@ -123,16 +105,16 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LATHAM",
-    "updated": "25 Nov 2025 21:53:11"
+    "updated": "25 Nov 2025 22:31:16"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DICKSON",
+    "title": "AMBULANCE RESPONSE - BRADDON",
     "id": "078701-25112025",
-    "latitude": "-35.250784",
-    "longitude": "149.142366",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
     "region": "act",
     "time_of_call": "25 Nov 2025 21:31:18",
     "status": "On Scene",
@@ -140,8 +122,8 @@
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "25 Nov 2025 22:01:59"
+    "location": "BRADDON",
+    "updated": "25 Nov 2025 22:26:58"
   },
   {
     "agency": "Ambulance",
@@ -201,24 +183,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BELCONNEN",
-    "id": "078706-25112025",
-    "latitude": "-35.235936",
-    "longitude": "149.066372",
-    "region": "act",
-    "time_of_call": "25 Nov 2025 21:55:22",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "25 Nov 2025 22:05:26"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - TORRENS",
     "id": "078709-25112025",
     "latitude": "-35.372705",
@@ -232,6 +196,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
     "updated": "25 Nov 2025 22:04:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "078711-25112025",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "25 Nov 2025 22:24:02",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HARRISON",
+    "updated": "25 Nov 2025 22:28:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "078712-25112025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "25 Nov 2025 22:27:38",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "25 Nov 2025 22:31:53"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -1449,26 +1449,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "25 Nov 2025 21:06"
-  },
-  {
-    "title": "JOHNSTON ST, NORTH TAMWORTH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632917",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.074573517",
-    "longitude": "150.915588379",
-    "region": "nsw",
-    "time_of_call": "25 Nov 2025 21:14:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "39 JOHNSTON ST, NORTH TAMWORTH 2340",
-    "council_area": "Tamworth",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Nov 2025 21:14"
   },
   {
     "title": "MONTERAY ST, NORTH TAMWORTH",
