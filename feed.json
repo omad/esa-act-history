@@ -21,42 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GARRAN",
-    "id": "078756-26112025",
-    "latitude": "-35.340821",
-    "longitude": "149.105209",
-    "region": "act",
-    "time_of_call": "26 Nov 2025 05:18:22",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GARRAN",
-    "updated": "26 Nov 2025 06:02:55"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLYNN",
-    "id": "078757-26112025",
-    "latitude": "-35.207317",
-    "longitude": "149.042983",
-    "region": "act",
-    "time_of_call": "26 Nov 2025 05:20:12",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLYNN",
-    "updated": "26 Nov 2025 06:08:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CASEY",
     "id": "078758-26112025",
     "latitude": "-35.167812",
@@ -105,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "26 Nov 2025 06:15:17"
+    "updated": "26 Nov 2025 06:42:49"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +81,13 @@
     "longitude": "149.13437",
     "region": "act",
     "time_of_call": "26 Nov 2025 06:16:16",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": "26 Nov 2025 06:17:29"
+    "updated": "26 Nov 2025 06:42:34"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -1123,5 +1087,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Nov 2025 03:56"
+  },
+  {
+    "title": "GUM ST, LEETON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632947",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.557876587",
+    "longitude": "146.396881104",
+    "region": "nsw",
+    "time_of_call": "26 Nov 2025 06:41:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "18 GUM ST, LEETON 2705",
+    "council_area": "Leeton",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "26 Nov 2025 06:41"
   }
 ]
