@@ -21,37 +21,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "078755-26112025",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
-    "region": "act",
-    "time_of_call": "26 Nov 2025 04:51:03",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KALEEN",
-    "updated": "26 Nov 2025 05:26:16"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GARRAN",
     "id": "078756-26112025",
     "latitude": "-35.340821",
     "longitude": "149.105209",
     "region": "act",
     "time_of_call": "26 Nov 2025 05:18:22",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "26 Nov 2025 05:37:42"
+    "updated": "26 Nov 2025 05:42:14"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +63,31 @@
     "longitude": "149.097085",
     "region": "act",
     "time_of_call": "26 Nov 2025 05:34:12",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CASEY",
+    "updated": "26 Nov 2025 05:43:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONCRIEFF",
+    "id": "078759-26112025",
+    "latitude": "-35.158865",
+    "longitude": "149.117806",
+    "region": "act",
+    "time_of_call": "26 Nov 2025 05:42:08",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "CASEY",
-    "updated": "26 Nov 2025 05:38:49"
+    "location": "MONCRIEFF",
+    "updated": "26 Nov 2025 05:48:22"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -784,12 +784,12 @@
     "updated": "25 Nov 2025 21:02"
   },
   {
-    "title": "NANDALY RD, KOONYUM RANGE",
+    "title": "Koonyum Range",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632826",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-28.539018631",
-    "longitude": "153.401580811",
+    "latitude": "-28.5485933959999",
+    "longitude": "153.401782577",
     "region": "nsw",
     "time_of_call": "25 Nov 2025 19:11:00",
     "event_type": "burnt area",
@@ -798,7 +798,7 @@
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "NANDALY RD, KOONYUM RANGE 2482",
+    "location": "Koonyum Range",
     "council_area": "Byron",
     "type": "Bush Fire",
     "type_description": "",
@@ -1096,7 +1096,7 @@
     "latitude": "-34.643692017",
     "longitude": "146.469207764",
     "region": "nsw",
-    "time_of_call": "26 Nov 2025 05:00:00",
+    "time_of_call": "26 Nov 2025 05:37:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "alert_level": "Not Applicable",
@@ -1108,7 +1108,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Nov 2025 05:00"
+    "updated": "26 Nov 2025 05:37"
   },
   {
     "title": "YARRIE LAKE RD, WEE WAA",
@@ -1118,9 +1118,9 @@
     "latitude": "-30.3237800589999",
     "longitude": "149.474090577",
     "region": "nsw",
-    "time_of_call": "26 Nov 2025 05:18:00",
+    "time_of_call": "26 Nov 2025 05:47:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "YARRIE LAKE RD, WEE WAA 2388",
     "council_area": "Narrabri",
@@ -1128,6 +1128,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Nov 2025 05:18"
+    "updated": "26 Nov 2025 05:47"
   }
 ]
