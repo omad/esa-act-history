@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "26 Nov 2025 05:42:14"
+    "updated": "26 Nov 2025 06:02:55"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "26 Nov 2025 05:25:51"
+    "updated": "26 Nov 2025 06:08:17"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "26 Nov 2025 05:43:44"
+    "updated": "26 Nov 2025 06:13:31"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,49 @@
     "longitude": "149.117806",
     "region": "act",
     "time_of_call": "26 Nov 2025 05:42:08",
-    "status": "Units On Route",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "26 Nov 2025 05:48:22"
+    "updated": "26 Nov 2025 06:14:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KINGSTON",
+    "id": "078760-26112025",
+    "latitude": "-35.315358",
+    "longitude": "149.146868",
+    "region": "act",
+    "time_of_call": "26 Nov 2025 05:58:29",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KINGSTON",
+    "updated": "26 Nov 2025 06:15:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BARTON",
+    "id": "078761-26112025",
+    "latitude": "-35.309306",
+    "longitude": "149.13437",
+    "region": "act",
+    "time_of_call": "26 Nov 2025 06:16:16",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BARTON",
+    "updated": "26 Nov 2025 06:17:29"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -1087,28 +1123,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Nov 2025 03:56"
-  },
-  {
-    "title": "REGULATOR RD, YANCO",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632944",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.643692017",
-    "longitude": "146.469207764",
-    "region": "nsw",
-    "time_of_call": "26 Nov 2025 05:37:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "REGULATOR RD, YANCO 2703",
-    "council_area": "Leeton",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Nov 2025 05:37"
   },
   {
     "title": "YARRIE LAKE RD, WEE WAA",
