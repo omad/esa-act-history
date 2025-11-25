@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "26 Nov 2025 00:25:53"
+    "updated": "26 Nov 2025 00:48:03"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "26 Nov 2025 00:10:33"
+    "updated": "26 Nov 2025 00:51:46"
   },
   {
     "agency": "Ambulance",
@@ -75,24 +75,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHIFLEY",
-    "id": "078714-25112025",
-    "latitude": "-35.351526",
-    "longitude": "149.076955",
-    "region": "act",
-    "time_of_call": "25 Nov 2025 22:52:51",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHIFLEY",
-    "updated": "25 Nov 2025 23:52:43"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - FISHER",
     "id": "078716-25112025",
     "latitude": "-35.360481",
@@ -111,24 +93,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PEARCE",
-    "id": "078717-25112025",
-    "latitude": "-35.361582",
-    "longitude": "149.085118",
-    "region": "act",
-    "time_of_call": "25 Nov 2025 23:11:39",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PEARCE",
-    "updated": "25 Nov 2025 23:50:50"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CITY",
     "id": "078719-25112025",
     "latitude": "-35.282068",
@@ -141,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "26 Nov 2025 00:36:21"
+    "updated": "26 Nov 2025 00:47:37"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "26 Nov 2025 00:33:42"
+    "updated": "26 Nov 2025 00:49:39"
   },
   {
     "agency": "Ambulance",
@@ -214,6 +178,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
     "updated": "26 Nov 2025 00:27:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "078728-26112025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "26 Nov 2025 00:40:01",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "26 Nov 2025 00:40:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "078729-26112025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "26 Nov 2025 00:44:54",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "26 Nov 2025 00:51:16"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -1200,9 +1200,9 @@
     "latitude": "-34.579875946",
     "longitude": "146.399230957",
     "region": "nsw",
-    "time_of_call": "26 Nov 2025 00:23:00",
+    "time_of_call": "26 Nov 2025 00:34:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BACK YANCO RD, LEETON 2705",
     "council_area": "Leeton",
@@ -1212,6 +1212,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Nov 2025 00:23"
+    "updated": "26 Nov 2025 00:34"
+  },
+  {
+    "title": "RACECOURSE AV",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632935",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.102359771",
+    "longitude": "150.744262695",
+    "region": "nsw",
+    "time_of_call": "26 Nov 2025 00:45:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MENANGLE PARK RACEWAY RACECOURSE AV, MENANGLE PARK 2563",
+    "council_area": "Campbelltown",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Nov 2025 00:45"
   }
 ]
