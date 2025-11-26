@@ -69,15 +69,15 @@
     "longitude": "149.09538341",
     "region": "act",
     "time_of_call": "26 Nov 2025 17:23:45",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "ELECTRICAL THREAT OR POWER LINES DOWN",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/electrical-threat_0.svg",
     "location": "RUSHBROOK CIRCUIT, ISABELLA PLAINS, 2905",
-    "updated": "26 Nov 2025 18:00:21"
+    "updated": "27 Nov 2025 07:23:24"
   },
   {
     "agency": "Fire",
@@ -140,7 +140,7 @@
     "updated": "26 Nov 2025 22:08:25"
   },
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - TUGGERANONG",
@@ -157,7 +157,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "LONG GULLY ROAD, MUGGA LANE, TUGGERANONG, 0000",
-    "updated": "27 Nov 2025 06:34:02"
+    "updated": "27 Nov 2025 06:59:06"
   },
   {
     "agency": "Fire",
@@ -177,7 +177,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "COTTAGE GROVE, WERE STREET, CALWELL, 2905",
-    "updated": "27 Nov 2025 06:40:22"
+    "updated": "27 Nov 2025 07:10:25"
   },
   {
     "agency": "Fire",
@@ -197,7 +197,27 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "MERMAID STREET, RED HILL, 2603",
-    "updated": "27 Nov 2025 06:46:44"
+    "updated": "27 Nov 2025 07:11:58"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STORM OR TREE DAMAGE - WARAMANGA",
+    "id": "018144-27112025",
+    "latitude": "-35.35039213",
+    "longitude": "149.05957759",
+    "region": "act",
+    "time_of_call": "27 Nov 2025 07:22:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "GARANYA STREET, WARAMANGA, 2611",
+    "updated": "27 Nov 2025 07:24:04"
   },
   {
     "agency": "Ambulance",
@@ -216,24 +236,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
     "updated": "27 Nov 2025 06:31:47"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHISHOLM",
-    "id": "078974-27112025",
-    "latitude": "-35.422993",
-    "longitude": "149.12793",
-    "region": "act",
-    "time_of_call": "27 Nov 2025 01:50:11",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHISHOLM",
-    "updated": "27 Nov 2025 06:30:13"
   },
   {
     "agency": "Ambulance",
@@ -281,13 +283,13 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "27 Nov 2025 04:38:36",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "27 Nov 2025 06:47:56"
+    "updated": "27 Nov 2025 07:24:15"
   },
   {
     "agency": "Ambulance",
@@ -305,25 +307,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "27 Nov 2025 04:57:04"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GOWRIE",
-    "id": "078994-27112025",
-    "latitude": "-35.411365",
-    "longitude": "149.110257",
-    "region": "act",
-    "time_of_call": "27 Nov 2025 04:55:21",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GOWRIE",
-    "updated": "27 Nov 2025 05:48:39"
+    "updated": "27 Nov 2025 07:06:22"
   },
   {
     "agency": "Ambulance",
@@ -341,25 +325,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "27 Nov 2025 05:35:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "078997-27112025",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "27 Nov 2025 05:39:44",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": ""
+    "updated": "27 Nov 2025 07:21:21"
   },
   {
     "agency": "Ambulance",
@@ -377,7 +343,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "27 Nov 2025 06:14:51"
+    "updated": "27 Nov 2025 07:07:28"
   },
   {
     "agency": "Ambulance",
@@ -389,13 +355,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "27 Nov 2025 06:35:05",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "27 Nov 2025 06:48:16"
+    "updated": "27 Nov 2025 07:16:50"
   },
   {
     "agency": "Ambulance",
@@ -413,7 +379,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "27 Nov 2025 06:45:51"
+    "updated": "27 Nov 2025 06:50:17"
   },
   {
     "agency": "Ambulance",
@@ -425,13 +391,85 @@
     "longitude": "149.081053",
     "region": "act",
     "time_of_call": "27 Nov 2025 06:40:46",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONYTHON",
+    "updated": "27 Nov 2025 06:50:41"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "079004-27112025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "27 Nov 2025 06:49:40",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "27 Nov 2025 07:26:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "079005-27112025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "27 Nov 2025 07:09:24",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "27 Nov 2025 07:26:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
+    "id": "079006-27112025",
+    "latitude": "-35.333366",
+    "longitude": "149.146674",
+    "region": "act",
+    "time_of_call": "27 Nov 2025 07:13:06",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "BONYTHON",
-    "updated": "27 Nov 2025 06:43:41"
+    "location": "NARRABUNDAH",
+    "updated": "27 Nov 2025 07:20:04"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "079007-27112025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "27 Nov 2025 07:13:38",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "27 Nov 2025 07:22:25"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -1650,7 +1688,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "541 ha",
-    "major_fire_update_as_at_26_nov_2025_7:34pm": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12335' target='_blank'> More information</a>",
+    "major_fire_update_as_at_27_nov_2025_7:20am": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12335' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Nov 2025 21:02"
   },
@@ -2184,25 +2222,23 @@
     "updated": "27 Nov 2025 01:36"
   },
   {
-    "title": "KENTHURST RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_633357",
+    "title": "IRWINS RD, KOORAINGHAT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_633358",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.666946411",
-    "longitude": "151.002456665",
+    "latitude": "-31.973985672",
+    "longitude": "152.517044067",
     "region": "nsw",
-    "time_of_call": "27 Nov 2025 06:46:00",
+    "time_of_call": "27 Nov 2025 07:02:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "KENTGROVE RETIREMENT VILLAGE 116B KENTHURST RD, KENTHURST 2156",
-    "council_area": "The Hills",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "location": "IRWINS RD, KOORAINGHAT 2430",
+    "council_area": "Mid-Coast",
+    "type": "Flood/Storm/Tree Down",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Nov 2025 06:46"
+    "updated": "27 Nov 2025 07:02"
   }
 ]
