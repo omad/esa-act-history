@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "28 Nov 2025 01:27:50"
+    "updated": "28 Nov 2025 01:39:12"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "27 Nov 2025 23:54:59",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "28 Nov 2025 01:22:15"
+    "updated": "28 Nov 2025 01:40:33"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "28 Nov 2025 01:24:58"
+    "updated": "28 Nov 2025 01:39:12"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "28 Nov 2025 00:58:50"
+    "updated": "28 Nov 2025 01:49:46"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +209,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "28 Nov 2025 00:56:02",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "28 Nov 2025 01:19:20"
+    "updated": "28 Nov 2025 01:50:13"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +251,79 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "28 Nov 2025 01:28:42"
+    "updated": "28 Nov 2025 01:45:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "079240-28112025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "28 Nov 2025 01:30:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "28 Nov 2025 01:34:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUNLOP",
+    "id": "079241-28112025",
+    "latitude": "-35.193951",
+    "longitude": "149.019471",
+    "region": "act",
+    "time_of_call": "28 Nov 2025 01:34:24",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUNLOP",
+    "updated": "28 Nov 2025 01:44:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "079242-28112025",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "28 Nov 2025 01:36:59",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "28 Nov 2025 01:43:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "079243-28112025",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "28 Nov 2025 01:39:04",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "28 Nov 2025 01:43:29"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -1222,7 +1294,7 @@
     "latitude": "-32.680614471",
     "longitude": "148.910995484",
     "region": "nsw",
-    "time_of_call": "27 Nov 2025 13:09:00",
+    "time_of_call": "28 Nov 2025 01:47:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1237,7 +1309,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Nov 2025 13:09"
+    "updated": "28 Nov 2025 01:47"
   },
   {
     "title": "GARLINGS TRL, ELONG ELONG",
@@ -1910,12 +1982,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_633521",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.783428192",
-    "longitude": "146.525115967",
+    "latitude": "-33.7764363169999",
+    "longitude": "146.511611938",
     "region": "nsw",
-    "time_of_call": "28 Nov 2025 00:38:00",
+    "time_of_call": "28 Nov 2025 01:47:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "1033 MUD HUT WEST RD, WEETHALLE 2669",
     "council_area": "Bland",
@@ -1925,7 +1997,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Nov 2025 00:38"
+    "updated": "28 Nov 2025 01:47"
   },
   {
     "title": "BROCKLESBY RD, MEDOWIE",
@@ -1951,27 +2023,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Nov 2025 01:13"
-  },
-  {
-    "title": "WESTERN MTWY, ORCHARD HILLS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_633525",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.784786224",
-    "longitude": "150.726882935",
-    "region": "nsw",
-    "time_of_call": "28 Nov 2025 01:18:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "WESTERN MTWY, ORCHARD HILLS 2748",
-    "council_area": "Penrith",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Nov 2025 01:18"
   }
 ]
