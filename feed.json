@@ -35,25 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "28 Nov 2025 06:32:29"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - RED HILL",
-    "id": "079256-28112025",
-    "latitude": "-35.333636",
-    "longitude": "149.120031",
-    "region": "act",
-    "time_of_call": "28 Nov 2025 06:33:11",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "RED HILL",
-    "updated": "28 Nov 2025 06:43:58"
+    "updated": "28 Nov 2025 07:01:41"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "28 Nov 2025 06:45:48"
+    "updated": "28 Nov 2025 07:25:23"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +65,31 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "28 Nov 2025 06:41:59",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "28 Nov 2025 07:16:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "079259-28112025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "28 Nov 2025 07:04:57",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "28 Nov 2025 06:47:42"
+    "location": "FARRER",
+    "updated": "28 Nov 2025 07:16:54"
   },
   {
     "title": "VISPY PULP & PAPER MILL REKASIDING RD, GADARA",
@@ -1753,9 +1753,9 @@
     "latitude": "-29.381620407",
     "longitude": "151.892593384",
     "region": "nsw",
-    "time_of_call": "28 Nov 2025 06:04:00",
+    "time_of_call": "28 Nov 2025 07:04:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "NEW ENGLAND HWY, DEEPWATER 2371",
     "council_area": "Tenterfield",
@@ -1765,7 +1765,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Nov 2025 06:04"
+    "updated": "28 Nov 2025 07:04"
   },
   {
     "title": "HUME HWY, GUNNING",
@@ -1775,9 +1775,9 @@
     "latitude": "-34.8006782529999",
     "longitude": "149.290496826",
     "region": "nsw",
-    "time_of_call": "28 Nov 2025 06:26:00",
+    "time_of_call": "28 Nov 2025 07:18:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "HUME HWY, GUNNING 2581",
     "council_area": "Upper Lachlan",
@@ -1787,6 +1787,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Nov 2025 06:26"
+    "updated": "28 Nov 2025 07:18"
+  },
+  {
+    "title": "WERRIS CREEK RD, WERRIS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_633531",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.316671371",
+    "longitude": "150.650344848",
+    "region": "nsw",
+    "time_of_call": "28 Nov 2025 07:22:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "WERRIS CREEK RD, WERRIS CREEK 2341",
+    "council_area": "Liverpool Plains",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Nov 2025 07:22"
   }
 ]
