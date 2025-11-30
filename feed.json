@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RUSSELL",
-    "updated": "01 Dec 2025 08:08:58"
+    "updated": "01 Dec 2025 08:27:32"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "01 Dec 2025 08:18:10"
+    "updated": "01 Dec 2025 08:26:59"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "01 Dec 2025 08:20:43"
+    "updated": "01 Dec 2025 08:33:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "079997-01122025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "01 Dec 2025 08:30:30",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "01 Dec 2025 08:33:22"
   },
   {
     "title": "TENTERFIELD RD, NORTH ARM COVE",
@@ -1151,7 +1169,7 @@
     "latitude": "-32.82882309",
     "longitude": "151.533996582",
     "region": "nsw",
-    "time_of_call": "30 Nov 2025 23:43:00",
+    "time_of_call": "01 Dec 2025 08:24:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1166,10 +1184,10 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Nov 2025 23:43"
+    "updated": "1 Dec 2025 08:24"
   },
   {
-    "title": "Wollondilly Lookout",
+    "title": "FIRETRAIL, HIGH RANGE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_633938",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -1183,7 +1201,7 @@
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "Wollondilly Lookout",
+    "location": "WOLLONDILLY LOOKOUT W4 FIRETRAIL, HIGH RANGE 2575",
     "council_area": "Wingecarribee",
     "type": "Bush Fire",
     "type_description": "",
@@ -1346,7 +1364,7 @@
     "latitude": "-32.8181037909999",
     "longitude": "151.571044922",
     "region": "nsw",
-    "time_of_call": "30 Nov 2025 23:45:00",
+    "time_of_call": "01 Dec 2025 08:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1361,7 +1379,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Nov 2025 23:45"
+    "updated": "1 Dec 2025 08:22"
   },
   {
     "title": "JOHN RENSHAW DR X MT VINCENT RD , BUCHANAN",
@@ -1694,28 +1712,6 @@
     "updated": "1 Dec 2025 03:15"
   },
   {
-    "title": "OKEEFE DR, ORAN PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634057",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.0086326599999",
-    "longitude": "150.748657226",
-    "region": "nsw",
-    "time_of_call": "01 Dec 2025 05:34:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "73 OKEEFE DR, ORAN PARK 2570",
-    "council_area": "Camden",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Dec 2025 05:34"
-  },
-  {
     "title": "RIVER MINT AV, LEPPINGTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634059",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1760,26 +1756,6 @@
     "updated": "1 Dec 2025 07:35"
   },
   {
-    "title": "LAVIS LANE, WILLIAMTOWN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634061",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.8251914969999",
-    "longitude": "151.86656189",
-    "region": "nsw",
-    "time_of_call": "01 Dec 2025 07:55:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "LAVIS LANE, WILLIAMTOWN 2318",
-    "council_area": "Port Stephens",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2025 07:55"
-  },
-  {
     "title": "PICTON RD, WILTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634062",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1802,48 +1778,6 @@
     "updated": "1 Dec 2025 07:34"
   },
   {
-    "title": "STONY CREEK RD, SHANES PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634063",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.706115723",
-    "longitude": "150.782455445",
-    "region": "nsw",
-    "time_of_call": "01 Dec 2025 07:56:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "34 STONY CREEK RD, SHANES PARK 2747",
-    "council_area": "Blacktown",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2025 07:56"
-  },
-  {
-    "title": "CARGO RD, LIDSTER",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634064",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.3594627379999",
-    "longitude": "148.907821656",
-    "region": "nsw",
-    "time_of_call": "01 Dec 2025 08:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "CARGO RD, LIDSTER 2800",
-    "council_area": "Cabonne",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2025 08:07"
-  },
-  {
     "title": "THOMPSON ST, SCOTLAND ISLAND",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634066",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1851,9 +1785,9 @@
     "latitude": "-33.640281677",
     "longitude": "151.289031983",
     "region": "nsw",
-    "time_of_call": "01 Dec 2025 08:18:00",
+    "time_of_call": "01 Dec 2025 08:29:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "72 THOMPSON ST, SCOTLAND ISLAND 2105",
     "council_area": "Northern Beaches",
@@ -1863,29 +1797,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2025 08:18"
-  },
-  {
-    "title": "THE WOOL RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634068",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.0773544319999",
-    "longitude": "150.665023803",
-    "region": "nsw",
-    "time_of_call": "01 Dec 2025 08:16:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "VINCENTIA HIGH SCHOOL 142 THE WOOL RD, VINCENTIA 2540",
-    "council_area": "Shoalhaven",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2025 08:16"
+    "updated": "1 Dec 2025 08:29"
   },
   {
     "title": "ADAVILLE MITCHELL HWY, NYNGAN",
@@ -1908,5 +1820,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Dec 2025 08:20"
+  },
+  {
+    "title": "Aberford St, Coonamble",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634070",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.9545229999999",
+    "longitude": "148.392847",
+    "region": "nsw",
+    "time_of_call": "01 Dec 2025 08:30:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "22 Aberford St, Coonamble, NSW 2829",
+    "council_area": "Coonamble",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "1 Dec 2025 08:30"
   }
 ]
