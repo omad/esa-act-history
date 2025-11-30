@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "01 Dec 2025 02:19:42"
+    "updated": "01 Dec 2025 02:32:18"
   },
   {
     "agency": "Ambulance",
@@ -57,24 +57,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FADDEN",
-    "id": "079966-01122025",
-    "latitude": "-35.402396",
-    "longitude": "149.118589",
-    "region": "act",
-    "time_of_call": "01 Dec 2025 01:44:56",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FADDEN",
-    "updated": "01 Dec 2025 01:48:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - STIRLING",
     "id": "079967-01122025",
     "latitude": "-35.351472",
@@ -99,13 +81,31 @@
     "longitude": "149.076954",
     "region": "act",
     "time_of_call": "01 Dec 2025 02:21:25",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "01 Dec 2025 02:21:59"
+    "updated": "01 Dec 2025 02:28:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "079969-01122025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "01 Dec 2025 02:26:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": "01 Dec 2025 02:31:05"
   },
   {
     "title": "TENTERFIELD RD, NORTH ARM COVE",
@@ -1760,31 +1760,6 @@
     "updated": "1 Dec 2025 01:09"
   },
   {
-    "title": "Gordon Nixon Av, West Kempsey",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634045",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.0593699999999",
-    "longitude": "152.826538",
-    "region": "nsw",
-    "time_of_call": "01 Dec 2025 02:18:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Gordon Nixon Av, West Kempsey, NSW 2440",
-    "council_area": "Kempsey",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Dec 2025 02:18"
-  },
-  {
     "title": "NEWMAN RD, MINTO HEIGHTS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634046",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1814,9 +1789,9 @@
     "latitude": "-30.9549039999999",
     "longitude": "148.392859",
     "region": "nsw",
-    "time_of_call": "01 Dec 2025 02:20:00",
+    "time_of_call": "01 Dec 2025 02:29:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1829,6 +1804,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Dec 2025 02:20"
+    "updated": "1 Dec 2025 02:29"
   }
 ]
