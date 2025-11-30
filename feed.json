@@ -27,13 +27,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "01 Dec 2025 01:31:11",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "01 Dec 2025 02:21:37"
+    "updated": "01 Dec 2025 02:40:06"
   },
   {
     "agency": "Ambulance",
@@ -106,6 +106,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
     "updated": "01 Dec 2025 02:31:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "079970-01122025",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "01 Dec 2025 02:39:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "01 Dec 2025 02:44:16"
   },
   {
     "title": "TENTERFIELD RD, NORTH ARM COVE",
@@ -1742,7 +1760,7 @@
     "latitude": "-34.082733155",
     "longitude": "150.840927124",
     "region": "nsw",
-    "time_of_call": "01 Dec 2025 01:09:00",
+    "time_of_call": "01 Dec 2025 02:40:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -1757,7 +1775,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2025 01:09"
+    "updated": "1 Dec 2025 02:40"
   },
   {
     "title": "NEWMAN RD, MINTO HEIGHTS",
@@ -1767,10 +1785,13 @@
     "latitude": "-34.044094086",
     "longitude": "150.867248535",
     "region": "nsw",
-    "time_of_call": "01 Dec 2025 02:13:00",
+    "time_of_call": "01 Dec 2025 02:41:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "64 NEWMAN RD, MINTO HEIGHTS 2566",
     "council_area": "Campbelltown",
     "type": "Bush Fire",
@@ -1779,7 +1800,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2025 02:13"
+    "updated": "1 Dec 2025 02:41"
   },
   {
     "title": "Aberford St, Coonamble",
