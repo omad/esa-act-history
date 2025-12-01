@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BONYTHON",
-    "id": "080245-02122025",
-    "latitude": "-35.435736",
-    "longitude": "149.081053",
-    "region": "act",
-    "time_of_call": "02 Dec 2025 06:09:32",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BONYTHON",
-    "updated": "02 Dec 2025 07:34:57"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WESTON",
     "id": "080252-02122025",
     "latitude": "-35.335896",
@@ -34,6 +16,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
     "updated": "02 Dec 2025 07:45:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHISHOLM",
+    "id": "080253-02122025",
+    "latitude": "-35.422993",
+    "longitude": "149.12793",
+    "region": "act",
+    "time_of_call": "02 Dec 2025 07:48:11",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHISHOLM",
+    "updated": "02 Dec 2025 08:09:17"
   },
   {
     "title": "TENTERFIELD RD, NORTH ARM COVE",
@@ -174,7 +174,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "267 ha",
-    "major_fire_update_as_at_1_dec_2025_5:22pm": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12360' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Dec 2025 13:14"
   },
@@ -186,7 +185,7 @@
     "latitude": "-32.639411926",
     "longitude": "151.931976318",
     "region": "nsw",
-    "time_of_call": "01 Dec 2025 16:11:00",
+    "time_of_call": "02 Dec 2025 08:08:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -201,7 +200,7 @@
     "fire": "Yes",
     "size": "20 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2025 16:11"
+    "updated": "2 Dec 2025 08:08"
   },
   {
     "title": "CANEENS GAP TRL, UPPER ROUCHEL",
@@ -225,7 +224,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "106 ha",
-    "major_fire_update_as_at_1_dec_2025_5:22pm": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12360' target='_blank'> More information</a>",
+    "major_fire_update_as_at_2_dec_2025_7:52am": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12360' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Dec 2025 15:28"
   },
@@ -376,7 +375,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "1437 ha",
-    "major_fire_update_as_at_1_dec_2025_5:12pm": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12355' target='_blank'> More information</a>",
+    "major_fire_update_as_at_2_dec_2025_7:46am": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12355' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Dec 2025 03:49"
   },
@@ -689,28 +688,6 @@
     "updated": "30 Nov 2025 06:46"
   },
   {
-    "title": "BINGARA RD, MOREE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_633909",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.4731044769999",
-    "longitude": "149.852920532",
-    "region": "nsw",
-    "time_of_call": "30 Nov 2025 10:30:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BINGARA RD, MOREE 2400",
-    "council_area": "Moree Plains",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "30 Nov 2025 10:30"
-  },
-  {
     "title": "HOWARDS FIRE, CEDAR CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_633912",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -718,7 +695,7 @@
     "latitude": "-32.871498108",
     "longitude": "151.158050537",
     "region": "nsw",
-    "time_of_call": "01 Dec 2025 20:03:00",
+    "time_of_call": "02 Dec 2025 08:12:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -731,9 +708,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "32 ha",
+    "size": "34 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2025 20:03"
+    "updated": "2 Dec 2025 08:12"
   },
   {
     "title": "Wollondilly Lookout",
@@ -940,9 +917,9 @@
     "latitude": "-28.7833671559999",
     "longitude": "152.391967774",
     "region": "nsw",
-    "time_of_call": "01 Dec 2025 20:27:00",
+    "time_of_call": "02 Dec 2025 08:15:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "512C CHEVIOT HILLS RD, DRAKE 2469",
     "council_area": "Tenterfield",
@@ -952,7 +929,7 @@
     "fire": "Yes",
     "size": "233 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2025 20:27"
+    "updated": "2 Dec 2025 08:15"
   },
   {
     "title": "PUTTY RD, PUTTY",
@@ -1165,23 +1142,28 @@
     "updated": "2 Dec 2025 06:41"
   },
   {
-    "title": "ELIMATTA RD, YARRAWONGA PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634185",
+    "title": "Heyson St, West Kempsey",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634186",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.101451874",
-    "longitude": "151.543548584",
+    "latitude": "-31.0604949999999",
+    "longitude": "152.815142",
     "region": "nsw",
-    "time_of_call": "02 Dec 2025 07:29:00",
+    "time_of_call": "02 Dec 2025 08:20:00",
     "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "35 ELIMATTA RD, YARRAWONGA PARK 2264",
-    "council_area": "Lake Macquarie",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Heyson St, West Kempsey, NSW 2440",
+    "council_area": "Kempsey",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Dec 2025 07:29"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "2 Dec 2025 08:20"
   }
 ]
