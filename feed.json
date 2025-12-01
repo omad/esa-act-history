@@ -51,25 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "02 Dec 2025 02:22:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CAMPBELL",
-    "id": "080216-02122025",
-    "latitude": "-35.288663",
-    "longitude": "149.155928",
-    "region": "act",
-    "time_of_call": "02 Dec 2025 00:38:35",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CAMPBELL",
-    "updated": "02 Dec 2025 01:57:41"
+    "updated": "02 Dec 2025 02:41:53"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "02 Dec 2025 02:20:14"
+    "updated": "02 Dec 2025 02:47:27"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +117,13 @@
     "longitude": "149.140719",
     "region": "act",
     "time_of_call": "02 Dec 2025 02:00:50",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "02 Dec 2025 02:29:30"
+    "updated": "02 Dec 2025 02:46:16"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +141,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "02 Dec 2025 02:29:54"
+    "updated": "02 Dec 2025 02:31:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "080233-02122025",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "02 Dec 2025 02:44:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "02 Dec 2025 02:49:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "080234-02122025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "02 Dec 2025 02:45:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "02 Dec 2025 02:49:11"
   },
   {
     "title": "TENTERFIELD RD, NORTH ARM COVE",
@@ -1044,7 +1062,7 @@
     "latitude": "-32.332199096",
     "longitude": "149.062393189",
     "region": "nsw",
-    "time_of_call": "01 Dec 2025 09:25:00",
+    "time_of_call": "02 Dec 2025 02:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1056,7 +1074,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2025 09:25"
+    "updated": "2 Dec 2025 02:33"
   },
   {
     "title": "Cheviot Hills",
@@ -1289,5 +1307,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Dec 2025 02:25"
+  },
+  {
+    "title": "PACIFIC HWY, MURRAYS BEACH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634177",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.105998993",
+    "longitude": "151.62600708",
+    "region": "nsw",
+    "time_of_call": "02 Dec 2025 02:46:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, MURRAYS BEACH 2281",
+    "council_area": "Lake Macquarie",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Dec 2025 02:46"
   }
 ]
