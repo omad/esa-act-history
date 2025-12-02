@@ -29,15 +29,33 @@
     "longitude": "149.075118",
     "region": "act",
     "time_of_call": "03 Dec 2025 08:06:57",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "DRAKEFORD DRIVE, ERINDALE DRIVE, OXLEY, 2903",
-    "updated": "03 Dec 2025 08:17:55"
+    "updated": "03 Dec 2025 08:26:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
+    "id": "080447-03122025",
+    "latitude": "-35.425091",
+    "longitude": "149.088064",
+    "region": "act",
+    "time_of_call": "03 Dec 2025 06:35:46",
+    "status": "Finished",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "03 Dec 2025 08:36:53"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +109,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "03 Dec 2025 08:12:22"
+    "updated": "03 Dec 2025 08:41:48"
   },
   {
     "agency": "Ambulance",
@@ -110,24 +128,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CRACE",
     "updated": "03 Dec 2025 07:26:04"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "080457-03122025",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "03 Dec 2025 07:22:57",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "03 Dec 2025 08:19:13"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "03 Dec 2025 08:07:17"
+    "updated": "03 Dec 2025 08:37:03"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "03 Dec 2025 08:21:28"
+    "updated": "03 Dec 2025 08:46:36"
   },
   {
     "agency": "Ambulance",
@@ -229,13 +229,13 @@
     "longitude": "149.111133",
     "region": "act",
     "time_of_call": "03 Dec 2025 08:25:37",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "03 Dec 2025 08:25:47"
+    "updated": ""
   },
   {
     "title": "TENTERFIELD RD, NORTH ARM COVE",
@@ -502,7 +502,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "1431 ha",
-    "major_fire_update_as_at_2_dec_2025_6:57pm": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12355' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Dec 2025 05:16"
   },
@@ -777,6 +776,28 @@
     "updated": "2 Dec 2025 10:24"
   },
   {
+    "title": "Dillwynia HR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634065",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.800582885",
+    "longitude": "150.673110961",
+    "region": "nsw",
+    "time_of_call": "03 Dec 2025 08:29:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "DILLWYNIA TRL, MULGOA 2745",
+    "council_area": "Penrith",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "36 ha",
+    "responsible_agency": "NSW National Parks and Wildlife Service",
+    "updated": "3 Dec 2025 08:29"
+  },
+  {
     "title": "SPICERS CREEK RD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634072",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1013,31 +1034,6 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "3 Dec 2025 07:35"
-  },
-  {
-    "title": "GWYDIR HWY, ROB ROY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634220",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.737865448",
-    "longitude": "151.003097535",
-    "region": "nsw",
-    "time_of_call": "02 Dec 2025 14:46:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "GWYDIR HWY, ROB ROY 2360",
-    "council_area": "Inverell",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Dec 2025 14:46"
   },
   {
     "title": "MACLEAY VALLEY WAY, CLYBUCCA",
@@ -1338,31 +1334,6 @@
     "updated": "3 Dec 2025 08:17"
   },
   {
-    "title": "Fairey Rd, South Windsor",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634310",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.626881",
-    "longitude": "150.814725",
-    "region": "nsw",
-    "time_of_call": "03 Dec 2025 08:19:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Fairey Rd, South Windsor, NSW 2756",
-    "council_area": "Hawkesbury",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "3 Dec 2025 08:19"
-  },
-  {
     "title": "COBBITTY RD, COBBITTY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634311",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1370,9 +1341,9 @@
     "latitude": "-34.014869689",
     "longitude": "150.709381104",
     "region": "nsw",
-    "time_of_call": "03 Dec 2025 08:13:00",
+    "time_of_call": "03 Dec 2025 08:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "COBBITTY RD, COBBITTY 2570",
     "council_area": "Camden",
@@ -1382,6 +1353,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Dec 2025 08:13"
+    "updated": "3 Dec 2025 08:38"
+  },
+  {
+    "title": "NANCY DR, BADGERYS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634312",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.882404327",
+    "longitude": "150.729812622",
+    "region": "nsw",
+    "time_of_call": "03 Dec 2025 08:43:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "NANCY DR, BADGERYS CREEK 2555",
+    "council_area": "Liverpool",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Dec 2025 08:43"
   }
 ]
