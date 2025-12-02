@@ -9,13 +9,13 @@
     "longitude": "149.072217",
     "region": "act",
     "time_of_call": "03 Dec 2025 06:09:23",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "03 Dec 2025 06:14:27"
+    "updated": "03 Dec 2025 06:41:05"
   },
   {
     "agency": "Ambulance",
@@ -27,13 +27,13 @@
     "longitude": "149.111133",
     "region": "act",
     "time_of_call": "03 Dec 2025 06:31:03",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "03 Dec 2025 06:34:56"
+    "updated": "03 Dec 2025 06:38:28"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "ISABELLA PLAINS",
-    "updated": "03 Dec 2025 06:37:49"
+    "updated": "03 Dec 2025 06:42:52"
   },
   {
     "title": "TENTERFIELD RD, NORTH ARM COVE",
@@ -1110,31 +1110,6 @@
     "updated": "3 Dec 2025 00:31"
   },
   {
-    "title": "Centenary Rd, South Wentworthville",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634287",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.826293",
-    "longitude": "150.969087",
-    "region": "nsw",
-    "time_of_call": "02 Dec 2025 23:03:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "78 Centenary Rd, South Wentworthville, NSW 2145",
-    "council_area": "Cumberland",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "2 Dec 2025 23:03"
-  },
-  {
     "title": "HENRY PARKES WAY, BOGAN GATE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634290",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1202,5 +1177,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "3 Dec 2025 04:47"
+  },
+  {
+    "title": "MARTIN ST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634306",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.82153511",
+    "longitude": "149.709991456",
+    "region": "nsw",
+    "time_of_call": "03 Dec 2025 06:37:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "COOLAH DISTRICT HOSPITAL 111-135 MARTIN ST, COOLAH 2843",
+    "council_area": "Warrumbungle",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "3 Dec 2025 06:37"
+  },
+  {
+    "title": "THE PADDOCK RD, WAUCHOPE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634307",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.473289489",
+    "longitude": "152.708999634",
+    "region": "nsw",
+    "time_of_call": "03 Dec 2025 06:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "THE PADDOCK RD, WAUCHOPE 2446",
+    "council_area": "Port Macquarie-Hastings",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "3 Dec 2025 06:36"
   }
 ]
