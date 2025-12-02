@@ -1,26 +1,6 @@
 [
   {
     "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "CAR FIRE - KOWEN",
-    "id": "018453-02122025",
-    "latitude": "-35.33242899",
-    "longitude": "149.33110199",
-    "region": "act",
-    "time_of_call": "02 Dec 2025 15:42:11",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "CAR FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
-    "location": "KINGS HIGHWAY, SPARROW HILL ROAD, KOWEN, 0000",
-    "updated": "02 Dec 2025 17:10:25"
-  },
-  {
-    "agency": "Fire",
     "alert_level": "Advice",
     "event_type": "incident",
     "title": "GRASS AND BUSH FIRE - MAJURA",
@@ -49,6 +29,26 @@
     "longitude": "149.0623168945",
     "region": "act",
     "time_of_call": "02 Dec 2025 17:47:42",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "TUGGERANONG PARKWAY, COTTER ROAD OFF RAMP, WESTON CREEK, 0000",
+    "updated": "02 Dec 2025 18:13:35"
+  },
+  {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - BELCONNEN",
+    "id": "018461-02122025",
+    "latitude": "-35.20143",
+    "longitude": "149.09431",
+    "region": "act",
+    "time_of_call": "02 Dec 2025 18:10:00",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
@@ -56,8 +56,8 @@
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "TUGGERANONG PARKWAY, COTTER ROAD OFF RAMP, WESTON CREEK, 0000",
-    "updated": "02 Dec 2025 17:58:51"
+    "location": "ROUNDABOUT, BARTON HIGHWAY, GUNDAROO DRIVE, BELCONNEN, 0000",
+    "updated": "02 Dec 2025 18:26:13"
   },
   {
     "agency": "Ambulance",
@@ -76,42 +76,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
     "updated": "02 Dec 2025 15:21:42"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - O'MALLEY",
-    "id": "080345-02122025",
-    "latitude": "-35.351388",
-    "longitude": "149.111757",
-    "region": "act",
-    "time_of_call": "02 Dec 2025 15:51:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "O'MALLEY",
-    "updated": "02 Dec 2025 16:52:16"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "080354-02122025",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "02 Dec 2025 16:17:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "02 Dec 2025 17:08:59"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "02 Dec 2025 17:49:32"
+    "updated": "02 Dec 2025 18:08:02"
   },
   {
     "agency": "Ambulance",
@@ -165,25 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "02 Dec 2025 17:45:50"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - EVATT",
-    "id": "080363-02122025",
-    "latitude": "-35.212001",
-    "longitude": "149.066294",
-    "region": "act",
-    "time_of_call": "02 Dec 2025 17:05:40",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "EVATT",
-    "updated": "02 Dec 2025 17:55:34"
+    "updated": "02 Dec 2025 18:04:56"
   },
   {
     "agency": "Ambulance",
@@ -201,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "02 Dec 2025 17:51:28"
+    "updated": "02 Dec 2025 18:14:11"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "02 Dec 2025 17:27:26"
+    "updated": "02 Dec 2025 18:04:17"
   },
   {
     "agency": "Ambulance",
@@ -237,7 +183,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "02 Dec 2025 17:58:01"
+    "updated": "02 Dec 2025 18:22:09"
   },
   {
     "agency": "Ambulance",
@@ -255,7 +201,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "02 Dec 2025 17:34:22"
+    "updated": "02 Dec 2025 18:19:13"
   },
   {
     "agency": "Ambulance",
@@ -267,13 +213,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "02 Dec 2025 17:36:57",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "02 Dec 2025 17:44:58"
+    "updated": "02 Dec 2025 18:28:26"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +237,79 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "02 Dec 2025 17:49:02"
+    "updated": "02 Dec 2025 18:23:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "080374-02122025",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "02 Dec 2025 18:17:05",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "02 Dec 2025 18:20:04"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
+    "id": "080375-02122025",
+    "latitude": "-35.17365",
+    "longitude": "149.112409",
+    "region": "act",
+    "time_of_call": "02 Dec 2025 18:17:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NGUNNAWAL",
+    "updated": "02 Dec 2025 18:20:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "080376-02122025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "02 Dec 2025 18:19:34",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "02 Dec 2025 18:26:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "080378-02122025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "02 Dec 2025 18:27:16",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "02 Dec 2025 18:28:37"
   },
   {
     "title": "TENTERFIELD RD, NORTH ARM COVE",
@@ -346,7 +364,7 @@
     "latitude": "-34.600284577",
     "longitude": "146.170944214",
     "region": "nsw",
-    "time_of_call": "30 Nov 2025 21:32:00",
+    "time_of_call": "02 Dec 2025 18:15:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -358,7 +376,7 @@
     "fire": "Yes",
     "size": "6 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Nov 2025 21:32"
+    "updated": "2 Dec 2025 18:15"
   },
   {
     "title": "WARRABA RD, THE BRANCH",
@@ -780,28 +798,6 @@
     "updated": "1 Dec 2025 10:27"
   },
   {
-    "title": "COOEE ST, MOREE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_633892",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.478004455",
-    "longitude": "149.834899902",
-    "region": "nsw",
-    "time_of_call": "30 Nov 2025 06:46:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "7 COOEE ST, MOREE 2400",
-    "council_area": "Moree Plains",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "30 Nov 2025 06:46"
-  },
-  {
     "title": "HOWARDS FIRE, CEDAR CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_633912",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1128,7 +1124,7 @@
     "latitude": "-34.535678864",
     "longitude": "146.174301147",
     "region": "nsw",
-    "time_of_call": "01 Dec 2025 21:16:00",
+    "time_of_call": "02 Dec 2025 18:17:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1140,7 +1136,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Dec 2025 21:16"
+    "updated": "2 Dec 2025 18:17"
   },
   {
     "title": "BRITTANIA RD, HOME RULE",
@@ -1322,7 +1318,7 @@
     "latitude": "-34.360141754",
     "longitude": "146.870803833",
     "region": "nsw",
-    "time_of_call": "02 Dec 2025 16:17:00",
+    "time_of_call": "02 Dec 2025 18:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1335,9 +1331,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "20 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Dec 2025 16:17"
+    "updated": "2 Dec 2025 18:13"
   },
   {
     "title": "WESTERN FIRETRAIL, BOOROOK",
@@ -1384,25 +1380,67 @@
     "updated": "2 Dec 2025 17:28"
   },
   {
-    "title": "JILLALLA DR, KING CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634260",
+    "title": "SNOWY MOUNTAINS HWY, MOUNT ADRAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634255",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.499259948",
-    "longitude": "152.754104614",
+    "latitude": "-35.228992462",
+    "longitude": "147.911941529",
     "region": "nsw",
-    "time_of_call": "02 Dec 2025 17:29:00",
+    "time_of_call": "02 Dec 2025 18:06:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "75 JILLALLA DR, KING CREEK 2446",
-    "council_area": "Port Macquarie-Hastings",
+    "location": "SNOWY MOUNTAINS HWY, MOUNT ADRAH 2729",
+    "council_area": "Cootamundra-Gundagai",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "2 Dec 2025 18:06"
+  },
+  {
+    "title": "CORS AV, NORTH BATEMANS BAY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634259",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.6795043939999",
+    "longitude": "150.204437256",
+    "region": "nsw",
+    "time_of_call": "02 Dec 2025 18:01:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "12 CORS AV, NORTH BATEMANS BAY 2536",
+    "council_area": "Eurobodalla",
     "type": "Burn off",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Dec 2025 17:29"
+    "updated": "2 Dec 2025 18:01"
+  },
+  {
+    "title": "ETHERIDGE ST, MITTAGONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634262",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.450622558",
+    "longitude": "150.435699463",
+    "region": "nsw",
+    "time_of_call": "02 Dec 2025 18:11:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "10-14 ETHERIDGE ST, MITTAGONG 2575",
+    "council_area": "Wingecarribee",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "2 Dec 2025 18:11"
   }
 ]
