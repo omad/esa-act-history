@@ -9,15 +9,15 @@
     "longitude": "149.0432008299",
     "region": "act",
     "time_of_call": "04 Dec 2025 00:03:12",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "HOUSE FIRE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "MCGINNESS STREET, SCULLIN, 2614",
-    "updated": "04 Dec 2025 00:16:44"
+    "updated": "04 Dec 2025 00:48:52"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +83,13 @@
     "longitude": "149.101598",
     "region": "act",
     "time_of_call": "03 Dec 2025 23:36:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "04 Dec 2025 00:37:21"
+    "updated": "04 Dec 2025 00:49:05"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "04 Dec 2025 00:38:54"
+    "updated": "04 Dec 2025 00:51:14"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "MCGINNESS STREET, SCULLIN, 2614",
-    "updated": "04 Dec 2025 00:11:15"
+    "updated": "04 Dec 2025 00:48:52"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +235,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "04 Dec 2025 00:15:45"
+    "updated": "04 Dec 2025 00:49:48"
   },
   {
     "agency": "Ambulance",
@@ -453,8 +453,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_633416",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.037317942",
-    "longitude": "149.043957265",
+    "latitude": "-32.037319184",
+    "longitude": "149.043960572",
     "region": "nsw",
     "time_of_call": "03 Dec 2025 22:00:00",
     "event_type": "burnt area",
@@ -1339,25 +1339,28 @@
     "updated": "3 Dec 2025 22:01"
   },
   {
-    "title": "HONEYTREE RD, WOONGARRAH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634395",
+    "title": "North St, West Kempsey",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634396",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.237220764",
-    "longitude": "151.470474243",
+    "latitude": "-31.06004",
+    "longitude": "152.821629",
     "region": "nsw",
-    "time_of_call": "03 Dec 2025 23:54:00",
+    "time_of_call": "04 Dec 2025 00:54:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "HONEYTREE RD, WOONGARRAH 2259",
-    "council_area": "Central Coast",
-    "type": "Other",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "North St, West Kempsey, NSW 2440",
+    "council_area": "Kempsey",
+    "type": "Grass Fire",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Dec 2025 23:54"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "4 Dec 2025 00:54"
   }
 ]
