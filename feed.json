@@ -33,25 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "04 Dec 2025 01:41:57"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - PALMERSTON",
-    "id": "080674-03122025",
-    "latitude": "-35.193269",
-    "longitude": "149.1195",
-    "region": "act",
-    "time_of_call": "03 Dec 2025 23:51:47",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "PALMERSTON",
-    "updated": "04 Dec 2025 02:13:12"
+    "updated": "04 Dec 2025 02:51:50"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "04 Dec 2025 02:21:01"
+    "updated": "04 Dec 2025 02:38:10"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +117,49 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "04 Dec 2025 02:31:24",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "04 Dec 2025 02:36:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONCRIEFF",
+    "id": "080695-04122025",
+    "latitude": "-35.158865",
+    "longitude": "149.117806",
+    "region": "act",
+    "time_of_call": "04 Dec 2025 02:36:30",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "HOLT",
-    "updated": "04 Dec 2025 02:31:47"
+    "location": "MONCRIEFF",
+    "updated": "04 Dec 2025 02:41:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BONNER",
+    "id": "080696-04122025",
+    "latitude": "-35.155183",
+    "longitude": "149.143165",
+    "region": "act",
+    "time_of_call": "04 Dec 2025 02:50:59",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONNER",
+    "updated": "04 Dec 2025 02:51:34"
   },
   {
     "title": "BURRANGONG RD, YOUNG",
@@ -243,7 +261,7 @@
     "latitude": "-32.0907440189999",
     "longitude": "151.140350341",
     "region": "nsw",
-    "time_of_call": "03 Dec 2025 16:47:00",
+    "time_of_call": "04 Dec 2025 02:40:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -258,7 +276,7 @@
     "fire": "Yes",
     "size": "267 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Dec 2025 16:47"
+    "updated": "4 Dec 2025 02:40"
   },
   {
     "title": "PACIFIC (SOUTHBOUND) HWY, KARUAH",
@@ -293,7 +311,7 @@
     "latitude": "-32.0544052129999",
     "longitude": "151.296157837",
     "region": "nsw",
-    "time_of_call": "03 Dec 2025 16:23:00",
+    "time_of_call": "04 Dec 2025 02:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -309,7 +327,7 @@
     "size": "140 ha",
     "major_fire_update_as_at_3_dec_2025_4:20pm": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12360' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Dec 2025 16:23"
+    "updated": "4 Dec 2025 02:43"
   },
   {
     "title": "SHORELINE DR, RIVERSIDE",
@@ -1292,5 +1310,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "4 Dec 2025 02:13"
+  },
+  {
+    "title": "EMU DR, SAN REMO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634401",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.219978333",
+    "longitude": "151.514999389",
+    "region": "nsw",
+    "time_of_call": "04 Dec 2025 02:51:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "4 EMU DR, SAN REMO 2262",
+    "council_area": "Central Coast",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "4 Dec 2025 02:51"
   }
 ]
