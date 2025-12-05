@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/pipe-fire_0.svg",
     "location": "DANNEVIG PLACE, FLOREY, 2615",
-    "updated": "05 Dec 2025 22:21:47"
+    "updated": "05 Dec 2025 22:25:40"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "05 Dec 2025 21:28:49"
+    "updated": "05 Dec 2025 22:35:24"
   },
   {
     "agency": "Ambulance",
@@ -151,24 +151,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FORREST",
-    "id": "081218-05122025",
-    "latitude": "-35.318088",
-    "longitude": "149.12506",
-    "region": "act",
-    "time_of_call": "05 Dec 2025 20:56:58",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FORREST",
-    "updated": "05 Dec 2025 21:32:22"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "STRUCTURE FIRE - LYNEHAM",
     "id": "081219-05122025",
     "latitude": "-35.2570807399",
@@ -183,7 +165,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "DE BURGH STREET, LYNEHAM, 2602",
-    "updated": "05 Dec 2025 22:23:54"
+    "updated": "05 Dec 2025 22:36:22"
   },
   {
     "agency": "Ambulance",
@@ -291,7 +273,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "05 Dec 2025 22:09:27"
+    "updated": "05 Dec 2025 22:34:11"
   },
   {
     "agency": "Ambulance",
@@ -310,6 +292,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
     "updated": "05 Dec 2025 22:03:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "081236-05122025",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "05 Dec 2025 22:35:32",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "05 Dec 2025 22:36:41"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1077,28 +1077,6 @@
     "updated": "5 Dec 2025 20:56"
   },
   {
-    "title": "DUMARESQ ISLAND CUNDLETOWN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634466",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.906061173",
-    "longitude": "152.514770508",
-    "region": "nsw",
-    "time_of_call": "05 Dec 2025 14:35:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "DUMARESQ ISLAND CUNDLETOWN 2430",
-    "council_area": "Mid-Coast",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Dec 2025 14:35"
-  },
-  {
     "title": "STURT HWY, CARRATHOOL",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634482",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1238,28 +1216,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Dec 2025 20:25"
-  },
-  {
-    "title": "BRIMBIN RD, BRIMBIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634588",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.8668804169999",
-    "longitude": "152.486434936",
-    "region": "nsw",
-    "time_of_call": "05 Dec 2025 14:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BRIMBIN RD, BRIMBIN 2430",
-    "council_area": "Mid-Coast",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Dec 2025 14:12"
   },
   {
     "title": "THE ROCK COLLINGULLIE RD, THE ROCK",
@@ -1463,9 +1419,9 @@
     "latitude": "-31.138778687",
     "longitude": "152.796142578",
     "region": "nsw",
-    "time_of_call": "05 Dec 2025 17:47:00",
+    "time_of_call": "05 Dec 2025 19:43:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1478,7 +1434,7 @@
     "fire": "Yes",
     "size": "119 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Dec 2025 17:47"
+    "updated": "5 Dec 2025 19:43"
   },
   {
     "title": "DUNEDOO RD, BENI",
@@ -1755,7 +1711,7 @@
     "latitude": "-31.892858506",
     "longitude": "152.464660645",
     "region": "nsw",
-    "time_of_call": "05 Dec 2025 21:21:00",
+    "time_of_call": "05 Dec 2025 22:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1770,29 +1726,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Dec 2025 21:21"
-  },
-  {
-    "title": "FLAMETREE CL, TAREE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634728",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.8886299129999",
-    "longitude": "152.451934814",
-    "region": "nsw",
-    "time_of_call": "05 Dec 2025 20:08:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "FLAMETREE CL, TAREE 2430",
-    "council_area": "Mid-Coast",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Dec 2025 20:08"
+    "updated": "5 Dec 2025 22:22"
   },
   {
     "title": "Tomago Rd, Tomago",
@@ -1931,31 +1865,6 @@
     "updated": "5 Dec 2025 21:43"
   },
   {
-    "title": "Dubbo St, Warren",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634754",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.7010129999999",
-    "longitude": "147.83695",
-    "region": "nsw",
-    "time_of_call": "05 Dec 2025 22:06:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Dubbo St, Warren, NSW 2824",
-    "council_area": "Warren",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "5 Dec 2025 22:06"
-  },
-  {
     "title": "OCEAN DR, LAKE CATHIE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634756",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1985,9 +1894,9 @@
     "latitude": "-33.6757163999999",
     "longitude": "150.91090393",
     "region": "nsw",
-    "time_of_call": "05 Dec 2025 22:06:00",
+    "time_of_call": "05 Dec 2025 22:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "ROUSE HILL HOUSE & FARM 356 ANNANGROVE RD, ROUSE HILL 2155",
     "council_area": "Blacktown",
@@ -1997,7 +1906,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Dec 2025 22:06"
+    "updated": "5 Dec 2025 22:21"
   },
   {
     "title": "OCEAN DR, LAKE INNES",
