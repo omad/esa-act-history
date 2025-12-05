@@ -27,13 +27,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "05 Dec 2025 22:39:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "06 Dec 2025 03:19:34"
+    "updated": "06 Dec 2025 03:38:01"
   },
   {
     "agency": "Ambulance",
@@ -52,24 +52,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
     "updated": "06 Dec 2025 00:06:50"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONASH",
-    "id": "081257-06122025",
-    "latitude": "-35.413962",
-    "longitude": "149.091126",
-    "region": "act",
-    "time_of_call": "06 Dec 2025 01:18:21",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "06 Dec 2025 03:30:14"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "06 Dec 2025 03:16:12"
+    "updated": "06 Dec 2025 03:46:41"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +141,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "06 Dec 2025 03:31:30"
+    "updated": "06 Dec 2025 03:44:52"
   },
   {
     "agency": "Ambulance",
@@ -178,6 +160,42 @@
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
     "updated": "06 Dec 2025 03:31:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "081272-06122025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "06 Dec 2025 03:39:54",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "06 Dec 2025 03:45:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOK",
+    "id": "081274-06122025",
+    "latitude": "-35.261055",
+    "longitude": "149.064271",
+    "region": "act",
+    "time_of_call": "06 Dec 2025 03:55:38",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOK",
+    "updated": "06 Dec 2025 03:55:40"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1669,43 +1687,47 @@
     "updated": "6 Dec 2025 01:26"
   },
   {
-    "title": "EASTERN DORRIGO WAY, CORAMBA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634776",
+    "title": "WALLGROVE RD, CECIL PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634779",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.2184524539999",
-    "longitude": "153.003341675",
+    "latitude": "-33.863567353",
+    "longitude": "150.847106933",
     "region": "nsw",
-    "time_of_call": "06 Dec 2025 03:19:00",
+    "time_of_call": "06 Dec 2025 03:52:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
-    "location": "EASTERN DORRIGO WAY, CORAMBA 2450",
-    "council_area": "Coffs Harbour",
-    "type": "Car Fire",
+    "location": "WALLGROVE RD, CECIL PARK 2178",
+    "council_area": "Fairfield",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Dec 2025 03:19"
+    "updated": "6 Dec 2025 03:52"
   },
   {
-    "title": "MARSHALL ST, CLARENCE TOWN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634778",
+    "title": "NEWELL HWY, GOWANG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634780",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.5901756289999",
-    "longitude": "151.777023315",
+    "latitude": "-31.430204392",
+    "longitude": "149.070266724",
     "region": "nsw",
-    "time_of_call": "06 Dec 2025 03:09:00",
+    "time_of_call": "06 Dec 2025 03:44:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "22 MARSHALL ST, CLARENCE TOWN 2321",
-    "council_area": "Dungog",
-    "type": "Medical",
-    "fire": "No",
+    "location": "NEWELL HWY, GOWANG 2357",
+    "council_area": "Warrumbungle",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Dec 2025 03:09"
+    "updated": "6 Dec 2025 03:44"
   }
 ]
