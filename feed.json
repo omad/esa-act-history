@@ -73,7 +73,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "06 Dec 2025 08:16:35"
+    "updated": "06 Dec 2025 08:28:20"
   },
   {
     "agency": "Ambulance",
@@ -92,24 +92,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
     "updated": "06 Dec 2025 07:28:24"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WANNIASSA",
-    "id": "081289-06122025",
-    "latitude": "-35.399113",
-    "longitude": "149.091978",
-    "region": "act",
-    "time_of_call": "06 Dec 2025 07:04:14",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WANNIASSA",
-    "updated": "06 Dec 2025 08:03:35"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "06 Dec 2025 08:12:41"
+    "updated": "06 Dec 2025 08:37:42"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +163,61 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "06 Dec 2025 08:05:15"
+    "updated": "06 Dec 2025 08:36:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MCKELLAR",
+    "id": "081299-06122025",
+    "latitude": "-35.216327",
+    "longitude": "149.076954",
+    "region": "act",
+    "time_of_call": "06 Dec 2025 08:28:52",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MCKELLAR",
+    "updated": "06 Dec 2025 08:33:04"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HIGGINS",
+    "id": "081300-06122025",
+    "latitude": "-35.230526",
+    "longitude": "149.025052",
+    "region": "act",
+    "time_of_call": "06 Dec 2025 08:31:14",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "06 Dec 2025 08:35:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
+    "id": "081301-06122025",
+    "latitude": "-35.425091",
+    "longitude": "149.088064",
+    "region": "act",
+    "time_of_call": "06 Dec 2025 08:35:45",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "06 Dec 2025 08:37:31"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -436,7 +472,7 @@
     "latitude": "-32.871498108",
     "longitude": "151.158050537",
     "region": "nsw",
-    "time_of_call": "05 Dec 2025 21:45:00",
+    "time_of_call": "06 Dec 2025 08:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -451,7 +487,7 @@
     "fire": "Yes",
     "size": "48 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Dec 2025 21:45"
+    "updated": "6 Dec 2025 08:32"
   },
   {
     "title": "Wollondilly Lookout",
@@ -749,31 +785,6 @@
     "size": "16 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "6 Dec 2025 08:05"
-  },
-  {
-    "title": "NANAMI LANE, CANOWINDRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634351",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.4685592659999",
-    "longitude": "148.497543335",
-    "region": "nsw",
-    "time_of_call": "05 Dec 2025 16:27:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "NANAMI LANE, CANOWINDRA 2804",
-    "council_area": "Cabonne",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "5 Dec 2025 16:27"
   },
   {
     "title": "TOCUMWAL RD, MULWALA",
@@ -1780,5 +1791,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Dec 2025 08:03"
+  },
+  {
+    "title": "PACIFIC HWY, NERONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634795",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.5210189819999",
+    "longitude": "152.203552246",
+    "region": "nsw",
+    "time_of_call": "06 Dec 2025 08:34:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, NERONG 2423",
+    "council_area": "Mid-Coast",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Dec 2025 08:34"
   }
 ]
