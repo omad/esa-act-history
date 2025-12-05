@@ -9,15 +9,15 @@
     "longitude": "149.1070075799",
     "region": "act",
     "time_of_call": "06 Dec 2025 06:18:38",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "ANIMAL RESCUE",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/animal-rescue_0.svg",
     "location": "COMO, HOPEGOOD PLACE, GARRAN, 2605",
-    "updated": "06 Dec 2025 06:28:25"
+    "updated": "06 Dec 2025 06:38:04"
   },
   {
     "agency": "Fire",
@@ -73,25 +73,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "06 Dec 2025 00:06:50"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CASEY",
-    "id": "081280-06122025",
-    "latitude": "-35.167812",
-    "longitude": "149.097085",
-    "region": "act",
-    "time_of_call": "06 Dec 2025 05:50:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CASEY",
-    "updated": "06 Dec 2025 06:01:35"
+    "updated": "06 Dec 2025 06:45:07"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "06 Dec 2025 06:11:09"
+    "updated": "06 Dec 2025 06:44:17"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +109,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "06 Dec 2025 06:22:38"
+    "updated": "06 Dec 2025 06:34:40"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +121,13 @@
     "longitude": "149.085118",
     "region": "act",
     "time_of_call": "06 Dec 2025 06:30:51",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "06 Dec 2025 06:33:47"
+    "updated": "06 Dec 2025 06:40:32"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1669,7 +1651,7 @@
     "latitude": "-31.537179947",
     "longitude": "150.831130981",
     "region": "nsw",
-    "time_of_call": "06 Dec 2025 05:49:00",
+    "time_of_call": "06 Dec 2025 06:06:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1684,7 +1666,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Dec 2025 05:49"
+    "updated": "6 Dec 2025 06:06"
   },
   {
     "title": "WISEMANS FERRY RD, SOMERSBY",
@@ -1774,5 +1756,30 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "6 Dec 2025 06:27"
+  },
+  {
+    "title": "Young St, Brewarrina",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634792",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.960413",
+    "longitude": "146.859571",
+    "region": "nsw",
+    "time_of_call": "06 Dec 2025 06:37:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Young St, Brewarrina, NSW 2839",
+    "council_area": "Brewarrina",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "6 Dec 2025 06:37"
   }
 ]
