@@ -63,13 +63,13 @@
     "longitude": "149.100175",
     "region": "act",
     "time_of_call": "05 Dec 2025 23:09:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GIRALANG",
-    "updated": "06 Dec 2025 02:28:20"
+    "updated": "06 Dec 2025 02:38:19"
   },
   {
     "agency": "Ambulance",
@@ -93,24 +93,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LATHAM",
-    "id": "081254-06122025",
-    "latitude": "-35.217781",
-    "longitude": "149.034875",
-    "region": "act",
-    "time_of_call": "06 Dec 2025 00:58:23",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LATHAM",
-    "updated": "06 Dec 2025 01:31:13"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - MONASH",
     "id": "081257-06122025",
     "latitude": "-35.413962",
@@ -123,25 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "06 Dec 2025 02:27:18"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TAYLOR",
-    "id": "081261-06122025",
-    "latitude": "-35.147416",
-    "longitude": "149.105924",
-    "region": "act",
-    "time_of_call": "06 Dec 2025 01:59:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TAYLOR",
-    "updated": "06 Dec 2025 02:10:19"
+    "updated": "06 Dec 2025 02:48:12"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +117,13 @@
     "longitude": "149.046603",
     "region": "act",
     "time_of_call": "06 Dec 2025 02:23:11",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "06 Dec 2025 02:29:08"
+    "updated": "06 Dec 2025 02:50:51"
   },
   {
     "agency": "Ambulance",
@@ -178,6 +142,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "ACTON",
     "updated": "06 Dec 2025 02:28:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "081268-06122025",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "06 Dec 2025 02:39:05",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "06 Dec 2025 02:45:25"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1687,30 +1669,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Dec 2025 01:57"
-  },
-  {
-    "title": "Seaham St, Stanford Merthyr",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634777",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.8228119999999",
-    "longitude": "151.494912",
-    "region": "nsw",
-    "time_of_call": "06 Dec 2025 02:05:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Seaham St, Stanford Merthyr, NSW 2327",
-    "council_area": "Cessnock",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "6 Dec 2025 02:05"
   }
 ]
