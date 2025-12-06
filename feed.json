@@ -69,13 +69,13 @@
     "longitude": "149.118589",
     "region": "act",
     "time_of_call": "07 Dec 2025 05:02:14",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "07 Dec 2025 07:17:15"
+    "updated": "07 Dec 2025 07:28:51"
   },
   {
     "agency": "Ambulance",
@@ -111,7 +111,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "07 Dec 2025 06:55:24"
+    "updated": "07 Dec 2025 07:34:02"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "07 Dec 2025 07:18:25"
+    "updated": "07 Dec 2025 07:41:54"
   },
   {
     "agency": "Ambulance",
@@ -141,13 +141,31 @@
     "longitude": "149.143546",
     "region": "act",
     "time_of_call": "07 Dec 2025 07:24:40",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "07 Dec 2025 07:27:56"
+    "updated": "07 Dec 2025 07:48:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "081542-07122025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "07 Dec 2025 07:38:56",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "07 Dec 2025 07:43:00"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -2448,9 +2466,9 @@
     "latitude": "-33.802879334",
     "longitude": "150.676025391",
     "region": "nsw",
-    "time_of_call": "07 Dec 2025 07:25:00",
+    "time_of_call": "07 Dec 2025 07:34:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "FRONTIER ST, GLENMORE PARK 2745",
     "council_area": "Penrith",
@@ -2460,6 +2478,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Dec 2025 07:25"
+    "updated": "7 Dec 2025 07:34"
+  },
+  {
+    "title": "MANDALONG RD, DOORALONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635074",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.1760025029999",
+    "longitude": "151.370544434",
+    "region": "nsw",
+    "time_of_call": "07 Dec 2025 07:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1412 MANDALONG RD, DOORALONG 2259",
+    "council_area": "Central Coast",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Dec 2025 07:37"
   }
 ]
