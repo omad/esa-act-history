@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FYSHWICK",
-    "updated": "07 Dec 2025 03:27:22"
+    "updated": "07 Dec 2025 03:40:51"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "07 Dec 2025 03:27:37"
+    "updated": "07 Dec 2025 03:49:23"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "07 Dec 2025 03:07:39",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "07 Dec 2025 03:31:45"
+    "updated": "07 Dec 2025 03:46:25"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +173,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "07 Dec 2025 03:31:02",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "07 Dec 2025 03:31:32"
+    "updated": "07 Dec 2025 03:45:31"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -2392,24 +2392,49 @@
     "updated": "6 Dec 2025 23:36"
   },
   {
-    "title": "MELALEUCA WAY, CESSNOCK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635054",
+    "title": "NEWCASTLE LINK RD, CAMERON PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635056",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.831947326",
-    "longitude": "151.326690674",
+    "latitude": "-32.894199371",
+    "longitude": "151.606597901",
     "region": "nsw",
-    "time_of_call": "07 Dec 2025 02:55:00",
+    "time_of_call": "07 Dec 2025 02:57:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
-    "location": "MELALEUCA WAY, CESSNOCK 2325",
-    "council_area": "Cessnock",
+    "location": "NEWCASTLE LINK RD, CAMERON PARK 2285",
+    "council_area": "Lake Macquarie",
     "type": "Car Fire",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Dec 2025 02:55"
+    "updated": "7 Dec 2025 02:57"
+  },
+  {
+    "title": "PINE BRUSH RD, GLEN WILLIAM",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635057",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.500663757",
+    "longitude": "151.808502197",
+    "region": "nsw",
+    "time_of_call": "07 Dec 2025 03:34:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "218 PINE BRUSH RD, GLEN WILLIAM 2321",
+    "council_area": "Dungog",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "2 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Dec 2025 03:34"
   },
   {
     "title": "BOUNDARY RD, BROUGHTON",
@@ -2419,9 +2444,9 @@
     "latitude": "-34.7508735659999",
     "longitude": "150.713867188",
     "region": "nsw",
-    "time_of_call": "07 Dec 2025 03:22:00",
+    "time_of_call": "07 Dec 2025 03:45:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "FOXWOOD 58A BOUNDARY RD, BROUGHTON 2535",
     "council_area": "Shoalhaven",
@@ -2431,6 +2456,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Dec 2025 03:22"
+    "updated": "7 Dec 2025 03:45"
   }
 ]
