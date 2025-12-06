@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "07 Dec 2025 08:08:21"
+    "updated": "07 Dec 2025 08:48:26"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DOWNER",
-    "updated": "07 Dec 2025 07:48:47"
+    "updated": "07 Dec 2025 08:35:19"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "07 Dec 2025 07:56:11"
+    "updated": "07 Dec 2025 08:37:06"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "07 Dec 2025 08:31:54"
+    "updated": "07 Dec 2025 08:44:42"
   },
   {
     "agency": "Ambulance",
@@ -227,13 +227,49 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "07 Dec 2025 08:32:28",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "07 Dec 2025 08:33:44"
+    "updated": "07 Dec 2025 08:40:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "081555-07122025",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "07 Dec 2025 08:40:26",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "07 Dec 2025 08:45:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "081556-07122025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "07 Dec 2025 08:41:09",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "07 Dec 2025 08:44:03"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1528,7 +1564,7 @@
     "latitude": "-32.485599518",
     "longitude": "148.97756958",
     "region": "nsw",
-    "time_of_call": "06 Dec 2025 23:15:00",
+    "time_of_call": "07 Dec 2025 08:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1543,7 +1579,7 @@
     "fire": "Yes",
     "size": "87 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Dec 2025 23:15"
+    "updated": "7 Dec 2025 08:13"
   },
   {
     "title": "BULL PLAIN RD, RENNIE",
@@ -2507,28 +2543,6 @@
     "updated": "7 Dec 2025 06:45"
   },
   {
-    "title": "FRONTIER ST, GLENMORE PARK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635073",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.802879334",
-    "longitude": "150.676025391",
-    "region": "nsw",
-    "time_of_call": "07 Dec 2025 07:34:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "FRONTIER ST, GLENMORE PARK 2745",
-    "council_area": "Penrith",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Dec 2025 07:34"
-  },
-  {
     "title": "MANDALONG RD, DOORALONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635074",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2593,28 +2607,6 @@
     "updated": "7 Dec 2025 08:15"
   },
   {
-    "title": "BOGGY CREEK RD, VALLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635077",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.6180992119999",
-    "longitude": "152.969177246",
-    "region": "nsw",
-    "time_of_call": "07 Dec 2025 08:29:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "BOGGY CREEK RD, VALLA 2448",
-    "council_area": "Nambucca Valley",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Dec 2025 08:29"
-  },
-  {
     "title": "FOUR MILE LANE, CLARENZA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635078",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2635,5 +2627,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "7 Dec 2025 08:18"
+  },
+  {
+    "title": "TROUT FARM RD, LAKE HUME VILLAGE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635079",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.1001968379999",
+    "longitude": "147.029251099",
+    "region": "nsw",
+    "time_of_call": "07 Dec 2025 08:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "TROUT FARM RD, LAKE HUME VILLAGE 3691",
+    "council_area": "Albury",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Dec 2025 08:37"
   }
 ]
