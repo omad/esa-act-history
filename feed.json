@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "07 Dec 2025 22:12:42"
+    "updated": "07 Dec 2025 22:25:07"
   },
   {
     "agency": "Ambulance",
@@ -285,7 +285,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "07 Dec 2025 22:20:10"
+    "updated": "07 Dec 2025 22:24:47"
   },
   {
     "agency": "Ambulance",
@@ -303,7 +303,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "07 Dec 2025 22:11:05"
+    "updated": "07 Dec 2025 22:21:31"
   },
   {
     "agency": "Ambulance",
@@ -321,7 +321,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "07 Dec 2025 22:20:35"
+    "updated": "07 Dec 2025 22:24:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MITCHELL",
+    "id": "081752-07122025",
+    "latitude": "-35.218025",
+    "longitude": "149.142507",
+    "region": "act",
+    "time_of_call": "07 Dec 2025 22:23:54",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MITCHELL",
+    "updated": "07 Dec 2025 22:28:34"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1470,7 +1488,7 @@
     "latitude": "-31.577669144",
     "longitude": "152.452407837",
     "region": "nsw",
-    "time_of_call": "06 Dec 2025 23:27:00",
+    "time_of_call": "07 Dec 2025 22:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1482,7 +1500,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "6 Dec 2025 23:27"
+    "updated": "7 Dec 2025 22:20"
   },
   {
     "title": "HAWKESBURY TRK, SOMERSBY",
@@ -2149,31 +2167,6 @@
     "updated": "7 Dec 2025 21:55"
   },
   {
-    "title": "Tozer St, West Kempsey",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635213",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.0830079999999",
-    "longitude": "152.83106",
-    "region": "nsw",
-    "time_of_call": "07 Dec 2025 22:13:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Tozer St, West Kempsey, NSW 2440",
-    "council_area": "Kempsey",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "7 Dec 2025 22:13"
-  },
-  {
     "title": "GIBSONS RD, LOVEDALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635215",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2181,9 +2174,9 @@
     "latitude": "-32.800731659",
     "longitude": "151.402633667",
     "region": "nsw",
-    "time_of_call": "07 Dec 2025 22:10:00",
+    "time_of_call": "07 Dec 2025 22:21:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "GIBSONS RD, LOVEDALE 2325",
     "council_area": "Cessnock",
@@ -2191,7 +2184,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Dec 2025 22:10"
+    "updated": "7 Dec 2025 22:21"
   },
   {
     "title": "NIOKA AV, POINT CLARE",
@@ -2226,9 +2219,9 @@
     "latitude": "-28.6162490839999",
     "longitude": "153.54586792",
     "region": "nsw",
-    "time_of_call": "07 Dec 2025 22:09:00",
+    "time_of_call": "07 Dec 2025 22:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "PACIFIC HWY, EWINGSDALE 2481",
     "council_area": "Byron",
@@ -2236,6 +2229,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Dec 2025 22:09"
+    "updated": "7 Dec 2025 22:25"
+  },
+  {
+    "title": "YALLAMBEE ST, COOMBA PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635218",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.2397575379999",
+    "longitude": "152.460037231",
+    "region": "nsw",
+    "time_of_call": "07 Dec 2025 22:19:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "18 YALLAMBEE ST, COOMBA PARK 2428",
+    "council_area": "Mid-Coast",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "7 Dec 2025 22:19"
   }
 ]
