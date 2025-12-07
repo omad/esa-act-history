@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "08 Dec 2025 09:21:37"
+    "updated": "08 Dec 2025 09:39:00"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.039315",
     "region": "act",
     "time_of_call": "08 Dec 2025 08:35:34",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RIVETT",
-    "updated": "08 Dec 2025 08:57:11"
+    "updated": "08 Dec 2025 09:46:17"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.165368",
     "region": "act",
     "time_of_call": "08 Dec 2025 09:24:26",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "HACKETT",
-    "updated": "08 Dec 2025 09:35:57"
+    "updated": "08 Dec 2025 09:46:05"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,13 @@
     "longitude": "149.161141",
     "region": "act",
     "time_of_call": "08 Dec 2025 09:37:38",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "08 Dec 2025 09:38:43"
+    "updated": "08 Dec 2025 09:43:00"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,31 @@
     "longitude": "149.13437",
     "region": "act",
     "time_of_call": "08 Dec 2025 09:38:57",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BARTON",
-    "updated": "08 Dec 2025 09:38:58"
+    "updated": "08 Dec 2025 09:44:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "081829-08122025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "08 Dec 2025 09:46:25",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "08 Dec 2025 09:47:26"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -834,7 +852,7 @@
     "latitude": "-35.69488144",
     "longitude": "146.699584961",
     "region": "nsw",
-    "time_of_call": "07 Dec 2025 09:56:00",
+    "time_of_call": "08 Dec 2025 09:37:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -847,9 +865,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "0 ha",
+    "size": "8 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Dec 2025 09:56"
+    "updated": "8 Dec 2025 09:37"
   },
   {
     "title": "WYANGA RD, NARROMINE",
@@ -909,7 +927,7 @@
     "latitude": "-33.561656952",
     "longitude": "148.403137206",
     "region": "nsw",
-    "time_of_call": "07 Dec 2025 13:00:00",
+    "time_of_call": "08 Dec 2025 08:52:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -921,7 +939,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Dec 2025 13:00"
+    "updated": "8 Dec 2025 08:52"
   },
   {
     "title": "Nimbin Rd, Koolewong",
@@ -1462,8 +1480,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635099",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.4653080219999",
-    "longitude": "152.015321712",
+    "latitude": "-32.465309143",
+    "longitude": "152.015319825",
     "region": "nsw",
     "time_of_call": "08 Dec 2025 07:00:00",
     "event_type": "burnt area",
@@ -1745,28 +1763,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "8 Dec 2025 09:29"
-  },
-  {
-    "title": "HOSPITAL RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635252",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.4001312249999",
-    "longitude": "151.74609375",
-    "region": "nsw",
-    "time_of_call": "08 Dec 2025 09:32:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "LARA AGED CARE FACILITY 64 HOSPITAL RD, DUNGOG 2420",
-    "council_area": "Dungog",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Dec 2025 09:32"
   },
   {
     "title": "PACIFIC HWY, RALEIGH",
