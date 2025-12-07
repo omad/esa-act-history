@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FISHER",
-    "id": "081728-07122025",
-    "latitude": "-35.360481",
-    "longitude": "149.058056",
-    "region": "act",
-    "time_of_call": "07 Dec 2025 20:17:02",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FISHER",
-    "updated": "08 Dec 2025 03:08:46"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BELCONNEN",
     "id": "081773-08122025",
     "latitude": "-35.235936",
@@ -69,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "NORTHBOURNE AVENUE, TURNER, 2612",
-    "updated": "08 Dec 2025 03:51:52"
+    "updated": "08 Dec 2025 04:27:55"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +81,31 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "08 Dec 2025 04:08:11",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "08 Dec 2025 04:30:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "081791-08122025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "08 Dec 2025 04:24:37",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "08 Dec 2025 04:18:18"
+    "location": "GORDON",
+    "updated": "08 Dec 2025 04:30:37"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1877,9 +1877,9 @@
     "latitude": "-34.2838409999999",
     "longitude": "146.035511",
     "region": "nsw",
-    "time_of_call": "08 Dec 2025 04:07:00",
+    "time_of_call": "08 Dec 2025 04:27:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1892,6 +1892,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "8 Dec 2025 04:07"
+    "updated": "8 Dec 2025 04:27"
   }
 ]
