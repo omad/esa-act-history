@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "08 Dec 2025 08:13:55"
+    "updated": "08 Dec 2025 08:32:43"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "08 Dec 2025 08:18:26"
+    "updated": "08 Dec 2025 08:32:24"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "08 Dec 2025 08:16:30"
+    "updated": "08 Dec 2025 08:40:50"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +119,13 @@
     "longitude": "149.20515",
     "region": "act",
     "time_of_call": "08 Dec 2025 08:08:38",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CANBERRA AIRPORT",
-    "updated": "08 Dec 2025 08:13:48"
+    "updated": "08 Dec 2025 08:39:26"
   },
   {
     "agency": "Ambulance",
@@ -180,6 +180,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
     "updated": "08 Dec 2025 08:29:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RIVETT",
+    "id": "081815-08122025",
+    "latitude": "-35.346479",
+    "longitude": "149.039315",
+    "region": "act",
+    "time_of_call": "08 Dec 2025 08:35:34",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RIVETT",
+    "updated": "08 Dec 2025 08:39:59"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -820,8 +838,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_634630",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.19468689",
-    "longitude": "148.757171631",
+    "latitude": "-32.194685872",
+    "longitude": "148.757173662",
     "region": "nsw",
     "time_of_call": "08 Dec 2025 05:46:00",
     "event_type": "burnt area",
@@ -1929,9 +1947,9 @@
     "latitude": "-32.6672363279999",
     "longitude": "151.374679566",
     "region": "nsw",
-    "time_of_call": "08 Dec 2025 08:12:00",
+    "time_of_call": "08 Dec 2025 08:42:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "2021 NEW ENGLAND HWY, GRETA 2334",
     "council_area": "Cessnock",
@@ -1941,6 +1959,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Dec 2025 08:12"
+    "updated": "8 Dec 2025 08:42"
   }
 ]
