@@ -47,13 +47,13 @@
     "longitude": "149.085118",
     "region": "act",
     "time_of_call": "09 Dec 2025 07:06:00",
-    "status": "On Scene",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "09 Dec 2025 08:24:11"
+    "updated": "09 Dec 2025 08:48:44"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "09 Dec 2025 08:17:30"
+    "updated": "09 Dec 2025 08:43:49"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "09 Dec 2025 08:21:37"
+    "updated": "09 Dec 2025 08:48:04"
   },
   {
     "agency": "Ambulance",
@@ -209,31 +209,85 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "09 Dec 2025 08:32:33",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "09 Dec 2025 08:33:13"
+    "updated": "09 Dec 2025 08:39:22"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NICHOLLS",
-    "id": "082059-09122025",
-    "latitude": "-35.186387",
-    "longitude": "149.094445",
+    "title": "AMBULANCE RESPONSE - MELBA",
+    "id": "082060-09122025",
+    "latitude": "-35.209077",
+    "longitude": "149.057326",
     "region": "act",
-    "time_of_call": "09 Dec 2025 08:33:13",
+    "time_of_call": "09 Dec 2025 08:35:01",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "NICHOLLS",
-    "updated": "09 Dec 2025 08:33:49"
+    "location": "MELBA",
+    "updated": "09 Dec 2025 08:39:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
+    "id": "082061-09122025",
+    "latitude": "-35.425091",
+    "longitude": "149.088064",
+    "region": "act",
+    "time_of_call": "09 Dec 2025 08:38:00",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "09 Dec 2025 08:48:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "082062-09122025",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "09 Dec 2025 08:40:22",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "09 Dec 2025 08:48:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "082064-09122025",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "09 Dec 2025 08:48:00",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "09 Dec 2025 08:48:42"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1038,7 +1092,7 @@
     "latitude": "-33.481929779",
     "longitude": "147.326171875",
     "region": "nsw",
-    "time_of_call": "08 Dec 2025 14:28:00",
+    "time_of_call": "09 Dec 2025 08:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1051,9 +1105,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "166 ha",
+    "size": "165 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Dec 2025 14:28"
+    "updated": "9 Dec 2025 08:32"
   },
   {
     "title": "ALLAN RD, MULGOA",
@@ -1197,7 +1251,7 @@
     "updated": "8 Dec 2025 18:15"
   },
   {
-    "title": "MILSONS ARM RD, MILSONS ARM",
+    "title": "ROCKY CREEK FIRE, MILSONS ARM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635323",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -1365,9 +1419,9 @@
     "latitude": "-36.752998352",
     "longitude": "149.66873169",
     "region": "nsw",
-    "time_of_call": "09 Dec 2025 08:11:00",
+    "time_of_call": "09 Dec 2025 08:35:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MOGILLA RD, CANDELO 2550",
     "council_area": "Bega Valley",
@@ -1377,7 +1431,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Dec 2025 08:11"
+    "updated": "9 Dec 2025 08:35"
   },
   {
     "title": "ZARA RD, ZARA",
@@ -1409,9 +1463,9 @@
     "latitude": "-33.3171997069999",
     "longitude": "151.420455933",
     "region": "nsw",
-    "time_of_call": "09 Dec 2025 08:27:00",
+    "time_of_call": "09 Dec 2025 08:43:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "GOODSTART EARLY LEARNING CENTRE 2 COLONY CL, TUGGERAH 2259",
     "council_area": "Central Coast",
@@ -1421,6 +1475,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "9 Dec 2025 08:27"
+    "updated": "9 Dec 2025 08:43"
   }
 ]
