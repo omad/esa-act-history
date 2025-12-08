@@ -1,6 +1,6 @@
 [
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - MOLONGLO VALLEY",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "09 Dec 2025 07:31:10"
+    "updated": "09 Dec 2025 07:49:04"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "09 Dec 2025 07:30:45"
+    "updated": "09 Dec 2025 07:47:49"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +157,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "09 Dec 2025 07:27:49",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "09 Dec 2025 07:31:51"
+    "updated": "09 Dec 2025 07:40:51"
   },
   {
     "agency": "Ambulance",
@@ -175,13 +175,67 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "09 Dec 2025 07:28:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "09 Dec 2025 07:31:27"
+    "updated": "09 Dec 2025 07:34:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HIGGINS",
+    "id": "082050-09122025",
+    "latitude": "-35.230526",
+    "longitude": "149.025052",
+    "region": "act",
+    "time_of_call": "09 Dec 2025 07:34:45",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "09 Dec 2025 07:48:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HARRISON",
+    "id": "082051-09122025",
+    "latitude": "-35.200527",
+    "longitude": "149.154752",
+    "region": "act",
+    "time_of_call": "09 Dec 2025 07:34:51",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HARRISON",
+    "updated": "09 Dec 2025 07:41:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLT",
+    "id": "082052-09122025",
+    "latitude": "-35.224201",
+    "longitude": "149.013141",
+    "region": "act",
+    "time_of_call": "09 Dec 2025 07:46:21",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLT",
+    "updated": "09 Dec 2025 07:48:52"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1326,5 +1380,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "9 Dec 2025 07:08"
+  },
+  {
+    "title": "HOWLONG GOOMBARGANA RD, BROCKLESBY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635394",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.875507355",
+    "longitude": "146.631393433",
+    "region": "nsw",
+    "time_of_call": "09 Dec 2025 07:40:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1083 HOWLONG GOOMBARGANA RD, BROCKLESBY 2642",
+    "council_area": "Greater Hume",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Dec 2025 07:40"
+  },
+  {
+    "title": "Barwon Av, Moree",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635395",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.477272",
+    "longitude": "149.833979",
+    "region": "nsw",
+    "time_of_call": "09 Dec 2025 07:45:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Barwon Av, Moree, NSW 2400",
+    "council_area": "Moree Plains",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "9 Dec 2025 07:45"
   }
 ]
