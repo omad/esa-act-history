@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "10 Dec 2025 06:18:46"
+    "updated": "10 Dec 2025 06:25:28"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "10 Dec 2025 06:13:19"
+    "updated": "10 Dec 2025 06:28:00"
   },
   {
     "agency": "Ambulance",
@@ -144,6 +144,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
     "updated": "10 Dec 2025 06:11:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "082301-10122025",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "10 Dec 2025 06:21:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "10 Dec 2025 06:25:31"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1478,9 +1496,9 @@
     "latitude": "-33.276134",
     "longitude": "149.090881",
     "region": "nsw",
-    "time_of_call": "10 Dec 2025 06:16:00",
+    "time_of_call": "10 Dec 2025 06:25:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1493,6 +1511,46 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "10 Dec 2025 06:16"
+    "updated": "10 Dec 2025 06:25"
+  },
+  {
+    "title": "CASTLEREAGH HWY, CAPERTEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635537",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.1462783809999",
+    "longitude": "149.984741211",
+    "region": "nsw",
+    "time_of_call": "10 Dec 2025 06:17:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "CASTLEREAGH HWY, CAPERTEE 2846",
+    "council_area": "Lithgow",
+    "type": "Truck Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Dec 2025 06:17"
+  },
+  {
+    "title": "GOLLAN RD, GOOLMA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635538",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.369613648",
+    "longitude": "149.267364502",
+    "region": "nsw",
+    "time_of_call": "10 Dec 2025 06:22:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GOLLAN RD, GOOLMA 2852",
+    "council_area": "Mid-Western",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "10 Dec 2025 06:22"
   }
 ]
