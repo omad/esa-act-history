@@ -15,7 +15,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "11 Dec 2025 06:35:47"
+    "updated": "11 Dec 2025 06:44:38"
   },
   {
     "agency": "Ambulance",
@@ -27,13 +27,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "11 Dec 2025 06:28:17",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "11 Dec 2025 06:31:30"
+    "updated": "11 Dec 2025 06:42:53"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1627,28 +1627,6 @@
     "updated": "11 Dec 2025 05:37"
   },
   {
-    "title": "WAREHOUSE GUDYUNG CL, KEMPS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635697",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.834697724",
-    "longitude": "150.777923584",
-    "region": "nsw",
-    "time_of_call": "11 Dec 2025 06:23:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "WAREHOUSE GUDYUNG CL, KEMPS CREEK 2178",
-    "council_area": "Penrith",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Dec 2025 06:23"
-  },
-  {
     "title": "MITCHELL ST, NORTH ROTHBURY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635699",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1656,9 +1634,9 @@
     "latitude": "-32.6808052059999",
     "longitude": "151.350921631",
     "region": "nsw",
-    "time_of_call": "11 Dec 2025 06:26:00",
+    "time_of_call": "11 Dec 2025 06:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "22 MITCHELL ST, NORTH ROTHBURY 2335",
     "council_area": "Cessnock",
@@ -1668,7 +1646,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 Dec 2025 06:26"
+    "updated": "11 Dec 2025 06:40"
   },
   {
     "title": "DWYER RD, LEPPINGTON",
@@ -1689,5 +1667,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Dec 2025 06:27"
+  },
+  {
+    "title": "THE ESPLANADE, SWANSEA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635701",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.088256836",
+    "longitude": "151.628921509",
+    "region": "nsw",
+    "time_of_call": "11 Dec 2025 06:35:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "THE ESPLANADE, SWANSEA 2281",
+    "council_area": "Lake Macquarie",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "11 Dec 2025 06:35"
   }
 ]
