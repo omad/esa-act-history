@@ -51,7 +51,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "11 Dec 2025 00:32:58"
+    "updated": "11 Dec 2025 01:51:34"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "11 Dec 2025 00:27:02",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "11 Dec 2025 00:32:13"
+    "updated": "11 Dec 2025 01:53:21"
   },
   {
     "agency": "Ambulance",
@@ -129,19 +129,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHISHOLM",
-    "id": "082552-11122025",
-    "latitude": "-35.422993",
-    "longitude": "149.12793",
+    "title": "AMBULANCE RESPONSE - FLOREY",
+    "id": "082548-11122025",
+    "latitude": "-35.224909",
+    "longitude": "149.053511",
     "region": "act",
-    "time_of_call": "11 Dec 2025 01:24:16",
+    "time_of_call": "11 Dec 2025 00:49:06",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "CHISHOLM",
-    "updated": "11 Dec 2025 01:31:25"
+    "location": "FLOREY",
+    "updated": "11 Dec 2025 01:51:04"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "11 Dec 2025 01:31:27"
+    "updated": "11 Dec 2025 01:33:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "082555-11122025",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "11 Dec 2025 01:36:26",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "11 Dec 2025 01:45:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "082558-11122025",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "11 Dec 2025 01:47:22",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GRIFFITH",
+    "updated": "11 Dec 2025 01:54:56"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1756,5 +1792,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Dec 2025 00:58"
+  },
+  {
+    "title": "QUADLING RD, LEETON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635680",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.548706054",
+    "longitude": "146.435928344",
+    "region": "nsw",
+    "time_of_call": "11 Dec 2025 01:48:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "QUADLING RD, LEETON 2705",
+    "council_area": "Leeton",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Dec 2025 01:48"
   }
 ]
