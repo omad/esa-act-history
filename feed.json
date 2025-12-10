@@ -27,31 +27,13 @@
     "longitude": "149.142366",
     "region": "act",
     "time_of_call": "11 Dec 2025 00:15:57",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DICKSON",
-    "updated": "11 Dec 2025 02:28:13"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GREENWAY",
-    "id": "082543-11122025",
-    "latitude": "-35.411775",
-    "longitude": "149.064968",
-    "region": "act",
-    "time_of_call": "11 Dec 2025 00:27:02",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "GREENWAY",
-    "updated": "11 Dec 2025 02:29:21"
+    "location": "DICKSON",
+    "updated": "11 Dec 2025 02:35:49"
   },
   {
     "agency": "Ambulance",
@@ -70,24 +52,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
     "updated": "11 Dec 2025 01:51:04"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TURNER",
-    "id": "082553-11122025",
-    "latitude": "-35.269392",
-    "longitude": "149.126815",
-    "region": "act",
-    "time_of_call": "11 Dec 2025 01:29:49",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TURNER",
-    "updated": "11 Dec 2025 02:06:07"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "11 Dec 2025 02:20:43"
+    "updated": "11 Dec 2025 02:41:45"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1707,10 +1671,13 @@
     "latitude": "-34.548706054",
     "longitude": "146.435928344",
     "region": "nsw",
-    "time_of_call": "11 Dec 2025 01:48:00",
+    "time_of_call": "11 Dec 2025 02:37:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "QUADLING RD, LEETON 2705",
     "council_area": "Leeton",
     "type": "Grass Fire",
@@ -1719,7 +1686,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Dec 2025 01:48"
+    "updated": "11 Dec 2025 02:37"
   },
   {
     "title": "MERGA ST, CUDAL",
@@ -1729,10 +1696,13 @@
     "latitude": "-33.2841682439999",
     "longitude": "148.732513428",
     "region": "nsw",
-    "time_of_call": "11 Dec 2025 01:55:00",
+    "time_of_call": "11 Dec 2025 02:43:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "19 MERGA ST, CUDAL 2864",
     "council_area": "Cabonne",
     "type": "Grass Fire",
@@ -1741,7 +1711,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Dec 2025 01:55"
+    "updated": "11 Dec 2025 02:43"
   },
   {
     "title": "CATHUNDRIL ST, NARROMINE",
@@ -1751,9 +1721,9 @@
     "latitude": "-32.243358612",
     "longitude": "148.246398926",
     "region": "nsw",
-    "time_of_call": "11 Dec 2025 02:22:00",
+    "time_of_call": "11 Dec 2025 02:31:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "176 CATHUNDRIL ST, NARROMINE 2821",
     "council_area": "Narromine",
@@ -1763,6 +1733,31 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 Dec 2025 02:22"
+    "updated": "11 Dec 2025 02:31"
+  },
+  {
+    "title": "Hughes St, Taree",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635683",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.887827",
+    "longitude": "152.457324",
+    "region": "nsw",
+    "time_of_call": "11 Dec 2025 02:48:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "31 Hughes St, Taree, NSW 2430",
+    "council_area": "Mid-Coast",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "11 Dec 2025 02:48"
   }
 ]
