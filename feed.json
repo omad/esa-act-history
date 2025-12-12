@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "083077-13122025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "13 Dec 2025 02:08:37",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "13 Dec 2025 08:18:09"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PAGE",
     "id": "083087-13122025",
     "latitude": "-35.238051",
@@ -107,7 +89,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "13 Dec 2025 08:35:27"
+    "updated": "13 Dec 2025 08:37:50"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FADDEN",
-    "updated": "13 Dec 2025 08:24:42"
+    "updated": "13 Dec 2025 08:37:07"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +233,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "13 Dec 2025 07:59:24"
+    "updated": "13 Dec 2025 08:40:59"
   },
   {
     "agency": "Ambulance",
@@ -269,7 +251,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "13 Dec 2025 08:29:00"
+    "updated": "13 Dec 2025 08:43:39"
   },
   {
     "agency": "Ambulance",
@@ -389,13 +371,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "13 Dec 2025 08:32:39",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "13 Dec 2025 08:34:08"
+    "updated": "13 Dec 2025 08:44:08"
   },
   {
     "agency": "Ambulance",
@@ -407,13 +389,31 @@
     "longitude": "149.081053",
     "region": "act",
     "time_of_call": "13 Dec 2025 08:33:29",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONYTHON",
+    "updated": "13 Dec 2025 08:45:23"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PEARCE",
+    "id": "083168-13122025",
+    "latitude": "-35.361582",
+    "longitude": "149.085118",
+    "region": "act",
+    "time_of_call": "13 Dec 2025 08:43:31",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "BONYTHON",
-    "updated": "13 Dec 2025 08:35:58"
+    "location": "PEARCE",
+    "updated": "13 Dec 2025 08:48:34"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1830,16 +1830,18 @@
     "latitude": "-30.431192398",
     "longitude": "152.837387085",
     "region": "nsw",
-    "time_of_call": "13 Dec 2025 08:33:00",
+    "time_of_call": "13 Dec 2025 08:41:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "178 BOGGY CREEK RD, BELLINGEN 2454",
     "council_area": "Bellingen",
-    "type": "Car Fire",
+    "type": "Vehicle/Equipment Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Dec 2025 08:33"
+    "updated": "13 Dec 2025 08:41"
   }
 ]
