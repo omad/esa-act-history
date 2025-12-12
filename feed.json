@@ -35,7 +35,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "12 Dec 2025 18:58:33"
+    "updated": "13 Dec 2025 04:32:06"
   },
   {
     "agency": "Ambulance",
@@ -47,13 +47,13 @@
     "longitude": "149.049485",
     "region": "act",
     "time_of_call": "12 Dec 2025 19:03:16",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "13 Dec 2025 04:26:13"
+    "updated": "13 Dec 2025 04:49:37"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,13 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "12 Dec 2025 20:43:50",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "13 Dec 2025 04:13:01"
+    "updated": "13 Dec 2025 04:50:48"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +215,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "13 Dec 2025 03:53:06"
+    "updated": "13 Dec 2025 04:28:15"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +251,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "13 Dec 2025 03:08:16"
+    "updated": "13 Dec 2025 04:49:22"
   },
   {
     "agency": "Ambulance",
@@ -323,7 +323,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "13 Dec 2025 04:16:42"
+    "updated": "13 Dec 2025 04:43:18"
   },
   {
     "agency": "Ambulance",
@@ -1214,7 +1214,7 @@
     "latitude": "-32.327926636",
     "longitude": "150.148254394",
     "region": "nsw",
-    "time_of_call": "12 Dec 2025 11:12:00",
+    "time_of_call": "13 Dec 2025 04:30:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1229,7 +1229,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Dec 2025 11:12"
+    "updated": "13 Dec 2025 04:30"
   },
   {
     "title": "GREENBAH CREEK RD, OBLEY",
@@ -1738,9 +1738,9 @@
     "latitude": "-35.5014495849999",
     "longitude": "144.79296875",
     "region": "nsw",
-    "time_of_call": "13 Dec 2025 03:55:00",
+    "time_of_call": "13 Dec 2025 04:33:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1751,50 +1751,8 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "2 ha",
+    "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Dec 2025 03:55"
-  },
-  {
-    "title": "CAMPBELL ST, YOUNG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636006",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.323299408",
-    "longitude": "148.290176392",
-    "region": "nsw",
-    "time_of_call": "13 Dec 2025 04:12:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MOUNT ST JOSEPHS HOME 61 CAMPBELL ST, YOUNG 2594",
-    "council_area": "Hilltops",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "13 Dec 2025 04:12"
-  },
-  {
-    "title": "REST POINT PDE, TUNCURRY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636007",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.179744721",
-    "longitude": "152.491424561",
-    "region": "nsw",
-    "time_of_call": "13 Dec 2025 04:22:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "13 REST POINT PDE, TUNCURRY 2428",
-    "council_area": "Mid-Coast",
-    "type": "Medical",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "13 Dec 2025 04:22"
+    "updated": "13 Dec 2025 04:33"
   }
 ]
