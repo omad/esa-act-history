@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "14 Dec 2025 09:11:42"
+    "updated": "14 Dec 2025 09:38:33"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "14 Dec 2025 09:25:49"
+    "updated": "14 Dec 2025 09:27:46"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "14 Dec 2025 08:32:09",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "14 Dec 2025 09:25:25"
+    "updated": "14 Dec 2025 09:35:34"
   },
   {
     "agency": "Ambulance",
@@ -185,24 +185,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CALWELL",
-    "id": "083427-14122025",
-    "latitude": "-35.441132",
-    "longitude": "149.107648",
-    "region": "act",
-    "time_of_call": "14 Dec 2025 08:47:32",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CALWELL",
-    "updated": "14 Dec 2025 09:03:16"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - ACTON",
     "id": "083428-14122025",
     "latitude": "-35.28656",
@@ -227,13 +209,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "14 Dec 2025 09:03:34",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "14 Dec 2025 09:19:36"
+    "updated": "14 Dec 2025 09:26:45"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +233,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "14 Dec 2025 09:20:00"
+    "updated": "14 Dec 2025 09:44:34"
   },
   {
     "agency": "Ambulance",
@@ -263,13 +245,67 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "14 Dec 2025 09:19:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "14 Dec 2025 09:24:55"
+    "updated": "14 Dec 2025 09:25:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "083436-14122025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "14 Dec 2025 09:34:14",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "14 Dec 2025 09:46:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "083437-14122025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "14 Dec 2025 09:40:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "14 Dec 2025 09:45:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "083438-14122025",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "14 Dec 2025 09:46:31",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "14 Dec 2025 09:48:39"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -365,7 +401,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "15494 ha",
-    "major_fire_update_as_at_13_dec_2025_10:05am": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12368' target='_blank'> More information</a>",
+    "major_fire_update_as_at_14_dec_2025_9:43am": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12368' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Dec 2025 05:22"
   },
@@ -527,7 +563,7 @@
     "latitude": "-32.6441459659999",
     "longitude": "149.559463501",
     "region": "nsw",
-    "time_of_call": "13 Dec 2025 15:27:00",
+    "time_of_call": "14 Dec 2025 09:04:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -542,7 +578,7 @@
     "fire": "Yes",
     "size": "30 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Dec 2025 15:27"
+    "updated": "14 Dec 2025 09:04"
   },
   {
     "title": "COLLIER ST, REDHEAD",
@@ -915,31 +951,6 @@
     "updated": "13 Dec 2025 14:46"
   },
   {
-    "title": "Moorilla Creek",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635741",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.9045028689999",
-    "longitude": "150.187484741",
-    "region": "nsw",
-    "time_of_call": "14 Dec 2025 09:11:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "MOORILLA CREEK FIRE BLUE MOUNTAINS NATIONAL PARK 2790",
-    "council_area": "Wollondilly",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "14 Dec 2025 09:11"
-  },
-  {
     "title": "HENRY PARKES WAY, MANILDRA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_635743",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1072,7 +1083,7 @@
     "latitude": "-28.8883647919999",
     "longitude": "153.282318115",
     "region": "nsw",
-    "time_of_call": "13 Dec 2025 12:05:00",
+    "time_of_call": "14 Dec 2025 09:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1084,7 +1095,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Dec 2025 12:05"
+    "updated": "14 Dec 2025 09:42"
   },
   {
     "title": "BOURKE ST, BYROCK",
@@ -1160,7 +1171,7 @@
     "latitude": "-35.113456726",
     "longitude": "148.393936157",
     "region": "nsw",
-    "time_of_call": "13 Dec 2025 15:27:00",
+    "time_of_call": "14 Dec 2025 09:37:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1174,8 +1185,8 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
     "size": "1 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "13 Dec 2025 15:27"
+    "responsible_agency": "Forestry Corporation of NSW",
+    "updated": "14 Dec 2025 09:37"
   },
   {
     "title": "AVOCADO RD, MERRIWA",
@@ -1418,9 +1429,9 @@
     "latitude": "-35.82693863",
     "longitude": "150.192840577",
     "region": "nsw",
-    "time_of_call": "14 Dec 2025 08:59:00",
+    "time_of_call": "14 Dec 2025 09:31:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "3 BADA LANE, TOMAKIN 2537",
     "council_area": "Eurobodalla",
@@ -1430,7 +1441,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Dec 2025 08:59"
+    "updated": "14 Dec 2025 09:31"
   },
   {
     "title": "PARK COMMISSION RD, HOWES VALLEY",
@@ -1460,9 +1471,9 @@
     "latitude": "-36.944339752",
     "longitude": "149.861434936",
     "region": "nsw",
-    "time_of_call": "14 Dec 2025 09:19:00",
+    "time_of_call": "14 Dec 2025 09:26:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "9 PITT ST, SOUTH PAMBULA 2549",
     "council_area": "Bega Valley",
@@ -1472,7 +1483,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Dec 2025 09:19"
+    "updated": "14 Dec 2025 09:26"
   },
   {
     "title": "OLYMPIC HWY, YOUNG",
@@ -1482,9 +1493,9 @@
     "latitude": "-34.2864379879999",
     "longitude": "148.354797363",
     "region": "nsw",
-    "time_of_call": "14 Dec 2025 09:18:00",
+    "time_of_call": "14 Dec 2025 09:42:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "OLYMPIC HWY, YOUNG 2594",
     "council_area": "Hilltops",
@@ -1494,6 +1505,51 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Dec 2025 09:18"
+    "updated": "14 Dec 2025 09:42"
+  },
+  {
+    "title": "HART RD, WESTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636119",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.801170349",
+    "longitude": "151.466461181",
+    "region": "nsw",
+    "time_of_call": "14 Dec 2025 09:30:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "HART RD, WESTON 2326",
+    "council_area": "Cessnock",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "14 Dec 2025 09:30"
+  },
+  {
+    "title": "LOQUAT ST, MANDURAMA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636120",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6507148749999",
+    "longitude": "149.071716309",
+    "region": "nsw",
+    "time_of_call": "14 Dec 2025 09:41:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "49 LOQUAT ST, MANDURAMA 2792",
+    "council_area": "Blayney",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "14 Dec 2025 09:41"
   }
 ]
