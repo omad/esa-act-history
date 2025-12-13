@@ -29,7 +29,7 @@
     "longitude": "149.1295318604",
     "region": "act",
     "time_of_call": "13 Dec 2025 14:05:55",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "ROUNDABOUT, MONARO HIGHWAY, JOHNSON DRIVE, TUGGERANONG, 0000",
-    "updated": "13 Dec 2025 14:52:32"
+    "updated": "13 Dec 2025 15:48:22"
   },
   {
     "agency": "Fire - Ambulance",
@@ -49,15 +49,15 @@
     "longitude": "149.02679",
     "region": "act",
     "time_of_call": "13 Dec 2025 14:36:16",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "COTTER ROAD EXIT, EUCUMBENE DRIVE, DUFFY, 2611",
-    "updated": "13 Dec 2025 14:45:15"
+    "updated": "13 Dec 2025 15:47:00"
   },
   {
     "agency": "Fire - Ambulance",
@@ -131,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "13 Dec 2025 15:21:33"
+    "updated": "13 Dec 2025 15:44:17"
   },
   {
     "agency": "Ambulance",
@@ -167,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "13 Dec 2025 15:34:10"
+    "updated": "13 Dec 2025 15:42:56"
   },
   {
     "agency": "Ambulance",
@@ -179,13 +179,13 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "13 Dec 2025 15:26:04",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "13 Dec 2025 15:32:43"
+    "updated": "13 Dec 2025 15:38:40"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +203,7 @@
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FYSHWICK",
-    "updated": "13 Dec 2025 15:34:29"
+    "updated": "13 Dec 2025 15:50:55"
   },
   {
     "agency": "Ambulance",
@@ -221,7 +221,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "13 Dec 2025 15:34:31"
+    "updated": "13 Dec 2025 15:36:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "083249-13122025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "13 Dec 2025 15:52:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "13 Dec 2025 15:52:31"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -480,7 +498,7 @@
     "latitude": "-32.6441459659999",
     "longitude": "149.559463501",
     "region": "nsw",
-    "time_of_call": "13 Dec 2025 10:40:00",
+    "time_of_call": "13 Dec 2025 15:27:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -495,7 +513,7 @@
     "fire": "Yes",
     "size": "30 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Dec 2025 10:40"
+    "updated": "13 Dec 2025 15:27"
   },
   {
     "title": "COLLIER ST, REDHEAD",
@@ -1345,9 +1363,9 @@
     "latitude": "-33.417610168",
     "longitude": "150.815277099",
     "region": "nsw",
-    "time_of_call": "13 Dec 2025 14:36:00",
+    "time_of_call": "13 Dec 2025 15:26:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "100B MCDOUGALL DR, COLO 2756",
     "council_area": "Hawkesbury",
@@ -1357,7 +1375,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Dec 2025 14:36"
+    "updated": "13 Dec 2025 15:26"
   },
   {
     "title": "RACECOURSE RD, CESSNOCK",
@@ -1380,6 +1398,28 @@
     "updated": "13 Dec 2025 15:10"
   },
   {
+    "title": "KAINS FLAT RD, KAINS FLAT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636047",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.4640045159999",
+    "longitude": "149.822921753",
+    "region": "nsw",
+    "time_of_call": "13 Dec 2025 15:23:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "KAINS FLAT RD, KAINS FLAT 2850",
+    "council_area": "Mid-Western",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Dec 2025 15:23"
+  },
+  {
     "title": "DRY CREEK RD, LEWIS PONDS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636048",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1400,5 +1440,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "13 Dec 2025 15:31"
+  },
+  {
+    "title": "BOURNEWOOD RD, BOURNEWOOD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636050",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.7201347349999",
+    "longitude": "148.772644043",
+    "region": "nsw",
+    "time_of_call": "13 Dec 2025 15:33:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "1097 BOURNEWOOD RD, BOURNEWOOD 2868",
+    "council_area": "Dubbo Regional",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Dec 2025 15:33"
+  },
+  {
+    "title": "FORDS RD, MOORLAND",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636051",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.762702942",
+    "longitude": "152.645523071",
+    "region": "nsw",
+    "time_of_call": "13 Dec 2025 15:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "FORDS RD, MOORLAND 2443",
+    "council_area": "Mid-Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "13 Dec 2025 15:36"
   }
 ]
