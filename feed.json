@@ -89,7 +89,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "14 Dec 2025 06:28:03"
+    "updated": "14 Dec 2025 06:46:32"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "14 Dec 2025 06:27:30"
+    "updated": "14 Dec 2025 06:39:45"
   },
   {
     "agency": "Ambulance",
@@ -155,13 +155,49 @@
     "longitude": "149.111857",
     "region": "act",
     "time_of_call": "14 Dec 2025 06:26:47",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "14 Dec 2025 06:37:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "083409-14122025",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "14 Dec 2025 06:31:19",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "O'CONNOR",
-    "updated": "14 Dec 2025 06:28:06"
+    "location": "BRUCE",
+    "updated": "14 Dec 2025 06:45:12"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SCULLIN",
+    "id": "083414-14122025",
+    "latitude": "-35.235868",
+    "longitude": "149.037677",
+    "region": "act",
+    "time_of_call": "14 Dec 2025 06:42:57",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SCULLIN",
+    "updated": "14 Dec 2025 06:48:18"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -218,7 +254,7 @@
     "latitude": "-32.8605842589999",
     "longitude": "148.260009766",
     "region": "nsw",
-    "time_of_call": "13 Dec 2025 10:27:00",
+    "time_of_call": "14 Dec 2025 06:39:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -233,7 +269,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Dec 2025 10:27"
+    "updated": "14 Dec 2025 06:39"
   },
   {
     "title": "Milsons Gully",
@@ -592,7 +628,7 @@
     "latitude": "-32.044967651",
     "longitude": "149.548477172",
     "region": "nsw",
-    "time_of_call": "13 Dec 2025 10:53:00",
+    "time_of_call": "14 Dec 2025 06:36:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -607,7 +643,7 @@
     "fire": "Yes",
     "size": "630 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Dec 2025 10:53"
+    "updated": "14 Dec 2025 06:36"
   },
   {
     "title": "WEE JASPER RD, CAVAN",
@@ -839,7 +875,7 @@
     "latitude": "-33.177482605",
     "longitude": "148.561889648",
     "region": "nsw",
-    "time_of_call": "13 Dec 2025 13:58:00",
+    "time_of_call": "14 Dec 2025 06:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -854,7 +890,7 @@
     "fire": "Yes",
     "size": "8 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Dec 2025 13:58"
+    "updated": "14 Dec 2025 06:41"
   },
   {
     "title": "PEABODY RD, MOLONG",
@@ -1209,8 +1245,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636027",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.320961359",
-    "longitude": "148.380389214",
+    "latitude": "-35.320960999",
+    "longitude": "148.380386352",
     "region": "nsw",
     "time_of_call": "13 Dec 2025 19:50:00",
     "event_type": "burnt area",
@@ -1262,7 +1298,7 @@
     "latitude": "-32.7201347349999",
     "longitude": "148.772644043",
     "region": "nsw",
-    "time_of_call": "13 Dec 2025 17:47:00",
+    "time_of_call": "14 Dec 2025 06:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1277,7 +1313,7 @@
     "fire": "Yes",
     "size": "28 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Dec 2025 17:47"
+    "updated": "14 Dec 2025 06:38"
   },
   {
     "title": "BOCOBLE RD, BOCOBLE",
@@ -1347,31 +1383,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Dec 2025 03:47"
-  },
-  {
-    "title": "Cherry St, Windale",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636099",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.989165",
-    "longitude": "151.684727",
-    "region": "nsw",
-    "time_of_call": "14 Dec 2025 01:53:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "2A Cherry St, Windale, NSW 2306",
-    "council_area": "Lake Macquarie",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "14 Dec 2025 01:53"
   },
   {
     "title": "WALLAGA ST, BERMAGUI",
