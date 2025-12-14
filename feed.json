@@ -69,7 +69,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "15 Dec 2025 08:03:40"
+    "updated": "15 Dec 2025 08:29:07"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.146868",
     "region": "act",
     "time_of_call": "15 Dec 2025 08:02:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "15 Dec 2025 08:15:36"
+    "updated": "15 Dec 2025 08:30:30"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,13 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "15 Dec 2025 08:15:29",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "15 Dec 2025 08:18:57"
+    "updated": "15 Dec 2025 08:29:31"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1268,26 +1268,6 @@
     "updated": "15 Dec 2025 05:39"
   },
   {
-    "title": "ENFIELD AV, CAERLEON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636230",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.579040527",
-    "longitude": "149.560531616",
-    "region": "nsw",
-    "time_of_call": "15 Dec 2025 06:29:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "32 ENFIELD AV, CAERLEON 2850",
-    "council_area": "Mid-Western",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "15 Dec 2025 06:29"
-  },
-  {
     "title": "ASHFORDS RD, GREGADOO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636232",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1317,9 +1297,9 @@
     "latitude": "-34.206306458",
     "longitude": "150.787841797",
     "region": "nsw",
-    "time_of_call": "15 Dec 2025 08:20:00",
+    "time_of_call": "15 Dec 2025 08:28:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "13 TOGGERAI ST, APPIN 2560",
     "council_area": "Wollondilly",
@@ -1329,6 +1309,50 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Dec 2025 08:20"
+    "updated": "15 Dec 2025 08:28"
+  },
+  {
+    "title": "LARAPINTA DR, WYEE POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636234",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.148651123",
+    "longitude": "151.506713867",
+    "region": "nsw",
+    "time_of_call": "15 Dec 2025 08:21:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "40 LARAPINTA DR, WYEE POINT 2259",
+    "council_area": "Lake Macquarie",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "15 Dec 2025 08:21"
+  },
+  {
+    "title": "SANDWYCH ST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636235",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.1067390439999",
+    "longitude": "141.918273926",
+    "region": "nsw",
+    "time_of_call": "15 Dec 2025 08:22:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "RITCHIES STORES IGA WENTWORTH 11-13 SANDWYCH ST, WENTWORTH 2648",
+    "council_area": "Wentworth",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "15 Dec 2025 08:22"
   }
 ]
