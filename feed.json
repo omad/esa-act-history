@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KINGSTON",
-    "id": "083675-15122025",
-    "latitude": "-35.315358",
-    "longitude": "149.146868",
-    "region": "act",
-    "time_of_call": "15 Dec 2025 08:02:30",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KINGSTON",
-    "updated": "15 Dec 2025 09:37:04"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CURTIN",
     "id": "083677-15122025",
     "latitude": "-35.326585",
@@ -89,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "15 Dec 2025 10:20:22"
+    "updated": "15 Dec 2025 10:33:01"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "15 Dec 2025 10:22:46"
+    "updated": "15 Dec 2025 10:32:51"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "15 Dec 2025 10:05:43"
+    "updated": "15 Dec 2025 10:35:55"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +215,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "15 Dec 2025 09:54:29"
+    "updated": "15 Dec 2025 10:34:26"
   },
   {
     "agency": "Ambulance",
@@ -270,6 +252,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
     "updated": "15 Dec 2025 10:19:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CURTIN",
+    "id": "083705-15122025",
+    "latitude": "-35.326585",
+    "longitude": "149.076856",
+    "region": "act",
+    "time_of_call": "15 Dec 2025 10:32:40",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CURTIN",
+    "updated": "15 Dec 2025 10:35:46"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -1159,50 +1159,6 @@
     "updated": "15 Dec 2025 08:14"
   },
   {
-    "title": "TINTINHULL RD, SUTTON",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636242",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.098758698",
-    "longitude": "149.200607299",
-    "region": "nsw",
-    "time_of_call": "15 Dec 2025 09:38:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "247 TINTINHULL RD, SUTTON 2620",
-    "council_area": "Yass Valley",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "15 Dec 2025 09:38"
-  },
-  {
-    "title": "MITCHELL LINE OF ROAD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636243",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.631530761",
-    "longitude": "151.169342042",
-    "region": "nsw",
-    "time_of_call": "15 Dec 2025 09:45:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "MITCHELL LINE OF ROAD, SINGLETON MILITARY AREA 2331",
-    "council_area": "Singleton",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "15 Dec 2025 09:45"
-  },
-  {
     "title": "THE MCGRANE WAY, NARROMINE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636245",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1230,10 +1186,13 @@
     "latitude": "-37.081596374",
     "longitude": "149.694229126",
     "region": "nsw",
-    "time_of_call": "15 Dec 2025 09:58:00",
+    "time_of_call": "15 Dec 2025 10:29:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "TOWAMBA RD, TOWAMBA 2550",
     "council_area": "Bega Valley",
     "type": "Bush Fire",
@@ -1242,29 +1201,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Dec 2025 09:58"
-  },
-  {
-    "title": "BADGERYS CREEK RD, BRINGELLY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636247",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.924411774",
-    "longitude": "150.736907958",
-    "region": "nsw",
-    "time_of_call": "15 Dec 2025 10:20:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "215 BADGERYS CREEK RD, BRINGELLY 2556",
-    "council_area": "Liverpool",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "15 Dec 2025 10:20"
+    "updated": "15 Dec 2025 10:29"
   },
   {
     "title": "WIANGAREE BACK RD, WEST WIANGAREE",
