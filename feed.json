@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "BENJAMIN WAY, BELCONNEN, 2617",
-    "updated": "14 Dec 2025 20:15:46"
+    "updated": "14 Dec 2025 20:32:54"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "14 Dec 2025 20:19:54"
+    "updated": "14 Dec 2025 20:46:25"
   },
   {
     "agency": "Ambulance",
@@ -95,24 +95,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DEAKIN",
-    "id": "083575-14122025",
-    "latitude": "-35.319944",
-    "longitude": "149.101598",
-    "region": "act",
-    "time_of_call": "14 Dec 2025 19:31:22",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DEAKIN",
-    "updated": "14 Dec 2025 20:24:21"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - TORRENS",
     "id": "083577-14122025",
     "latitude": "-35.372705",
@@ -125,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "14 Dec 2025 20:25:30"
+    "updated": "14 Dec 2025 20:34:00"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "14 Dec 2025 20:17:19"
+    "updated": "14 Dec 2025 20:31:40"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "GUNDAROO DRIVE, WUNDERLICH STREET, GUNGAHLIN, 2912",
-    "updated": "14 Dec 2025 20:15:07"
+    "updated": "14 Dec 2025 20:29:17"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +215,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACARTHUR",
-    "updated": "14 Dec 2025 20:03:42"
+    "updated": "14 Dec 2025 20:42:35"
   },
   {
     "agency": "Ambulance",
@@ -299,13 +281,31 @@
     "longitude": "149.061171",
     "region": "act",
     "time_of_call": "14 Dec 2025 20:23:50",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACQUARIE",
-    "updated": "14 Dec 2025 20:25:31"
+    "updated": "14 Dec 2025 20:35:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "083591-14122025",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "14 Dec 2025 20:39:37",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "14 Dec 2025 20:44:54"
   },
   {
     "title": "WHITTON DARLINGTON POINT RD, WHITTON",
@@ -334,8 +334,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_632161",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.2322578439999",
-    "longitude": "151.900863648",
+    "latitude": "-32.2322577649999",
+    "longitude": "151.900867574",
     "region": "nsw",
     "time_of_call": "14 Dec 2025 16:26:00",
     "event_type": "burnt area",
@@ -1205,26 +1205,6 @@
     "updated": "14 Dec 2025 20:15"
   },
   {
-    "title": "TINTENBAR RD, RUSHFORTH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636108",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.739650727",
-    "longitude": "152.883392334",
-    "region": "nsw",
-    "time_of_call": "14 Dec 2025 10:19:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "27 TINTENBAR RD, RUSHFORTH 2460",
-    "council_area": "Clarence Valley",
-    "type": "Planned Event",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Dec 2025 10:19"
-  },
-  {
     "title": "PITT ST, SOUTH PAMBULA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636116",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1343,7 +1323,7 @@
     "latitude": "-31.567874909",
     "longitude": "152.454269409",
     "region": "nsw",
-    "time_of_call": "14 Dec 2025 20:17:00",
+    "time_of_call": "14 Dec 2025 20:25:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1358,7 +1338,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Dec 2025 20:17"
+    "updated": "14 Dec 2025 20:25"
   },
   {
     "title": "DEDINIS RD, MAYRUNG",
@@ -1383,48 +1363,6 @@
     "updated": "14 Dec 2025 19:38"
   },
   {
-    "title": "MENINDEE RD, MENINDEE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636183",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.131031036",
-    "longitude": "141.852172851",
-    "region": "nsw",
-    "time_of_call": "14 Dec 2025 20:13:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MENINDEE RD, MENINDEE 2879",
-    "council_area": "Unincorporated",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Dec 2025 20:13"
-  },
-  {
-    "title": "NIMOOLA RD, ENGADINE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636184",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.045543671",
-    "longitude": "151.029586792",
-    "region": "nsw",
-    "time_of_call": "14 Dec 2025 20:22:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "NIMOOLA RD, ENGADINE 2233",
-    "council_area": "Sutherland",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "14 Dec 2025 20:22"
-  },
-  {
     "title": "Pre- Harvest Cane Burn PACIFIC HWY, CHATSWORTH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636186",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1447,28 +1385,6 @@
     "updated": "14 Dec 2025 20:09"
   },
   {
-    "title": "WEBBER RD, WYEE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636187",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.177700043",
-    "longitude": "151.474060059",
-    "region": "nsw",
-    "time_of_call": "14 Dec 2025 20:14:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "65 WEBBER RD, WYEE 2259",
-    "council_area": "Lake Macquarie",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Dec 2025 20:14"
-  },
-  {
     "title": "KINGSTOWN RD, URALLA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636188",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1476,19 +1392,19 @@
     "latitude": "-30.639144898",
     "longitude": "151.456420898",
     "region": "nsw",
-    "time_of_call": "14 Dec 2025 20:06:00",
+    "time_of_call": "14 Dec 2025 20:43:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "352 KINGSTOWN RD, URALLA 2358",
     "council_area": "Uralla",
-    "type": "Bush Fire",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Dec 2025 20:06"
+    "updated": "14 Dec 2025 20:43"
   },
   {
     "title": "WALLGROVE RD",
@@ -1520,9 +1436,9 @@
     "latitude": "-34.6340217589999",
     "longitude": "148.01423645",
     "region": "nsw",
-    "time_of_call": "14 Dec 2025 20:20:00",
+    "time_of_call": "14 Dec 2025 20:34:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "COOTAMUNDRA NURSING HOME 121 MACKAY ST, COOTAMUNDRA 2590",
     "council_area": "Cootamundra-Gundagai",
@@ -1532,7 +1448,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "14 Dec 2025 20:20"
+    "updated": "14 Dec 2025 20:34"
   },
   {
     "title": "(WESTERN MTWY), ORCHARD HILLS",
@@ -1542,9 +1458,9 @@
     "latitude": "-33.785804748",
     "longitude": "150.70854187",
     "region": "nsw",
-    "time_of_call": "14 Dec 2025 20:20:00",
+    "time_of_call": "14 Dec 2025 20:29:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "M4 (WESTERN MTWY), ORCHARD HILLS 2748",
     "council_area": "Penrith",
@@ -1554,6 +1470,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "14 Dec 2025 20:20"
+    "updated": "14 Dec 2025 20:29"
   }
 ]
