@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "16 Dec 2025 02:46:41"
+    "updated": "16 Dec 2025 03:19:19"
   },
   {
     "agency": "Ambulance",
@@ -45,13 +45,13 @@
     "longitude": "149.104586",
     "region": "act",
     "time_of_call": "16 Dec 2025 00:28:05",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "16 Dec 2025 00:35:37"
+    "updated": "16 Dec 2025 03:18:26"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "16 Dec 2025 02:38:32"
+    "updated": "16 Dec 2025 03:35:14"
   },
   {
     "agency": "Ambulance",
@@ -105,25 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "16 Dec 2025 02:40:56"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - ISAACS",
-    "id": "083901-16122025",
-    "latitude": "-35.36866",
-    "longitude": "149.117192",
-    "region": "act",
-    "time_of_call": "16 Dec 2025 01:32:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "ISAACS",
-    "updated": "16 Dec 2025 02:29:14"
+    "updated": "16 Dec 2025 03:24:41"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +117,13 @@
     "longitude": "149.144681",
     "region": "act",
     "time_of_call": "16 Dec 2025 01:59:09",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "16 Dec 2025 02:01:46"
+    "updated": "16 Dec 2025 03:17:32"
   },
   {
     "title": "WARD ST, WARDS RIVER",
@@ -957,5 +939,47 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "16 Dec 2025 01:25"
+  },
+  {
+    "title": "HUME HWY, TABLE TOP",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636336",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.925350189",
+    "longitude": "147.005523682",
+    "region": "nsw",
+    "time_of_call": "16 Dec 2025 03:17:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "HUME HWY, TABLE TOP 2640",
+    "council_area": "Albury",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Dec 2025 03:17"
+  },
+  {
+    "title": "SOLITARY ISLANDS WAY, Corindi Beach",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636337",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.0035572049999",
+    "longitude": "153.175384521",
+    "region": "nsw",
+    "time_of_call": "16 Dec 2025 03:29:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "SOLITARY ISLANDS WAY, MULLAWAY 2456",
+    "council_area": "Coffs Harbour",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Dec 2025 03:29"
   }
 ]
