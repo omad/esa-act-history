@@ -29,15 +29,15 @@
     "longitude": "149.05306",
     "region": "act",
     "time_of_call": "17 Dec 2025 21:37:49",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "STREETON DRIVE, COTTER ROAD, WESTON, 2611",
-    "updated": "17 Dec 2025 22:23:21"
+    "updated": "17 Dec 2025 22:27:48"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "17 Dec 2025 22:15:15"
+    "updated": "17 Dec 2025 22:42:30"
   },
   {
     "agency": "Ambulance",
@@ -109,25 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "17 Dec 2025 21:23:39"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - ISAACS",
-    "id": "084426-17122025",
-    "latitude": "-35.36866",
-    "longitude": "149.117192",
-    "region": "act",
-    "time_of_call": "17 Dec 2025 21:20:27",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "ISAACS",
-    "updated": "17 Dec 2025 22:13:00"
+    "updated": "17 Dec 2025 22:31:57"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +139,13 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "17 Dec 2025 21:29:28",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "17 Dec 2025 21:50:36"
+    "updated": "17 Dec 2025 22:46:49"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "17 Dec 2025 22:18:55"
+    "updated": "17 Dec 2025 22:37:39"
   },
   {
     "agency": "Ambulance",
@@ -219,7 +201,7 @@
     "type_description": "",
     "type_icon": "",
     "location": "STREETON DRIVE, COTTER ROAD, WESTON, 2611",
-    "updated": "17 Dec 2025 22:18:54"
+    "updated": "17 Dec 2025 22:33:22"
   },
   {
     "agency": "Ambulance",
@@ -241,6 +223,78 @@
   },
   {
     "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GIRALANG",
+    "id": "084439-17122025",
+    "latitude": "-35.210049",
+    "longitude": "149.100175",
+    "region": "act",
+    "time_of_call": "17 Dec 2025 22:30:19",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GIRALANG",
+    "updated": "17 Dec 2025 22:40:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KINGSTON",
+    "id": "084440-17122025",
+    "latitude": "-35.315358",
+    "longitude": "149.146868",
+    "region": "act",
+    "time_of_call": "17 Dec 2025 22:43:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KINGSTON",
+    "updated": "17 Dec 2025 22:46:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CASEY",
+    "id": "084442-17122025",
+    "latitude": "-35.167812",
+    "longitude": "149.097085",
+    "region": "act",
+    "time_of_call": "17 Dec 2025 22:45:09",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CASEY",
+    "updated": "17 Dec 2025 22:47:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHARNWOOD",
+    "id": "084443-17122025",
+    "latitude": "-35.200338",
+    "longitude": "149.036735",
+    "region": "act",
+    "time_of_call": "17 Dec 2025 22:46:03",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHARNWOOD",
+    "updated": "17 Dec 2025 22:49:43"
+  },
+  {
+    "agency": "Ambulance",
     "description": "Severe Heatwave conditions are expected this week.\r\n\r\nMaximum temperatures in the low to mid thirties and overnight minimum temperatures in the mid to high teens across the ACT from Wednesday.\r\n\r\nThe heat will peak during the end of the week then begin to ease over the weekend. \r\n\r\nBe aware of the risk of heat-related illness and plan ahead to keep yourself and others safe.\r\n\r\nMore - https://esa.act.gov.au/node/6451",
     "event_type": "warning group warning",
     "id": "43",
@@ -255,7 +309,7 @@
     "warning_level": "Advice",
     "node_id": "6451",
     "banner_check": "",
-    "last_updated": "17 Dec 2025 22:27:29",
+    "last_updated": "17 Dec 2025 22:50:17",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -278,7 +332,7 @@
     "latitude": "-32.2322577649999",
     "longitude": "151.900867574",
     "region": "nsw",
-    "time_of_call": "16 Dec 2025 18:09:00",
+    "time_of_call": "17 Dec 2025 22:36:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -293,7 +347,7 @@
     "fire": "Yes",
     "size": "1166 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Dec 2025 18:09"
+    "updated": "17 Dec 2025 22:36"
   },
   {
     "title": "Milsons Gully",
@@ -353,7 +407,7 @@
     "latitude": "-33.466842651",
     "longitude": "151.316177369",
     "region": "nsw",
-    "time_of_call": "16 Dec 2025 12:47:00",
+    "time_of_call": "17 Dec 2025 22:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -368,7 +422,7 @@
     "fire": "Yes",
     "size": "129 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Dec 2025 12:47"
+    "updated": "17 Dec 2025 22:32"
   },
   {
     "title": "ROCKY CREEK FIRE, MILSONS ARM",
@@ -378,7 +432,7 @@
     "latitude": "-32.989971161",
     "longitude": "151.193969727",
     "region": "nsw",
-    "time_of_call": "16 Dec 2025 22:08:00",
+    "time_of_call": "17 Dec 2025 22:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -393,7 +447,7 @@
     "fire": "Yes",
     "size": "46 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Dec 2025 22:08"
+    "updated": "17 Dec 2025 22:42"
   },
   {
     "title": "HOME HILLS RD, BOGEE",
@@ -428,7 +482,7 @@
     "latitude": "-32.090760066",
     "longitude": "152.073761848",
     "region": "nsw",
-    "time_of_call": "16 Dec 2025 18:07:00",
+    "time_of_call": "17 Dec 2025 22:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -443,7 +497,7 @@
     "fire": "Yes",
     "size": "24 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Dec 2025 18:07"
+    "updated": "17 Dec 2025 22:35"
   },
   {
     "title": "HERON RD, OLD BAR",
@@ -453,7 +507,7 @@
     "latitude": "-31.9576721189999",
     "longitude": "152.565307617",
     "region": "nsw",
-    "time_of_call": "16 Dec 2025 18:10:00",
+    "time_of_call": "17 Dec 2025 22:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -468,7 +522,7 @@
     "fire": "Yes",
     "size": "3 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Dec 2025 18:10"
+    "updated": "17 Dec 2025 22:38"
   },
   {
     "title": "HAMMOND ST, GOODOOGA",
@@ -478,7 +532,7 @@
     "latitude": "-29.111278534",
     "longitude": "147.454238892",
     "region": "nsw",
-    "time_of_call": "16 Dec 2025 18:15:00",
+    "time_of_call": "17 Dec 2025 22:42:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -490,7 +544,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Dec 2025 18:15"
+    "updated": "17 Dec 2025 22:42"
   },
   {
     "title": "NANGUS RD, GUNDAGAI",
@@ -500,7 +554,7 @@
     "latitude": "-35.0712509159999",
     "longitude": "147.993789673",
     "region": "nsw",
-    "time_of_call": "16 Dec 2025 17:56:00",
+    "time_of_call": "17 Dec 2025 22:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -515,7 +569,7 @@
     "fire": "Yes",
     "size": "65 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Dec 2025 17:56"
+    "updated": "17 Dec 2025 22:32"
   },
   {
     "title": "Cod Rd Gulpa MVNP",
@@ -597,7 +651,7 @@
     "latitude": "-31.042053223",
     "longitude": "150.93421936",
     "region": "nsw",
-    "time_of_call": "16 Dec 2025 22:11:00",
+    "time_of_call": "17 Dec 2025 22:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -609,7 +663,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Dec 2025 22:11"
+    "updated": "17 Dec 2025 22:43"
   },
   {
     "title": "Corcoran St, Berrigan",
@@ -862,28 +916,6 @@
     "updated": "17 Dec 2025 18:53"
   },
   {
-    "title": "HUME HWY, GUNDAGAI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636515",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.9813041689999",
-    "longitude": "148.126708984",
-    "region": "nsw",
-    "time_of_call": "17 Dec 2025 19:57:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "HUME HWY, GUNDAGAI 2722",
-    "council_area": "Cootamundra-Gundagai",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Dec 2025 19:57"
-  },
-  {
     "title": "OLD KOSCIUSZKO RD, EAST JINDABYNE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_636518",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -891,7 +923,7 @@
     "latitude": "-36.399673462",
     "longitude": "148.649368287",
     "region": "nsw",
-    "time_of_call": "17 Dec 2025 21:14:00",
+    "time_of_call": "17 Dec 2025 22:29:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -904,9 +936,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
     "fire": "Yes",
-    "size": "8 ha",
+    "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Dec 2025 21:14"
+    "updated": "17 Dec 2025 22:29"
   },
   {
     "title": "Bermagui Road, Akolele",
@@ -929,26 +961,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Dec 2025 21:17"
-  },
-  {
-    "title": "REYNOLDS RD, LONDONDERRY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637508",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.635887146",
-    "longitude": "150.756164551",
-    "region": "nsw",
-    "time_of_call": "17 Dec 2025 21:13:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "REYNOLDS RD, LONDONDERRY 2753",
-    "council_area": "Penrith",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Dec 2025 21:13"
   },
   {
     "title": "Spring St, Coraki",
@@ -996,5 +1008,135 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Dec 2025 21:53"
+  },
+  {
+    "title": "THUNDERBOLTS WAY, BAXTERS RIDGE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637519",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.6727085109999",
+    "longitude": "151.831970215",
+    "region": "nsw",
+    "time_of_call": "17 Dec 2025 22:10:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "THUNDERBOLTS WAY, BAXTERS RIDGE 2422",
+    "council_area": "Mid-Coast",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Dec 2025 22:10"
+  },
+  {
+    "title": "BRUXNER PARK RD, BUCCA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637520",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.2223491669999",
+    "longitude": "153.094650268",
+    "region": "nsw",
+    "time_of_call": "17 Dec 2025 22:46:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "BRUXNER PARK RD, BUCCA 2450",
+    "council_area": "Coffs Harbour",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Dec 2025 22:46"
+  },
+  {
+    "title": "DOYLE ST, GOODOOGA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637521",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.113194248",
+    "longitude": "147.462637424",
+    "region": "nsw",
+    "time_of_call": "17 Dec 2025 22:41:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "DOYLE ST, GOODOOGA 2838",
+    "council_area": "Brewarrina",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Dec 2025 22:41"
+  },
+  {
+    "title": "TULLYMORGAN RD, LAWRENCE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637522",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.464139938",
+    "longitude": "153.079833984",
+    "region": "nsw",
+    "time_of_call": "17 Dec 2025 22:21:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "TULLYMORGAN RD, LAWRENCE 2460",
+    "council_area": "Clarence Valley",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Dec 2025 22:21"
+  },
+  {
+    "title": "OCONNELL ST, VINEYARD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637525",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.655651093",
+    "longitude": "150.860778809",
+    "region": "nsw",
+    "time_of_call": "17 Dec 2025 22:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "OCONNELL ST, VINEYARD 2765",
+    "council_area": "Blacktown",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Dec 2025 22:37"
+  },
+  {
+    "title": "PUTTY RD, MOUNT THORLEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637526",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.618247985",
+    "longitude": "151.099563599",
+    "region": "nsw",
+    "time_of_call": "17 Dec 2025 22:41:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PUTTY RD, MOUNT THORLEY 2330",
+    "council_area": "Singleton",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Dec 2025 22:41"
   }
 ]
