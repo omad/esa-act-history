@@ -41,24 +41,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CONDER",
-    "id": "084459-18122025",
-    "latitude": "-35.458351",
-    "longitude": "149.106348",
-    "region": "act",
-    "time_of_call": "18 Dec 2025 00:54:05",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CONDER",
-    "updated": "18 Dec 2025 02:23:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - WRIGHT",
     "id": "084465-18122025",
     "latitude": "-35.323404",
@@ -71,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "18 Dec 2025 03:57:48"
+    "updated": "18 Dec 2025 04:12:31"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "18 Dec 2025 03:59:10"
+    "updated": "18 Dec 2025 04:05:42"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +83,13 @@
     "longitude": "149.091978",
     "region": "act",
     "time_of_call": "18 Dec 2025 03:54:17",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "18 Dec 2025 03:57:42"
+    "updated": "18 Dec 2025 04:12:27"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +107,7 @@
     "warning_level": "Advice",
     "node_id": "6451",
     "banner_check": "",
-    "last_updated": "18 Dec 2025 04:00:29",
+    "last_updated": "18 Dec 2025 04:31:02",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -743,12 +725,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637539",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.111270904",
-    "longitude": "153.209350586",
+    "latitude": "-30.111071684",
+    "longitude": "153.21091175",
     "region": "nsw",
-    "time_of_call": "18 Dec 2025 03:43:00",
+    "time_of_call": "18 Dec 2025 04:04:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "OCEAN ST, WOOLGOOLGA 2456",
     "council_area": "Coffs Harbour",
@@ -756,7 +738,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Dec 2025 03:43"
+    "updated": "18 Dec 2025 04:04"
   },
   {
     "title": "Ferrier St, Narrandera",
@@ -766,9 +748,9 @@
     "latitude": "-34.7394869999999",
     "longitude": "146.555961",
     "region": "nsw",
-    "time_of_call": "18 Dec 2025 03:49:00",
+    "time_of_call": "18 Dec 2025 04:03:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -781,6 +763,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "18 Dec 2025 03:49"
+    "updated": "18 Dec 2025 04:03"
   }
 ]
