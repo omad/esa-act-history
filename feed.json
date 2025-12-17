@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "18 Dec 2025 07:32:25"
+    "updated": "18 Dec 2025 07:39:30"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "18 Dec 2025 07:28:32"
+    "updated": "18 Dec 2025 07:44:58"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MITCHELL",
-    "updated": "18 Dec 2025 07:16:48"
+    "updated": "18 Dec 2025 07:46:31"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "18 Dec 2025 07:26:35"
+    "updated": "18 Dec 2025 07:42:11"
   },
   {
     "agency": "Ambulance",
@@ -173,13 +173,13 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "18 Dec 2025 07:21:01",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "18 Dec 2025 07:26:29"
+    "updated": "18 Dec 2025 07:44:43"
   },
   {
     "agency": "Ambulance",
@@ -197,7 +197,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "18 Dec 2025 07:30:31"
+    "updated": "18 Dec 2025 07:36:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "084489-18122025",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "18 Dec 2025 07:37:54",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "18 Dec 2025 07:46:25"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GIRALANG",
+    "id": "084490-18122025",
+    "latitude": "-35.210049",
+    "longitude": "149.100175",
+    "region": "act",
+    "time_of_call": "18 Dec 2025 07:45:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GIRALANG",
+    "updated": "18 Dec 2025 07:49:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "084491-18122025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "18 Dec 2025 07:52:33",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "18 Dec 2025 07:52:43"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +269,7 @@
     "warning_level": "Advice",
     "node_id": "6451",
     "banner_check": "",
-    "last_updated": "18 Dec 2025 07:33:47",
+    "last_updated": "18 Dec 2025 07:53:29",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -827,5 +881,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Dec 2025 07:19"
+  },
+  {
+    "title": "BOORALIE RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637549",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6789894099999",
+    "longitude": "151.224594116",
+    "region": "nsw",
+    "time_of_call": "18 Dec 2025 07:49:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "TERREY HILLS NURSING HOME, BOORALIE RD, TERREY HILLS 2084",
+    "council_area": "Northern Beaches",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Dec 2025 07:49"
+  },
+  {
+    "title": "PACIFIC HWY, VALLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637550",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.586803437",
+    "longitude": "152.999725341",
+    "region": "nsw",
+    "time_of_call": "18 Dec 2025 07:36:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, VALLA 2448",
+    "council_area": "Nambucca Valley",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Dec 2025 07:36"
   }
 ]
