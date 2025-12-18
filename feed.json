@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DENMAN PROSPECT",
-    "updated": "19 Dec 2025 06:24:33"
+    "updated": "19 Dec 2025 06:34:33"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "19 Dec 2025 06:26:10"
+    "updated": "19 Dec 2025 06:37:10"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "19 Dec 2025 06:28:31"
+    "updated": "19 Dec 2025 06:37:00"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "19 Dec 2025 06:30:32"
+    "updated": "19 Dec 2025 06:47:18"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "19 Dec 2025 06:30:43"
+    "updated": "19 Dec 2025 06:36:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "084725-19122025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "19 Dec 2025 06:46:21",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "19 Dec 2025 06:48:38"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +141,7 @@
     "warning_level": "Advice",
     "node_id": "6451",
     "banner_check": "",
-    "last_updated": "19 Dec 2025 06:31:34",
+    "last_updated": "19 Dec 2025 06:49:52",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -835,9 +853,9 @@
     "latitude": "-32.940433503",
     "longitude": "151.621276856",
     "region": "nsw",
-    "time_of_call": "19 Dec 2025 06:11:00",
+    "time_of_call": "19 Dec 2025 06:36:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "RACECOURSE RD, TERALBA 2284",
     "council_area": "Lake Macquarie",
@@ -847,24 +865,24 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Dec 2025 06:11"
+    "updated": "19 Dec 2025 06:36"
   },
   {
-    "title": "MENINDEE RD, BROKEN HILL",
+    "title": "Menindee Rd, Broken Hill",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637676",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
     "latitude": "-31.979175568",
     "longitude": "141.514434814",
     "region": "nsw",
-    "time_of_call": "19 Dec 2025 06:23:00",
+    "time_of_call": "19 Dec 2025 06:34:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "MENINDEE RD, BROKEN HILL 2880",
+    "location": "Menindee Rd, Broken Hill, NSW 2880",
     "council_area": "Broken Hill",
     "type": "Bush Fire",
     "type_description": "",
@@ -872,6 +890,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "19 Dec 2025 06:23"
+    "updated": "19 Dec 2025 06:34"
+  },
+  {
+    "title": "LEMON TREE PASSAGE RD, SALT ASH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637677",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.773338317",
+    "longitude": "151.94317627",
+    "region": "nsw",
+    "time_of_call": "19 Dec 2025 06:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "LEMON TREE PASSAGE RD, SALT ASH 2318",
+    "council_area": "Port Stephens",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "19 Dec 2025 06:39"
   }
 ]
