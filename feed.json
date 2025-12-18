@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "19 Dec 2025 07:54:24"
+    "updated": "19 Dec 2025 08:29:22"
   },
   {
     "agency": "Ambulance",
@@ -52,24 +52,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
     "updated": "19 Dec 2025 07:11:08"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HIGGINS",
-    "id": "084730-19122025",
-    "latitude": "-35.230526",
-    "longitude": "149.025052",
-    "region": "act",
-    "time_of_call": "19 Dec 2025 07:25:24",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HIGGINS",
-    "updated": "19 Dec 2025 08:15:19"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +177,7 @@
     "warning_level": "Advice",
     "node_id": "6451",
     "banner_check": "",
-    "last_updated": "19 Dec 2025 08:24:03",
+    "last_updated": "19 Dec 2025 08:36:03",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -907,19 +889,19 @@
     "latitude": "-31.874576568",
     "longitude": "152.490432739",
     "region": "nsw",
-    "time_of_call": "19 Dec 2025 07:52:00",
+    "time_of_call": "19 Dec 2025 08:27:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BRIMBIN RD, BRIMBIN 2430",
     "council_area": "Mid-Coast",
-    "type": "Bush Fire",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Dec 2025 07:52"
+    "updated": "19 Dec 2025 08:27"
   },
   {
     "title": "BEACH ST, BONNY HILLS",
@@ -929,9 +911,9 @@
     "latitude": "-31.588691711",
     "longitude": "152.837707519",
     "region": "nsw",
-    "time_of_call": "19 Dec 2025 08:05:00",
+    "time_of_call": "19 Dec 2025 08:28:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BEACH ST, BONNY HILLS 2445",
     "council_area": "Port Macquarie-Hastings",
@@ -939,7 +921,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Dec 2025 08:05"
+    "updated": "19 Dec 2025 08:28"
   },
   {
     "title": "RUBBISH DEPOT TRUNDLE",
@@ -949,9 +931,9 @@
     "latitude": "-32.9341812129999",
     "longitude": "147.68901062",
     "region": "nsw",
-    "time_of_call": "19 Dec 2025 08:11:00",
+    "time_of_call": "19 Dec 2025 08:23:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "RUBBISH DEPOT TRUNDLE 2875",
     "council_area": "Parkes",
@@ -961,7 +943,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Dec 2025 08:11"
+    "updated": "19 Dec 2025 08:23"
   },
   {
     "title": "(PACIFIC MTWY), TUGGERAH",
@@ -1006,27 +988,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "19 Dec 2025 08:05"
-  },
-  {
-    "title": "THE AVENUE, HEATHCOTE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637686",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.0812606809999",
-    "longitude": "151.013534546",
-    "region": "nsw",
-    "time_of_call": "19 Dec 2025 08:11:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "JOHN PAUL VILLAGE, THE AVENUE, HEATHCOTE 2233",
-    "council_area": "Sutherland",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "19 Dec 2025 08:11"
   }
 ]
