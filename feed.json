@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "19 Dec 2025 03:07:43"
+    "updated": "19 Dec 2025 03:39:42"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "19 Dec 2025 03:33:56"
+    "updated": "19 Dec 2025 03:47:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "084709-19122025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "19 Dec 2025 03:42:24",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "19 Dec 2025 03:53:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "084710-19122025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "19 Dec 2025 03:55:03",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "19 Dec 2025 03:57:08"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +105,7 @@
     "warning_level": "Advice",
     "node_id": "6451",
     "banner_check": "",
-    "last_updated": "19 Dec 2025 03:39:56",
+    "last_updated": "19 Dec 2025 03:59:56",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -799,43 +835,21 @@
     "updated": "19 Dec 2025 02:32"
   },
   {
-    "title": "SUMMERLAND HWY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637664",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.8433513639999",
-    "longitude": "153.032058716",
-    "region": "nsw",
-    "time_of_call": "19 Dec 2025 03:14:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "NORTHERN CO OP MEAT COMPANY, SUMMERLAND HWY, CASINO 2470",
-    "council_area": "Richmond Valley",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "19 Dec 2025 03:14"
-  },
-  {
-    "title": "PACIFIC WAY, TURA BEACH",
+    "title": "Pacific Way, Tura Beach",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637667",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
     "latitude": "-36.862091065",
     "longitude": "149.932617188",
     "region": "nsw",
-    "time_of_call": "19 Dec 2025 03:26:00",
+    "time_of_call": "19 Dec 2025 03:45:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "PACIFIC WAY, TURA BEACH 2548",
+    "location": "Pacific Way, Tura Beach, NSW 2548",
     "council_area": "Bega Valley",
     "type": "Grass Fire",
     "type_description": "",
@@ -843,6 +857,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "19 Dec 2025 03:26"
+    "updated": "19 Dec 2025 03:45"
   }
 ]
