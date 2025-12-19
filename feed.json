@@ -1,21 +1,43 @@
 [
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONASH",
-    "id": "084971-20122025",
-    "latitude": "-35.413962",
-    "longitude": "149.091126",
+    "title": "STORM OR TREE DAMAGE - HARRISON",
+    "id": "019653-20122025",
+    "latitude": "-35.1891242",
+    "longitude": "149.1532050799",
     "region": "act",
-    "time_of_call": "20 Dec 2025 01:01:35",
+    "time_of_call": "20 Dec 2025 04:05:56",
     "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "20 Dec 2025 03:49:37"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "OSPREY STREET, HARRISON, 2914",
+    "updated": "20 Dec 2025 04:15:10"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STORM OR TREE DAMAGE - CURTIN",
+    "id": "019654-20122025",
+    "latitude": "-35.3327892399",
+    "longitude": "149.0767653599",
+    "region": "act",
+    "time_of_call": "20 Dec 2025 04:06:10",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "WILSON STREET, CURTIN, 2605",
+    "updated": "20 Dec 2025 04:14:33"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": ""
+    "updated": "20 Dec 2025 04:12:29"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "20 Dec 2025 03:48:15"
+    "updated": "20 Dec 2025 04:08:32"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +103,31 @@
     "longitude": "149.094445",
     "region": "act",
     "time_of_call": "20 Dec 2025 03:54:22",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NICHOLLS",
+    "updated": "20 Dec 2025 04:15:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAPITAL HILL",
+    "id": "084997-20122025",
+    "latitude": "-35.305595",
+    "longitude": "149.126792",
+    "region": "act",
+    "time_of_call": "20 Dec 2025 04:22:46",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "NICHOLLS",
-    "updated": "20 Dec 2025 03:55:52"
+    "location": "CAPITAL HILL",
+    "updated": "20 Dec 2025 04:24:01"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +145,7 @@
     "warning_level": "Advice",
     "node_id": "6451",
     "banner_check": "",
-    "last_updated": "20 Dec 2025 03:56:31",
+    "last_updated": "20 Dec 2025 04:25:30",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -1291,7 +1331,7 @@
     "latitude": "-34.1954040529999",
     "longitude": "148.868057251",
     "region": "nsw",
-    "time_of_call": "20 Dec 2025 02:35:00",
+    "time_of_call": "20 Dec 2025 03:53:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
     "alert_level": "Not Applicable",
@@ -1303,7 +1343,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Dec 2025 02:35"
+    "updated": "20 Dec 2025 03:53"
   },
   {
     "title": "GUDYUNG CL, KEMPS CREEK",
@@ -1328,38 +1368,16 @@
     "updated": "20 Dec 2025 03:26"
   },
   {
-    "title": "SUSSEX INLET RD, SUSSEX INLET",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637859",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.153419495",
-    "longitude": "150.570999146",
-    "region": "nsw",
-    "time_of_call": "20 Dec 2025 03:45:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "SUSSEX INLET RD, SUSSEX INLET 2540",
-    "council_area": "Shoalhaven",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Dec 2025 03:45"
-  },
-  {
     "title": "LINDSAYS RD, BOAMBEE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_637860",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-30.3422946929999",
-    "longitude": "153.069168091",
+    "latitude": "-30.343667984",
+    "longitude": "153.068328857",
     "region": "nsw",
-    "time_of_call": "20 Dec 2025 03:54:00",
+    "time_of_call": "20 Dec 2025 04:12:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "LINDSAYS RD, BOAMBEE 2450",
     "council_area": "Coffs Harbour",
@@ -1367,6 +1385,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Dec 2025 03:54"
+    "updated": "20 Dec 2025 04:12"
   }
 ]
