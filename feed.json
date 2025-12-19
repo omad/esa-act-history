@@ -1,6 +1,46 @@
 [
   {
-    "agency": "Fire - Ambulance",
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STORM OR TREE DAMAGE - HARRISON",
+    "id": "019653-20122025",
+    "latitude": "-35.1891242",
+    "longitude": "149.1532050799",
+    "region": "act",
+    "time_of_call": "20 Dec 2025 04:05:56",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "OSPREY STREET, HARRISON, 2914",
+    "updated": "20 Dec 2025 08:31:44"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STORM OR TREE DAMAGE - CURTIN",
+    "id": "019654-20122025",
+    "latitude": "-35.3327892399",
+    "longitude": "149.0767653599",
+    "region": "act",
+    "time_of_call": "20 Dec 2025 04:06:10",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "WILSON STREET, CURTIN, 2605",
+    "updated": "20 Dec 2025 08:31:16"
+  },
+  {
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
     "title": "MOTOR VEHICLE ACCIDENT - FRANKLIN",
@@ -9,15 +49,15 @@
     "longitude": "149.14726699",
     "region": "act",
     "time_of_call": "20 Dec 2025 08:04:50",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "WELL STATION DRIVE, FLEMINGTON ROAD, FRANKLIN, 2913",
-    "updated": "20 Dec 2025 08:14:48"
+    "updated": ""
   },
   {
     "agency": "Ambulance",
@@ -107,7 +147,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "20 Dec 2025 08:05:26"
+    "updated": "20 Dec 2025 08:42:44"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +165,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "20 Dec 2025 08:13:20"
+    "updated": "20 Dec 2025 08:43:55"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +177,13 @@
     "longitude": "149.134893",
     "region": "act",
     "time_of_call": "20 Dec 2025 08:00:56",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "20 Dec 2025 08:03:31"
+    "updated": "20 Dec 2025 08:30:54"
   },
   {
     "agency": "Ambulance",
@@ -191,13 +231,13 @@
     "longitude": "149.033417",
     "region": "act",
     "time_of_call": "20 Dec 2025 08:08:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WHITLAM",
-    "updated": "20 Dec 2025 08:20:31"
+    "updated": "20 Dec 2025 08:38:47"
   },
   {
     "agency": "Ambulance",
@@ -219,6 +259,24 @@
   },
   {
     "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FARRER",
+    "id": "085021-20122025",
+    "latitude": "-35.377331",
+    "longitude": "149.104586",
+    "region": "act",
+    "time_of_call": "20 Dec 2025 08:33:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FARRER",
+    "updated": "20 Dec 2025 08:39:03"
+  },
+  {
+    "agency": "Ambulance",
     "description": "Severe Heatwave conditions are expected this week.\r\n\r\nMaximum temperatures in the low to mid thirties and overnight minimum temperatures in the mid to high teens across the ACT from Wednesday.\r\n\r\nThe heat will peak during the end of the week then begin to ease over the weekend. \r\n\r\nBe aware of the risk of heat-related illness and plan ahead to keep yourself and others safe.\r\n\r\nMore - https://esa.act.gov.au/node/6451",
     "event_type": "warning group warning",
     "id": "43",
@@ -233,7 +291,7 @@
     "warning_level": "Advice",
     "node_id": "6451",
     "banner_check": "",
-    "last_updated": "20 Dec 2025 08:26:28",
+    "last_updated": "20 Dec 2025 08:49:28",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -500,7 +558,7 @@
     "latitude": "-28.988141554",
     "longitude": "151.789032016",
     "region": "nsw",
-    "time_of_call": "19 Dec 2025 17:30:00",
+    "time_of_call": "20 Dec 2025 08:28:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -515,7 +573,7 @@
     "fire": "Yes",
     "size": "144 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Dec 2025 17:30"
+    "updated": "20 Dec 2025 08:28"
   },
   {
     "title": "SPRING FLAT CREEK FIRETRAIL, BRINGENBRONG",
@@ -1259,7 +1317,7 @@
     "latitude": "-35.705265045",
     "longitude": "147.277313233",
     "region": "nsw",
-    "time_of_call": "19 Dec 2025 20:53:00",
+    "time_of_call": "20 Dec 2025 08:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1274,7 +1332,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Dec 2025 20:53"
+    "updated": "20 Dec 2025 08:38"
   },
   {
     "title": "KYOGLE RD, FERNSIDE",
@@ -1461,9 +1519,9 @@
     "latitude": "-34.7231445319999",
     "longitude": "150.522338867",
     "region": "nsw",
-    "time_of_call": "20 Dec 2025 08:14:00",
+    "time_of_call": "20 Dec 2025 08:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "MOSS VALE RD, KANGAROO VALLEY 2577",
     "council_area": "Shoalhaven",
@@ -1471,6 +1529,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Dec 2025 08:14"
+    "updated": "20 Dec 2025 08:40"
   }
 ]
