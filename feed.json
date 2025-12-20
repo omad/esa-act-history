@@ -23,24 +23,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - DOWNER",
-    "id": "085247-21122025",
-    "latitude": "-35.245131",
-    "longitude": "149.143546",
-    "region": "act",
-    "time_of_call": "21 Dec 2025 02:23:47",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "DOWNER",
-    "updated": "21 Dec 2025 03:39:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DEAKIN",
     "id": "085255-21122025",
     "latitude": "-35.319944",
@@ -65,13 +47,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "21 Dec 2025 03:11:23",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "21 Dec 2025 03:19:28"
+    "updated": "21 Dec 2025 04:01:31"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +89,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "21 Dec 2025 03:49:04"
+    "updated": "21 Dec 2025 04:18:46"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +101,13 @@
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "21 Dec 2025 03:43:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "21 Dec 2025 03:49:22"
+    "updated": "21 Dec 2025 04:22:41"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +119,49 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "21 Dec 2025 03:48:39",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "21 Dec 2025 04:20:22"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
+    "id": "085267-21122025",
+    "latitude": "-35.333366",
+    "longitude": "149.146674",
+    "region": "act",
+    "time_of_call": "21 Dec 2025 04:11:54",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "PHILLIP",
-    "updated": "21 Dec 2025 03:49:06"
+    "location": "NARRABUNDAH",
+    "updated": "21 Dec 2025 04:18:39"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NICHOLLS",
+    "id": "085270-21122025",
+    "latitude": "-35.186387",
+    "longitude": "149.094445",
+    "region": "act",
+    "time_of_call": "21 Dec 2025 04:21:09",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NICHOLLS",
+    "updated": "21 Dec 2025 04:22:30"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +179,7 @@
     "warning_level": "Advice",
     "node_id": "6451",
     "banner_check": "",
-    "last_updated": "21 Dec 2025 03:51:25",
+    "last_updated": "21 Dec 2025 04:23:51",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -1206,28 +1224,6 @@
     "updated": "20 Dec 2025 23:03"
   },
   {
-    "title": "HUME MTWY, BERRIMA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638001",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.46817398",
-    "longitude": "150.337524414",
-    "region": "nsw",
-    "time_of_call": "21 Dec 2025 02:52:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "HUME MTWY, BERRIMA 2577",
-    "council_area": "Wingecarribee",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "21 Dec 2025 02:52"
-  },
-  {
     "title": "BALLYNEAL CR, HEDDON GRETA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638003",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1235,9 +1231,9 @@
     "latitude": "-32.81041336",
     "longitude": "151.517181397",
     "region": "nsw",
-    "time_of_call": "21 Dec 2025 03:43:00",
+    "time_of_call": "21 Dec 2025 03:53:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "BALLYNEAL CR, HEDDON GRETA 2321",
     "council_area": "Cessnock",
@@ -1247,7 +1243,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Dec 2025 03:43"
+    "updated": "21 Dec 2025 03:53"
   },
   {
     "title": "MANILLA RD, KLORI",
@@ -1257,9 +1253,9 @@
     "latitude": "-30.811719894",
     "longitude": "150.779602051",
     "region": "nsw",
-    "time_of_call": "21 Dec 2025 03:42:00",
+    "time_of_call": "21 Dec 2025 04:10:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "MANILLA RD, KLORI 2346",
     "council_area": "Tamworth",
@@ -1269,6 +1265,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Dec 2025 03:42"
+    "updated": "21 Dec 2025 04:10"
   }
 ]
