@@ -79,24 +79,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - SPENCE",
-    "id": "085225-20122025",
-    "latitude": "-35.196073",
-    "longitude": "149.064742",
-    "region": "act",
-    "time_of_call": "20 Dec 2025 22:49:25",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "SPENCE",
-    "updated": "21 Dec 2025 00:00:58"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CITY",
     "id": "085230-20122025",
     "latitude": "-35.282068",
@@ -109,7 +91,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "20 Dec 2025 23:45:18"
+    "updated": "21 Dec 2025 00:42:25"
   },
   {
     "agency": "Ambulance",
@@ -145,25 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "21 Dec 2025 00:21:47"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "085233-20122025",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "20 Dec 2025 23:26:44",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "20 Dec 2025 23:49:46"
+    "updated": "21 Dec 2025 00:37:42"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "21 Dec 2025 00:25:46"
+    "updated": "21 Dec 2025 00:40:29"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": ""
+    "updated": "21 Dec 2025 00:42:28"
   },
   {
     "agency": "Ambulance",
@@ -229,13 +193,31 @@
     "longitude": "149.154752",
     "region": "act",
     "time_of_call": "21 Dec 2025 00:31:49",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HARRISON",
+    "updated": "21 Dec 2025 00:46:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "085240-21122025",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "21 Dec 2025 00:32:22",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "HARRISON",
-    "updated": "21 Dec 2025 00:31:50"
+    "location": "CITY",
+    "updated": "21 Dec 2025 00:45:30"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +235,7 @@
     "warning_level": "Advice",
     "node_id": "6451",
     "banner_check": "",
-    "last_updated": "21 Dec 2025 00:33:01",
+    "last_updated": "21 Dec 2025 00:49:27",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -1325,9 +1307,9 @@
     "latitude": "-28.3910236359999",
     "longitude": "153.33216858",
     "region": "nsw",
-    "time_of_call": "21 Dec 2025 00:26:00",
+    "time_of_call": "21 Dec 2025 00:44:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "KYOGLE RD, DUM DUM 2484",
     "council_area": "Tweed",
@@ -1335,7 +1317,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Dec 2025 00:26"
+    "updated": "21 Dec 2025 00:44"
   },
   {
     "title": "EDMONDSON AV, AUSTRAL",
@@ -1345,9 +1327,9 @@
     "latitude": "-33.94618988",
     "longitude": "150.810791016",
     "region": "nsw",
-    "time_of_call": "21 Dec 2025 00:27:00",
+    "time_of_call": "21 Dec 2025 00:41:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "SCALABRINI VILLAGE, EDMONDSON AV, AUSTRAL 2179",
     "council_area": "Liverpool",
@@ -1357,6 +1339,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "21 Dec 2025 00:27"
+    "updated": "21 Dec 2025 00:41"
   }
 ]
