@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FRASER",
-    "updated": "21 Dec 2025 06:17:14"
+    "updated": "21 Dec 2025 06:33:10"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,13 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "21 Dec 2025 06:13:39",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "21 Dec 2025 06:17:58"
+    "updated": "21 Dec 2025 06:44:51"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +83,49 @@
     "longitude": "149.134893",
     "region": "act",
     "time_of_call": "21 Dec 2025 06:25:55",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GILMORE",
-    "updated": "21 Dec 2025 06:26:49"
+    "updated": "21 Dec 2025 06:45:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "085282-21122025",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "21 Dec 2025 06:29:00",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "21 Dec 2025 06:46:42"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HIGGINS",
+    "id": "085283-21122025",
+    "latitude": "-35.230526",
+    "longitude": "149.025052",
+    "region": "act",
+    "time_of_call": "21 Dec 2025 06:29:20",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HIGGINS",
+    "updated": "21 Dec 2025 06:45:24"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +143,7 @@
     "warning_level": "Advice",
     "node_id": "6451",
     "banner_check": "",
-    "last_updated": "21 Dec 2025 06:30:03",
+    "last_updated": "21 Dec 2025 06:49:39",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -1150,5 +1186,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Dec 2025 23:03"
+  },
+  {
+    "title": "AVIATOR RD, BADGERYS CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638008",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.8776855469999",
+    "longitude": "150.73664856",
+    "region": "nsw",
+    "time_of_call": "21 Dec 2025 06:43:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "AVIATOR RD, BADGERYS CREEK 2555",
+    "council_area": "Liverpool",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "21 Dec 2025 06:43"
   }
 ]
