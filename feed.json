@@ -151,24 +151,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HIGGINS",
-    "id": "085955-23122025",
-    "latitude": "-35.230526",
-    "longitude": "149.025052",
-    "region": "act",
-    "time_of_call": "23 Dec 2025 22:35:45",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HIGGINS",
-    "updated": "23 Dec 2025 22:54:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CHARNWOOD",
     "id": "085956-23122025",
     "latitude": "-35.200338",
@@ -199,25 +181,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "23 Dec 2025 23:05:24"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "085960-23122025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "23 Dec 2025 23:30:49",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "24 Dec 2025 00:13:39"
+    "updated": "24 Dec 2025 00:41:16"
   },
   {
     "agency": "Ambulance",
@@ -235,7 +199,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "24 Dec 2025 00:39:18"
+    "updated": "24 Dec 2025 00:49:55"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +217,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "24 Dec 2025 00:13:42"
+    "updated": "24 Dec 2025 00:55:15"
   },
   {
     "agency": "Ambulance",
@@ -265,13 +229,13 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "24 Dec 2025 00:27:06",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "24 Dec 2025 00:39:47"
+    "updated": "24 Dec 2025 00:54:21"
   },
   {
     "title": "Milsons Gully",
@@ -981,10 +945,13 @@
     "latitude": "-32.784622192",
     "longitude": "151.857009888",
     "region": "nsw",
-    "time_of_call": "23 Dec 2025 23:55:00",
+    "time_of_call": "24 Dec 2025 00:42:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "MEDOWIE RD, CAMPVALE 2318",
     "council_area": "Port Stephens",
     "type": "Grass Fire",
@@ -993,7 +960,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Dec 2025 23:55"
+    "updated": "24 Dec 2025 00:42"
   },
   {
     "title": "MULLOWAY RD, CHAIN VALLEY BAY",
@@ -1016,28 +983,6 @@
     "updated": "24 Dec 2025 00:20"
   },
   {
-    "title": "(PACIFIC HWY), KEW",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638351",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.634729385",
-    "longitude": "152.726486206",
-    "region": "nsw",
-    "time_of_call": "24 Dec 2025 00:30:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "A1 (PACIFIC HWY), KEW 2439",
-    "council_area": "Port Macquarie-Hastings",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "24 Dec 2025 00:30"
-  },
-  {
     "title": "(NEWELL HWY), MOREE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638352",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1045,9 +990,9 @@
     "latitude": "-29.3547992699999",
     "longitude": "149.936096191",
     "region": "nsw",
-    "time_of_call": "24 Dec 2025 00:30:00",
+    "time_of_call": "24 Dec 2025 00:54:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "A39 (NEWELL HWY), MOREE 2400",
     "council_area": "Moree Plains",
@@ -1057,7 +1002,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Dec 2025 00:30"
+    "updated": "24 Dec 2025 00:54"
   },
   {
     "title": "(PACIFIC HWY), COOPERABUNG",
@@ -1067,9 +1012,9 @@
     "latitude": "-31.276580811",
     "longitude": "152.812667847",
     "region": "nsw",
-    "time_of_call": "24 Dec 2025 00:31:00",
+    "time_of_call": "24 Dec 2025 00:54:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "A1 (PACIFIC HWY), COOPERABUNG 2441",
     "council_area": "Port Macquarie-Hastings",
@@ -1079,6 +1024,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "24 Dec 2025 00:31"
+    "updated": "24 Dec 2025 00:54"
   }
 ]
