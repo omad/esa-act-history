@@ -45,13 +45,13 @@
     "longitude": "149.081053",
     "region": "act",
     "time_of_call": "25 Dec 2025 02:26:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "25 Dec 2025 03:22:31"
+    "updated": "25 Dec 2025 03:46:54"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "25 Dec 2025 03:28:02"
+    "updated": "25 Dec 2025 03:40:51"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.076954",
     "region": "act",
     "time_of_call": "25 Dec 2025 02:51:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "25 Dec 2025 03:28:59"
+    "updated": "25 Dec 2025 03:39:13"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "25 Dec 2025 03:05:51"
+    "updated": "25 Dec 2025 03:49:53"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "086244-25122025",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "25 Dec 2025 03:47:27",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "25 Dec 2025 03:53:31"
   },
   {
     "title": "Milsons Gully",
@@ -678,31 +696,6 @@
     "updated": "25 Dec 2025 00:54"
   },
   {
-    "title": "Evans St, Cowra",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638496",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.813841",
-    "longitude": "148.697499",
-    "region": "nsw",
-    "time_of_call": "25 Dec 2025 02:49:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Evans St, Cowra, NSW 2794",
-    "council_area": "Cowra",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Dec 2025 02:49"
-  },
-  {
     "title": "CANONBA RD, NYNGAN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638499",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -725,28 +718,6 @@
     "updated": "25 Dec 2025 03:26"
   },
   {
-    "title": "EVANS ST, COWRA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638500",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.8135871879999",
-    "longitude": "148.69984436",
-    "region": "nsw",
-    "time_of_call": "25 Dec 2025 02:58:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "EVANS ST, COWRA 2794",
-    "council_area": "Cowra",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Dec 2025 02:58"
-  },
-  {
     "title": "LACHLAN VALLEY WAY, COWRA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638501",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -754,9 +725,9 @@
     "latitude": "-33.828746795",
     "longitude": "148.617721558",
     "region": "nsw",
-    "time_of_call": "25 Dec 2025 03:26:00",
+    "time_of_call": "25 Dec 2025 03:38:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "LACHLAN VALLEY WAY, COWRA 2794",
     "council_area": "Cowra",
@@ -764,6 +735,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Dec 2025 03:26"
+    "updated": "25 Dec 2025 03:38"
   }
 ]
