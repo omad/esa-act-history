@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "GARAGE, WATTLE STREET, LYNEHAM, 2602",
-    "updated": "25 Dec 2025 22:11:19"
+    "updated": "25 Dec 2025 22:34:27"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "25 Dec 2025 21:39:50"
+    "updated": "25 Dec 2025 22:25:37"
   },
   {
     "agency": "Ambulance",
@@ -131,24 +131,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAWSON",
-    "id": "086374-25122025",
-    "latitude": "-35.361049",
-    "longitude": "149.099386",
-    "region": "act",
-    "time_of_call": "25 Dec 2025 21:33:39",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MAWSON",
-    "updated": "25 Dec 2025 21:56:51"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - DUNLOP",
     "id": "086379-25122025",
     "latitude": "-35.193951",
@@ -179,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "25 Dec 2025 22:21:25"
+    "updated": "25 Dec 2025 22:36:40"
   },
   {
     "agency": "Ambulance",
@@ -215,7 +197,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "25 Dec 2025 22:17:44"
+    "updated": "25 Dec 2025 22:26:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WRIGHT",
+    "id": "086385-25122025",
+    "latitude": "-35.323404",
+    "longitude": "149.036274",
+    "region": "act",
+    "time_of_call": "25 Dec 2025 22:26:30",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WRIGHT",
+    "updated": "25 Dec 2025 22:33:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "086386-25122025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "25 Dec 2025 22:26:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "25 Dec 2025 22:33:44"
   },
   {
     "title": "Milsons Gully",
@@ -673,28 +691,6 @@
     "updated": "25 Dec 2025 00:54"
   },
   {
-    "title": "MILL LANE, HARWOOD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638533",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.422052384",
-    "longitude": "153.245223999",
-    "region": "nsw",
-    "time_of_call": "25 Dec 2025 15:42:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "SUGAR MILL RESIDENCE, MILL LANE, HARWOOD 2465",
-    "council_area": "Clarence Valley",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Dec 2025 15:42"
-  },
-  {
     "title": "LEGGETTS DR, RICHMOND VALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638534",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -762,5 +758,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Dec 2025 20:19"
+  },
+  {
+    "title": "Strathalbyn Dr, Oatlands",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638574",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.796906",
+    "longitude": "151.017864",
+    "region": "nsw",
+    "time_of_call": "25 Dec 2025 22:26:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Strathalbyn Dr, Oatlands, NSW 2117",
+    "council_area": "City of Parramatta",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "25 Dec 2025 22:26"
   }
 ]
