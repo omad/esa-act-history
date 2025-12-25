@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "26 Dec 2025 05:15:50"
+    "updated": "26 Dec 2025 05:40:56"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "26 Dec 2025 05:13:02"
+    "updated": "26 Dec 2025 05:48:43"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "26 Dec 2025 05:37:38"
+    "updated": "26 Dec 2025 05:48:34"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "26 Dec 2025 05:29:51"
+    "updated": "26 Dec 2025 05:42:54"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,49 @@
     "longitude": "149.064271",
     "region": "act",
     "time_of_call": "26 Dec 2025 05:26:58",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOK",
+    "updated": "26 Dec 2025 05:45:05"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SPENCE",
+    "id": "086439-26122025",
+    "latitude": "-35.196073",
+    "longitude": "149.064742",
+    "region": "act",
+    "time_of_call": "26 Dec 2025 05:46:50",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "COOK",
-    "updated": "26 Dec 2025 05:36:07"
+    "location": "SPENCE",
+    "updated": "26 Dec 2025 05:51:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KAMBAH",
+    "id": "086440-26122025",
+    "latitude": "-35.384074",
+    "longitude": "149.06111",
+    "region": "act",
+    "time_of_call": "26 Dec 2025 05:48:53",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KAMBAH",
+    "updated": "26 Dec 2025 05:55:24"
   },
   {
     "title": "Milsons Gully",
@@ -648,27 +684,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "25 Dec 2025 22:38"
-  },
-  {
-    "title": "SILVERTON RD, BROKEN HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638597",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.9139995579999",
-    "longitude": "141.356491089",
-    "region": "nsw",
-    "time_of_call": "26 Dec 2025 05:00:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "SILVERTON RD, BROKEN HILL 2880",
-    "council_area": "Unincorporated",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "26 Dec 2025 05:00"
   }
 ]
