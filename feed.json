@@ -9,15 +9,15 @@
     "longitude": "149.1255645752",
     "region": "act",
     "time_of_call": "25 Dec 2025 21:52:27",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "GARAGE, WATTLE STREET, LYNEHAM, 2602",
-    "updated": "25 Dec 2025 22:34:27"
+    "updated": "25 Dec 2025 22:37:31"
   },
   {
     "agency": "Ambulance",
@@ -83,13 +83,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "25 Dec 2025 20:26:51",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "25 Dec 2025 22:25:37"
+    "updated": "25 Dec 2025 22:37:21"
   },
   {
     "agency": "Ambulance",
@@ -107,25 +107,7 @@
     "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "25 Dec 2025 21:49:55"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "086372-25122025",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "25 Dec 2025 21:09:18",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "25 Dec 2025 21:57:23"
+    "updated": "25 Dec 2025 22:47:55"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "25 Dec 2025 22:16:06"
+    "updated": "25 Dec 2025 22:38:10"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +161,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "25 Dec 2025 22:20:53"
+    "updated": "25 Dec 2025 22:45:53"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +191,13 @@
     "longitude": "149.036274",
     "region": "act",
     "time_of_call": "25 Dec 2025 22:26:30",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "25 Dec 2025 22:33:56"
+    "updated": "25 Dec 2025 22:46:56"
   },
   {
     "agency": "Ambulance",
@@ -234,6 +216,60 @@
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
     "updated": "25 Dec 2025 22:33:44"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "086387-25122025",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "25 Dec 2025 22:37:48",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "25 Dec 2025 22:48:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "086388-25122025",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "25 Dec 2025 22:41:46",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "25 Dec 2025 22:45:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHARNWOOD",
+    "id": "086390-25122025",
+    "latitude": "-35.200338",
+    "longitude": "149.036735",
+    "region": "act",
+    "time_of_call": "25 Dec 2025 22:46:02",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHARNWOOD",
+    "updated": "25 Dec 2025 22:47:29"
   },
   {
     "title": "Milsons Gully",
@@ -745,9 +781,9 @@
     "latitude": "-33.54629898",
     "longitude": "151.309494019",
     "region": "nsw",
-    "time_of_call": "25 Dec 2025 20:19:00",
+    "time_of_call": "25 Dec 2025 22:38:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GREEN POINT RD, PEARL BEACH 2256",
     "council_area": "Central Coast",
@@ -757,7 +793,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Dec 2025 20:19"
+    "updated": "25 Dec 2025 22:38"
   },
   {
     "title": "Strathalbyn Dr, Oatlands",
@@ -767,9 +803,9 @@
     "latitude": "-33.796906",
     "longitude": "151.017864",
     "region": "nsw",
-    "time_of_call": "25 Dec 2025 22:26:00",
+    "time_of_call": "25 Dec 2025 22:37:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -782,6 +818,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "25 Dec 2025 22:26"
+    "updated": "25 Dec 2025 22:37"
   }
 ]
