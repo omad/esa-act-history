@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "27 Dec 2025 00:32:24"
+    "updated": "27 Dec 2025 00:48:05"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "27 Dec 2025 00:25:32"
+    "updated": "27 Dec 2025 00:48:30"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "OXLEY",
-    "updated": "27 Dec 2025 00:13:13"
+    "updated": "27 Dec 2025 00:44:43"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,13 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "27 Dec 2025 00:26:40",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "27 Dec 2025 00:32:57"
+    "updated": "27 Dec 2025 00:41:02"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,31 @@
     "longitude": "149.053511",
     "region": "act",
     "time_of_call": "27 Dec 2025 00:34:48",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "27 Dec 2025 00:37:20"
+    "updated": "27 Dec 2025 00:39:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HACKETT",
+    "id": "086652-27122025",
+    "latitude": "-35.249801",
+    "longitude": "149.165368",
+    "region": "act",
+    "time_of_call": "27 Dec 2025 00:39:41",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HACKETT",
+    "updated": "27 Dec 2025 00:50:18"
   },
   {
     "title": "Milsons Gully",
@@ -787,7 +805,7 @@
     "latitude": "-33.6460075379999",
     "longitude": "150.771133423",
     "region": "nsw",
-    "time_of_call": "26 Dec 2025 23:49:00",
+    "time_of_call": "27 Dec 2025 00:40:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -799,7 +817,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "26 Dec 2025 23:49"
+    "updated": "27 Dec 2025 00:40"
   },
   {
     "title": "ELSMORE",
@@ -829,9 +847,9 @@
     "latitude": "-32.780467987",
     "longitude": "152.092468262",
     "region": "nsw",
-    "time_of_call": "27 Dec 2025 00:20:00",
+    "time_of_call": "27 Dec 2025 00:41:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BELLMOUNT CL, ANNA BAY 2316",
     "council_area": "Port Stephens",
@@ -839,7 +857,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Dec 2025 00:20"
+    "updated": "27 Dec 2025 00:41"
   },
   {
     "title": "Prospect Hwy, Pemulwuy",
@@ -849,9 +867,9 @@
     "latitude": "-33.815915",
     "longitude": "150.920745",
     "region": "nsw",
-    "time_of_call": "27 Dec 2025 00:32:00",
+    "time_of_call": "27 Dec 2025 00:41:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -864,6 +882,28 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "27 Dec 2025 00:32"
+    "updated": "27 Dec 2025 00:41"
+  },
+  {
+    "title": "CLIFTON ST, SANCTUARY POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638676",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.111499786",
+    "longitude": "150.627075195",
+    "region": "nsw",
+    "time_of_call": "27 Dec 2025 00:41:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "CLIFTON ST, SANCTUARY POINT 2540",
+    "council_area": "Shoalhaven",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Dec 2025 00:41"
   }
 ]
