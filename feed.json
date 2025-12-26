@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FLOREY",
-    "id": "086629-26122025",
-    "latitude": "-35.224909",
-    "longitude": "149.053511",
-    "region": "act",
-    "time_of_call": "26 Dec 2025 21:57:09",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FLOREY",
-    "updated": "27 Dec 2025 02:10:38"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - KALEEN",
     "id": "086654-27122025",
     "latitude": "-35.227626",
@@ -51,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "27 Dec 2025 02:23:47"
+    "updated": "27 Dec 2025 02:37:57"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +45,13 @@
     "longitude": "149.053511",
     "region": "act",
     "time_of_call": "27 Dec 2025 01:49:01",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "27 Dec 2025 02:00:34"
+    "updated": "27 Dec 2025 02:43:33"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "27 Dec 2025 02:22:57"
+    "updated": "27 Dec 2025 02:45:55"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +81,31 @@
     "longitude": "149.165368",
     "region": "act",
     "time_of_call": "27 Dec 2025 02:24:51",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HACKETT",
+    "updated": "27 Dec 2025 02:49:36"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "086660-27122025",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "27 Dec 2025 02:40:03",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "HACKETT",
-    "updated": "27 Dec 2025 02:28:35"
+    "location": "BELCONNEN",
+    "updated": "27 Dec 2025 02:43:56"
   },
   {
     "title": "Milsons Gully",
@@ -810,5 +810,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Dec 2025 01:51"
+  },
+  {
+    "title": "BOMBOWLEE AV, BOMBOWLEE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638679",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.2969741819999",
+    "longitude": "148.230499268",
+    "region": "nsw",
+    "time_of_call": "27 Dec 2025 02:39:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "BOMBOWLEE AV, BOMBOWLEE 2720",
+    "council_area": "Snowy Valleys",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Dec 2025 02:39"
+  },
+  {
+    "title": "DEFENCE DR, MULWALA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638680",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.9751968379999",
+    "longitude": "146.004760742",
+    "region": "nsw",
+    "time_of_call": "27 Dec 2025 02:31:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "DEFENCE DR, MULWALA 2647",
+    "council_area": "Federation",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "27 Dec 2025 02:31"
   }
 ]
