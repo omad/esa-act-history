@@ -81,13 +81,13 @@
     "longitude": "148.98074",
     "region": "act",
     "time_of_call": "28 Dec 2025 22:38:26",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "29 Dec 2025 00:20:06"
+    "updated": "29 Dec 2025 00:38:04"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "29 Dec 2025 00:31:49"
+    "updated": "29 Dec 2025 00:44:31"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "29 Dec 2025 00:32:47"
+    "updated": "29 Dec 2025 00:37:06"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "29 Dec 2025 00:34:52"
+    "updated": "29 Dec 2025 00:38:33"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DUFFY",
+    "id": "087046-29122025",
+    "latitude": "-35.336273",
+    "longitude": "149.031217",
+    "region": "act",
+    "time_of_call": "29 Dec 2025 00:48:54",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUFFY",
+    "updated": "29 Dec 2025 00:49:49"
   },
   {
     "title": "Milsons Gully",
@@ -338,7 +356,7 @@
     "latitude": "-30.0243110659999",
     "longitude": "147.962310791",
     "region": "nsw",
-    "time_of_call": "27 Dec 2025 21:31:00",
+    "time_of_call": "29 Dec 2025 00:41:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -353,7 +371,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Dec 2025 21:31"
+    "updated": "29 Dec 2025 00:41"
   },
   {
     "title": "NAMOI RIVER RD, NAMOI RIVER",
@@ -1034,28 +1052,6 @@
     "updated": "28 Dec 2025 23:29"
   },
   {
-    "title": "MONARO HWY, NIMMITABEL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638938",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.561489105",
-    "longitude": "149.302093506",
-    "region": "nsw",
-    "time_of_call": "28 Dec 2025 23:43:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MONARO HWY, NIMMITABEL 2631",
-    "council_area": "Snowy Monaro",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "28 Dec 2025 23:43"
-  },
-  {
     "title": "CULVERSTON AV, DENHAM COURT",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638942",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1098,5 +1094,67 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "29 Dec 2025 00:30"
+  },
+  {
+    "title": "THE DRIFTWAY, LONDONDERRY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638944",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6338386529999",
+    "longitude": "150.767501831",
+    "region": "nsw",
+    "time_of_call": "29 Dec 2025 00:39:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "THE DRIFTWAY, LONDONDERRY 2753",
+    "council_area": "Penrith",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Dec 2025 00:39"
+  },
+  {
+    "title": "KINGSTONS LANE, CANDELO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638945",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.764873505",
+    "longitude": "149.692810059",
+    "region": "nsw",
+    "time_of_call": "29 Dec 2025 00:40:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "KINGSTONS LANE, CANDELO 2550",
+    "council_area": "Bega Valley",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Dec 2025 00:40"
+  },
+  {
+    "title": "WALGETT ST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638946",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.5449466709999",
+    "longitude": "148.58140564",
+    "region": "nsw",
+    "time_of_call": "29 Dec 2025 00:44:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "COLLARENEBRI HEALTH SERVICE WALGETT ST, COLLARENEBRI 2833",
+    "council_area": "Walgett",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Dec 2025 00:44"
   }
 ]
