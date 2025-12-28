@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "29 Dec 2025 07:08:08"
+    "updated": "29 Dec 2025 07:37:50"
   },
   {
     "agency": "Ambulance",
@@ -52,6 +52,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
     "updated": "29 Dec 2025 07:28:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "087074-29122025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "29 Dec 2025 07:37:15",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "29 Dec 2025 07:49:33"
   },
   {
     "title": "Milsons Gully",
@@ -841,8 +859,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638926",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.1554449349999",
-    "longitude": "152.912159991",
+    "latitude": "-29.155445098",
+    "longitude": "152.912155152",
     "region": "nsw",
     "time_of_call": "29 Dec 2025 07:05:00",
     "event_type": "burnt area",
@@ -963,9 +981,9 @@
     "latitude": "-35.010608673",
     "longitude": "150.826751709",
     "region": "nsw",
-    "time_of_call": "29 Dec 2025 07:18:00",
+    "time_of_call": "29 Dec 2025 07:46:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "ABRAHAMS BOSOM BEACH CURRARONG 2540",
     "council_area": "Shoalhaven",
@@ -975,7 +993,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2025 07:18"
+    "updated": "29 Dec 2025 07:46"
   },
   {
     "title": "WALLGROVE RD",
@@ -985,9 +1003,9 @@
     "latitude": "-33.821884155",
     "longitude": "150.858963013",
     "region": "nsw",
-    "time_of_call": "29 Dec 2025 07:22:00",
+    "time_of_call": "29 Dec 2025 07:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "BRICKWORKS PLANT, WALLGROVE RD, HORSLEY PARK 2175",
     "council_area": "Fairfield",
@@ -997,6 +1015,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2025 07:22"
+    "updated": "29 Dec 2025 07:38"
+  },
+  {
+    "title": "NEW ENGLAND HWY, BELFORD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_638965",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.6562881469999",
+    "longitude": "151.28894043",
+    "region": "nsw",
+    "time_of_call": "29 Dec 2025 07:35:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "NEW ENGLAND HWY, BELFORD 2335",
+    "council_area": "Singleton",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Dec 2025 07:35"
   }
 ]
