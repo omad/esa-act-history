@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "30 Dec 2025 03:41:43"
+    "updated": "30 Dec 2025 04:00:22"
   },
   {
     "agency": "Ambulance",
@@ -27,13 +27,49 @@
     "longitude": "149.135062",
     "region": "act",
     "time_of_call": "30 Dec 2025 03:42:51",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "30 Dec 2025 04:02:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "087279-30122025",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "30 Dec 2025 04:11:22",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "GUNGAHLIN",
-    "updated": "30 Dec 2025 03:48:32"
+    "location": "WANNIASSA",
+    "updated": "30 Dec 2025 04:16:18"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ISABELLA PLAINS",
+    "id": "087280-30122025",
+    "latitude": "-35.425091",
+    "longitude": "149.088064",
+    "region": "act",
+    "time_of_call": "30 Dec 2025 04:21:54",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ISABELLA PLAINS",
+    "updated": "30 Dec 2025 04:25:54"
   },
   {
     "title": "Milsons Gully",
@@ -462,7 +498,7 @@
     "latitude": "-36.1845207219999",
     "longitude": "149.286407471",
     "region": "nsw",
-    "time_of_call": "29 Dec 2025 06:34:00",
+    "time_of_call": "30 Dec 2025 04:19:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -474,7 +510,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2025 06:34"
+    "updated": "30 Dec 2025 04:19"
   },
   {
     "title": "DARBYS FALLS RD, COWRA",
@@ -797,7 +833,7 @@
     "latitude": "-32.127334595",
     "longitude": "152.409057617",
     "region": "nsw",
-    "time_of_call": "29 Dec 2025 22:33:00",
+    "time_of_call": "30 Dec 2025 03:53:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -812,7 +848,7 @@
     "fire": "Yes",
     "size": "72 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2025 22:33"
+    "updated": "30 Dec 2025 03:53"
   },
   {
     "title": "KAPUTAR RD, BULLAWA CREEK",
@@ -919,7 +955,7 @@
     "latitude": "-29.4956550589999",
     "longitude": "153.115951538",
     "region": "nsw",
-    "time_of_call": "29 Dec 2025 22:25:00",
+    "time_of_call": "30 Dec 2025 04:06:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -931,7 +967,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Dec 2025 22:25"
+    "updated": "30 Dec 2025 04:06"
   },
   {
     "title": "BACK NUBBA RD, WALLENDBEEN",
@@ -1001,28 +1037,6 @@
     "updated": "30 Dec 2025 01:19"
   },
   {
-    "title": "NUMERALLA RD, NUMERALLA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639101",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.186218262",
-    "longitude": "149.289047242",
-    "region": "nsw",
-    "time_of_call": "30 Dec 2025 03:18:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "alert_level": "Not Applicable",
-    "location": "LAMBTON, NUMERALLA RD, NUMERALLA 2630",
-    "council_area": "Snowy Monaro",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "30 Dec 2025 03:18"
-  },
-  {
     "title": "FORD ST, SALAMANDER BAY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639102",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1030,9 +1044,9 @@
     "latitude": "-32.714241027",
     "longitude": "152.069137574",
     "region": "nsw",
-    "time_of_call": "30 Dec 2025 03:45:00",
+    "time_of_call": "30 Dec 2025 04:05:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "FORD ST, SALAMANDER BAY 2317",
     "council_area": "Port Stephens",
@@ -1040,6 +1054,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "30 Dec 2025 03:45"
+    "updated": "30 Dec 2025 04:05"
   }
 ]
