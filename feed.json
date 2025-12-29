@@ -1,21 +1,23 @@
 [
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "087283-30122025",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
+    "title": "HOUSE FIRE - TAYLOR",
+    "id": "020208-30122025",
+    "latitude": "-35.1487425199",
+    "longitude": "149.1083020799",
     "region": "act",
-    "time_of_call": "30 Dec 2025 04:38:56",
-    "status": "On Scene",
+    "time_of_call": "30 Dec 2025 06:28:58",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "30 Dec 2025 05:28:03"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
+    "location": "ROEBOURNE, BISCHOFF STREET, TAYLOR, 2913",
+    "updated": "30 Dec 2025 06:32:07"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "30 Dec 2025 06:10:35"
+    "updated": "30 Dec 2025 06:23:40"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "30 Dec 2025 06:17:59"
+    "updated": "30 Dec 2025 06:28:33"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +101,51 @@
     "longitude": "149.046603",
     "region": "act",
     "time_of_call": "30 Dec 2025 06:19:34",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "30 Dec 2025 06:21:36"
+    "updated": "30 Dec 2025 06:32:19"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - TAYLOR",
+    "id": "087291-30122025",
+    "latitude": "-35.1487425199",
+    "longitude": "149.1083020799",
+    "region": "act",
+    "time_of_call": "30 Dec 2025 06:28:59",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "",
+    "location": "ROEBOURNE, BISCHOFF STREET, TAYLOR, 2913",
+    "updated": "30 Dec 2025 06:29:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "087294-30122025",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "30 Dec 2025 06:33:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "30 Dec 2025 06:33:32"
   },
   {
     "title": "Milsons Gully",
@@ -1073,5 +1113,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Dec 2025 06:08"
+  },
+  {
+    "title": "AVRO AV, SANCTUARY POINT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639106",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.1030502319999",
+    "longitude": "150.633255005",
+    "region": "nsw",
+    "time_of_call": "30 Dec 2025 06:19:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "AVRO AV, SANCTUARY POINT 2540",
+    "council_area": "Shoalhaven",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Dec 2025 06:19"
   }
 ]
