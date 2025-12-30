@@ -81,13 +81,13 @@
     "longitude": "149.025052",
     "region": "act",
     "time_of_call": "31 Dec 2025 07:03:19",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "HIGGINS",
-    "updated": "31 Dec 2025 07:14:29"
+    "updated": "31 Dec 2025 07:51:39"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "31 Dec 2025 07:24:40"
+    "updated": "31 Dec 2025 07:41:56"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,49 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "31 Dec 2025 07:22:09",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "31 Dec 2025 07:27:26"
+    "updated": "31 Dec 2025 07:38:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "087517-31122025",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "31 Dec 2025 07:38:05",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "31 Dec 2025 07:48:26"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ARANDA",
+    "id": "087518-31122025",
+    "latitude": "-35.258882",
+    "longitude": "149.079717",
+    "region": "act",
+    "time_of_call": "31 Dec 2025 07:42:51",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ARANDA",
+    "updated": "31 Dec 2025 07:50:55"
   },
   {
     "title": "Milsons Gully",
@@ -1163,27 +1199,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "31 Dec 2025 05:52"
-  },
-  {
-    "title": "LACHLAN VALLEY WAY, PAYTENS BRIDGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639264",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.475833893",
-    "longitude": "148.252334595",
-    "region": "nsw",
-    "time_of_call": "31 Dec 2025 06:57:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "LACHLAN VALLEY WAY, PAYTENS BRIDGE 2871",
-    "council_area": "Forbes",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "31 Dec 2025 06:57"
   }
 ]
