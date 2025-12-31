@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NICHOLLS",
-    "id": "000071-01012026",
-    "latitude": "-35.186387",
-    "longitude": "149.094445",
-    "region": "act",
-    "time_of_call": "01 Jan 2026 05:51:56",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NICHOLLS",
-    "updated": "01 Jan 2026 06:44:56"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BANKS",
     "id": "000073-01012026",
     "latitude": "-35.471552",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DICKSON",
-    "updated": "01 Jan 2026 07:17:27"
+    "updated": "01 Jan 2026 07:35:38"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +117,13 @@
     "longitude": "149.013611",
     "region": "act",
     "time_of_call": "01 Jan 2026 07:19:01",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "01 Jan 2026 07:24:29"
+    "updated": "01 Jan 2026 07:46:04"
   },
   {
     "title": "PACIFIC HWY, BULAHDELAH",
@@ -176,7 +158,7 @@
     "latitude": "-32.498027801",
     "longitude": "151.496231079",
     "region": "nsw",
-    "time_of_call": "30 Dec 2025 12:13:00",
+    "time_of_call": "01 Jan 2026 07:38:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -191,7 +173,7 @@
     "fire": "Yes",
     "size": "110 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Dec 2025 12:13"
+    "updated": "1 Jan 2026 07:38"
   },
   {
     "title": "Green Gully Track",
@@ -492,7 +474,7 @@
     "latitude": "-30.2652759549999",
     "longitude": "152.611923217",
     "region": "nsw",
-    "time_of_call": "30 Dec 2025 15:47:00",
+    "time_of_call": "01 Jan 2026 07:40:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -507,7 +489,7 @@
     "fire": "Yes",
     "size": "9 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Dec 2025 15:47"
+    "updated": "1 Jan 2026 07:40"
   },
   {
     "title": "ELIZABETH BAY DR, LAKE MUNMORAH",
@@ -1297,55 +1279,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Jan 2026 05:22"
-  },
-  {
-    "title": "Eureka Cr, Sadleir",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639490",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.920926",
-    "longitude": "150.89527",
-    "region": "nsw",
-    "time_of_call": "01 Jan 2026 07:19:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Eureka Cr, Sadleir, NSW 2168",
-    "council_area": "Liverpool",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Jan 2026 07:19"
-  },
-  {
-    "title": "Island Dr, Tweed Heads",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639491",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.1847299999999",
-    "longitude": "153.542447",
-    "region": "nsw",
-    "time_of_call": "01 Jan 2026 07:26:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Island Dr, Tweed Heads, NSW 2485",
-    "council_area": "Tweed",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Jan 2026 07:26"
   }
 ]
