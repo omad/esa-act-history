@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WATSON",
-    "id": "000401-02012026",
-    "latitude": "-35.234652",
-    "longitude": "149.15807",
-    "region": "act",
-    "time_of_call": "02 Jan 2026 21:33:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WATSON",
-    "updated": "02 Jan 2026 22:16:32"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - TAYLOR",
     "id": "000402-02012026",
     "latitude": "-35.147416",
@@ -33,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "02 Jan 2026 22:19:49"
+    "updated": "02 Jan 2026 22:44:54"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "02 Jan 2026 22:26:38"
+    "updated": "02 Jan 2026 22:42:11"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "02 Jan 2026 22:00:43"
+    "updated": "02 Jan 2026 22:46:31"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HAWKER",
-    "updated": "02 Jan 2026 22:30:32"
+    "updated": "02 Jan 2026 22:39:58"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +99,31 @@
     "longitude": "149.105209",
     "region": "act",
     "time_of_call": "02 Jan 2026 22:30:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "02 Jan 2026 22:33:30"
+    "updated": "02 Jan 2026 22:39:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CHAPMAN",
+    "id": "000410-02012026",
+    "latitude": "-35.356631",
+    "longitude": "149.036831",
+    "region": "act",
+    "time_of_call": "02 Jan 2026 22:47:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CHAPMAN",
+    "updated": "02 Jan 2026 22:48:17"
   },
   {
     "title": "PACIFIC HWY, BULAHDELAH",
@@ -948,7 +948,7 @@
     "latitude": "-29.5207157139999",
     "longitude": "153.197906494",
     "region": "nsw",
-    "time_of_call": "02 Jan 2026 20:53:00",
+    "time_of_call": "02 Jan 2026 22:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -960,7 +960,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Jan 2026 20:53"
+    "updated": "2 Jan 2026 22:35"
   },
   {
     "title": "(FREEMANS DR), FREEMANS WATERHOLE",
@@ -1008,28 +1008,6 @@
     "updated": "2 Jan 2026 22:08"
   },
   {
-    "title": "CHELMSFORD AV, ERARING",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639703",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.068569184",
-    "longitude": "151.531005859",
-    "region": "nsw",
-    "time_of_call": "02 Jan 2026 22:13:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "CHELMSFORD AV, ERARING 2264",
-    "council_area": "Lake Macquarie",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "2 Jan 2026 22:13"
-  },
-  {
     "title": "MARIA RIVER RD, LIMEBURNERS CREEK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639704",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1037,9 +1015,9 @@
     "latitude": "-31.384670257",
     "longitude": "152.866836547",
     "region": "nsw",
-    "time_of_call": "02 Jan 2026 22:24:00",
+    "time_of_call": "02 Jan 2026 22:41:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "MARIA RIVER RD, LIMEBURNERS CREEK 2444",
     "council_area": "Port Macquarie-Hastings",
@@ -1047,6 +1025,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "2 Jan 2026 22:24"
+    "updated": "2 Jan 2026 22:41"
   }
 ]
