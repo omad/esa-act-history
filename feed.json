@@ -9,7 +9,7 @@
     "longitude": "148.8312530518",
     "region": "act",
     "time_of_call": "03 Jan 2026 15:09:55",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "COTTER HUT ROAD, YAOUK TRAIL, COTTER RIVER, 0000",
-    "updated": "04 Jan 2026 06:09:56"
+    "updated": "04 Jan 2026 07:48:30"
   },
   {
     "agency": "Fire",
@@ -119,24 +119,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYNEHAM",
-    "id": "000685-04012026",
-    "latitude": "-35.238929",
-    "longitude": "149.124748",
-    "region": "act",
-    "time_of_call": "04 Jan 2026 05:45:26",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LYNEHAM",
-    "updated": "04 Jan 2026 07:05:24"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CURTIN",
     "id": "000690-04012026",
     "latitude": "-35.326585",
@@ -161,13 +143,13 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "04 Jan 2026 06:46:21",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "04 Jan 2026 07:26:10"
+    "updated": "04 Jan 2026 07:42:03"
   },
   {
     "agency": "Ambulance",
@@ -185,7 +167,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "04 Jan 2026 07:18:26"
+    "updated": "04 Jan 2026 07:40:49"
   },
   {
     "agency": "Ambulance",
@@ -206,6 +188,24 @@
     "updated": "04 Jan 2026 07:27:13"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "000700-04012026",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "04 Jan 2026 07:43:12",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GORDON",
+    "updated": "04 Jan 2026 07:46:13"
+  },
+  {
     "agency": "Fire",
     "description": "Three fires are continuing to burn in very remote parts of the Namadgi National Park, southwest of Canberra.\r\n\r\nWeather conditions are favourable, and the size of the fires remains stable.\r\n\r\nIt's expected that additional remote area firefighting teams and aircraft will respond to the incidents on Sunday (04/01) morning.\r\n\r\nFirefighters from the ACT Rural Fire Service will continue to monitor the situation throughout the evening.\r\n\r\nThere is no immediate threat to life or property.",
     "event_type": "warning group warning",
@@ -221,7 +221,7 @@
     "warning_level": "Advice",
     "node_id": "6459",
     "banner_check": "",
-    "last_updated": "04 Jan 2026 07:30:56",
+    "last_updated": "04 Jan 2026 07:51:56",
     "latitude": "-35.466119285788594",
     "longitude": "148.82954441235017",
     "polygon": {
@@ -1133,7 +1133,7 @@
     "latitude": "-32.776683807",
     "longitude": "151.315063476",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 07:20:00",
+    "time_of_call": "04 Jan 2026 07:27:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "alert_level": "Not Applicable",
@@ -1145,6 +1145,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 07:20"
+    "updated": "4 Jan 2026 07:27"
   }
 ]
