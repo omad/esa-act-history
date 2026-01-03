@@ -9,7 +9,7 @@
     "longitude": "148.8312530518",
     "region": "act",
     "time_of_call": "03 Jan 2026 15:09:55",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
     "location": "COTTER HUT ROAD, YAOUK TRAIL, COTTER RIVER, 0000",
-    "updated": "03 Jan 2026 21:21:48"
+    "updated": "04 Jan 2026 06:09:56"
   },
   {
     "agency": "Fire",
@@ -95,7 +95,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "04 Jan 2026 01:51:39"
+    "updated": "04 Jan 2026 06:06:31"
   },
   {
     "agency": "Ambulance",
@@ -131,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "04 Jan 2026 05:27:10"
+    "updated": "04 Jan 2026 06:15:35"
   },
   {
     "agency": "Ambulance",
@@ -167,7 +167,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NICHOLLS",
-    "updated": "04 Jan 2026 05:29:16"
+    "updated": "04 Jan 2026 06:18:50"
   },
   {
     "agency": "Ambulance",
@@ -179,13 +179,13 @@
     "longitude": "149.072217",
     "region": "act",
     "time_of_call": "04 Jan 2026 05:30:47",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYONS",
-    "updated": "04 Jan 2026 05:43:38"
+    "updated": "04 Jan 2026 06:19:01"
   },
   {
     "agency": "Ambulance",
@@ -215,13 +215,31 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "04 Jan 2026 05:45:26",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "04 Jan 2026 05:49:27"
+    "updated": "04 Jan 2026 06:01:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "000686-04012026",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "04 Jan 2026 06:01:18",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GUNGAHLIN",
+    "updated": "04 Jan 2026 06:10:22"
   },
   {
     "agency": "Fire",
@@ -239,7 +257,7 @@
     "warning_level": "Advice",
     "node_id": "6459",
     "banner_check": "",
-    "last_updated": "04 Jan 2026 05:55:25",
+    "last_updated": "04 Jan 2026 06:22:25",
     "latitude": "-35.466119285788594",
     "longitude": "148.82954441235017",
     "polygon": {
@@ -890,31 +908,6 @@
     "updated": "3 Jan 2026 18:51"
   },
   {
-    "title": "Mccoy St, Seven Hills",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639777",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.7805557249999",
-    "longitude": "150.947357178",
-    "region": "nsw",
-    "time_of_call": "03 Jan 2026 16:53:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Mccoy St, Seven Hills, NSW 2147",
-    "council_area": "Blacktown",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "3 Jan 2026 16:53"
-  },
-  {
     "title": "BRICKWORKS RD, THORNTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639781",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1110,9 +1103,9 @@
     "latitude": "-32.161010742",
     "longitude": "152.505325318",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 05:48:00",
+    "time_of_call": "04 Jan 2026 06:02:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "BEACH ST, TUNCURRY 2428",
     "council_area": "Mid-Coast",
@@ -1122,6 +1115,53 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 05:48"
+    "updated": "4 Jan 2026 06:02"
+  },
+  {
+    "title": "DUNOON RD, MOORE CREEK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639838",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.019796371",
+    "longitude": "150.912353516",
+    "region": "nsw",
+    "time_of_call": "04 Jan 2026 05:56:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "DUNOON RD, MOORE CREEK 2340",
+    "council_area": "Tamworth",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Jan 2026 05:56"
+  },
+  {
+    "title": "Aubrey Cr, Coffs Harbour",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639840",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.306095999",
+    "longitude": "153.103187",
+    "region": "nsw",
+    "time_of_call": "04 Jan 2026 06:13:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Aubrey Cr, Coffs Harbour, NSW 2450",
+    "council_area": "Coffs Harbour",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "4 Jan 2026 06:13"
   }
 ]
