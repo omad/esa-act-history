@@ -3,46 +3,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "ELECTRICAL THREAT OR POWER LINES DOWN - CHIFLEY",
-    "id": "000161-04012026",
-    "latitude": "-35.3493567299",
-    "longitude": "149.0726781799",
-    "region": "act",
-    "time_of_call": "04 Jan 2026 16:07:32",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "ELECTRICAL THREAT OR POWER LINES DOWN",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/electrical-threat_0.svg",
-    "location": "LAMB PLACE, CHIFLEY, 2606",
-    "updated": "04 Jan 2026 16:45:24"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "STORM OR TREE DAMAGE - KALEEN",
-    "id": "000162-04012026",
-    "latitude": "-35.2355729399",
-    "longitude": "149.1006980999",
-    "region": "act",
-    "time_of_call": "04 Jan 2026 16:27:24",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "STORM OR TREE DAMAGE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
-    "location": "LYNDON STREET, KALEEN, 2617",
-    "updated": "04 Jan 2026 16:53:06"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "STORM OR TREE DAMAGE - WANNIASSA",
     "id": "000163-04012026",
     "latitude": "-35.4048161699",
@@ -58,6 +18,26 @@
     "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
     "location": "KIMBERLEY GARDENS, MCBRYDE CRESCENT, WANNIASSA, 2903",
     "updated": "04 Jan 2026 17:23:20"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STRUCTURE FIRE - COOMBS",
+    "id": "000166-04012026",
+    "latitude": "-35.3160552499",
+    "longitude": "149.0361078599",
+    "region": "act",
+    "time_of_call": "04 Jan 2026 17:31:20",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "STRUCTURE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
+    "location": "ARTHUR BLAKELEY WAY, COOMBS, 2611",
+    "updated": "04 Jan 2026 17:58:08"
   },
   {
     "agency": "Fire",
@@ -80,6 +60,26 @@
     "updated": "04 Jan 2026 17:37:43"
   },
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "MOTOR VEHICLE ACCIDENT - BELCONNEN",
+    "id": "000169-04012026",
+    "latitude": "-35.24823299",
+    "longitude": "149.07379399",
+    "region": "act",
+    "time_of_call": "04 Jan 2026 17:58:13",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "MOTOR VEHICLE ACCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
+    "location": "HENNESSY STREET, GATEHOUSE PLACE, BELCONNEN, 2617",
+    "updated": "04 Jan 2026 17:58:45"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -95,7 +95,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "04 Jan 2026 17:14:37"
+    "updated": "04 Jan 2026 17:42:05"
   },
   {
     "agency": "Ambulance",
@@ -131,7 +131,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "04 Jan 2026 17:35:25"
+    "updated": "04 Jan 2026 17:58:25"
   },
   {
     "agency": "Ambulance",
@@ -143,13 +143,13 @@
     "longitude": "149.146674",
     "region": "act",
     "time_of_call": "04 Jan 2026 16:35:55",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "04 Jan 2026 17:36:50"
+    "updated": "04 Jan 2026 17:50:56"
   },
   {
     "agency": "Ambulance",
@@ -185,7 +185,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "04 Jan 2026 17:00:47"
+    "updated": "04 Jan 2026 17:52:32"
   },
   {
     "agency": "Ambulance",
@@ -203,7 +203,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "04 Jan 2026 17:32:52"
+    "updated": "04 Jan 2026 17:43:45"
   },
   {
     "agency": "Ambulance",
@@ -215,13 +215,13 @@
     "longitude": "149.076856",
     "region": "act",
     "time_of_call": "04 Jan 2026 17:19:42",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "04 Jan 2026 17:28:29"
+    "updated": "04 Jan 2026 17:43:37"
   },
   {
     "agency": "Ambulance",
@@ -245,19 +245,57 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BRUCE",
-    "id": "000824-04012026",
-    "latitude": "-35.242777",
-    "longitude": "149.096998",
+    "title": "AMBULANCE RESPONSE - FADDEN",
+    "id": "000827-04012026",
+    "latitude": "-35.402396",
+    "longitude": "149.118589",
     "region": "act",
-    "time_of_call": "04 Jan 2026 17:33:23",
+    "time_of_call": "04 Jan 2026 17:50:37",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FADDEN",
+    "updated": "04 Jan 2026 17:57:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ARANDA",
+    "id": "000828-04012026",
+    "latitude": "-35.258882",
+    "longitude": "149.079717",
+    "region": "act",
+    "time_of_call": "04 Jan 2026 17:56:05",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "BRUCE",
-    "updated": "04 Jan 2026 17:41:51"
+    "location": "ARANDA",
+    "updated": "04 Jan 2026 17:58:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STRUCTURE FIRE - COOMBS",
+    "id": "000829-04012026",
+    "latitude": "-35.3160552499",
+    "longitude": "149.0361078599",
+    "region": "act",
+    "time_of_call": "04 Jan 2026 17:58:08",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "STRUCTURE FIRE",
+    "type_description": "",
+    "type_icon": "",
+    "location": "ARTHUR BLAKELEY WAY, COOMBS, 2611",
+    "updated": "04 Jan 2026 17:58:34"
   },
   {
     "agency": "Fire",
@@ -275,7 +313,7 @@
     "warning_level": "Advice",
     "node_id": "6463",
     "banner_check": "",
-    "last_updated": "04 Jan 2026 17:43:46",
+    "last_updated": "04 Jan 2026 17:59:57",
     "latitude": "-35.66273880616932",
     "longitude": "148.87204672591656",
     "polygon": {
@@ -306,7 +344,7 @@
     "warning_level": "Advice",
     "node_id": "6464",
     "banner_check": "",
-    "last_updated": "04 Jan 2026 17:43:46",
+    "last_updated": "04 Jan 2026 17:59:57",
     "latitude": "-35.646416165537545",
     "longitude": "148.92012482496344",
     "polygon": {
@@ -337,7 +375,7 @@
     "warning_level": "Advice",
     "node_id": "6465",
     "banner_check": "",
-    "last_updated": "04 Jan 2026 17:43:46",
+    "last_updated": "04 Jan 2026 17:59:57",
     "latitude": "-35.46086839964052",
     "longitude": "148.82830058242033",
     "polygon": {
@@ -360,7 +398,7 @@
     "latitude": "-32.527244568",
     "longitude": "152.19190979",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 02:02:00",
+    "time_of_call": "04 Jan 2026 17:52:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -375,7 +413,7 @@
     "fire": "Yes",
     "size": "5969 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "4 Jan 2026 02:02"
+    "updated": "4 Jan 2026 17:52"
   },
   {
     "title": "ALBERTS TOP RD, GLEN WARD",
@@ -460,7 +498,7 @@
     "latitude": "-29.010429382",
     "longitude": "151.793807983",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 09:49:00",
+    "time_of_call": "04 Jan 2026 17:54:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -475,7 +513,7 @@
     "fire": "Yes",
     "size": "495 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 09:49"
+    "updated": "4 Jan 2026 17:54"
   },
   {
     "title": "FROGMORE RD, FROGMORE",
@@ -507,7 +545,7 @@
     "latitude": "-29.8643608089999",
     "longitude": "152.456619262",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 08:59:00",
+    "time_of_call": "04 Jan 2026 17:55:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -522,7 +560,7 @@
     "fire": "Yes",
     "size": "187 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 08:59"
+    "updated": "4 Jan 2026 17:55"
   },
   {
     "title": "CASHMERE RD, PARKES",
@@ -532,7 +570,7 @@
     "latitude": "-33.103111267",
     "longitude": "148.316741943",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 02:05:00",
+    "time_of_call": "04 Jan 2026 17:55:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -547,7 +585,7 @@
     "fire": "Yes",
     "size": "647 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 02:05"
+    "updated": "4 Jan 2026 17:55"
   },
   {
     "title": "WILLOW POINT RD",
@@ -557,7 +595,7 @@
     "latitude": "-32.1074485779999",
     "longitude": "152.418014527",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 14:25:00",
+    "time_of_call": "04 Jan 2026 17:56:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -572,7 +610,7 @@
     "fire": "Yes",
     "size": "325 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 14:25"
+    "updated": "4 Jan 2026 17:56"
   },
   {
     "title": "AERODROME RD, NABIAC",
@@ -582,7 +620,7 @@
     "latitude": "-32.124824523",
     "longitude": "152.406143189",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 14:17:00",
+    "time_of_call": "04 Jan 2026 17:56:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -597,7 +635,7 @@
     "fire": "Yes",
     "size": "296 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 14:17"
+    "updated": "4 Jan 2026 17:56"
   },
   {
     "title": "SUMMERGLEN RD, RENNIE",
@@ -936,7 +974,7 @@
     "latitude": "-35.098587036",
     "longitude": "147.660919189",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 12:58:00",
+    "time_of_call": "04 Jan 2026 17:57:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -951,7 +989,7 @@
     "fire": "Yes",
     "size": "10 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 12:58"
+    "updated": "4 Jan 2026 17:57"
   },
   {
     "title": "SOFALA RD, WATTLE FLAT",
@@ -1105,8 +1143,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639894",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.9152771239999",
-    "longitude": "147.676087496",
+    "latitude": "-35.9136474869999",
+    "longitude": "147.667043455",
     "region": "nsw",
     "time_of_call": "04 Jan 2026 17:07:00",
     "event_type": "burnt area",
@@ -1408,26 +1446,6 @@
     "updated": "4 Jan 2026 17:09"
   },
   {
-    "title": "PEATS RIDGE RD, CENTRAL MANGROVE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639920",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.310707092",
-    "longitude": "151.257110595",
-    "region": "nsw",
-    "time_of_call": "04 Jan 2026 16:37:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "PEATS RIDGE RD, CENTRAL MANGROVE 2250",
-    "council_area": "Central Coast",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 16:37"
-  },
-  {
     "title": "BLOODWOOD RD, FIDDLETOWN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639921",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1501,26 +1519,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "4 Jan 2026 17:03"
-  },
-  {
-    "title": "GEORGE DOWNES DR, KULNURA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639925",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.230110168",
-    "longitude": "151.216705322",
-    "region": "nsw",
-    "time_of_call": "04 Jan 2026 16:30:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "GEORGE DOWNES DR, KULNURA 2250",
-    "council_area": "Central Coast",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 16:30"
   },
   {
     "title": "GADARA LANE, WINDOWIE",
@@ -1661,18 +1659,18 @@
     "updated": "4 Jan 2026 17:18"
   },
   {
-    "title": "CHAMBERLAINS LANE, COOLAMON",
+    "title": "COOLAMON RD, COOLAMON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639937",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.8650665289999",
-    "longitude": "147.243713379",
+    "latitude": "-34.8728027349999",
+    "longitude": "147.25227356",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 17:25:00",
+    "time_of_call": "04 Jan 2026 17:51:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
-    "location": "CHAMBERLAINS LANE, COOLAMON 2701",
+    "location": "COOLAMON RD, COOLAMON 2701",
     "council_area": "Coolamon",
     "type": "Bush Fire",
     "type_description": "",
@@ -1680,7 +1678,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 17:25"
+    "updated": "4 Jan 2026 17:51"
   },
   {
     "title": "BOGOIN LANE, FORBES",
@@ -1712,9 +1710,9 @@
     "latitude": "-30.4219493859999",
     "longitude": "149.905776978",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 17:31:00",
+    "time_of_call": "04 Jan 2026 17:50:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "TURRAWAN RD, TURRAWAN 2390",
     "council_area": "Narrabri",
@@ -1722,7 +1720,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 17:31"
+    "updated": "4 Jan 2026 17:50"
   },
   {
     "title": "GEORGE DOWNES DR, KULNURA",
@@ -1776,9 +1774,9 @@
     "latitude": "-30.368528366",
     "longitude": "149.732681274",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 17:37:00",
+    "time_of_call": "04 Jan 2026 17:45:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "HIGHFIELD LANE, BOHENA CREEK 2390",
     "council_area": "Narrabri",
@@ -1788,7 +1786,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 17:37"
+    "updated": "4 Jan 2026 17:45"
   },
   {
     "title": "MYALL PARK RD, MYALL PARK",
@@ -1798,10 +1796,13 @@
     "latitude": "-34.200611115",
     "longitude": "146.17527771",
     "region": "nsw",
-    "time_of_call": "04 Jan 2026 17:37:00",
+    "time_of_call": "04 Jan 2026 17:56:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "MYALL PARK RD, MYALL PARK 2681",
     "council_area": "Griffith",
     "type": "Grass Fire",
@@ -1810,6 +1811,26 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "4 Jan 2026 17:37"
+    "updated": "4 Jan 2026 17:56"
+  },
+  {
+    "title": "VIITASALO NORTH RD, SOMERSBY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639944",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.3805999749999",
+    "longitude": "151.283004761",
+    "region": "nsw",
+    "time_of_call": "04 Jan 2026 17:55:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "VIITASALO NORTH RD, SOMERSBY 2250",
+    "council_area": "Central Coast",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "4 Jan 2026 17:55"
   }
 ]
