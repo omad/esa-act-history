@@ -39,24 +39,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACQUARIE",
-    "id": "000934-05012026",
-    "latitude": "-35.249901",
-    "longitude": "149.061171",
-    "region": "act",
-    "time_of_call": "05 Jan 2026 03:27:13",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACQUARIE",
-    "updated": "05 Jan 2026 05:37:49"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - RED HILL",
     "id": "000938-05012026",
     "latitude": "-35.333636",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "05 Jan 2026 05:37:38"
+    "updated": "05 Jan 2026 05:50:49"
   },
   {
     "agency": "Ambulance",
@@ -126,6 +108,24 @@
     "updated": "05 Jan 2026 05:28:11"
   },
   {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - COOK",
+    "id": "000946-05012026",
+    "latitude": "-35.261055",
+    "longitude": "149.064271",
+    "region": "act",
+    "time_of_call": "05 Jan 2026 05:44:53",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "COOK",
+    "updated": "05 Jan 2026 05:51:54"
+  },
+  {
     "agency": "Fire",
     "description": "Three bushfires continue to burn in the Namadgi National Park, southwest of Canberra. Specialist Remote Area Firefighting Teams (RAFT), and aerial firefighting aircraft have been working throughout the weekend to establish containment lines and extinguish hotspots.",
     "event_type": "warning group warning",
@@ -141,7 +141,7 @@
     "warning_level": "Advice",
     "node_id": "6463",
     "banner_check": "",
-    "last_updated": "05 Jan 2026 05:38:47",
+    "last_updated": "05 Jan 2026 05:55:38",
     "latitude": "-35.66273880616932",
     "longitude": "148.87204672591656",
     "polygon": {
@@ -172,7 +172,7 @@
     "warning_level": "Advice",
     "node_id": "6464",
     "banner_check": "",
-    "last_updated": "05 Jan 2026 05:38:47",
+    "last_updated": "05 Jan 2026 05:55:38",
     "latitude": "-35.646416165537545",
     "longitude": "148.92012482496344",
     "polygon": {
@@ -203,7 +203,7 @@
     "warning_level": "Advice",
     "node_id": "6465",
     "banner_check": "",
-    "last_updated": "05 Jan 2026 05:38:47",
+    "last_updated": "05 Jan 2026 05:55:38",
     "latitude": "-35.46086839964052",
     "longitude": "148.82830058242033",
     "polygon": {
@@ -1289,5 +1289,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Jan 2026 04:55"
+  },
+  {
+    "title": "PRESCOTT ST, COPMANHURST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639997",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.580137253",
+    "longitude": "152.774612426",
+    "region": "nsw",
+    "time_of_call": "05 Jan 2026 05:19:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PRESCOTT ST, COPMANHURST 2460",
+    "council_area": "Clarence Valley",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "5 Jan 2026 05:19"
   }
 ]
