@@ -1,21 +1,23 @@
 [
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KALEEN",
-    "id": "001228-06012026",
-    "latitude": "-35.227626",
-    "longitude": "149.105773",
+    "title": "CAR FIRE - FYSHWICK",
+    "id": "000244-06012026",
+    "latitude": "-35.3373718262",
+    "longitude": "149.17628479",
     "region": "act",
-    "time_of_call": "06 Jan 2026 05:24:29",
+    "time_of_call": "06 Jan 2026 08:41:55",
     "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KALEEN",
-    "updated": "06 Jan 2026 07:43:19"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
+    "status_filter_label": "Active",
+    "type": "CAR FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
+    "location": "NEWCASTLE STREET EXIT, NEWCASTLE STREET, FYSHWICK, 2609",
+    "updated": "06 Jan 2026 08:47:59"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "06 Jan 2026 07:53:15"
+    "updated": "06 Jan 2026 08:41:55"
   },
   {
     "agency": "Ambulance",
@@ -87,25 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "06 Jan 2026 08:26:28"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHAPMAN",
-    "id": "001254-06012026",
-    "latitude": "-35.356631",
-    "longitude": "149.036831",
-    "region": "act",
-    "time_of_call": "06 Jan 2026 08:15:41",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHAPMAN",
-    "updated": "06 Jan 2026 08:20:47"
+    "updated": "06 Jan 2026 08:36:18"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +107,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HUME",
-    "updated": "06 Jan 2026 08:21:31"
+    "updated": "06 Jan 2026 08:31:38"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +137,13 @@
     "longitude": "149.036735",
     "region": "act",
     "time_of_call": "06 Jan 2026 08:25:53",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHARNWOOD",
-    "updated": "06 Jan 2026 08:28:42"
+    "updated": "06 Jan 2026 08:35:07"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +155,49 @@
     "longitude": "149.081053",
     "region": "act",
     "time_of_call": "06 Jan 2026 08:27:44",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BONYTHON",
+    "updated": "06 Jan 2026 08:44:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
+    "id": "001261-06012026",
+    "latitude": "-35.333366",
+    "longitude": "149.146674",
+    "region": "act",
+    "time_of_call": "06 Jan 2026 08:31:17",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "BONYTHON",
-    "updated": "06 Jan 2026 08:28:48"
+    "location": "NARRABUNDAH",
+    "updated": "06 Jan 2026 08:35:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TORRENS",
+    "id": "001263-06012026",
+    "latitude": "-35.372705",
+    "longitude": "149.085827",
+    "region": "act",
+    "time_of_call": "06 Jan 2026 08:33:16",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TORRENS",
+    "updated": "06 Jan 2026 08:38:54"
   },
   {
     "agency": "Fire",
@@ -195,7 +215,7 @@
     "warning_level": "Advice",
     "node_id": "6466",
     "banner_check": "",
-    "last_updated": "06 Jan 2026 08:29:39",
+    "last_updated": "06 Jan 2026 08:50:39",
     "latitude": "-35.66273880616932",
     "longitude": "148.87204672591656",
     "polygon": {
@@ -226,7 +246,7 @@
     "warning_level": "Advice",
     "node_id": "6467",
     "banner_check": "",
-    "last_updated": "06 Jan 2026 08:29:39",
+    "last_updated": "06 Jan 2026 08:50:39",
     "latitude": "-35.646416165537545",
     "longitude": "148.92012482496344",
     "polygon": {
@@ -257,7 +277,7 @@
     "warning_level": "Advice",
     "node_id": "6468",
     "banner_check": "",
-    "last_updated": "06 Jan 2026 08:29:39",
+    "last_updated": "06 Jan 2026 08:50:39",
     "latitude": "-35.46086839964052",
     "longitude": "148.82830058242033",
     "polygon": {
@@ -288,7 +308,7 @@
     "warning_level": "Advice",
     "node_id": "6470",
     "banner_check": "",
-    "last_updated": "06 Jan 2026 08:29:39",
+    "last_updated": "06 Jan 2026 08:50:39",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -319,7 +339,7 @@
     "warning_level": "Advice",
     "node_id": "6469",
     "banner_check": "",
-    "last_updated": "06 Jan 2026 08:29:39",
+    "last_updated": "06 Jan 2026 08:50:39",
     "latitude": "-35.582168566766306",
     "longitude": "148.85615086269826",
     "polygon": {
@@ -718,28 +738,6 @@
     "size": "3 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Jan 2026 15:07"
-  },
-  {
-    "title": "RD, WILPINJONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_639901",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.329261779",
-    "longitude": "149.91607666",
-    "region": "nsw",
-    "time_of_call": "05 Jan 2026 10:45:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "LOT 94>WILPINJONG RD, WILPINJONG 2850",
-    "council_area": "Mid-Western",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "5 Jan 2026 10:45"
   },
   {
     "title": "SHEEPWASH RD, AVOCA",
@@ -1147,7 +1145,7 @@
     "latitude": "-32.5051650999999",
     "longitude": "149.397689819",
     "region": "nsw",
-    "time_of_call": "05 Jan 2026 22:02:00",
+    "time_of_call": "06 Jan 2026 08:43:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1162,7 +1160,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "5 Jan 2026 22:02"
+    "updated": "6 Jan 2026 08:43"
   },
   {
     "title": "PULLAMING RD, BREEZA",
@@ -1229,5 +1227,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "5 Jan 2026 23:46"
+  },
+  {
+    "title": "TUGGERAWONG RD, TUGGERAWONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_640117",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.280651093",
+    "longitude": "151.477432251",
+    "region": "nsw",
+    "time_of_call": "06 Jan 2026 08:29:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "TUGGERAWONG RD, TUGGERAWONG 2259",
+    "council_area": "Central Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "6 Jan 2026 08:29"
   }
 ]
