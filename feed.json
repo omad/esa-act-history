@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "11 Jan 2026 06:18:39"
+    "updated": "11 Jan 2026 06:26:56"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "11 Jan 2026 06:05:50",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "11 Jan 2026 06:19:19"
+    "updated": "11 Jan 2026 06:29:18"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "11 Jan 2026 06:20:33"
+    "updated": "11 Jan 2026 06:22:49"
   },
   {
     "agency": "Fire",
@@ -141,7 +141,7 @@
     "warning_level": "Advice",
     "node_id": "6475",
     "banner_check": "",
-    "last_updated": "11 Jan 2026 06:21:57",
+    "last_updated": "11 Jan 2026 06:31:52",
     "latitude": "-35.66273880616932",
     "longitude": "148.87204672591656",
     "polygon": {
@@ -172,7 +172,7 @@
     "warning_level": "Advice",
     "node_id": "6470",
     "banner_check": "",
-    "last_updated": "11 Jan 2026 06:21:57",
+    "last_updated": "11 Jan 2026 06:31:52",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -1825,51 +1825,6 @@
     "updated": "11 Jan 2026 03:06"
   },
   {
-    "title": "Stennett Rd, Ingleburn",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_640952",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.0078179999999",
-    "longitude": "150.851258",
-    "region": "nsw",
-    "time_of_call": "11 Jan 2026 06:14:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Stennett Rd, Ingleburn, NSW 2565",
-    "council_area": "Campbelltown",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 Jan 2026 06:14"
-  },
-  {
-    "title": "SALEYARDS RD, COLLOMBATTI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_640957",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-31.023881912",
-    "longitude": "152.809448242",
-    "region": "nsw",
-    "time_of_call": "11 Jan 2026 05:49:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "SALEYARDS RD, COLLOMBATTI 2440",
-    "council_area": "Kempsey",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Jan 2026 05:49"
-  },
-  {
     "title": "BIG RIVER WAY, TYNDALE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_640959",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1899,13 +1854,10 @@
     "latitude": "-32.728214264",
     "longitude": "151.994506836",
     "region": "nsw",
-    "time_of_call": "11 Jan 2026 06:12:00",
+    "time_of_call": "11 Jan 2026 06:26:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
     "location": "TANILBA SHORES VLGE HSTL, TANILBA AV, TANILBA BAY 2319",
     "council_area": "Port Stephens",
     "type": "Bush Fire",
@@ -1914,7 +1866,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "11 Jan 2026 06:12"
+    "updated": "11 Jan 2026 06:26"
   },
   {
     "title": "Erskine St, Armidale",
@@ -1924,9 +1876,9 @@
     "latitude": "-30.506161",
     "longitude": "151.684516",
     "region": "nsw",
-    "time_of_call": "11 Jan 2026 06:15:00",
+    "time_of_call": "11 Jan 2026 06:28:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
@@ -1939,6 +1891,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 Jan 2026 06:15"
+    "updated": "11 Jan 2026 06:28"
   }
 ]
