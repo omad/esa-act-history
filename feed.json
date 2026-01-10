@@ -39,24 +39,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WRIGHT",
-    "id": "002520-11012026",
-    "latitude": "-35.323404",
-    "longitude": "149.036274",
-    "region": "act",
-    "time_of_call": "11 Jan 2026 06:17:39",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WRIGHT",
-    "updated": "11 Jan 2026 07:57:15"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CALWELL",
     "id": "002523-11012026",
     "latitude": "-35.441132",
@@ -141,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "11 Jan 2026 08:13:56"
+    "updated": "11 Jan 2026 08:31:55"
   },
   {
     "agency": "Ambulance",
@@ -178,6 +160,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BANKS",
     "updated": "11 Jan 2026 08:16:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "002532-11012026",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "11 Jan 2026 08:25:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "11 Jan 2026 08:36:12"
   },
   {
     "title": "DONNYBROOK FIRETRAIL, WOODSIDE",
@@ -320,7 +320,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "1866 ha",
-    "major_fire_update_as_at_10_jan_2026_7:53pm": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12654' target='_blank'> More information</a>",
+    "major_fire_update_as_at_11_jan_2026_8:26am": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12654' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "10 Jan 2026 21:45"
   },
@@ -418,7 +418,7 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "13531 ha",
-    "major_fire_update_as_at_10_jan_2026_6:47pm": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12650' target='_blank'> More information</a>",
+    "major_fire_update_as_at_11_jan_2026_8:33am": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12650' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Jan 2026 01:07"
   },
@@ -1881,28 +1881,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Jan 2026 07:36"
-  },
-  {
-    "title": "ST ANDREWS RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_640967",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.005199432",
-    "longitude": "150.822769165",
-    "region": "nsw",
-    "time_of_call": "11 Jan 2026 08:17:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "MACARTHUR MEMORIAL PARK, ST ANDREWS RD, VARROVILLE 2566",
-    "council_area": "Campbelltown",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "11 Jan 2026 08:17"
   },
   {
     "title": "ALICIA PL, KENTHURST",
