@@ -39,24 +39,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HOLDER",
-    "id": "002513-11012026",
-    "latitude": "-35.337349",
-    "longitude": "149.046336",
-    "region": "act",
-    "time_of_call": "11 Jan 2026 05:00:42",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "HOLDER",
-    "updated": "11 Jan 2026 06:04:28"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GREENWAY",
     "id": "002517-11012026",
     "latitude": "-35.411775",
@@ -69,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "11 Jan 2026 06:26:56"
+    "updated": "11 Jan 2026 06:36:54"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +99,13 @@
     "longitude": "149.036274",
     "region": "act",
     "time_of_call": "11 Jan 2026 06:17:39",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
-    "updated": "11 Jan 2026 06:22:49"
+    "updated": "11 Jan 2026 06:48:08"
   },
   {
     "agency": "Fire",
@@ -141,7 +123,7 @@
     "warning_level": "Advice",
     "node_id": "6475",
     "banner_check": "",
-    "last_updated": "11 Jan 2026 06:31:52",
+    "last_updated": "11 Jan 2026 06:49:20",
     "latitude": "-35.66273880616932",
     "longitude": "148.87204672591656",
     "polygon": {
@@ -172,7 +154,7 @@
     "warning_level": "Advice",
     "node_id": "6470",
     "banner_check": "",
-    "last_updated": "11 Jan 2026 06:31:52",
+    "last_updated": "11 Jan 2026 06:49:20",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -1867,30 +1849,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Jan 2026 06:26"
-  },
-  {
-    "title": "Erskine St, Armidale",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_640961",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.506161",
-    "longitude": "151.684516",
-    "region": "nsw",
-    "time_of_call": "11 Jan 2026 06:28:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Erskine St, Armidale, NSW 2350",
-    "council_area": "Armidale",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "11 Jan 2026 06:28"
   }
 ]
