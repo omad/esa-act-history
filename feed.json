@@ -141,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "11 Jan 2026 22:21:29"
+    "updated": "11 Jan 2026 22:38:16"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +153,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "11 Jan 2026 21:46:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "11 Jan 2026 22:29:51"
+    "updated": "11 Jan 2026 22:39:03"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +177,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "11 Jan 2026 21:56:29"
+    "updated": "11 Jan 2026 22:38:44"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +195,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "11 Jan 2026 22:13:31"
+    "updated": "11 Jan 2026 22:38:09"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +213,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "11 Jan 2026 22:27:31"
+    "updated": "11 Jan 2026 22:41:20"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RIVETT",
+    "id": "002683-11012026",
+    "latitude": "-35.346479",
+    "longitude": "149.039315",
+    "region": "act",
+    "time_of_call": "11 Jan 2026 22:39:42",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RIVETT",
+    "updated": "11 Jan 2026 22:44:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ACTON",
+    "id": "002684-11012026",
+    "latitude": "-35.289989",
+    "longitude": "149.115669",
+    "region": "act",
+    "time_of_call": "11 Jan 2026 22:39:50",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ACTON",
+    "updated": "11 Jan 2026 22:47:45"
   },
   {
     "title": "DONNYBROOK FIRETRAIL, WOODSIDE",
@@ -1540,8 +1576,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641020",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.2557331739999",
-    "longitude": "145.960956884",
+    "latitude": "-35.25573349",
+    "longitude": "145.960952758",
     "region": "nsw",
     "time_of_call": "11 Jan 2026 19:45:00",
     "event_type": "burnt area",
@@ -1653,6 +1689,28 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "11 Jan 2026 22:21"
+  },
+  {
+    "title": "MERCATOR CL, LAKE MUNMORAH",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641058",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.204875946",
+    "longitude": "151.588150025",
+    "region": "nsw",
+    "time_of_call": "11 Jan 2026 22:35:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "MERCATOR CL, LAKE MUNMORAH 2259",
+    "council_area": "Central Coast",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "11 Jan 2026 22:35"
   },
   {
     "title": "TWELFTH AV, ROSSMORE",
