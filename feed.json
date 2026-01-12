@@ -27,13 +27,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "13 Jan 2026 03:02:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "13 Jan 2026 04:24:22"
+    "updated": "13 Jan 2026 04:44:28"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,31 @@
     "longitude": "149.043755",
     "region": "act",
     "time_of_call": "13 Jan 2026 04:03:48",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "FRASER",
-    "updated": "13 Jan 2026 04:30:15"
+    "updated": "13 Jan 2026 04:41:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FORREST",
+    "id": "002959-13012026",
+    "latitude": "-35.318088",
+    "longitude": "149.12506",
+    "region": "act",
+    "time_of_call": "13 Jan 2026 04:35:05",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FORREST",
+    "updated": "13 Jan 2026 04:45:44"
   },
   {
     "title": "DONNYBROOK FIRETRAIL, WOODSIDE",
@@ -1073,12 +1091,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641197",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.6441841119999",
-    "longitude": "152.033752442",
+    "latitude": "-32.642570495",
+    "longitude": "152.03453064",
     "region": "nsw",
-    "time_of_call": "13 Jan 2026 04:16:00",
+    "time_of_call": "13 Jan 2026 04:33:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "CARRINGTON RD, NORTH ARM COVE 2324",
     "council_area": "Mid-Coast",
@@ -1088,7 +1106,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Jan 2026 04:16"
+    "updated": "13 Jan 2026 04:33"
   },
   {
     "title": "FOREST LANE, OLD BAR",
@@ -1098,9 +1116,9 @@
     "latitude": "-31.973304748",
     "longitude": "152.577545166",
     "region": "nsw",
-    "time_of_call": "13 Jan 2026 04:24:00",
+    "time_of_call": "13 Jan 2026 04:38:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "FOREST LANE, OLD BAR 2430",
     "council_area": "Mid-Coast",
@@ -1110,6 +1128,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Jan 2026 04:24"
+    "updated": "13 Jan 2026 04:38"
   }
 ]
