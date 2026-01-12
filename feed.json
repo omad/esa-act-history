@@ -15,7 +15,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLDER",
-    "updated": "13 Jan 2026 02:54:45"
+    "updated": "13 Jan 2026 05:59:38"
   },
   {
     "agency": "Ambulance",
@@ -34,24 +34,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
     "updated": "13 Jan 2026 05:34:34"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - YARRALUMLA",
-    "id": "002949-13012026",
-    "latitude": "-35.302333",
-    "longitude": "149.099934",
-    "region": "act",
-    "time_of_call": "13 Jan 2026 03:05:21",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "YARRALUMLA",
-    "updated": "13 Jan 2026 04:00:08"
   },
   {
     "agency": "Ambulance",
@@ -106,6 +88,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
     "updated": "13 Jan 2026 05:41:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SCULLIN",
+    "id": "002961-13012026",
+    "latitude": "-35.235868",
+    "longitude": "149.037677",
+    "region": "act",
+    "time_of_call": "13 Jan 2026 05:47:34",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SCULLIN",
+    "updated": "13 Jan 2026 06:01:48"
   },
   {
     "title": "DONNYBROOK FIRETRAIL, WOODSIDE",
@@ -1003,19 +1003,19 @@
     "latitude": "-33.4880523689999",
     "longitude": "150.129745484",
     "region": "nsw",
-    "time_of_call": "12 Jan 2026 22:39:00",
+    "time_of_call": "13 Jan 2026 05:49:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "IKARA ST, BOWENFELS 2790",
     "council_area": "Lithgow",
-    "type": "Grass Fire",
+    "type": "Burn off",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "12 Jan 2026 22:39"
+    "updated": "13 Jan 2026 05:49"
   },
   {
     "title": "Grace St, Moree",
@@ -1135,12 +1135,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641201",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.0802574149999",
-    "longitude": "149.340972901",
+    "latitude": "-34.118759155",
+    "longitude": "149.335464478",
     "region": "nsw",
-    "time_of_call": "13 Jan 2026 05:21:00",
+    "time_of_call": "13 Jan 2026 05:50:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "JUNCTION POINT RD, TUENA 2583",
     "council_area": "Upper Lachlan",
@@ -1150,7 +1150,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Jan 2026 05:21"
+    "updated": "13 Jan 2026 05:50"
   },
   {
     "title": "BEROWRA WATERS RD, BEROWRA HEIGHTS",
@@ -1160,9 +1160,9 @@
     "latitude": "-33.605541229",
     "longitude": "151.128921509",
     "region": "nsw",
-    "time_of_call": "13 Jan 2026 05:42:00",
+    "time_of_call": "13 Jan 2026 05:45:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "BEROWRA WATERS RD, BEROWRA HEIGHTS 2082",
     "council_area": "Hornsby",
@@ -1170,6 +1170,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "13 Jan 2026 05:42"
+    "updated": "13 Jan 2026 05:45"
   }
 ]
