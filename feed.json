@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "STRUCTURE FIRE - WRIGHT",
-    "id": "000965-16012026",
-    "latitude": "-35.320594",
-    "longitude": "149.037897",
-    "region": "act",
-    "time_of_call": "16 Jan 2026 00:59:42",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "STRUCTURE FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
-    "location": "KOKO APARTMENTS, STEVE IRWIN AVENUE, JOHN GORTON DRIVE, WRIGHT, 2600",
-    "updated": "16 Jan 2026 02:32:33"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -47,13 +27,13 @@
     "longitude": "149.046603",
     "region": "act",
     "time_of_call": "16 Jan 2026 01:22:46",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "16 Jan 2026 01:48:18"
+    "updated": "16 Jan 2026 03:30:08"
   },
   {
     "agency": "Ambulance",
@@ -74,42 +54,6 @@
     "type_icon": "",
     "location": "KOKO APARTMENTS, STEVE IRWIN AVENUE, JOHN GORTON DRIVE, WRIGHT, 2600",
     "updated": "16 Jan 2026 02:16:14"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WEETANGERA",
-    "id": "003747-16012026",
-    "latitude": "-35.249342",
-    "longitude": "149.049485",
-    "region": "act",
-    "time_of_call": "16 Jan 2026 01:32:26",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WEETANGERA",
-    "updated": "16 Jan 2026 02:36:23"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MONASH",
-    "id": "003750-16012026",
-    "latitude": "-35.413962",
-    "longitude": "149.091126",
-    "region": "act",
-    "time_of_call": "16 Jan 2026 01:46:55",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "16 Jan 2026 02:27:44"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +83,13 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "16 Jan 2026 02:34:01",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "16 Jan 2026 02:56:31"
+    "updated": "16 Jan 2026 03:37:35"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +101,13 @@
     "longitude": "149.079717",
     "region": "act",
     "time_of_call": "16 Jan 2026 02:51:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "16 Jan 2026 02:57:19"
+    "updated": "16 Jan 2026 03:33:07"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -1028,27 +972,5 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "16 Jan 2026 02:03"
-  },
-  {
-    "title": "MYOORA RD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641553",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.687915802",
-    "longitude": "151.221069336",
-    "region": "nsw",
-    "time_of_call": "16 Jan 2026 02:59:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "WYVERN PRIVATE HOSPITAL, MYOORA RD, TERREY HILLS 2084",
-    "council_area": "Northern Beaches",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Jan 2026 02:59"
   }
 ]
