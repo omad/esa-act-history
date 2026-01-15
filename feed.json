@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "16 Jan 2026 07:34:15"
+    "updated": "16 Jan 2026 07:46:45"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "16 Jan 2026 07:29:26"
+    "updated": "16 Jan 2026 07:42:11"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "16 Jan 2026 07:14:26"
+    "updated": "16 Jan 2026 07:37:41"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,13 @@
     "longitude": "149.126815",
     "region": "act",
     "time_of_call": "16 Jan 2026 07:13:46",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "16 Jan 2026 07:21:07"
+    "updated": "16 Jan 2026 07:37:19"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,31 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "16 Jan 2026 07:27:57",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "16 Jan 2026 07:33:42"
+    "updated": "16 Jan 2026 07:50:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HAWKER",
+    "id": "003766-16012026",
+    "latitude": "-35.246757",
+    "longitude": "149.03611",
+    "region": "act",
+    "time_of_call": "16 Jan 2026 07:41:48",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HAWKER",
+    "updated": "16 Jan 2026 07:49:39"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -977,28 +995,6 @@
     "updated": "16 Jan 2026 06:59"
   },
   {
-    "title": "EMPORIUM AV, KEMPS CREEK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641568",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.826229096",
-    "longitude": "150.802566529",
-    "region": "nsw",
-    "time_of_call": "16 Jan 2026 06:26:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "EMPORIUM AV, KEMPS CREEK 2178",
-    "council_area": "Penrith",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Jan 2026 06:26"
-  },
-  {
     "title": "BOWMAN FARM RD, BARRINGTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641570",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1041,21 +1037,18 @@
     "updated": "16 Jan 2026 07:22"
   },
   {
-    "title": "South St, Dubbo",
+    "title": "WHYLANDRA ST, DUBBO",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641572",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.256227999",
-    "longitude": "148.591981",
+    "latitude": "-32.257534027",
+    "longitude": "148.58934021",
     "region": "nsw",
-    "time_of_call": "16 Jan 2026 07:30:00",
+    "time_of_call": "16 Jan 2026 07:53:00",
     "event_type": "burnt area",
     "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "South St, Dubbo, NSW 2830",
+    "alert_level": "Not Applicable",
+    "location": "DISCOVERY PARKS, WHYLANDRA ST, DUBBO 2830",
     "council_area": "Dubbo Regional",
     "type": "Bush Fire",
     "type_description": "",
@@ -1063,6 +1056,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "16 Jan 2026 07:30"
+    "updated": "16 Jan 2026 07:53"
   }
 ]
