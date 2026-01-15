@@ -91,25 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "16 Jan 2026 02:27:45"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CURTIN",
-    "id": "003749-16012026",
-    "latitude": "-35.326585",
-    "longitude": "149.076856",
-    "region": "act",
-    "time_of_call": "16 Jan 2026 01:45:36",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CURTIN",
-    "updated": "16 Jan 2026 02:15:02"
+    "updated": "16 Jan 2026 02:36:23"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +127,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "16 Jan 2026 02:34:09"
+    "updated": "16 Jan 2026 02:52:56"
   },
   {
     "agency": "Ambulance",
@@ -157,13 +139,31 @@
     "longitude": "149.107648",
     "region": "act",
     "time_of_call": "16 Jan 2026 02:34:01",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "16 Jan 2026 02:34:46"
+    "updated": "16 Jan 2026 02:56:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ARANDA",
+    "id": "003753-16012026",
+    "latitude": "-35.258882",
+    "longitude": "149.079717",
+    "region": "act",
+    "time_of_call": "16 Jan 2026 02:51:56",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ARANDA",
+    "updated": "16 Jan 2026 02:57:19"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -1028,5 +1028,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "16 Jan 2026 02:03"
+  },
+  {
+    "title": "MYOORA RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641553",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.687915802",
+    "longitude": "151.221069336",
+    "region": "nsw",
+    "time_of_call": "16 Jan 2026 02:59:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "WYVERN PRIVATE HOSPITAL, MYOORA RD, TERREY HILLS 2084",
+    "council_area": "Northern Beaches",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Jan 2026 02:59"
   }
 ]
