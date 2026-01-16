@@ -3,24 +3,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHISHOLM",
-    "id": "003975-17012026",
-    "latitude": "-35.422993",
-    "longitude": "149.12793",
-    "region": "act",
-    "time_of_call": "17 Jan 2026 03:00:07",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHISHOLM",
-    "updated": "17 Jan 2026 04:15:37"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BRADDON",
     "id": "003976-17012026",
     "latitude": "-35.270314",
@@ -45,13 +27,13 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "17 Jan 2026 03:11:42",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "17 Jan 2026 04:06:10"
+    "updated": "17 Jan 2026 04:43:43"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +81,13 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "17 Jan 2026 04:15:03",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "17 Jan 2026 04:19:56"
+    "updated": "17 Jan 2026 04:32:08"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -955,5 +937,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Jan 2026 04:08"
+  },
+  {
+    "title": "MAIDENS BRUSH RD, WYOMING",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641687",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.41009903",
+    "longitude": "151.372802735",
+    "region": "nsw",
+    "time_of_call": "17 Jan 2026 04:48:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "MAIDENS BRUSH RD, WYOMING 2250",
+    "council_area": "Central Coast",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "17 Jan 2026 04:48"
   }
 ]
