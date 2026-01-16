@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FARRER",
-    "updated": "17 Jan 2026 03:23:01"
+    "updated": "17 Jan 2026 03:49:57"
   },
   {
     "agency": "Ambulance",
@@ -101,13 +101,13 @@
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "17 Jan 2026 03:00:07",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "17 Jan 2026 03:27:01"
+    "updated": "17 Jan 2026 03:52:09"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "17 Jan 2026 03:36:18"
+    "updated": "17 Jan 2026 03:40:35"
   },
   {
     "agency": "Ambulance",
@@ -179,7 +179,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "17 Jan 2026 03:36:24"
+    "updated": "17 Jan 2026 03:46:03"
   },
   {
     "agency": "Ambulance",
@@ -198,6 +198,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FORDE",
     "updated": "17 Jan 2026 03:37:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GOWRIE",
+    "id": "003983-17012026",
+    "latitude": "-35.411365",
+    "longitude": "149.110257",
+    "region": "act",
+    "time_of_call": "17 Jan 2026 03:39:35",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GOWRIE",
+    "updated": "17 Jan 2026 03:48:42"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -1025,50 +1043,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "17 Jan 2026 00:00"
-  },
-  {
-    "title": "SOUTH TACOMA RD, TACOMA SOUTH",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641684",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.2934684749999",
-    "longitude": "151.45954895",
-    "region": "nsw",
-    "time_of_call": "17 Jan 2026 03:36:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "SOUTH TACOMA RD, TACOMA SOUTH 2259",
-    "council_area": "Central Coast",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Jan 2026 03:36"
-  },
-  {
-    "title": "Paringa Av, Westmead",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641685",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.8019879999999",
-    "longitude": "150.994947",
-    "region": "nsw",
-    "time_of_call": "17 Jan 2026 03:34:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Paringa Av, Westmead, NSW 2145",
-    "council_area": "City of Parramatta",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "17 Jan 2026 03:34"
   }
 ]
