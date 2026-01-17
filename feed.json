@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TORRENS",
-    "id": "004205-18012026",
-    "latitude": "-35.372705",
-    "longitude": "149.085827",
-    "region": "act",
-    "time_of_call": "18 Jan 2026 07:29:46",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TORRENS",
-    "updated": "18 Jan 2026 08:16:54"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BRADDON",
     "id": "004206-18012026",
     "latitude": "-35.270314",
@@ -87,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHIFLEY",
-    "updated": "18 Jan 2026 09:04:16"
+    "updated": "18 Jan 2026 09:42:45"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "18 Jan 2026 09:00:50"
+    "updated": "18 Jan 2026 09:33:40"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "18 Jan 2026 09:22:23"
+    "updated": "18 Jan 2026 09:45:12"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +177,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "18 Jan 2026 09:27:49"
+    "updated": "18 Jan 2026 09:40:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MACGREGOR",
+    "id": "004226-18012026",
+    "latitude": "-35.210615",
+    "longitude": "149.013611",
+    "region": "act",
+    "time_of_call": "18 Jan 2026 09:28:52",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MACGREGOR",
+    "updated": "18 Jan 2026 09:39:10"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -304,7 +304,7 @@
     "latitude": "-33.56098938",
     "longitude": "148.152130127",
     "region": "nsw",
-    "time_of_call": "17 Jan 2026 16:38:00",
+    "time_of_call": "18 Jan 2026 09:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -319,7 +319,7 @@
     "fire": "Yes",
     "size": "101 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Jan 2026 16:38"
+    "updated": "18 Jan 2026 09:35"
   },
   {
     "title": "OLD GLEN INNES RD, NEWTON BOYD",
@@ -899,7 +899,7 @@
     "latitude": "-33.58959198",
     "longitude": "151.297424316",
     "region": "nsw",
-    "time_of_call": "18 Jan 2026 01:27:00",
+    "time_of_call": "18 Jan 2026 09:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -909,7 +909,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Jan 2026 01:27"
+    "updated": "18 Jan 2026 09:32"
   },
   {
     "title": "HUME HWY, MULLENGANDRA",
@@ -977,26 +977,6 @@
     "updated": "18 Jan 2026 08:31"
   },
   {
-    "title": "MACQUARIE GROVE RD, KIRKHAM",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641885",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.028160095",
-    "longitude": "150.707702637",
-    "region": "nsw",
-    "time_of_call": "18 Jan 2026 08:22:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MACQUARIE GROVE RD, KIRKHAM 2570",
-    "council_area": "Camden",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "18 Jan 2026 08:22"
-  },
-  {
     "title": "LEVITT ST, WYONG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641887",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1059,28 +1039,6 @@
     "updated": "18 Jan 2026 09:08"
   },
   {
-    "title": "DAVID RD, CASTLE HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641892",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.72176361",
-    "longitude": "151.025527954",
-    "region": "nsw",
-    "time_of_call": "18 Jan 2026 09:19:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "DAVID RD, CASTLE HILL 2154",
-    "council_area": "Hornsby",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "18 Jan 2026 09:19"
-  },
-  {
     "title": "ESK ST, NORTH WAHROONGA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641893",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1088,9 +1046,9 @@
     "latitude": "-33.7036895749999",
     "longitude": "151.138275146",
     "region": "nsw",
-    "time_of_call": "18 Jan 2026 09:19:00",
+    "time_of_call": "18 Jan 2026 09:26:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "ESK ST, NORTH WAHROONGA 2076",
     "council_area": "Ku-Ring-Gai",
@@ -1098,6 +1056,86 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "18 Jan 2026 09:19"
+    "updated": "18 Jan 2026 09:26"
+  },
+  {
+    "title": "BANGOR BYPASS, BANGOR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641894",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.022224426",
+    "longitude": "151.023910522",
+    "region": "nsw",
+    "time_of_call": "18 Jan 2026 09:28:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "BANGOR BYPASS, BANGOR 2234",
+    "council_area": "Sutherland",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "State Emergency Service",
+    "updated": "18 Jan 2026 09:28"
+  },
+  {
+    "title": "SETTLERS RD, LOWER MACDONALD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641895",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.352931976",
+    "longitude": "150.981719971",
+    "region": "nsw",
+    "time_of_call": "18 Jan 2026 09:31:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "SETTLERS RD, LOWER MACDONALD 2775",
+    "council_area": "Hawkesbury",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Jan 2026 09:31"
+  },
+  {
+    "title": "GREEN VALLEY RD, BEAUMONT",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641896",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.7726135259999",
+    "longitude": "150.565963746",
+    "region": "nsw",
+    "time_of_call": "18 Jan 2026 09:38:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GREEN VALLEY RD, BEAUMONT 2577",
+    "council_area": "Shoalhaven",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Jan 2026 09:38"
+  },
+  {
+    "title": "DEAVES RD, COORANBONG",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_641897",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.101722717",
+    "longitude": "151.45388794",
+    "region": "nsw",
+    "time_of_call": "18 Jan 2026 09:43:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "DEAVES RD, COORANBONG 2265",
+    "council_area": "Lake Macquarie",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "18 Jan 2026 09:43"
   }
 ]
