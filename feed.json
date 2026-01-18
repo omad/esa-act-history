@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACGREGOR",
-    "updated": "19 Jan 2026 07:21:56"
+    "updated": "19 Jan 2026 07:37:43"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "19 Jan 2026 07:17:40"
+    "updated": "19 Jan 2026 07:44:18"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ARANDA",
-    "updated": "19 Jan 2026 07:30:35"
+    "updated": "19 Jan 2026 07:48:46"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "19 Jan 2026 07:21:32",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "19 Jan 2026 07:29:17"
+    "updated": "19 Jan 2026 07:41:52"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "19 Jan 2026 07:30:11"
+    "updated": "19 Jan 2026 07:33:03"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,67 @@
     "longitude": "149.037677",
     "region": "act",
     "time_of_call": "19 Jan 2026 07:27:54",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SCULLIN",
+    "updated": "19 Jan 2026 07:37:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CALWELL",
+    "id": "004425-19012026",
+    "latitude": "-35.441132",
+    "longitude": "149.107648",
+    "region": "act",
+    "time_of_call": "19 Jan 2026 07:42:29",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CALWELL",
+    "updated": "19 Jan 2026 07:49:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLDER",
+    "id": "004426-19012026",
+    "latitude": "-35.337349",
+    "longitude": "149.046336",
+    "region": "act",
+    "time_of_call": "19 Jan 2026 07:43:41",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "SCULLIN",
-    "updated": "19 Jan 2026 07:30:20"
+    "location": "HOLDER",
+    "updated": "19 Jan 2026 07:48:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "004427-19012026",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "19 Jan 2026 07:44:48",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "19 Jan 2026 07:49:42"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -914,5 +968,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "19 Jan 2026 00:30"
+  },
+  {
+    "title": "SPRING DR, COROWA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642008",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.0073089599999",
+    "longitude": "146.34439087",
+    "region": "nsw",
+    "time_of_call": "19 Jan 2026 07:47:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "SPRING DR, COROWA 2646",
+    "council_area": "Federation",
+    "type": "Haystack fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_6.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "19 Jan 2026 07:47"
   }
 ]
