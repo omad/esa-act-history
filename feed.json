@@ -37,7 +37,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "AGED PERSONS UNITS BLK E, WINDEYER STREET, WATSON, 2602",
-    "updated": "20 Jan 2026 03:21:05"
+    "updated": "20 Jan 2026 03:51:51"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +139,13 @@
     "longitude": "149.099934",
     "region": "act",
     "time_of_call": "20 Jan 2026 01:22:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "20 Jan 2026 03:37:46"
+    "updated": "20 Jan 2026 03:49:26"
   },
   {
     "agency": "Ambulance",
@@ -175,51 +175,13 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "20 Jan 2026 02:34:11",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "WESTON",
-    "updated": "20 Jan 2026 03:31:52"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "STRUCTURE FIRE - WATSON",
-    "id": "004630-20012026",
-    "latitude": "-35.2389311299",
-    "longitude": "149.15433031",
-    "region": "act",
-    "time_of_call": "20 Jan 2026 02:48:10",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
-    "type": "STRUCTURE FIRE",
-    "type_description": "",
-    "type_icon": "",
-    "location": "AGED PERSONS UNITS BLK E, WINDEYER STREET, WATSON, 2602",
-    "updated": "20 Jan 2026 03:25:48"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - WHITLAM",
-    "id": "004632-20012026",
-    "latitude": "-35.277508",
-    "longitude": "149.033417",
-    "region": "act",
-    "time_of_call": "20 Jan 2026 03:31:38",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "WHITLAM",
-    "updated": "20 Jan 2026 03:34:06"
+    "location": "WESTON",
+    "updated": "20 Jan 2026 03:54:24"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -786,9 +748,9 @@
     "latitude": "-33.140384675",
     "longitude": "148.170730591",
     "region": "nsw",
-    "time_of_call": "20 Jan 2026 02:44:00",
+    "time_of_call": "20 Jan 2026 03:36:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GRENFELL ST, PARKES 2870",
     "council_area": "Parkes",
@@ -798,7 +760,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "20 Jan 2026 02:44"
+    "updated": "20 Jan 2026 03:36"
   },
   {
     "title": "SPRING DR, COLLENDINA",
@@ -850,9 +812,9 @@
     "latitude": "-35.783706665",
     "longitude": "146.776382446",
     "region": "nsw",
-    "time_of_call": "20 Jan 2026 03:23:00",
+    "time_of_call": "20 Jan 2026 03:45:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "URANA RD, BURRUMBUTTOCK 2642",
     "council_area": "Greater Hume",
@@ -862,6 +824,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Jan 2026 03:23"
+    "updated": "20 Jan 2026 03:45"
   }
 ]
