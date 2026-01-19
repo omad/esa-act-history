@@ -17,25 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire-building_1.svg",
     "location": "AGED PERSONS UNITS BLK E, WINDEYER STREET, WATSON, 2602",
-    "updated": "20 Jan 2026 04:38:56"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TAYLOR",
-    "id": "004548-19012026",
-    "latitude": "-35.147416",
-    "longitude": "149.105924",
-    "region": "act",
-    "time_of_call": "19 Jan 2026 17:49:19",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TAYLOR",
-    "updated": "19 Jan 2026 19:51:10"
+    "updated": "20 Jan 2026 05:29:34"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "20 Jan 2026 04:45:22"
+    "updated": "20 Jan 2026 05:24:06"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "20 Jan 2026 04:26:37"
+    "updated": "20 Jan 2026 05:32:37"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +101,13 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "20 Jan 2026 04:24:54",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "20 Jan 2026 04:28:38"
+    "updated": "20 Jan 2026 05:42:08"
   },
   {
     "agency": "Ambulance",
@@ -144,6 +126,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
     "updated": "20 Jan 2026 04:36:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NICHOLLS",
+    "id": "004639-20012026",
+    "latitude": "-35.186387",
+    "longitude": "149.094445",
+    "region": "act",
+    "time_of_call": "20 Jan 2026 05:17:43",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "NICHOLLS",
+    "updated": "20 Jan 2026 05:40:39"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -710,7 +710,7 @@
     "latitude": "-33.140384675",
     "longitude": "148.170730591",
     "region": "nsw",
-    "time_of_call": "20 Jan 2026 03:36:00",
+    "time_of_call": "20 Jan 2026 05:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -722,7 +722,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "20 Jan 2026 03:36"
+    "updated": "20 Jan 2026 05:10"
   },
   {
     "title": "SPRING DR, COLLENDINA",
@@ -767,25 +767,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Jan 2026 04:36"
-  },
-  {
-    "title": "YURUGA RD, BILLIMARI",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642083",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.659984589",
-    "longitude": "148.643920898",
-    "region": "nsw",
-    "time_of_call": "20 Jan 2026 04:48:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "YURUGA RD, BILLIMARI 2804",
-    "council_area": "Cowra",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Jan 2026 04:48"
   }
 ]
