@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "20 Jan 2026 07:18:03"
+    "updated": "20 Jan 2026 07:51:49"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,13 @@
     "longitude": "149.013141",
     "region": "act",
     "time_of_call": "20 Jan 2026 04:32:28",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "20 Jan 2026 07:10:59"
+    "updated": "20 Jan 2026 07:33:50"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "20 Jan 2026 07:23:26"
+    "updated": "20 Jan 2026 07:33:43"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "20 Jan 2026 07:07:51"
+    "updated": "20 Jan 2026 07:49:44"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,13 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "20 Jan 2026 07:08:06",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "20 Jan 2026 07:19:49"
+    "updated": "20 Jan 2026 07:51:19"
   },
   {
     "agency": "Ambulance",
@@ -173,31 +173,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "20 Jan 2026 07:29:40",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "20 Jan 2026 07:32:52"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "004653-20012026",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "20 Jan 2026 07:30:12",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "20 Jan 2026 07:31:15"
+    "updated": "20 Jan 2026 07:43:53"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -779,31 +761,6 @@
     "updated": "20 Jan 2026 05:43"
   },
   {
-    "title": "Huxtable Pl, Goulburn",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642085",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.7230719999999",
-    "longitude": "149.751591999",
-    "region": "nsw",
-    "time_of_call": "20 Jan 2026 07:15:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Huxtable Pl, Goulburn, NSW 2580",
-    "council_area": "Goulburn Mulwaree",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "20 Jan 2026 07:15"
-  },
-  {
     "title": "NELSON BAY RD, BOBS FARM",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642087",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -848,26 +805,6 @@
     "updated": "20 Jan 2026 07:13"
   },
   {
-    "title": "SPRINGVALE RD, ELDERSLIE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642090",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.5830955499999",
-    "longitude": "151.358520508",
-    "region": "nsw",
-    "time_of_call": "20 Jan 2026 07:14:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "SPRINGVALE RD, ELDERSLIE 2335",
-    "council_area": "Singleton",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Jan 2026 07:14"
-  },
-  {
     "title": "THURUNGLE RD, OOMA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642091",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -897,9 +834,9 @@
     "latitude": "-32.6155815129999",
     "longitude": "151.438903809",
     "region": "nsw",
-    "time_of_call": "20 Jan 2026 07:20:00",
+    "time_of_call": "20 Jan 2026 07:37:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "MAITLAND VALE RD, LAMBS VALLEY 2335",
     "council_area": "Maitland",
@@ -909,28 +846,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Jan 2026 07:20"
-  },
-  {
-    "title": "PERTH ST, PERTHVILLE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642093",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.4885253909999",
-    "longitude": "149.548034668",
-    "region": "nsw",
-    "time_of_call": "20 Jan 2026 07:25:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "PERTH ST, PERTHVILLE 2795",
-    "council_area": "Bathurst",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "20 Jan 2026 07:25"
+    "updated": "20 Jan 2026 07:37"
   }
 ]
