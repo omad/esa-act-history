@@ -63,13 +63,13 @@
     "longitude": "149.117192",
     "region": "act",
     "time_of_call": "21 Jan 2026 09:11:00",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "21 Jan 2026 09:28:34"
+    "updated": "21 Jan 2026 09:35:48"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "21 Jan 2026 09:19:19"
+    "updated": "21 Jan 2026 09:34:42"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "21 Jan 2026 09:28:31"
+    "updated": "21 Jan 2026 09:31:07"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +135,67 @@
     "longitude": "149.085118",
     "region": "act",
     "time_of_call": "21 Jan 2026 09:19:36",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "21 Jan 2026 09:26:05"
+    "updated": "21 Jan 2026 09:37:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MONASH",
+    "id": "004887-21012026",
+    "latitude": "-35.413962",
+    "longitude": "149.091126",
+    "region": "act",
+    "time_of_call": "21 Jan 2026 09:32:44",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MONASH",
+    "updated": "21 Jan 2026 09:37:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "004888-21012026",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "21 Jan 2026 09:44:12",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "21 Jan 2026 09:49:56"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RIVETT",
+    "id": "004889-21012026",
+    "latitude": "-35.346479",
+    "longitude": "149.039315",
+    "region": "act",
+    "time_of_call": "21 Jan 2026 09:46:59",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RIVETT",
+    "updated": "21 Jan 2026 09:49:55"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -190,7 +244,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
     "size": "109527 ha",
-    "major_fire_update_as_at_20_jan_2026_8:43am": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12650' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
     "updated": "20 Jan 2026 18:58"
   },
@@ -578,28 +631,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "21 Jan 2026 09:05"
-  },
-  {
-    "title": "PACIFIC HWY, TEA GARDENS",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642178",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.600204468",
-    "longitude": "152.113327026",
-    "region": "nsw",
-    "time_of_call": "21 Jan 2026 06:45:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PACIFIC HWY, TEA GARDENS 2324",
-    "council_area": "Mid-Coast",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "21 Jan 2026 06:45"
   },
   {
     "title": "GREAT NORTH RD",
