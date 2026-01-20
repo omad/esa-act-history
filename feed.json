@@ -43,19 +43,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CONDER",
+    "title": "AMBULANCE RESPONSE - BANKS",
     "id": "004709-20012026",
-    "latitude": "-35.458351",
-    "longitude": "149.106348",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
     "region": "act",
     "time_of_call": "20 Jan 2026 12:15:47",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "CONDER",
-    "updated": "20 Jan 2026 16:30:19"
+    "location": "BANKS",
+    "updated": "20 Jan 2026 16:49:29"
   },
   {
     "agency": "Ambulance",
@@ -73,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "20 Jan 2026 16:18:55"
+    "updated": "20 Jan 2026 16:45:25"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "20 Jan 2026 16:23:32"
+    "updated": "20 Jan 2026 16:39:19"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "20 Jan 2026 16:17:55"
+    "updated": "20 Jan 2026 16:56:05"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,79 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "20 Jan 2026 16:30:30"
+    "updated": "20 Jan 2026 16:51:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CANBERRA AIRPORT",
+    "id": "004764-20012026",
+    "latitude": "-35.302295",
+    "longitude": "149.20515",
+    "region": "act",
+    "time_of_call": "20 Jan 2026 16:36:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CANBERRA AIRPORT",
+    "updated": "20 Jan 2026 16:44:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "004765-20012026",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "20 Jan 2026 16:38:20",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "20 Jan 2026 16:48:16"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "004766-20012026",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "20 Jan 2026 16:41:43",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "20 Jan 2026 16:56:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "004768-20012026",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "20 Jan 2026 16:43:45",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "20 Jan 2026 16:51:14"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -173,7 +245,7 @@
     "latitude": "-36.254833221",
     "longitude": "149.770294189",
     "region": "nsw",
-    "time_of_call": "20 Jan 2026 16:05:00",
+    "time_of_call": "20 Jan 2026 16:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -186,9 +258,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "20 ha",
+    "size": "3563 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Jan 2026 16:05"
+    "updated": "20 Jan 2026 16:35"
   },
   {
     "title": "Murray River Rd Talmalmo Fire",
@@ -448,7 +520,7 @@
     "latitude": "-35.8520889279999",
     "longitude": "146.009353637",
     "region": "nsw",
-    "time_of_call": "19 Jan 2026 20:42:00",
+    "time_of_call": "20 Jan 2026 16:32:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -463,7 +535,7 @@
     "fire": "Yes",
     "size": "53 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "19 Jan 2026 20:42"
+    "updated": "20 Jan 2026 16:32"
   },
   {
     "title": "PAULLS RD, SOUTH MAROOTA",
@@ -495,7 +567,7 @@
     "latitude": "-35.783706665",
     "longitude": "146.776382446",
     "region": "nsw",
-    "time_of_call": "20 Jan 2026 14:44:00",
+    "time_of_call": "20 Jan 2026 16:40:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -507,7 +579,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Jan 2026 14:44"
+    "updated": "20 Jan 2026 16:40"
   },
   {
     "title": "THURUNGLE RD, OOMA",
@@ -630,9 +702,9 @@
     "latitude": "-35.781318664",
     "longitude": "146.782943726",
     "region": "nsw",
-    "time_of_call": "20 Jan 2026 16:33:00",
+    "time_of_call": "20 Jan 2026 16:49:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "URANA RD, BURRUMBUTTOCK 2642",
     "council_area": "Greater Hume",
@@ -642,6 +714,50 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "20 Jan 2026 16:33"
+    "updated": "20 Jan 2026 16:49"
+  },
+  {
+    "title": "BREAKNECK RD, KIWARRAK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642131",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.956352234",
+    "longitude": "152.459426879",
+    "region": "nsw",
+    "time_of_call": "20 Jan 2026 16:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BREAKNECK RD, KIWARRAK 2430",
+    "council_area": "Mid-Coast",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Jan 2026 16:37"
+  },
+  {
+    "title": "EULOURIE RD, PALLAL",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642132",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.9828586579999",
+    "longitude": "150.382812501",
+    "region": "nsw",
+    "time_of_call": "20 Jan 2026 16:37:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "COOLOWIE, EULOURIE RD, PALLAL 2404",
+    "council_area": "Gwydir",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "20 Jan 2026 16:37"
   }
 ]
