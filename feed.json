@@ -27,13 +27,13 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "22 Jan 2026 06:23:48",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "22 Jan 2026 08:04:54"
+    "updated": "22 Jan 2026 09:24:27"
   },
   {
     "agency": "Ambulance",
@@ -57,24 +57,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYNEHAM",
-    "id": "005144-22012026",
-    "latitude": "-35.238929",
-    "longitude": "149.124748",
-    "region": "act",
-    "time_of_call": "22 Jan 2026 07:16:06",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LYNEHAM",
-    "updated": "22 Jan 2026 08:26:48"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - O'CONNOR",
     "id": "005145-22012026",
     "latitude": "-35.256876",
@@ -87,7 +69,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "22 Jan 2026 07:31:44"
+    "updated": "22 Jan 2026 09:15:34"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +117,13 @@
     "longitude": "149.097085",
     "region": "act",
     "time_of_call": "22 Jan 2026 08:17:43",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "22 Jan 2026 08:54:19"
+    "updated": "22 Jan 2026 09:13:06"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +141,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "22 Jan 2026 08:44:15"
+    "updated": "22 Jan 2026 09:13:45"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +153,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "22 Jan 2026 08:32:33",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "22 Jan 2026 08:52:42"
+    "updated": "22 Jan 2026 09:29:34"
   },
   {
     "agency": "Ambulance",
@@ -213,7 +195,7 @@
     "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "GIRRAHWEEN STREET, LONSDALE STREET, BRADDON, 2612",
-    "updated": "22 Jan 2026 08:49:29"
+    "updated": "22 Jan 2026 09:15:41"
   },
   {
     "agency": "Ambulance",
@@ -231,7 +213,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "ISAACS",
-    "updated": "22 Jan 2026 08:50:51"
+    "updated": "22 Jan 2026 09:17:45"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - SCULLIN",
+    "id": "005170-22012026",
+    "latitude": "-35.235868",
+    "longitude": "149.037677",
+    "region": "act",
+    "time_of_call": "22 Jan 2026 09:12:15",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "SCULLIN",
+    "updated": "22 Jan 2026 09:21:58"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -704,5 +704,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Jan 2026 05:51"
+  },
+  {
+    "title": "DIRNASEER RD",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_643248",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.6532554629999",
+    "longitude": "147.949539185",
+    "region": "nsw",
+    "time_of_call": "22 Jan 2026 09:15:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "WOODLANDS STUD, DIRNASEER RD, COOTAMUNDRA 2590",
+    "council_area": "Cootamundra-Gundagai",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Jan 2026 09:15"
   }
 ]
