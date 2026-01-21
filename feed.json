@@ -9,13 +9,13 @@
     "longitude": "149.111857",
     "region": "act",
     "time_of_call": "22 Jan 2026 04:10:12",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "22 Jan 2026 07:52:13"
+    "updated": "22 Jan 2026 08:30:04"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "22 Jan 2026 07:58:10"
+    "updated": "22 Jan 2026 08:06:55"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "22 Jan 2026 06:27:03"
+    "updated": "22 Jan 2026 08:04:54"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "22 Jan 2026 07:44:39"
+    "updated": "22 Jan 2026 08:26:48"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +177,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WATSON",
-    "updated": "22 Jan 2026 07:58:18"
+    "updated": "22 Jan 2026 08:04:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CASEY",
+    "id": "005160-22012026",
+    "latitude": "-35.167812",
+    "longitude": "149.097085",
+    "region": "act",
+    "time_of_call": "22 Jan 2026 08:17:43",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CASEY",
+    "updated": "22 Jan 2026 08:21:30"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - DEAKIN",
+    "id": "005161-22012026",
+    "latitude": "-35.319944",
+    "longitude": "149.101598",
+    "region": "act",
+    "time_of_call": "22 Jan 2026 08:30:08",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DEAKIN",
+    "updated": "22 Jan 2026 08:31:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "005162-22012026",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "22 Jan 2026 08:32:33",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "22 Jan 2026 08:35:36"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -608,28 +662,6 @@
     "updated": "21 Jan 2026 18:32"
   },
   {
-    "title": "PRETTY PINE RD, MOULAMEIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642229",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-35.155727387",
-    "longitude": "144.193344116",
-    "region": "nsw",
-    "time_of_call": "21 Jan 2026 18:31:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "PRETTY PINE RD, MOULAMEIN 2733",
-    "council_area": "Edward River",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "21 Jan 2026 18:31"
-  },
-  {
     "title": "AVONDALE RD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642234",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -650,31 +682,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Jan 2026 06:27"
-  },
-  {
-    "title": "Darri Dr, Springdale Heights",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_642237",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.0305569999999",
-    "longitude": "146.947571",
-    "region": "nsw",
-    "time_of_call": "21 Jan 2026 20:30:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Darri Dr, Springdale Heights, NSW 2641",
-    "council_area": "Albury",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "21 Jan 2026 20:30"
   },
   {
     "title": "BOOYONG RD, NASHUA",
@@ -719,27 +726,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Jan 2026 06:46"
-  },
-  {
-    "title": "BAYSHORE DR, BYRON BAY",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_643244",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.629041671",
-    "longitude": "153.584503174",
-    "region": "nsw",
-    "time_of_call": "22 Jan 2026 07:49:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "BAYSHORE DR, BYRON BAY 2481",
-    "council_area": "Byron",
-    "type": "Structure Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "22 Jan 2026 07:49"
   }
 ]
