@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "005636-24012026",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "24 Jan 2026 01:29:06",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "24 Jan 2026 02:29:05"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CURTIN",
     "id": "005637-24012026",
     "latitude": "-35.326585",
@@ -51,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "24 Jan 2026 02:11:17"
+    "updated": "24 Jan 2026 02:50:08"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "24 Jan 2026 02:21:45"
+    "updated": "24 Jan 2026 02:43:58"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WANNIASSA",
-    "updated": "24 Jan 2026 02:24:23"
+    "updated": "24 Jan 2026 02:56:16"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "24 Jan 2026 02:33:41"
+    "updated": "24 Jan 2026 02:34:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CAMPBELL",
+    "id": "005647-24012026",
+    "latitude": "-35.288663",
+    "longitude": "149.155928",
+    "region": "act",
+    "time_of_call": "24 Jan 2026 02:46:57",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CAMPBELL",
+    "updated": "24 Jan 2026 02:56:15"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +159,7 @@
     "warning_level": "Advice",
     "node_id": "6486",
     "banner_check": "",
-    "last_updated": "24 Jan 2026 02:34:35",
+    "last_updated": "24 Jan 2026 02:57:09",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -249,7 +249,7 @@
     "latitude": "-30.791563034",
     "longitude": "151.144134521",
     "region": "nsw",
-    "time_of_call": "23 Jan 2026 03:11:00",
+    "time_of_call": "24 Jan 2026 02:35:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -261,7 +261,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jan 2026 03:11"
+    "updated": "24 Jan 2026 02:35"
   },
   {
     "title": "THURUNGLE RD, OOMA",
@@ -390,7 +390,7 @@
     "latitude": "-34.12845993",
     "longitude": "145.878616333",
     "region": "nsw",
-    "time_of_call": "22 Jan 2026 20:50:00",
+    "time_of_call": "24 Jan 2026 02:36:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -405,7 +405,7 @@
     "fire": "Yes",
     "size": "1 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Jan 2026 20:50"
+    "updated": "24 Jan 2026 02:36"
   },
   {
     "title": "NEWELL HWY, BOHENA CREEK",
@@ -415,7 +415,7 @@
     "latitude": "-30.5028896329999",
     "longitude": "149.634918213",
     "region": "nsw",
-    "time_of_call": "23 Jan 2026 03:56:00",
+    "time_of_call": "24 Jan 2026 02:33:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -427,7 +427,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "23 Jan 2026 03:56"
+    "updated": "24 Jan 2026 02:33"
   },
   {
     "title": "CANADA ST, LAKE CARGELLIGO",
@@ -613,31 +613,6 @@
     "updated": "24 Jan 2026 01:30"
   },
   {
-    "title": "Sunflash St, Lightning Ridge",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_643400",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.43141",
-    "longitude": "147.986806",
-    "region": "nsw",
-    "time_of_call": "24 Jan 2026 01:19:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "Sunflash St, Lightning Ridge, NSW 2834",
-    "council_area": "Walgett",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "24 Jan 2026 01:19"
-  },
-  {
     "title": "BLACK PRINCE DR, LIGHTNING RIDGE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_643401",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -645,9 +620,9 @@
     "latitude": "-29.4325027469999",
     "longitude": "147.989303589",
     "region": "nsw",
-    "time_of_call": "24 Jan 2026 01:42:00",
+    "time_of_call": "24 Jan 2026 02:52:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "BLACK PRINCE DR, LIGHTNING RIDGE 2834",
     "council_area": "Walgett",
@@ -657,6 +632,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "24 Jan 2026 01:42"
+    "updated": "24 Jan 2026 02:52"
   }
 ]
