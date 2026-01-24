@@ -21,24 +21,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TURNER",
-    "id": "005907-25012026",
-    "latitude": "-35.269392",
-    "longitude": "149.126815",
-    "region": "act",
-    "time_of_call": "25 Jan 2026 06:12:08",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TURNER",
-    "updated": "25 Jan 2026 07:09:48"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CURTIN",
     "id": "005908-25012026",
     "latitude": "-35.326585",
@@ -51,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "25 Jan 2026 07:17:08"
+    "updated": "25 Jan 2026 07:45:50"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "25 Jan 2026 07:16:17"
+    "updated": "25 Jan 2026 07:48:03"
   },
   {
     "agency": "Ambulance",
@@ -91,6 +73,24 @@
   },
   {
     "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "005912-25012026",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "25 Jan 2026 07:31:40",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "25 Jan 2026 07:36:57"
+  },
+  {
+    "agency": "Ambulance",
     "description": "Severe heatwave conditions are expected to intensify this weekend and early next week. Maximum temperatures increasing this weekend to the mid to high thirties. Overnight minimum temperatures in the low to mid teens.",
     "event_type": "warning group warning",
     "id": "69",
@@ -105,7 +105,7 @@
     "warning_level": "Advice",
     "node_id": "6486",
     "banner_check": "",
-    "last_updated": "25 Jan 2026 07:30:16",
+    "last_updated": "25 Jan 2026 07:51:16",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -579,26 +579,6 @@
     "updated": "25 Jan 2026 07:00"
   },
   {
-    "title": "MACINTYRE RD, BARRABA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_643520",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.3021564479999",
-    "longitude": "150.693649292",
-    "region": "nsw",
-    "time_of_call": "25 Jan 2026 06:15:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MACINTYRE RD, BARRABA 2347",
-    "council_area": "Tamworth",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "25 Jan 2026 06:15"
-  },
-  {
     "title": "DYRRING RD, SEDGEFIELD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_643534",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -621,25 +601,25 @@
     "updated": "25 Jan 2026 06:38"
   },
   {
-    "title": "WINDERMERE PL, WALLALONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_643541",
+    "title": "PERRICOOTA RD, MOAMA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_643545",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.688121795",
-    "longitude": "151.656616211",
+    "latitude": "-36.0458106999999",
+    "longitude": "144.644012451",
     "region": "nsw",
-    "time_of_call": "25 Jan 2026 06:16:00",
+    "time_of_call": "25 Jan 2026 07:33:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "WINDERMERE PL, WALLALONG 2320",
-    "council_area": "Port Stephens",
+    "location": "PERRICOOTA RD, MOAMA 2731",
+    "council_area": "Murray River",
     "type": "Vehicle/Equipment Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "25 Jan 2026 06:16"
+    "updated": "25 Jan 2026 07:33"
   }
 ]
