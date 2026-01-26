@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "27 Jan 2026 04:24:47"
+    "updated": "27 Jan 2026 04:51:30"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "27 Jan 2026 04:36:31"
+    "updated": "27 Jan 2026 04:42:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "006370-27012026",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "27 Jan 2026 04:42:44",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GRIFFITH",
+    "updated": "27 Jan 2026 04:52:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "006371-27012026",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "27 Jan 2026 04:50:35",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "27 Jan 2026 04:53:25"
   },
   {
     "agency": "Ambulance",
@@ -69,7 +105,7 @@
     "warning_level": "Advice",
     "node_id": "6486",
     "banner_check": "",
-    "last_updated": "27 Jan 2026 04:38:08",
+    "last_updated": "27 Jan 2026 04:57:15",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -742,31 +778,6 @@
     "updated": "27 Jan 2026 03:32"
   },
   {
-    "title": "MCKAY RD, MERUNGLE HILL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_643824",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.606910706",
-    "longitude": "146.435363769",
-    "region": "nsw",
-    "time_of_call": "27 Jan 2026 04:19:00",
-    "event_type": "burnt area",
-    "status": "Being controlled",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "MCKAY RD, MERUNGLE HILL 2705",
-    "council_area": "Leeton",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "27 Jan 2026 04:19"
-  },
-  {
     "title": "KELLY ST, SCONE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_643825",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -787,5 +798,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "27 Jan 2026 04:31"
+  },
+  {
+    "title": "Kelly St, Scone",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_643826",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.056137",
+    "longitude": "150.869168999",
+    "region": "nsw",
+    "time_of_call": "27 Jan 2026 04:51:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Kelly St, Scone, NSW 2337",
+    "council_area": "Upper Hunter",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "27 Jan 2026 04:51"
   }
 ]
