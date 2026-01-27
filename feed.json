@@ -21,37 +21,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BANKS",
-    "id": "006586-27012026",
-    "latitude": "-35.471552",
-    "longitude": "149.100249",
-    "region": "act",
-    "time_of_call": "27 Jan 2026 23:19:57",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BANKS",
-    "updated": "28 Jan 2026 02:36:31"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CHISHOLM",
     "id": "006593-27012026",
     "latitude": "-35.422993",
     "longitude": "149.12793",
     "region": "act",
     "time_of_call": "27 Jan 2026 23:49:14",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "28 Jan 2026 01:55:26"
+    "updated": "28 Jan 2026 02:54:05"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +99,13 @@
     "longitude": "149.129625",
     "region": "act",
     "time_of_call": "28 Jan 2026 01:49:40",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "AMAROO",
-    "updated": "28 Jan 2026 01:56:45"
+    "updated": "28 Jan 2026 02:53:09"
   },
   {
     "agency": "Ambulance",
@@ -141,25 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KINGSTON",
-    "updated": "28 Jan 2026 02:09:24"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GRIFFITH",
-    "id": "006609-28012026",
-    "latitude": "-35.325773",
-    "longitude": "149.133842",
-    "region": "act",
-    "time_of_call": "28 Jan 2026 02:01:00",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GRIFFITH",
-    "updated": "28 Jan 2026 02:07:21"
+    "updated": "28 Jan 2026 02:46:39"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +159,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HARRISON",
-    "updated": "28 Jan 2026 02:36:40"
+    "updated": "28 Jan 2026 02:49:59"
   },
   {
     "agency": "Ambulance",
@@ -232,7 +196,7 @@
     "warning_level": "Advice",
     "node_id": "6486",
     "banner_check": "",
-    "last_updated": "28 Jan 2026 02:39:10",
+    "last_updated": "28 Jan 2026 02:57:08",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -918,5 +882,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "28 Jan 2026 02:35"
+  },
+  {
+    "title": "OLD NORTHERN RD, FOREST GLEN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_643944",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.5486488339999",
+    "longitude": "151.01322937",
+    "region": "nsw",
+    "time_of_call": "28 Jan 2026 02:46:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "OLD NORTHERN RD, FOREST GLEN 2157",
+    "council_area": "Hornsby",
+    "type": "Flood/Storm/Tree Down",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Jan 2026 02:46"
   }
 ]
