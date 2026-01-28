@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "29 Jan 2026 07:36:06"
+    "updated": "29 Jan 2026 08:00:46"
   },
   {
     "agency": "Ambulance",
@@ -33,7 +33,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "29 Jan 2026 07:33:57"
+    "updated": "29 Jan 2026 07:47:10"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "29 Jan 2026 07:25:45"
+    "updated": "29 Jan 2026 07:43:33"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "29 Jan 2026 07:30:49"
+    "updated": "29 Jan 2026 07:56:19"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +141,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HUGHES",
-    "updated": "29 Jan 2026 07:31:17"
+    "updated": "29 Jan 2026 07:57:19"
   },
   {
     "agency": "Ambulance",
@@ -163,6 +163,60 @@
   },
   {
     "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "006945-29012026",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "29 Jan 2026 07:44:11",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "29 Jan 2026 07:51:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KINGSTON",
+    "id": "006949-29012026",
+    "latitude": "-35.315358",
+    "longitude": "149.146868",
+    "region": "act",
+    "time_of_call": "29 Jan 2026 07:52:32",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KINGSTON",
+    "updated": "29 Jan 2026 07:56:15"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "006953-29012026",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "29 Jan 2026 08:01:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "29 Jan 2026 08:01:51"
+  },
+  {
+    "agency": "Ambulance",
     "description": "Severe heatwave conditions are expected to intensify this weekend and early next week. Maximum temperatures increasing this weekend to the mid to high thirties. Overnight minimum temperatures in the low to mid teens.",
     "event_type": "warning group warning",
     "id": "69",
@@ -178,7 +232,7 @@
     "warning_level": "Advice",
     "node_id": "6486",
     "banner_check": "",
-    "last_updated": "29 Jan 2026 07:42:14",
+    "last_updated": "29 Jan 2026 08:02:55",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -965,28 +1019,6 @@
     "updated": "29 Jan 2026 05:46"
   },
   {
-    "title": "WISEMANS FERRY RD, MAROOTA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644083",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.480487824",
-    "longitude": "150.95413208",
-    "region": "nsw",
-    "time_of_call": "29 Jan 2026 07:33:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "WISEMANS FERRY RD, MAROOTA 2756",
-    "council_area": "The Hills",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Jan 2026 07:33"
-  },
-  {
     "title": "Dingo Hole Road",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644084",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1033,12 +1065,12 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644086",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-29.9168262479999",
-    "longitude": "151.160614014",
+    "latitude": "-29.9174366",
+    "longitude": "151.164321899",
     "region": "nsw",
-    "time_of_call": "29 Jan 2026 07:37:00",
+    "time_of_call": "29 Jan 2026 07:45:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "GUYRA RD, TINGHA 2369",
     "council_area": "Inverell",
@@ -1048,7 +1080,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Jan 2026 07:37"
+    "updated": "29 Jan 2026 07:45"
   },
   {
     "title": "BOBBIN HEAD RD",
@@ -1058,9 +1090,9 @@
     "latitude": "-33.7008361809999",
     "longitude": "151.146972656",
     "region": "nsw",
-    "time_of_call": "29 Jan 2026 07:27:00",
+    "time_of_call": "29 Jan 2026 07:59:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "SOUTHERN CROSS, BOBBIN HEAD RD, NORTH TURRAMURRA 2074",
     "council_area": "Ku-Ring-Gai",
@@ -1068,10 +1100,10 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "29 Jan 2026 07:27"
+    "updated": "29 Jan 2026 07:59"
   },
   {
-    "title": "OLD POONCARIE RD, MENINDEE",
+    "title": "BUDGIE ST, MENINDEE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644088",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
@@ -1082,7 +1114,7 @@
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "OLD POONCARIE RD, MENINDEE 2879",
+    "location": "BUDGIE ST, MENINDEE 2879",
     "council_area": "Unincorporated",
     "type": "Other",
     "type_description": "",
@@ -1091,5 +1123,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "29 Jan 2026 07:38"
+  },
+  {
+    "title": "PRINCES HWY, MOUNT OUSLEY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644089",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.4052085869999",
+    "longitude": "150.890319825",
+    "region": "nsw",
+    "time_of_call": "29 Jan 2026 07:43:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "PRINCES HWY, MOUNT OUSLEY 2519",
+    "council_area": "Wollongong",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "29 Jan 2026 07:43"
+  },
+  {
+    "title": "SPRING DR, MULWALA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644090",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.975902558",
+    "longitude": "146.063934326",
+    "region": "nsw",
+    "time_of_call": "29 Jan 2026 07:50:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "SPRING DR, MULWALA 2647",
+    "council_area": "Federation",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "29 Jan 2026 07:50"
   }
 ]
