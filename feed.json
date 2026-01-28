@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "29 Jan 2026 01:37:40"
+    "updated": "29 Jan 2026 01:52:19"
   },
   {
     "agency": "Ambulance",
@@ -99,31 +99,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "28 Jan 2026 22:28:08",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "28 Jan 2026 22:34:35"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAWSON",
-    "id": "006890-28012026",
-    "latitude": "-35.361049",
-    "longitude": "149.099386",
-    "region": "act",
-    "time_of_call": "28 Jan 2026 23:57:14",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MAWSON",
-    "updated": "29 Jan 2026 01:25:04"
+    "updated": "29 Jan 2026 01:49:27"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +159,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "29 Jan 2026 01:30:00"
+    "updated": "29 Jan 2026 01:50:32"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "006901-29012026",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "29 Jan 2026 01:43:13",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "29 Jan 2026 01:59:14"
   },
   {
     "agency": "Ambulance",
@@ -196,7 +196,7 @@
     "warning_level": "Advice",
     "node_id": "6486",
     "banner_check": "",
-    "last_updated": "29 Jan 2026 01:40:01",
+    "last_updated": "29 Jan 2026 02:02:02",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -916,43 +916,21 @@
     "updated": "29 Jan 2026 00:24"
   },
   {
-    "title": "BAMARANG RD, MUNDAMIA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644065",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.8913307179999",
-    "longitude": "150.546585082",
-    "region": "nsw",
-    "time_of_call": "29 Jan 2026 01:36:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "BAMARANG RD, MUNDAMIA 2540",
-    "council_area": "Shoalhaven",
-    "type": "Fire Alarm",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "29 Jan 2026 01:36"
-  },
-  {
-    "title": "LAKESIDE DR, SWANSEA",
+    "title": "Lakeside Dr, Swansea",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644066",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.082767487",
-    "longitude": "151.62940979",
+    "latitude": "-33.0828514099999",
+    "longitude": "151.628372192",
     "region": "nsw",
-    "time_of_call": "29 Jan 2026 01:37:00",
+    "time_of_call": "29 Jan 2026 01:49:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "status_description": "",
     "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
     "status_filter_label": "Active",
     "alert_level": "Advice",
-    "location": "LAKESIDE DR, SWANSEA 2281",
+    "location": "Lakeside Dr, Swansea, NSW 2281",
     "council_area": "Lake Macquarie",
     "type": "Bush Fire",
     "type_description": "",
@@ -960,6 +938,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "29 Jan 2026 01:37"
+    "updated": "29 Jan 2026 01:49"
   }
 ]
