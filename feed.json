@@ -15,7 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "30 Jan 2026 07:28:35"
+    "updated": "30 Jan 2026 07:43:11"
   },
   {
     "agency": "Ambulance",
@@ -34,24 +34,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
     "updated": "30 Jan 2026 07:12:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BARTON",
-    "id": "007213-30012026",
-    "latitude": "-35.309306",
-    "longitude": "149.13437",
-    "region": "act",
-    "time_of_call": "30 Jan 2026 06:44:20",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BARTON",
-    "updated": "30 Jan 2026 07:18:50"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +63,13 @@
     "longitude": "149.120031",
     "region": "act",
     "time_of_call": "30 Jan 2026 07:24:07",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "30 Jan 2026 07:27:11"
+    "updated": "30 Jan 2026 07:47:49"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +81,13 @@
     "longitude": "149.164179",
     "region": "act",
     "time_of_call": "30 Jan 2026 07:36:54",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KENNY",
-    "updated": "30 Jan 2026 07:39:24"
+    "updated": "30 Jan 2026 07:53:37"
   },
   {
     "agency": "Ambulance",
@@ -124,7 +106,7 @@
     "warning_level": "Advice",
     "node_id": "6486",
     "banner_check": "",
-    "last_updated": "30 Jan 2026 07:40:32",
+    "last_updated": "30 Jan 2026 07:58:41",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -690,7 +672,7 @@
     "latitude": "-32.7428131099999",
     "longitude": "151.938903809",
     "region": "nsw",
-    "time_of_call": "30 Jan 2026 07:34:00",
+    "time_of_call": "30 Jan 2026 07:38:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -706,7 +688,7 @@
     "size": "222 ha",
     "major_fire_update_as_at_30_jan_2026_4:50am": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12715' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Jan 2026 07:34"
+    "updated": "30 Jan 2026 07:38"
   },
   {
     "title": "TOMS GULLY RD, BLACK MOUNTAIN",
@@ -895,9 +877,9 @@
     "latitude": "-32.7345924379999",
     "longitude": "152.029449463",
     "region": "nsw",
-    "time_of_call": "30 Jan 2026 07:27:00",
+    "time_of_call": "30 Jan 2026 07:43:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "KAWARREN ST, LEMON TREE PASSAGE 2319",
     "council_area": "Port Stephens",
@@ -907,7 +889,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "30 Jan 2026 07:27"
+    "updated": "30 Jan 2026 07:43"
   },
   {
     "title": "(BRUXNER HWY), CLOVASS",
@@ -930,5 +912,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "30 Jan 2026 07:34"
+  },
+  {
+    "title": "RALFE ST, TAHMOOR",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644204",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.229560852",
+    "longitude": "150.592727661",
+    "region": "nsw",
+    "time_of_call": "30 Jan 2026 07:48:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "INGHAMS ENTERPRISES, RALFE ST, TAHMOOR 2573",
+    "council_area": "Wollondilly",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "30 Jan 2026 07:48"
   }
 ]
