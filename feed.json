@@ -53,7 +53,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "01 Feb 2026 07:53:25"
+    "updated": "01 Feb 2026 08:15:43"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +65,13 @@
     "longitude": "149.140719",
     "region": "act",
     "time_of_call": "01 Feb 2026 05:44:17",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "01 Feb 2026 07:51:08"
+    "updated": "01 Feb 2026 08:18:03"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "01 Feb 2026 07:53:25"
+    "updated": "01 Feb 2026 08:00:13"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +107,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "01 Feb 2026 07:29:29"
+    "updated": "01 Feb 2026 08:07:17"
   },
   {
     "agency": "Ambulance",
@@ -125,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "01 Feb 2026 07:29:43"
+    "updated": "01 Feb 2026 08:23:15"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +137,31 @@
     "longitude": "149.112409",
     "region": "act",
     "time_of_call": "01 Feb 2026 07:44:13",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "01 Feb 2026 07:49:34"
+    "updated": "01 Feb 2026 07:58:31"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CONDER",
+    "id": "007764-01022026",
+    "latitude": "-35.458351",
+    "longitude": "149.106348",
+    "region": "act",
+    "time_of_call": "01 Feb 2026 08:04:34",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CONDER",
+    "updated": "01 Feb 2026 08:17:26"
   },
   {
     "agency": "Ambulance",
@@ -162,7 +180,7 @@
     "warning_level": "Advice",
     "node_id": "6486",
     "banner_check": "",
-    "last_updated": "01 Feb 2026 07:55:55",
+    "last_updated": "01 Feb 2026 08:30:37",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -561,7 +579,7 @@
     "latitude": "-31.4398136139999",
     "longitude": "145.781982422",
     "region": "nsw",
-    "time_of_call": "31 Jan 2026 11:56:00",
+    "time_of_call": "01 Feb 2026 07:53:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -573,7 +591,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Jan 2026 11:56"
+    "updated": "1 Feb 2026 07:53"
   },
   {
     "title": "NORTH STAR RD, NORTH STAR",
@@ -1260,5 +1278,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Feb 2026 05:48"
+  },
+  {
+    "title": "YARRIE LAKE RD, NARRABRI",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644492",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-30.329967499",
+    "longitude": "149.737197876",
+    "region": "nsw",
+    "time_of_call": "01 Feb 2026 08:20:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "YARRIE LAKE RD, NARRABRI 2390",
+    "council_area": "Narrabri",
+    "type": "Other",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "1 Feb 2026 08:20"
+  },
+  {
+    "title": "Anne St, Moree",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644498",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.473716",
+    "longitude": "149.837393",
+    "region": "nsw",
+    "time_of_call": "01 Feb 2026 08:10:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Anne St, Moree, NSW 2400",
+    "council_area": "Moree Plains",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "1 Feb 2026 08:10"
   }
 ]
