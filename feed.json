@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "01 Feb 2026 01:31:12"
+    "updated": "01 Feb 2026 01:52:04"
   },
   {
     "agency": "Ambulance",
@@ -59,24 +59,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
-    "id": "007700-01022026",
-    "latitude": "-35.333366",
-    "longitude": "149.146674",
-    "region": "act",
-    "time_of_call": "01 Feb 2026 00:12:18",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NARRABUNDAH",
-    "updated": "01 Feb 2026 01:12:17"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - TORRENS",
     "id": "007703-01022026",
     "latitude": "-35.372705",
@@ -89,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "01 Feb 2026 01:25:44"
+    "updated": "01 Feb 2026 01:43:22"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +125,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "01 Feb 2026 01:30:05"
+    "updated": "01 Feb 2026 01:47:24"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "007710-01022026",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "01 Feb 2026 01:35:54",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "01 Feb 2026 01:54:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - THROSBY",
+    "id": "007712-01022026",
+    "latitude": "-35.187595",
+    "longitude": "149.161141",
+    "region": "act",
+    "time_of_call": "01 Feb 2026 01:53:04",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THROSBY",
+    "updated": "01 Feb 2026 01:54:21"
   },
   {
     "agency": "Ambulance",
@@ -162,7 +180,7 @@
     "warning_level": "Advice",
     "node_id": "6486",
     "banner_check": "",
-    "last_updated": "01 Feb 2026 01:33:27",
+    "last_updated": "01 Feb 2026 01:56:27",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -1275,10 +1293,13 @@
     "latitude": "-36.0419921879999",
     "longitude": "147.001022339",
     "region": "nsw",
-    "time_of_call": "01 Feb 2026 01:26:00",
+    "time_of_call": "01 Feb 2026 01:40:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "LOBBE RD, THURGOONA 2640",
     "council_area": "Albury",
     "type": "Bush Fire",
@@ -1287,7 +1308,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Feb 2026 01:26"
+    "updated": "1 Feb 2026 01:40"
   },
   {
     "title": "THE INLET RD, BULGA",
@@ -1297,9 +1318,9 @@
     "latitude": "-32.653327942",
     "longitude": "151.020721436",
     "region": "nsw",
-    "time_of_call": "01 Feb 2026 01:29:00",
+    "time_of_call": "01 Feb 2026 01:49:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Not yet controlled",
     "alert_level": "Not Applicable",
     "location": "THE INLET RD, BULGA 2330",
     "council_area": "Singleton",
@@ -1309,6 +1330,26 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "1 Feb 2026 01:29"
+    "updated": "1 Feb 2026 01:49"
+  },
+  {
+    "title": "RICHIE RD, WESTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644475",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.8213882439999",
+    "longitude": "151.457260132",
+    "region": "nsw",
+    "time_of_call": "01 Feb 2026 01:38:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "RICHIE RD, WESTON 2326",
+    "council_area": "Cessnock",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Feb 2026 01:38"
   }
 ]
