@@ -35,7 +35,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LAWSON",
-    "updated": "01 Feb 2026 04:27:40"
+    "updated": "01 Feb 2026 04:39:12"
   },
   {
     "agency": "Ambulance",
@@ -47,13 +47,13 @@
     "longitude": "149.041664",
     "region": "act",
     "time_of_call": "01 Feb 2026 04:06:43",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "01 Feb 2026 04:30:54"
+    "updated": "01 Feb 2026 04:48:22"
   },
   {
     "agency": "Ambulance",
@@ -71,7 +71,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "01 Feb 2026 04:25:19"
+    "updated": "01 Feb 2026 04:47:10"
   },
   {
     "agency": "Ambulance",
@@ -89,7 +89,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON CREEK",
-    "updated": "01 Feb 2026 04:30:39"
+    "updated": "01 Feb 2026 04:32:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ARANDA",
+    "id": "007734-01022026",
+    "latitude": "-35.258882",
+    "longitude": "149.079717",
+    "region": "act",
+    "time_of_call": "01 Feb 2026 04:35:47",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ARANDA",
+    "updated": "01 Feb 2026 04:41:12"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HOLDER",
+    "id": "007735-01022026",
+    "latitude": "-35.337349",
+    "longitude": "149.046336",
+    "region": "act",
+    "time_of_call": "01 Feb 2026 04:49:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HOLDER",
+    "updated": "01 Feb 2026 04:53:46"
   },
   {
     "agency": "Ambulance",
@@ -108,7 +144,7 @@
     "warning_level": "Advice",
     "node_id": "6486",
     "banner_check": "",
-    "last_updated": "01 Feb 2026 04:32:27",
+    "last_updated": "01 Feb 2026 04:55:27",
     "latitude": "",
     "longitude": "",
     "polygon": {
@@ -270,7 +306,7 @@
     "latitude": "-32.538902283",
     "longitude": "152.2184906",
     "region": "nsw",
-    "time_of_call": "31 Jan 2026 18:35:00",
+    "time_of_call": "01 Feb 2026 04:39:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -283,10 +319,10 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "3610 ha",
+    "size": "4112 ha",
     "major_fire_update_as_at_31_jan_2026_7:04pm": "<a href='https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/mfu?id=12724' target='_blank'> More information</a>",
     "responsible_agency": "Rural Fire Service",
-    "updated": "31 Jan 2026 18:35"
+    "updated": "1 Feb 2026 04:39"
   },
   {
     "title": "GWYDIR HWY, GRAVESEND",
@@ -1236,18 +1272,18 @@
     "updated": "1 Feb 2026 03:29"
   },
   {
-    "title": "CLIFTON RD ROUND HILL RD, PIALLAWAY",
+    "title": "CLIFTON RD, PIALLAWAY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644482",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-31.2039470679999",
-    "longitude": "150.476181031",
+    "latitude": "-31.1880493159999",
+    "longitude": "150.495849609",
     "region": "nsw",
     "time_of_call": "01 Feb 2026 03:35:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "CLIFTON RD ROUND HILL RD, PIALLAWAY 2342",
+    "location": "CLIFTON RD, PIALLAWAY 2342",
     "council_area": "Gunnedah",
     "type": "Bush Fire",
     "type_description": "",
@@ -1258,28 +1294,6 @@
     "updated": "1 Feb 2026 03:35"
   },
   {
-    "title": "MERYULA ST, NARROMINE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644483",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.237442017",
-    "longitude": "148.243255615",
-    "region": "nsw",
-    "time_of_call": "01 Feb 2026 04:28:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MERYULA ST, NARROMINE 2821",
-    "council_area": "Narromine",
-    "type": "Other",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Feb 2026 04:28"
-  },
-  {
     "title": "SERPENTINE RD, ERINA HEIGHTS",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644484",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1287,9 +1301,9 @@
     "latitude": "-33.43284607",
     "longitude": "151.414169312",
     "region": "nsw",
-    "time_of_call": "01 Feb 2026 04:25:00",
+    "time_of_call": "01 Feb 2026 04:44:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "SERPENTINE RD, ERINA HEIGHTS 2260",
     "council_area": "Central Coast",
@@ -1299,6 +1313,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Feb 2026 04:25"
+    "updated": "1 Feb 2026 04:44"
+  },
+  {
+    "title": "BRITTEN RD, TAMINDA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644485",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-31.0807971959999",
+    "longitude": "150.91116333",
+    "region": "nsw",
+    "time_of_call": "01 Feb 2026 04:42:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BRITTEN RD, TAMINDA 2340",
+    "council_area": "Tamworth",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Feb 2026 04:42"
   }
 ]
