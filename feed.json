@@ -81,13 +81,31 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "03 Feb 2026 01:04:32",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "THEODORE",
+    "updated": "03 Feb 2026 01:36:09"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CASEY",
+    "id": "008174-03022026",
+    "latitude": "-35.167812",
+    "longitude": "149.097085",
+    "region": "act",
+    "time_of_call": "03 Feb 2026 01:48:41",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "THEODORE",
-    "updated": "03 Feb 2026 01:07:01"
+    "location": "CASEY",
+    "updated": "03 Feb 2026 01:58:03"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -1394,28 +1412,6 @@
     "updated": "2 Feb 2026 23:07"
   },
   {
-    "title": "KOSCIUSZKO RD, JINDABYNE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644743",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-36.368789673",
-    "longitude": "148.589828491",
-    "region": "nsw",
-    "time_of_call": "03 Feb 2026 00:32:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "KOSCIUSZKO RD, JINDABYNE 2627",
-    "council_area": "Snowy Monaro",
-    "type": "Vehicle/Equipment Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0_0.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "3 Feb 2026 00:32"
-  },
-  {
     "title": "SENTI RD, LEETON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644745",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1423,7 +1419,7 @@
     "latitude": "-34.5132980349999",
     "longitude": "146.359359741",
     "region": "nsw",
-    "time_of_call": "03 Feb 2026 00:42:00",
+    "time_of_call": "03 Feb 2026 01:53:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1438,6 +1434,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Feb 2026 00:42"
+    "updated": "3 Feb 2026 01:53"
   }
 ]
