@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "HOUSE FIRE - DOWNER",
-    "id": "002087-03022026",
-    "latitude": "-35.2414615699",
-    "longitude": "149.14782589",
-    "region": "act",
-    "time_of_call": "03 Feb 2026 21:29:25",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "HOUSE FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
-    "location": "NICHOLS STREET, DOWNER, 2602",
-    "updated": "03 Feb 2026 21:45:29"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -35,43 +15,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CURTIN",
-    "updated": "03 Feb 2026 22:41:35"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - LYONS",
-    "id": "008474-03022026",
-    "latitude": "-35.340941",
-    "longitude": "149.072217",
-    "region": "act",
-    "time_of_call": "03 Feb 2026 20:34:46",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "LYONS",
-    "updated": "03 Feb 2026 22:09:56"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FARRER",
-    "id": "008479-03022026",
-    "latitude": "-35.377331",
-    "longitude": "149.104586",
-    "region": "act",
-    "time_of_call": "03 Feb 2026 20:53:17",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FARRER",
-    "updated": "03 Feb 2026 22:02:12"
+    "updated": "03 Feb 2026 23:00:00"
   },
   {
     "agency": "Ambulance",
@@ -143,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "03 Feb 2026 22:33:00"
+    "updated": "03 Feb 2026 22:47:19"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "03 Feb 2026 22:35:20"
+    "updated": "03 Feb 2026 22:57:29"
   },
   {
     "agency": "Ambulance",
@@ -221,19 +165,37 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAWSON",
-    "id": "008495-03022026",
-    "latitude": "-35.361049",
-    "longitude": "149.099386",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "008496-03022026",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
     "region": "act",
-    "time_of_call": "03 Feb 2026 22:40:04",
+    "time_of_call": "03 Feb 2026 22:43:54",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "03 Feb 2026 22:53:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - NARRABUNDAH",
+    "id": "008497-03022026",
+    "latitude": "-35.333366",
+    "longitude": "149.146674",
+    "region": "act",
+    "time_of_call": "03 Feb 2026 22:54:47",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "MAWSON",
-    "updated": "03 Feb 2026 22:41:07"
+    "location": "NARRABUNDAH",
+    "updated": "03 Feb 2026 22:58:39"
   },
   {
     "title": "BRASSKNOCKER FIRETRAIL, YOWRIE",
@@ -1165,10 +1127,13 @@
     "latitude": "-34.768871308",
     "longitude": "146.531188965",
     "region": "nsw",
-    "time_of_call": "03 Feb 2026 22:29:00",
+    "time_of_call": "03 Feb 2026 22:54:00",
     "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
+    "status": "Under control",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "NEWELL HWY, GILLENBAH 2700",
     "council_area": "Narrandera",
     "type": "Grass Fire",
@@ -1177,6 +1142,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "3 Feb 2026 22:29"
+    "updated": "3 Feb 2026 22:54"
   }
 ]
