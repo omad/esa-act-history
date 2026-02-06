@@ -15,7 +15,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "07 Feb 2026 06:02:22"
+    "updated": "07 Feb 2026 08:33:15"
   },
   {
     "agency": "Ambulance",
@@ -51,7 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "07 Feb 2026 08:00:58"
+    "updated": "07 Feb 2026 08:29:17"
   },
   {
     "agency": "Ambulance",
@@ -63,13 +63,13 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "07 Feb 2026 07:59:42",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TAYLOR",
-    "updated": "07 Feb 2026 08:03:53"
+    "updated": "07 Feb 2026 08:44:10"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,67 @@
     "longitude": "149.144681",
     "region": "act",
     "time_of_call": "07 Feb 2026 08:09:50",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FRANKLIN",
+    "updated": "07 Feb 2026 08:34:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HUGHES",
+    "id": "009420-07022026",
+    "latitude": "-35.333105",
+    "longitude": "149.094654",
+    "region": "act",
+    "time_of_call": "07 Feb 2026 08:33:13",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "FRANKLIN",
-    "updated": "07 Feb 2026 08:12:39"
+    "location": "HUGHES",
+    "updated": "07 Feb 2026 08:37:54"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - O'CONNOR",
+    "id": "009421-07022026",
+    "latitude": "-35.256876",
+    "longitude": "149.111857",
+    "region": "act",
+    "time_of_call": "07 Feb 2026 08:37:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "O'CONNOR",
+    "updated": "07 Feb 2026 08:44:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "009422-07022026",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "07 Feb 2026 08:42:29",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "07 Feb 2026 08:45:24"
   },
   {
     "agency": "Fire",
@@ -106,7 +160,7 @@
     "warning_level": "Advice",
     "node_id": "6499",
     "banner_check": "",
-    "last_updated": "07 Feb 2026 08:13:52",
+    "last_updated": "07 Feb 2026 08:48:03",
     "latitude": "-35.26218483183694",
     "longitude": "149.16943147615342",
     "polygon": {
@@ -736,7 +790,7 @@
     "latitude": "-29.5670738229999",
     "longitude": "152.79888916",
     "region": "nsw",
-    "time_of_call": "07 Feb 2026 00:15:00",
+    "time_of_call": "07 Feb 2026 07:56:00",
     "event_type": "burnt area",
     "status": "Being controlled",
     "status_description": "",
@@ -751,7 +805,7 @@
     "fire": "Yes",
     "size": "17 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Feb 2026 00:15"
+    "updated": "7 Feb 2026 07:56"
   },
   {
     "title": "RICHARDSON RD, SALT ASH",
@@ -1178,27 +1232,5 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "7 Feb 2026 07:12"
-  },
-  {
-    "title": "FRED REECE WAY, LIGHTNING RIDGE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_645213",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.4432525629999",
-    "longitude": "147.987976074",
-    "region": "nsw",
-    "time_of_call": "07 Feb 2026 07:24:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "FRED REECE WAY, LIGHTNING RIDGE 2834",
-    "council_area": "Walgett",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Feb 2026 07:24"
   }
 ]
