@@ -83,13 +83,13 @@
     "longitude": "149.064968",
     "region": "act",
     "time_of_call": "06 Feb 2026 20:41:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "06 Feb 2026 22:31:31"
+    "updated": "06 Feb 2026 22:44:22"
   },
   {
     "agency": "Ambulance",
@@ -113,24 +113,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MACGREGOR",
-    "id": "009325-06022026",
-    "latitude": "-35.210615",
-    "longitude": "149.013611",
-    "region": "act",
-    "time_of_call": "06 Feb 2026 20:50:39",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MACGREGOR",
-    "updated": "06 Feb 2026 21:48:57"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BRADDON",
     "id": "009333-06022026",
     "latitude": "-35.270314",
@@ -143,7 +125,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "06 Feb 2026 21:47:08"
+    "updated": "06 Feb 2026 22:56:32"
   },
   {
     "agency": "Ambulance",
@@ -209,13 +191,13 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "06 Feb 2026 22:25:39",
-    "status": "On Scene",
+    "status": "Finished",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
+    "status_filter_label": "Finished",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "06 Feb 2026 22:37:54"
+    "updated": "06 Feb 2026 22:53:25"
   },
   {
     "agency": "Ambulance",
@@ -227,13 +209,13 @@
     "longitude": "149.106348",
     "region": "act",
     "time_of_call": "06 Feb 2026 22:38:32",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "06 Feb 2026 22:39:37"
+    "updated": "06 Feb 2026 22:51:12"
   },
   {
     "agency": "Ambulance",
@@ -251,7 +233,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "06 Feb 2026 22:39:32"
+    "updated": "06 Feb 2026 22:50:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT - OAKS ESTATE",
+    "id": "009341-06022026",
+    "latitude": "-35.3400179499",
+    "longitude": "149.22962694",
+    "region": "act",
+    "time_of_call": "06 Feb 2026 22:49:56",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
+    "location": "ELMSALL COURT, GEORGE STREET, OAKS ESTATE, 2620",
+    "updated": "06 Feb 2026 22:59:16"
   },
   {
     "agency": "Fire",
@@ -270,7 +270,7 @@
     "warning_level": "Advice",
     "node_id": "6499",
     "banner_check": "",
-    "last_updated": "06 Feb 2026 22:40:28",
+    "last_updated": "06 Feb 2026 23:00:08",
     "latitude": "-35.26218483183694",
     "longitude": "149.16943147615342",
     "polygon": {
@@ -1319,28 +1319,6 @@
     "updated": "6 Feb 2026 20:07"
   },
   {
-    "title": "BOUNDARY CREEK RD, PALLAL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_645192",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-30.024549484",
-    "longitude": "150.408905029",
-    "region": "nsw",
-    "time_of_call": "06 Feb 2026 21:47:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "BOUNDARY CREEK RD, PALLAL 2404",
-    "council_area": "Gwydir",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "6 Feb 2026 21:47"
-  },
-  {
     "title": "UPHILLS RD, FORBES",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_645195",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1361,5 +1339,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "6 Feb 2026 22:27"
+  },
+  {
+    "title": "BOORALIE RD, TERREY HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_645198",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6789817809999",
+    "longitude": "151.224594116",
+    "region": "nsw",
+    "time_of_call": "06 Feb 2026 22:57:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "BOORALIE RD, TERREY HILLS 2084",
+    "council_area": "Northern Beaches",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Feb 2026 22:57"
+  },
+  {
+    "title": "FIFIELD RD, CONDOBOLIN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_645199",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.911411286",
+    "longitude": "147.432662964",
+    "region": "nsw",
+    "time_of_call": "06 Feb 2026 22:52:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "FIFIELD RD, CONDOBOLIN 2877",
+    "council_area": "Lachlan",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "6 Feb 2026 22:52"
   }
 ]
