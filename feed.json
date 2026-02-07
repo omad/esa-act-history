@@ -63,26 +63,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "STORM OR TREE DAMAGE - HUGHES",
-    "id": "002452-07022026",
-    "latitude": "-35.3311782299",
-    "longitude": "149.0990446099",
-    "region": "act",
-    "time_of_call": "07 Feb 2026 23:22:01",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "STORM OR TREE DAMAGE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
-    "location": "BRAND STREET, HUGHES, 2605",
-    "updated": "08 Feb 2026 03:14:38"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "STORM OR TREE DAMAGE - CURTIN",
     "id": "002454-07022026",
     "latitude": "-35.32786876",
@@ -383,26 +363,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "STORM OR TREE DAMAGE - O'MALLEY",
-    "id": "002527-08022026",
-    "latitude": "-35.3596147399",
-    "longitude": "149.1086723299",
-    "region": "act",
-    "time_of_call": "08 Feb 2026 00:54:59",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "STORM OR TREE DAMAGE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
-    "location": "NGUNAWAL DRIVE, OMALLEY, 2606",
-    "updated": "08 Feb 2026 03:10:30"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "STORM OR TREE DAMAGE - YARRALUMLA",
     "id": "002538-08022026",
     "latitude": "-35.3002349",
@@ -440,22 +400,24 @@
     "updated": "08 Feb 2026 04:00:35"
   },
   {
-    "agency": "Ambulance",
+    "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "009597-08022026",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
+    "title": "STORM OR TREE DAMAGE - GARRAN",
+    "id": "002540-08022026",
+    "latitude": "-35.34040334",
+    "longitude": "149.10974612",
     "region": "act",
-    "time_of_call": "08 Feb 2026 02:37:36",
-    "status": "On Scene",
+    "time_of_call": "08 Feb 2026 04:03:41",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "08 Feb 2026 03:33:01"
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "HENDERSON STREET, GARRAN, 2605",
+    "updated": "08 Feb 2026 04:03:59"
   },
   {
     "agency": "Ambulance",
@@ -473,7 +435,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "08 Feb 2026 04:00:26"
+    "updated": "08 Feb 2026 04:17:34"
   },
   {
     "agency": "Ambulance",
@@ -509,7 +471,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "08 Feb 2026 04:01:29"
+    "updated": "08 Feb 2026 04:01:57"
   },
   {
     "agency": "Ambulance",
@@ -527,7 +489,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CASEY",
-    "updated": "08 Feb 2026 04:00:17"
+    "updated": "08 Feb 2026 04:21:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "009610-08022026",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "08 Feb 2026 04:07:28",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "08 Feb 2026 04:09:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PHILLIP",
+    "id": "009611-08022026",
+    "latitude": "-35.348136",
+    "longitude": "149.090018",
+    "region": "act",
+    "time_of_call": "08 Feb 2026 04:21:59",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PHILLIP",
+    "updated": "08 Feb 2026 04:27:42"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -782,7 +780,7 @@
     "latitude": "-30.9557609559999",
     "longitude": "152.722763062",
     "region": "nsw",
-    "time_of_call": "07 Feb 2026 12:07:00",
+    "time_of_call": "08 Feb 2026 04:26:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -797,15 +795,15 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Feb 2026 12:07"
+    "updated": "8 Feb 2026 04:26"
   },
   {
     "title": "RENSHAW MCGIRR WAY",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_644974",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.9839411639999",
-    "longitude": "148.428055978",
+    "latitude": "-32.9839401249999",
+    "longitude": "148.428054809",
     "region": "nsw",
     "time_of_call": "07 Feb 2026 16:18:00",
     "event_type": "burnt area",
@@ -877,7 +875,7 @@
     "latitude": "-29.6820888519999",
     "longitude": "153.077957153",
     "region": "nsw",
-    "time_of_call": "07 Feb 2026 16:16:00",
+    "time_of_call": "08 Feb 2026 04:18:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -892,7 +890,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Feb 2026 16:16"
+    "updated": "8 Feb 2026 04:18"
   },
   {
     "title": "Goodwin HR",
@@ -924,7 +922,7 @@
     "latitude": "-29.6637001039999",
     "longitude": "152.875015259",
     "region": "nsw",
-    "time_of_call": "07 Feb 2026 14:32:00",
+    "time_of_call": "08 Feb 2026 04:20:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -936,7 +934,7 @@
     "fire": "Yes",
     "size": "3 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Feb 2026 14:32"
+    "updated": "8 Feb 2026 04:20"
   },
   {
     "title": "AVALON RD, BIRGANBIGIL",
@@ -1187,19 +1185,22 @@
     "latitude": "-28.8043880459999",
     "longitude": "152.306579589",
     "region": "nsw",
-    "time_of_call": "07 Feb 2026 06:04:00",
+    "time_of_call": "07 Feb 2026 12:49:00",
     "event_type": "burnt area",
     "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
     "location": "MORGANS CREEK RD, BOOROOK 2372",
     "council_area": "Tenterfield",
     "type": "Bush Fire",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "36 ha",
+    "size": "106 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Feb 2026 06:04"
+    "updated": "7 Feb 2026 12:49"
   },
   {
     "title": "FIFIELD RD, FIFIELD",
@@ -1256,7 +1257,7 @@
     "latitude": "-35.8134231569999",
     "longitude": "150.183410645",
     "region": "nsw",
-    "time_of_call": "07 Feb 2026 13:55:00",
+    "time_of_call": "08 Feb 2026 04:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1268,7 +1269,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Feb 2026 13:55"
+    "updated": "8 Feb 2026 04:22"
   },
   {
     "title": "EWINGAR RIDGE RD, EWINGAR",
@@ -1278,7 +1279,7 @@
     "latitude": "-29.0547542579999",
     "longitude": "152.517852783",
     "region": "nsw",
-    "time_of_call": "07 Feb 2026 14:59:00",
+    "time_of_call": "08 Feb 2026 04:10:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1293,7 +1294,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Feb 2026 14:59"
+    "updated": "8 Feb 2026 04:10"
   },
   {
     "title": "OCONNELL RD, OCONNELL",
@@ -1447,7 +1448,7 @@
     "latitude": "-33.439109802",
     "longitude": "149.712448121",
     "region": "nsw",
-    "time_of_call": "07 Feb 2026 21:01:00",
+    "time_of_call": "08 Feb 2026 04:04:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1462,7 +1463,7 @@
     "fire": "Yes",
     "size": "14 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Feb 2026 21:01"
+    "updated": "8 Feb 2026 04:04"
   },
   {
     "title": "WALLAWAUGH RD, HARGRAVES",
@@ -1665,23 +1666,45 @@
     "updated": "8 Feb 2026 03:47"
   },
   {
-    "title": "DUNKELD RD, DUNKELD",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_645362",
+    "title": "SUMMERLAND WAY, BANYABBA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_645363",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.401748657",
-    "longitude": "149.48399353",
+    "latitude": "-29.343290329",
+    "longitude": "153.006530761",
     "region": "nsw",
-    "time_of_call": "08 Feb 2026 03:44:00",
+    "time_of_call": "08 Feb 2026 04:08:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "DUNKELD RD, DUNKELD 2795",
-    "council_area": "Bathurst",
+    "location": "SUMMERLAND WAY, BANYABBA 2460",
+    "council_area": "Clarence Valley",
     "type": "Car Fire",
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Feb 2026 03:44"
+    "updated": "8 Feb 2026 04:08"
+  },
+  {
+    "title": "AUMUNA RD, TERREY HILLS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_645364",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.6926269529999",
+    "longitude": "151.219543457",
+    "region": "nsw",
+    "time_of_call": "08 Feb 2026 04:17:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Not Applicable",
+    "location": "TERREY HILLS TAVERN, AUMUNA RD, TERREY HILLS 2084",
+    "council_area": "Northern Beaches",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "8 Feb 2026 04:17"
   }
 ]
