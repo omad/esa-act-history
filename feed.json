@@ -263,26 +263,6 @@
     "agency": "Fire",
     "alert_level": "",
     "event_type": "incident",
-    "title": "STORM OR TREE DAMAGE - O'MALLEY",
-    "id": "002491-07022026",
-    "latitude": "-35.34628783",
-    "longitude": "149.1114439199",
-    "region": "act",
-    "time_of_call": "07 Feb 2026 23:55:33",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "STORM OR TREE DAMAGE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
-    "location": "WALLANGARA STREET, OMALLEY, 2606",
-    "updated": "08 Feb 2026 02:43:56"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "FLOOD DAMAGE - WANNIASSA",
     "id": "002492-07022026",
     "latitude": "-35.3862548299",
@@ -298,26 +278,6 @@
     "type_icon": "/sites/default/files/incident-type-svgs/home-0.svg",
     "location": "SACHSE PLACE, WANNIASSA, 2903",
     "updated": "08 Feb 2026 00:47:26"
-  },
-  {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "FLOOD DAMAGE - CURTIN",
-    "id": "002495-07022026",
-    "latitude": "-35.3341574199",
-    "longitude": "149.0821249299",
-    "region": "act",
-    "time_of_call": "07 Feb 2026 23:58:51",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "FLOOD DAMAGE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/home-0.svg",
-    "location": "COLLIER STREET, CURTIN, 2605",
-    "updated": "08 Feb 2026 02:53:50"
   },
   {
     "agency": "Fire",
@@ -460,6 +420,26 @@
     "updated": "08 Feb 2026 03:38:19"
   },
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "STORM OR TREE DAMAGE - RED HILL",
+    "id": "002539-08022026",
+    "latitude": "-35.3360045",
+    "longitude": "149.1230088899",
+    "region": "act",
+    "time_of_call": "08 Feb 2026 04:00:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_2.svg",
+    "status_filter_label": "Active",
+    "type": "STORM OR TREE DAMAGE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/STORM%20OR%20TREE%20DAMAGE.svg",
+    "location": "SCARBOROUGH STREET, RED HILL, 2603",
+    "updated": "08 Feb 2026 04:00:35"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -493,7 +473,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "08 Feb 2026 03:32:42"
+    "updated": "08 Feb 2026 04:00:26"
   },
   {
     "agency": "Ambulance",
@@ -505,13 +485,49 @@
     "longitude": "149.143165",
     "region": "act",
     "time_of_call": "08 Feb 2026 03:24:22",
-    "status": "Units On Route",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BONNER",
-    "updated": "08 Feb 2026 03:39:40"
+    "updated": "08 Feb 2026 03:54:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "009607-08022026",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "08 Feb 2026 03:51:50",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "08 Feb 2026 04:01:29"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CASEY",
+    "id": "009608-08022026",
+    "latitude": "-35.167812",
+    "longitude": "149.097085",
+    "region": "act",
+    "time_of_call": "08 Feb 2026 03:53:46",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CASEY",
+    "updated": "08 Feb 2026 04:00:17"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -1052,7 +1068,7 @@
     "latitude": "-33.863689423",
     "longitude": "146.208663941",
     "region": "nsw",
-    "time_of_call": "07 Feb 2026 17:37:00",
+    "time_of_call": "08 Feb 2026 03:40:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1065,9 +1081,9 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
     "fire": "Yes",
-    "size": "132 ha",
+    "size": "133 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "7 Feb 2026 17:37"
+    "updated": "8 Feb 2026 03:40"
   },
   {
     "title": "Milvale Rd, Young",
@@ -1102,7 +1118,7 @@
     "latitude": "-32.534599304",
     "longitude": "148.467285156",
     "region": "nsw",
-    "time_of_call": "08 Feb 2026 00:06:00",
+    "time_of_call": "08 Feb 2026 03:45:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1114,7 +1130,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Feb 2026 00:06"
+    "updated": "8 Feb 2026 03:45"
   },
   {
     "title": "TOP OF BOX HILL WONDALGA BATLOW RD, WONDALGA",
@@ -1149,7 +1165,7 @@
     "latitude": "-34.6178779599999",
     "longitude": "149.622680664",
     "region": "nsw",
-    "time_of_call": "08 Feb 2026 00:07:00",
+    "time_of_call": "08 Feb 2026 03:55:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1161,7 +1177,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Feb 2026 00:07"
+    "updated": "8 Feb 2026 03:55"
   },
   {
     "title": "MORGANS CREEK RD, BOOROOK",
@@ -1215,7 +1231,7 @@
     "latitude": "-35.528785706",
     "longitude": "147.052352905",
     "region": "nsw",
-    "time_of_call": "08 Feb 2026 00:07:00",
+    "time_of_call": "08 Feb 2026 03:51:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1230,7 +1246,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Feb 2026 00:07"
+    "updated": "8 Feb 2026 03:51"
   },
   {
     "title": "RD, WOODLANDS",
@@ -1312,7 +1328,7 @@
     "latitude": "-33.6901206969999",
     "longitude": "151.031204223",
     "region": "nsw",
-    "time_of_call": "08 Feb 2026 00:09:00",
+    "time_of_call": "08 Feb 2026 03:52:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1324,7 +1340,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Feb 2026 00:09"
+    "updated": "8 Feb 2026 03:52"
   },
   {
     "title": "PACIFIC HWY, JONES ISLAND",
@@ -1636,9 +1652,9 @@
     "latitude": "-33.130867004",
     "longitude": "151.615570068",
     "region": "nsw",
-    "time_of_call": "08 Feb 2026 03:19:00",
+    "time_of_call": "08 Feb 2026 03:47:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "A43 (PACIFIC HWY), CAMS WHARF 2281",
     "council_area": "Lake Macquarie",
@@ -1646,19 +1662,19 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Feb 2026 03:19"
+    "updated": "8 Feb 2026 03:47"
   },
   {
     "title": "DUNKELD RD, DUNKELD",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_645362",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.405368805",
-    "longitude": "149.483963013",
+    "latitude": "-33.401748657",
+    "longitude": "149.48399353",
     "region": "nsw",
-    "time_of_call": "08 Feb 2026 03:27:00",
+    "time_of_call": "08 Feb 2026 03:44:00",
     "event_type": "burnt area",
-    "status": "Not yet controlled",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "DUNKELD RD, DUNKELD 2795",
     "council_area": "Bathurst",
@@ -1666,6 +1682,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "8 Feb 2026 03:27"
+    "updated": "8 Feb 2026 03:44"
   }
 ]
