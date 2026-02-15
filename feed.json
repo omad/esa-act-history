@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "CAR FIRE - FADDEN",
-    "id": "003110-16022026",
-    "latitude": "-35.41408",
-    "longitude": "149.11636",
-    "region": "act",
-    "time_of_call": "16 Feb 2026 05:28:18",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "CAR FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-fire-0.svg",
-    "location": "ROUNDABOUT, KELLETT STREET, ISABELLA DRIVE, FADDEN, 2904",
-    "updated": "16 Feb 2026 06:29:57"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -29,13 +9,13 @@
     "longitude": "149.06111",
     "region": "act",
     "time_of_call": "16 Feb 2026 05:52:44",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "16 Feb 2026 06:51:10"
+    "updated": "16 Feb 2026 07:27:35"
   },
   {
     "agency": "Ambulance",
@@ -53,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FYSHWICK",
-    "updated": "16 Feb 2026 06:48:30"
+    "updated": "16 Feb 2026 07:27:12"
   },
   {
     "agency": "Ambulance",
@@ -71,25 +51,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "16 Feb 2026 06:38:36"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CASEY",
-    "id": "011837-16022026",
-    "latitude": "-35.167812",
-    "longitude": "149.097085",
-    "region": "act",
-    "time_of_call": "16 Feb 2026 06:27:19",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CASEY",
-    "updated": "16 Feb 2026 06:47:03"
+    "updated": "16 Feb 2026 07:25:28"
   },
   {
     "agency": "Ambulance",
@@ -107,7 +69,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "PALMERSTON",
-    "updated": "16 Feb 2026 06:52:11"
+    "updated": "16 Feb 2026 07:27:33"
   },
   {
     "agency": "Ambulance",
@@ -119,13 +81,13 @@
     "longitude": "149.161141",
     "region": "act",
     "time_of_call": "16 Feb 2026 06:47:58",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "16 Feb 2026 06:52:43"
+    "updated": "16 Feb 2026 07:14:10"
   },
   {
     "agency": "Ambulance",
@@ -137,13 +99,13 @@
     "longitude": "149.06067",
     "region": "act",
     "time_of_call": "16 Feb 2026 06:48:35",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
-    "updated": "16 Feb 2026 06:52:48"
+    "updated": "16 Feb 2026 07:30:40"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -669,9 +631,9 @@
     "latitude": "-34.7359809879999",
     "longitude": "143.711242676",
     "region": "nsw",
-    "time_of_call": "16 Feb 2026 06:14:00",
+    "time_of_call": "16 Feb 2026 06:58:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "STURT HWY, YANGA 2711",
     "council_area": "Murray River",
@@ -681,26 +643,50 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2026 06:14"
+    "updated": "16 Feb 2026 06:58"
   },
   {
-    "title": "PRINCES HWY, TILBA TILBA",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_646064",
+    "title": "CAPTAINS FLAT RD, CARWOOLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_646065",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-36.336826324",
-    "longitude": "150.055053711",
+    "latitude": "-35.417240143",
+    "longitude": "149.384735107",
     "region": "nsw",
-    "time_of_call": "16 Feb 2026 06:26:00",
+    "time_of_call": "16 Feb 2026 07:05:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "CARWOOLA, CAPTAINS FLAT RD, CARWOOLA 2620",
+    "council_area": "Queanbeyan-Palerang",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "16 Feb 2026 07:05"
+  },
+  {
+    "title": "CHANDOS RD, HORSLEY PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_646066",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.833091736",
+    "longitude": "150.862335205",
+    "region": "nsw",
+    "time_of_call": "16 Feb 2026 07:26:00",
     "event_type": "burnt area",
     "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "PRINCES HWY, TILBA TILBA 2546",
-    "council_area": "Eurobodalla",
-    "type": "Flood/Storm/Tree Down",
+    "location": "CHANDOS RD, HORSLEY PARK 2175",
+    "council_area": "Fairfield",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2026 06:26"
+    "updated": "16 Feb 2026 07:26"
   }
 ]
