@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "Advice",
-    "event_type": "incident",
-    "title": "GRASS AND BUSH FIRE - MITCHELL",
-    "id": "003107-16022026",
-    "latitude": "-35.2083091736",
-    "longitude": "149.1444702148",
-    "region": "act",
-    "time_of_call": "16 Feb 2026 00:07:02",
-    "status": "Out / Completed",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "GRASS AND BUSH FIRE",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_4.svg",
-    "location": "WELLS STATION DRIVE, FLEMINGTON ROAD, GUNGAHLIN, 0000",
-    "updated": "16 Feb 2026 00:58:12"
-  },
-  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -53,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GREENWAY",
-    "updated": "16 Feb 2026 00:55:47"
+    "updated": "16 Feb 2026 01:46:40"
   },
   {
     "agency": "Ambulance",
@@ -65,13 +45,31 @@
     "longitude": "149.058387",
     "region": "act",
     "time_of_call": "16 Feb 2026 01:27:19",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "16 Feb 2026 01:51:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AMAROO",
+    "id": "011813-16022026",
+    "latitude": "-35.172039",
+    "longitude": "149.129625",
+    "region": "act",
+    "time_of_call": "16 Feb 2026 01:58:29",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "WESTON",
-    "updated": "16 Feb 2026 01:34:18"
+    "location": "AMAROO",
+    "updated": "16 Feb 2026 01:58:49"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -575,7 +573,7 @@
     "latitude": "-35.2808113099999",
     "longitude": "150.422622681",
     "region": "nsw",
-    "time_of_call": "16 Feb 2026 00:51:00",
+    "time_of_call": "16 Feb 2026 01:44:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -587,39 +585,19 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2026 00:51"
-  },
-  {
-    "title": "BOYD ST, AUSTRAL",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_646052",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.931144714",
-    "longitude": "150.790008544",
-    "region": "nsw",
-    "time_of_call": "16 Feb 2026 01:15:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "BOYD ST, AUSTRAL 2179",
-    "council_area": "Liverpool",
-    "type": "Flood/Storm/Tree Down",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2026 01:15"
+    "updated": "16 Feb 2026 01:44"
   },
   {
     "title": "LIMEBURNERS CREEK RD, CLARENCE TOWN",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_646055",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-32.603530884",
-    "longitude": "151.817047119",
+    "latitude": "-32.594940186",
+    "longitude": "151.811294555",
     "region": "nsw",
-    "time_of_call": "16 Feb 2026 01:25:00",
+    "time_of_call": "16 Feb 2026 01:37:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "LIMEBURNERS CREEK RD, CLARENCE TOWN 2321",
     "council_area": "Dungog",
@@ -627,6 +605,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2026 01:25"
+    "updated": "16 Feb 2026 01:37"
   }
 ]
