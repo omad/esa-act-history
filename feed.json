@@ -17,7 +17,7 @@
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
     "location": "TRANQUIL WATERS, FLORENCE TAYLOR STREET, GREENWAY, 2900",
-    "updated": "16 Feb 2026 10:23:52"
+    "updated": "16 Feb 2026 10:47:32"
   },
   {
     "agency": "Fire - Ambulance",
@@ -29,15 +29,15 @@
     "longitude": "149.1363677979",
     "region": "act",
     "time_of_call": "16 Feb 2026 10:13:22",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
-    "status_filter_label": "Active",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "VETERINARY HOSPITAL, BARTON HIGHWAY, LYNEHAM, 2602",
-    "updated": "16 Feb 2026 10:22:04"
+    "updated": "16 Feb 2026 10:45:42"
   },
   {
     "agency": "Ambulance",
@@ -127,7 +127,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "16 Feb 2026 10:22:37"
+    "updated": "16 Feb 2026 10:37:03"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MITCHELL",
-    "updated": "16 Feb 2026 10:31:38"
+    "updated": "16 Feb 2026 10:43:19"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLOREY",
-    "updated": "16 Feb 2026 10:18:03"
+    "updated": "16 Feb 2026 10:54:22"
   },
   {
     "agency": "Ambulance",
@@ -217,7 +217,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "PEARCE",
-    "updated": "16 Feb 2026 10:21:20"
+    "updated": "16 Feb 2026 10:44:30"
   },
   {
     "agency": "Ambulance",
@@ -236,6 +236,78 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
     "updated": "16 Feb 2026 10:30:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FYSHWICK",
+    "id": "011887-16022026",
+    "latitude": "-35.325888",
+    "longitude": "149.174707",
+    "region": "act",
+    "time_of_call": "16 Feb 2026 10:38:52",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FYSHWICK",
+    "updated": "16 Feb 2026 10:46:21"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - EVATT",
+    "id": "011889-16022026",
+    "latitude": "-35.212001",
+    "longitude": "149.066294",
+    "region": "act",
+    "time_of_call": "16 Feb 2026 10:47:34",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "EVATT",
+    "updated": "16 Feb 2026 10:56:01"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BELCONNEN",
+    "id": "011890-16022026",
+    "latitude": "-35.235936",
+    "longitude": "149.066372",
+    "region": "act",
+    "time_of_call": "16 Feb 2026 10:48:57",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BELCONNEN",
+    "updated": "16 Feb 2026 10:53:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "011891-16022026",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "16 Feb 2026 10:52:23",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "16 Feb 2026 10:56:15"
   },
   {
     "title": "Carwoola Station Ag Burn",
@@ -736,7 +808,7 @@
     "latitude": "-33.2045516969999",
     "longitude": "151.458740234",
     "region": "nsw",
-    "time_of_call": "16 Feb 2026 10:03:00",
+    "time_of_call": "16 Feb 2026 10:49:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -748,7 +820,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Feb 2026 10:03"
+    "updated": "16 Feb 2026 10:49"
   },
   {
     "title": "THE BUCKETTS WAY, BAKERS CREEK",
