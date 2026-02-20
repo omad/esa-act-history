@@ -101,13 +101,13 @@
     "longitude": "149.058056",
     "region": "act",
     "time_of_call": "20 Feb 2026 23:37:04",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "21 Feb 2026 01:18:10"
+    "updated": "21 Feb 2026 02:31:38"
   },
   {
     "agency": "Ambulance",
@@ -131,24 +131,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "013174-21022026",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "21 Feb 2026 00:39:04",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "21 Feb 2026 01:37:30"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - GOWRIE",
     "id": "013176-21022026",
     "latitude": "-35.411365",
@@ -161,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GOWRIE",
-    "updated": "21 Feb 2026 01:14:24"
+    "updated": "21 Feb 2026 02:10:37"
   },
   {
     "agency": "Ambulance",
@@ -179,25 +161,25 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SCULLIN",
-    "updated": "21 Feb 2026 01:49:15"
+    "updated": "21 Feb 2026 02:33:33"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - THEODORE",
-    "id": "013185-21022026",
-    "latitude": "-35.449632",
-    "longitude": "149.120754",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "013188-21022026",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
     "region": "act",
-    "time_of_call": "21 Feb 2026 01:17:04",
-    "status": "On Scene",
+    "time_of_call": "21 Feb 2026 02:41:27",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "THEODORE",
-    "updated": "21 Feb 2026 01:49:48"
+    "location": "CITY",
+    "updated": "21 Feb 2026 02:46:58"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -475,8 +457,8 @@
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_647398",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-34.622679026",
-    "longitude": "146.210474112",
+    "latitude": "-34.622680664",
+    "longitude": "146.210479736",
     "region": "nsw",
     "time_of_call": "20 Feb 2026 19:16:00",
     "event_type": "burnt area",
@@ -997,5 +979,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "21 Feb 2026 00:07"
+  },
+  {
+    "title": "PACIFIC HWY, SWANSEA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_647545",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.087459564",
+    "longitude": "151.638076783",
+    "region": "nsw",
+    "time_of_call": "21 Feb 2026 02:40:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC HWY, SWANSEA 2281",
+    "council_area": "Lake Macquarie",
+    "type": "Structure Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire-building_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "21 Feb 2026 02:40"
   }
 ]
