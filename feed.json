@@ -81,31 +81,13 @@
     "longitude": "149.144681",
     "region": "act",
     "time_of_call": "22 Feb 2026 04:44:17",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
-    "updated": "22 Feb 2026 04:48:39"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "013522-22022026",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
-    "region": "act",
-    "time_of_call": "22 Feb 2026 05:19:06",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "22 Feb 2026 06:14:02"
+    "updated": "22 Feb 2026 06:47:38"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONCRIEFF",
-    "updated": "22 Feb 2026 06:09:01"
+    "updated": "22 Feb 2026 06:31:00"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +135,13 @@
     "longitude": "149.135874",
     "region": "act",
     "time_of_call": "22 Feb 2026 05:49:12",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "22 Feb 2026 05:51:32"
+    "updated": "22 Feb 2026 06:44:27"
   },
   {
     "agency": "Ambulance",
@@ -171,13 +153,13 @@
     "longitude": "149.133842",
     "region": "act",
     "time_of_call": "22 Feb 2026 05:55:55",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "22 Feb 2026 06:05:19"
+    "updated": "22 Feb 2026 06:49:04"
   },
   {
     "agency": "Ambulance",
@@ -195,7 +177,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "22 Feb 2026 06:28:35"
+    "updated": "22 Feb 2026 06:32:13"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "013528-22022026",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "22 Feb 2026 06:34:13",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WESTON",
+    "updated": "22 Feb 2026 06:45:59"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -1083,5 +1083,52 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Feb 2026 06:16"
+  },
+  {
+    "title": "BUNNALOO RD, BUNNALOO",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_647697",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.797355652",
+    "longitude": "144.679214478",
+    "region": "nsw",
+    "time_of_call": "22 Feb 2026 06:31:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "BUNNALOO RD, BUNNALOO 2731",
+    "council_area": "Murray River",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "22 Feb 2026 06:31"
+  },
+  {
+    "title": "Heath Cr, Griffith",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_647698",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.2968",
+    "longitude": "146.024484",
+    "region": "nsw",
+    "time_of_call": "22 Feb 2026 06:47:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Heath Cr, Griffith, NSW 2680",
+    "council_area": "Griffith",
+    "type": "Bush Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "22 Feb 2026 06:47"
   }
 ]
