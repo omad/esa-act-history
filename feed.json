@@ -69,7 +69,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MONASH",
-    "updated": "23 Feb 2026 04:24:56"
+    "updated": "23 Feb 2026 04:37:27"
   },
   {
     "agency": "Ambulance",
@@ -87,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "WESTON",
-    "updated": "23 Feb 2026 04:27:50"
+    "updated": "23 Feb 2026 04:47:32"
   },
   {
     "agency": "Ambulance",
@@ -99,13 +99,13 @@
     "longitude": "149.066294",
     "region": "act",
     "time_of_call": "23 Feb 2026 04:17:39",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "EVATT",
-    "updated": "23 Feb 2026 04:28:51"
+    "updated": "23 Feb 2026 04:47:38"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +117,31 @@
     "longitude": "149.105924",
     "region": "act",
     "time_of_call": "23 Feb 2026 04:29:03",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TAYLOR",
+    "updated": "23 Feb 2026 04:48:11"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GORDON",
+    "id": "013770-23022026",
+    "latitude": "-35.459685",
+    "longitude": "149.084101",
+    "region": "act",
+    "time_of_call": "23 Feb 2026 04:44:35",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "TAYLOR",
-    "updated": "23 Feb 2026 04:32:35"
+    "location": "GORDON",
+    "updated": "23 Feb 2026 04:52:46"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -365,7 +383,7 @@
     "latitude": "-34.59627533",
     "longitude": "146.222183228",
     "region": "nsw",
-    "time_of_call": "22 Feb 2026 10:27:00",
+    "time_of_call": "23 Feb 2026 04:48:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -377,7 +395,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Feb 2026 10:27"
+    "updated": "23 Feb 2026 04:48"
   },
   {
     "title": "RUWOLTS RD, BOOMANOOMANA",
@@ -387,7 +405,7 @@
     "latitude": "-35.957759857",
     "longitude": "145.844863892",
     "region": "nsw",
-    "time_of_call": "22 Feb 2026 10:25:00",
+    "time_of_call": "23 Feb 2026 04:47:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -399,7 +417,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Feb 2026 10:25"
+    "updated": "23 Feb 2026 04:47"
   },
   {
     "title": "FCNSW HR - Monterey Road",
@@ -522,7 +540,7 @@
     "latitude": "-28.927513123",
     "longitude": "153.19078064",
     "region": "nsw",
-    "time_of_call": "22 Feb 2026 14:05:00",
+    "time_of_call": "23 Feb 2026 04:50:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -534,7 +552,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "22 Feb 2026 14:05"
+    "updated": "23 Feb 2026 04:50"
   },
   {
     "title": "BOURBAH ST, GULARGAMBONE",
@@ -940,5 +958,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Feb 2026 22:45"
+  },
+  {
+    "title": "(PRINCES HWY), BODALLA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_647813",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-36.103538514",
+    "longitude": "150.055496216",
+    "region": "nsw",
+    "time_of_call": "23 Feb 2026 04:45:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "A1 (PRINCES HWY), BODALLA 2545",
+    "council_area": "Eurobodalla",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "23 Feb 2026 04:45"
   }
 ]
