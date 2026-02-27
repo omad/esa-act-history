@@ -33,7 +33,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "RED HILL",
-    "updated": "28 Feb 2026 07:36:04"
+    "updated": "28 Feb 2026 08:13:08"
   },
   {
     "agency": "Ambulance",
@@ -51,25 +51,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
-    "updated": "28 Feb 2026 07:50:19"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CHIFLEY",
-    "id": "015172-28022026",
-    "latitude": "-35.351526",
-    "longitude": "149.076955",
-    "region": "act",
-    "time_of_call": "28 Feb 2026 07:34:58",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CHIFLEY",
-    "updated": "28 Feb 2026 07:54:03"
+    "updated": "28 Feb 2026 08:31:38"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +63,31 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "28 Feb 2026 07:46:41",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "28 Feb 2026 07:56:44"
+    "updated": "28 Feb 2026 08:07:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CASEY",
+    "id": "015176-28022026",
+    "latitude": "-35.167812",
+    "longitude": "149.097085",
+    "region": "act",
+    "time_of_call": "28 Feb 2026 08:16:09",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CASEY",
+    "updated": "28 Feb 2026 08:28:10"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -790,9 +790,9 @@
     "latitude": "-35.1142196659999",
     "longitude": "147.068634033",
     "region": "nsw",
-    "time_of_call": "28 Feb 2026 07:47:00",
+    "time_of_call": "28 Feb 2026 08:23:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "LOCKHART RD, COLLINGULLIE 2650",
     "council_area": "Wagga Wagga",
@@ -800,6 +800,48 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Feb 2026 07:47"
+    "updated": "28 Feb 2026 08:23"
+  },
+  {
+    "title": "PACIFIC MTWY, JILLIBY",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_648369",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.251125336",
+    "longitude": "151.404495239",
+    "region": "nsw",
+    "time_of_call": "28 Feb 2026 08:29:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "PACIFIC MTWY, JILLIBY 2259",
+    "council_area": "Central Coast",
+    "type": "Assist Other Agency",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Feb 2026 08:29"
+  },
+  {
+    "title": "LISMORE RD, BINNA BURRA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_648370",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-28.709564209",
+    "longitude": "153.489959716",
+    "region": "nsw",
+    "time_of_call": "28 Feb 2026 08:27:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "LISMORE RD, BINNA BURRA 2479",
+    "council_area": "Byron",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "28 Feb 2026 08:27"
   }
 ]
