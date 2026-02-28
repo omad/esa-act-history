@@ -51,43 +51,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "01 Mar 2026 01:15:58"
+    "updated": "01 Mar 2026 01:52:34"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FORDE",
-    "id": "015386-01032026",
-    "latitude": "-35.169175",
-    "longitude": "149.145987",
+    "title": "AMBULANCE RESPONSE - FRANKLIN",
+    "id": "015388-01032026",
+    "latitude": "-35.199225",
+    "longitude": "149.144681",
     "region": "act",
-    "time_of_call": "01 Mar 2026 00:25:07",
+    "time_of_call": "01 Mar 2026 01:35:34",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "FORDE",
-    "updated": "01 Mar 2026 01:11:40"
+    "location": "FRANKLIN",
+    "updated": "01 Mar 2026 01:50:08"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "015387-01032026",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
+    "title": "AMBULANCE RESPONSE - CASEY",
+    "id": "015389-01032026",
+    "latitude": "-35.167812",
+    "longitude": "149.097085",
     "region": "act",
-    "time_of_call": "01 Mar 2026 00:42:58",
-    "status": "On Scene",
+    "time_of_call": "01 Mar 2026 01:40:15",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "01 Mar 2026 00:59:10"
+    "location": "CASEY",
+    "updated": "01 Mar 2026 01:51:07"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -210,7 +210,7 @@
     "latitude": "-28.927513123",
     "longitude": "153.19078064",
     "region": "nsw",
-    "time_of_call": "27 Feb 2026 18:56:00",
+    "time_of_call": "01 Mar 2026 01:45:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -222,7 +222,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "27 Feb 2026 18:56"
+    "updated": "1 Mar 2026 01:45"
   },
   {
     "title": "GUNDONG RD, TOMINGLEY",
@@ -486,7 +486,7 @@
     "latitude": "-31.8167934419999",
     "longitude": "149.176956177",
     "region": "nsw",
-    "time_of_call": "28 Feb 2026 17:01:00",
+    "time_of_call": "01 Mar 2026 01:48:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -498,7 +498,7 @@
     "fire": "Yes",
     "size": "19 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "28 Feb 2026 17:01"
+    "updated": "1 Mar 2026 01:48"
   },
   {
     "title": "TOMINGLEY RD, NARROMINE",
@@ -686,26 +686,6 @@
     "updated": "28 Feb 2026 23:42"
   },
   {
-    "title": "FARADAY ST, MITTAGONG",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_648444",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-34.4556694029999",
-    "longitude": "150.441894532",
-    "region": "nsw",
-    "time_of_call": "01 Mar 2026 00:29:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "FARADAY ST, MITTAGONG 2575",
-    "council_area": "Wingecarribee",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "1 Mar 2026 00:29"
-  },
-  {
     "title": "(MONARO HWY), COLINTON",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_648446",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -726,5 +706,27 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "1 Mar 2026 00:57"
+  },
+  {
+    "title": "GEORGE RUSSELL DR, WOODSTOCK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_648450",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.690151215",
+    "longitude": "148.767883301",
+    "region": "nsw",
+    "time_of_call": "01 Mar 2026 01:12:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "GEORGE RUSSELL DR, WOODSTOCK 2793",
+    "council_area": "Cowra",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "1 Mar 2026 01:12"
   }
 ]
