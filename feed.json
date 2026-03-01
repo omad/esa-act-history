@@ -83,13 +83,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "01 Mar 2026 23:44:27",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "02 Mar 2026 01:38:08"
+    "updated": "02 Mar 2026 02:51:14"
   },
   {
     "agency": "Ambulance",
@@ -119,31 +119,13 @@
     "longitude": "149.091126",
     "region": "act",
     "time_of_call": "02 Mar 2026 01:17:39",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MONASH",
-    "updated": "02 Mar 2026 02:27:20"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - HIGGINS",
-    "id": "015622-02032026",
-    "latitude": "-35.230526",
-    "longitude": "149.025052",
-    "region": "act",
-    "time_of_call": "02 Mar 2026 01:22:30",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "HIGGINS",
-    "updated": "02 Mar 2026 02:15:31"
+    "location": "MONASH",
+    "updated": "02 Mar 2026 02:36:31"
   },
   {
     "agency": "Ambulance",
@@ -161,7 +143,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "02 Mar 2026 02:14:29"
+    "updated": "02 Mar 2026 02:31:03"
   },
   {
     "agency": "Ambulance",
@@ -197,25 +179,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "RICHARDSON",
-    "updated": "02 Mar 2026 01:35:23"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GORDON",
-    "id": "015629-02032026",
-    "latitude": "-35.459685",
-    "longitude": "149.084101",
-    "region": "act",
-    "time_of_call": "02 Mar 2026 01:49:13",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GORDON",
-    "updated": "02 Mar 2026 02:14:07"
+    "updated": "02 Mar 2026 02:32:22"
   },
   {
     "agency": "Ambulance",
@@ -233,7 +197,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STRATHNAIRN",
-    "updated": "02 Mar 2026 02:12:55"
+    "updated": "02 Mar 2026 02:43:22"
   },
   {
     "agency": "Ambulance",
@@ -263,13 +227,13 @@
     "longitude": "149.084101",
     "region": "act",
     "time_of_call": "02 Mar 2026 02:26:53",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GORDON",
-    "updated": "02 Mar 2026 02:28:35"
+    "updated": "02 Mar 2026 02:35:44"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -864,5 +828,30 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "2 Mar 2026 00:09"
+  },
+  {
+    "title": "Campbell St, Inverell",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_648544",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-29.7763899999999",
+    "longitude": "151.11181",
+    "region": "nsw",
+    "time_of_call": "02 Mar 2026 02:49:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "status_description": "",
+    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
+    "status_filter_label": "Active",
+    "alert_level": "Advice",
+    "location": "Campbell St, Inverell, NSW 2360",
+    "council_area": "Inverell",
+    "type": "Grass Fire",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "2 Mar 2026 02:49"
   }
 ]
