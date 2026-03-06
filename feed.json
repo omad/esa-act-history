@@ -51,7 +51,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "07 Mar 2026 07:30:05"
+    "updated": "07 Mar 2026 08:00:27"
   },
   {
     "agency": "Ambulance",
@@ -70,24 +70,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
     "updated": "07 Mar 2026 07:23:04"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FRASER",
-    "id": "016971-07032026",
-    "latitude": "-35.189989",
-    "longitude": "149.043755",
-    "region": "act",
-    "time_of_call": "07 Mar 2026 06:40:45",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FRASER",
-    "updated": "07 Mar 2026 06:48:56"
   },
   {
     "agency": "Ambulance",
@@ -123,7 +105,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "07 Mar 2026 07:37:07"
+    "updated": "07 Mar 2026 07:45:55"
   },
   {
     "agency": "Ambulance",
@@ -135,13 +117,13 @@
     "longitude": "149.05509",
     "region": "act",
     "time_of_call": "07 Mar 2026 07:38:49",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "FOREST ROAD, BICENTENNIAL NATIONAL TRAIL, MOLONGLO VALLEY, BICENTENNIAL NATIONAL TRAIL",
-    "updated": "07 Mar 2026 07:42:14"
+    "updated": "07 Mar 2026 07:46:03"
   },
   {
     "agency": "Ambulance",
@@ -159,7 +141,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "07 Mar 2026 07:40:46"
+    "updated": "07 Mar 2026 07:50:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - AINSLIE",
+    "id": "016978-07032026",
+    "latitude": "-35.262117",
+    "longitude": "149.144037",
+    "region": "act",
+    "time_of_call": "07 Mar 2026 07:44:37",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "AINSLIE",
+    "updated": "07 Mar 2026 07:54:11"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -651,25 +651,25 @@
     "updated": "7 Mar 2026 07:03"
   },
   {
-    "title": "BOWLING CLUB ENDEAVOUR RD, MOULAMEIN",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_649046",
+    "title": "TANDER ST, ORAN PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_649049",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-35.091571808",
-    "longitude": "144.030197144",
+    "latitude": "-34.0057678219999",
+    "longitude": "150.737625122",
     "region": "nsw",
-    "time_of_call": "07 Mar 2026 07:27:00",
+    "time_of_call": "07 Mar 2026 07:48:00",
     "event_type": "burnt area",
-    "status": "Under control",
+    "status": "Responding",
     "alert_level": "Not Applicable",
-    "location": "BOWLING CLUB ENDEAVOUR RD, MOULAMEIN 2733",
-    "council_area": "Murray River",
-    "type": "Other",
+    "location": "TANDER ST, ORAN PARK 2570",
+    "council_area": "Camden",
+    "type": "MVA/Transport",
     "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/incident-other.svg",
-    "fire": "Yes",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
     "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "7 Mar 2026 07:27"
+    "responsible_agency": "Fire and Rescue NSW",
+    "updated": "7 Mar 2026 07:48"
   }
 ]
