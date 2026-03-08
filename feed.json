@@ -63,13 +63,13 @@
     "longitude": "149.101598",
     "region": "act",
     "time_of_call": "09 Mar 2026 04:07:20",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DEAKIN",
-    "updated": "09 Mar 2026 04:29:05"
+    "updated": "09 Mar 2026 04:50:35"
   },
   {
     "agency": "Ambulance",
@@ -81,13 +81,31 @@
     "longitude": "149.140719",
     "region": "act",
     "time_of_call": "09 Mar 2026 04:12:47",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "REID",
+    "updated": "09 Mar 2026 04:50:50"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WESTON",
+    "id": "017481-09032026",
+    "latitude": "-35.335896",
+    "longitude": "149.058387",
+    "region": "act",
+    "time_of_call": "09 Mar 2026 04:41:45",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "REID",
-    "updated": "09 Mar 2026 04:25:42"
+    "location": "WESTON",
+    "updated": "09 Mar 2026 04:45:55"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -527,5 +545,27 @@
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
     "updated": "8 Mar 2026 18:27"
+  },
+  {
+    "title": "PATONGA DR, PATONGA",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_649207",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.5505218509999",
+    "longitude": "151.273162842",
+    "region": "nsw",
+    "time_of_call": "09 Mar 2026 04:51:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "PATONGA DR, PATONGA 2256",
+    "council_area": "Central Coast",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "9 Mar 2026 04:51"
   }
 ]
