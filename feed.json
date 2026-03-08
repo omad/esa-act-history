@@ -75,24 +75,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
-    "id": "017464-09032026",
-    "latitude": "-35.184984",
-    "longitude": "149.135062",
-    "region": "act",
-    "time_of_call": "09 Mar 2026 01:30:25",
-    "status": "Resource Allocation Pending",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
-    "type": "AMBULANCE RESPONSE",
-    "location": "GUNGAHLIN",
-    "updated": "09 Mar 2026 01:55:47"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CHISHOLM",
     "id": "017465-09032026",
     "latitude": "-35.422993",
@@ -105,7 +87,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CHISHOLM",
-    "updated": "09 Mar 2026 02:28:15"
+    "updated": "09 Mar 2026 02:45:03"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +123,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "09 Mar 2026 02:31:20"
+    "updated": "09 Mar 2026 02:43:19"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +135,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "09 Mar 2026 02:04:14",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "09 Mar 2026 02:09:54"
+    "updated": "09 Mar 2026 02:53:04"
   },
   {
     "agency": "Ambulance",
@@ -189,13 +171,31 @@
     "longitude": "149.126815",
     "region": "act",
     "time_of_call": "09 Mar 2026 02:29:54",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "09 Mar 2026 02:31:13"
+    "updated": "09 Mar 2026 02:50:00"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WARAMANGA",
+    "id": "017475-09032026",
+    "latitude": "-35.353501",
+    "longitude": "149.06067",
+    "region": "act",
+    "time_of_call": "09 Mar 2026 02:52:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WARAMANGA",
+    "updated": "09 Mar 2026 02:52:35"
   },
   {
     "title": "PACIFIC HWY, NERONG",
@@ -644,9 +644,9 @@
     "latitude": "-34.1971206659999",
     "longitude": "150.644104003",
     "region": "nsw",
-    "time_of_call": "09 Mar 2026 02:12:00",
+    "time_of_call": "09 Mar 2026 02:32:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Being controlled",
     "alert_level": "Not Applicable",
     "location": "PICTON RD, MALDON 2568",
     "council_area": "Wollondilly",
@@ -656,6 +656,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "9 Mar 2026 02:12"
+    "updated": "9 Mar 2026 02:32"
   }
 ]
