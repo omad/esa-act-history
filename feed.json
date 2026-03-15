@@ -1,5 +1,25 @@
 [
   {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HOUSE FIRE - FRASER",
+    "id": "004961-16032026",
+    "latitude": "-35.19302084",
+    "longitude": "149.03907927",
+    "region": "act",
+    "time_of_call": "16 Mar 2026 09:09:11",
+    "status": "Out / Completed",
+    "status_description": "Out / Completed description\r\n",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
+    "status_filter_label": "Out / Completed",
+    "type": "HOUSE FIRE",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/house-fire-0.svg",
+    "location": "FILSHIE CLOSE, FRASER, 2615",
+    "updated": "16 Mar 2026 09:24:04"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -33,7 +53,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "REID",
-    "updated": "16 Mar 2026 08:41:34"
+    "updated": "16 Mar 2026 08:59:26"
   },
   {
     "agency": "Ambulance",
@@ -105,7 +125,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "16 Mar 2026 08:43:26"
+    "updated": "16 Mar 2026 09:23:44"
   },
   {
     "agency": "Ambulance",
@@ -117,13 +137,13 @@
     "longitude": "149.031217",
     "region": "act",
     "time_of_call": "16 Mar 2026 08:20:44",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUFFY",
-    "updated": "16 Mar 2026 08:24:52"
+    "updated": "16 Mar 2026 09:34:36"
   },
   {
     "agency": "Ambulance",
@@ -141,7 +161,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "GARRAN",
-    "updated": "16 Mar 2026 08:41:39"
+    "updated": "16 Mar 2026 09:12:12"
   },
   {
     "agency": "Ambulance",
@@ -153,13 +173,13 @@
     "longitude": "149.099934",
     "region": "act",
     "time_of_call": "16 Mar 2026 08:42:08",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "YARRALUMLA",
-    "updated": "16 Mar 2026 08:46:59"
+    "updated": "16 Mar 2026 09:30:51"
   },
   {
     "agency": "Ambulance",
@@ -177,7 +197,133 @@
     "status_filter_label": "On Scene",
     "type": "PEDESTRIAN-PUSHBIKE-E-SCOOTER ACCIDENT",
     "location": "CANBERRA COLLEGE WODEN CAMPUS, LAUNCESTON STREET, PHILLIP, 2606",
-    "updated": "16 Mar 2026 08:53:30"
+    "updated": "16 Mar 2026 09:11:46"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYNEHAM",
+    "id": "019399-16032026",
+    "latitude": "-35.238929",
+    "longitude": "149.124748",
+    "region": "act",
+    "time_of_call": "16 Mar 2026 08:57:07",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYNEHAM",
+    "updated": "16 Mar 2026 09:16:28"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - HAWKER",
+    "id": "019400-16032026",
+    "latitude": "-35.246757",
+    "longitude": "149.03611",
+    "region": "act",
+    "time_of_call": "16 Mar 2026 09:04:36",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "HAWKER",
+    "updated": "16 Mar 2026 09:20:55"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - PAGE",
+    "id": "019402-16032026",
+    "latitude": "-35.238051",
+    "longitude": "149.050138",
+    "region": "act",
+    "time_of_call": "16 Mar 2026 09:10:40",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "PAGE",
+    "updated": "16 Mar 2026 09:28:57"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WANNIASSA",
+    "id": "019405-16032026",
+    "latitude": "-35.399113",
+    "longitude": "149.091978",
+    "region": "act",
+    "time_of_call": "16 Mar 2026 09:16:57",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WANNIASSA",
+    "updated": "16 Mar 2026 09:22:02"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - FORREST",
+    "id": "019407-16032026",
+    "latitude": "-35.318088",
+    "longitude": "149.12506",
+    "region": "act",
+    "time_of_call": "16 Mar 2026 09:25:39",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "FORREST",
+    "updated": "16 Mar 2026 09:33:06"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - TURNER",
+    "id": "019409-16032026",
+    "latitude": "-35.269392",
+    "longitude": "149.126815",
+    "region": "act",
+    "time_of_call": "16 Mar 2026 09:33:25",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "TURNER",
+    "updated": "16 Mar 2026 09:35:38"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LATHAM",
+    "id": "019410-16032026",
+    "latitude": "-35.217781",
+    "longitude": "149.034875",
+    "region": "act",
+    "time_of_call": "16 Mar 2026 09:34:23",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LATHAM",
+    "updated": "16 Mar 2026 09:36:49"
   },
   {
     "title": "Pulfords Road Nundle SF",
@@ -275,7 +421,7 @@
     "latitude": "-34.615229697",
     "longitude": "146.188409329",
     "region": "nsw",
-    "time_of_call": "15 Mar 2026 22:46:00",
+    "time_of_call": "16 Mar 2026 09:13:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -290,7 +436,7 @@
     "fire": "Yes",
     "size": "3 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "15 Mar 2026 22:46"
+    "updated": "16 Mar 2026 09:13"
   },
   {
     "title": "STONNINGTON RD, MOREE",
@@ -915,6 +1061,28 @@
     "updated": "15 Mar 2026 22:48"
   },
   {
+    "title": "Cordeaux Dam HR burn",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_649793",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.320235435",
+    "longitude": "150.745682717",
+    "region": "nsw",
+    "time_of_call": "16 Mar 2026 09:11:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "Cordeaux C10 (SHT)",
+    "council_area": "Wollondilly",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "64 ha",
+    "responsible_agency": "Water NSW",
+    "updated": "16 Mar 2026 09:11"
+  },
+  {
     "title": "2376 KINGSTOWN RD, BALALA",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_649803",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1009,18 +1177,18 @@
     "updated": "16 Mar 2026 08:44"
   },
   {
-    "title": "JOHNS RD, WADALBA",
+    "title": "MURRAWAL RD, WYONGAH",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_649859",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
     "link_text": "View more",
-    "latitude": "-33.274232",
-    "longitude": "151.472929",
+    "latitude": "-33.273501",
+    "longitude": "151.480806",
     "region": "nsw",
-    "time_of_call": "16 Mar 2026 08:46:00",
+    "time_of_call": "16 Mar 2026 08:58:00",
     "event_type": "burnt area",
-    "status": "Being controlled",
+    "status": "Under control",
     "alert_level": "Not Applicable",
-    "location": "JOHNS RD, WADALBA 2259",
+    "location": "MURRAWAL RD, WYONGAH 2259",
     "council_area": "Central Coast",
     "type": "Burn off",
     "type_description": "",
@@ -1028,6 +1196,6 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Mar 2026 08:46"
+    "updated": "16 Mar 2026 08:58"
   }
 ]
