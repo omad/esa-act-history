@@ -60,6 +60,26 @@
     "updated": "28 Mar 2026 21:05:29"
   },
   {
+    "agency": "Fire - Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HAZMAT INCIDENT - CANBERRA AIRPORT",
+    "id": "005768-29032026",
+    "latitude": "-35.311567",
+    "longitude": "149.1907161",
+    "region": "act",
+    "time_of_call": "29 Mar 2026 02:48:15",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "HAZMAT INCIDENT",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/incident-other_0.svg",
+    "location": "QANTAS LINK HANGER, BRINDABELLA CIRCUIT, CANBERRA AIRPORT, 2600",
+    "updated": "29 Mar 2026 02:53:57"
+  },
+  {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -69,13 +89,13 @@
     "longitude": "149.144037",
     "region": "act",
     "time_of_call": "29 Mar 2026 00:20:56",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "AINSLIE",
-    "updated": "29 Mar 2026 02:30:50"
+    "updated": "29 Mar 2026 02:43:10"
   },
   {
     "agency": "Ambulance",
@@ -93,7 +113,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "DUNLOP",
-    "updated": "29 Mar 2026 02:28:17"
+    "updated": "29 Mar 2026 02:54:41"
   },
   {
     "agency": "Ambulance",
@@ -105,13 +125,13 @@
     "longitude": "149.041664",
     "region": "act",
     "time_of_call": "29 Mar 2026 02:11:27",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "29 Mar 2026 02:21:06"
+    "updated": "29 Mar 2026 02:43:43"
   },
   {
     "agency": "Ambulance",
@@ -147,7 +167,61 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "WEETANGERA",
-    "updated": "29 Mar 2026 02:35:35"
+    "updated": "29 Mar 2026 02:42:08"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GRIFFITH",
+    "id": "022811-29032026",
+    "latitude": "-35.325773",
+    "longitude": "149.133842",
+    "region": "act",
+    "time_of_call": "29 Mar 2026 02:40:59",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GRIFFITH",
+    "updated": "29 Mar 2026 02:47:47"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRUCE",
+    "id": "022813-29032026",
+    "latitude": "-35.242777",
+    "longitude": "149.096998",
+    "region": "act",
+    "time_of_call": "29 Mar 2026 02:47:31",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRUCE",
+    "updated": "29 Mar 2026 02:57:17"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "022815-29032026",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "29 Mar 2026 02:52:55",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "29 Mar 2026 02:55:46"
   },
   {
     "title": "Denmire Trail Fire - Goonoo SCA",
@@ -729,9 +803,9 @@
     "latitude": "-31.772285461",
     "longitude": "152.652694702",
     "region": "nsw",
-    "time_of_call": "29 Mar 2026 02:30:00",
+    "time_of_call": "29 Mar 2026 02:55:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "PACIFIC HWY, MOORLAND 2443",
     "council_area": "Mid-Coast",
@@ -741,6 +815,6 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "29 Mar 2026 02:30"
+    "updated": "29 Mar 2026 02:55"
   }
 ]
