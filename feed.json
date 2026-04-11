@@ -29,13 +29,13 @@
     "longitude": "149.120754",
     "region": "act",
     "time_of_call": "11 Apr 2026 19:01:33",
-    "status": "On Scene",
+    "status": "Resource Allocation Pending",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "THEODORE",
-    "updated": "12 Apr 2026 04:35:59"
+    "updated": "12 Apr 2026 05:35:23"
   },
   {
     "agency": "Ambulance",
@@ -47,31 +47,13 @@
     "longitude": "149.163724",
     "region": "act",
     "time_of_call": "12 Apr 2026 01:22:57",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "SYMONSTON",
-    "updated": "12 Apr 2026 02:29:32"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CITY",
-    "id": "026217-12042026",
-    "latitude": "-35.282068",
-    "longitude": "149.12873",
-    "region": "act",
-    "time_of_call": "12 Apr 2026 03:15:25",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CITY",
-    "updated": "12 Apr 2026 04:11:09"
+    "updated": "12 Apr 2026 05:39:04"
   },
   {
     "agency": "Ambulance",
@@ -131,24 +113,6 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NGUNNAWAL",
-    "id": "026231-12042026",
-    "latitude": "-35.17365",
-    "longitude": "149.112409",
-    "region": "act",
-    "time_of_call": "12 Apr 2026 04:17:49",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "NGUNNAWAL",
-    "updated": "12 Apr 2026 04:48:39"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - CASEY",
     "id": "026232-12042026",
     "latitude": "-35.167812",
@@ -179,7 +143,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "NGUNNAWAL",
-    "updated": "12 Apr 2026 04:50:12"
+    "updated": "12 Apr 2026 05:33:10"
   },
   {
     "agency": "Ambulance",
@@ -198,6 +162,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WARAMANGA",
     "updated": "12 Apr 2026 04:43:49"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - CITY",
+    "id": "026236-12042026",
+    "latitude": "-35.282068",
+    "longitude": "149.12873",
+    "region": "act",
+    "time_of_call": "12 Apr 2026 05:22:36",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "CITY",
+    "updated": "12 Apr 2026 05:33:51"
   },
   {
     "title": "Jenolan Caves Road",
@@ -1650,5 +1632,25 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "12 Apr 2026 04:47"
+  },
+  {
+    "title": "HUME HWY, SUTTON FOREST",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_653978",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.6233060009999",
+    "longitude": "150.207084",
+    "region": "nsw",
+    "time_of_call": "12 Apr 2026 05:13:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "HUME HWY, SUTTON FOREST 2577",
+    "council_area": "Wingecarribee",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "12 Apr 2026 05:13"
   }
 ]
