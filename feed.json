@@ -1,25 +1,5 @@
 [
   {
-    "agency": "Fire",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "MOTOR VEHICLE ACCIDENT - RED HILL",
-    "id": "006604-14042026",
-    "latitude": "-35.34753",
-    "longitude": "149.12528",
-    "region": "act",
-    "time_of_call": "14 Apr 2026 06:53:22",
-    "status": "Out / Completed",
-    "status_description": "Out / Completed description\r\n",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20black%20triangle_1_2.svg",
-    "status_filter_label": "Out / Completed",
-    "type": "MOTOR VEHICLE ACCIDENT",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
-    "location": "HINDMARSH DRIVE, TAMAR STREET, RED HILL, 2603",
-    "updated": "14 Apr 2026 07:20:55"
-  },
-  {
     "agency": "Fire - Ambulance",
     "alert_level": "",
     "event_type": "incident",
@@ -29,15 +9,35 @@
     "longitude": "149.23752799",
     "region": "act",
     "time_of_call": "14 Apr 2026 08:03:18",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_0.svg",
     "status_filter_label": "Active",
     "type": "MOTOR VEHICLE ACCIDENT",
     "type_description": "",
     "type_icon": "/sites/default/files/incident-type-svgs/car-0.svg",
     "location": "PIALLIGO AVENUE, SUTTON ROAD, MAJURA, 0000",
-    "updated": "14 Apr 2026 08:03:36"
+    "updated": "14 Apr 2026 08:15:25"
+  },
+  {
+    "agency": "Fire",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "HAZARD REDUCTION BURN - PADDYS RIVER",
+    "id": "006608-14042026",
+    "latitude": "-35.3686981201",
+    "longitude": "148.9679260254",
+    "region": "act",
+    "time_of_call": "14 Apr 2026 08:17:10",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/status-svgs/narrow%20blue%20triangle-0_4.svg",
+    "status_filter_label": "Active",
+    "type": "HAZARD REDUCTION BURN",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_2.svg",
+    "location": "SWIMMING HOLE ROAD, BULLEN ROAD, PADDYS RIVER, 0000",
+    "updated": "14 Apr 2026 08:55:55"
   },
   {
     "agency": "Ambulance",
@@ -55,25 +55,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "14 Apr 2026 07:31:11"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - CASEY",
-    "id": "026682-14042026",
-    "latitude": "-35.167812",
-    "longitude": "149.097085",
-    "region": "act",
-    "time_of_call": "14 Apr 2026 06:32:46",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "CASEY",
-    "updated": "14 Apr 2026 07:39:34"
+    "updated": "14 Apr 2026 08:56:10"
   },
   {
     "agency": "Ambulance",
@@ -91,7 +73,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "STIRLING",
-    "updated": "14 Apr 2026 07:55:21"
+    "updated": "14 Apr 2026 08:08:48"
   },
   {
     "agency": "Ambulance",
@@ -109,25 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "MACARTHUR",
-    "updated": "14 Apr 2026 07:56:31"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "026688-14042026",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "14 Apr 2026 07:02:08",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "14 Apr 2026 08:01:27"
+    "updated": "14 Apr 2026 08:24:50"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +103,85 @@
     "longitude": "149.105773",
     "region": "act",
     "time_of_call": "14 Apr 2026 07:53:28",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "14 Apr 2026 08:10:10"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - WATSON",
+    "id": "026702-14042026",
+    "latitude": "-35.234652",
+    "longitude": "149.15807",
+    "region": "act",
+    "time_of_call": "14 Apr 2026 08:11:38",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "WATSON",
+    "updated": "14 Apr 2026 08:49:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - LYONS",
+    "id": "026703-14042026",
+    "latitude": "-35.340941",
+    "longitude": "149.072217",
+    "region": "act",
+    "time_of_call": "14 Apr 2026 08:17:10",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LYONS",
+    "updated": "14 Apr 2026 08:36:48"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - RUSSELL",
+    "id": "026704-14042026",
+    "latitude": "-35.298216",
+    "longitude": "149.150123",
+    "region": "act",
+    "time_of_call": "14 Apr 2026 08:18:42",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "RUSSELL",
+    "updated": "14 Apr 2026 08:24:52"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "026706-14042026",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "14 Apr 2026 08:54:34",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "KALEEN",
-    "updated": "14 Apr 2026 07:58:26"
+    "updated": "14 Apr 2026 08:57:26"
   },
   {
     "title": "Forestry HR Cairncross West ",
@@ -168,6 +204,28 @@
     "size": "0 ha",
     "responsible_agency": "Forestry Corporation of NSW",
     "updated": "13 Apr 2026 19:24"
+  },
+  {
+    "title": "Sunny Corner, Kellys",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_649394",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.392322749",
+    "longitude": "149.878964424",
+    "region": "nsw",
+    "time_of_call": "14 Apr 2026 08:22:00",
+    "event_type": "burnt area",
+    "status": "Under control",
+    "alert_level": "Planned Burn",
+    "location": "sunny corner",
+    "council_area": "Bathurst",
+    "type": "Hazard Reduction",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
+    "fire": "Yes",
+    "size": "95 ha",
+    "responsible_agency": "Forestry Corporation of NSW",
+    "updated": "14 Apr 2026 08:22"
   },
   {
     "title": "Jenolan Caves Road",
@@ -278,28 +336,6 @@
     "size": "184 ha",
     "responsible_agency": "Forestry Corporation of NSW",
     "updated": "14 Apr 2026 07:47"
-  },
-  {
-    "title": "Mongogarie HR",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_652000",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-28.9418006669999",
-    "longitude": "152.855272293",
-    "region": "nsw",
-    "time_of_call": "13 Apr 2026 16:31:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Planned Burn",
-    "location": "UPPER CHERRY TREE RD, HOGARTH RANGE 2469",
-    "council_area": "Richmond Valley",
-    "type": "Hazard Reduction",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/haz-reduct-fire_1.svg",
-    "fire": "Yes",
-    "size": "212 ha",
-    "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Apr 2026 16:31"
   },
   {
     "title": "Glengarrie FI Training",
@@ -466,7 +502,7 @@
     "latitude": "-29.135144308",
     "longitude": "153.385276795",
     "region": "nsw",
-    "time_of_call": "13 Apr 2026 21:15:00",
+    "time_of_call": "14 Apr 2026 08:12:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -478,7 +514,7 @@
     "fire": "Yes",
     "size": "416 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Apr 2026 21:15"
+    "updated": "14 Apr 2026 08:12"
   },
   {
     "title": "Massif Ridge stage 2",
@@ -1068,7 +1104,7 @@
     "latitude": "-35.9424010079999",
     "longitude": "149.93642807",
     "region": "nsw",
-    "time_of_call": "13 Apr 2026 16:24:00",
+    "time_of_call": "14 Apr 2026 08:09:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1080,7 +1116,7 @@
     "fire": "Yes",
     "size": "421 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Apr 2026 16:24"
+    "updated": "14 Apr 2026 08:09"
   },
   {
     "title": "MARIA RIVER RD, CRESCENT HEAD",
@@ -1424,31 +1460,6 @@
     "updated": "14 Apr 2026 03:19"
   },
   {
-    "title": "James St, Moree",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_654117",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-29.47412",
-    "longitude": "149.854675001",
-    "region": "nsw",
-    "time_of_call": "12 Apr 2026 18:22:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "status_description": "",
-    "status_icon": "/sites/default/files/alert-svgs/narrow%20black%20yellow%20triangle.svg",
-    "status_filter_label": "Active",
-    "alert_level": "Advice",
-    "location": "James St, Moree, NSW 2400",
-    "council_area": "Moree Plains",
-    "type": "Bush Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_2.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "12 Apr 2026 18:22"
-  },
-  {
     "title": "JAMES ST, MOREE",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_654120",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -1456,7 +1467,7 @@
     "latitude": "-29.47412",
     "longitude": "149.854675001",
     "region": "nsw",
-    "time_of_call": "13 Apr 2026 16:57:00",
+    "time_of_call": "14 Apr 2026 08:40:00",
     "event_type": "burnt area",
     "status": "Under control",
     "status_description": "",
@@ -1471,7 +1482,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Fire and Rescue NSW",
-    "updated": "13 Apr 2026 16:57"
+    "updated": "14 Apr 2026 08:40"
   },
   {
     "title": "Woodlands HR",
@@ -1685,7 +1696,7 @@
     "latitude": "-36.026056372",
     "longitude": "149.923553467",
     "region": "nsw",
-    "time_of_call": "13 Apr 2026 16:26:00",
+    "time_of_call": "14 Apr 2026 08:07:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -1697,7 +1708,7 @@
     "fire": "Yes",
     "size": "697 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "13 Apr 2026 16:26"
+    "updated": "14 Apr 2026 08:07"
   },
   {
     "title": "CLARENCE TOWN RD, SEAHAM",
@@ -2171,7 +2182,7 @@
     "latitude": "-30.0808666039999",
     "longitude": "153.140573502",
     "region": "nsw",
-    "time_of_call": "14 Apr 2026 06:56:00",
+    "time_of_call": "14 Apr 2026 08:22:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -2183,7 +2194,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "14 Apr 2026 06:56"
+    "updated": "14 Apr 2026 08:22"
   },
   {
     "title": "GOLDEN HWY, WARKWORTH",
@@ -2208,28 +2219,6 @@
     "updated": "14 Apr 2026 07:24"
   },
   {
-    "title": "KINGDON ST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_654344",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.0549569999999",
-    "longitude": "150.856647",
-    "region": "nsw",
-    "time_of_call": "14 Apr 2026 06:26:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "BILL ROSE SPORTS COMPLEX, KINGDON ST, SCONE 2337",
-    "council_area": "Upper Hunter",
-    "type": "Grass Fire",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_5.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Fire and Rescue NSW",
-    "updated": "14 Apr 2026 06:26"
-  },
-  {
     "title": "RED HILL RD, COOPERABUNG",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_654348",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -2250,28 +2239,6 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "14 Apr 2026 06:30"
-  },
-  {
-    "title": "OLD NORTHERN RD, GLENORIE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_654349",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.5497099999999",
-    "longitude": "151.00784",
-    "region": "nsw",
-    "time_of_call": "14 Apr 2026 07:25:00",
-    "event_type": "burnt area",
-    "status": "Not yet controlled",
-    "alert_level": "Not Applicable",
-    "location": "OLD NORTHERN RD, GLENORIE 2157",
-    "council_area": "The Hills",
-    "type": "Burn off",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/fire_1_0_1.svg",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "14 Apr 2026 07:25"
   },
   {
     "title": "THE LOOKDOWN RD, BUNGONIA",
@@ -2303,7 +2270,7 @@
     "latitude": "-35.991584022",
     "longitude": "150.004920959",
     "region": "nsw",
-    "time_of_call": "14 Apr 2026 07:58:00",
+    "time_of_call": "14 Apr 2026 08:02:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -2315,6 +2282,6 @@
     "fire": "Yes",
     "size": "181 ha",
     "responsible_agency": "NSW National Parks and Wildlife Service",
-    "updated": "14 Apr 2026 07:58"
+    "updated": "14 Apr 2026 08:02"
   }
 ]
