@@ -111,7 +111,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "26 Jul 2026 03:15:23"
+    "updated": "26 Jul 2026 04:23:32"
   },
   {
     "agency": "Ambulance",
@@ -129,7 +129,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BRADDON",
-    "updated": "26 Jul 2026 02:48:38"
+    "updated": "26 Jul 2026 03:41:47"
   },
   {
     "agency": "Ambulance",
@@ -147,25 +147,61 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TORRENS",
-    "updated": "26 Jul 2026 03:04:40"
+    "updated": "26 Jul 2026 04:21:38"
   },
   {
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - NICHOLLS",
-    "id": "052653-26072026",
-    "latitude": "-35.186387",
-    "longitude": "149.094445",
+    "title": "AMBULANCE RESPONSE - LATHAM",
+    "id": "052660-26072026",
+    "latitude": "-35.217781",
+    "longitude": "149.034875",
     "region": "act",
-    "time_of_call": "26 Jul 2026 03:24:27",
+    "time_of_call": "26 Jul 2026 04:03:52",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "LATHAM",
+    "updated": "26 Jul 2026 04:27:58"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BRADDON",
+    "id": "052661-26072026",
+    "latitude": "-35.270314",
+    "longitude": "149.135874",
+    "region": "act",
+    "time_of_call": "26 Jul 2026 04:11:17",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BRADDON",
+    "updated": "26 Jul 2026 04:16:43"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BANKS",
+    "id": "052662-26072026",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
+    "region": "act",
+    "time_of_call": "26 Jul 2026 04:14:13",
     "status": "Units On Route",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
     "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
-    "location": "NICHOLLS",
-    "updated": "26 Jul 2026 03:25:47"
+    "location": "BANKS",
+    "updated": "26 Jul 2026 04:27:40"
   },
   {
     "title": "Forestry HR McLeods Road New Patch",
@@ -1048,5 +1084,49 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "26 Jul 2026 00:13"
+  },
+  {
+    "title": "GARFIELD RD W, MARSDEN PARK",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_668387",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-33.689578",
+    "longitude": "150.847949",
+    "region": "nsw",
+    "time_of_call": "26 Jul 2026 04:30:00",
+    "event_type": "burnt area",
+    "status": "Not yet controlled",
+    "alert_level": "Not Applicable",
+    "location": "GARFIELD RD W, MARSDEN PARK 2765",
+    "council_area": "Blacktown",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Jul 2026 04:30"
+  },
+  {
+    "title": "(HUME HWY), MARULAN",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_668388",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.721756",
+    "longitude": "149.993156",
+    "region": "nsw",
+    "time_of_call": "26 Jul 2026 04:21:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "M31 (HUME HWY), MARULAN 2579",
+    "council_area": "Goulburn Mulwaree",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "26 Jul 2026 04:21"
   }
 ]
