@@ -49,13 +49,13 @@
     "longitude": "149.124748",
     "region": "act",
     "time_of_call": "16 Aug 2026 01:14:59",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "LYNEHAM",
-    "updated": "16 Aug 2026 02:38:02"
+    "updated": "16 Aug 2026 04:23:51"
   },
   {
     "agency": "Ambulance",
@@ -74,24 +74,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
     "updated": "16 Aug 2026 03:04:49"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - BONYTHON",
-    "id": "058356-16082026",
-    "latitude": "-35.435736",
-    "longitude": "149.081053",
-    "region": "act",
-    "time_of_call": "16 Aug 2026 02:12:05",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BONYTHON",
-    "updated": "16 Aug 2026 03:28:15"
   },
   {
     "agency": "Ambulance",
@@ -133,37 +115,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - MAJURA",
-    "id": "058364-16082026",
-    "latitude": "-35.269454",
-    "longitude": "149.21621",
-    "region": "act",
-    "time_of_call": "16 Aug 2026 03:24:44",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "MAJURA",
-    "updated": "16 Aug 2026 03:51:24"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - PAGE",
     "id": "058365-16082026",
     "latitude": "-35.238051",
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "16 Aug 2026 03:28:57",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "16 Aug 2026 03:32:47"
+    "updated": "16 Aug 2026 04:23:23"
   },
   {
     "agency": "Ambulance",
@@ -193,13 +157,49 @@
     "longitude": "149.019471",
     "region": "act",
     "time_of_call": "16 Aug 2026 03:50:43",
+    "status": "On Scene",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
+    "type": "AMBULANCE RESPONSE",
+    "location": "DUNLOP",
+    "updated": "16 Aug 2026 04:27:14"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
+    "id": "058371-16082026",
+    "latitude": "-35.184984",
+    "longitude": "149.135062",
+    "region": "act",
+    "time_of_call": "16 Aug 2026 04:30:44",
     "status": "Resource Allocation Pending",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
-    "location": "DUNLOP",
-    "updated": ""
+    "location": "GUNGAHLIN",
+    "updated": "16 Aug 2026 04:38:35"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - BANKS",
+    "id": "058372-16082026",
+    "latitude": "-35.471552",
+    "longitude": "149.100249",
+    "region": "act",
+    "time_of_call": "16 Aug 2026 04:31:19",
+    "status": "Units On Route",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
+    "type": "AMBULANCE RESPONSE",
+    "location": "BANKS",
+    "updated": "16 Aug 2026 04:36:25"
   },
   {
     "title": "Forestry HR Cairncross West ",
@@ -719,7 +719,7 @@
     "latitude": "-29.548437118",
     "longitude": "150.578643799",
     "region": "nsw",
-    "time_of_call": "16 Aug 2026 03:45:00",
+    "time_of_call": "16 Aug 2026 03:57:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Planned Burn",
@@ -731,7 +731,7 @@
     "fire": "Yes",
     "size": "50 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Aug 2026 03:45"
+    "updated": "16 Aug 2026 03:57"
   },
   {
     "title": "Armidale Rd Hazard Reduction",
@@ -965,7 +965,7 @@
     "latitude": "-33.236000061",
     "longitude": "151.127227783",
     "region": "nsw",
-    "time_of_call": "16 Aug 2026 03:43:00",
+    "time_of_call": "16 Aug 2026 03:57:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -975,7 +975,7 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Aug 2026 03:43"
+    "updated": "16 Aug 2026 03:57"
   },
   {
     "title": "MOGILLA RD, TANTAWANGALO",
@@ -985,7 +985,7 @@
     "latitude": "-36.7399684819999",
     "longitude": "149.637925319",
     "region": "nsw",
-    "time_of_call": "16 Aug 2026 03:42:00",
+    "time_of_call": "16 Aug 2026 03:57:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -997,7 +997,7 @@
     "fire": "Yes",
     "size": "6 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "16 Aug 2026 03:42"
+    "updated": "16 Aug 2026 03:57"
   },
   {
     "title": "GREENWOOD RD, MURRUMBATEMAN",
@@ -1245,7 +1245,7 @@
     "latitude": "-28.336288999",
     "longitude": "153.338539",
     "region": "nsw",
-    "time_of_call": "15 Aug 2026 18:48:00",
+    "time_of_call": "16 Aug 2026 03:54:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1257,7 +1257,7 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Aug 2026 18:48"
+    "updated": "16 Aug 2026 03:54"
   },
   {
     "title": "POST OFFICE LANE, CORINDI BEACH",
@@ -1289,7 +1289,7 @@
     "latitude": "-35.466839299",
     "longitude": "150.339714289",
     "region": "nsw",
-    "time_of_call": "15 Aug 2026 19:58:00",
+    "time_of_call": "16 Aug 2026 03:55:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -1301,7 +1301,7 @@
     "fire": "Yes",
     "size": "2 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "15 Aug 2026 19:58"
+    "updated": "16 Aug 2026 03:55"
   },
   {
     "title": "(PRINCES HWY), BEGA",
@@ -1327,27 +1327,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "15 Aug 2026 20:50"
-  },
-  {
-    "title": "GREAT WESTERN HWY, MOUNT LAMBIE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_670941",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.452863",
-    "longitude": "149.968455",
-    "region": "nsw",
-    "time_of_call": "16 Aug 2026 02:41:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "GREAT WESTERN HWY, MOUNT LAMBIE 2790",
-    "council_area": "Lithgow",
-    "type": "MVA/Transport",
-    "type_description": "",
-    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "16 Aug 2026 02:41"
   }
 ]
