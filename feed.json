@@ -91,7 +91,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "17 Aug 2026 05:42:10"
+    "updated": "17 Aug 2026 06:24:44"
   },
   {
     "agency": "Ambulance",
@@ -109,7 +109,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GUNGAHLIN",
-    "updated": "17 Aug 2026 05:27:48"
+    "updated": "17 Aug 2026 06:18:38"
   },
   {
     "agency": "Ambulance",
@@ -121,13 +121,13 @@
     "longitude": "149.12873",
     "region": "act",
     "time_of_call": "17 Aug 2026 04:06:45",
-    "status": "Units On Route",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CITY",
-    "updated": "17 Aug 2026 05:41:24"
+    "updated": "17 Aug 2026 06:23:17"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "THROSBY",
-    "updated": "17 Aug 2026 05:35:02"
+    "updated": "17 Aug 2026 05:55:40"
   },
   {
     "agency": "Ambulance",
@@ -163,7 +163,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "COOMBS",
-    "updated": "17 Aug 2026 05:47:10"
+    "updated": "17 Aug 2026 05:57:50"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +181,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CONDER",
-    "updated": "17 Aug 2026 05:50:37"
+    "updated": "17 Aug 2026 06:25:31"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +199,43 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "HOLT",
-    "updated": "17 Aug 2026 05:51:51"
+    "updated": "17 Aug 2026 05:55:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - KALEEN",
+    "id": "058623-17082026",
+    "latitude": "-35.227626",
+    "longitude": "149.105773",
+    "region": "act",
+    "time_of_call": "17 Aug 2026 06:02:24",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "KALEEN",
+    "updated": "17 Aug 2026 06:22:27"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - EVATT",
+    "id": "058624-17082026",
+    "latitude": "-35.212001",
+    "longitude": "149.066294",
+    "region": "act",
+    "time_of_call": "17 Aug 2026 06:23:19",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "EVATT",
+    "updated": "17 Aug 2026 06:29:38"
   },
   {
     "title": "Forestry HR Cairncross West ",
@@ -848,26 +884,6 @@
     "updated": "16 Aug 2026 22:30"
   },
   {
-    "title": "SKARRATT PARK GLENBROOK",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_671035",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-33.7675446599999",
-    "longitude": "150.641191006",
-    "region": "nsw",
-    "time_of_call": "17 Aug 2026 05:29:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "SKARRATT PARK GLENBROOK 2773",
-    "council_area": "Blue Mountains",
-    "type": "Truck Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "17 Aug 2026 05:29"
-  },
-  {
     "title": "(MID WESTERN HWY), WOODSTOCK",
     "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_671036",
     "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
@@ -897,9 +913,9 @@
     "latitude": "-35.459657001",
     "longitude": "144.93804",
     "region": "nsw",
-    "time_of_call": "17 Aug 2026 05:40:00",
+    "time_of_call": "17 Aug 2026 06:25:00",
     "event_type": "burnt area",
-    "status": "Responding",
+    "status": "Under control",
     "alert_level": "Not Applicable",
     "location": "WANDOOK RD, DENILIQUIN 2710",
     "council_area": "Edward River",
@@ -907,6 +923,48 @@
     "fire": "Yes",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Aug 2026 05:40"
+    "updated": "17 Aug 2026 06:25"
+  },
+  {
+    "title": "MAHOGANY PL, MEDOWIE",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_671038",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-32.73097",
+    "longitude": "151.84513",
+    "region": "nsw",
+    "time_of_call": "17 Aug 2026 06:18:00",
+    "event_type": "burnt area",
+    "status": "Being controlled",
+    "alert_level": "Not Applicable",
+    "location": "MAHOGANY PL, MEDOWIE 2318",
+    "council_area": "Port Stephens",
+    "type": "Car Fire",
+    "fire": "Yes",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Aug 2026 06:18"
+  },
+  {
+    "title": "MONTPELIER DR, THE OAKS",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_671039",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-34.080159",
+    "longitude": "150.569436",
+    "region": "nsw",
+    "time_of_call": "17 Aug 2026 06:24:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "MONTPELIER DR, THE OAKS 2570",
+    "council_area": "Wollondilly",
+    "type": "Fire Alarm",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/FIRE%20ALARM_1.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Aug 2026 06:24"
   }
 ]
