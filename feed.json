@@ -61,55 +61,19 @@
     "agency": "Ambulance",
     "alert_level": "",
     "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - TAYLOR",
-    "id": "058540-16082026",
-    "latitude": "-35.147416",
-    "longitude": "149.105924",
-    "region": "act",
-    "time_of_call": "16 Aug 2026 18:27:23",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "TAYLOR",
-    "updated": "17 Aug 2026 01:56:22"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
     "title": "AMBULANCE RESPONSE - BELCONNEN",
     "id": "058557-16082026",
     "latitude": "-35.235936",
     "longitude": "149.066372",
     "region": "act",
     "time_of_call": "16 Aug 2026 20:53:25",
-    "status": "Units On Route",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
-    "status_filter_label": "Units On Route",
-    "type": "AMBULANCE RESPONSE",
-    "location": "BELCONNEN",
-    "updated": "17 Aug 2026 02:24:07"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - GUNGAHLIN",
-    "id": "058584-16082026",
-    "latitude": "-35.184984",
-    "longitude": "149.135062",
-    "region": "act",
-    "time_of_call": "16 Aug 2026 23:35:55",
     "status": "On Scene",
     "status_description": "",
     "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
-    "location": "GUNGAHLIN",
-    "updated": "17 Aug 2026 01:46:14"
+    "location": "BELCONNEN",
+    "updated": "17 Aug 2026 02:40:49"
   },
   {
     "agency": "Ambulance",
@@ -139,13 +103,13 @@
     "longitude": "149.096998",
     "region": "act",
     "time_of_call": "16 Aug 2026 23:50:54",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "BRUCE",
-    "updated": "17 Aug 2026 02:00:15"
+    "updated": "17 Aug 2026 02:50:47"
   },
   {
     "agency": "Ambulance",
@@ -181,7 +145,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "MAWSON",
-    "updated": "17 Aug 2026 01:05:51"
+    "updated": "17 Aug 2026 02:43:57"
   },
   {
     "agency": "Ambulance",
@@ -199,7 +163,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "GRIFFITH",
-    "updated": "17 Aug 2026 02:14:32"
+    "updated": "17 Aug 2026 02:51:45"
   },
   {
     "agency": "Ambulance",
@@ -253,7 +217,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "KAMBAH",
-    "updated": "17 Aug 2026 02:11:51"
+    "updated": "17 Aug 2026 02:46:10"
   },
   {
     "agency": "Ambulance",
@@ -272,6 +236,24 @@
     "type": "AMBULANCE RESPONSE",
     "location": "WRIGHT",
     "updated": "17 Aug 2026 02:30:40"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - STRATHNAIRN",
+    "id": "058602-17082026",
+    "latitude": "-35.237286",
+    "longitude": "148.98074",
+    "region": "act",
+    "time_of_call": "17 Aug 2026 02:54:41",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "STRATHNAIRN",
+    "updated": "17 Aug 2026 02:55:12"
   },
   {
     "title": "Forestry HR Cairncross West ",
@@ -927,7 +909,7 @@
     "latitude": "-33.325019836",
     "longitude": "149.149887085",
     "region": "nsw",
-    "time_of_call": "17 Aug 2026 02:30:00",
+    "time_of_call": "17 Aug 2026 02:36:00",
     "event_type": "burnt area",
     "status": "Under control",
     "alert_level": "Not Applicable",
@@ -939,6 +921,28 @@
     "fire": "No",
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
-    "updated": "17 Aug 2026 02:30"
+    "updated": "17 Aug 2026 02:36"
+  },
+  {
+    "title": "MONARO HWY, COLINTON",
+    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_671033",
+    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+    "link_text": "View more",
+    "latitude": "-35.899554",
+    "longitude": "149.173326001",
+    "region": "nsw",
+    "time_of_call": "17 Aug 2026 02:23:00",
+    "event_type": "burnt area",
+    "status": "Responding",
+    "alert_level": "Not Applicable",
+    "location": "PROSPECT HILL, MONARO HWY, COLINTON 2626",
+    "council_area": "Snowy Monaro",
+    "type": "MVA/Transport",
+    "type_description": "",
+    "type_icon": "/sites/default/files/incident-type-svgs/car-0_0.svg",
+    "fire": "No",
+    "size": "0 ha",
+    "responsible_agency": "Rural Fire Service",
+    "updated": "17 Aug 2026 02:23"
   }
 ]
