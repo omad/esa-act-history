@@ -73,7 +73,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "CAMPBELL",
-    "updated": "18 Aug 2026 17:19:53"
+    "updated": "19 Aug 2026 03:41:05"
   },
   {
     "agency": "Ambulance",
@@ -85,13 +85,13 @@
     "longitude": "149.090018",
     "region": "act",
     "time_of_call": "18 Aug 2026 22:27:47",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PHILLIP",
-    "updated": "19 Aug 2026 02:21:59"
+    "updated": "19 Aug 2026 03:55:38"
   },
   {
     "agency": "Ambulance",
@@ -121,13 +121,13 @@
     "longitude": "149.050138",
     "region": "act",
     "time_of_call": "18 Aug 2026 23:22:16",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "PAGE",
-    "updated": "19 Aug 2026 02:08:08"
+    "updated": "19 Aug 2026 03:56:34"
   },
   {
     "agency": "Ambulance",
@@ -145,7 +145,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "BELCONNEN",
-    "updated": "19 Aug 2026 02:33:31"
+    "updated": "19 Aug 2026 03:58:49"
   },
   {
     "agency": "Ambulance",
@@ -175,13 +175,13 @@
     "longitude": "149.126815",
     "region": "act",
     "time_of_call": "19 Aug 2026 00:43:39",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "TURNER",
-    "updated": "19 Aug 2026 03:09:59"
+    "updated": "19 Aug 2026 03:53:27"
   },
   {
     "agency": "Ambulance",
@@ -218,24 +218,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "FRANKLIN",
     "updated": "19 Aug 2026 02:48:40"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - KAMBAH",
-    "id": "059183-19082026",
-    "latitude": "-35.384074",
-    "longitude": "149.06111",
-    "region": "act",
-    "time_of_call": "19 Aug 2026 01:59:10",
-    "status": "On Scene",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
-    "status_filter_label": "On Scene",
-    "type": "AMBULANCE RESPONSE",
-    "location": "KAMBAH",
-    "updated": "19 Aug 2026 02:44:23"
   },
   {
     "agency": "Ambulance",
@@ -289,7 +271,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "CALWELL",
-    "updated": "19 Aug 2026 03:31:02"
+    "updated": "19 Aug 2026 03:44:23"
   },
   {
     "agency": "Ambulance",
@@ -325,7 +307,7 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "O'CONNOR",
-    "updated": "19 Aug 2026 03:32:51"
+    "updated": "19 Aug 2026 03:44:55"
   },
   {
     "agency": "Ambulance",
@@ -343,7 +325,25 @@
     "status_filter_label": "Resource Allocation Pending",
     "type": "AMBULANCE RESPONSE",
     "location": "NARRABUNDAH",
-    "updated": "19 Aug 2026 03:34:17"
+    "updated": "19 Aug 2026 03:44:59"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - GREENWAY",
+    "id": "059197-19082026",
+    "latitude": "-35.411775",
+    "longitude": "149.064968",
+    "region": "act",
+    "time_of_call": "19 Aug 2026 03:43:02",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "GREENWAY",
+    "updated": "19 Aug 2026 03:51:27"
   },
   {
     "title": "Forestry HR Cairncross West ",
@@ -781,25 +781,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "18 Aug 2026 17:27"
-  },
-  {
-    "title": "MITCHELL HWY, MARYVALE",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_671198",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.4739265439999",
-    "longitude": "148.906799316",
-    "region": "nsw",
-    "time_of_call": "19 Aug 2026 03:07:00",
-    "event_type": "burnt area",
-    "status": "Under control",
-    "alert_level": "Not Applicable",
-    "location": "MITCHELL HWY, MARYVALE 2820",
-    "council_area": "Dubbo Regional",
-    "type": "Car Fire",
-    "fire": "Yes",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "19 Aug 2026 03:07"
   }
 ]
