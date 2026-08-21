@@ -305,13 +305,13 @@
     "longitude": "149.076954",
     "region": "act",
     "time_of_call": "22 Aug 2026 00:39:44",
-    "status": "Resource Allocation Pending",
+    "status": "Units On Route",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_3.svg",
+    "status_filter_label": "Units On Route",
     "type": "AMBULANCE RESPONSE",
     "location": "MCKELLAR",
-    "updated": "22 Aug 2026 00:47:29"
+    "updated": "22 Aug 2026 03:10:06"
   },
   {
     "agency": "Ambulance",
@@ -330,24 +330,6 @@
     "type": "AMBULANCE RESPONSE",
     "location": "BONYTHON",
     "updated": "22 Aug 2026 02:00:19"
-  },
-  {
-    "agency": "Ambulance",
-    "alert_level": "",
-    "event_type": "incident",
-    "title": "AMBULANCE RESPONSE - FRANKLIN",
-    "id": "060036-22082026",
-    "latitude": "-35.199225",
-    "longitude": "149.144681",
-    "region": "act",
-    "time_of_call": "22 Aug 2026 01:22:53",
-    "status": "Finished",
-    "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20triangle-0.svg",
-    "status_filter_label": "Finished",
-    "type": "AMBULANCE RESPONSE",
-    "location": "FRANKLIN",
-    "updated": "22 Aug 2026 02:24:35"
   },
   {
     "agency": "Ambulance",
@@ -377,13 +359,13 @@
     "longitude": "149.064271",
     "region": "act",
     "time_of_call": "22 Aug 2026 01:50:28",
-    "status": "Resource Allocation Pending",
+    "status": "On Scene",
     "status_description": "",
-    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
-    "status_filter_label": "Resource Allocation Pending",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_1.svg",
+    "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "COOK",
-    "updated": "22 Aug 2026 01:54:14"
+    "updated": "22 Aug 2026 03:08:59"
   },
   {
     "agency": "Ambulance",
@@ -419,7 +401,7 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FLYNN",
-    "updated": "22 Aug 2026 02:40:38"
+    "updated": "22 Aug 2026 02:49:45"
   },
   {
     "agency": "Ambulance",
@@ -437,7 +419,43 @@
     "status_filter_label": "On Scene",
     "type": "AMBULANCE RESPONSE",
     "location": "FISHER",
-    "updated": "22 Aug 2026 02:38:22"
+    "updated": "22 Aug 2026 02:55:37"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - ACTON",
+    "id": "060048-22082026",
+    "latitude": "-35.289989",
+    "longitude": "149.115669",
+    "region": "act",
+    "time_of_call": "22 Aug 2026 02:44:49",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "ACTON",
+    "updated": "22 Aug 2026 02:51:07"
+  },
+  {
+    "agency": "Ambulance",
+    "alert_level": "",
+    "event_type": "incident",
+    "title": "AMBULANCE RESPONSE - MELBA",
+    "id": "060049-22082026",
+    "latitude": "-35.209077",
+    "longitude": "149.057326",
+    "region": "act",
+    "time_of_call": "22 Aug 2026 03:10:02",
+    "status": "Resource Allocation Pending",
+    "status_description": "",
+    "status_icon": "/sites/default/files/type-ambulance-svgs/narrow%20ambulance%20blue-0_2.svg",
+    "status_filter_label": "Resource Allocation Pending",
+    "type": "AMBULANCE RESPONSE",
+    "location": "MELBA",
+    "updated": "22 Aug 2026 03:10:36"
   },
   {
     "title": "NEWELL HWY, GILGANDRA",
@@ -981,25 +999,5 @@
     "size": "0 ha",
     "responsible_agency": "Rural Fire Service",
     "updated": "22 Aug 2026 00:31"
-  },
-  {
-    "title": "ALNWICK RD, MILLERS FOREST",
-    "id": "https___incidents_rfs_nsw_gov_au_api_v1_incidents_672467",
-    "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me",
-    "link_text": "View more",
-    "latitude": "-32.777001",
-    "longitude": "151.701465",
-    "region": "nsw",
-    "time_of_call": "22 Aug 2026 02:31:00",
-    "event_type": "burnt area",
-    "status": "Responding",
-    "alert_level": "Not Applicable",
-    "location": "ALNWICK RD, MILLERS FOREST 2324",
-    "council_area": "Maitland",
-    "type": "Assist Other Agency",
-    "fire": "No",
-    "size": "0 ha",
-    "responsible_agency": "Rural Fire Service",
-    "updated": "22 Aug 2026 02:31"
   }
 ]
